@@ -598,7 +598,138 @@
       ],
       "url": "https://t.me/zaihuapd/41238",
       "scraped_at": "2026-05-06T13:01:07.542481"
+    },
+    {
+      "id": "zaihuapd_41239",
+      "channel": "zaihuapd",
+      "text": "苹果计划开放第三方 AI 模型选择苹果计划在今年秋季推出的 iOS 27、iPadOS 27 和 macOS 27 中，允许用户在系统功能里自行选择外部 AI 模型，用于文本生成、图像生成和编辑等任务。内部测试已覆盖谷歌和 Anthropic，这也意味着 ChatGPT 在 Apple Intelligence 里的独家第三方位置可能被打破。这项功能在内部被称为 Extensions，用户可在设置中选择接入的 AI 服务，并用于 Siri、Writing Tools 和 Image Playground 等功能。苹果仍会继续提供自研模型，但整体方向已经从单一接入，转向把设备做成可切换模型的 AI 平台。Bloomberg🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "苹果计划开放第三方 AI 模型选择苹果计划在今年秋季推出的 iOS 27、iPadOS 27 和 macOS 27 中，允许用户在系统功能里自行选择外部 AI 模型，用于文本生成、图像生成和编辑等任务。内部测试已覆盖谷歌和 Anthropic，这也意味着 ChatGPT 在 Apple Intelligence 里的独家第三方位置可能被打破。这项功能在内部被称为 Extensions，用户可在设置中选择接入的 AI 服务，并用于 Siri、Writing Tools 和 Image Playground 等功能。苹果仍会继续提供自研模型，但整体方向已经从单一接入，转向把设备做成可切换模型的 AI 平台。Bloomberg",
+      "datetime": "2026-05-06T05:38:50+00:00",
+      "views": "9.64K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-05/ios-27-features-apple-plans-to-let-users-swap-models-across-apple-intelligence"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41239",
+      "scraped_at": "2026-05-06T17:00:19.775373"
+    },
+    {
+      "id": "zaihuapd_41240",
+      "channel": "zaihuapd",
+      "text": "DeepSeek 据称融资估值将达 450 亿美元中国国家集成电路产业投资基金据称正洽谈领投 DeepSeek 首轮融资，这轮融资对 DeepSeek 的估值可能达到约 450 亿美元。这也是 DeepSeek 首次进行大规模外部融资。这笔融资如果落地，意味着国资背景资金正在更深介入中国 AI 核心公司。Bloomberg🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "DeepSeek 据称融资估值将达 450 亿美元中国国家集成电路产业投资基金据称正洽谈领投 DeepSeek 首轮融资，这轮融资对 DeepSeek 的估值可能达到约 450 亿美元。这也是 DeepSeek 首次进行大规模外部融资。这笔融资如果落地，意味着国资背景资金正在更深介入中国 AI 核心公司。Bloomberg",
+      "datetime": "2026-05-06T06:28:35+00:00",
+      "views": "8.37K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding-ft-says"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41240",
+      "scraped_at": "2026-05-06T17:00:19.775899"
+    },
+    {
+      "id": "zaihuapd_41241",
+      "channel": "zaihuapd",
+      "text": "商汤联创谈论 AI 竞争：和 OpenAI 有差距，但我们的成本只有它十分之一CNBC 报道，商汤公司把成本效率作为生成式 AI 竞争重点。其新模型 SenseNova U1 将语言和视觉处理整合为单一系统，商汤称这样可提升速度和效率。公司联创称该性能仍与 OpenAI GPT Image 2、Gemini Nano Banana 有差距。但该模型做文生图的成本约为 OpenAI ChatGPT Images 2.0 的十分之一。据了解，公司 2025 年净亏损收窄 58.6%，并在下半年首次录得正 EBITDA。CNBC🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "商汤联创谈论 AI 竞争：和 OpenAI 有差距，但我们的成本只有它十分之一CNBC 报道，商汤公司把成本效率作为生成式 AI 竞争重点。其新模型 SenseNova U1 将语言和视觉处理整合为单一系统，商汤称这样可提升速度和效率。公司联创称该性能仍与 OpenAI GPT Image 2、Gemini Nano Banana 有差距。但该模型做文生图的成本约为 OpenAI ChatGPT Images 2.0 的十分之一。据了解，公司 2025 年净亏损收窄 58.6%，并在下半年首次录得正 EBITDA。CNBC",
+      "datetime": "2026-05-06T08:12:51+00:00",
+      "views": "4.2K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41241",
+      "scraped_at": "2026-05-06T17:00:19.776427"
+    },
+    {
+      "id": "zaihuapd_41242",
+      "channel": "zaihuapd",
+      "text": "谷歌将在 I/O 大会发布安卓 17，采用与 iOS 26 类似的液态玻璃设计谷歌预告于当地时间 5 月 12 日的 I/O 大会发布安卓 17，系统将采用液态玻璃设计。这种半透明 UI 使用反射、折射和动态变形渲染，与 iOS 26 设计语言趋同。液态玻璃对硬件图形和续航要求较高，谷歌需平衡功耗与视觉效果。下半年基于安卓 17 的国产定制系统有望引入该设计，提升交互界面的通透感。快科技更新：谷歌 Android 负责人 Sameer Samat 否认 Android 将推出类似苹果“Liquid Glass”的大改版。谷歌将在 5 月 12 日举行 The Android Show，预计会公布一批 Android 生态更新。现阶段可以确认的是，外界担心的这类整体视觉改版并不在这次调整范围内。🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "谷歌将在 I/O 大会发布安卓 17，采用与 iOS 26 类似的液态玻璃设计谷歌预告于当地时间 5 月 12 日的 I/O 大会发布安卓 17，系统将采用液态玻璃设计。这种半透明 UI 使用反射、折射和动态变形渲染，与 iOS 26 设计语言趋同。液态玻璃对硬件图形和续航要求较高，谷歌需平衡功耗与视觉效果。下半年基于安卓 17 的国产定制系统有望引入该设计，提升交互界面的通透感。快科技更新：谷歌 Android 负责人 Sameer Samat 否认 Android 将推出类似苹果“Liquid Glass”的大改版。谷歌将在 5 月 12 日举行 The Android Show，预计会公布一批 Android 生态更新。现阶段可以确认的是，外界担心的这类整体视觉改版并不在这次调整范围内。",
+      "datetime": "2026-05-06T09:04:05+00:00",
+      "views": "11.2K",
+      "source_links": [
+        {
+          "text": "快科技",
+          "url": "https://m.mydrivers.com/newsview/1120324.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41242",
+      "scraped_at": "2026-05-06T21:00:23.346735"
+    },
+    {
+      "id": "zaihuapd_41244",
+      "channel": "zaihuapd",
+      "text": "Google Chrome 被指在未经许可下静默下载 4 GB AI 模型安全研究员 Alexander Hanff 称，Google Chrome 在未征得用户同意的情况下，向符合硬件条件的设备后台静默下载约 4 GB 的 Gemini Nano AI 模型文件（weights.bin）。即便手动删除该文件，浏览器也会自动重下。该行为被指违反欧盟 GDPR 等法律，剥夺了用户设备控制权。此次静默部署引发了对环境及带宽成本的担忧。研究员估算，若覆盖 10 亿用户，仅模型分发产生的碳排放就可能达 6 万吨。此外，4 GB 的数据传输也会增加限额上网用户的经济负担。此前 Anthropic 的 Claude 应用也被指存在类似行为，反映出科技巨头强推 AI 部署的趋势。Tom's Hardware🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "Google Chrome 被指在未经许可下静默下载 4 GB AI 模型安全研究员 Alexander Hanff 称，Google Chrome 在未征得用户同意的情况下，向符合硬件条件的设备后台静默下载约 4 GB 的 Gemini Nano AI 模型文件（weights.bin）。即便手动删除该文件，浏览器也会自动重下。该行为被指违反欧盟 GDPR 等法律，剥夺了用户设备控制权。此次静默部署引发了对环境及带宽成本的担忧。研究员估算，若覆盖 10 亿用户，仅模型分发产生的碳排放就可能达 6 万吨。此外，4 GB 的数据传输也会增加限额上网用户的经济负担。此前 Anthropic 的 Claude 应用也被指存在类似行为，反映出科技巨头强推 AI 部署的趋势。Tom's Hardware",
+      "datetime": "2026-05-06T11:15:58+00:00",
+      "views": "7.18K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41244",
+      "scraped_at": "2026-05-06T21:00:23.347308"
+    },
+    {
+      "id": "zaihuapd_41245",
+      "channel": "zaihuapd",
+      "text": "韩国三星电子决定退出LED业务  由于集团整体业绩未达预期，韩国三星电子最近开始进行业务结构调整，其中半导体部门决定退出LED业务。同时，三星电子在半导体等优势业务板块面临的挑战也越来越大，其股价今年以来已下跌超23%。数据显示，外国投资者已经连续28个交易日净卖出三星电子股票，刷新了有史以来最长净卖出纪录。在此期间，三星电子市值蒸发了约90万亿韩元（约合人民币4671亿元）。   央视财经📮热点投稿 @ZaiHuabot 京东淘宝无门槛红包 m.fanli.me",
+      "clean_text": "韩国三星电子决定退出LED业务  由于集团整体业绩未达预期，韩国三星电子最近开始进行业务结构调整，其中半导体部门决定退出LED业务。同时，三星电子在半导体等优势业务板块面临的挑战也越来越大，其股价今年以来已下跌超23%。数据显示，外国投资者已经连续28个交易日净卖出三星电子股票，刷新了有史以来最长净卖出纪录。在此期间，三星电子市值蒸发了约90万亿韩元（约合人民币4671亿元）。   央视财经📮热点投稿 @ZaiHuabot 京东淘宝无门槛红包 m.fanli.me",
+      "datetime": "2026-05-06T11:55:25+00:00",
+      "views": "5.74K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41245",
+      "scraped_at": "2026-05-06T21:00:23.347913"
     }
   ],
-  "last_update": "2026-05-06T13:01:07.551311"
+  "last_update": "2026-05-06T21:00:23.351187"
 }
