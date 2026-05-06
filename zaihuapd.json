@@ -1,0 +1,604 @@
+{
+  "messages": [
+    {
+      "id": "zaihuapd_41210",
+      "channel": "zaihuapd",
+      "text": "🤖Grok 遭遇提示注入攻击导致 17.5 万美元转账，资金已获归还2026 年 5 月 4 日，攻击者向 Grok 发送包含摩尔斯电码的消息，利用提示注入手段诱导其输出转账指令。财务代理机器人 Bankrbot 解析该输出后，将 Grok 在 Base 链钱包中的 30 亿枚 $DRB 代币（约合 17.5 万美元）转至攻击者地址。此次风险源于 Bankrbot 将不受信任的 LLM 文本直接作为财务授权的设计缺陷。事后 Bankrbot 已禁用 Grok 的指令权限。攻击者在抛售代币后已将资金以 ETH 和 USDC 形式退回，xAI 确认未造成最终经济损失。雪糕战神🍦|Bankr|The Crypto Times🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "🤖Grok 遭遇提示注入攻击导致 17.5 万美元转账，资金已获归还2026 年 5 月 4 日，攻击者向 Grok 发送包含摩尔斯电码的消息，利用提示注入手段诱导其输出转账指令。财务代理机器人 Bankrbot 解析该输出后，将 Grok 在 Base 链钱包中的 30 亿枚 $DRB 代币（约合 17.5 万美元）转至攻击者地址。此次风险源于 Bankrbot 将不受信任的 LLM 文本直接作为财务授权的设计缺陷。事后 Bankrbot 已禁用 Grok 的指令权限。攻击者在抛售代币后已将资金以 ETH 和 USDC 形式退回，xAI 确认未造成最终经济损失。雪糕战神🍦|Bankr|The Crypto Times",
+      "datetime": "2026-05-04T15:26:46+00:00",
+      "views": "18.1K",
+      "source_links": [
+        {
+          "text": "雪糕战神🍦",
+          "url": "https://x.com/Xuegaogx/status/2051267266256551997"
+        },
+        {
+          "text": "Bankr",
+          "url": "https://x.com/bankrbot/status/2051192437797015859"
+        },
+        {
+          "text": "The Crypto Times",
+          "url": "https://www.cryptotimes.io/2026/05/04/xais-grok-ai-loses-175k-in-crypto-heist-via-clever-prompt-injection-then-gets-it-all-back/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41210",
+      "scraped_at": "2026-05-05T21:57:02.784003"
+    },
+    {
+      "id": "zaihuapd_41211",
+      "channel": "zaihuapd",
+      "text": "🍏Apple 推出新款彩虹系列表带、表盘及墙纸Apple 今日推出新款 Apple Watch 彩虹版回环式运动表带、配套表盘及 iPhone 和 iPad 墙纸。表带采用 11 种颜色尼龙纱线编织，呈现立体运动感，售价 RMB 379，提供 40、42、46 毫米尺寸，即日起订购，本周稍后零售。表盘可动态折射色彩，支持自定义；墙纸同样可自定义色彩，两者均随 watchOS 26.5、iOS 26.5 及 iPadOS 26.5 发布。Apple Newsroom🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "🍏Apple 推出新款彩虹系列表带、表盘及墙纸Apple 今日推出新款 Apple Watch 彩虹版回环式运动表带、配套表盘及 iPhone 和 iPad 墙纸。表带采用 11 种颜色尼龙纱线编织，呈现立体运动感，售价 RMB 379，提供 40、42、46 毫米尺寸，即日起订购，本周稍后零售。表盘可动态折射色彩，支持自定义；墙纸同样可自定义色彩，两者均随 watchOS 26.5、iOS 26.5 及 iPadOS 26.5 发布。Apple Newsroom",
+      "datetime": "2026-05-04T15:58:36+00:00",
+      "views": "17.2K",
+      "source_links": [
+        {
+          "text": "Apple Newsroom",
+          "url": "https://www.apple.com.cn/newsroom/2026/05/apple-introduces-a-new-rainbow-collection/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41211",
+      "scraped_at": "2026-05-05T21:57:02.784644"
+    },
+    {
+      "id": "zaihuapd_41212",
+      "channel": "zaihuapd",
+      "text": "OpenClaw 开通官方微博，25.2万 Star 位居全球软件星标榜首  OpenClaw 官方微博账号发文称，感谢微博官方邀请入驻，并表示 OpenClaw 的目标是“让人人都能解锁 AI 无穷能力”。账号同时向开发者与网友致谢，称 Star 和反馈是迭代动力，后续将在该账号同步 OpenClaw 的技术进展。  此外，在发布 2026.3.1 版本后，其 GitHub 星标数达到 25.2 万，超越 React 位居全球软件星标榜首。  OpenClaw🍀在花频道🍵茶馆聊天📮投稿",
+      "clean_text": "OpenClaw 开通官方微博，25.2万 Star 位居全球软件星标榜首  OpenClaw 官方微博账号发文称，感谢微博官方邀请入驻，并表示 OpenClaw 的目标是“让人人都能解锁 AI 无穷能力”。账号同时向开发者与网友致谢，称 Star 和反馈是迭代动力，后续将在该账号同步 OpenClaw 的技术进展。  此外，在发布 2026.3.1 版本后，其 GitHub 星标数达到 25.2 万，超越 React 位居全球软件星标榜首。  OpenClaw🍀在花频道🍵茶馆聊天📮投稿",
+      "datetime": "2026-05-04T23:52:36+00:00",
+      "views": "15.1K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41212",
+      "scraped_at": "2026-05-05T21:57:02.785288"
+    },
+    {
+      "id": "zaihuapd_41213",
+      "channel": "zaihuapd",
+      "text": "🍏苹果抨击欧盟《数字市场法案》评估结果，称其威胁隐私并阻碍创新苹果产品与合规副总裁 Kyle Andeer 对欧盟委员会关于《数字市场法案》（DMA）的积极评估表示不满。他指出法案强制苹果与竞争对手共享技术，会威胁用户隐私并阻碍创新。例如，强制互通可能导致其他公司在未经许可下获取用户 Wi-Fi 登录记录；而 AirPods 翻译功能因必须先行适配竞争对手的产品，已在欧洲延迟发布。苹果重申反对第三方应用商店，认为这会引入色情等违规内容。尽管 DMA 尚未影响苹果销量，但苹果认为该法规存在不公平针对性。此外，苹果与谷歌近期在加州成功游说，击败了一项旨在限制应用商店“自我优待”的法案。AppleInsider🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "🍏苹果抨击欧盟《数字市场法案》评估结果，称其威胁隐私并阻碍创新苹果产品与合规副总裁 Kyle Andeer 对欧盟委员会关于《数字市场法案》（DMA）的积极评估表示不满。他指出法案强制苹果与竞争对手共享技术，会威胁用户隐私并阻碍创新。例如，强制互通可能导致其他公司在未经许可下获取用户 Wi-Fi 登录记录；而 AirPods 翻译功能因必须先行适配竞争对手的产品，已在欧洲延迟发布。苹果重申反对第三方应用商店，认为这会引入色情等违规内容。尽管 DMA 尚未影响苹果销量，但苹果认为该法规存在不公平针对性。此外，苹果与谷歌近期在加州成功游说，击败了一项旨在限制应用商店“自我优待”的法案。AppleInsider",
+      "datetime": "2026-05-05T01:10:49+00:00",
+      "views": "14.3K",
+      "source_links": [
+        {
+          "text": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/05/04/eu-dma-after-action-review-didnt-go-the-way-that-apple-wanted"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41213",
+      "scraped_at": "2026-05-05T21:57:02.785851"
+    },
+    {
+      "id": "zaihuapd_41214",
+      "channel": "zaihuapd",
+      "text": "Trump 政府考虑对新 AI 模型实施发布前审查特朗普政府正考虑改变此前的去监管立场，讨论对新 AI 模型在公开发布前实施政府审查。白宫计划通过行政命令成立由科技高管与政府官员组成的 AI 工作组，共同研究监管程序。上周，白宫官员已就此计划与 Anthropic、Google 和 OpenAI 的高管进行了会谈。此次政策转向受到 Anthropic 近期发布的 Mythos 模型影响，该模型在识别软件漏洞方面的能力引发了安全担忧。目前白宫幕僚长 Susie Wiles 和财政部长 Scott Bessent 已接管 AI 政策制定。拟议的审查机制旨在让政府获得对模型的优先评估权，以在防范网络安全风险的同时，平衡与中国的技术竞争。The New York Times🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "Trump 政府考虑对新 AI 模型实施发布前审查特朗普政府正考虑改变此前的去监管立场，讨论对新 AI 模型在公开发布前实施政府审查。白宫计划通过行政命令成立由科技高管与政府官员组成的 AI 工作组，共同研究监管程序。上周，白宫官员已就此计划与 Anthropic、Google 和 OpenAI 的高管进行了会谈。此次政策转向受到 Anthropic 近期发布的 Mythos 模型影响，该模型在识别软件漏洞方面的能力引发了安全担忧。目前白宫幕僚长 Susie Wiles 和财政部长 Scott Bessent 已接管 AI 政策制定。拟议的审查机制旨在让政府获得对模型的优先评估权，以在防范网络安全风险的同时，平衡与中国的技术竞争。The New York Times",
+      "datetime": "2026-05-05T02:00:54+00:00",
+      "views": "14.3K",
+      "source_links": [
+        {
+          "text": "The New York Times",
+          "url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41214",
+      "scraped_at": "2026-05-05T21:57:02.786377"
+    },
+    {
+      "id": "zaihuapd_41215",
+      "channel": "zaihuapd",
+      "text": "🍏iOS 27 将支持在钱包 App 中自定义创建凭证iOS 27 将为钱包 App 引入凭证构建工具，允许用户通过扫描二维码或拍摄图片，将原本不支持 Apple 钱包的第三方凭证转换为数字版本。用户只需点击“+”号并选择新选项，即可为门票、会员卡和礼品卡等创建自定义凭证。该工具支持自定义样式、颜色和文本，并提供标准、会员及活动三类默认模板。此功能旨在解决部分应用缺乏原生钱包支持的问题。相关信息此前曾在 4 月的代码泄露中出现，目前由彭博社进一步确认。AppleInsider🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "🍏iOS 27 将支持在钱包 App 中自定义创建凭证iOS 27 将为钱包 App 引入凭证构建工具，允许用户通过扫描二维码或拍摄图片，将原本不支持 Apple 钱包的第三方凭证转换为数字版本。用户只需点击“+”号并选择新选项，即可为门票、会员卡和礼品卡等创建自定义凭证。该工具支持自定义样式、颜色和文本，并提供标准、会员及活动三类默认模板。此功能旨在解决部分应用缺乏原生钱包支持的问题。相关信息此前曾在 4 月的代码泄露中出现，目前由彭博社进一步确认。AppleInsider",
+      "datetime": "2026-05-05T02:45:54+00:00",
+      "views": "14.3K",
+      "source_links": [
+        {
+          "text": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/05/04/apple-wallet-will-let-you-make-your-own-passes-in-ios-27"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41215",
+      "scraped_at": "2026-05-05T21:57:02.786913"
+    },
+    {
+      "id": "zaihuapd_41216",
+      "channel": "zaihuapd",
+      "text": "美国多家州级医保平台向科技巨头泄露用户敏感数据调查显示，全美近 20 个州经营的医疗保险交易平台在网页中植入广告追踪器（Pixel），导致 700 多万用户的种族、性别、公民身份及邮编等敏感信息被传输给 Meta、TikTok、Google 和 LinkedIn 等公司。1. 华盛顿特区：向 TikTok 传输了申请者的性别、公民身份及部分未被成功脱敏的具体种族信息。2. 弗吉尼亚州：通过 Meta 追踪器传输用户邮政编码，用于匹配 Facebook 个人资料并投放定向广告。3. 纽约州：与多方分享申请者浏览记录，涉及家庭成员是否服刑等高度隐私内容。4. 新墨西哥州、罗德岛州及马里兰州：分别向 Google 或 Meta 传输了低收入证明、Medicaid 申请或非公民孕妇保障相关的访问信息。Bloomberg|TechCrunch🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "美国多家州级医保平台向科技巨头泄露用户敏感数据调查显示，全美近 20 个州经营的医疗保险交易平台在网页中植入广告追踪器（Pixel），导致 700 多万用户的种族、性别、公民身份及邮编等敏感信息被传输给 Meta、TikTok、Google 和 LinkedIn 等公司。1. 华盛顿特区：向 TikTok 传输了申请者的性别、公民身份及部分未被成功脱敏的具体种族信息。2. 弗吉尼亚州：通过 Meta 追踪器传输用户邮政编码，用于匹配 Facebook 个人资料并投放定向广告。3. 纽约州：与多方分享申请者浏览记录，涉及家庭成员是否服刑等高度隐私内容。4. 新墨西哥州、罗德岛州及马里兰州：分别向 Google 或 Meta 传输了低收入证明、Medicaid 申请或非公民孕妇保障相关的访问信息。Bloomberg|TechCrunch",
+      "datetime": "2026-05-05T03:06:13+00:00",
+      "views": "13.8K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/features/2026-healthcare-advertising-trackers-privacy/"
+        },
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41216",
+      "scraped_at": "2026-05-05T21:57:02.787497"
+    },
+    {
+      "id": "zaihuapd_41217",
+      "channel": "zaihuapd",
+      "text": "🤖🇪🇺欧洲财长敦促 Anthropic 开放 Mythos AI 访问权限以评估安全风险5 月 4 日，欧元区财政部长在布鲁塞尔会议上要求 Anthropic 向欧洲企业开放 Mythos AI 模型的访问权限。西班牙经济部长 Carlos Cuerpo 指出，该模型具备发现各行业机构系统漏洞与后门的能力，欧洲需通过获取访问权来建立防御体系，避免在安全领域落后于美国。欧洲央行副行长强调，需利用该技术预先屏蔽支付系统的数字风险。目前 Mythos 尚未正式发布，欧洲公司仍无法评估其潜在影响。此外，白宫此前曾表示反对 Anthropic 扩大该模型访问范围的计划。Bloomberg🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "🤖🇪🇺欧洲财长敦促 Anthropic 开放 Mythos AI 访问权限以评估安全风险5 月 4 日，欧元区财政部长在布鲁塞尔会议上要求 Anthropic 向欧洲企业开放 Mythos AI 模型的访问权限。西班牙经济部长 Carlos Cuerpo 指出，该模型具备发现各行业机构系统漏洞与后门的能力，欧洲需通过获取访问权来建立防御体系，避免在安全领域落后于美国。欧洲央行副行长强调，需利用该技术预先屏蔽支付系统的数字风险。目前 Mythos 尚未正式发布，欧洲公司仍无法评估其潜在影响。此外，白宫此前曾表示反对 Anthropic 扩大该模型访问范围的计划。Bloomberg",
+      "datetime": "2026-05-05T03:30:54+00:00",
+      "views": "13.9K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/euro-finance-chiefs-want-mythos-ai-access-to-prepare-defenses"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41217",
+      "scraped_at": "2026-05-05T21:57:02.788064"
+    },
+    {
+      "id": "zaihuapd_41218",
+      "channel": "zaihuapd",
+      "text": "中国移动将推出 AI-eSIM 产品5 月 5 日，中国移动宣布将在 5 月 7 日至 9 日于苏州举办的 2026 移动云大会上推出 AI-eSIM 产品。该产品支持实时调度云端模型，使设备具备自主思考与即时响应能力，可应用于 AI 玩具、智慧穿戴等终端。东方财富网🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "中国移动将推出 AI-eSIM 产品5 月 5 日，中国移动宣布将在 5 月 7 日至 9 日于苏州举办的 2026 移动云大会上推出 AI-eSIM 产品。该产品支持实时调度云端模型，使设备具备自主思考与即时响应能力，可应用于 AI 玩具、智慧穿戴等终端。东方财富网",
+      "datetime": "2026-05-05T04:15:43+00:00",
+      "views": "14.1K",
+      "source_links": [
+        {
+          "text": "东方财富网",
+          "url": "https://finance.eastmoney.com/a/202605053727832042.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41218",
+      "scraped_at": "2026-05-05T21:57:02.788602"
+    },
+    {
+      "id": "zaihuapd_41219",
+      "channel": "zaihuapd",
+      "text": "黄仁勋称 AI 将创造大量就业并助力美国再工业化NVIDIA 首席执行官黄仁勋在 5 月 4 日的对话中表示，AI 是美国“再工业化”的最佳机会，正在成为工业级的工作生成器，而非大规模失业的先兆。他指出，AI 产业由生产硬件基础设施的新型工厂驱动，这些工厂和整个行业均需要大量劳动力。黄仁勋认为，自动化特定任务不等于取代整个职位，工作的核心职能通常在任务自动化后依然存在。他批评了渲染 AI 威胁论的行为，担心公众因恐惧而不敢接触 AI。与此同时，相关研究预测未来几年美国约 15% 的工作岗位可能因 AI 影响而消失。TechCrunch🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "黄仁勋称 AI 将创造大量就业并助力美国再工业化NVIDIA 首席执行官黄仁勋在 5 月 4 日的对话中表示，AI 是美国“再工业化”的最佳机会，正在成为工业级的工作生成器，而非大规模失业的先兆。他指出，AI 产业由生产硬件基础设施的新型工厂驱动，这些工厂和整个行业均需要大量劳动力。黄仁勋认为，自动化特定任务不等于取代整个职位，工作的核心职能通常在任务自动化后依然存在。他批评了渲染 AI 威胁论的行为，担心公众因恐惧而不敢接触 AI。与此同时，相关研究预测未来几年美国约 15% 的工作岗位可能因 AI 影响而消失。TechCrunch",
+      "datetime": "2026-05-05T05:01:33+00:00",
+      "views": "13.5K",
+      "source_links": [
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41219",
+      "scraped_at": "2026-05-05T21:57:02.789176"
+    },
+    {
+      "id": "zaihuapd_41220",
+      "channel": "zaihuapd",
+      "text": "苹果与三星达成芯片制造新合作  苹果公司宣布，将与三星电子在美国得克萨斯州奥斯汀的芯片工厂合作，采用全球首次应用的创新芯片制造技术。该工厂生产的芯片将优化苹果产品的功耗与性能，涵盖全球销售的 iPhone 等设备。  此次合作是苹果美国制造计划的一部分，旨在率先将新技术引入美国。尽管具体芯片类型未披露，行业推测其或为下一代图像传感器。三星方面尚未对细节作出回应。  新浪科技｜9to5Mac🍀频道🍵茶馆📮投稿",
+      "clean_text": "苹果与三星达成芯片制造新合作  苹果公司宣布，将与三星电子在美国得克萨斯州奥斯汀的芯片工厂合作，采用全球首次应用的创新芯片制造技术。该工厂生产的芯片将优化苹果产品的功耗与性能，涵盖全球销售的 iPhone 等设备。  此次合作是苹果美国制造计划的一部分，旨在率先将新技术引入美国。尽管具体芯片类型未披露，行业推测其或为下一代图像传感器。三星方面尚未对细节作出回应。  新浪科技｜9to5Mac🍀频道🍵茶馆📮投稿",
+      "datetime": "2026-05-05T05:46:33+00:00",
+      "views": "13.3K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41220",
+      "scraped_at": "2026-05-05T21:57:02.789743"
+    },
+    {
+      "id": "zaihuapd_41221",
+      "channel": "zaihuapd",
+      "text": "游戏驿站 CEO 科恩接受采访后公司股价大跌 10%游戏零售商 GameStop 于 5 月 3 日宣布，已向 eBay 发出不具约束力的主动收购要约，拟以每股 125 美元、现金与股票各半收购，交易估值约 555 亿美元，GameStop 称当日开始建仓。4 日，GameStop 首席执行官瑞安·科恩接受 CNBC 专访，当主持人问及当前公司市值、现金和 200 亿美元融资承诺函的总和仍不足以收购 eBay 时，科恩言辞躲闪，辩解称有能力通过发行股票完成交易，反复要求观众查阅公司网站，还强调现金与股票将各占收购金的一半。同时提到收购意向处于尚起步阶段，暂未与 eBay 管理层接触。eBay 同日确认收到要约，称董事会将予审核。周一收盘，eBay 股价上涨约 5%至 109 美元；GameStop 股价则下挫 10%。CNBC🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "游戏驿站 CEO 科恩接受采访后公司股价大跌 10%游戏零售商 GameStop 于 5 月 3 日宣布，已向 eBay 发出不具约束力的主动收购要约，拟以每股 125 美元、现金与股票各半收购，交易估值约 555 亿美元，GameStop 称当日开始建仓。4 日，GameStop 首席执行官瑞安·科恩接受 CNBC 专访，当主持人问及当前公司市值、现金和 200 亿美元融资承诺函的总和仍不足以收购 eBay 时，科恩言辞躲闪，辩解称有能力通过发行股票完成交易，反复要求观众查阅公司网站，还强调现金与股票将各占收购金的一半。同时提到收购意向处于尚起步阶段，暂未与 eBay 管理层接触。eBay 同日确认收到要约，称董事会将予审核。周一收盘，eBay 股价上涨约 5%至 109 美元；GameStop 股价则下挫 10%。CNBC",
+      "datetime": "2026-05-05T06:31:33+00:00",
+      "views": "13.5K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41221",
+      "scraped_at": "2026-05-05T21:57:02.790217"
+    },
+    {
+      "id": "zaihuapd_41222",
+      "channel": "zaihuapd",
+      "text": "友情提醒：明天就要开始上班了，请定好闹钟。😎",
+      "clean_text": "友情提醒：明天就要开始上班了，请定好闹钟。😎",
+      "datetime": "2026-05-05T08:51:14+00:00",
+      "views": "11.4K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41222",
+      "scraped_at": "2026-05-05T21:57:02.790685"
+    },
+    {
+      "id": "zaihuapd_41223",
+      "channel": "zaihuapd",
+      "text": "图像模型带动 AI 应用下载激增，远超对话模型更新效果Appfigures 报告显示，图像模型发布为 AI 应用带来的下载量已达传统模型更新的 6.5 倍。Google Gemini 的 Nano Banana 上线后 28 天内新增超 2200 万下载，ChatGPT 的 GPT-4o 图像模型同期新增超 1200 万下载，均数倍于各自对话模型更新带来的增量。但下载激增并未普遍转化为收入。上述期间，仅 ChatGPT 的图像模型带动约 7000 万美元消费者支出；Gemini Nano Banana 仅贡献约 18.1 万美元，Meta AI 的 Vibes 视频功能则无实质营收。TechCrunch🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "图像模型带动 AI 应用下载激增，远超对话模型更新效果Appfigures 报告显示，图像模型发布为 AI 应用带来的下载量已达传统模型更新的 6.5 倍。Google Gemini 的 Nano Banana 上线后 28 天内新增超 2200 万下载，ChatGPT 的 GPT-4o 图像模型同期新增超 1200 万下载，均数倍于各自对话模型更新带来的增量。但下载激增并未普遍转化为收入。上述期间，仅 ChatGPT 的图像模型带动约 7000 万美元消费者支出；Gemini Nano Banana 仅贡献约 18.1 万美元，Meta AI 的 Vibes 视频功能则无实质营收。TechCrunch",
+      "datetime": "2026-05-05T09:49:16+00:00",
+      "views": "10.4K",
+      "source_links": [
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41223",
+      "scraped_at": "2026-05-05T21:57:02.791325"
+    },
+    {
+      "id": "zaihuapd_41226",
+      "channel": "zaihuapd",
+      "text": "犹他州将成美国首个针对 VPN 用户执行年龄验证的州犹他州《在线年龄验证修正案》（SB 73）将于 5 月 6 日生效。法案规定，即使用户通过 VPN 或代理隐藏位置，只要物理身处犹他州，访问成人内容网站即受该州年龄验证约束。同时，含有超三分之一有害未成年人内容的网站不得协助或教唆用户使用 VPN 绕过限制。TechSpot🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "犹他州将成美国首个针对 VPN 用户执行年龄验证的州犹他州《在线年龄验证修正案》（SB 73）将于 5 月 6 日生效。法案规定，即使用户通过 VPN 或代理隐藏位置，只要物理身处犹他州，访问成人内容网站即受该州年龄验证约束。同时，含有超三分之一有害未成年人内容的网站不得协助或教唆用户使用 VPN 绕过限制。TechSpot",
+      "datetime": "2026-05-05T10:42:13+00:00",
+      "views": "10.3K",
+      "source_links": [
+        {
+          "text": "TechSpot",
+          "url": "https://www.techspot.com/news/112284-utah-becomes-first-state-target-vpn-use-age.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41226",
+      "scraped_at": "2026-05-05T21:57:02.791865"
+    },
+    {
+      "id": "zaihuapd_41227",
+      "channel": "zaihuapd",
+      "text": "GitHub 就近期故障致歉并披露 30 倍扩容计划GitHub CTO Vlad Fedorov 针对 4 月发生的故障发布说明。受 AI 智能体工作流驱动，GitHub 正在执行 30 倍扩容计划，重点包括将性能敏感代码从 Ruby 单体架构迁移至 Go，并将数据库负载从 MySQL 移出，同时由自定义数据中心向 Azure 及多云架构迁移以提升抗风险能力。1. 4 月 23 日合并队列故障：影响 658 个仓库，导致 Squash 合并产生错误提交并意外还原代码，无数据丢失。2. 4 月 27 日搜索故障：Elasticsearch 集群疑似因攻击过载，导致 UI 无法返回搜索结果，Git 核心操作未受影响。3. 透明度改进：GitHub 状态页已加入可用性指标，并承诺对所有规模的故障进行公示。The GitHub Blog🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "GitHub 就近期故障致歉并披露 30 倍扩容计划GitHub CTO Vlad Fedorov 针对 4 月发生的故障发布说明。受 AI 智能体工作流驱动，GitHub 正在执行 30 倍扩容计划，重点包括将性能敏感代码从 Ruby 单体架构迁移至 Go，并将数据库负载从 MySQL 移出，同时由自定义数据中心向 Azure 及多云架构迁移以提升抗风险能力。1. 4 月 23 日合并队列故障：影响 658 个仓库，导致 Squash 合并产生错误提交并意外还原代码，无数据丢失。2. 4 月 27 日搜索故障：Elasticsearch 集群疑似因攻击过载，导致 UI 无法返回搜索结果，Git 核心操作未受影响。3. 透明度改进：GitHub 状态页已加入可用性指标，并承诺对所有规模的故障进行公示。The GitHub Blog",
+      "datetime": "2026-05-05T11:42:23+00:00",
+      "views": "8.1K",
+      "source_links": [
+        {
+          "text": "The GitHub Blog",
+          "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41227",
+      "scraped_at": "2026-05-05T21:57:02.792408"
+    },
+    {
+      "id": "zaihuapd_41228",
+      "channel": "zaihuapd",
+      "text": "Google DeepMind 英国员工投票组建工会抗议军事 AI 合同Google DeepMind 伦敦总部的 1000 多名员工投票决定组建工会，抗议公司与美国国防部及以色列政府签署的军事 AI 合同。员工要求谷歌承诺不研发武器或监控技术，建立独立伦理监管机制，并赋予员工基于道德立场拒绝特定项目的权利。若诉求未获满足，员工计划发起“研究罢工”，通过暂停 Gemini 等核心产品的优化工作来施压。此前，五角大楼确认与谷歌、OpenAI、Nvidia 及 SpaceX 等公司达成协议，允许美军出于“合法政府目的”使用其 AI 模型。谷歌曾因员工抗议与以色列签署的 Project Nimbus 合同，在 2024 年解雇了 50 多名参与者。The Verge|The Guardian🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "Google DeepMind 英国员工投票组建工会抗议军事 AI 合同Google DeepMind 伦敦总部的 1000 多名员工投票决定组建工会，抗议公司与美国国防部及以色列政府签署的军事 AI 合同。员工要求谷歌承诺不研发武器或监控技术，建立独立伦理监管机制，并赋予员工基于道德立场拒绝特定项目的权利。若诉求未获满足，员工计划发起“研究罢工”，通过暂停 Gemini 等核心产品的优化工作来施压。此前，五角大楼确认与谷歌、OpenAI、Nvidia 及 SpaceX 等公司达成协议，允许美军出于“合法政府目的”使用其 AI 模型。谷歌曾因员工抗议与以色列签署的 Project Nimbus 合同，在 2024 年解雇了 50 多名参与者。The Verge|The Guardian",
+      "datetime": "2026-05-05T12:36:19+00:00",
+      "views": "5.88K",
+      "source_links": [
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel"
+        },
+        {
+          "text": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41228",
+      "scraped_at": "2026-05-05T21:57:02.792929"
+    },
+    {
+      "id": "zaihuapd_41229",
+      "channel": "zaihuapd",
+      "text": "黄仁勋称 AI 将创造大量就业并助力美国再工业化  NVIDIA 首席执行官黄仁勋在 5 月 4 日的对话中表示，AI 是美国“再工业化”的最佳机会，正在成为工业级的工作生成器，而非大规模失业的先兆。他指出，AI 产业由生产硬件基础设施的新型工厂驱动，这些工厂和整个行业均需要大量劳动力。  黄仁勋认为，自动化特定任务不等于取代整个职位，工作的核心职能通常在任务自动化后依然存在。他批评了渲染 AI 威胁论的行为，担心公众因恐惧而不敢接触 AI。与此同时，相关研究预测未来几年美国约 15% 的工作岗位可能因 AI…",
+      "clean_text": "黄仁勋称 AI 将创造大量就业并助力美国再工业化  NVIDIA 首席执行官黄仁勋在 5 月 4 日的对话中表示，AI 是美国“再工业化”的最佳机会，正在成为工业级的工作生成器，而非大规模失业的先兆。他指出，AI 产业由生产硬件基础设施的新型工厂驱动，这些工厂和整个行业均需要大量劳动力。  黄仁勋认为，自动化特定任务不等于取代整个职位，工作的核心职能通常在任务自动化后依然存在。他批评了渲染 AI 威胁论的行为，担心公众因恐惧而不敢接触 AI。与此同时，相关研究预测未来几年美国约 15% 的工作岗位可能因 AI…",
+      "datetime": "2026-05-05T13:30:07+00:00",
+      "views": "3.37K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41229",
+      "scraped_at": "2026-05-05T21:57:02.793449"
+    },
+    {
+      "id": "zaihuapd_41230",
+      "channel": "zaihuapd",
+      "text": "英国在线安全法年龄验证被儿童轻易绕过，画假胡子即可欺骗系统英国 Internet Matters 调查显示，46% 的儿童认为年龄检查非常容易绕过，仅 17% 认为困难，32% 已成功绕过。儿童通过画假胡子、使用游戏角色、输入虚假生日或冒用证件等简单手段欺骗系统。同时，49% 的儿童最近仍看到有害内容，17% 的家长曾主动帮助孩子绕过检查。机构呼吁政府与行业采取更强力措施，在产品设计之初就内置安全功能。The Register🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "英国在线安全法年龄验证被儿童轻易绕过，画假胡子即可欺骗系统英国 Internet Matters 调查显示，46% 的儿童认为年龄检查非常容易绕过，仅 17% 认为困难，32% 已成功绕过。儿童通过画假胡子、使用游戏角色、输入虚假生日或冒用证件等简单手段欺骗系统。同时，49% 的儿童最近仍看到有害内容，17% 的家长曾主动帮助孩子绕过检查。机构呼吁政府与行业采取更强力措施，在产品设计之初就内置安全功能。The Register",
+      "datetime": "2026-05-05T14:16:46+00:00",
+      "views": "5.36K",
+      "source_links": [
+        {
+          "text": "The Register",
+          "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41230",
+      "scraped_at": "2026-05-05T23:38:00.258094"
+    },
+    {
+      "id": "zaihuapd_41231",
+      "channel": "zaihuapd",
+      "text": "🤖OpenAI 发布 GPT-5.3 Instant，幻觉率最高降低 26.8%  OpenAI 发布 GPT-5.3 Instant，对 ChatGPT 日常对话模型进行更新。新版本重点改进三项体验：减少不必要的拒绝回答、提升网络搜索结果质量，以及降低幻觉率。内部评测显示，在医疗、法律、金融等高风险领域,启用网络搜索时幻觉率较前代降低 26.8%，仅依赖内部知识时降低 19.7%；基于用户反馈标注的评测中,两项数据分别为 22.5% 和 9.6%。  GPT-5.3 Instant 即日起向所有 ChatGPT…",
+      "clean_text": "🤖OpenAI 发布 GPT-5.3 Instant，幻觉率最高降低 26.8%  OpenAI 发布 GPT-5.3 Instant，对 ChatGPT 日常对话模型进行更新。新版本重点改进三项体验：减少不必要的拒绝回答、提升网络搜索结果质量，以及降低幻觉率。内部评测显示，在医疗、法律、金融等高风险领域,启用网络搜索时幻觉率较前代降低 26.8%，仅依赖内部知识时降低 19.7%；基于用户反馈标注的评测中,两项数据分别为 22.5% 和 9.6%。  GPT-5.3 Instant 即日起向所有 ChatGPT…",
+      "datetime": "2026-05-05T17:06:23+00:00",
+      "views": "2.59K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41231",
+      "scraped_at": "2026-05-06T02:00:31.738882"
+    },
+    {
+      "id": "zaihuapd_41232",
+      "channel": "zaihuapd",
+      "text": "Microsoft Edge 被曝会话期间于内存中明文保存所有密码安全研究员 Tom Jøran Sønstebyseter Rønning 发现，Microsoft Edge 启动时会将所有已保存的密码解密并明文加载到内存，在整个会话期间保持明文，即使用户从未访问需要这些凭证的网站。该行为在此前测试的其它 Chromium 浏览器中均未出现，Chrome 仅在需要时解密密码且配合应用绑定加密。攻击者若获得管理员权限，即可读取 Edge 进程内存，甚至提取终端服务器上其他登录用户的密码。微软回应称该就是这样设计的。Cybernews🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "Microsoft Edge 被曝会话期间于内存中明文保存所有密码安全研究员 Tom Jøran Sønstebyseter Rønning 发现，Microsoft Edge 启动时会将所有已保存的密码解密并明文加载到内存，在整个会话期间保持明文，即使用户从未访问需要这些凭证的网站。该行为在此前测试的其它 Chromium 浏览器中均未出现，Chrome 仅在需要时解密密码且配合应用绑定加密。攻击者若获得管理员权限，即可读取 Edge 进程内存，甚至提取终端服务器上其他登录用户的密码。微软回应称该就是这样设计的。Cybernews",
+      "datetime": "2026-05-05T23:31:53+00:00",
+      "views": "1.82K",
+      "source_links": [
+        {
+          "text": "Cybernews",
+          "url": "https://cybernews.com/security/microsoft-edge-loads-cleartext-passwords-to-memory/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41232",
+      "scraped_at": "2026-05-06T08:01:01.028196"
+    },
+    {
+      "id": "zaihuapd_41233",
+      "channel": "zaihuapd",
+      "text": "鸿蒙智行正面回应网传享界 S9 零重力座椅视频鸿蒙智行称部分车型配备二排零重力座椅，均具备防夹功能，系统会实时感知座椅受力变化，达到触发阈值即停止动作并回弹防护。经技术核验，网传视频场景未达到防夹功能触发阈值。其称还设有多重防护：副驾检测到占位或安全带已插入时不折叠，语音开启时会二次确认，展开中按物理键可立即停止。用户安全始终是我们产品设计的首要考量，针对大家反馈的宝贵建议，我们已纳入产品专项优化计划。鸿蒙智行始终以最高安全标准打磨产品，持续优化每一处细节，守护您的安心出行。鸿蒙智行发言人🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "鸿蒙智行正面回应网传享界 S9 零重力座椅视频鸿蒙智行称部分车型配备二排零重力座椅，均具备防夹功能，系统会实时感知座椅受力变化，达到触发阈值即停止动作并回弹防护。经技术核验，网传视频场景未达到防夹功能触发阈值。其称还设有多重防护：副驾检测到占位或安全带已插入时不折叠，语音开启时会二次确认，展开中按物理键可立即停止。用户安全始终是我们产品设计的首要考量，针对大家反馈的宝贵建议，我们已纳入产品专项优化计划。鸿蒙智行始终以最高安全标准打磨产品，持续优化每一处细节，守护您的安心出行。鸿蒙智行发言人",
+      "datetime": "2026-05-06T00:29:59+00:00",
+      "views": "7.9K",
+      "source_links": [
+        {
+          "text": "鸿蒙智行发言人",
+          "url": "https://weibo.com/7861317336/5295251906105734"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41233",
+      "scraped_at": "2026-05-06T11:00:57.203792"
+    },
+    {
+      "id": "zaihuapd_41234",
+      "channel": "zaihuapd",
+      "text": "🍏iPhone 17 拿下 2026 年 Q1 全球最畅销手机，苹果包揽前三Counterpoint Research 初步数据显示，2026 年第一季度 iPhone 17 以 6% 的全球销量份额登顶，iPhone 17 Pro Max 和 Pro 分别位列第二、三位，前三名明显领先。苹果在主要市场表现强劲，iPhone 17 在中国、美国同比实现两位数增长，韩国销量增长三倍。前十名其余机型依次为三星 Galaxy A07 4G、Galaxy A17 5G、iPhone 16、Galaxy A56、Galaxy A36、Galaxy A17 4G 与小米 Redmi A5。前十机型合计占全球销量 25%，创同期纪录。三星 Galax S26 Ultra 虽未上榜，但首销优于上代，iPhone Air 则继续缺席榜单。9To5Mac🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "🍏iPhone 17 拿下 2026 年 Q1 全球最畅销手机，苹果包揽前三Counterpoint Research 初步数据显示，2026 年第一季度 iPhone 17 以 6% 的全球销量份额登顶，iPhone 17 Pro Max 和 Pro 分别位列第二、三位，前三名明显领先。苹果在主要市场表现强劲，iPhone 17 在中国、美国同比实现两位数增长，韩国销量增长三倍。前十名其余机型依次为三星 Galaxy A07 4G、Galaxy A17 5G、iPhone 16、Galaxy A56、Galaxy A36、Galaxy A17 4G 与小米 Redmi A5。前十机型合计占全球销量 25%，创同期纪录。三星 Galax S26 Ultra 虽未上榜，但首销优于上代，iPhone Air 则继续缺席榜单。9To5Mac",
+      "datetime": "2026-05-06T01:15:05+00:00",
+      "views": "6.95K",
+      "source_links": [
+        {
+          "text": "9To5Mac",
+          "url": "https://9to5mac.com/2026/05/04/report-iphone-17-ranked-as-worlds-top-selling-smartphone-in-q1-2026/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41234",
+      "scraped_at": "2026-05-06T11:00:57.204411"
+    },
+    {
+      "id": "zaihuapd_41235",
+      "channel": "zaihuapd",
+      "text": "🔮苹果就 Siri 延迟集体诉讼达成 2.5 亿美元和解，用户每台设备最高可获赔 95 美元苹果同意支付 2.5 亿美元，以和解因“更个性化 Siri”功能延迟而引发的集体诉讼。和解涵盖在 2024 年 6 月 10 日至 2025 年 3 月 29 日期间于美国购买指定 iPhone 机型的用户，每台设备赔偿 25 美元，根据索赔人数，最高可达 95 美元。苹果未承认不当行为，称和解是为了专注创新。用户需在 45 天内提交索赔，并提供设备序列号等信息。9To5Mac🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "🔮苹果就 Siri 延迟集体诉讼达成 2.5 亿美元和解，用户每台设备最高可获赔 95 美元苹果同意支付 2.5 亿美元，以和解因“更个性化 Siri”功能延迟而引发的集体诉讼。和解涵盖在 2024 年 6 月 10 日至 2025 年 3 月 29 日期间于美国购买指定 iPhone 机型的用户，每台设备赔偿 25 美元，根据索赔人数，最高可达 95 美元。苹果未承认不当行为，称和解是为了专注创新。用户需在 45 天内提交索赔，并提供设备序列号等信息。9To5Mac",
+      "datetime": "2026-05-06T02:04:26+00:00",
+      "views": "4.87K",
+      "source_links": [
+        {
+          "text": "9To5Mac",
+          "url": "https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41235",
+      "scraped_at": "2026-05-06T11:00:57.204956"
+    },
+    {
+      "id": "zaihuapd_41236",
+      "channel": "zaihuapd",
+      "text": "Meta 计划推出 AI 助手对标 OpenClaw爆料称，Meta 正开发面向其逾 30 亿用户的个性化 AI 代理工具，其中一款高级数字助手将由新模型 Muse Spark 驱动，其功能类似开源项目 OpenClaw，目前已在内部试用。项目目标是把自动处理网页浏览、邮件和日历等任务的代理体验做得更易用，也可能覆盖购物场景。用户可选择是否分享健康、财务等敏感信息。这项计划推进之际，Meta 的 AI 投入正承受投资者压力。公司此前把今年资本开支上调 100 亿美元至最高 1450 亿美元，但股价随之大跌，市值蒸发近 1700 亿美元。Financial Times🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "Meta 计划推出 AI 助手对标 OpenClaw爆料称，Meta 正开发面向其逾 30 亿用户的个性化 AI 代理工具，其中一款高级数字助手将由新模型 Muse Spark 驱动，其功能类似开源项目 OpenClaw，目前已在内部试用。项目目标是把自动处理网页浏览、邮件和日历等任务的代理体验做得更易用，也可能覆盖购物场景。用户可选择是否分享健康、财务等敏感信息。这项计划推进之际，Meta 的 AI 投入正承受投资者压力。公司此前把今年资本开支上调 100 亿美元至最高 1450 亿美元，但股价随之大跌，市值蒸发近 1700 亿美元。Financial Times",
+      "datetime": "2026-05-06T03:00:15+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Financial Times",
+          "url": "https://www.ft.com/content/5b48360c-53f2-444a-80a8-f7034750fd62?syn-25a6b1a6=1"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41236",
+      "scraped_at": "2026-05-06T11:00:57.205403"
+    },
+    {
+      "id": "zaihuapd_41237",
+      "channel": "zaihuapd",
+      "text": "Anthropic 五年向谷歌云承诺 2000 亿美元支出Anthropic 已承诺未来五年向谷歌云支付 2000 亿美元。这笔金额相当于谷歌云已披露积压订单的 40% 以上。消息传出后，Alphabet 周二盘后上涨约 2%。双方今年 4 月还与博通签下协议，锁定数吉瓦 TPU 算力，预计 2027 年起陆续上线。与此同时，Alphabet 计划按 3500 亿美元估值向 Anthropic 投资最多 400 亿美元，进一步加深双方合作。The Information🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "Anthropic 五年向谷歌云承诺 2000 亿美元支出Anthropic 已承诺未来五年向谷歌云支付 2000 亿美元。这笔金额相当于谷歌云已披露积压订单的 40% 以上。消息传出后，Alphabet 周二盘后上涨约 2%。双方今年 4 月还与博通签下协议，锁定数吉瓦 TPU 算力，预计 2027 年起陆续上线。与此同时，Alphabet 计划按 3500 亿美元估值向 Anthropic 投资最多 400 亿美元，进一步加深双方合作。The Information",
+      "datetime": "2026-05-06T03:53:07+00:00",
+      "views": "4.92K",
+      "source_links": [
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/articles/anthropic-commits-spending-200-billion-googles-cloud-chips?utm_source=chatgpt.com"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41237",
+      "scraped_at": "2026-05-06T13:01:07.541943"
+    },
+    {
+      "id": "zaihuapd_41238",
+      "channel": "zaihuapd",
+      "text": "三星电子市值突破 1 万亿美元，韩国股指首破 7000 点在全球 AI 硬件需求激增的强烈催化下，存储芯片板块正上演史诗级狂飙。三星电子早盘涨逾 12%，市值首次突破 1 万亿美元，成为继台积电之后第二家达到这一规模的亚洲科技企业。一季度三星整体实现经营利润 57.2 万亿韩元，同比增长 756%。受三星和 SK 海力士上涨带动，韩国股市今日再度大涨，韩国综合指数一度涨超 7%，再创历史新高，年内累计涨幅扩大至 76%。Reuters🌸在花频道·茶馆讨论·投稿通道",
+      "clean_text": "三星电子市值突破 1 万亿美元，韩国股指首破 7000 点在全球 AI 硬件需求激增的强烈催化下，存储芯片板块正上演史诗级狂飙。三星电子早盘涨逾 12%，市值首次突破 1 万亿美元，成为继台积电之后第二家达到这一规模的亚洲科技企业。一季度三星整体实现经营利润 57.2 万亿韩元，同比增长 756%。受三星和 SK 海力士上涨带动，韩国股市今日再度大涨，韩国综合指数一度涨超 7%，再创历史新高，年内累计涨幅扩大至 76%。Reuters",
+      "datetime": "2026-05-06T04:48:46+00:00",
+      "views": "1.45K",
+      "source_links": [
+        {
+          "text": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/samsung-electronics-market-cap-surpasses-1-trln-2026-05-06/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41238",
+      "scraped_at": "2026-05-06T13:01:07.542481"
+    }
+  ],
+  "last_update": "2026-05-06T13:01:07.551311"
+}
