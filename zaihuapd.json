@@ -1,4 +1,395 @@
 {
-  "messages": [],
-  "last_update": ""
+  "messages": [
+    {
+      "id": "zaihuapd_41262",
+      "text": "SK Hynix 人均 43 万美元分红：AI 热潮重塑韩国社会阶层\n\nAI 芯片需求带动 SK Hynix 一季度净利润同比增五倍，达 40.3 万亿韩元（279 亿美元）。公司将 10% 营业利润作奖金池，今年人均预计 6 亿韩元（43 万美元），远超首尔月均工资 3000 美元。\n\n高额奖金催生社会现象：员工在婚恋市场身价超过医生律师，公司夹克成二手市场“相亲神装”。三星工会要求同等比例奖金，公司称“过高”。TrendForce 预测 2026 年 DRAM 价格涨幅超 70%，批评者指资本开支和研发未同步增长。\n\nCybernews\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "SK Hynix 人均 43 万美元分红：AI 热潮重塑韩国社会阶层\n\nAI 芯片需求带动 SK Hynix 一季度净利润同比增五倍，达 40.3 万亿韩元（279 亿美元）。公司将 10% 营业利润作奖金池，今年人均预计 6 亿韩元（43 万美元），远超首尔月均工资 3000 美元。\n\n高额奖金催生社会现象：员工在婚恋市场身价超过医生律师，公司夹克成二手市场“相亲神装”。三星工会要求同等比例奖金，公司称“过高”。TrendForce 预测 2026 年 DRAM 价格涨幅超 70%，批评者指资本开支和研发未同步增长。\n\nCybernews\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T11:05:32+00:00",
+      "views": "4.55K",
+      "source_links": [
+        {
+          "text": "Cybernews",
+          "url": "https://cybernews.com/tech/sk-hynix-massive-payouts-rewrite-korea-social-hierarchy/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41262",
+      "scraped_at": "2026-05-07T20:00:33.298164"
+    },
+    {
+      "id": "zaihuapd_41261",
+      "text": "小米开源 OmniVoice：极简架构实现 646 语种语音克隆 TTS\n\n小米开源 OmniVoice 多语言语音克隆 TTS 模型。采用极简双向 Transformer 架构，用全码本随机掩蔽和大语言模型预训练参数提升效率与可懂度，训练速度 10 万小时 / 天，PyTorch 推理达 40 倍实时，合成质量优于同类主流模型。\n\nOmniVoice 基于 50 个开源数据集构建 58 万小时、646 语种训练集，在 24 语种测试中超越商用系统，102 语种逼近真实语音。支持跨语言克隆、自定义音色、带噪适配和发音纠正，训练、推理代码及模型权重均已开源。\n\n小米技术\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "小米开源 OmniVoice：极简架构实现 646 语种语音克隆 TTS\n\n小米开源 OmniVoice 多语言语音克隆 TTS 模型。采用极简双向 Transformer 架构，用全码本随机掩蔽和大语言模型预训练参数提升效率与可懂度，训练速度 10 万小时 / 天，PyTorch 推理达 40 倍实时，合成质量优于同类主流模型。\n\nOmniVoice 基于 50 个开源数据集构建 58 万小时、646 语种训练集，在 24 语种测试中超越商用系统，102 语种逼近真实语音。支持跨语言克隆、自定义音色、带噪适配和发音纠正，训练、推理代码及模型权重均已开源。\n\n小米技术\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T10:06:09+00:00",
+      "views": "7.13K",
+      "source_links": [
+        {
+          "text": "小米技术",
+          "url": "https://mp.weixin.qq.com/s/TCS_Sd10g_rvf1cszw673A"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41261",
+      "scraped_at": "2026-05-07T20:00:33.241317"
+    },
+    {
+      "id": "zaihuapd_41260",
+      "text": "Google Cloud 将 reCAPTCHA 扩展为 Fraud Defense，并加入二维码手机验证\n\nGoogle Cloud 发布 Fraud Defense，作为 reCAPTCHA 的下一步演进，用于识别 bot、人类和 AI 智能体。新的抗 AI 挑战会要求用户用手机扫描二维码，证明有人类在场。\n\n兼容条件：Android 需 Google Play Services 25.41.30 或更高；iOS/iPadOS 扫码需 15.0 及以上。若用“Click to Verify”按钮，16.4 及以上可直接使用，15.0-16.4 需安装 reCAPTCHA app。\n\nreCAPTCHA Help | Google Cloud\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "Google Cloud 将 reCAPTCHA 扩展为 Fraud Defense，并加入二维码手机验证\n\nGoogle Cloud 发布 Fraud Defense，作为 reCAPTCHA 的下一步演进，用于识别 bot、人类和 AI 智能体。新的抗 AI 挑战会要求用户用手机扫描二维码，证明有人类在场。\n\n兼容条件：Android 需 Google Play Services 25.41.30 或更高；iOS/iPadOS 扫码需 15.0 及以上。若用“Click to Verify”按钮，16.4 及以上可直接使用，15.0-16.4 需安装 reCAPTCHA app。\n\nreCAPTCHA Help | Google Cloud\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T09:18:05+00:00",
+      "views": "8.79K",
+      "source_links": [
+        {
+          "text": "reCAPTCHA Help",
+          "url": "https://support.google.com/recaptcha/answer/16609652?hl=en"
+        },
+        {
+          "text": "Google Cloud",
+          "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41260",
+      "scraped_at": "2026-05-07T20:00:33.191263"
+    },
+    {
+      "id": "zaihuapd_41259",
+      "text": "🤖 Anthropic 与 SpaceX 达成算力合作，提高 Claude Code 与 Claude API 使用限制 Anthropic 称已与 SpaceX 达成算力合作，将使用其 Colossus 1 数据中心全部算力；一个月内可获得超过 300 兆瓦新增容量，包含逾 22 万块 NVIDIA GPU。 Claude 即日起大幅提升使用限额：Claude Code 各类付费方案的 5 小时速率限制翻倍，并取消了 Pro/Max 用户的高峰期限制；Claude Opus 的 API 速率限制也已显著提高。…",
+      "clean_text": "🤖 Anthropic 与 SpaceX 达成算力合作，提高 Claude Code 与 Claude API 使用限制 Anthropic 称已与 SpaceX 达成算力合作，将使用其 Colossus 1 数据中心全部算力；一个月内可获得超过 300 兆瓦新增容量，包含逾 22 万块 NVIDIA GPU。 Claude 即日起大幅提升使用限额：Claude Code 各类付费方案的 5 小时速率限制翻倍，并取消了 Pro/Max 用户的高峰期限制；Claude Opus 的 API 速率限制也已显著提高。…",
+      "datetime": "2026-05-07T08:19:38+00:00",
+      "views": "10.8K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41259",
+      "scraped_at": "2026-05-07T20:00:33.134742"
+    },
+    {
+      "id": "zaihuapd_41258",
+      "text": "《尘白禁区》将于 5 月 8 日开启“暖风拂境”限时活动\n\n《尘白禁区》计划于 2026 年 5 月 8 日 14:00 开服并上线“暖风拂境”。本次为整包更新，需重下客户端；iOS 建议升级到 iOS 13 及以上。活动将新增胧嫣-瑞狐、相关武器与后勤，小部分内容于 5 月 22 日开放。\n\n维护后将通过邮件陆续发放可选橙色五星角色与武器、66 个限时角色共鸣道具等补偿；“自往昔归还”部分内容延长至 2026 年 5 月 15 日 04:00，另含多项优化和修复。\n\nTapTap\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "《尘白禁区》将于 5 月 8 日开启“暖风拂境”限时活动\n\n《尘白禁区》计划于 2026 年 5 月 8 日 14:00 开服并上线“暖风拂境”。本次为整包更新，需重下客户端；iOS 建议升级到 iOS 13 及以上。活动将新增胧嫣-瑞狐、相关武器与后勤，小部分内容于 5 月 22 日开放。\n\n维护后将通过邮件陆续发放可选橙色五星角色与武器、66 个限时角色共鸣道具等补偿；“自往昔归还”部分内容延长至 2026 年 5 月 15 日 04:00，另含多项优化和修复。\n\nTapTap\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T07:39:25+00:00",
+      "views": "11.3K",
+      "source_links": [
+        {
+          "text": "TapTap",
+          "url": "https://www.taptap.cn/moment/801416922921961953"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41258",
+      "scraped_at": "2026-05-07T20:00:33.104565"
+    },
+    {
+      "id": "zaihuapd_41257",
+      "text": "🐧 腾讯 Hy3 preview 上线两周调用量超 Hy2 十倍，OpenRouter 周榜居首\n\n腾讯混元 Hy3 preview 上线两周后，Token 调用总量已超过上一代模型 Hy2 的 10 倍。OpenRouter 过去一周数据显示，该模型在平台周榜总榜和市场占有率均排名第一，编程与工具调用场景也位列榜首。\n\n代码和智能体类场景调用增长尤为明显，腾讯 WorkBuddy、Codebuddy 及 Qclaw 类应用中的总增幅超过 16.5 倍。混元团队表示，Hy3 preview 上线初期在 OpenRouter 开启限免以收集真实场景反馈，为后续迭代提供方向。\n\n新浪财经\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "🐧 腾讯 Hy3 preview 上线两周调用量超 Hy2 十倍，OpenRouter 周榜居首\n\n腾讯混元 Hy3 preview 上线两周后，Token 调用总量已超过上一代模型 Hy2 的 10 倍。OpenRouter 过去一周数据显示，该模型在平台周榜总榜和市场占有率均排名第一，编程与工具调用场景也位列榜首。\n\n代码和智能体类场景调用增长尤为明显，腾讯 WorkBuddy、Codebuddy 及 Qclaw 类应用中的总增幅超过 16.5 倍。混元团队表示，Hy3 preview 上线初期在 OpenRouter 开启限免以收集真实场景反馈，为后续迭代提供方向。\n\n新浪财经\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T05:34:46+00:00",
+      "views": "13.1K",
+      "source_links": [
+        {
+          "text": "新浪财经",
+          "url": "https://finance.sina.com.cn/tech/shenji/2026-05-07/doc-inhwzrtp8521239.shtml"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41257",
+      "scraped_at": "2026-05-07T20:00:33.054466"
+    },
+    {
+      "id": "zaihuapd_41256",
+      "text": "阿里巴巴股价因芯片业务跑赢腾讯\n\n阿里巴巴本周股价上涨 11%，远高于腾讯的约 2%，其芯片部门平头哥计划上市引发投资者追捧。同有芯片子公司的百度本周也上涨近 17%。\n\n亚洲芯片股创新高，硬件驱动的 AI 交易升温，而腾讯近期 AI 模型升级未能让市场认可其竞争优势。分析师称投资者只关注 AI 受益方，阿里从芯片到模型再到云全覆盖，腾讯不在其列。\n\nBloomberg\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "阿里巴巴股价因芯片业务跑赢腾讯\n\n阿里巴巴本周股价上涨 11%，远高于腾讯的约 2%，其芯片部门平头哥计划上市引发投资者追捧。同有芯片子公司的百度本周也上涨近 17%。\n\n亚洲芯片股创新高，硬件驱动的 AI 交易升温，而腾讯近期 AI 模型升级未能让市场认可其竞争优势。分析师称投资者只关注 AI 受益方，阿里从芯片到模型再到云全覆盖，腾讯不在其列。\n\nBloomberg\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T04:49:03+00:00",
+      "views": "13.6K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-07/alibaba-shares-outpace-tencent-s-as-chip-exposure-fuels-demand"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41256",
+      "scraped_at": "2026-05-07T20:00:33.004163"
+    },
+    {
+      "id": "zaihuapd_41255",
+      "text": "🍏 苹果 MacBook Neo 产量翻倍，紧急追加 A18 Pro 芯片\n\nMacBook Neo 需求大幅超出预期，苹果将初代机型产量从原计划的 500 万至 600 万台扩大至 1,000 万台，并紧急要求台积电生产新一批 A18 Pro 芯片。\n\n此前 Neo 使用的是 iPhone 16 Pro 芯片的降级版（屏蔽一颗 GPU），新批次多为完整核心，苹果可能通过软件统一关闭一颗 GPU；但芯片和 DRAM 成本上涨将挤压利润，后续或调整配置与配色。\n\nCulpium\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "🍏 苹果 MacBook Neo 产量翻倍，紧急追加 A18 Pro 芯片\n\nMacBook Neo 需求大幅超出预期，苹果将初代机型产量从原计划的 500 万至 600 万台扩大至 1,000 万台，并紧急要求台积电生产新一批 A18 Pro 芯片。\n\n此前 Neo 使用的是 iPhone 16 Pro 芯片的降级版（屏蔽一颗 GPU），新批次多为完整核心，苹果可能通过软件统一关闭一颗 GPU；但芯片和 DRAM 成本上涨将挤压利润，后续或调整配置与配色。\n\nCulpium\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T03:57:25+00:00",
+      "views": "14.4K",
+      "source_links": [
+        {
+          "text": "Culpium",
+          "url": "https://www.culpium.com/p/apple-doubles-macbook-neo-production"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41255",
+      "scraped_at": "2026-05-07T20:00:32.950817"
+    },
+    {
+      "id": "zaihuapd_41254",
+      "text": "苹果显示面板供应链新进展：京东方获中国 iPhone 17 Pro 订单，三星独家供可折叠 OLED 苹果在显示面板布局上迎来两大进展：已批准京东方取得 iPhone 17 Pro OLED 屏幕量产资格，首批仅供中国市场；显示模组生产资质预计7月也将放行，标志京东方正式进入高端 iPhone 供应链。 另一方面，三星显示器已在忠南牙山 A3 厂启动苹果专用折叠 OLED 产线，月产3.5万片6代玻璃基板，年产能约1500万块7英寸面板。苹果拟2026年发布首款内折式可折叠 iPhone，首年目标60…",
+      "clean_text": "苹果显示面板供应链新进展：京东方获中国 iPhone 17 Pro 订单，三星独家供可折叠 OLED 苹果在显示面板布局上迎来两大进展：已批准京东方取得 iPhone 17 Pro OLED 屏幕量产资格，首批仅供中国市场；显示模组生产资质预计7月也将放行，标志京东方正式进入高端 iPhone 供应链。 另一方面，三星显示器已在忠南牙山 A3 厂启动苹果专用折叠 OLED 产线，月产3.5万片6代玻璃基板，年产能约1500万块7英寸面板。苹果拟2026年发布首款内折式可折叠 iPhone，首年目标60…",
+      "datetime": "2026-05-07T02:33:22+00:00",
+      "views": "14.7K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41254",
+      "scraped_at": "2026-05-07T20:00:32.899429"
+    },
+    {
+      "id": "zaihuapd_41253",
+      "text": "Valve 免费开放 Steam Controller 外壳 CAD 文件\n\nValve 已免费提供新款 Steam Controller 和 Puck 外壳的 3D CAD 文件，采用 Creative Commons 许可，文件包含 STP、STL 模型及关键尺寸工程图。\n\n这让玩家和配件厂商可更直接地制作 3D 打印配件、外壳和替换部件。这款手柄首批已迅速售罄，官方正补货。\n\nPCMAG\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "Valve 免费开放 Steam Controller 外壳 CAD 文件\n\nValve 已免费提供新款 Steam Controller 和 Puck 外壳的 3D CAD 文件，采用 Creative Commons 许可，文件包含 STP、STL 模型及关键尺寸工程图。\n\n这让玩家和配件厂商可更直接地制作 3D 打印配件、外壳和替换部件。这款手柄首批已迅速售罄，官方正补货。\n\nPCMAG\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T02:03:58+00:00",
+      "views": "14.5K",
+      "source_links": [
+        {
+          "text": "PCMAG",
+          "url": "https://www.pcmag.com/news/valve-releases-steam-controller-cad-files-so-modders-can-make-it-their"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41253",
+      "scraped_at": "2026-05-07T20:00:32.868312"
+    },
+    {
+      "id": "zaihuapd_41252",
+      "text": "🍏 苹果研发支出占营收比例突破 10%，加速 AI 布局以重塑硬件平台\n\n苹果 2026 年 3 月财季研发支出占比升至 10.3%，为 30 年来首超 10%。尽管营收增长 17%，但研发投入增速高达 34%，凸显其在 AI 领域的紧迫感。分析师认为苹果正处于类似 iPod 时代的平台重塑期。\n\n现任 CEO 库克将在 9 月交棒，目前苹果正重点投入端侧 AI、自研芯片及私有云计算。除 Siri 升级和首款折叠屏 iPhone 外，苹果还被曝正研发 AI 眼镜和带摄像头的 AirPods等产品，试图将 AI 深度整合进硬件生态。\n\nCNBC\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "🍏 苹果研发支出占营收比例突破 10%，加速 AI 布局以重塑硬件平台\n\n苹果 2026 年 3 月财季研发支出占比升至 10.3%，为 30 年来首超 10%。尽管营收增长 17%，但研发投入增速高达 34%，凸显其在 AI 领域的紧迫感。分析师认为苹果正处于类似 iPod 时代的平台重塑期。\n\n现任 CEO 库克将在 9 月交棒，目前苹果正重点投入端侧 AI、自研芯片及私有云计算。除 Siri 升级和首款折叠屏 iPhone 外，苹果还被曝正研发 AI 眼镜和带摄像头的 AirPods等产品，试图将 AI 深度整合进硬件生态。\n\nCNBC\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-07T01:00:54+00:00",
+      "views": "14.9K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/06/apples-rd-spending-climbs-to-10percent-of-revenue-on-ai-investments.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41252",
+      "scraped_at": "2026-05-07T20:00:32.816006"
+    },
+    {
+      "id": "zaihuapd_41251",
+      "text": "月之暗面估值突破 100 亿美元，Kimi 近 20 天累计收入已超 2025 年全年总额 2 月 23 日，大模型初创公司月之暗面获悉完成新一轮超 7 亿美元融资，由阿里、腾讯、五源、九安等联合领投，累计融资额已超 12 亿美元。该公司估值仅用两年多时间便突破 100 亿美元，刷新国内企业晋级“十角兽”的最快速度。 财务数据显示，受全球付费用户及 API 调用量增长驱动，Kimi 近 20 天累计收入已超 2025 年全年总额，且海外收入已超过国内。目前，其 K2.5 模型在 OpenRouter…",
+      "clean_text": "月之暗面估值突破 100 亿美元，Kimi 近 20 天累计收入已超 2025 年全年总额 2 月 23 日，大模型初创公司月之暗面获悉完成新一轮超 7 亿美元融资，由阿里、腾讯、五源、九安等联合领投，累计融资额已超 12 亿美元。该公司估值仅用两年多时间便突破 100 亿美元，刷新国内企业晋级“十角兽”的最快速度。 财务数据显示，受全球付费用户及 API 调用量增长驱动，Kimi 近 20 天累计收入已超 2025 年全年总额，且海外收入已超过国内。目前，其 K2.5 模型在 OpenRouter…",
+      "datetime": "2026-05-07T00:30:08+00:00",
+      "views": "15.2K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41251",
+      "scraped_at": "2026-05-07T20:00:32.765430"
+    },
+    {
+      "id": "zaihuapd_41250",
+      "text": "🤖 Anthropic 与 SpaceX 达成算力合作，提高 Claude Code 与 Claude API 使用限制\n\nAnthropic 称已与 SpaceX 达成算力合作，将使用其 Colossus 1 数据中心全部算力；一个月内可获得超过 300 兆瓦新增容量，包含逾 22 万块 NVIDIA GPU。\n\nClaude 即日起大幅提升使用限额：Claude Code 各类付费方案的 5 小时速率限制翻倍，并取消了 Pro/Max 用户的高峰期限制；Claude Opus 的 API 速率限制也已显著提高。\n\nAnthropic\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "🤖 Anthropic 与 SpaceX 达成算力合作，提高 Claude Code 与 Claude API 使用限制\n\nAnthropic 称已与 SpaceX 达成算力合作，将使用其 Colossus 1 数据中心全部算力；一个月内可获得超过 300 兆瓦新增容量，包含逾 22 万块 NVIDIA GPU。\n\nClaude 即日起大幅提升使用限额：Claude Code 各类付费方案的 5 小时速率限制翻倍，并取消了 Pro/Max 用户的高峰期限制；Claude Opus 的 API 速率限制也已显著提高。\n\nAnthropic\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-06T16:35:52+00:00",
+      "views": "18.4K",
+      "source_links": [
+        {
+          "text": "Anthropic",
+          "url": "https://www.anthropic.com/news/higher-limits-spacex"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41250",
+      "scraped_at": "2026-05-07T20:00:32.736203"
+    },
+    {
+      "id": "zaihuapd_41249",
+      "text": "星空卫视因运营困难将于 5 月 8 日暂停卫星传输服务\n\n星空卫视发布公告，因运营困难，卫星公司将于 2026 年 5 月 8 日暂停卫星传输服务。频道表示品牌价值与内容制作能力仍在，正积极寻求战略投资与业务重组，欢迎合作伙伴接洽资产收购、内容平台合作或品牌转型等机会。\n\n星空卫视\n\n大家都看过吗？\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "星空卫视因运营困难将于 5 月 8 日暂停卫星传输服务\n\n星空卫视发布公告，因运营困难，卫星公司将于 2026 年 5 月 8 日暂停卫星传输服务。频道表示品牌价值与内容制作能力仍在，正积极寻求战略投资与业务重组，欢迎合作伙伴接洽资产收购、内容平台合作或品牌转型等机会。\n\n星空卫视\n\n大家都看过吗？\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-06T15:17:32+00:00",
+      "views": "18.4K",
+      "source_links": [
+        {
+          "text": "星空卫视",
+          "url": "https://weibo.com/1883889533/QE5YD4XqY"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41249",
+      "scraped_at": "2026-05-07T20:00:32.682494"
+    },
+    {
+      "id": "zaihuapd_41248",
+      "text": "♻️ NVIDIA 与 \n🤖 OpenAI 等联合发布 MRC 协议，提升 AI 超算集群效率\n\n英伟达（NVIDIA）、OpenAI 及微软等联合发布并开源了多路径可靠连接（MRC）协议。该 RDMA 协议采用数据包喷射技术，支持流量在多路径间并发传输，并具备微秒级故障重路由能力。它能有效减少网络拥塞导致的 GPU 闲置，提升千兆级 AI 训练集群的吞吐量与稳定性。\n\n该协议已在 NVIDIA Spectrum-X 平台及 Blackwell 架构中应用，目前正支撑微软 Fairwater 和甲骨文 OCI Abilene 等集群运行，并用于 GPT-5.5 等模型训练。作为 OCP 开放规范，MRC 旨在通过标准化减少行业碎片化，加速 Stargate 等未来 AI 基础设施建设。\n\nNVIDIA Blog | The Deep View\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "♻️ NVIDIA 与 \n🤖 OpenAI 等联合发布 MRC 协议，提升 AI 超算集群效率\n\n英伟达（NVIDIA）、OpenAI 及微软等联合发布并开源了多路径可靠连接（MRC）协议。该 RDMA 协议采用数据包喷射技术，支持流量在多路径间并发传输，并具备微秒级故障重路由能力。它能有效减少网络拥塞导致的 GPU 闲置，提升千兆级 AI 训练集群的吞吐量与稳定性。\n\n该协议已在 NVIDIA Spectrum-X 平台及 Blackwell 架构中应用，目前正支撑微软 Fairwater 和甲骨文 OCI Abilene 等集群运行，并用于 GPT-5.5 等模型训练。作为 OCP 开放规范，MRC 旨在通过标准化减少行业碎片化，加速 Stargate 等未来 AI 基础设施建设。\n\nNVIDIA Blog | The Deep View\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-06T14:39:13+00:00",
+      "views": "17.8K",
+      "source_links": [
+        {
+          "text": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/"
+        },
+        {
+          "text": "The Deep View",
+          "url": "https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41248",
+      "scraped_at": "2026-05-07T20:00:32.630517"
+    },
+    {
+      "id": "zaihuapd_41247",
+      "text": "欧盟拟出台新规：强制成员国移除华为中兴设备 欧盟委员会正考虑制定新规，强制要求所有成员国在其电信与宽带基础设施中全面淘汰华为与中兴通讯的设备。此举旨在将欧盟 2020 年发布的限制“高风险供应商”的非约束性建议，正式升级为具有法律效力的强制性规定。若新规落地，未能按期剥离相关设备的成员国将面临违规调查及经济处罚。 同时，欧盟还计划收紧对外基建资金池，停止向使用华为设备的非欧盟国家提供项目贷款。欧盟官员称，此举意在维护网络安全与技术自主权。中方对此予以强烈谴责，指出将中企定性为高风险完全缺乏事实依据且严…",
+      "clean_text": "欧盟拟出台新规：强制成员国移除华为中兴设备 欧盟委员会正考虑制定新规，强制要求所有成员国在其电信与宽带基础设施中全面淘汰华为与中兴通讯的设备。此举旨在将欧盟 2020 年发布的限制“高风险供应商”的非约束性建议，正式升级为具有法律效力的强制性规定。若新规落地，未能按期剥离相关设备的成员国将面临违规调查及经济处罚。 同时，欧盟还计划收紧对外基建资金池，停止向使用华为设备的非欧盟国家提供项目贷款。欧盟官员称，此举意在维护网络安全与技术自主权。中方对此予以强烈谴责，指出将中企定性为高风险完全缺乏事实依据且严…",
+      "datetime": "2026-05-06T14:00:56+00:00",
+      "views": "18.1K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41247",
+      "scraped_at": "2026-05-07T20:00:32.568990"
+    },
+    {
+      "id": "zaihuapd_41246",
+      "text": "Telegram 12.1内测，现已适配Liquid Glass TG TestFlight（Beta版本的测试员已满） 🍀在花频道 🍵茶馆 📮投稿",
+      "clean_text": "Telegram 12.1内测，现已适配Liquid Glass TG TestFlight（Beta版本的测试员已满） 🍀在花频道 🍵茶馆 📮投稿",
+      "datetime": "2026-05-06T13:13:40+00:00",
+      "views": "18.7K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41246",
+      "scraped_at": "2026-05-07T20:00:32.538430"
+    },
+    {
+      "id": "zaihuapd_41245",
+      "text": "韩国三星电子决定退出LED业务 由于集团整体业绩未达预期，韩国三星电子最近开始进行业务结构调整，其中半导体部门决定退出LED业务。同时，三星电子在半导体等优势业务板块面临的挑战也越来越大，其股价今年以来已下跌超23%。数据显示，外国投资者已经连续28个交易日净卖出三星电子股票，刷新了有史以来最长净卖出纪录。在此期间，三星电子市值蒸发了约90万亿韩元（约合人民币4671亿元）。 央视财经 📮 热点投稿 @ZaiHuabot 京东淘宝无门槛红包 m.fanli.me",
+      "clean_text": "韩国三星电子决定退出LED业务 由于集团整体业绩未达预期，韩国三星电子最近开始进行业务结构调整，其中半导体部门决定退出LED业务。同时，三星电子在半导体等优势业务板块面临的挑战也越来越大，其股价今年以来已下跌超23%。数据显示，外国投资者已经连续28个交易日净卖出三星电子股票，刷新了有史以来最长净卖出纪录。在此期间，三星电子市值蒸发了约90万亿韩元（约合人民币4671亿元）。 央视财经 📮 热点投稿 @ZaiHuabot 京东淘宝无门槛红包 m.fanli.me",
+      "datetime": "2026-05-06T11:55:25+00:00",
+      "views": "20.5K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41245",
+      "scraped_at": "2026-05-07T20:00:32.509349"
+    },
+    {
+      "id": "zaihuapd_41244",
+      "text": "📱 Google Chrome 被指在未经许可下静默下载 4 GB AI 模型\n\n安全研究员 Alexander Hanff 称，Google Chrome 在未征得用户同意的情况下，向符合硬件条件的设备后台静默下载约 4 GB 的 Gemini Nano AI 模型文件（weights.bin）。即便手动删除该文件，浏览器也会自动重下。该行为被指违反欧盟 GDPR 等法律，剥夺了用户设备控制权。\n\n此次静默部署引发了对环境及带宽成本的担忧。研究员估算，若覆盖 10 亿用户，仅模型分发产生的碳排放就可能达 6 万吨。此外，4 GB 的数据传输也会增加限额上网用户的经济负担。此前 Anthropic 的 Claude 应用也被指存在类似行为，反映出科技巨头强推 AI 部署的趋势。\n\nTom's Hardware\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "📱 Google Chrome 被指在未经许可下静默下载 4 GB AI 模型\n\n安全研究员 Alexander Hanff 称，Google Chrome 在未征得用户同意的情况下，向符合硬件条件的设备后台静默下载约 4 GB 的 Gemini Nano AI 模型文件（weights.bin）。即便手动删除该文件，浏览器也会自动重下。该行为被指违反欧盟 GDPR 等法律，剥夺了用户设备控制权。\n\n此次静默部署引发了对环境及带宽成本的担忧。研究员估算，若覆盖 10 亿用户，仅模型分发产生的碳排放就可能达 6 万吨。此外，4 GB 的数据传输也会增加限额上网用户的经济负担。此前 Anthropic 的 Claude 应用也被指存在类似行为，反映出科技巨头强推 AI 部署的趋势。\n\nTom's Hardware\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-06T11:15:58+00:00",
+      "views": "19.2K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41244",
+      "scraped_at": "2026-05-07T20:00:32.444431"
+    },
+    {
+      "id": "zaihuapd_41242",
+      "text": "📱 谷歌将在 I/O 大会发布安卓 17，采用与 iOS 26 类似的液态玻璃设计\n\n谷歌预告于当地时间 5 月 12 日的 I/O 大会发布安卓 17，系统将采用液态玻璃设计。这种半透明 UI 使用反射、折射和动态变形渲染，与 iOS 26 设计语言趋同。液态玻璃对硬件图形和续航要求较高，谷歌需平衡功耗与视觉效果。下半年基于安卓 17 的国产定制系统有望引入该设计，提升交互界面的通透感。\n\n快科技\n\n更新：谷歌 Android 负责人 Sameer Samat 否认 Android 将推出类似苹果“Liquid Glass”的大改版。谷歌将在 5 月 12 日举行 The Android Show，预计会公布一批 Android 生态更新。现阶段可以确认的是，外界担心的这类整体视觉改版并不在这次调整范围内。\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "clean_text": "📱 谷歌将在 I/O 大会发布安卓 17，采用与 iOS 26 类似的液态玻璃设计\n\n谷歌预告于当地时间 5 月 12 日的 I/O 大会发布安卓 17，系统将采用液态玻璃设计。这种半透明 UI 使用反射、折射和动态变形渲染，与 iOS 26 设计语言趋同。液态玻璃对硬件图形和续航要求较高，谷歌需平衡功耗与视觉效果。下半年基于安卓 17 的国产定制系统有望引入该设计，提升交互界面的通透感。\n\n快科技\n\n更新：谷歌 Android 负责人 Sameer Samat 否认 Android 将推出类似苹果“Liquid Glass”的大改版。谷歌将在 5 月 12 日举行 The Android Show，预计会公布一批 Android 生态更新。现阶段可以确认的是，外界担心的这类整体视觉改版并不在这次调整范围内。\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-06T09:04:05+00:00",
+      "views": "19.8K",
+      "source_links": [
+        {
+          "text": "快科技",
+          "url": "https://m.mydrivers.com/newsview/1120324.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41242",
+      "scraped_at": "2026-05-07T20:00:32.351368"
+    }
+  ],
+  "last_update": "2026-05-07T20:00:33.347345"
 }
