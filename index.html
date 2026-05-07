@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pulse · 频道监控</title>
+<title>Pulse · 素材雷达</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -99,9 +99,18 @@ body {
 .toolbar {
   max-width: 1100px; margin: 0 auto;
   padding: 16px 28px 0;
-  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;
+  display: flex; flex-direction: column; gap: 12px;
 }
-.filters { display: flex; gap: 5px; flex-wrap: wrap; }
+.stats-bar {
+  display: flex; gap: 20px; flex-wrap: wrap;
+}
+.stat-item {
+  font-size: 12px; color: var(--text-3); font-family: var(--mono);
+}
+.stat-item strong {
+  color: var(--text-2); font-weight: 600; margin-left: 2px;
+}
+.filters { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
 .filter-btn {
   padding: 5px 13px; border-radius: 999px;
   border: 1px solid var(--border); background: transparent;
@@ -181,6 +190,12 @@ body {
   letter-spacing: -0.2px; color: var(--text);
   display: -webkit-box; -webkit-line-clamp: 2;
   -webkit-box-orient: vertical; overflow: hidden;
+}
+.card-summary {
+  font-size: 12px; color: var(--accent); margin-top: 4px;
+  display: -webkit-box; -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical; overflow: hidden;
+  opacity: 0.85;
 }
 .hot-badge {
   display: inline-flex; align-items: center; gap: 3px;
@@ -370,8 +385,8 @@ body {
   .header-inner, .toolbar, .content { padding-left: 16px; padding-right: 16px; }
   .grid { grid-template-columns: 1fr; }
   .search-wrap { max-width: none; flex: 1; }
-  .toolbar { flex-direction: column; align-items: flex-start; }
   .toolbar-right { width: 100%; justify-content: space-between; }
+  .card-actions { flex-wrap: wrap; }
 }
 
 /* === SCROLLBAR === */
@@ -387,7 +402,7 @@ body {
   <div class="header-inner">
     <div class="logo">
       <div class="logo-dot"></div>
-      Pulse <span>频道监控</span>
+      Pulse <span>素材雷达</span>
     </div>
     <div class="search-wrap">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
@@ -397,19 +412,28 @@ body {
 </header>
 
 <div class="toolbar">
-  <div class="filters" id="filters">
+  <div class="stats-bar" id="statsBar">
+    <span class="stat-item">今日新增 <strong id="statToday">0</strong></span>
+    <span class="stat-item">高价值 <strong id="statHigh">0</strong></span>
+    <span class="stat-item">未处理 <strong id="statUnprocessed">0</strong></span>
+  </div>
+  <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px">
+    <div class="filters" id="filters">
     <button class="filter-btn active" data-filter="all">全部</button>
     <button class="filter-btn" data-filter="AI"><span class="dot" style="background:var(--accent)"></span>AI</button>
     <button class="filter-btn" data-filter="公司"><span class="dot" style="background:var(--orange)"></span>公司</button>
     <button class="filter-btn" data-filter="金融"><span class="dot" style="background:var(--green)"></span>金融</button>
     <button class="filter-btn" data-filter="科技"><span class="dot" style="background:var(--purple)"></span>科技</button>
-  </div>
+    </div>
   <div class="toolbar-right">
     <div class="count"><strong id="totalCount">0</strong> 条</div>
     <div class="sort-group" id="sortGroup">
-      <button class="sort-btn active" data-sort="time">时间</button>
+      <button class="sort-btn" data-sort="unprocessed">未处理优先</button>
+      <button class="sort-btn active" data-sort="time">最新</button>
       <button class="sort-btn" data-sort="hot">热度</button>
+      <button class="sort-btn" data-sort="value">价值</button>
     </div>
+  </div>
   </div>
 </div>
 
@@ -478,6 +502,19 @@ function classify(title) {
   return '科技';
 }
 
+function evaluateValue(title, content, views) {
+  var score = 0;
+  var text = (title + ' ' + content).toLowerCase();
+  if (/\d+亿|\$\d+|估值|收入|营收|市值/.test(text)) score += 20;
+  if (/苹果|谷歌|微软|meta|openai|anthropic|腾讯|阿里|字节|华为|特斯拉/.test(text)) score += 20;
+  if (/gpt|claude|gemini|模型|产品发布|上线/.test(text)) score += 15;
+  if (/合作|收购|争议|突破|发布/.test(text)) score += 15;
+  if (views >= 1000) score += 15;
+  if (score >= 60) return 'high';
+  if (score >= 35) return 'mid';
+  return 'normal';
+}
+
 function parseViews(v) {
   if (typeof v === 'number') return v;
   if (!v) return 0;
@@ -515,12 +552,17 @@ function loadData() {
       allData = (data.messages || []).map(function(m) {
         var txt = m.clean_text || m.text || '';
         var title = txt.split(/[。！？\n]/)[0].trim().slice(0, 50);
+        var summary = txt.split(/[。！？\n]/).filter(function(s){return s.trim().length > 8;})[0] || txt.slice(0, 80);
+        var views = parseViews(m.views);
         return Object.assign({}, m, {
           title: title,
           content: txt,
+          summary: summary.trim().slice(0, 80),
           date: m.datetime,
-          views: parseViews(m.views),
-          tag: classify(title + ' ' + txt)
+          views: views,
+          tag: classify(title + ' ' + txt),
+          value: evaluateValue(title, txt, views),
+          status: m.status || 'unprocessed'
         });
       });
       renderCards();
@@ -547,10 +589,28 @@ function renderCards() {
 
   if (currentSort === 'hot')
     items.sort(function(a, b) { return (b.views || 0) - (a.views || 0); });
+  else if (currentSort === 'value')
+    items.sort(function(a, b) { var vo = {high:3,mid:2,normal:1}; return (vo[b.value]||0) - (vo[a.value]||0); });
+  else if (currentSort === 'unprocessed')
+    items.sort(function(a, b) {
+      var so = {unprocessed:0,processed:1,image_generated:2,published:3,ignored:4};
+      var va = so[a.status]||0, vb = so[b.status]||0;
+      if (va !== vb) return va - vb;
+      return new Date(b.date) - new Date(a.date);
+    });
   else
     items.sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
 
   document.getElementById('totalCount').textContent = items.length;
+
+  // Update stats
+  var today = new Date().toDateString();
+  var todayCount = allData.filter(function(m) { return new Date(m.date).toDateString() === today; }).length;
+  var highCount = allData.filter(function(m) { return m.value === 'high'; }).length;
+  var unprocCount = allData.filter(function(m) { return m.status === 'unprocessed'; }).length;
+  document.getElementById('statToday').textContent = todayCount;
+  document.getElementById('statHigh').textContent = highCount;
+  document.getElementById('statUnprocessed').textContent = unprocCount;
 
   if (!items.length) {
     document.getElementById('cardGrid').innerHTML = '';
@@ -571,12 +631,14 @@ function renderCards() {
       +   '<div class="card-icon ' + tagCls + '">' + (ICONS[tag] || ICONS['科技']) + '</div>'
       +   '<div class="card-header">'
       +     '<span class="card-tag ' + tagCls + '">' + esc(tag) + '</span>'
+      +     (m.value === 'high' ? '<span class="hot-badge" style="background:var(--orange-bg);color:var(--orange)">🔥 高价值</span>' : '')
       +     (isHot ? '<span class="hot-badge">HOT</span>' : '')
       +     '<h3 class="card-title">' + esc(m.title || (m.content || '').slice(0, 50)) + '</h3>'
+      +     (m.summary ? '<p class="card-summary">' + esc(m.summary) + '</p>' : '')
       +   '</div>'
       + '</div>'
       + '<div class="card-body">'
-      +   '<p class="card-excerpt">' + esc((m.content || '').slice(0, 160)) + '</p>'
+      +   '<p class="card-excerpt">' + esc((m.content || '').slice(0, 120)) + '</p>'
       + '</div>'
       + '<div class="card-footer">'
       +   '<div class="card-meta">'
@@ -587,7 +649,9 @@ function renderCards() {
       +     '</span>'
       +   '</div>'
       +   '<div class="card-actions">'
-      +     '<button onclick="copyFull(' + idx + ')">复制</button>'
+      +     '<button onclick="copySummary(' + idx + ')" title="复制重点">📋 重点</button>'
+      +     '<button onclick="copyTitle(' + idx + ')" title="复制标题">📌 标题</button>'
+      +     '<button onclick="copyPrompt(' + idx + ')" title="复制提示词">🎨 提示词</button>'
       +     '<button class="btn-accent" onclick="extractInfo(' + idx + ')">提取</button>'
       +   '</div>'
       + '</div>'
@@ -602,6 +666,38 @@ var currentInfo = null;
 function copyFull(i) {
   navigator.clipboard.writeText(allData[i].content || allData[i].title)
     .then(function() { showToast('已复制全文'); });
+}
+
+function copySummary(i) {
+  var m = allData[i];
+  var text = '【重点】' + (m.summary || m.title) + '\n【来源】' + (m.source_channel || '');
+  navigator.clipboard.writeText(text)
+    .then(function() { showToast('已复制重点'); markProcessed(i); });
+}
+
+function copyTitle(i) {
+  navigator.clipboard.writeText(allData[i].title || '')
+    .then(function() { showToast('已复制标题'); markProcessed(i); });
+}
+
+function copyPrompt(i) {
+  var m = allData[i];
+  var text = '新闻配图，标题：' + m.title
+    + '\n\n画面主体：科技新闻场景'
+    + '\n背景元素：数字化、数据流、科技元素'
+    + '\n风格：科技感、现代新闻视觉、未来感、干净构图、蓝紫色光效'
+    + '\n画幅：16:9 横版封面'
+    + '\n避免：不要出现真实品牌Logo，不要过多文字，不要杂乱';
+  navigator.clipboard.writeText(text)
+    .then(function() { showToast('已复制提示词'); markImageGen(i); });
+}
+
+function markProcessed(i) {
+  if (allData[i]) allData[i].status = 'processed';
+}
+
+function markImageGen(i) {
+  if (allData[i]) allData[i].status = 'image_generated';
 }
 
 function extractInfo(i) {
