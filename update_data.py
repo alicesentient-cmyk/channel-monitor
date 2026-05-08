@@ -6,9 +6,9 @@ import os
 import base64
 from datetime import datetime, timedelta
 
-# 路径配置
-SOURCE_DIR = os.path.expanduser('~/channel_data')
-DEST_DIR = os.path.expanduser('~/channel-monitor')
+# 路径配置 - 使用绝对路径
+SOURCE_DIR = '/Users/mybot/channel_data'
+DEST_DIR = '/Users/mybot/channel-monitor'
 DATA_FILE = os.path.join(DEST_DIR, 'data.json')
 INDEX_FILE = os.path.join(DEST_DIR, 'index.html')
 
