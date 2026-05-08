@@ -64,8 +64,11 @@ def update_data():
         'updated_at': datetime.now().isoformat()
     }
     
+    # 强制写入文件
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+        f.flush()  # 强制刷新缓冲区
+        os.fsync(f.fileno())  # 强制同步到磁盘
     
     print(f"✅ 已更新 {len(messages)} 条消息到 data.json")
     return data
@@ -96,9 +99,11 @@ def update_index(data):
     # 替换
     new_html = html[:start] + b64_data + html[end:]
     
-    # 写入
+    # 强制写入文件
     with open(INDEX_FILE, 'w', encoding='utf-8') as f:
         f.write(new_html)
+        f.flush()  # 强制刷新缓冲区
+        os.fsync(f.fileno())  # 强制同步到磁盘
     
     print(f"✅ 已更新 index.html")
     return True
@@ -109,7 +114,7 @@ def git_push():
     os.system('git add .')
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     os.system(f'git commit -m "update: {timestamp}"')
-    os.system('git push origin main --force')
+    os.system('git push origin main')
     print("✅ 已推送到GitHub")
 
 if __name__ == '__main__':
