@@ -3,7 +3,6 @@
 
 import json
 import os
-import re
 import base64
 from datetime import datetime, timedelta
 
@@ -81,15 +80,21 @@ def update_index(data):
     with open(INDEX_FILE, 'r', encoding='utf-8') as f:
         html = f.read()
     
-    # 替换 _d 变量 - 使用更宽松的正则
-    pattern = r'const _d = "[^"]*"'
-    replacement = f'const _d = "{b64_data}"'
-    new_html = re.sub(pattern, replacement, html)
-    
-    # 检查是否替换成功
-    if new_html == html:
-        print("⚠️ 警告：_d 变量未被替换")
+    # 查找 _d 变量的开始和结束位置
+    start_marker = 'const _d = "'
+    start = html.find(start_marker)
+    if start == -1:
+        print("❌ 未找到 _d 变量")
         return False
+    
+    start += len(start_marker)
+    end = html.find('"', start)
+    if end == -1:
+        print("❌ _d 变量格式错误")
+        return False
+    
+    # 替换
+    new_html = html[:start] + b64_data + html[end:]
     
     # 写入
     with open(INDEX_FILE, 'w', encoding='utf-8') as f:
