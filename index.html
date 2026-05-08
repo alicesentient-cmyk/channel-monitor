@@ -7,33 +7,33 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #08090a;
-  --bg-panel: #0f1011;
-  --bg-card: #131415;
-  --bg-elevated: #1a1b1d;
-  --bg-hover: #1f2023;
-  --text: #f0f1f3;
-  --text-2: #a0a4ab;
-  --text-3: #6b7078;
-  --border: rgba(255,255,255,0.06);
-  --border-hover: rgba(255,255,255,0.12);
-  --accent: #6e78d6;
-  --accent-hover: #8b93ff;
-  --accent-bg: rgba(110,120,214,0.12);
-  --green: #3dd68c;
-  --green-bg: rgba(61,214,140,0.1);
-  --orange: #e8943a;
-  --orange-bg: rgba(232,148,58,0.1);
-  --red: #f06b5e;
-  --red-bg: rgba(240,107,94,0.1);
-  --purple: #a78bfa;
-  --purple-bg: rgba(167,139,250,0.1);
+  --bg: #f5f6f8;
+  --bg-panel: #ffffff;
+  --bg-card: #ffffff;
+  --bg-elevated: #f0f1f4;
+  --bg-hover: #e8e9ed;
+  --text: #1a1a2e;
+  --text-2: #5a5d6b;
+  --text-3: #9196a5;
+  --border: rgba(0,0,0,0.08);
+  --border-hover: rgba(0,0,0,0.15);
+  --accent: #4f5bd5;
+  --accent-hover: #3d48b8;
+  --accent-bg: rgba(79,91,213,0.08);
+  --green: #16a34a;
+  --green-bg: rgba(22,163,74,0.08);
+  --orange: #d97706;
+  --orange-bg: rgba(217,119,6,0.08);
+  --red: #dc2626;
+  --red-bg: rgba(220,38,38,0.08);
+  --purple: #7c3aed;
+  --purple-bg: rgba(124,58,237,0.08);
   --radius: 10px;
   --radius-lg: 14px;
   --font: 'Inter', -apple-system, system-ui, sans-serif;
   --mono: 'SF Mono', ui-monospace, Menlo, monospace;
-  --card-shadow: 0 0 0 1px rgba(255,255,255,0.04);
-  --card-shadow-hover: 0 0 0 1px rgba(255,255,255,0.08), 0 8px 24px rgba(0,0,0,0.4);
+  --card-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  --card-shadow-hover: 0 4px 16px rgba(0,0,0,0.1);
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -50,7 +50,7 @@ body {
 /* === HEADER === */
 .header {
   position: sticky; top: 0; z-index: 100;
-  background: rgba(8,9,10,0.82);
+  background: rgba(255,255,255,0.85);
   backdrop-filter: blur(20px) saturate(1.4);
   -webkit-backdrop-filter: blur(20px) saturate(1.4);
   border-bottom: 1px solid var(--border);
@@ -68,7 +68,7 @@ body {
 .logo-dot {
   width: 8px; height: 8px; border-radius: 50%;
   background: var(--green);
-  box-shadow: 0 0 8px var(--green);
+  box-shadow: 0 0 6px var(--green);
   animation: pulse 2s ease-in-out infinite;
 }
 @keyframes pulse {
@@ -264,7 +264,7 @@ body {
 /* === MODAL === */
 .modal-overlay {
   position: fixed; inset: 0; z-index: 200;
-  background: rgba(0,0,0,0.6);
+  background: rgba(0,0,0,0.3);
   backdrop-filter: blur(4px);
   display: flex; align-items: center; justify-content: center;
   opacity: 0; pointer-events: none; transition: opacity 0.2s ease;
@@ -278,7 +278,7 @@ body {
   overflow-y: auto;
   transform: scale(0.96) translateY(8px);
   transition: transform 0.25s cubic-bezier(0.2, 0, 0, 1);
-  box-shadow: 0 24px 48px rgba(0,0,0,0.5);
+  box-shadow: 0 16px 40px rgba(0,0,0,0.12);
 }
 .modal-overlay.active .modal { transform: scale(1) translateY(0); }
 .modal-head {
@@ -310,6 +310,7 @@ body {
   background: var(--bg-elevated); color: var(--text-2);
   border: 1px solid var(--border);
 }
+.info-badge.angle { background: var(--accent-bg); color: var(--accent); border-color: transparent; }
 .info-points { list-style: none; counter-reset: pts; }
 .info-points li {
   counter-increment: pts;
@@ -347,11 +348,11 @@ body {
 .toast {
   position: fixed; bottom: 32px; left: 50%;
   transform: translateX(-50%) translateY(60px);
-  background: var(--bg-elevated); color: var(--text);
+  background: var(--bg-panel); color: var(--text);
   padding: 10px 20px; border-radius: 10px;
   font-size: 13px; font-weight: 500;
   border: 1px solid var(--border);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
   z-index: 9999; opacity: 0;
   transition: transform 0.3s cubic-bezier(0.2,0,0,1), opacity 0.3s ease;
   pointer-events: none;
@@ -365,7 +366,7 @@ body {
   border: 1px solid var(--border); background: var(--bg-panel);
   color: var(--text-3); font-size: 16px; cursor: pointer;
   display: flex; align-items: center; justify-content: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   opacity: 0; transform: translateY(8px);
   transition: all 0.25s ease; z-index: 50;
 }
@@ -392,8 +393,8 @@ body {
 /* === SCROLLBAR === */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 3px; }
-::-webkit-scrollbar-thumb:hover { background: var(--text-3); }
+::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.25); }
 </style>
 </head>
 <body>
@@ -483,11 +484,9 @@ var ICONS = {
   科技: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M9 9h6v6H9z"/><path d="M9 1v3M15 1v3M9 20v3M15 20v3M1 9h3M1 15h3M20 9h3M20 15h3"/></svg>'
 };
 
-// === THEME ===
+// === THEME (light default) ===
 (function() {
-  var saved = localStorage.getItem('theme') || 'dark';
-  document.documentElement.setAttribute('data-theme', saved);
-  document.body.style.setProperty('--bg', saved === 'dark' ? '#08090a' : '#ffffff');
+  document.documentElement.setAttribute('data-theme', 'light');
 })();
 
 // === STATE ===
@@ -705,30 +704,50 @@ function extractInfo(i) {
   var title = m.title || (m.content || '').slice(0, 60);
   var content = m.content || '';
   var entities = [];
-  var p1 = /Anthropic|OpenAI|Meta|Google|Microsoft|Apple|小米|华为|腾讯|阿里|字节|Coinbase|Tesla|Samsung|三星|DeepSeek/gi;
-  var p2 = /GPT-[\w.]+|Claude|Gemini|Llama|Sora|DeepSeek/g;
+  var p1 = /Anthropic|OpenAI|Meta|Google|Microsoft|Apple|小米|华为|腾讯|阿里|字节|Coinbase|Tesla|Samsung|三星|DeepSeek|月之暗面|百度|京东|拼多多/gi;
+  var p2 = /GPT-[\w.]+|Claude|Gemini|Llama|Sora|DeepSeek|Kimi|豆包|通义/g;
   var m2;
   while ((m2 = p1.exec(content)) !== null) entities.push(m2[0]);
   while ((m2 = p2.exec(content)) !== null) entities.push(m2[0]);
+  entities = entities.filter(function(v, i, a) { return a.indexOf(v) === i; });
+
   var points = content.split(/[。！？\n]/).filter(function(s) { return s.trim().length > 10; }).slice(0, 5);
+
+  // Auto-generate angles
+  var angles = [];
+  var t = (title + ' ' + content).toLowerCase();
+  if (/融资|估值|收入|市值|营收/.test(t)) angles.push('融资估值');
+  if (/ai|大模型|gpt|llm/.test(t)) angles.push('AI 技术');
+  if (/产品|上线|发布|更新/.test(t)) angles.push('产品动态');
+  if (/合作|收购|投资/.test(t)) angles.push('商业合作');
+  if (/争议|安全|隐私|监管/.test(t)) angles.push('行业争议');
+  if (/国产|中国|国内/.test(t)) angles.push('国产替代');
+  if (/开源|模型|训练/.test(t)) angles.push('开源生态');
+  if (angles.length === 0) angles.push('行业资讯', '科技趋势');
+  if (angles.length > 3) angles = angles.slice(0, 3);
+
   currentInfo = {
-    title: title, tag: m.tag,
-    entities: entities.filter(function(v, i, a) { return a.indexOf(v) === i; }),
+    title: title, tag: m.tag, summary: m.summary,
+    entities: entities, angles: angles,
     points: points, content: content
   };
 
   var entHtml = '';
-  currentInfo.entities.forEach(function(e) { entHtml += '<span class="info-badge">' + esc(e) + '</span>'; });
+  entities.forEach(function(e) { entHtml += '<span class="info-badge">' + esc(e) + '</span>'; });
+  var angHtml = '';
+  angles.forEach(function(a) { angHtml += '<span class="info-badge angle">' + esc(a) + '</span>'; });
   var ptsHtml = '';
   points.forEach(function(p) { ptsHtml += '<li>' + esc(p.trim()) + '</li>'; });
 
   document.getElementById('modalBody').innerHTML =
-    '<div class="info-section"><div class="info-label">分类</div><div class="info-value">' + esc(m.tag) + '</div></div>'
-    + '<div class="info-section"><div class="info-label">标题</div><div class="info-value">' + esc(title) + '</div></div>'
-    + (entHtml ? '<div class="info-section"><div class="info-label">实体</div><div class="info-value">' + entHtml + '</div></div>' : '')
-    + '<div class="info-section"><div class="info-label">要点</div><ol class="info-points">' + ptsHtml + '</ol></div>';
+    '<div class="info-section"><div class="info-label">一句话重点</div><div class="info-value" style="color:var(--accent);font-weight:500">' + esc(m.summary || title) + '</div></div>'
+    + '<div class="info-section"><div class="info-label">核心事实</div><ol class="info-points">' + ptsHtml + '</ol></div>'
+    + (entHtml ? '<div class="info-section"><div class="info-label">涉及实体</div><div class="info-value">' + entHtml + '</div></div>' : '')
+    + (angHtml ? '<div class="info-section"><div class="info-label">可用角度</div><div class="info-value">' + angHtml + '</div></div>' : '')
+    + '<div class="info-section"><div class="info-label">配图方向</div><div class="info-value">科技感、现代新闻视觉、深色背景、蓝紫色光效</div></div>';
 
   document.getElementById('modalOverlay').classList.add('active');
+  markProcessed(i);
 }
 
 function closeModal() { document.getElementById('modalOverlay').classList.remove('active'); }
