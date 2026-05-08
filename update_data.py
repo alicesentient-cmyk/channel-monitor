@@ -5,7 +5,7 @@ import json
 import os
 import re
 import base64
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # 路径配置
 SOURCE_DIR = os.path.expanduser('~/channel_data')
@@ -15,7 +15,6 @@ INDEX_FILE = os.path.join(DEST_DIR, 'index.html')
 
 def clean_old_messages(messages):
     """清除5天前的消息"""
-    from datetime import timedelta
     cutoff = datetime.now() - timedelta(days=5)
     
     filtered = []
@@ -82,16 +81,22 @@ def update_index(data):
     with open(INDEX_FILE, 'r', encoding='utf-8') as f:
         html = f.read()
     
-    # 替换 _d 变量
-    pattern = r'const _d = "[^"]+";'
-    replacement = f'const _d = "{b64_data}";'
+    # 替换 _d 变量 - 使用更宽松的正则
+    pattern = r'const _d = "[^"]*"'
+    replacement = f'const _d = "{b64_data}"'
     new_html = re.sub(pattern, replacement, html)
+    
+    # 检查是否替换成功
+    if new_html == html:
+        print("⚠️ 警告：_d 变量未被替换")
+        return False
     
     # 写入
     with open(INDEX_FILE, 'w', encoding='utf-8') as f:
         f.write(new_html)
     
     print(f"✅ 已更新 index.html")
+    return True
 
 def git_push():
     """推送到GitHub"""
@@ -99,10 +104,12 @@ def git_push():
     os.system('git add .')
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     os.system(f'git commit -m "update: {timestamp}"')
-    os.system('git push origin main')
+    os.system('git push origin main --force')
     print("✅ 已推送到GitHub")
 
 if __name__ == '__main__':
     data = update_data()
-    update_index(data)
-    git_push()
+    if update_index(data):
+        git_push()
+    else:
+        print("❌ 更新失败，未推送")
