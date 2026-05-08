@@ -633,7 +633,6 @@ function renderCards() {
       +     (m.value === 'high' ? '<span class="hot-badge" style="background:var(--orange-bg);color:var(--orange)">🔥 高价值</span>' : '')
       +     (isHot ? '<span class="hot-badge">HOT</span>' : '')
       +     '<h3 class="card-title">' + esc(m.title || (m.content || '').slice(0, 50)) + '</h3>'
-      +     (m.summary ? '<p class="card-summary">' + esc(m.summary) + '</p>' : '')
       +   '</div>'
       + '</div>'
       + '<div class="card-body">'
@@ -648,9 +647,6 @@ function renderCards() {
       +     '</span>'
       +   '</div>'
       +   '<div class="card-actions">'
-      +     '<button onclick="copySummary(' + idx + ')" title="复制重点">📋 重点</button>'
-      +     '<button onclick="copyTitle(' + idx + ')" title="复制标题">📌 标题</button>'
-      +     '<button onclick="copyPrompt(' + idx + ')" title="复制提示词">🎨 提示词</button>'
       +     '<button class="btn-accent" onclick="extractInfo(' + idx + ')">提取</button>'
       +   '</div>'
       + '</div>'
@@ -761,13 +757,18 @@ function copyText(type) {
   if (!currentInfo) return;
   var text;
   if (type === 'info') {
-    text = '主体: ' + currentInfo.tag + '\n标题: ' + currentInfo.title
-      + '\n实体: ' + currentInfo.entities.join(', ')
-      + '\n要点:\n' + currentInfo.points.map(function(p, i) { return (i + 1) + '. ' + p.trim(); }).join('\n');
+    text = '【标题】' + currentInfo.title
+      + '\n【重点】' + (currentInfo.summary || '')
+      + '\n【实体】' + currentInfo.entities.join(', ')
+      + '\n【角度】' + (currentInfo.angles || []).join(', ')
+      + '\n【要点】\n' + currentInfo.points.map(function(p, i) { return (i + 1) + '. ' + p.trim(); }).join('\n');
   } else {
-    text = '请生成一张科技新闻配图：\n标题：' + currentInfo.title
-      + '\n关键词：' + currentInfo.entities.join(', ')
-      + '\n风格：现代简约、科技感、深色背景';
+    text = '新闻配图，标题：' + currentInfo.title
+      + '\n\n画面主体：' + (currentInfo.entities[0] || '科技') + '相关场景'
+      + '\n背景元素：数字化、数据流、科技元素'
+      + '\n风格：科技感、现代新闻视觉、未来感、干净构图、蓝紫色光效'
+      + '\n画幅：16:9 横版封面'
+      + '\n避免：不要出现真实品牌Logo，不要过多文字，不要杂乱';
   }
   navigator.clipboard.writeText(text)
     .then(function() { showToast(type === 'info' ? '已复制信息' : '已复制提示词'); });
