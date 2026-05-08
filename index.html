@@ -338,6 +338,49 @@ body {
   .footer-inner { flex-direction: column; gap: 12px; text-align: center; padding: 0 16px; }
   .footer { padding: 20px 0 28px; }
 }
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin: 32px 0;
+  flex-wrap: wrap;
+}
+.pagination button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-card);
+  color: var(--text-primary);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.pagination button:hover:not(:disabled):not(.active) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.pagination button.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.pagination button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+.pagination .dots {
+  color: var(--text-tertiary);
+  padding: 0 4px;
+}
 </style>
 </head>
 <body>
@@ -375,7 +418,7 @@ body {
     <div class="skeleton-card"><div class="skeleton skeleton-cover"></div><div class="skeleton skeleton-tag"></div><div class="skeleton skeleton-title"></div><div class="skeleton skeleton-text"></div><div class="skeleton skeleton-text2"></div><div class="skeleton skeleton-meta"></div></div>
   </div>
   <div class="card-grid" id="cardGrid"></div>
-  <button class="load-more" id="loadMore" type="button">加载更多</button>
+  <div class="pagination" id="pagination"></div>
   <div class="empty-state" id="emptyState" style="display:none;">
     <div class="icon">📭</div>
     <div class="title">暂无消息</div>
@@ -423,11 +466,11 @@ const visibleCountEl = document.getElementById("visibleCount");
 const skeletonsEl = document.getElementById("skeletons");
 const cardGridEl = document.getElementById("cardGrid");
 const emptyStateEl = document.getElementById("emptyState");
-const loadMoreEl = document.getElementById("loadMore");
+const paginationEl = document.getElementById("pagination");
 const modalOverlay = document.getElementById("modalOverlay");
 const modalClose = document.getElementById("modalClose");
 const modalBody = document.getElementById("modalBody");
-const PAGE_SIZE = 40;
+const PAGE_SIZE = 20;
 
 function setTheme(t) {
   document.documentElement.setAttribute("data-theme", t);
@@ -440,7 +483,7 @@ themeToggle.addEventListener("click", function() {
   setTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
 });
 
-var allData = [], filteredData = [], currentFilter = "all", currentSort = "time", visibleLimit = PAGE_SIZE;
+var allData = [], filteredData = [], currentFilter = "all", currentSort = "time", currentPage = 1;
 var currentInfo = null, lastTrigger = null, searchTimer = null;
 
 function classify(text) {
@@ -544,7 +587,7 @@ function loadData() {
   } catch(e) {
     skeletonsEl.style.display = "none";
     cardGridEl.innerHTML = "";
-    loadMoreEl.style.display = "none";
+    paginationEl.style.display = "none";
     totalCountEl.textContent = "0";
     visibleCountEl.textContent = "0";
     setEmptyState("noData");
@@ -563,28 +606,32 @@ function applyFilters() {
   return items;
 }
 
-function renderCards(resetLimit) {
+function renderCards(resetPage) {
   skeletonsEl.style.display = "none";
-  if (resetLimit) visibleLimit = PAGE_SIZE;
+  if (resetPage) currentPage = 1;
   filteredData = applyFilters();
   totalCountEl.textContent = allData.length;
   visibleCountEl.textContent = filteredData.length;
   if (!allData.length) {
     cardGridEl.innerHTML = "";
-    loadMoreEl.style.display = "none";
+    paginationEl.innerHTML = "";
     setEmptyState("noData");
     return;
   }
   if (!filteredData.length) {
     cardGridEl.innerHTML = "";
-    loadMoreEl.style.display = "none";
+    paginationEl.innerHTML = "";
     setEmptyState("noResults");
     return;
   }
   emptyStateEl.style.display = "none";
 
+  var totalPages = Math.ceil(filteredData.length / PAGE_SIZE);
+  var start = (currentPage - 1) * PAGE_SIZE;
+  var end = Math.min(start + PAGE_SIZE, filteredData.length);
+  var items = filteredData.slice(start, end);
+
   var html = "";
-  var items = filteredData.slice(0, visibleLimit);
   for (var i = 0; i < items.length; i++) {
     var m = items[i], idx = m._index;
     var views = m.views_num;
@@ -607,8 +654,47 @@ function renderCards(resetLimit) {
       + '</div></article>';
   }
   cardGridEl.innerHTML = html;
-  loadMoreEl.style.display = filteredData.length > visibleLimit ? "block" : "none";
-  loadMoreEl.textContent = "加载更多（" + Math.min(PAGE_SIZE, filteredData.length - visibleLimit) + "）";
+  
+  // 渲染分页
+  renderPagination(totalPages);
+}
+
+function renderPagination(totalPages) {
+  if (totalPages <= 1) {
+    paginationEl.innerHTML = "";
+    return;
+  }
+  
+  var html = '<button onclick="goPage(' + (currentPage - 1) + ')" ' + (currentPage <= 1 ? 'disabled' : '') + '>‹</button>';
+  
+  var startPage = Math.max(1, currentPage - 2);
+  var endPage = Math.min(totalPages, currentPage + 2);
+  
+  if (startPage > 1) {
+    html += '<button onclick="goPage(1)">1</button>';
+    if (startPage > 2) html += '<span class="dots">...</span>';
+  }
+  
+  for (var p = startPage; p <= endPage; p++) {
+    html += '<button onclick="goPage(' + p + ')" class="' + (p === currentPage ? 'active' : '') + '">' + p + '</button>';
+  }
+  
+  if (endPage < totalPages) {
+    if (endPage < totalPages - 1) html += '<span class="dots">...</span>';
+    html += '<button onclick="goPage(' + totalPages + ')">' + totalPages + '</button>';
+  }
+  
+  html += '<button onclick="goPage(' + (currentPage + 1) + ')" ' + (currentPage >= totalPages ? 'disabled' : '') + '>›</button>';
+  
+  paginationEl.innerHTML = html;
+}
+
+function goPage(page) {
+  var totalPages = Math.ceil(filteredData.length / PAGE_SIZE);
+  if (page < 1 || page > totalPages) return;
+  currentPage = page;
+  renderCards(false);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 function copyFull(i) {
@@ -697,10 +783,7 @@ searchInput.addEventListener("input", function() {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(function() { renderCards(true); }, 200);
 });
-loadMoreEl.addEventListener("click", function() {
-  visibleLimit += PAGE_SIZE;
-  renderCards(false);
-});
+
 
 var backTop = document.getElementById("backTop");
 window.addEventListener("scroll", function() { backTop.classList.toggle("visible", window.scrollY > 400); });

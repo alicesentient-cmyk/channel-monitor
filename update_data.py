@@ -13,6 +13,26 @@ DEST_DIR = os.path.expanduser('~/channel-monitor')
 DATA_FILE = os.path.join(DEST_DIR, 'data.json')
 INDEX_FILE = os.path.join(DEST_DIR, 'index.html')
 
+def clean_old_messages(messages):
+    """清除5天前的消息"""
+    from datetime import timedelta
+    cutoff = datetime.now() - timedelta(days=5)
+    
+    filtered = []
+    for m in messages:
+        try:
+            dt = datetime.fromisoformat(m.get('datetime', '').replace('Z', '+00:00'))
+            if dt.replace(tzinfo=None) >= cutoff:
+                filtered.append(m)
+        except:
+            filtered.append(m)  # 保留无法解析时间的消息
+    
+    removed = len(messages) - len(filtered)
+    if removed > 0:
+        print(f"🧹 清除 {removed} 条5天前的消息")
+    
+    return filtered
+
 def load_channel_data():
     """加载所有频道数据"""
     all_messages = []
@@ -30,6 +50,9 @@ def load_channel_data():
     
     # 按时间排序（新的在前）
     all_messages.sort(key=lambda x: x.get('datetime', ''), reverse=True)
+    
+    # 清除5天前的消息
+    all_messages = clean_old_messages(all_messages)
     
     return all_messages
 
@@ -74,7 +97,8 @@ def git_push():
     """推送到GitHub"""
     os.chdir(DEST_DIR)
     os.system('git add .')
-    os.system(f'git commit -m "update: {datetime.now().strftime(\"%Y-%m-%d %H:%M\")}"')
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
+    os.system(f'git commit -m "update: {timestamp}"')
     os.system('git push origin main')
     print("✅ 已推送到GitHub")
 
