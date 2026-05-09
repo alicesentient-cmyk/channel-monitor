@@ -114,6 +114,8 @@ def git_push():
     os.system('git add .')
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     os.system(f'git commit -m "update: {timestamp}"')
+    # 先 pull 再 push，避免冲突
+    os.system('git pull --rebase origin main')
     os.system('git push origin main')
     print("✅ 已推送到GitHub")
 
