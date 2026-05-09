@@ -12,6 +12,86 @@ DEST_DIR = '/Users/mybot/channel-monitor'
 DATA_FILE = os.path.join(DEST_DIR, 'data.json')
 INDEX_FILE = os.path.join(DEST_DIR, 'index.html')
 
+def strip_emoji(text):
+    """去除文本中的 emoji 符号"""
+    import re
+    # 匹配所有 emoji
+    emoji_pattern = re.compile(
+        "["
+        "\U0001F600-\U0001F64F"  # 表情符号
+        "\U0001F300-\U0001F5FF"  # 符号和象形文字
+        "\U0001F680-\U0001F6FF"  # 交通和地图符号
+        "\U0001F1E0-\U0001F1FF"  # 旗帜
+        "\U00002702-\U000027B0"  # 杂项符号
+        "\U000024C2-\U0001F251"  # 封闭字符
+        "\U0001f926-\U0001f937"  # 补充符号
+        "\U00010000-\U0010ffff"  # 补充字符
+        "\u200d"                 # 零宽连接符
+        "\u2600-\u26FF"          # 杂项符号
+        "\u2700-\u27BF"          # 装饰符号
+        "\uFE00-\uFE0F"          # 变体选择符
+        "\u2300-\u23FF"          # 技术符号
+        "]+", flags=re.UNICODE
+    )
+    return emoji_pattern.sub('', text).strip()
+
+def strip_channel_info(text):
+    """去除频道信息和无关内容"""
+    import re
+    # 去除常见的频道标记
+    patterns = [
+        r'在花频道\s*[·•]\s*茶馆[聊天讨论]*\s*[·•]\s*投稿通道',
+        r'在花频道',
+        r'茶馆聊天',
+        r'茶馆讨论',
+        r'投稿通道',
+        r'🍵\s*茶馆[聊天讨论]*',
+        r'📮\s*投稿通道',
+        r'🍀\s*.*?频道',
+    ]
+    for p in patterns:
+        text = re.sub(p, '', text)
+    return text.strip()
+
+def is_news_content(text):
+    """判断是否为新闻内容，过滤闲聊和互动内容"""
+    import re
+    # 过滤掉的关键词（闲聊、互动、提醒等）
+    noise_patterns = [
+        r'宝子们',
+        r'记得定.*闹钟',
+        r'记得设.*闹钟',
+        r'晚安',
+        r'早安',
+        r'午安',
+        r'祝大家',
+        r'节日快乐',
+        r'新年快乐',
+        r'明天见',
+        r'后天见',
+        r'下周见',
+        r'下期见',
+        r'下次见',
+        r'别忘了',
+        r'不要忘记',
+        r'提醒一下',
+        r'温馨提示',
+        r'小提示',
+        r'今日份的',
+        r'一起加油',
+        r'加油鸭',
+        r'冲鸭',
+    ]
+    for p in noise_patterns:
+        if re.search(p, text):
+            return False
+    
+    # 太短的内容可能不是新闻
+    if len(text.strip()) < 20:
+        return False
+        
+    return True
+
 def clean_old_messages(messages):
     """清除5天前的消息"""
     cutoff = datetime.now() - timedelta(days=5)
@@ -46,13 +126,39 @@ def load_channel_data():
             except Exception as e:
                 print(f"❌ 加载 {filename} 失败: {e}")
     
+    # 清洗数据：去emoji、去频道信息、过滤非新闻
+    cleaned = []
+    filtered_count = 0
+    for m in all_messages:
+        text = m.get('text', '')
+        
+        # 过滤非新闻内容
+        if not is_news_content(text):
+            filtered_count += 1
+            continue
+        
+        # 清洗文本
+        clean_text = strip_emoji(text)
+        clean_text = strip_channel_info(clean_text)
+        
+        # 更新消息数据
+        m['text'] = clean_text
+        if 'title' in m:
+            m['title'] = strip_emoji(m['title'])
+            m['title'] = strip_channel_info(m['title'])
+        
+        cleaned.append(m)
+    
+    if filtered_count > 0:
+        print(f"🧹 过滤 {filtered_count} 条非新闻内容")
+    
     # 按时间排序（新的在前）
-    all_messages.sort(key=lambda x: x.get('datetime', ''), reverse=True)
+    cleaned.sort(key=lambda x: x.get('datetime', ''), reverse=True)
     
     # 清除5天前的消息
-    all_messages = clean_old_messages(all_messages)
+    cleaned = clean_old_messages(cleaned)
     
-    return all_messages
+    return cleaned
 
 def update_data():
     """更新数据文件"""
