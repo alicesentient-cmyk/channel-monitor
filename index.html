@@ -474,7 +474,7 @@ const PAGE_SIZE = 20;
 
 function setTheme(t) {
   document.documentElement.setAttribute("data-theme", t);
-  themeToggle.textContent = t === "dark" ? "☀️" : "🌙";
+  themeToggle.textContent = t === "dark" ? "🌙" : "☀️";
   themeToggle.setAttribute("aria-label", t === "dark" ? "切换到浅色主题" : "切换到深色主题");
   localStorage.setItem("theme", t);
 }
