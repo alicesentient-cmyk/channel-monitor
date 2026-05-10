@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 
 # 路径配置 - 使用绝对路径
 SOURCE_DIR = '/Users/mybot/channel_data'
-DEST_DIR = '/Users/mybot/channel-monitor'
+DEST_DIR = os.path.expanduser('~/channel-monitor')
 DATA_FILE = os.path.join(DEST_DIR, 'data.json')
 INDEX_FILE = os.path.join(DEST_DIR, 'index.html')
 
