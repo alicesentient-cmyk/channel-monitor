@@ -1,6 +1,52 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41312",
+      "text": "Chrome 148 删去本地 AI 不上传数据表述，Google 称处理方式未变\n\nChrome 148.0.7778.97 开始推送后，设置中的“On-device AI”说明删去了“不会把你的数据发送到 Google 服务器”这句话；147 版仍显示旧文案。\n\nGoogle 称这不代表 Chrome 本地 AI 的处理方式有变，传给模型的数据仍只在设备上处理；但在部分调用 Chrome 中 Gemini Nano 的网站场景中，网站可看到模型输入和输出，各站点按自己的隐私政策处理。\n\nCybernews",
+      "clean_text": "Chrome 148 删去本地 AI 不上传数据表述，Google 称处理方式未变\n\nChrome 148.0.7778.97 开始推送后，设置中的“On-device AI”说明删去了“不会把你的数据发送到 Google 服务器”这句话；147 版仍显示旧文案。\n\nGoogle 称这不代表 Chrome 本地 AI 的处理方式有变，传给模型的数据仍只在设备上处理；但在部分调用 Chrome 中 Gemini Nano 的网站场景中，网站可看到模型输入和输出，各站点按自己的隐私政策处理。\n\nCybernews\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-10T12:01:49+00:00",
+      "views": "1.25K",
+      "source_links": [
+        {
+          "text": "Cybernews",
+          "url": "https://cybernews.com/ai-news/chrome-removes-ai-privacy-wording-google-says-data-still-stays-on-device/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41312",
+      "scraped_at": "2026-05-10T20:10:17.342410"
+    },
+    {
+      "id": "zaihuapd_41311",
+      "text": "Trump Media 一季度亏损 4.059 亿美元\n\nTrump Media & Technology 2026 年第一季度净亏损 4.059 亿美元，其中约 3.68 亿美元来自数字资产、质押数字资产和股票证券的未实现亏损等非现金项目。季度收入略高于 87 万美元，净销售额增长 6%。\n\n公司同期经营现金流为正 1,790 万美元，金融资产为 21 亿美元。报道还称，其财库持有逾 9,500 枚比特币，2 月曾以每枚不到 7 万美元出售约 2,000 枚。\n\nCybernews",
+      "clean_text": "Trump Media 一季度亏损 4.059 亿美元\n\nTrump Media & Technology 2026 年第一季度净亏损 4.059 亿美元，其中约 3.68 亿美元来自数字资产、质押数字资产和股票证券的未实现亏损等非现金项目。季度收入略高于 87 万美元，净销售额增长 6%。\n\n公司同期经营现金流为正 1,790 万美元，金融资产为 21 亿美元。报道还称，其财库持有逾 9,500 枚比特币，2 月曾以每枚不到 7 万美元出售约 2,000 枚。\n\nCybernews\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-10T10:32:32+00:00",
+      "views": "5.79K",
+      "source_links": [
+        {
+          "text": "Cybernews",
+          "url": "https://cybernews.com/ai-news/trump-media-swings-to-406m-loss-as-crypto-valuation-drops/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41311",
+      "scraped_at": "2026-05-10T20:10:17.282831"
+    },
+    {
       "id": "zaihuapd_41310",
       "text": "OPPO 母亲节文案“我妈有两个老公”引发争议后删除 17:27 OPPO回应：关于本次母亲节宣传文案引起的争议，我们诚恳表示歉意。 我们的创作初衷，是希望打破刻板印象，呈现更多元、更立体的当代母亲形象：母亲可以热爱马拉松，可以沉浸文字创作，也可以拥有自己的追星爱好。 我们已第一时间下架全部相关物料。 我们将认真倾听各方批评，全面审查内容审核机制，确保此类问题不再发生。",
       "clean_text": "OPPO 母亲节文案“我妈有两个老公”引发争议后删除 17:27 OPPO回应：关于本次母亲节宣传文案引起的争议，我们诚恳表示歉意。 我们的创作初衷，是希望打破刻板印象，呈现更多元、更立体的当代母亲形象：母亲可以热爱马拉松，可以沉浸文字创作，也可以拥有自己的追星爱好。 我们已第一时间下架全部相关物料。 我们将认真倾听各方批评，全面审查内容审核机制，确保此类问题不再发生。 🌸 在花频道 · 茶馆讨论 · 投稿通道",
@@ -2529,6 +2575,6 @@
       "scraped_at": "2026-05-07T20:00:32.351368"
     }
   ],
-  "count": 141,
-  "updated_at": "2026-05-10T19:10:08.247260"
+  "count": 143,
+  "updated_at": "2026-05-10T20:10:36.291269"
 }
