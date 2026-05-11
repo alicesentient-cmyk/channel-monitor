@@ -1,6 +1,29 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41322",
+      "text": "GrapheneOS 批评 Google 和 Apple 的设备验证限制替代系统\n\nGrapheneOS 指责 Google 和 Apple 借 Play Integrity API、App Attest、reCAPTCHA 等验证系统，把应用和网站访问绑定到获认可的设备与软件上，使替代操作系统更难正常使用。GrapheneOS 称，Play Integrity API 会排除包括 GrapheneOS 在内的合法替代方案；reCAPTCHA 在部分场景要求用户用认证 Android 或 iOS 设备验证。Google 和 Apple 尚未公开回应。\n\nAndroid Authority",
+      "clean_text": "GrapheneOS 批评 Google 和 Apple 的设备验证限制替代系统\n\nGrapheneOS 指责 Google 和 Apple 借 Play Integrity API、App Attest、reCAPTCHA 等验证系统，把应用和网站访问绑定到获认可的设备与软件上，使替代操作系统更难正常使用。GrapheneOS 称，Play Integrity API 会排除包括 GrapheneOS 在内的合法替代方案；reCAPTCHA 在部分场景要求用户用认证 Android 或 iOS 设备验证。Google 和 Apple 尚未公开回应。\n\nAndroid Authority\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-11T07:41:45+00:00",
+      "views": "3.37K",
+      "source_links": [
+        {
+          "text": "Android Authority",
+          "url": "https://www.androidauthority.com/grapheneos-google-apple-approved-devices-web-warning-3665319/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41322",
+      "scraped_at": "2026-05-11T16:10:21.030139"
+    },
+    {
       "id": "zaihuapd_41321",
       "text": "OPPO 母亲节文案“我妈有两个老公”引发争议后删除 17:27 OPPO回应：关于本次母亲节宣传文案引起的争议，我们诚恳表示歉意。 我们的创作初衷，是希望打破刻板印象，呈现更多元、更立体的当代母亲形象：母亲可以热爱马拉松，可以沉浸文字创作，也可以拥有自己的追星爱好。 我们已第一时间下架全部相关物料。 我们将认真倾听各方批评，全面审查内容审核机制，确保此类问题不再发生。",
       "clean_text": "OPPO 母亲节文案“我妈有两个老公”引发争议后删除 17:27 OPPO回应：关于本次母亲节宣传文案引起的争议，我们诚恳表示歉意。 我们的创作初衷，是希望打破刻板印象，呈现更多元、更立体的当代母亲形象：母亲可以热爱马拉松，可以沉浸文字创作，也可以拥有自己的追星爱好。 我们已第一时间下架全部相关物料。 我们将认真倾听各方批评，全面审查内容审核机制，确保此类问题不再发生。 🌸 在花频道 · 茶馆讨论 · 投稿通道",
@@ -519,18 +542,8 @@
       ],
       "url": "https://t.me/zaihuapd/41308",
       "scraped_at": "2026-05-10T14:10:21.056773"
-    },
-    {
-      "id": "zaihuapd_41307",
-      "text": "多地 5 月 20 日结婚登记预约已满 5 月 20 日结婚登记预约在多地紧张。广州 11 区 15 个婚姻登记处当天剩余预约量均为 0；深圳各区婚登处已约满；南京已有超 1400 对新人预约，无锡多个登记点线上预约已满，但当天仍可现场办理。 2025 年 5 月 10 日起，新修订的《婚姻登记条例》实施，婚姻登记取消地域限制并实行全国通办。一年来，各地办理“全国通办”68.2 万件、异地调档 24.7 万份。 新华社",
-      "clean_text": "多地 5 月 20 日结婚登记预约已满 5 月 20 日结婚登记预约在多地紧张。广州 11 区 15 个婚姻登记处当天剩余预约量均为 0；深圳各区婚登处已约满；南京已有超 1400 对新人预约，无锡多个登记点线上预约已满，但当天仍可现场办理。 2025 年 5 月 10 日起，新修订的《婚姻登记条例》实施，婚姻登记取消地域限制并实行全国通办。一年来，各地办理“全国通办”68.2 万件、异地调档 24.7 万份。 新华社 🌸 在花频道 · 茶馆讨论 · 投稿通道",
-      "datetime": "2026-05-10T03:27:11+00:00",
-      "views": "3.71K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41307",
-      "scraped_at": "2026-05-10T12:10:13.112664"
     }
   ],
   "count": 32,
-  "updated_at": "2026-05-11T15:10:57.517566"
+  "updated_at": "2026-05-11T16:11:04.238671"
 }
