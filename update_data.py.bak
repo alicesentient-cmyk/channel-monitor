@@ -100,8 +100,8 @@ def is_news_content(text):
     return True
 
 def clean_old_messages(messages):
-    """清除36小时前的消息"""
-    cutoff = datetime.now() - timedelta(hours=36)
+    """清除5天前的消息"""
+    cutoff = datetime.now() - timedelta(days=5)
     
     filtered = []
     for m in messages:
