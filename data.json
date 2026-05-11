@@ -503,31 +503,8 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41314",
       "scraped_at": "2026-05-11T00:10:27.790162"
-    },
-    {
-      "id": "zaihuapd_41313",
-      "text": "Grok Build 编程工具泄露，马斯克 xAI 或推新模型对标 Claude Code\n\nxAI 桌面工具 Grok Build 泄露，是一款跨平台 Agent 工作流应用，可自主执行多步开发任务，默认搭载 Grok 4.3 Early Access。它开放本地文件与 Git 权限，支持 MCP、官方技能与插件。\n\n马斯克此前称 6 月将发布编程能力超越 Claude 的新模型；泄露页面显示 xAI 在训练多个大规模模型，包括 1 万亿、1.5 万亿、6 万亿和 10 万亿参数版本及图像视频模型 Imagine V2。对标 Claude Code 的 Opus 级别需至少 6 万亿参数。\n\n凤凰网",
-      "clean_text": "Grok Build 编程工具泄露，马斯克 xAI 或推新模型对标 Claude Code\n\nxAI 桌面工具 Grok Build 泄露，是一款跨平台 Agent 工作流应用，可自主执行多步开发任务，默认搭载 Grok 4.3 Early Access。它开放本地文件与 Git 权限，支持 MCP、官方技能与插件。\n\n马斯克此前称 6 月将发布编程能力超越 Claude 的新模型；泄露页面显示 xAI 在训练多个大规模模型，包括 1 万亿、1.5 万亿、6 万亿和 10 万亿参数版本及图像视频模型 Imagine V2。对标 Claude Code 的 Opus 级别需至少 6 万亿参数。\n\n凤凰网\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
-      "datetime": "2026-05-10T13:34:29+00:00",
-      "views": "9.81K",
-      "source_links": [
-        {
-          "text": "凤凰网",
-          "url": "https://tech.ifeng.com/c/8t0yrbeeuwt"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41313",
-      "scraped_at": "2026-05-11T00:10:27.756741"
     }
   ],
-  "count": 31,
-  "updated_at": "2026-05-12T01:10:22.912695"
+  "count": 30,
+  "updated_at": "2026-05-12T02:10:50.333744"
 }
