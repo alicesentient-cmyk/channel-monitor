@@ -114,7 +114,7 @@ def clean_old_messages(messages):
     
     removed = len(messages) - len(filtered)
     if removed > 0:
-        print(f"🧹 清除 {removed} 条5天前的消息")
+        print(f"🧹 清除 {removed} 条36小时前的消息")
     
     return filtered
 
