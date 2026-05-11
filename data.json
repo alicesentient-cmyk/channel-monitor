@@ -1,6 +1,52 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41324",
+      "text": "AI 冲击行政岗位，美国数百万女性面临替代风险\n\n美国智库布鲁金斯学会指出，约 600 万行政文员最易被 AI 取代，其中逾 85% 为女性。行政助理岗位招聘数较疫前下降 5.4%，2025 年男性劳动参与新增 57.2 万人，女性仅增 18.4 万人，性别薪酬差距亦在扩大。女性使用 AI 工具的比率较男性低 25%，进一步加剧数字鸿沟。\n\n这些岗位平均薪酬偏低，如美国接待员 2024 年中位年薪约 3.7 万美元。部分从业者已转向项目管理或人力资源等需人际技能的方向，专家建议聚焦“需要人类”的任务以应对冲击。\n\nFinancial Times",
+      "clean_text": "AI 冲击行政岗位，美国数百万女性面临替代风险\n\n美国智库布鲁金斯学会指出，约 600 万行政文员最易被 AI 取代，其中逾 85% 为女性。行政助理岗位招聘数较疫前下降 5.4%，2025 年男性劳动参与新增 57.2 万人，女性仅增 18.4 万人，性别薪酬差距亦在扩大。女性使用 AI 工具的比率较男性低 25%，进一步加剧数字鸿沟。\n\n这些岗位平均薪酬偏低，如美国接待员 2024 年中位年薪约 3.7 万美元。部分从业者已转向项目管理或人力资源等需人际技能的方向，专家建议聚焦“需要人类”的任务以应对冲击。\n\nFinancial Times\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-11T09:44:16+00:00",
+      "views": "2.93K",
+      "source_links": [
+        {
+          "text": "Financial Times",
+          "url": "https://www.ft.com/content/946650d6-f61f-4b98-8bb5-c0020c8a205f"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41324",
+      "scraped_at": "2026-05-11T18:10:15.517413"
+    },
+    {
+      "id": "zaihuapd_41323",
+      "text": "爆料称三星研发全像手机屏，或用于 iPhone 空间运算\n\n三星正开发代号为 MH1 的全像智能手机屏幕，结合眼球追踪与绕射光束导引技术，可生成具有景深的立体影像，且 2D 模式下仍维持完整 4K 分辨率。该技术目前处于 Phase 1 研发阶段，爆料预计 2030 年前后才可能普及。\n\n这与 Apple 空间运算策略重叠，Apple 近年已布局空间影片、Vision Pro 等，若 iPhone 未来直接支持立体显示，或成为 Vision 生态入口。消息源于匿名供应链爆料，并未经官方证实。\n\n瘋先生",
+      "clean_text": "爆料称三星研发全像手机屏，或用于 iPhone 空间运算\n\n三星正开发代号为 MH1 的全像智能手机屏幕，结合眼球追踪与绕射光束导引技术，可生成具有景深的立体影像，且 2D 模式下仍维持完整 4K 分辨率。该技术目前处于 Phase 1 研发阶段，爆料预计 2030 年前后才可能普及。\n\n这与 Apple 空间运算策略重叠，Apple 近年已布局空间影片、Vision Pro 等，若 iPhone 未来直接支持立体显示，或成为 Vision 生态入口。消息源于匿名供应链爆料，并未经官方证实。\n\n瘋先生\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
+      "datetime": "2026-05-11T08:59:42+00:00",
+      "views": "5.74K",
+      "source_links": [
+        {
+          "text": "瘋先生",
+          "url": "https://mrmad.com.tw/apple-iphone-spatial-computing-3d-projection-leak"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41323",
+      "scraped_at": "2026-05-11T18:10:15.464248"
+    },
+    {
       "id": "zaihuapd_41322",
       "text": "GrapheneOS 批评 Google 和 Apple 的设备验证限制替代系统\n\nGrapheneOS 指责 Google 和 Apple 借 Play Integrity API、App Attest、reCAPTCHA 等验证系统，把应用和网站访问绑定到获认可的设备与软件上，使替代操作系统更难正常使用。GrapheneOS 称，Play Integrity API 会排除包括 GrapheneOS 在内的合法替代方案；reCAPTCHA 在部分场景要求用户用认证 Android 或 iOS 设备验证。Google 和 Apple 尚未公开回应。\n\nAndroid Authority",
       "clean_text": "GrapheneOS 批评 Google 和 Apple 的设备验证限制替代系统\n\nGrapheneOS 指责 Google 和 Apple 借 Play Integrity API、App Attest、reCAPTCHA 等验证系统，把应用和网站访问绑定到获认可的设备与软件上，使替代操作系统更难正常使用。GrapheneOS 称，Play Integrity API 会排除包括 GrapheneOS 在内的合法替代方案；reCAPTCHA 在部分场景要求用户用认证 Android 或 iOS 设备验证。Google 和 Apple 尚未公开回应。\n\nAndroid Authority\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
@@ -506,6 +552,6 @@
       "scraped_at": "2026-05-10T18:10:30.909009"
     }
   ],
-  "count": 30,
-  "updated_at": "2026-05-11T18:10:11.542561"
+  "count": 32,
+  "updated_at": "2026-05-11T19:10:14.763644"
 }
