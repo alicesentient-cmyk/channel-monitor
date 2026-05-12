@@ -366,61 +366,8 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41328",
       "scraped_at": "2026-05-11T22:10:23.187798"
-    },
-    {
-      "id": "xhqcankao_29244",
-      "text": "古尔曼：新款Vision Pro至少两年内不会到来\n\n据彭博社的马克·古尔曼称，苹果公司并未完全放弃 Vision Pro ，但任何希望看到继任产品的人都将至少再等两年。在他最新的报道中，古尔曼反驳了有关苹果已完全放弃这款头显的说法。这位消息灵通的记者表示，该公司继续在幕后开发新技术和新材料，目标是最终生产出一款更便宜、更轻便的封闭式头显。话虽如此，目前显然没有此类产品在积极开发中，而传闻已久的“Vision Air”已于去年被取消。如果新的 Vision Pro 风格设备真的问世，古尔曼表示他预计至少还要“大约再等两年”，因为苹果大部分混合现实硬件人才已被调往轻量级智能眼镜等其他项目。\n\n—— Macrumors",
-      "clean_text": "古尔曼：新款Vision Pro至少两年内不会到来\n\n据彭博社的马克·古尔曼称，苹果公司并未完全放弃 Vision Pro ，但任何希望看到继任产品的人都将至少再等两年。在他最新的报道中，古尔曼反驳了有关苹果已完全放弃这款头显的说法。这位消息灵通的记者表示，该公司继续在幕后开发新技术和新材料，目标是最终生产出一款更便宜、更轻便的封闭式头显。话虽如此，目前显然没有此类产品在积极开发中，而传闻已久的“Vision Air”已于去年被取消。如果新的 Vision Pro 风格设备真的问世，古尔曼表示他预计至少还要“大约再等两年”，因为苹果大部分混合现实硬件人才已被调往轻量级智能眼镜等其他项目。\n\n—— Macrumors",
-      "datetime": "2026-05-11T13:10:15+00:00",
-      "views": "7.6K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/05/11/new-vision-pro-wont-arrive-at-least-two-years/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29244",
-      "scraped_at": "2026-05-12T12:10:29.140869"
-    },
-    {
-      "id": "zaihuapd_41327",
-      "text": "冒充 OpenAI Privacy Filter 的恶意仓库冲上 Hugging Face 趋势榜首\n\n一个名为 Open-OSS/privacy-filter 的恶意 Hugging Face 仓库冒充 OpenAI 开源的隐私过滤模型，通过加载器脚本传播用 Rust 编写的信息窃取程序。该仓库一度登上 Hugging Face 趋势榜第一，累计下载约 24.4 万次，点赞 667 次，但数据或被人工操纵，目前已被平台禁用。\n\nHiddenLayer 发现另外 6 个类似仓库，同一域名曾分发 ValleyRAT 远程控制木马，攻击基础设施与银狐黑客组织存在重叠。\n\nThe Hacker News",
-      "clean_text": "冒充 OpenAI Privacy Filter 的恶意仓库冲上 Hugging Face 趋势榜首\n\n一个名为 Open-OSS/privacy-filter 的恶意 Hugging Face 仓库冒充 OpenAI 开源的隐私过滤模型，通过加载器脚本传播用 Rust 编写的信息窃取程序。该仓库一度登上 Hugging Face 趋势榜第一，累计下载约 24.4 万次，点赞 667 次，但数据或被人工操纵，目前已被平台禁用。\n\nHiddenLayer 发现另外 6 个类似仓库，同一域名曾分发 ValleyRAT 远程控制木马，攻击基础设施与银狐黑客组织存在重叠。\n\nThe Hacker News\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
-      "datetime": "2026-05-11T12:51:09+00:00",
-      "views": "6.31K",
-      "source_links": [
-        {
-          "text": "The Hacker News",
-          "url": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41327",
-      "scraped_at": "2026-05-11T22:10:23.158801"
-    },
-    {
-      "id": "xhqcankao_29243",
-      "text": "韩国在兵力短缺之际探索使用现代机器人\n\n韩国军方正在探索与现代汽车公司的战略合作伙伴关系，以可能将机器人技术部署到前线，因为韩国加速投资于AI驱动的无人系统以应对日益加深的兵力短缺。韩国国防部表示，其正在讨论与现代的合作，作为应对战场环境变化和发展「高科技、科学驱动的力量」努力的一部分，尽管具体细节尚未最终确定。韩国经济日报率先报道：现代汽车与韩国陆军在机器人领域展开合作。军队正在考虑将机器用于非战斗角色，包括监视、侦察和后勤。潜在的部署包括波士顿动力公司的四足 Spot、四轮 MobED 移动机器人和像X-ble Shoulder外骨骼这样的可穿戴平台。\n\n—— 彭博社",
-      "clean_text": "韩国在兵力短缺之际探索使用现代机器人\n\n韩国军方正在探索与现代汽车公司的战略合作伙伴关系，以可能将机器人技术部署到前线，因为韩国加速投资于AI驱动的无人系统以应对日益加深的兵力短缺。韩国国防部表示，其正在讨论与现代的合作，作为应对战场环境变化和发展「高科技、科学驱动的力量」努力的一部分，尽管具体细节尚未最终确定。韩国经济日报率先报道：现代汽车与韩国陆军在机器人领域展开合作。军队正在考虑将机器用于非战斗角色，包括监视、侦察和后勤。潜在的部署包括波士顿动力公司的四足 Spot、四轮 MobED 移动机器人和像X-ble Shoulder外骨骼这样的可穿戴平台。\n\n—— 彭博社",
-      "datetime": "2026-05-11T12:41:18+00:00",
-      "views": "7.14K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29243",
-      "scraped_at": "2026-05-12T12:10:29.104960"
     }
   ],
-  "count": 25,
-  "updated_at": "2026-05-13T00:11:01.081404"
+  "count": 22,
+  "updated_at": "2026-05-13T01:10:55.686627"
 }
