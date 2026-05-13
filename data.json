@@ -778,46 +778,8 @@
       ],
       "url": "https://t.me/xhqcankao/29257",
       "scraped_at": "2026-05-12T12:10:29.635112"
-    },
-    {
-      "id": "zaihuapd_41335",
-      "text": "TanStack 被 npm 供应链攻击，影响窗口约 20 分钟\n\n2026-05-11 19:20 至 19:26 UTC，攻击者向 42 个 @ tanstack/* npm 包发布 84 个恶意版本。攻击链结合 pull_request_target“Pwn Request”、GitHub Actions 缓存投毒和从 runner 内存提取 OIDC token；npm token 未被盗，发布流程本身未被攻破。\n\n恶意版本约 20 分钟内被外部研究员发现，已全部废弃，TanStack 已联系 npm 安全团队移除 tarball。当天安装过受影响版本的用户应将安装主机视为可能被入侵，并轮换相关云、Kubernetes、Vault、GitHub、npm 和 SSH 凭据。\n\nTanStack Blog\n\nvia RT Time",
-      "clean_text": "TanStack 被 npm 供应链攻击，影响窗口约 20 分钟\n\n2026-05-11 19:20 至 19:26 UTC，攻击者向 42 个 @ tanstack/* npm 包发布 84 个恶意版本。攻击链结合 pull_request_target“Pwn Request”、GitHub Actions 缓存投毒和从 runner 内存提取 OIDC token；npm token 未被盗，发布流程本身未被攻破。\n\n恶意版本约 20 分钟内被外部研究员发现，已全部废弃，TanStack 已联系 npm 安全团队移除 tarball。当天安装过受影响版本的用户应将安装主机视为可能被入侵，并轮换相关云、Kubernetes、Vault、GitHub、npm 和 SSH 凭据。\n\nTanStack Blog\n\nvia RT Time\n\n🌸 在花频道 · 茶馆讨论 · 投稿通道",
-      "datetime": "2026-05-12T03:00:39+00:00",
-      "views": "5.13K",
-      "source_links": [
-        {
-          "text": "TanStack Blog",
-          "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41335",
-      "scraped_at": "2026-05-12T12:10:19.608091"
-    },
-    {
-      "id": "xhqcankao_29256",
-      "text": "npm 曝大规模供应链攻击：TanStack 生态被投毒，可窃取云密钥与GitHub令牌\n\n流行的前端开发库 TanStack 生态（包括 Router, History 等）确认遭遇严重的供应链攻击。攻击者利用受损的 GitHub Actions 工作流，在多个 npm 官方包中植入了名为 \"mini-shai-hulud\" 的恶意蠕虫。\n\n安全专家及 TanStack 团队调查后确认，受影响的 npm 包版本被植入了混淆的恶意脚本。该攻击具有极强的杀伤力，其核心行为包括：\n全方位凭证窃取： 恶意脚本会扫描受害者环境，收集 AWS/GCP 凭证、Kubernetes 令牌、SSH 密钥、GitHub 访问令牌以及 ~/.npmrc 文件。\n\n蠕虫式自我传播： 脚本会利用窃取的权限，自动搜索受害者拥有维护权限的其他 npm 项目，并将恶意代码注入后重新发布，形成链式感染。\n\n报复性自毁机制（预警）： 攻击者在 Linux 和 macOS 系统中安装了持久化守护进程。该进程会监控已窃取 GitHub 令牌的有效性。一旦开发者发现泄露并撤销令牌，该脚本将触发 rm -rf ~/. 命令，强制清空用户的家目录。\n\n受影响范围\n包括但不限于以下包的最新版本：\n@tanstack/history (1.161.9 - 1.161.12)\n@tanstack/react-router (1.169.5 - 1.169.8)\n\n以及 Router 系列的其他插件与工具包。\n\n如果您在过去 24 小时内更新或安装了上述包，务必提高警惕，采取补救措施。\n\n—— GitHub",
-      "clean_text": "npm 曝大规模供应链攻击：TanStack 生态被投毒，可窃取云密钥与GitHub令牌\n\n流行的前端开发库 TanStack 生态（包括 Router, History 等）确认遭遇严重的供应链攻击。攻击者利用受损的 GitHub Actions 工作流，在多个 npm 官方包中植入了名为 \"mini-shai-hulud\" 的恶意蠕虫。\n\n安全专家及 TanStack 团队调查后确认，受影响的 npm 包版本被植入了混淆的恶意脚本。该攻击具有极强的杀伤力，其核心行为包括：\n全方位凭证窃取： 恶意脚本会扫描受害者环境，收集 AWS/GCP 凭证、Kubernetes 令牌、SSH 密钥、GitHub 访问令牌以及 ~/.npmrc 文件。\n\n蠕虫式自我传播： 脚本会利用窃取的权限，自动搜索受害者拥有维护权限的其他 npm 项目，并将恶意代码注入后重新发布，形成链式感染。\n\n报复性自毁机制（预警）： 攻击者在 Linux 和 macOS 系统中安装了持久化守护进程。该进程会监控已窃取 GitHub 令牌的有效性。一旦开发者发现泄露并撤销令牌，该脚本将触发 rm -rf ~/. 命令，强制清空用户的家目录。\n\n受影响范围\n包括但不限于以下包的最新版本：\n@tanstack/history (1.161.9 - 1.161.12)\n@tanstack/react-router (1.169.5 - 1.169.8)\n\n以及 Router 系列的其他插件与工具包。\n\n如果您在过去 24 小时内更新或安装了上述包，务必提高警惕，采取补救措施。\n\n—— GitHub",
-      "datetime": "2026-05-12T02:57:07+00:00",
-      "views": "2.45K",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/TanStack/router/issues/7383"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29256",
-      "scraped_at": "2026-05-12T12:10:29.600269"
     }
   ],
-  "count": 44,
-  "updated_at": "2026-05-13T14:47:21.774568"
+  "count": 42,
+  "updated_at": "2026-05-13T15:10:47.746872"
 }
