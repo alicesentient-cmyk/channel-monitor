@@ -77,3 +77,7 @@ To https://github.com/alicesentient-cmyk/channel-monitor.git
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 fatal: unable to access 'https://github.com/alicesentient-cmyk/channel-monitor.git/': Error in the HTTP2 framing layer
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To https://github.com/alicesentient-cmyk/channel-monitor.git
+   96f1254..7c5f6e5  main -> main
