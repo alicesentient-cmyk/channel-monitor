@@ -26,3 +26,7 @@ error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 To https://github.com/alicesentient-cmyk/channel-monitor.git
    6e77747..308f07e  main -> main
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To https://github.com/alicesentient-cmyk/channel-monitor.git
+   308f07e..2358a51  main -> main
