@@ -1,0 +1,4 @@
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To https://github.com/alicesentient-cmyk/channel-monitor.git
+   ee1aad6..a45eb91  main -> main
