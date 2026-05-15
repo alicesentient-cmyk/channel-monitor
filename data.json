@@ -996,34 +996,6 @@
       "scraped_at": "2026-05-14T12:00:36.225599"
     },
     {
-      "id": "zaihuapd_41374",
-      "channel": "zaihuapd",
-      "text": "NGINX 曝严重远程代码执行漏洞，潜伏代码库 18 年，全球数亿服务器面临风险2026 年 5 月 13 日，安全研究机构 depthfirst 与 F5 联合披露了 NGINX 中一个编号为 CVE-2026-42945 的严重漏洞，CVSS v4.0 评分达 9.2。该漏洞属于堆缓冲区溢出类型，存在于 ngx_http_rewrite_module 模块中，最早可追溯至 2008 年引入的代码逻辑，在代码库中潜伏长达 18 年。漏洞根源在于脚本引擎两遍执行流程中的状态不一致：当 rewrite 指令的替换字符串中含有问号时，引擎内部标志位 is_args 会被置为 1 且不会重置。第一遍（长度计算）使用全零初始化的子引擎，以未转义长度分配内存；第二遍（数据拷贝）则在主引擎上执行，对 URI 中的特殊字符进行转义扩展，每个字符可由 1 字节膨胀至 3 字节，实际写入量超出已分配缓冲区，造成堆溢出。攻击者无需身份认证，仅需向含有特定 rewrite 配置模式的服务器发送精心构造的 HTTP 请求，即可触发该漏洞。进一步利用时，攻击者可通过控制连接时序实施堆内存布局操纵，并借助 POST 请求体注入任意二进制载荷，最终实现对 NGINX Worker 进程的远程代码执行。受影响版本覆盖范围极广：NGINX Open Source 0.6.27 至 1.30.0 全系，NGINX Plus R32 至 R36，以及 NGINX Instance Manager、F5 WAF for NGINX、NGINX App Protect WAF/DoS、NGINX Gateway Fabric、NGINX Ingress Controller 等多个企业级产品均受影响。由于上述产品被大量部署于云原生 Kubernetes 集群的 Ingress 层及 API 网关场景，实际暴露面涉及全球数以亿计的生产服务器。已发布修复版本：NGINX Open Source 用户应升级至 1.31.0 或 1.30.1，NGINX Plus 用户应升级至 R36 P4 或 R32 P6，升级后需重启服务使补丁生效。对于暂时无法升级的用户，可通过将配置中所有未命名捕获组（$1、$2）替换为命名捕获组的方式规避触发条件。排查方法为：确认已安装的 NGINX 版本区间，并在配置文件中检索同时含有未命名捕获组与问号替换字符串的 rewrite 指令。Depthfirst｜NVD",
-      "clean_text": "NGINX 曝严重远程代码执行漏洞，潜伏代码库 18 年，全球数亿服务器面临风险2026 年 5 月 13 日，安全研究机构 depthfirst 与 F5 联合披露了 NGINX 中一个编号为 CVE-2026-42945 的严重漏洞，CVSS v4.0 评分达 9.2。该漏洞属于堆缓冲区溢出类型，存在于 ngx_http_rewrite_module 模块中，最早可追溯至 2008 年引入的代码逻辑，在代码库中潜伏长达 18 年。漏洞根源在于脚本引擎两遍执行流程中的状态不一致：当 rewrite 指令的替换字符串中含有问号时，引擎内部标志位 is_args 会被置为 1 且不会重置。第一遍（长度计算）使用全零初始化的子引擎，以未转义长度分配内存；第二遍（数据拷贝）则在主引擎上执行，对 URI 中的特殊字符进行转义扩展，每个字符可由 1 字节膨胀至 3 字节，实际写入量超出已分配缓冲区，造成堆溢出。攻击者无需身份认证，仅需向含有特定 rewrite 配置模式的服务器发送精心构造的 HTTP 请求，即可触发该漏洞。进一步利用时，攻击者可通过控制连接时序实施堆内存布局操纵，并借助 POST 请求体注入任意二进制载荷，最终实现对 NGINX Worker 进程的远程代码执行。受影响版本覆盖范围极广：NGINX Open Source 0.6.27 至 1.30.0 全系，NGINX Plus R32 至 R36，以及 NGINX Instance Manager、F5 WAF for NGINX、NGINX App Protect WAF/DoS、NGINX Gateway Fabric、NGINX Ingress Controller 等多个企业级产品均受影响。由于上述产品被大量部署于云原生 Kubernetes 集群的 Ingress 层及 API 网关场景，实际暴露面涉及全球数以亿计的生产服务器。已发布修复版本：NGINX Open Source 用户应升级至 1.31.0 或 1.30.1，NGINX Plus 用户应升级至 R36 P4 或 R32 P6，升级后需重启服务使补丁生效。对于暂时无法升级的用户，可通过将配置中所有未命名捕获组（$1、$2）替换为命名捕获组的方式规避触发条件。排查方法为：确认已安装的 NGINX 版本区间，并在配置文件中检索同时含有未命名捕获组与问号替换字符串的 rewrite 指令。Depthfirst｜NVD",
-      "datetime": "2026-05-14T02:41:48+00:00",
-      "views": "3K",
-      "source_links": [
-        {
-          "text": "Depthfirst",
-          "url": "https://depthfirst.com/research/nginx-rift-achieving-nginx-rce-via-an-18-year-old-vulnerability"
-        },
-        {
-          "text": "NVD",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42945"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41374",
-      "scraped_at": "2026-05-14T11:00:43.076039"
-    },
-    {
       "id": "zaihuapd_41380",
       "channel": "zaihuapd",
       "text": "国家主席将为美国总统特朗普举行欢迎宴会今晚，国家主席习近平为来华进行国事访问的美国总统特朗普举行欢迎宴会。小米集团董事长雷军出席宴会并与马斯克合影。国家主席习近平发表演讲说，中美两国人民都是伟大的人民，实现中华民族伟大复兴，会让美国再伟大。完全可以并行不悖，相互成就，造福世界。我们一致认为，中美关系是当今世界最重要的双边关系。只能搞好，不能搞坏。两国合则两利，斗则俱伤，应该成为伙伴，而不是对手。习近平指出，纵观中美关系发展历程，能不能做到相互尊重、和平共处、合作共赢，是中美关系能否稳定发展的关键所在。双方应当共同扛起这个历史重任，推动中美关系。美国总统特朗普在欢迎宴会上邀请中国国家主席习近平今年9月24日前往美国进行访问。央视新闻",
@@ -1059,6 +1031,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 57,
-  "updated_at": "2026-05-15T14:36:58.500673"
+  "count": 56,
+  "updated_at": "2026-05-15T14:42:02.235400"
 }
