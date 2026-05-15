@@ -6,9 +6,9 @@ import os
 import base64
 from datetime import datetime, timedelta
 
-# 路径配置 - 使用绝对路径
-SOURCE_DIR = '/Users/mybot/channel_data'
-DEST_DIR = os.path.expanduser('~/channel-monitor')
+# 路径配置 - 使用绝对路径（避免 expanduser 在不同 HOME 下解析不同）
+SOURCE_DIR = '/Users/mybot/.hermes/profiles/mizuozhu/home/channel_data'
+DEST_DIR = '/Users/mybot/channel-monitor'
 DATA_FILE = os.path.join(DEST_DIR, 'data.json')
 INDEX_FILE = os.path.join(DEST_DIR, 'index.html')
 
@@ -160,7 +160,7 @@ def load_channel_data():
         print(f"🧹 过滤 {filtered_count} 条非新闻内容")
     
     # 按时间排序（新的在前）
-    cleaned.sort(key=lambda x: x.get('datetime', ''), reverse=True)
+    cleaned.sort(key=lambda x: x.get('datetime') or '', reverse=True)
     
     # 清除5天前的消息
     cleaned = clean_old_messages(cleaned)
