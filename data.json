@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41405",
+      "channel": "zaihuapd",
+      "text": "特朗普称与习近平讨论 AI 护栏及英伟达 H200 芯片 称中国选择不买 H200美国总统特朗普在访华期间与习近平讨论了人工智能“护栏”以及英伟达 H200 芯片出口问题。美方官员此前表示希望开辟定期 AI 沟通渠道，部分原因包括 Anthropic 的 Mythos 模型引发的全球网络安全担忧。美国已允许英伟达向中国客户供应 H200，但北京尚未批准采购。特朗普称中国“选择不买，想发展自己的芯片”，但也表示“可能会有所进展”。商业部长 Lutnick 上月透露 H200 虽有出口许可，但因中国政府未放行企业购买，迄今无一交付。此前中国曾拒绝进口性能较低的 H20 芯片。Bloomberg",
+      "clean_text": "♻️特朗普称与习近平讨论 AI 护栏及英伟达 H200 芯片 称中国选择不买 H200美国总统特朗普在访华期间与习近平讨论了人工智能“护栏”以及英伟达 H200 芯片出口问题。美方官员此前表示希望开辟定期 AI 沟通渠道，部分原因包括 Anthropic 的 Mythos 模型引发的全球网络安全担忧。美国已允许英伟达向中国客户供应 H200，但北京尚未批准采购。特朗普称中国“选择不买，想发展自己的芯片”，但也表示“可能会有所进展”。商业部长 Lutnick 上月透露 H200 虽有出口许可，但因中国政府未放行企业购买，迄今无一交付。此前中国曾拒绝进口性能较低的 H20 芯片。Bloomberg",
+      "datetime": "2026-05-15T15:13:06+00:00",
+      "views": "5.42K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-15/trump-says-he-discussed-ai-guardrails-nvidia-s-chips-with-xi"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41405",
+      "scraped_at": "2026-05-16T00:00:45.250263"
+    },
+    {
       "id": "zaihuapd_41404",
       "channel": "zaihuapd",
       "text": "苹果与 OpenAI 联盟出现裂痕，OpenAI 考虑法律行动OpenAI 与苹果的合作关系趋紧，OpenAI 认为苹果未充分推广 ChatGPT 集成，导致订阅转化远不及预期，正委托外部律师研究法律选项，不排除近期就违约问题发出正式通知。知情人士称，ChatGPT 在苹果系统中的入口隐蔽、功能受限，多数用户仍直接使用独立 App。苹果则对 OpenAI 的隐私标准、硬件业务和工程师挖角感到不满。此外，苹果计划在 6 月 WWDC 展示的 iOS 27 中向 Claude、Gemini 等第三方模型开放 Siri，进一步削弱 OpenAI 的独有地位。双方曾期待数十亿美元订阅收入，至今远未实现。Bloomberg",
@@ -1018,6 +1042,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 54,
-  "updated_at": "2026-05-15T23:58:46.481833"
+  "count": 55,
+  "updated_at": "2026-05-16T00:03:50.507855"
 }
