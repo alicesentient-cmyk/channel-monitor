@@ -6,8 +6,8 @@ import os
 import base64
 from datetime import datetime, timedelta
 
-# 路径配置 - 使用绝对路径（避免 expanduser 在不同 HOME 下解析不同）
-SOURCE_DIR = '/Users/mybot/.hermes/profiles/mizuozhu/home/channel_data'
+# 路径配置 - 全部硬编码绝对路径，彻底避免 expanduser 路径陷阱
+SOURCE_DIR = '/Users/mybot/channel_data'
 DEST_DIR = '/Users/mybot/channel-monitor'
 DATA_FILE = os.path.join(DEST_DIR, 'data.json')
 INDEX_FILE = os.path.join(DEST_DIR, 'index.html')
@@ -224,11 +224,14 @@ def update_index(data):
 def git_push():
     """推送到GitHub"""
     os.chdir(DEST_DIR)
-    os.system('git add .')
+    # 只添加数据文件，避免冲突
+    os.system('git add data.json index.html')
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     os.system(f'git commit -m "update: {timestamp}"')
     # 先 pull 再 push，避免冲突
-    os.system('git pull --rebase origin main')
+    os.system('git stash')
+    os.system('git pull origin main')
+    os.system('git stash pop 2>/dev/null || true')
     os.system('git push origin main')
     print("✅ 已推送到GitHub")
 
