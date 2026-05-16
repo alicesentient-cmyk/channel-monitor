@@ -717,30 +717,6 @@
       "scraped_at": "2026-05-15T13:00:54.847557"
     },
     {
-      "id": "zaihuapd_41393",
-      "channel": "zaihuapd",
-      "text": "加州集体诉讼指控 OpenAI 未经同意向 Meta 和 Google 分享用户数据一宗在加州提起的集体诉讼指控 OpenAI 在未获适当同意的情况下，把用户聊天查询及邮箱、用户 ID 等个人信息分享给 Meta 和 Google。诉状称，相关数据传输涉及 Meta Pixel 和 Google Analytics，涉嫌违反加州《隐私侵犯法》和《电子通信隐私法》。Futurism 称，OpenAI 尚未立即回应置评。Futurism",
-      "clean_text": "加州集体诉讼指控 OpenAI 未经同意向 Meta 和 Google 分享用户数据一宗在加州提起的集体诉讼指控 OpenAI 在未获适当同意的情况下，把用户聊天查询及邮箱、用户 ID 等个人信息分享给 Meta 和 Google。诉状称，相关数据传输涉及 Meta Pixel 和 Google Analytics，涉嫌违反加州《隐私侵犯法》和《电子通信隐私法》。Futurism 称，OpenAI 尚未立即回应置评。Futurism",
-      "datetime": "2026-05-15T03:45:45+00:00",
-      "views": "1.84K",
-      "source_links": [
-        {
-          "text": "Futurism",
-          "url": "https://futurism.com/artificial-intelligence/openai-personal-information-meta-google"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41393",
-      "scraped_at": "2026-05-15T11:58:29.586188"
-    },
-    {
       "id": "zaihuapd_41380",
       "channel": "zaihuapd",
       "text": "国家主席将为美国总统特朗普举行欢迎宴会今晚，国家主席习近平为来华进行国事访问的美国总统特朗普举行欢迎宴会。小米集团董事长雷军出席宴会并与马斯克合影。国家主席习近平发表演讲说，中美两国人民都是伟大的人民，实现中华民族伟大复兴，会让美国再伟大。完全可以并行不悖，相互成就，造福世界。我们一致认为，中美关系是当今世界最重要的双边关系。只能搞好，不能搞坏。两国合则两利，斗则俱伤，应该成为伙伴，而不是对手。习近平指出，纵观中美关系发展历程，能不能做到相互尊重、和平共处、合作共赢，是中美关系能否稳定发展的关键所在。双方应当共同扛起这个历史重任，推动中美关系。美国总统特朗普在欢迎宴会上邀请中国国家主席习近平今年9月24日前往美国进行访问。央视新闻",
@@ -776,6 +752,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 41,
-  "updated_at": "2026-05-16T15:44:28.298159"
+  "count": 40,
+  "updated_at": "2026-05-16T15:49:32.169046"
 }
