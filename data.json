@@ -1,6 +1,38 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29371",
+      "channel": "xhqcankao",
+      "text": "OpenAI携手Plaid向大众提供个性化财务建议OpenAI与金融数据平台Plaid达成合作，计划借助后者覆盖美国大多数消费者银行账户的数据网络，使ChatGPT能够提供基于真实财务状况的个性化理财建议。此举标志着人工智能平台在个人金融服务领域的渗透进入新阶段。OpenAI周五发表声明称，已有逾两亿用户通过ChatGPT寻求预算规划、投资咨询等财务相关帮助。此前，ChatGPT仅能提供 \"自动化储蓄\" 或 \"减少外卖消费\" 等泛泛建议，缺乏对用户实际财务状况的洞察。引入Plaid的数据接口后，该平台将能够给出更具针对性的操作建议，例如优先偿还哪张信用卡及具体还款金额。Plaid CEO表示，此次合作的目标是\"让人们拥有更大的财务自由\"。——新浪财经",
+      "clean_text": "OpenAI携手Plaid向大众提供个性化财务建议OpenAI与金融数据平台Plaid达成合作，计划借助后者覆盖美国大多数消费者银行账户的数据网络，使ChatGPT能够提供基于真实财务状况的个性化理财建议。此举标志着人工智能平台在个人金融服务领域的渗透进入新阶段。OpenAI周五发表声明称，已有逾两亿用户通过ChatGPT寻求预算规划、投资咨询等财务相关帮助。此前，ChatGPT仅能提供 \"自动化储蓄\" 或 \"减少外卖消费\" 等泛泛建议，缺乏对用户实际财务状况的洞察。引入Plaid的数据接口后，该平台将能够给出更具针对性的操作建议，例如优先偿还哪张信用卡及具体还款金额。Plaid CEO表示，此次合作的目标是\"让人们拥有更大的财务自由\"。——新浪财经",
+      "datetime": "2026-05-16T00:32:58+00:00",
+      "views": "771",
+      "source_links": [
+        {
+          "text": "新浪财经",
+          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Ft%2F2026-05-16%2Fdoc-inhxzrev2996548.shtml"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29371",
+      "scraped_at": "2026-05-16T09:00:40.146126"
+    },
+    {
+      "id": "xhqcankao_29370",
+      "channel": "xhqcankao",
+      "text": "Spotify将采用苹果的技术用于视频播客音乐流媒体Spotify近日宣布计划采用苹果公司的 HTTP Live Streaming （HLS）技术用于视频播客，这一举措将使创作者无需改变他们现有的设置即可在两个平台上分发视频节目。苹果在三月底为iPhone、iPad、苹果Vision Pro和网页引入了增强的基于 HLS 的视频播客体验。该升级显著改善了视频节目在Apple Podcasts中的分发和消费方式，但Mac和Apple TV支持尚不可用。Spotify表示其 Spotify for Creators 和 Megaphone 平台将在今年晚些时候支持苹果公司的HLS视频技术，并将此举描述为向真正独立于平台的视频分发迈出的重要一步。该公司表示正在与苹果公司协调积极进行这一集成工作，并将在不久的将来分享时间线细节。——Macrumors",
+      "clean_text": "Spotify将采用苹果的技术用于视频播客音乐流媒体Spotify近日宣布计划采用苹果公司的 HTTP Live Streaming （HLS）技术用于视频播客，这一举措将使创作者无需改变他们现有的设置即可在两个平台上分发视频节目。苹果在三月底为iPhone、iPad、苹果Vision Pro和网页引入了增强的基于 HLS 的视频播客体验。该升级显著改善了视频节目在Apple Podcasts中的分发和消费方式，但Mac和Apple TV支持尚不可用。Spotify表示其 Spotify for Creators 和 Megaphone 平台将在今年晚些时候支持苹果公司的HLS视频技术，并将此举描述为向真正独立于平台的视频分发迈出的重要一步。该公司表示正在与苹果公司协调积极进行这一集成工作，并将在不久的将来分享时间线细节。——Macrumors",
+      "datetime": "2026-05-16T00:01:59+00:00",
+      "views": "1.43K",
+      "source_links": [
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/05/14/spotify-to-adopt-apples-tech-for-video-podcasts/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29370",
+      "scraped_at": "2026-05-16T09:00:40.145781"
+    },
+    {
       "id": "xhqcankao_29369",
       "channel": "xhqcankao",
       "text": "日防卫相对美中AI技术差距缩小表达危机感日本政府15日公开了4月27日为修订安全保障相关三份文件而召开的专家会议纪要。防卫相小泉进次郎就AI技术领域美中两国实力差距正在缩小的现状，表示“重新意识到危机感”。小泉援引美国印度太平洋司令关于美国对华技术优势正变得脆弱的表述，对日本的落后表达担忧称：“如果将美中时间上的优势差距看作六个月，那与我们的差距究竟有多大？”有专家指出，与创新企业 Anthropic 最新AI“Claude Mythos”类似的技术，到其他国家和企业能开发出来只是 “时间问题”。会议名为“从综合国力思考安全保障的专家会议”。——共同社",
@@ -863,6 +895,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 46,
-  "updated_at": "2026-05-16T08:59:51.521974"
+  "count": 48,
+  "updated_at": "2026-05-16T09:04:54.855643"
 }
