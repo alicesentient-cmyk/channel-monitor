@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41419",
+      "channel": "zaihuapd",
+      "text": "Microsoft 向 Insider 测试 Windows 11 开始菜单大小与任务栏位置选项Microsoft 向 Experimental channel 的 Windows Insiders 推送 Windows 11 测试更新。开始菜单新增 Small 与 Large 两种尺寸选项，并支持单独开关 Pinned、Recommended、All 分区，也可单独关闭文件推荐，或隐藏用户名与头像。任务栏支持移至屏幕上下左右四边。位于左右边缘时，图标可选择顶部或居中对齐；位于上下边缘时，可选择左对齐或居中。Engadget",
+      "clean_text": "Microsoft 向 Insider 测试 Windows 11 开始菜单大小与任务栏位置选项Microsoft 向 Experimental channel 的 Windows Insiders 推送 Windows 11 测试更新。开始菜单新增 Small 与 Large 两种尺寸选项，并支持单独开关 Pinned、Recommended、All 分区，也可单独关闭文件推荐，或隐藏用户名与头像。任务栏支持移至屏幕上下左右四边。位于左右边缘时，图标可选择顶部或居中对齐；位于上下边缘时，可选择左对齐或居中。Engadget",
+      "datetime": "2026-05-16T16:43:26+00:00",
+      "views": "1.4K",
+      "source_links": [
+        {
+          "text": "Engadget",
+          "url": "https://www.engadget.com/2174306/microsoft-insider-windows-11-start-menu-size-taskbar/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41419",
+      "scraped_at": "2026-05-17T01:00:16.690660"
+    },
+    {
       "id": "zaihuapd_41418",
       "channel": "zaihuapd",
       "text": "GitHub Copilot 桌面应用开放技术预览GitHub Copilot 桌面应用进入技术预览。用户可直接从 issue、PR、提示词或历史会话启动隔离的开发会话，在应用内查看变更差异、运行测试并创建 PR，还支持 Agent Merge 自动处理 review 评论和合并。Copilot Pro 与 Pro+ 订阅者可立即申请抢先体验；Business 和 Enterprise 用户将在本周内陆续开放访问，但需组织管理员在策略中开启预览和 CLI 权限。The GitHub Blog",
@@ -492,30 +516,6 @@
       "scraped_at": "2026-05-16T00:00:45.250263"
     },
     {
-      "id": "zaihuapd_41404",
-      "channel": "zaihuapd",
-      "text": "苹果与 OpenAI 联盟出现裂痕，OpenAI 考虑法律行动OpenAI 与苹果的合作关系趋紧，OpenAI 认为苹果未充分推广 ChatGPT 集成，导致订阅转化远不及预期，正委托外部律师研究法律选项，不排除近期就违约问题发出正式通知。知情人士称，ChatGPT 在苹果系统中的入口隐蔽、功能受限，多数用户仍直接使用独立 App。苹果则对 OpenAI 的隐私标准、硬件业务和工程师挖角感到不满。此外，苹果计划在 6 月 WWDC 展示的 iOS 27 中向 Claude、Gemini 等第三方模型开放 Siri，进一步削弱 OpenAI 的独有地位。双方曾期待数十亿美元订阅收入，至今远未实现。Bloomberg",
-      "clean_text": "苹果与 OpenAI 联盟出现裂痕，OpenAI 考虑法律行动OpenAI 与苹果的合作关系趋紧，OpenAI 认为苹果未充分推广 ChatGPT 集成，导致订阅转化远不及预期，正委托外部律师研究法律选项，不排除近期就违约问题发出正式通知。知情人士称，ChatGPT 在苹果系统中的入口隐蔽、功能受限，多数用户仍直接使用独立 App。苹果则对 OpenAI 的隐私标准、硬件业务和工程师挖角感到不满。此外，苹果计划在 6 月 WWDC 展示的 iOS 27 中向 Claude、Gemini 等第三方模型开放 Siri，进一步削弱 OpenAI 的独有地位。双方曾期待数十亿美元订阅收入，至今远未实现。Bloomberg",
-      "datetime": "2026-05-15T12:59:41+00:00",
-      "views": "81",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41404",
-      "scraped_at": "2026-05-15T21:00:50.818129"
-    },
-    {
       "id": "zaihuapd_41380",
       "channel": "zaihuapd",
       "text": "国家主席将为美国总统特朗普举行欢迎宴会今晚，国家主席习近平为来华进行国事访问的美国总统特朗普举行欢迎宴会。小米集团董事长雷军出席宴会并与马斯克合影。国家主席习近平发表演讲说，中美两国人民都是伟大的人民，实现中华民族伟大复兴，会让美国再伟大。完全可以并行不悖，相互成就，造福世界。我们一致认为，中美关系是当今世界最重要的双边关系。只能搞好，不能搞坏。两国合则两利，斗则俱伤，应该成为伙伴，而不是对手。习近平指出，纵观中美关系发展历程，能不能做到相互尊重、和平共处、合作共赢，是中美关系能否稳定发展的关键所在。双方应当共同扛起这个历史重任，推动中美关系。美国总统特朗普在欢迎宴会上邀请中国国家主席习近平今年9月24日前往美国进行访问。央视新闻",
@@ -552,5 +552,5 @@
     }
   ],
   "count": 27,
-  "updated_at": "2026-05-17T00:59:32.851539"
+  "updated_at": "2026-05-17T01:04:36.387496"
 }
