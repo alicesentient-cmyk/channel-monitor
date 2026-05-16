@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41417",
+      "channel": "zaihuapd",
+      "text": "欧盟宣布年内就“上瘾设计”对 TikTok 及 Meta 采取行动欧盟委员会主席冯德莱恩在丹麦峰会上宣布，年内将对 TikTok 及 Meta 旗下 Instagram 和 Facebook 的“上瘾设计”（无限滚动、自动播放、推送通知）以及 13 岁年龄限制执行不力采取行动，法律建议最快今夏就绪。此前欧盟已初步裁定 TikTok“上瘾设计”和 Meta 年龄核实机制违反《数字服务法》，并推出开源匿名年龄核实应用；澳洲已在全球率先禁 16 岁以下用社交媒体，多国跟进立法。unwire.hk",
+      "clean_text": "欧盟宣布年内就“上瘾设计”对 TikTok 及 Meta 采取行动欧盟委员会主席冯德莱恩在丹麦峰会上宣布，年内将对 TikTok 及 Meta 旗下 Instagram 和 Facebook 的“上瘾设计”（无限滚动、自动播放、推送通知）以及 13 岁年龄限制执行不力采取行动，法律建议最快今夏就绪。此前欧盟已初步裁定 TikTok“上瘾设计”和 Meta 年龄核实机制违反《数字服务法》，并推出开源匿名年龄核实应用；澳洲已在全球率先禁 16 岁以下用社交媒体，多国跟进立法。unwire.hk",
+      "datetime": "2026-05-16T14:33:44+00:00",
+      "views": "2.97K",
+      "source_links": [
+        {
+          "text": "unwire.hk",
+          "url": "https://unwire.hk/2026/05/16/eu-tiktok-meta-addictive-design-child-protection/life-tech/social-network/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41417",
+      "scraped_at": "2026-05-16T23:00:52.367104"
+    },
+    {
       "id": "zaihuapd_41416",
       "channel": "zaihuapd",
       "text": "微信读书推出 AI 助手 Skill微信读书推出 AI 助手 Skill，支持通过 API Key 连接个人账号。助手可调取阅读记录、浏览个人书架，并对阅读时长、天数及偏好进行量化分析。该工具支持 AI 助手获取划线笔记与想法，支持书城搜索及阅读进度查询，并能基于用户偏好推荐相似书籍。所有个人阅读信息通过 API 获取且仅用户本人可见。微信读书",
@@ -551,6 +575,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 27,
-  "updated_at": "2026-05-16T22:57:48.718618"
+  "count": 28,
+  "updated_at": "2026-05-16T23:02:54.257905"
 }
