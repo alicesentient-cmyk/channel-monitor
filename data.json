@@ -1,6 +1,38 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41414",
+      "channel": "zaihuapd",
+      "text": "OPPO 承认 Find X9 Ultra 拍摄白色变粉问题多位 OPPO Find X9 Ultra 用户反馈，拍摄白云、白猫、人脸等场景时出现白色变粉、人脸偏红。OPPO 称问题已修复，将通过新版本推送解决，预计 5 月下旬陆续推送。OPPO 近一个月因“莫奈紫”谐音梗和母亲节文案争议，已处罚多名负责人。新浪财经（被404）|IT之家|凤凰网",
+      "clean_text": "OPPO 承认 Find X9 Ultra 拍摄白色变粉问题多位 OPPO Find X9 Ultra 用户反馈，拍摄白云、白猫、人脸等场景时出现白色变粉、人脸偏红。OPPO 称问题已修复，将通过新版本推送解决，预计 5 月下旬陆续推送。OPPO 近一个月因“莫奈紫”谐音梗和母亲节文案争议，已处罚多名负责人。新浪财经（被404）|IT之家|凤凰网",
+      "datetime": "2026-05-16T08:49:38+00:00",
+      "views": "1.55K",
+      "source_links": [
+        {
+          "text": "新浪财经",
+          "url": "https://finance.sina.com.cn/tech/2026-05-16/doc-inhyankq2537511.shtml"
+        },
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/951/248.htm"
+        },
+        {
+          "text": "凤凰网",
+          "url": "https://tech.ifeng.com/c/8tAo991G3NO"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41414",
+      "scraped_at": "2026-05-16T17:00:09.594720"
+    },
+    {
       "id": "zaihuapd_41413",
       "channel": "zaihuapd",
       "text": "Gallup 调查显示 71% 美国人反对在居住地附近建设 AI 数据中心Gallup 一项 3 月调查显示，71% 美国人反对在自己居住地附近建设 AI 数据中心，其中 48% 明确表示“强烈反对”；支持者只有略高于四分之一，强烈支持仅 7%。这也是 Gallup 首次就本地 AI 数据中心建设提问。反对理由主要集中在资源消耗和环境影响。反对者中，约一半提到数据中心耗电、耗水过高，另有一部分人担心污染、噪音、交通和生活成本上升。相比之下，支持者最常提到的理由是就业和税收。Gallup 的同期调查还显示，美国人对 AI 数据中心的抵触程度，甚至高于在居住地附近建设核电站。Gallup",
@@ -701,30 +733,6 @@
       "scraped_at": "2026-05-15T13:04:44.384446"
     },
     {
-      "id": "zaihuapd_41395",
-      "channel": "zaihuapd",
-      "text": "AMD 确认 FSR 4.1 将于 7 月支持 RX 7000 系列，2027 年初覆盖 RX 6000AMD 宣布，基于机器学习的 FSR 超分 4.1 将在今年 7 月向 Radeon RX 7000 系列（RDNA 3）开放，RX 6000 系列（RDNA 2）则计划于 2027 年初获得支持。该版本针对第一代 AI 加速器使用 INT8 指令开发，发布时即适配超过 300 款游戏；相比 FSR 4.0，4.1 改善锐度，并对 Ultra Performance 和动态分辨率缩放模式作了优化。VideoCardz",
-      "clean_text": "AMD 确认 FSR 4.1 将于 7 月支持 RX 7000 系列，2027 年初覆盖 RX 6000AMD 宣布，基于机器学习的 FSR 超分 4.1 将在今年 7 月向 Radeon RX 7000 系列（RDNA 3）开放，RX 6000 系列（RDNA 2）则计划于 2027 年初获得支持。该版本针对第一代 AI 加速器使用 INT8 指令开发，发布时即适配超过 300 款游戏；相比 FSR 4.0，4.1 改善锐度，并对 Ultra Performance 和动态分辨率缩放模式作了优化。VideoCardz",
-      "datetime": "2026-05-15T04:57:32+00:00",
-      "views": "660",
-      "source_links": [
-        {
-          "text": "VideoCardz",
-          "url": "https://videocardz.com/newz/amd-fsr-upscaling-4-1-officially-coming-to-radeon-rx-7000-gpus-in-july-rx-6000-in-2027"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41395",
-      "scraped_at": "2026-05-15T13:00:52.925304"
-    },
-    {
       "id": "zaihuapd_41380",
       "channel": "zaihuapd",
       "text": "国家主席将为美国总统特朗普举行欢迎宴会今晚，国家主席习近平为来华进行国事访问的美国总统特朗普举行欢迎宴会。小米集团董事长雷军出席宴会并与马斯克合影。国家主席习近平发表演讲说，中美两国人民都是伟大的人民，实现中华民族伟大复兴，会让美国再伟大。完全可以并行不悖，相互成就，造福世界。我们一致认为，中美关系是当今世界最重要的双边关系。只能搞好，不能搞坏。两国合则两利，斗则俱伤，应该成为伙伴，而不是对手。习近平指出，纵观中美关系发展历程，能不能做到相互尊重、和平共处、合作共赢，是中美关系能否稳定发展的关键所在。双方应当共同扛起这个历史重任，推动中美关系。美国总统特朗普在欢迎宴会上邀请中国国家主席习近平今年9月24日前往美国进行访问。央视新闻",
@@ -761,5 +769,5 @@
     }
   ],
   "count": 40,
-  "updated_at": "2026-05-16T16:55:19.859866"
+  "updated_at": "2026-05-16T17:00:22.913472"
 }
