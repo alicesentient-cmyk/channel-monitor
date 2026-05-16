@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41418",
+      "channel": "zaihuapd",
+      "text": "GitHub Copilot 桌面应用开放技术预览GitHub Copilot 桌面应用进入技术预览。用户可直接从 issue、PR、提示词或历史会话启动隔离的开发会话，在应用内查看变更差异、运行测试并创建 PR，还支持 Agent Merge 自动处理 review 评论和合并。Copilot Pro 与 Pro+ 订阅者可立即申请抢先体验；Business 和 Enterprise 用户将在本周内陆续开放访问，但需组织管理员在策略中开启预览和 CLI 权限。The GitHub Blog",
+      "clean_text": "GitHub Copilot 桌面应用开放技术预览GitHub Copilot 桌面应用进入技术预览。用户可直接从 issue、PR、提示词或历史会话启动隔离的开发会话，在应用内查看变更差异、运行测试并创建 PR，还支持 Agent Merge 自动处理 review 评论和合并。Copilot Pro 与 Pro+ 订阅者可立即申请抢先体验；Business 和 Enterprise 用户将在本周内陆续开放访问，但需组织管理员在策略中开启预览和 CLI 权限。The GitHub Blog",
+      "datetime": "2026-05-16T15:07:01+00:00",
+      "views": "4.23K",
+      "source_links": [
+        {
+          "text": "The GitHub Blog",
+          "url": "https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41418",
+      "scraped_at": "2026-05-17T00:00:46.927226"
+    },
+    {
       "id": "zaihuapd_41417",
       "channel": "zaihuapd",
       "text": "欧盟宣布年内就“上瘾设计”对 TikTok 及 Meta 采取行动欧盟委员会主席冯德莱恩在丹麦峰会上宣布，年内将对 TikTok 及 Meta 旗下 Instagram 和 Facebook 的“上瘾设计”（无限滚动、自动播放、推送通知）以及 13 岁年龄限制执行不力采取行动，法律建议最快今夏就绪。此前欧盟已初步裁定 TikTok“上瘾设计”和 Meta 年龄核实机制违反《数字服务法》，并推出开源匿名年龄核实应用；澳洲已在全球率先禁 16 岁以下用社交媒体，多国跟进立法。unwire.hk",
@@ -551,6 +575,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 27,
-  "updated_at": "2026-05-16T23:58:45.291323"
+  "count": 28,
+  "updated_at": "2026-05-17T00:03:48.968192"
 }
