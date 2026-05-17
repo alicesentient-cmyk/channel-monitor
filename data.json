@@ -328,30 +328,6 @@
       "scraped_at": "2026-05-17T10:00:10.041174"
     },
     {
-      "id": "zaihuapd_41419",
-      "channel": "zaihuapd",
-      "text": "Microsoft 向 Insider 测试 Windows 11 开始菜单大小与任务栏位置选项Microsoft 向 Experimental channel 的 Windows Insiders 推送 Windows 11 测试更新。开始菜单新增 Small 与 Large 两种尺寸选项，并支持单独开关 Pinned、Recommended、All 分区，也可单独关闭文件推荐，或隐藏用户名与头像。任务栏支持移至屏幕上下左右四边。位于左右边缘时，图标可选择顶部或居中对齐；位于上下边缘时，可选择左对齐或居中。Engadget",
-      "clean_text": "Microsoft 向 Insider 测试 Windows 11 开始菜单大小与任务栏位置选项Microsoft 向 Experimental channel 的 Windows Insiders 推送 Windows 11 测试更新。开始菜单新增 Small 与 Large 两种尺寸选项，并支持单独开关 Pinned、Recommended、All 分区，也可单独关闭文件推荐，或隐藏用户名与头像。任务栏支持移至屏幕上下左右四边。位于左右边缘时，图标可选择顶部或居中对齐；位于上下边缘时，可选择左对齐或居中。Engadget",
-      "datetime": "2026-05-16T16:43:26+00:00",
-      "views": "1.4K",
-      "source_links": [
-        {
-          "text": "Engadget",
-          "url": "https://www.engadget.com/2174306/microsoft-insider-windows-11-start-menu-size-taskbar/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41419",
-      "scraped_at": "2026-05-17T01:00:16.690660"
-    },
-    {
       "id": "zaihuapd_41388",
       "channel": "zaihuapd",
       "text": "ChatGPT Android 版拆解发现 Codex 手机远控桌面会话功能  ChatGPT Android 版 1.2026.125 的 APK 被拆解发现多处字符串，显示 OpenAI 正在为 Codex 增加手机远程控制桌面会话的能力，支持在手机上查找、重连远程会话，并要求桌面端登录同一账号。这项功能目前仍在开发中，还没有可用预览，正式上线时间也未公布。  Android Authority",
@@ -363,6 +339,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 17,
-  "updated_at": "2026-05-18T04:40:26.788532"
+  "count": 16,
+  "updated_at": "2026-05-18T04:45:30.513554"
 }
