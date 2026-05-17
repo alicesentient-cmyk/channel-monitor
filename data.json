@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41429",
+      "channel": "zaihuapd",
+      "text": "OpenClaw 开发者单月消耗 130 万美元 OpenAI API TokenOpenClaw 开发者 Peter Steinberger 披露，其团队在 30 天内消耗了价值 130 万美元的 OpenAI API Token。该费用涉及 6030 亿个 Token 和 760 万次请求，由约 100 个 Codex 代理产生。由于 Steinberger 就职于 OpenAI，相关成本由公司全额承担。账单明细还显示其使用了 2026 年 4 月 23 日版本的 GPT-5.5 模型。这笔巨额开支主要源于 Codex 的“快速模式”计费。Steinberger 表示，该实验旨在压力测试无预算限制下的 AI 自动化开发。其团队构建的代理可自主完成代码审查、安全扫描及修复任务。若禁用快速模式，原始 API 成本将降至约 30 万美元。Tom's Hardware",
+      "clean_text": "OpenClaw 开发者单月消耗 130 万美元 OpenAI API TokenOpenClaw 开发者 Peter Steinberger 披露，其团队在 30 天内消耗了价值 130 万美元的 OpenAI API Token。该费用涉及 6030 亿个 Token 和 760 万次请求，由约 100 个 Codex 代理产生。由于 Steinberger 就职于 OpenAI，相关成本由公司全额承担。账单明细还显示其使用了 2026 年 4 月 23 日版本的 GPT-5.5 模型。这笔巨额开支主要源于 Codex 的“快速模式”计费。Steinberger 表示，该实验旨在压力测试无预算限制下的 AI 自动化开发。其团队构建的代理可自主完成代码审查、安全扫描及修复任务。若禁用快速模式，原始 API 成本将降至约 30 万美元。Tom's Hardware",
+      "datetime": "2026-05-17T13:38:28+00:00",
+      "views": "2.8K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41429",
+      "scraped_at": "2026-05-17T22:00:48.885243"
+    },
+    {
       "id": "zaihuapd_41428",
       "channel": "zaihuapd",
       "text": "特朗普 2026 年第一季度密集交易科技股，总额达 2.2 亿至 7.5 亿美元2026 年第一季度，特朗普披露超 3700 笔证券交易，总额约 2.2 亿至 7.5 亿美元，大量买卖集中在 Nvidia、Microsoft、Amazon、Meta 等科技股。2 月 10 日，他卖出 500 万至 2500 万美元的 Microsoft、Amazon 和 Meta 股票，同时买入 ServiceNow、Adobe、Oracle 等公司股票。部分交易时点与公司消息临近，例如买入 Nvidia 后不久，该公司即宣布与 Meta 达成芯片协议。披露文件未说明交易是否由特朗普本人指示，白宫称总统资产由子女信托管理，不存在利益冲突。CNBC",
@@ -443,6 +467,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 21,
-  "updated_at": "2026-05-17T22:00:44.607063"
+  "count": 22,
+  "updated_at": "2026-05-17T22:05:47.994623"
 }
