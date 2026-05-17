@@ -400,30 +400,6 @@
       "scraped_at": "2026-05-16T23:00:52.367104"
     },
     {
-      "id": "zaihuapd_41416",
-      "channel": "zaihuapd",
-      "text": "微信读书推出 AI 助手 Skill微信读书推出 AI 助手 Skill，支持通过 API Key 连接个人账号。助手可调取阅读记录、浏览个人书架，并对阅读时长、天数及偏好进行量化分析。该工具支持 AI 助手获取划线笔记与想法，支持书城搜索及阅读进度查询，并能基于用户偏好推荐相似书籍。所有个人阅读信息通过 API 获取且仅用户本人可见。微信读书",
-      "clean_text": "微信读书推出 AI 助手 Skill微信读书推出 AI 助手 Skill，支持通过 API Key 连接个人账号。助手可调取阅读记录、浏览个人书架，并对阅读时长、天数及偏好进行量化分析。该工具支持 AI 助手获取划线笔记与想法，支持书城搜索及阅读进度查询，并能基于用户偏好推荐相似书籍。所有个人阅读信息通过 API 获取且仅用户本人可见。微信读书",
-      "datetime": "2026-05-16T13:23:22+00:00",
-      "views": "3.59K",
-      "source_links": [
-        {
-          "text": "微信读书",
-          "url": "https://weread.qq.com/r/weread-skills"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41416",
-      "scraped_at": "2026-05-16T22:00:28.260124"
-    },
-    {
       "id": "zaihuapd_41388",
       "channel": "zaihuapd",
       "text": "ChatGPT Android 版拆解发现 Codex 手机远控桌面会话功能  ChatGPT Android 版 1.2026.125 的 APK 被拆解发现多处字符串，显示 OpenAI 正在为 Codex 增加手机远程控制桌面会话的能力，支持在手机上查找、重连远程会话，并要求桌面端登录同一账号。这项功能目前仍在开发中，还没有可用预览，正式上线时间也未公布。  Android Authority",
@@ -435,6 +411,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 20,
-  "updated_at": "2026-05-18T01:23:21.996067"
+  "count": 19,
+  "updated_at": "2026-05-18T01:28:24.976552"
 }
