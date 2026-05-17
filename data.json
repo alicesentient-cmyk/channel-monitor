@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41421",
+      "channel": "zaihuapd",
+      "text": "盖茨基金会信托已清仓微软股票当地时间 5 月 16 日，美国证券交易委员会文件显示，盖茨基金会信托已在今年第一季度出售剩余 770 万股微软股票。按当前股价计算，这批股票价值 32 亿美元，基金会已不再持有微软股票。36氪",
+      "clean_text": "盖茨基金会信托已清仓微软股票当地时间 5 月 16 日，美国证券交易委员会文件显示，盖茨基金会信托已在今年第一季度出售剩余 770 万股微软股票。按当前股价计算，这批股票价值 32 亿美元，基金会已不再持有微软股票。36氪",
+      "datetime": "2026-05-17T02:08:00+00:00",
+      "views": "3.7K",
+      "source_links": [
+        {
+          "text": "36氪",
+          "url": "https://36kr.com/newsflashes/3812661253365506"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41421",
+      "scraped_at": "2026-05-17T11:00:36.531128"
+    },
+    {
       "id": "zaihuapd_41420",
       "channel": "zaihuapd",
       "text": "Amazon 设 AI 使用指标，员工用 MeshClaw 处理私务凑配额Amazon 为让 80% 以上开发者每周使用 AI，给员工设定了 AI 使用指标和 token 消耗排行榜。员工为凑配额，开始用公司内部 AI 代理 MeshClaw 处理个人事务，这种刷量行为被称为 \"tokenmaxxing\"。受访员工称压力巨大，有人甚至在论坛分享把 Slack 对话丢给 AI 分析来烧 token 的做法。Amazon 回应称每天有数千员工用 AI 自动化重复任务。Futurism",
@@ -527,6 +551,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 26,
-  "updated_at": "2026-05-17T10:56:18.422956"
+  "count": 27,
+  "updated_at": "2026-05-17T11:01:22.161627"
 }
