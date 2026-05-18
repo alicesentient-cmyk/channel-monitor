@@ -707,34 +707,6 @@
       "scraped_at": "2026-05-17T17:00:15.736956"
     },
     {
-      "id": "zaihuapd_41424",
-      "channel": "zaihuapd",
-      "text": "特斯拉 Model Y 美国涨价，中国涨价传闻被否认中国市场方面，特斯拉中国内部人士称 Model Y 从 5 月 1 日起涨价的传闻为假消息；销售人员称车型未涨价，只是取消此前 7 年低息购车金融政策。美国市场方面，特斯拉官网显示 Model Y Premium AWD 和 RWD 各涨 1000 美元，至 49990 美元和 45990 美元；Performance AWD 涨 500 美元，至 57990 美元。华尔街见闻|CNBC",
-      "clean_text": "特斯拉 Model Y 美国涨价，中国涨价传闻被否认中国市场方面，特斯拉中国内部人士称 Model Y 从 5 月 1 日起涨价的传闻为假消息；销售人员称车型未涨价，只是取消此前 7 年低息购车金融政策。美国市场方面，特斯拉官网显示 Model Y Premium AWD 和 RWD 各涨 1000 美元，至 49990 美元和 45990 美元；Performance AWD 涨 500 美元，至 57990 美元。华尔街见闻|CNBC",
-      "datetime": "2026-05-17T06:51:59+00:00",
-      "views": "1.23K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3104139"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/16/tesla-raises-prices-of-model-y-cars-in-the-us-for-the-first-time-in-two-years.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41424",
-      "scraped_at": "2026-05-17T15:00:22.215057"
-    },
-    {
       "id": "zaihuapd_41388",
       "channel": "zaihuapd",
       "text": "ChatGPT Android 版拆解发现 Codex 手机远控桌面会话功能  ChatGPT Android 版 1.2026.125 的 APK 被拆解发现多处字符串，显示 OpenAI 正在为 Codex 增加手机远程控制桌面会话的能力，支持在手机上查找、重连远程会话，并要求桌面端登录同一账号。这项功能目前仍在开发中，还没有可用预览，正式上线时间也未公布。  Android Authority",
@@ -746,6 +718,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 40,
-  "updated_at": "2026-05-18T18:50:19.513234"
+  "count": 39,
+  "updated_at": "2026-05-18T18:55:23.507609"
 }
