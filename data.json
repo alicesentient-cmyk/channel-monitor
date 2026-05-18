@@ -765,32 +765,8 @@
       ],
       "url": "https://t.me/xhqcankao/29379",
       "scraped_at": "2026-05-17T17:00:17.335449"
-    },
-    {
-      "id": "zaihuapd_41425",
-      "channel": "zaihuapd",
-      "text": "马斯克为 SpaceX 双重股权结构辩护，称需保证多行星使命SpaceX 计划下月上市前，马斯克解释了为何公司治理结构要让他不能被董事会解雇。他将持有拥有 10 倍投票权的 B 类股，只有 B 类股东能罢免他，董事会对此无权。马斯克称，这是为了确保公司专注于让人成为多行星物种，不受季度盈利等短期干扰。他过去也多次以多行星使命为由回应各类批评。Gizmodo",
-      "clean_text": "马斯克为 SpaceX 双重股权结构辩护，称需保证多行星使命SpaceX 计划下月上市前，马斯克解释了为何公司治理结构要让他不能被董事会解雇。他将持有拥有 10 倍投票权的 B 类股，只有 B 类股东能罢免他，董事会对此无权。马斯克称，这是为了确保公司专注于让人成为多行星物种，不受季度盈利等短期干扰。他过去也多次以多行星使命为由回应各类批评。Gizmodo",
-      "datetime": "2026-05-17T08:05:20+00:00",
-      "views": "4.1K",
-      "source_links": [
-        {
-          "text": "Gizmodo",
-          "url": "https://gizmodo.com/elon-musk-explains-why-the-spacex-board-must-be-powerless-to-fire-him-2000759622"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41425",
-      "scraped_at": "2026-05-17T17:00:15.736956"
     }
   ],
-  "count": 42,
-  "updated_at": "2026-05-18T20:01:11.594089"
+  "count": 41,
+  "updated_at": "2026-05-18T20:06:15.084370"
 }
