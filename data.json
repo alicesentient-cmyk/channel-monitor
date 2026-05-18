@@ -826,32 +826,8 @@
       ],
       "url": "https://t.me/zaihuapd/41429",
       "scraped_at": "2026-05-17T22:00:48.885243"
-    },
-    {
-      "id": "zaihuapd_41428",
-      "channel": "zaihuapd",
-      "text": "特朗普 2026 年第一季度密集交易科技股，总额达 2.2 亿至 7.5 亿美元2026 年第一季度，特朗普披露超 3700 笔证券交易，总额约 2.2 亿至 7.5 亿美元，大量买卖集中在 Nvidia、Microsoft、Amazon、Meta 等科技股。2 月 10 日，他卖出 500 万至 2500 万美元的 Microsoft、Amazon 和 Meta 股票，同时买入 ServiceNow、Adobe、Oracle 等公司股票。部分交易时点与公司消息临近，例如买入 Nvidia 后不久，该公司即宣布与 Meta 达成芯片协议。披露文件未说明交易是否由特朗普本人指示，白宫称总统资产由子女信托管理，不存在利益冲突。CNBC",
-      "clean_text": "特朗普 2026 年第一季度密集交易科技股，总额达 2.2 亿至 7.5 亿美元2026 年第一季度，特朗普披露超 3700 笔证券交易，总额约 2.2 亿至 7.5 亿美元，大量买卖集中在 Nvidia、Microsoft、Amazon、Meta 等科技股。2 月 10 日，他卖出 500 万至 2500 万美元的 Microsoft、Amazon 和 Meta 股票，同时买入 ServiceNow、Adobe、Oracle 等公司股票。部分交易时点与公司消息临近，例如买入 Nvidia 后不久，该公司即宣布与 Meta 达成芯片协议。披露文件未说明交易是否由特朗普本人指示，白宫称总统资产由子女信托管理，不存在利益冲突。CNBC",
-      "datetime": "2026-05-17T11:49:49+00:00",
-      "views": "1.53K",
-      "source_links": [
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41428",
-      "scraped_at": "2026-05-17T20:00:38.150765"
     }
   ],
-  "count": 45,
-  "updated_at": "2026-05-18T23:49:15.010968"
+  "count": 44,
+  "updated_at": "2026-05-18T23:54:19.335524"
 }
