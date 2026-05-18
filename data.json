@@ -802,32 +802,8 @@
       ],
       "url": "https://t.me/xhqcankao/29380",
       "scraped_at": "2026-05-17T23:00:13.391613"
-    },
-    {
-      "id": "zaihuapd_41429",
-      "channel": "zaihuapd",
-      "text": "OpenClaw 开发者单月消耗 130 万美元 OpenAI API TokenOpenClaw 开发者 Peter Steinberger 披露，其团队在 30 天内消耗了价值 130 万美元的 OpenAI API Token。该费用涉及 6030 亿个 Token 和 760 万次请求，由约 100 个 Codex 代理产生。由于 Steinberger 就职于 OpenAI，相关成本由公司全额承担。账单明细还显示其使用了 2026 年 4 月 23 日版本的 GPT-5.5 模型。这笔巨额开支主要源于 Codex 的“快速模式”计费。Steinberger 表示，该实验旨在压力测试无预算限制下的 AI 自动化开发。其团队构建的代理可自主完成代码审查、安全扫描及修复任务。若禁用快速模式，原始 API 成本将降至约 30 万美元。Tom's Hardware",
-      "clean_text": "OpenClaw 开发者单月消耗 130 万美元 OpenAI API TokenOpenClaw 开发者 Peter Steinberger 披露，其团队在 30 天内消耗了价值 130 万美元的 OpenAI API Token。该费用涉及 6030 亿个 Token 和 760 万次请求，由约 100 个 Codex 代理产生。由于 Steinberger 就职于 OpenAI，相关成本由公司全额承担。账单明细还显示其使用了 2026 年 4 月 23 日版本的 GPT-5.5 模型。这笔巨额开支主要源于 Codex 的“快速模式”计费。Steinberger 表示，该实验旨在压力测试无预算限制下的 AI 自动化开发。其团队构建的代理可自主完成代码审查、安全扫描及修复任务。若禁用快速模式，原始 API 成本将降至约 30 万美元。Tom's Hardware",
-      "datetime": "2026-05-17T13:38:28+00:00",
-      "views": "2.8K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41429",
-      "scraped_at": "2026-05-17T22:00:48.885243"
     }
   ],
-  "count": 44,
-  "updated_at": "2026-05-19T01:35:34.316877"
+  "count": 43,
+  "updated_at": "2026-05-19T01:40:38.138200"
 }
