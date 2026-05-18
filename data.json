@@ -652,30 +652,6 @@
       "scraped_at": "2026-05-17T13:00:32.335521"
     },
     {
-      "id": "zaihuapd_41422",
-      "channel": "zaihuapd",
-      "text": "苹果折叠 iPhone Ultra 铰链嘎嘎作响，或再推迟发布苹果折叠 iPhone Ultra（预计随 iPhone 18 Pro 发布）的铰链采用 3D 打印加填充材料来降低成本，导致折叠几次后出现嘎嘎声，未能达到标准。若该问题无法及时解决，该机可能推迟发布，甚至延至明年。此外，这款折叠屏手机的显示屏仍有折痕，未能实现苹果期望的完全无折痕设计，但制造已进入早期阶段，苹果难以无限期推迟。PhoneArena",
-      "clean_text": "苹果折叠 iPhone Ultra 铰链嘎嘎作响，或再推迟发布苹果折叠 iPhone Ultra（预计随 iPhone 18 Pro 发布）的铰链采用 3D 打印加填充材料来降低成本，导致折叠几次后出现嘎嘎声，未能达到标准。若该问题无法及时解决，该机可能推迟发布，甚至延至明年。此外，这款折叠屏手机的显示屏仍有折痕，未能实现苹果期望的完全无折痕设计，但制造已进入早期阶段，苹果难以无限期推迟。PhoneArena",
-      "datetime": "2026-05-17T03:20:27+00:00",
-      "views": "3.71K",
-      "source_links": [
-        {
-          "text": "PhoneArena",
-          "url": "https://www.phonearena.com/news/apple-foldable-iphone-ultra-ran-into-hilarious-problem_id180406"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41422",
-      "scraped_at": "2026-05-17T12:01:03.322155"
-    },
-    {
       "id": "zaihuapd_41388",
       "channel": "zaihuapd",
       "text": "ChatGPT Android 版拆解发现 Codex 手机远控桌面会话功能  ChatGPT Android 版 1.2026.125 的 APK 被拆解发现多处字符串，显示 OpenAI 正在为 Codex 增加手机远程控制桌面会话的能力，支持在手机上查找、重连远程会话，并要求桌面端登录同一账号。这项功能目前仍在开发中，还没有可用预览，正式上线时间也未公布。  Android Authority",
@@ -687,6 +663,6 @@
       "scraped_at": "2026-05-15T06:00:12.150382"
     }
   ],
-  "count": 36,
-  "updated_at": "2026-05-18T15:17:48.153591"
+  "count": 35,
+  "updated_at": "2026-05-18T15:22:51.348866"
 }
