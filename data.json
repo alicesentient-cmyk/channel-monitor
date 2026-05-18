@@ -762,32 +762,8 @@
       ],
       "url": "https://t.me/zaihuapd/41431",
       "scraped_at": "2026-05-18T01:00:10.375120"
-    },
-    {
-      "id": "zaihuapd_41430",
-      "channel": "zaihuapd",
-      "text": "iOS 27 新 Siri 应用将配备自动删除聊天功能，Genmoji 升级iOS 27 将推出独立 Siri 聊天应用，新应用支持类似 ChatGPT 的对话，并引入自动删除聊天设置，用户可选择对话保留 30 天、1 年或永久。该新版 Siri 在推迟两年后，仍可能以“beta”标签发布。同时，苹果计划升级 Genmoji 功能。Bloomberg",
-      "clean_text": "iOS 27 新 Siri 应用将配备自动删除聊天功能，Genmoji 升级iOS 27 将推出独立 Siri 聊天应用，新应用支持类似 ChatGPT 的对话，并引入自动删除聊天设置，用户可选择对话保留 30 天、1 年或永久。该新版 Siri 在推迟两年后，仍可能以“beta”标签发布。同时，苹果计划升级 Genmoji 功能。Bloomberg",
-      "datetime": "2026-05-17T15:27:12+00:00",
-      "views": "3.23K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41430",
-      "scraped_at": "2026-05-18T00:00:42.759151"
     }
   ],
-  "count": 42,
-  "updated_at": "2026-05-19T03:26:50.701845"
+  "count": 41,
+  "updated_at": "2026-05-19T03:31:53.821876"
 }
