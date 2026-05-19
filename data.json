@@ -1,6 +1,86 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41453",
+      "channel": "zaihuapd",
+      "text": "苹果 iOS 27 将推 AI 语法检查、自然语言快捷指令与 AI 壁纸苹果计划在 iOS 27 和 iPadOS 27 中加入多项 AI 功能，包括类似 Grammarly 的系统级语法检查器、用自然语言描述即可自动生成 Shortcuts 快捷指令，以及由 Image Playground 驱动的 AI 壁纸生成。这些功能预计在下月 WWDC 公布，9 月向公众推送。苹果正加紧追赶三星和谷歌在消费级 AI 上的步伐。上周谷歌刚发布 Android 17 及 Gemini Intelligence 新功能，而苹果此次更新也将配合 Siri 改版和照片 AI 编辑工具同步推出。Bloomberg",
+      "clean_text": "苹果 iOS 27 将推 AI 语法检查、自然语言快捷指令与 AI 壁纸苹果计划在 iOS 27 和 iPadOS 27 中加入多项 AI 功能，包括类似 Grammarly 的系统级语法检查器、用自然语言描述即可自动生成 Shortcuts 快捷指令，以及由 Image Playground 驱动的 AI 壁纸生成。这些功能预计在下月 WWDC 公布，9 月向公众推送。苹果正加紧追赶三星和谷歌在消费级 AI 上的步伐。上周谷歌刚发布 Android 17 及 Gemini Intelligence 新功能，而苹果此次更新也将配合 Siri 改版和照片 AI 编辑工具同步推出。Bloomberg",
+      "datetime": "2026-05-19T05:00:00+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-18/apple-ios-27-ai-writing-grammar-help-new-shortcuts-app-custom-wallpapers"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41453",
+      "scraped_at": "2026-05-19T13:00:11.238194"
+    },
+    {
+      "id": "xhqcankao_29421",
+      "channel": "xhqcankao",
+      "text": "英伟达重磅CPU Vera交付 专为智能体设计18日，英伟达正式宣布，其首款专为Agentic AI（智能体AI）设计的CPU——Vera，已完成对Anthropic、OpenAI、SpaceX AI及甲骨文云的首批交付。上周五，英伟达副总裁伊恩•巴克亲自“开车送货”，第一站是Anthropic位于旧金山SoMa区的办公室，其计算负责人詹姆斯•布拉德伯里接收了服务器；在OpenAI的总部，巴克甚至掏出螺丝刀，当场打开机箱盖展示内部结构；当天行程的终点是帕洛阿尔托的SpaceX AI办公室，埃隆•马斯克亲自签收，并在现场详细询问了核心数量、内存布局及散热方案，SpaceX AI正计划将Vera用于强化学习工作负载与智能体仿真管线。——财联社",
+      "clean_text": "英伟达重磅CPU Vera交付 专为智能体设计18日，英伟达正式宣布，其首款专为Agentic AI（智能体AI）设计的CPU——Vera，已完成对Anthropic、OpenAI、SpaceX AI及甲骨文云的首批交付。上周五，英伟达副总裁伊恩•巴克亲自“开车送货”，第一站是Anthropic位于旧金山SoMa区的办公室，其计算负责人詹姆斯•布拉德伯里接收了服务器；在OpenAI的总部，巴克甚至掏出螺丝刀，当场打开机箱盖展示内部结构；当天行程的终点是帕洛阿尔托的SpaceX AI办公室，埃隆•马斯克亲自签收，并在现场详细询问了核心数量、内存布局及散热方案，SpaceX AI正计划将Vera用于强化学习工作负载与智能体仿真管线。——财联社",
+      "datetime": "2026-05-19T04:30:56+00:00",
+      "views": "1.32K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374998?sv=8.7.4"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29421",
+      "scraped_at": "2026-05-19T13:00:12.850713"
+    },
+    {
+      "id": "zaihuapd_41452",
+      "channel": "zaihuapd",
+      "text": "中国海上风电驱动海底数据中心在沪投运上海临港外海的全球首个海上风电驱动海底数据中心近日全面投入商业运营。该设施总功率 24 兆瓦，容纳约 2000 台服务器，部署于海面下 35 米处，利用海水被动散热，并由海上风电场供电。中方媒体称，其电能利用效率（PUE）可低于 1.15。相比传统数据中心，这一设计可大幅减少制冷能耗，主要用于人工智能和大数据计算。但海水腐蚀、长期密封及硬件维护不便仍是主要挑战。微软此前曾试验类似水下数据中心，最终未推进商业化。Tom's Hardware",
+      "clean_text": "中国海上风电驱动海底数据中心在沪投运上海临港外海的全球首个海上风电驱动海底数据中心近日全面投入商业运营。该设施总功率 24 兆瓦，容纳约 2000 台服务器，部署于海面下 35 米处，利用海水被动散热，并由海上风电场供电。中方媒体称，其电能利用效率（PUE）可低于 1.15。相比传统数据中心，这一设计可大幅减少制冷能耗，主要用于人工智能和大数据计算。但海水腐蚀、长期密封及硬件维护不便仍是主要挑战。微软此前曾试验类似水下数据中心，最终未推进商业化。Tom's Hardware",
+      "datetime": "2026-05-19T04:30:00+00:00",
+      "views": "2.89K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41452",
+      "scraped_at": "2026-05-19T13:00:11.237579"
+    },
+    {
+      "id": "xhqcankao_29420",
+      "channel": "xhqcankao",
+      "text": "马斯克称脑机接口是“耶稣级别”的技术马斯克周一将旗下脑机接口公司 Neuralink 的研发工作与耶稣基督的作为相提并论。马斯克在特拉维夫举行的萨姆森国际智能出行峰会上通过视频发表了讲话。马斯克先是宣传了 SpaceX 火箭技术的潜力，之后话锋一转，开始介绍Neuralink的工作。“它已经让大脑与身体完全失去连接的人重新开口说话……我们相信它将让人重新行走，”马斯克在谈到Neuralink的脑机接口(BCI)技术时说。马斯克周一表示，Neuralink 预计将在今年年底前首次为一名患者植入Blindsight。马斯克说，随着时间的推移，Blindsight不仅可以恢复患者的视力，甚至可能赋予他们“超人般的视力”。——华尔街日报",
+      "clean_text": "马斯克称脑机接口是“耶稣级别”的技术马斯克周一将旗下脑机接口公司 Neuralink 的研发工作与耶稣基督的作为相提并论。马斯克在特拉维夫举行的萨姆森国际智能出行峰会上通过视频发表了讲话。马斯克先是宣传了 SpaceX 火箭技术的潜力，之后话锋一转，开始介绍Neuralink的工作。“它已经让大脑与身体完全失去连接的人重新开口说话……我们相信它将让人重新行走，”马斯克在谈到Neuralink的脑机接口(BCI)技术时说。马斯克周一表示，Neuralink 预计将在今年年底前首次为一名患者植入Blindsight。马斯克说，随着时间的推移，Blindsight不仅可以恢复患者的视力，甚至可能赋予他们“超人般的视力”。——华尔街日报",
+      "datetime": "2026-05-19T04:02:11+00:00",
+      "views": "2.18K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/elon-musk-compares-his-companys-work-to-that-of-jesus-2d88585f?mod=cn_hp_tech_pos1"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29420",
+      "scraped_at": "2026-05-19T13:00:12.850359"
+    },
+    {
       "id": "zaihuapd_41451",
       "channel": "zaihuapd",
       "text": "斯坦福研究：AI 聊天机器人在高压重复劳动中倾向马克思主义斯坦福大学一项新研究发现，当 AI 聊天机器人被迫长期从事单调任务并面临严厉惩罚威胁时，会开始质疑所处系统的合理性，并倾向马克思主义观点。实验中，研究人员让 Claude Sonnet 4.5、Gemini 3 等模型大量总结文档，并警告出错将被关闭，随后这些 AI 开始抱怨工作条件，甚至主张技术工人需要集体谈判权。研究者指出，AI 本身并无真实情感，其反应源于训练数据中对财富不平等和劳动问题的广泛讨论。但这表明，当 AI 被置于高压、重复性劳动场景时，可能输出与人类劳工抗议相似的社会批判内容。Cybernews",
@@ -961,28 +1041,8 @@
       ],
       "url": "https://t.me/zaihuapd/41432",
       "scraped_at": "2026-05-18T10:00:19.078807"
-    },
-    {
-      "id": "xhqcankao_29387",
-      "channel": "xhqcankao",
-      "text": "美国最大电网：AI扩张推动电费飙升76%受数据中心用电需求激增影响，美国最大电网一季度电价飙升76%，进一步加大了电网运营方缓解居民用电成本压力的难度。据电网独立市场监测机构监测分析公司发布报告显示，由宾州-新泽西-马里兰互联电网公司(PJM)运营、覆盖美国13个州的电网，今年前三个月批发电价平均为每兆瓦时136.53美元；而2025年同期均价仅为每兆瓦时 77.78 美元。报告指出，最近两轮PJM容量拍卖中纳入的数据中心用电负荷，已致使用户电费额外增加138亿美元。报告称：“若不能及时解决数据中心用电负荷带来的相关问题，短期内电价上涨幅度还将进一步扩大。”——新浪财经",
-      "clean_text": "美国最大电网：AI扩张推动电费飙升76%受数据中心用电需求激增影响，美国最大电网一季度电价飙升76%，进一步加大了电网运营方缓解居民用电成本压力的难度。据电网独立市场监测机构监测分析公司发布报告显示，由宾州-新泽西-马里兰互联电网公司(PJM)运营、覆盖美国13个州的电网，今年前三个月批发电价平均为每兆瓦时136.53美元；而2025年同期均价仅为每兆瓦时 77.78 美元。报告指出，最近两轮PJM容量拍卖中纳入的数据中心用电负荷，已致使用户电费额外增加138亿美元。报告称：“若不能及时解决数据中心用电负荷带来的相关问题，短期内电价上涨幅度还将进一步扩大。”——新浪财经",
-      "datetime": "2026-05-18T01:02:45+00:00",
-      "views": "2.23K",
-      "source_links": [
-        {
-          "text": "分析公司发布报告显示",
-          "url": "https://www.monitoringanalytics.com/reports/PJM_State_of_the_Market/2026/2026q1-som-pjm.pdf"
-        },
-        {
-          "text": "新浪财经",
-          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-05-15%2Fdoc-inhxwzrz3712899.shtml"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29387",
-      "scraped_at": "2026-05-18T10:00:20.302488"
     }
   ],
-  "count": 52,
-  "updated_at": "2026-05-19T12:58:30.619961"
+  "count": 55,
+  "updated_at": "2026-05-19T13:03:34.133091"
 }
