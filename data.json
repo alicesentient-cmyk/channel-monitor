@@ -1001,24 +1001,8 @@
       ],
       "url": "https://t.me/xhqcankao/29389",
       "scraped_at": "2026-05-18T11:00:49.558264"
-    },
-    {
-      "id": "xhqcankao_29388",
-      "channel": "xhqcankao",
-      "text": "科学家首创用DNA引导CRISPR基因编辑佛罗里达大学工程学院团队开发出全球首个DNA引导的CRISPR编辑系统，颠覆了基因编辑领域长期以来依赖RNA引导的铁律。这项研究最新刊发于《自然·生物技术 》，为疾病诊断与治疗提供了更安全、精准且经济的解决方案。这项技术被认为重写了基因编辑的 “说明书” ，同时也可为下一代生物医学工具开发奠定基础。团队此次创新性地采用DNA作为引导序列，利用DNA分子天然的高稳定性与易合成特性，显著提升系统特异性。实验数据显示，新技术将脱靶效应降低数个数量级，同时DNA向导的制备成本较RNA降低约60%，且在常温下保存稳定性延长3倍。——科技日报",
-      "clean_text": "科学家首创用DNA引导CRISPR基因编辑佛罗里达大学工程学院团队开发出全球首个DNA引导的CRISPR编辑系统，颠覆了基因编辑领域长期以来依赖RNA引导的铁律。这项研究最新刊发于《自然·生物技术 》，为疾病诊断与治疗提供了更安全、精准且经济的解决方案。这项技术被认为重写了基因编辑的 “说明书” ，同时也可为下一代生物医学工具开发奠定基础。团队此次创新性地采用DNA作为引导序列，利用DNA分子天然的高稳定性与易合成特性，显著提升系统特异性。实验数据显示，新技术将脱靶效应降低数个数量级，同时DNA向导的制备成本较RNA降低约60%，且在常温下保存稳定性延长3倍。——科技日报",
-      "datetime": "2026-05-18T01:31:21+00:00",
-      "views": "1.21K",
-      "source_links": [
-        {
-          "text": "科技日报",
-          "url": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&amp;currentNewsId=09d3ed34c95245deacd4c90cc70af8b0&amp;currentVersionName=%E7%AC%AC04%E7%89%88%EF%BC%9A%E5%9B%BD+%E9%99%85&amp;currentVersion=4&amp;timeValue=2026-05-18"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29388",
-      "scraped_at": "2026-05-18T10:00:20.302819"
     }
   ],
-  "count": 54,
-  "updated_at": "2026-05-19T13:28:53.261112"
+  "count": 53,
+  "updated_at": "2026-05-19T13:33:56.759135"
 }
