@@ -1139,52 +1139,8 @@
       ],
       "url": "https://t.me/xhqcankao/29405",
       "scraped_at": "2026-05-18T20:00:45.412559"
-    },
-    {
-      "id": "zaihuapd_41439",
-      "channel": "zaihuapd",
-      "text": "日本熊害致死人数翻倍，驱熊机器狼 Monster Wolf 供不应求日本去年共发生 13 起熊攻击致死事件，全国熊目击报告高达 5 万起，均较前一年翻倍。北海道厂商 Ohta Seiki 制造的 animatronic \"Monster Wolf\" 机器人因以强光、巨响和摆动头部驱赶野兽而需求激增，今年订单已达 50 台，超出平常全年产量，客户需等待 2 至 3 个月交货。该机器人售价超过 4,000 美元，通过红外传感器侦测目标，可发出 50 种噪音，依靠 12V 汽车电池和可选太阳能板运作。公司还计划推出面向徒步者、钓鱼者和学童的手持版本，并探索用 AI 摄像头改进驱熊技术。Tom's Hardware",
-      "clean_text": "日本熊害致死人数翻倍，驱熊机器狼 Monster Wolf 供不应求日本去年共发生 13 起熊攻击致死事件，全国熊目击报告高达 5 万起，均较前一年翻倍。北海道厂商 Ohta Seiki 制造的 animatronic \"Monster Wolf\" 机器人因以强光、巨响和摆动头部驱赶野兽而需求激增，今年订单已达 50 台，超出平常全年产量，客户需等待 2 至 3 个月交货。该机器人售价超过 4,000 美元，通过红外传感器侦测目标，可发出 50 种噪音，依靠 12V 汽车电池和可选太阳能板运作。公司还计划推出面向徒步者、钓鱼者和学童的手持版本，并探索用 AI 摄像头改进驱熊技术。Tom's Hardware",
-      "datetime": "2026-05-18T11:17:37+00:00",
-      "views": "3.89K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/maker-stem/robot-kits/japan-cant-make-robot-wolves-fast-enough-to-counter-the-rise-in-bear-attacks-that-have-killed-13-humans-this-year-usd4-000-animatronic-monster-wolf-features-intense-leds-and-makes-loud-noises"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41439",
-      "scraped_at": "2026-05-18T20:00:44.175933"
-    },
-    {
-      "id": "xhqcankao_29404",
-      "channel": "xhqcankao",
-      "text": "谷歌 Gemini AI 上线思考强度调节功能在2026年谷歌 I/O 开发者大会来临前夕，谷歌持续为Gemini人工智能应用推送更新，不仅上线思维等级调节功能，还将接入多款主流第三方软件，全面强化AI实用性与生活化能力。据悉，本次更新将新增独特的思维等级选项，包含标准、增强两种推理模式。该功能仅适配两款主流AI模型，采用限量灰度上线。谷歌参考AI工作室的分级逻辑优化推理机制，让用户可自主调节AI思考深度，适配简单办公、复杂分析等不同使用场景。应用生态方面，不断拓宽第三方服务边界。目前平台已连通GitHub、Spotify、WhatsApp等常用软件。后续还将正式接入OpenTable、Canva、Instacart三大生活工具。——环球网、9to5Google",
-      "clean_text": "谷歌 Gemini AI 上线思考强度调节功能在2026年谷歌 I/O 开发者大会来临前夕，谷歌持续为Gemini人工智能应用推送更新，不仅上线思维等级调节功能，还将接入多款主流第三方软件，全面强化AI实用性与生活化能力。据悉，本次更新将新增独特的思维等级选项，包含标准、增强两种推理模式。该功能仅适配两款主流AI模型，采用限量灰度上线。谷歌参考AI工作室的分级逻辑优化推理机制，让用户可自主调节AI思考深度，适配简单办公、复杂分析等不同使用场景。应用生态方面，不断拓宽第三方服务边界。目前平台已连通GitHub、Spotify、WhatsApp等常用软件。后续还将正式接入OpenTable、Canva、Instacart三大生活工具。——环球网、9to5Google",
-      "datetime": "2026-05-18T11:17:13+00:00",
-      "views": "1.82K",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://m.huanqiu.com/article/4RbxU9TUH8C"
-        },
-        {
-          "text": "9to5Google",
-          "url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29404",
-      "scraped_at": "2026-05-18T20:00:45.412179"
     }
   ],
-  "count": 63,
-  "updated_at": "2026-05-19T23:12:42.850425"
+  "count": 61,
+  "updated_at": "2026-05-19T23:17:46.143957"
 }
