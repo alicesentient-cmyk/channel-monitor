@@ -1,6 +1,77 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41448",
+      "channel": "zaihuapd",
+      "text": "Cursor 发布 Composer 2.5：基于 Kimi K2.5 提升长任务表现与协作能力Cursor 推出 Composer 2.5，该版本基于 Moonshot 的 Kimi K2.5 构建，显著增强了长任务处理能力和复杂指令遵循度。团队通过引入定向文本反馈 RL 技术解决了长路径信用分配问题，并利用 25 倍于前代的合成数据量提升智能水平。其基础版每百万输入 Token 需 2.50 美元，默认的 Fast 变体为 15.00 美元，发布首周提供双倍用量。此外，Cursor 正与 SpaceXAI 合作，计划利用 Colossus 2 提供的 100 万个 H100 等效算力（10 倍于当前的总计算资源），从零开始训练一个规模显著更大的新模型。Cursor",
+      "clean_text": "Cursor 发布 Composer 2.5：基于 Kimi K2.5 提升长任务表现与协作能力Cursor 推出 Composer 2.5，该版本基于 Moonshot 的 Kimi K2.5 构建，显著增强了长任务处理能力和复杂指令遵循度。团队通过引入定向文本反馈 RL 技术解决了长路径信用分配问题，并利用 25 倍于前代的合成数据量提升智能水平。其基础版每百万输入 Token 需 2.50 美元，默认的 Fast 变体为 15.00 美元，发布首周提供双倍用量。此外，Cursor 正与 SpaceXAI 合作，计划利用 Colossus 2 提供的 100 万个 H100 等效算力（10 倍于当前的总计算资源），从零开始训练一个规模显著更大的新模型。Cursor",
+      "datetime": "2026-05-19T03:00:00+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Cursor",
+          "url": "https://cursor.com/blog/composer-2-5"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41448",
+      "scraped_at": "2026-05-19T11:00:14.179528"
+    },
+    {
+      "id": "xhqcankao_29417",
+      "channel": "xhqcankao",
+      "text": "Anthropic收购开发工具初创公司Stainless美国人工智能企业Anthropic当地时间5月18日宣布收购软件开发工具包（SDK）及MCP服务器工具领域企业Stainless，未对外披露交易细节。信息显示，Stainless成立于2022年，由前Stripe工程师Alex Rattray创立，该公司将API规范转化为TypeScript、Python、Go、Java、Kotlin等多种语言的SDK。据介绍，Anthropic称此次收购旨在扩展Claude连接数据与工具的能力，推动AI从\"回答问题\"向\"执行任务\"的代理能力演进。交易估值可能超过3亿美元，由红杉资本和安德森·霍洛维茨基金支持的Stainless将成为 Anthropic 关键基础设施，脱离竞争对手的掌控。——新浪财经",
+      "clean_text": "Anthropic收购开发工具初创公司Stainless美国人工智能企业Anthropic当地时间5月18日宣布收购软件开发工具包（SDK）及MCP服务器工具领域企业Stainless，未对外披露交易细节。信息显示，Stainless成立于2022年，由前Stripe工程师Alex Rattray创立，该公司将API规范转化为TypeScript、Python、Go、Java、Kotlin等多种语言的SDK。据介绍，Anthropic称此次收购旨在扩展Claude连接数据与工具的能力，推动AI从\"回答问题\"向\"执行任务\"的代理能力演进。交易估值可能超过3亿美元，由红杉资本和安德森·霍洛维茨基金支持的Stainless将成为 Anthropic 关键基础设施，脱离竞争对手的掌控。——新浪财经",
+      "datetime": "2026-05-19T02:31:06+00:00",
+      "views": "1.39K",
+      "source_links": [
+        {
+          "text": "新浪财经",
+          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Festate%2Fintegration%2F2026-05-19%2Fdoc-inhyksxt2354925.shtml"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29417",
+      "scraped_at": "2026-05-19T11:00:15.397384"
+    },
+    {
+      "id": "zaihuapd_41447",
+      "channel": "zaihuapd",
+      "text": "特朗普确认获得英特尔公司股份 股票大涨7%  美国总统特朗普于周五确认已与英特尔首席执行官达成协议，英特尔将向美国政府提供价值 100 亿美元的公司股份。协议宣布后，英特尔股价上涨 7%，但公司拒绝置评。  特朗普还表示将达成更多此类交易。  CNN茶馆投稿",
+      "clean_text": "特朗普确认获得英特尔公司股份 股票大涨7%  美国总统特朗普于周五确认已与英特尔首席执行官达成协议，英特尔将向美国政府提供价值 100 亿美元的公司股份。协议宣布后，英特尔股价上涨 7%，但公司拒绝置评。  特朗普还表示将达成更多此类交易。  CNN🍀在花频道🍵茶馆📮投稿",
+      "datetime": "2026-05-19T02:30:00+00:00",
+      "views": "3.56K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41447",
+      "scraped_at": "2026-05-19T11:00:14.178988"
+    },
+    {
+      "id": "xhqcankao_29416",
+      "channel": "xhqcankao",
+      "text": "英特尔CEO表示18A工艺已吸引多家客户英特尔CEO陈立武周一表示，该公司的外部芯片代工制造业务正在取得进展，正成为该公司复苏计划的关键一环。“代工业务非常重要，”陈立武表示，“ 这是国家级关键战略资产之一。”陈立武表示，在这一目标上，公司开始取得实质性进展。他特别提到，英特尔先进的18A制造工艺已有所改进。在他接手时，18A工艺 “并不好” 。陈立武表示，这些改进正开始引起客户的兴趣。他指出，随着英特尔制造工艺水平的提升，越来越多的潜在客户已主动接触该公司，探讨使用其代工业务。英特尔预计将在今年下半年获得多家代工客户的承诺。“多个客户正在与我们合作，”他说，“我们期待为他们提供服务。”——凤凰网科技、CNBC",
+      "clean_text": "英特尔CEO表示18A工艺已吸引多家客户英特尔CEO陈立武周一表示，该公司的外部芯片代工制造业务正在取得进展，正成为该公司复苏计划的关键一环。“代工业务非常重要，”陈立武表示，“ 这是国家级关键战略资产之一。”陈立武表示，在这一目标上，公司开始取得实质性进展。他特别提到，英特尔先进的18A制造工艺已有所改进。在他接手时，18A工艺 “并不好” 。陈立武表示，这些改进正开始引起客户的兴趣。他指出，随着英特尔制造工艺水平的提升，越来越多的潜在客户已主动接触该公司，探讨使用其代工业务。英特尔预计将在今年下半年获得多家代工客户的承诺。“多个客户正在与我们合作，”他说，“我们期待为他们提供服务。”——凤凰网科技、CNBC",
+      "datetime": "2026-05-19T02:03:55+00:00",
+      "views": "2.05K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006d8yGmeGsmN6sIAc6JXYrajqNY6e--TO93LIpUiBpwaPa5lvlf0djpkhD-_AWr1wj-_u"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29416",
+      "scraped_at": "2026-05-19T11:00:15.397051"
+    },
+    {
       "id": "zaihuapd_41446",
       "channel": "zaihuapd",
       "text": "联邦陪审团驳回马斯克对 OpenAI 的诉讼美国联邦陪审团于周一裁定，埃隆·马斯克对 OpenAI 及其首席执行官萨姆·奥特曼等人的诉讼无效。陪审团在不到两小时内达成一致结论，认为马斯克提起诉讼的时间过晚，已超出追诉时效。该裁决意味着奥特曼、联合创始人格雷格·布罗克曼及 OpenAI 无须承担相关法律责任。陪审团同时驳回了针对微软协助奥特曼和布罗克曼违背职责的指控。马斯克于 2024 年提起诉讼，指控奥特曼通过组织非法牟利，但法院认定其在了解相关盈利转化计划多年后才采取行动，未能遵守法律规定的两年或三年追诉期。NBC News",
@@ -896,6 +967,6 @@
       "scraped_at": "2026-05-18T08:00:10.333879"
     }
   ],
-  "count": 48,
-  "updated_at": "2026-05-19T10:57:08.157169"
+  "count": 52,
+  "updated_at": "2026-05-19T11:02:11.388949"
 }
