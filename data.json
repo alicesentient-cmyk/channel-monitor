@@ -1,6 +1,110 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41446",
+      "channel": "zaihuapd",
+      "text": "联邦陪审团驳回马斯克对 OpenAI 的诉讼美国联邦陪审团于周一裁定，埃隆·马斯克对 OpenAI 及其首席执行官萨姆·奥特曼等人的诉讼无效。陪审团在不到两小时内达成一致结论，认为马斯克提起诉讼的时间过晚，已超出追诉时效。该裁决意味着奥特曼、联合创始人格雷格·布罗克曼及 OpenAI 无须承担相关法律责任。陪审团同时驳回了针对微软协助奥特曼和布罗克曼违背职责的指控。马斯克于 2024 年提起诉讼，指控奥特曼通过组织非法牟利，但法院认定其在了解相关盈利转化计划多年后才采取行动，未能遵守法律规定的两年或三年追诉期。NBC News",
+      "clean_text": "联邦陪审团驳回马斯克对 OpenAI 的诉讼美国联邦陪审团于周一裁定，埃隆·马斯克对 OpenAI 及其首席执行官萨姆·奥特曼等人的诉讼无效。陪审团在不到两小时内达成一致结论，认为马斯克提起诉讼的时间过晚，已超出追诉时效。该裁决意味着奥特曼、联合创始人格雷格·布罗克曼及 OpenAI 无须承担相关法律责任。陪审团同时驳回了针对微软协助奥特曼和布罗克曼违背职责的指控。马斯克于 2024 年提起诉讼，指控奥特曼通过组织非法牟利，但法院认定其在了解相关盈利转化计划多年后才采取行动，未能遵守法律规定的两年或三年追诉期。NBC News",
+      "datetime": "2026-05-19T02:00:00+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/openai-elon-musk-case-verdict-rcna345655"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41446",
+      "scraped_at": "2026-05-19T10:00:45.346298"
+    },
+    {
+      "id": "xhqcankao_29415",
+      "channel": "xhqcankao",
+      "text": "澳大利亚责令中国系投资者出售对本国稀土企业持股澳大利亚政府 5月18日发布消息称，已责令中国系投资者出售其在澳大利亚稀土企业的持股。这是自2024年以来第二次发布类似命令，旨在将中国影响力排除在关键矿产供应链之外。澳大利亚财政部长吉姆·查默斯在18日的记者会上表示：“从保护国家利益的角度出发，必要时将采取进一步措施”。查默斯要求持有澳大利亚北方矿业公司股份的六家中国系投资者，在18日起两周内出售股份，这些投资者合计持股约18%。北方矿业公司在18日的声明称：“正在仔细研究该命令，完成后将公布应对措施”。——日经新闻",
+      "clean_text": "澳大利亚责令中国系投资者出售对本国稀土企业持股澳大利亚政府 5月18日发布消息称，已责令中国系投资者出售其在澳大利亚稀土企业的持股。这是自2024年以来第二次发布类似命令，旨在将中国影响力排除在关键矿产供应链之外。澳大利亚财政部长吉姆·查默斯在18日的记者会上表示：“从保护国家利益的角度出发，必要时将采取进一步措施”。查默斯要求持有澳大利亚北方矿业公司股份的六家中国系投资者，在18日起两周内出售股份，这些投资者合计持股约18%。北方矿业公司在18日的声明称：“正在仔细研究该命令，完成后将公布应对措施”。——日经新闻",
+      "datetime": "2026-05-19T01:31:54+00:00",
+      "views": "1.31K",
+      "source_links": [
+        {
+          "text": "日经新闻",
+          "url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62551-2026-05-19-09-03-17.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29415",
+      "scraped_at": "2026-05-19T10:00:46.835941"
+    },
+    {
+      "id": "zaihuapd_41445",
+      "channel": "zaihuapd",
+      "text": "Google 调整 Gemini Apps 使用限额，改为基于 AI 计算量的限额方式Google 自 2026 年 5 月 17 日起调整 Gemini Apps 使用限额，改为基于计算量的模式，每 5 小时刷新一次，直至达到每周上限。系统会综合提示复杂度、功能使用和对话长度来计算消耗；未订阅用户适用标准限额，AI Plus、AI Pro 和 AI Ultra 订阅者分别享有标准限额的 2 倍、4 倍和高于 AI Pro 20 倍的额度。18 岁以下用户不受此次调整影响。Google",
+      "clean_text": "🤖Google 调整 Gemini Apps 使用限额，改为基于 AI 计算量的限额方式Google 自 2026 年 5 月 17 日起调整 Gemini Apps 使用限额，改为基于计算量的模式，每 5 小时刷新一次，直至达到每周上限。系统会综合提示复杂度、功能使用和对话长度来计算消耗；未订阅用户适用标准限额，AI Plus、AI Pro 和 AI Ultra 订阅者分别享有标准限额的 2 倍、4 倍和高于 AI Pro 20 倍的额度。18 岁以下用户不受此次调整影响。Google",
+      "datetime": "2026-05-19T01:30:00+00:00",
+      "views": "3.64K",
+      "source_links": [
+        {
+          "text": "Google",
+          "url": "https://support.google.com/gemini/answer/17004136?hl=zh-Hans"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41445",
+      "scraped_at": "2026-05-19T10:00:45.345797"
+    },
+    {
+      "id": "zaihuapd_41444",
+      "channel": "zaihuapd",
+      "text": "苹果宣布 WWDC26 将于当地时间 6 月 8 日上午 10 时开幕1. 主题演讲：PDT 6 月 8 日 10:00，预览 Apple 平台最新更新。（北京时间 6 月 9 日凌晨 01:00）2. Platforms State of the Union：同日下午 1:00，深入介绍新功能、API 与技术。3. 视频课程与指南：100 余场技术、工具和设计课程，在线提供。4. Group Labs：周二至周五线上问答，每场最长 60 分钟。5. Apple 设计大奖：36 名入围者已公布，获奖者将在未来几周内揭晓。6. Swift 学生挑战赛：350 名获奖者，其中 50 名杰出获奖者受邀到 Cupertino 参加三日特别活动。Apple Newsroom",
+      "clean_text": "📱苹果宣布 WWDC26 将于当地时间 6 月 8 日上午 10 时开幕1. 主题演讲：PDT 6 月 8 日 10:00，预览 Apple 平台最新更新。（北京时间 6 月 9 日凌晨 01:00）2. Platforms State of the Union：同日下午 1:00，深入介绍新功能、API 与技术。3. 视频课程与指南：100 余场技术、工具和设计课程，在线提供。4. Group Labs：周二至周五线上问答，每场最长 60 分钟。5. Apple 设计大奖：36 名入围者已公布，获奖者将在未来几周内揭晓。6. Swift 学生挑战赛：350 名获奖者，其中 50 名杰出获奖者受邀到 Cupertino 参加三日特别活动。Apple Newsroom",
+      "datetime": "2026-05-19T01:07:30+00:00",
+      "views": "4.96K",
+      "source_links": [
+        {
+          "text": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/05/apple-kicks-off-worldwide-developers-conference-on-june-8/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41444",
+      "scraped_at": "2026-05-19T10:00:45.345207"
+    },
+    {
+      "id": "xhqcankao_29414",
+      "channel": "xhqcankao",
+      "text": "Anthropic现已允许Mythos用户与他人共享网络威胁信息Anthropic公司最近开始允许其强大的大语言模型Mythos的用户，与可能面临类似漏洞的其他方分享网络安全威胁信息。在一个名为Project Glasswing的项目中，Anthropic公司已允许大约50家管理关键数字基础设施的大型公司和组织使用Mythos，该模型在发现软件漏洞方面远比人类高效。此举的目标是让这些公司和政府在扩大使用权限并可能发布功能更强大的模型之前，应对网络威胁。该公司的一名发言人表示，这些Mythos用户最初签署了保密协议，以确保他们的网络风险信息不被外传。她表示，Anthropic公司上周开始告知这些公司，只要以负责任的方式进行，他们就可以与其他实体分享有关网络威胁和Mythos发现的信息。——华尔街日报",
+      "clean_text": "Anthropic现已允许Mythos用户与他人共享网络威胁信息Anthropic公司最近开始允许其强大的大语言模型Mythos的用户，与可能面临类似漏洞的其他方分享网络安全威胁信息。在一个名为Project Glasswing的项目中，Anthropic公司已允许大约50家管理关键数字基础设施的大型公司和组织使用Mythos，该模型在发现软件漏洞方面远比人类高效。此举的目标是让这些公司和政府在扩大使用权限并可能发布功能更强大的模型之前，应对网络威胁。该公司的一名发言人表示，这些Mythos用户最初签署了保密协议，以确保他们的网络风险信息不被外传。她表示，Anthropic公司上周开始告知这些公司，只要以负责任的方式进行，他们就可以与其他实体分享有关网络威胁和Mythos发现的信息。——华尔街日报",
+      "datetime": "2026-05-19T01:03:51+00:00",
+      "views": "2.13K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/anthropic-lets-mythos-users-share-cyber-threats-with-others-3f3eb4a5?mod=cn_hp_featst_pos2"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29414",
+      "scraped_at": "2026-05-19T10:00:46.835533"
+    },
+    {
       "id": "xhqcankao_29413",
       "channel": "xhqcankao",
       "text": "OSHA调查SpaceX星际基地工人死亡事故上周五，一名工人在SpaceX位于南德克萨斯州的星际基地发射场死亡，职业安全与健康管理局(OSHA）已展开调查。圣安东尼奥快讯周一报道称，这位身份不明的受害者于当地时间 5月15日凌晨4点17分 左右死亡，报道引用 OSHA和地方官员的说法。华尔街日报后来报道称，县警长向该媒体证实一名工人死亡。OSHA向TechCrunch证实，该机构正在调查这起明显的事故。该工人死亡的具体情况尚不明确。OSHA 告诉TechCrunch，在调查完成之前不会公布更多信息，这可能需要数月时间。——Techcrunch",
@@ -832,6 +936,6 @@
       "scraped_at": "2026-05-18T07:00:47.795280"
     }
   ],
-  "count": 45,
-  "updated_at": "2026-05-19T09:56:25.069848"
+  "count": 50,
+  "updated_at": "2026-05-19T10:01:28.463967"
 }
