@@ -1163,32 +1163,8 @@
       ],
       "url": "https://t.me/zaihuapd/41442",
       "scraped_at": "2026-05-18T23:00:58.130122"
-    },
-    {
-      "id": "zaihuapd_41441",
-      "channel": "zaihuapd",
-      "text": "SpaceX 押注 Starship V3 首飞为 IPO 铺路SpaceX 正把 Starship V3 首飞当作 IPO 前的一次关键验证。这次发射的核心任务，是证明这款被公司寄予厚望的重型火箭能按预期工作，为后续上市叙事补上最重要的一环。SpaceX 已在 4 月秘密递交 IPO 申请，时间表指向 6 月上市。Starship 则是公司未来运力、卫星部署和更高发射频次计划的核心，V3 这次能否交付预期，直接关系到资本市场如何看待 SpaceX 的增长故事。Bloomberg",
-      "clean_text": "SpaceX 押注 Starship V3 首飞为 IPO 铺路SpaceX 正把 Starship V3 首飞当作 IPO 前的一次关键验证。这次发射的核心任务，是证明这款被公司寄予厚望的重型火箭能按预期工作，为后续上市叙事补上最重要的一环。SpaceX 已在 4 月秘密递交 IPO 申请，时间表指向 6 月上市。Starship 则是公司未来运力、卫星部署和更高发射频次计划的核心，V3 这次能否交付预期，直接关系到资本市场如何看待 SpaceX 的增长故事。Bloomberg",
-      "datetime": "2026-05-18T13:45:06+00:00",
-      "views": "2.05K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-18/spacex-needs-starship-v3-launch-to-deliver-ahead-of-planned-ipo"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41441",
-      "scraped_at": "2026-05-18T22:00:31.744912"
     }
   ],
-  "count": 62,
-  "updated_at": "2026-05-20T01:44:52.024684"
+  "count": 61,
+  "updated_at": "2026-05-20T01:49:55.735281"
 }
