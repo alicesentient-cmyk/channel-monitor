@@ -1017,32 +1017,8 @@
       ],
       "url": "https://t.me/xhqcankao/29390",
       "scraped_at": "2026-05-18T11:00:49.558622"
-    },
-    {
-      "id": "zaihuapd_41433",
-      "channel": "zaihuapd",
-      "text": "欧盟 DMA 推动 Firefox 在欧洲新增逾 600 万用户欧盟 DMA 要求手机和平板开放默认浏览器选择后，Firefox 在欧洲新增逾 600 万用户，平均每 10 秒就有 1 人通过该界面将其设为默认浏览器。第三方分析称，iOS 上线选择界面 15 个月后，Firefox 在欧盟的日活较政策前预测高 113%，Android 增 12%；Mozilla 还呼吁把相关规则扩展到个人电脑。中关村在线",
-      "clean_text": "欧盟 DMA 推动 Firefox 在欧洲新增逾 600 万用户欧盟 DMA 要求手机和平板开放默认浏览器选择后，Firefox 在欧洲新增逾 600 万用户，平均每 10 秒就有 1 人通过该界面将其设为默认浏览器。第三方分析称，iOS 上线选择界面 15 个月后，Firefox 在欧盟的日活较政策前预测高 113%，Android 增 12%；Mozilla 还呼吁把相关规则扩展到个人电脑。中关村在线",
-      "datetime": "2026-05-18T02:32:54+00:00",
-      "views": "2.88K",
-      "source_links": [
-        {
-          "text": "中关村在线",
-          "url": "http://news.zol.com.cn/1182/11821187.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41433",
-      "scraped_at": "2026-05-18T11:00:48.341296"
     }
   ],
-  "count": 55,
-  "updated_at": "2026-05-19T14:29:40.215544"
+  "count": 54,
+  "updated_at": "2026-05-19T14:34:44.119879"
 }
