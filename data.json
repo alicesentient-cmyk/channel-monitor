@@ -1302,22 +1302,6 @@
       "scraped_at": "2026-05-19T13:00:11.238194"
     },
     {
-      "id": "xhqcankao_29421",
-      "channel": "xhqcankao",
-      "text": "英伟达重磅CPU Vera交付 专为智能体设计18日，英伟达正式宣布，其首款专为Agentic AI（智能体AI）设计的CPU——Vera，已完成对Anthropic、OpenAI、SpaceX AI及甲骨文云的首批交付。上周五，英伟达副总裁伊恩•巴克亲自“开车送货”，第一站是Anthropic位于旧金山SoMa区的办公室，其计算负责人詹姆斯•布拉德伯里接收了服务器；在OpenAI的总部，巴克甚至掏出螺丝刀，当场打开机箱盖展示内部结构；当天行程的终点是帕洛阿尔托的SpaceX AI办公室，埃隆•马斯克亲自签收，并在现场详细询问了核心数量、内存布局及散热方案，SpaceX AI正计划将Vera用于强化学习工作负载与智能体仿真管线。——财联社",
-      "clean_text": "英伟达重磅CPU Vera交付 专为智能体设计18日，英伟达正式宣布，其首款专为Agentic AI（智能体AI）设计的CPU——Vera，已完成对Anthropic、OpenAI、SpaceX AI及甲骨文云的首批交付。上周五，英伟达副总裁伊恩•巴克亲自“开车送货”，第一站是Anthropic位于旧金山SoMa区的办公室，其计算负责人詹姆斯•布拉德伯里接收了服务器；在OpenAI的总部，巴克甚至掏出螺丝刀，当场打开机箱盖展示内部结构；当天行程的终点是帕洛阿尔托的SpaceX AI办公室，埃隆•马斯克亲自签收，并在现场详细询问了核心数量、内存布局及散热方案，SpaceX AI正计划将Vera用于强化学习工作负载与智能体仿真管线。——财联社",
-      "datetime": "2026-05-19T04:30:56+00:00",
-      "views": "1.32K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2374998?sv=8.7.4"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29421",
-      "scraped_at": "2026-05-19T13:00:12.850713"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1342,6 +1326,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 69,
-  "updated_at": "2026-05-20T16:30:21.875405"
+  "count": 68,
+  "updated_at": "2026-05-20T16:35:26.069640"
 }
