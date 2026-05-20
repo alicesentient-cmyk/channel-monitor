@@ -1069,30 +1069,6 @@
       "scraped_at": "2026-05-20T02:01:06.249416"
     },
     {
-      "id": "zaihuapd_41468",
-      "channel": "zaihuapd",
-      "text": "伊朗要求美科技巨头为霍尔木兹海峡海底电缆付费伊朗近日宣称，将对经过霍尔木兹海峡的海底互联网电缆收费。军方发言人表示“将对互联网电缆收费”，官媒则进一步提出可向 Meta、Google、Amazon、Microsoft 等美国科技巨头收取使用许可费，并声称伊朗独占电缆维修权。部分经过该海峡的电缆确需穿越伊朗水域，而地区冲突已导致多个电缆项目停工、维修暂停。伊朗官媒还发出含蓄警告，暗示可能损坏电缆，这可能促使科技公司与海湾国家加速寻找绕开该海域的替代路线。Ars Technica",
-      "clean_text": "伊朗要求美科技巨头为霍尔木兹海峡海底电缆付费伊朗近日宣称，将对经过霍尔木兹海峡的海底互联网电缆收费。军方发言人表示“将对互联网电缆收费”，官媒则进一步提出可向 Meta、Google、Amazon、Microsoft 等美国科技巨头收取使用许可费，并声称伊朗独占电缆维修权。部分经过该海峡的电缆确需穿越伊朗水域，而地区冲突已导致多个电缆项目停工、维修暂停。伊朗官媒还发出含蓄警告，暗示可能损坏电缆，这可能促使科技公司与海湾国家加速寻找绕开该海域的替代路线。Ars Technica",
-      "datetime": "2026-05-19T16:40:24+00:00",
-      "views": "1.71K",
-      "source_links": [
-        {
-          "text": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41468",
-      "scraped_at": "2026-05-20T01:00:38.036793"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1117,6 +1093,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 56,
-  "updated_at": "2026-05-21T04:39:52.178099"
+  "count": 55,
+  "updated_at": "2026-05-21T04:44:55.202930"
 }
