@@ -1369,46 +1369,6 @@
       "scraped_at": "2026-05-19T10:00:45.345797"
     },
     {
-      "id": "zaihuapd_41444",
-      "channel": "zaihuapd",
-      "text": "苹果宣布 WWDC26 将于当地时间 6 月 8 日上午 10 时开幕1. 主题演讲：PDT 6 月 8 日 10:00，预览 Apple 平台最新更新。（北京时间 6 月 9 日凌晨 01:00）2. Platforms State of the Union：同日下午 1:00，深入介绍新功能、API 与技术。3. 视频课程与指南：100 余场技术、工具和设计课程，在线提供。4. Group Labs：周二至周五线上问答，每场最长 60 分钟。5. Apple 设计大奖：36 名入围者已公布，获奖者将在未来几周内揭晓。6. Swift 学生挑战赛：350 名获奖者，其中 50 名杰出获奖者受邀到 Cupertino 参加三日特别活动。Apple Newsroom",
-      "clean_text": "📱苹果宣布 WWDC26 将于当地时间 6 月 8 日上午 10 时开幕1. 主题演讲：PDT 6 月 8 日 10:00，预览 Apple 平台最新更新。（北京时间 6 月 9 日凌晨 01:00）2. Platforms State of the Union：同日下午 1:00，深入介绍新功能、API 与技术。3. 视频课程与指南：100 余场技术、工具和设计课程，在线提供。4. Group Labs：周二至周五线上问答，每场最长 60 分钟。5. Apple 设计大奖：36 名入围者已公布，获奖者将在未来几周内揭晓。6. Swift 学生挑战赛：350 名获奖者，其中 50 名杰出获奖者受邀到 Cupertino 参加三日特别活动。Apple Newsroom",
-      "datetime": "2026-05-19T01:07:30+00:00",
-      "views": "4.96K",
-      "source_links": [
-        {
-          "text": "Apple Newsroom",
-          "url": "https://www.apple.com/newsroom/2026/05/apple-kicks-off-worldwide-developers-conference-on-june-8/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41444",
-      "scraped_at": "2026-05-19T10:00:45.345207"
-    },
-    {
-      "id": "xhqcankao_29414",
-      "channel": "xhqcankao",
-      "text": "Anthropic现已允许Mythos用户与他人共享网络威胁信息Anthropic公司最近开始允许其强大的大语言模型Mythos的用户，与可能面临类似漏洞的其他方分享网络安全威胁信息。在一个名为Project Glasswing的项目中，Anthropic公司已允许大约50家管理关键数字基础设施的大型公司和组织使用Mythos，该模型在发现软件漏洞方面远比人类高效。此举的目标是让这些公司和政府在扩大使用权限并可能发布功能更强大的模型之前，应对网络威胁。该公司的一名发言人表示，这些Mythos用户最初签署了保密协议，以确保他们的网络风险信息不被外传。她表示，Anthropic公司上周开始告知这些公司，只要以负责任的方式进行，他们就可以与其他实体分享有关网络威胁和Mythos发现的信息。——华尔街日报",
-      "clean_text": "Anthropic现已允许Mythos用户与他人共享网络威胁信息Anthropic公司最近开始允许其强大的大语言模型Mythos的用户，与可能面临类似漏洞的其他方分享网络安全威胁信息。在一个名为Project Glasswing的项目中，Anthropic公司已允许大约50家管理关键数字基础设施的大型公司和组织使用Mythos，该模型在发现软件漏洞方面远比人类高效。此举的目标是让这些公司和政府在扩大使用权限并可能发布功能更强大的模型之前，应对网络威胁。该公司的一名发言人表示，这些Mythos用户最初签署了保密协议，以确保他们的网络风险信息不被外传。她表示，Anthropic公司上周开始告知这些公司，只要以负责任的方式进行，他们就可以与其他实体分享有关网络威胁和Mythos发现的信息。——华尔街日报",
-      "datetime": "2026-05-19T01:03:51+00:00",
-      "views": "2.13K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/anthropic-lets-mythos-users-share-cyber-threats-with-others-3f3eb4a5?mod=cn_hp_featst_pos2"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29414",
-      "scraped_at": "2026-05-19T10:00:46.835533"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1433,6 +1393,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 74,
-  "updated_at": "2026-05-20T13:02:40.753537"
+  "count": 72,
+  "updated_at": "2026-05-20T13:07:44.695099"
 }
