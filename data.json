@@ -1,6 +1,26 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29477",
+      "channel": "xhqcankao",
+      "text": "SpaceX提交IPO申请 马斯克控制85%投票权SpaceX周三正式向美国证券交易委员会提交了IPO招股书。招股书显示，SpaceX计划在纳斯达克上市，股票代码为“SPCX”。SpaceX在今年4月秘密向SEC提交了IPO申请。根据此前报道，SpaceX将在6月8日展开路演，并于6月12日挂牌上市。SpaceX表示，今年第一季度营收同比增长15%，从一年前的40.7亿美元增至46.9亿美元。2025年全年营收则大增33%，达到186.7亿美元。但该公司在第一季度录得42.8亿美元净亏损，而2025年净亏损为49.4亿美元。招股书显示，马斯克掌控着SpaceX 85% 的投票权，持有8.495亿股A类股票以及55.7亿股B类股票。——凤凰网科技、CNBC",
+      "clean_text": "SpaceX提交IPO申请 马斯克控制85%投票权SpaceX周三正式向美国证券交易委员会提交了IPO招股书。招股书显示，SpaceX计划在纳斯达克上市，股票代码为“SPCX”。SpaceX在今年4月秘密向SEC提交了IPO申请。根据此前报道，SpaceX将在6月8日展开路演，并于6月12日挂牌上市。SpaceX表示，今年第一季度营收同比增长15%，从一年前的40.7亿美元增至46.9亿美元。2025年全年营收则大增33%，达到186.7亿美元。但该公司在第一季度录得42.8亿美元净亏损，而2025年净亏损为49.4亿美元。招股书显示，马斯克掌控着SpaceX 85% 的投票权，持有8.495亿股A类股票以及55.7亿股B类股票。——凤凰网科技、CNBC",
+      "datetime": "2026-05-20T23:00:14+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006muYgkBzL--1mKKcYycvPzf4ewzuXjMbe6Y3Rna6F3llxJTlOEpMBjrxMniIYPcmsF"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29477",
+      "scraped_at": "2026-05-21T07:00:47.582777"
+    },
+    {
       "id": "zaihuapd_41491",
       "channel": "zaihuapd",
       "text": "bilibili 远古时代装机猿  测试 国产显卡砺算 LX 7G100  vs 3060视频地址·备用频道·",
@@ -1069,6 +1089,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 54,
-  "updated_at": "2026-05-21T06:56:30.797055"
+  "count": 55,
+  "updated_at": "2026-05-21T07:01:33.901064"
 }
