@@ -1315,30 +1315,6 @@
       "scraped_at": "2026-05-19T17:00:58.624037"
     },
     {
-      "id": "zaihuapd_41458",
-      "channel": "zaihuapd",
-      "text": "国产 DX12 游戏显卡砺算 7G100 将于 5 月 20 日在京东开启预售砺算科技确认 LX 7G100 显卡将于 5 月 20 日晚上 8 点在其京东自营店启动预约。该卡配备 12 GB GDDR6 显存，支持 DirectX 12、Vulkan 1.3 等主流 API，并通过了 WHQL 认证，是国产显卡中少数完整支持 DX12 并面向消费级游戏的型号。官方曾称其性能达到 RTX 4060 级别，但该数字可能来自合成测试，实际游戏表现仍取决于驱动优化和游戏兼容性。目前已有《黑神话：悟空》《赛博朋克 2077》等 100 多款游戏通过兼容测试，最终零售价尚未公布。VideoCardz",
-      "clean_text": "国产 DX12 游戏显卡砺算 7G100 将于 5 月 20 日在京东开启预售砺算科技确认 LX 7G100 显卡将于 5 月 20 日晚上 8 点在其京东自营店启动预约。该卡配备 12 GB GDDR6 显存，支持 DirectX 12、Vulkan 1.3 等主流 API，并通过了 WHQL 认证，是国产显卡中少数完整支持 DX12 并面向消费级游戏的型号。官方曾称其性能达到 RTX 4060 级别，但该数字可能来自合成测试，实际游戏表现仍取决于驱动优化和游戏兼容性。目前已有《黑神话：悟空》《赛博朋克 2077》等 100 多款游戏通过兼容测试，最终零售价尚未公布。VideoCardz",
-      "datetime": "2026-05-19T08:57:03+00:00",
-      "views": "918",
-      "source_links": [
-        {
-          "text": "VideoCardz",
-          "url": "https://videocardz.com/newz/lisuan-confirms-7g100-preorder-launch-on-may-20-chinas-dx12-gaming-gpu-with-support-for-100-games"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41458",
-      "scraped_at": "2026-05-19T17:00:57.401147"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1363,6 +1339,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 69,
-  "updated_at": "2026-05-20T20:53:45.443553"
+  "count": 68,
+  "updated_at": "2026-05-20T20:58:48.946535"
 }
