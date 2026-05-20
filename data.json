@@ -1045,30 +1045,6 @@
       "scraped_at": "2026-05-20T08:00:44.608945"
     },
     {
-      "id": "zaihuapd_41469",
-      "channel": "zaihuapd",
-      "text": "谷歌宣布推出 Gemini 3.5 Flash 模型，Gemini 3.5 Pro 将于下个月推出Google 正式发布 Gemini 3.5 系列模型，首款推出的 Gemini 3.5 Flash 现已在全球上线。该模型主打“智能体（Agentic）”能力，在编程、多步骤工作流和长程任务处理方面表现突出。相比同类模型，其输出速度提升了 4 倍，且成本大幅降低。性能更强的 Gemini 3.5 Pro 预计于下个月推出。Google·备用频道·",
-      "clean_text": "谷歌宣布推出 Gemini 3.5 Flash 模型，Gemini 3.5 Pro 将于下个月推出Google 正式发布 Gemini 3.5 系列模型，首款推出的 Gemini 3.5 Flash 现已在全球上线。该模型主打“智能体（Agentic）”能力，在编程、多步骤工作流和长程任务处理方面表现突出。相比同类模型，其输出速度提升了 4 倍，且成本大幅降低。性能更强的 Gemini 3.5 Pro 预计于下个月推出。Google·备用频道",
-      "datetime": "2026-05-19T17:53:39+00:00",
-      "views": "575",
-      "source_links": [
-        {
-          "text": "Google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41469",
-      "scraped_at": "2026-05-20T02:01:06.249416"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1093,6 +1069,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 55,
-  "updated_at": "2026-05-21T05:50:45.866350"
+  "count": 54,
+  "updated_at": "2026-05-21T05:55:48.975395"
 }
