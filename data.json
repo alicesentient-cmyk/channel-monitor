@@ -1350,30 +1350,6 @@
       "scraped_at": "2026-05-19T15:00:38.768187"
     },
     {
-      "id": "zaihuapd_41455",
-      "channel": "zaihuapd",
-      "text": "SpaceX 即将上市或分散 Tesla 投资者注意力SpaceX 即将 IPO，散户投资者将首次能直接投资马斯克旗下的航天公司。华尔街分析师认为，市场注意力和资金可能从 Tesla 流向 SpaceX，给 Tesla 股价带来压力。Tesla 当前市盈率高达约 196 倍，估值主要依靠\"马斯克溢价\"和对自动驾驶及机器人的未来押注。相比之下，SpaceX 在核心业务上优势更明确、缺乏直接竞争对手，部分分析师认为它甚至可能获得比 Tesla 更高的市值。若两家公司保持独立，资本轮动可能更有利于 SpaceX。Bloomberg",
-      "clean_text": "SpaceX 即将上市或分散 Tesla 投资者注意力SpaceX 即将 IPO，散户投资者将首次能直接投资马斯克旗下的航天公司。华尔街分析师认为，市场注意力和资金可能从 Tesla 流向 SpaceX，给 Tesla 股价带来压力。Tesla 当前市盈率高达约 196 倍，估值主要依靠\"马斯克溢价\"和对自动驾驶及机器人的未来押注。相比之下，SpaceX 在核心业务上优势更明确、缺乏直接竞争对手，部分分析师认为它甚至可能获得比 Tesla 更高的市值。若两家公司保持独立，资本轮动可能更有利于 SpaceX。Bloomberg",
-      "datetime": "2026-05-19T06:15:00+00:00",
-      "views": "4.02K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-18/spacex-ipo-will-add-another-musk-stock-it-s-a-problem-for-tesla"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41455",
-      "scraped_at": "2026-05-19T15:00:37.474046"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1398,6 +1374,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 71,
-  "updated_at": "2026-05-20T18:11:41.005195"
+  "count": 70,
+  "updated_at": "2026-05-20T18:16:45.569335"
 }
