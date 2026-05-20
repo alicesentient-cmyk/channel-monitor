@@ -1318,30 +1318,6 @@
       "scraped_at": "2026-05-19T13:00:12.850713"
     },
     {
-      "id": "zaihuapd_41452",
-      "channel": "zaihuapd",
-      "text": "中国海上风电驱动海底数据中心在沪投运上海临港外海的全球首个海上风电驱动海底数据中心近日全面投入商业运营。该设施总功率 24 兆瓦，容纳约 2000 台服务器，部署于海面下 35 米处，利用海水被动散热，并由海上风电场供电。中方媒体称，其电能利用效率（PUE）可低于 1.15。相比传统数据中心，这一设计可大幅减少制冷能耗，主要用于人工智能和大数据计算。但海水腐蚀、长期密封及硬件维护不便仍是主要挑战。微软此前曾试验类似水下数据中心，最终未推进商业化。Tom's Hardware",
-      "clean_text": "中国海上风电驱动海底数据中心在沪投运上海临港外海的全球首个海上风电驱动海底数据中心近日全面投入商业运营。该设施总功率 24 兆瓦，容纳约 2000 台服务器，部署于海面下 35 米处，利用海水被动散热，并由海上风电场供电。中方媒体称，其电能利用效率（PUE）可低于 1.15。相比传统数据中心，这一设计可大幅减少制冷能耗，主要用于人工智能和大数据计算。但海水腐蚀、长期密封及硬件维护不便仍是主要挑战。微软此前曾试验类似水下数据中心，最终未推进商业化。Tom's Hardware",
-      "datetime": "2026-05-19T04:30:00+00:00",
-      "views": "2.89K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41452",
-      "scraped_at": "2026-05-19T13:00:11.237579"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1366,6 +1342,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 70,
-  "updated_at": "2026-05-20T16:25:17.963871"
+  "count": 69,
+  "updated_at": "2026-05-20T16:30:21.875405"
 }
