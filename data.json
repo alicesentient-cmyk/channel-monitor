@@ -1315,22 +1315,6 @@
       "scraped_at": "2026-05-19T22:00:19.958619"
     },
     {
-      "id": "xhqcankao_29433",
-      "channel": "xhqcankao",
-      "text": "索尼正在提高PlayStation Plus订阅价格日本索尼正在 “特定地区” 提高一个月和三个月PlayStation Plus订阅的起价，并将其归咎于持续的市场状况。自今年 5月20日起，月度订阅将以10.99美元/9.99欧元/7.99英镑起价，而3个月订阅将以27.99美元/27.99欧元/21.99英镑起价。在美国，这些变化导致一个月基本档位订阅价格上涨1美元，三个月基本档位订阅价格上涨3美元。目前尚不清楚其他PlayStation Plus档位是否也会涨价。索尼没有立即回应置评请求。如果您是当前订阅用户，价格将保持不变，除非您更改订阅档位或让订阅失效，土耳其和印度除外。——Theverge",
-      "clean_text": "索尼正在提高PlayStation Plus订阅价格日本索尼正在 “特定地区” 提高一个月和三个月PlayStation Plus订阅的起价，并将其归咎于持续的市场状况。自今年 5月20日起，月度订阅将以10.99美元/9.99欧元/7.99英镑起价，而3个月订阅将以27.99美元/27.99欧元/21.99英镑起价。在美国，这些变化导致一个月基本档位订阅价格上涨1美元，三个月基本档位订阅价格上涨3美元。目前尚不清楚其他PlayStation Plus档位是否也会涨价。索尼没有立即回应置评请求。如果您是当前订阅用户，价格将保持不变，除非您更改订阅档位或让订阅失效，土耳其和印度除外。——Theverge",
-      "datetime": "2026-05-19T10:32:29+00:00",
-      "views": "4.16K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29433",
-      "scraped_at": "2026-05-19T22:00:19.958186"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1355,6 +1339,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 69,
-  "updated_at": "2026-05-20T22:30:05.203728"
+  "count": 68,
+  "updated_at": "2026-05-20T22:35:10.886166"
 }
