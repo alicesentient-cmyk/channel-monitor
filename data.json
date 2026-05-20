@@ -1299,30 +1299,6 @@
       "scraped_at": "2026-05-19T17:00:58.623315"
     },
     {
-      "id": "zaihuapd_41457",
-      "channel": "zaihuapd",
-      "text": "ACE 申请传票，要求 Cloudflare 提供 29 个盗版站点运营者信息反盗版联盟 ACE 近日向美国法院申请 DMCA 传票，要求 Cloudflare 提供 29 个盗版网站账户的身份信息，包括法国私人 BT 站、中国老牌论坛及越南流媒体 API 等。目标站点涵盖法语、中文、越南语、俄语、西班牙语和印地语等多种语言，涉及私人 Tracker、老牌论坛和“盗版即服务”平台。这份由 MPA 代表哥伦比亚、迪士尼、环球等片商提交的申请，尚未经法院书记员正式签署。盗版站点运营者通常向服务商提供虚假信息，可能削弱传票效果，但 ACE 过去曾借此获得有效线索。Torrentfreak",
-      "clean_text": "ACE 申请传票，要求 Cloudflare 提供 29 个盗版站点运营者信息反盗版联盟 ACE 近日向美国法院申请 DMCA 传票，要求 Cloudflare 提供 29 个盗版网站账户的身份信息，包括法国私人 BT 站、中国老牌论坛及越南流媒体 API 等。目标站点涵盖法语、中文、越南语、俄语、西班牙语和印地语等多种语言，涉及私人 Tracker、老牌论坛和“盗版即服务”平台。这份由 MPA 代表哥伦比亚、迪士尼、环球等片商提交的申请，尚未经法院书记员正式签署。盗版站点运营者通常向服务商提供虚假信息，可能削弱传票效果，但 ACE 过去曾借此获得有效线索。Torrentfreak",
-      "datetime": "2026-05-19T07:52:31+00:00",
-      "views": "1.8K",
-      "source_links": [
-        {
-          "text": "Torrentfreak",
-          "url": "https://torrentfreak.com/ace-subpoena-targets-french-private-tracker-chinese-pirate-forum-and-vietnamese-apis/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41457",
-      "scraped_at": "2026-05-19T16:01:04.499938"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1347,6 +1323,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 68,
-  "updated_at": "2026-05-20T19:47:54.081244"
+  "count": 67,
+  "updated_at": "2026-05-20T19:52:57.235133"
 }
