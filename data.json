@@ -1,6 +1,66 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29446",
+      "channel": "xhqcankao",
+      "text": "Discord为所有用户启用端到端加密的通话社交平台巨头 Discord 已为每位用户开启了端到端加密的语音和视频信息功能。端到端加密功能意味着 Discord 用户现在可以私密地进行交流，而无需担心任何其他人能够窃听他们的通话，甚至连 Discord 也不行。这对于社区数亿用户来说是一个重大的隐私胜利。Discord 平台在2024年推出了端到端加密的语音和视频通话功能，并在周一将该功能推广至每个用户，无需任何操作。Discord 核心技术副总裁马克·史密斯在一篇博客文章中说道：“端到端加密现已成为 Discord上除舞台频道外的每个语音和视频通话的标准配置。无需选择加入。”——Techcrunch",
+      "clean_text": "Discord为所有用户启用端到端加密的通话社交平台巨头 Discord 已为每位用户开启了端到端加密的语音和视频信息功能。端到端加密功能意味着 Discord 用户现在可以私密地进行交流，而无需担心任何其他人能够窃听他们的通话，甚至连 Discord 也不行。这对于社区数亿用户来说是一个重大的隐私胜利。Discord 平台在2024年推出了端到端加密的语音和视频通话功能，并在周一将该功能推广至每个用户，无需任何操作。Discord 核心技术副总裁马克·史密斯在一篇博客文章中说道：“端到端加密现已成为 Discord上除舞台频道外的每个语音和视频通话的标准配置。无需选择加入。”——Techcrunch",
+      "datetime": "2026-05-20T00:30:00+00:00",
+      "views": "1.12K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29446",
+      "scraped_at": "2026-05-20T09:00:15.661310"
+    },
+    {
+      "id": "xhqcankao_29445",
+      "channel": "xhqcankao",
+      "text": "谷歌宣布推出Gemini Omni视频生成模型谷歌在I/O大会上宣布推出一款新模型Gemini Omni，公司称其能够通过任何输入生成任何内容：用户可以通过图片、音频、视频和文字提示生成视频，还能够通过简单自然语言对视频进行编辑。谷歌表示，未来还将扩展该产品，使其支持生成图片和音频。DeepMind 首席AI架构师兼技术总监科雷·卡武克库奥卢介绍称：“Omni可以生成非常高质量的视频，并允许用户在生成后与视频进行互动。可以想象，这为学习和探索提供了类似教程的能力。”Omni可在Gemini Flash、Gemini应用、Google Flow及YouTube Shorts中运行，支持图像和音频功能。—— 财联社、Techcrunch",
+      "clean_text": "谷歌宣布推出Gemini Omni视频生成模型谷歌在I/O大会上宣布推出一款新模型Gemini Omni，公司称其能够通过任何输入生成任何内容：用户可以通过图片、音频、视频和文字提示生成视频，还能够通过简单自然语言对视频进行编辑。谷歌表示，未来还将扩展该产品，使其支持生成图片和音频。DeepMind 首席AI架构师兼技术总监科雷·卡武克库奥卢介绍称：“Omni可以生成非常高质量的视频，并允许用户在生成后与视频进行互动。可以想象，这为学习和探索提供了类似教程的能力。”Omni可在Gemini Flash、Gemini应用、Google Flow及YouTube Shorts中运行，支持图像和音频功能。—— 财联社、Techcrunch",
+      "datetime": "2026-05-20T00:03:28+00:00",
+      "views": "1.69K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29445",
+      "scraped_at": "2026-05-20T09:00:15.660946"
+    },
+    {
+      "id": "zaihuapd_41473",
+      "channel": "zaihuapd",
+      "text": "谷歌在搜索和 Chrome 中推出 AI 内容识别功能，OpenAI 推出 AI 生成图像验证工具谷歌宣布将 SynthID 识别工具引入搜索引擎和 Chrome 浏览器。用户现在可以通过 Google Lens 或“圈选即搜”功能，直接询问某张图片是否由 AI 生成。该系统基于 C2PA 行业标准和内置元数据进行验证，目前已支持图像、视频和音频检测，旨在提高数字内容的透明度。此外，谷歌正与 OpenAI、英伟达和 ElevenLabs 等厂商合作，扩大 AI 内容的可追溯范围。OpenAI 也提供了专门的验证工具，用于检测图片是否包含由其旗下产品产生的来源信号。该工具可识别 C2PA 元数据和 SynthID 水印，支持检测 ChatGPT、OpenAI API 或 Codex 生成的内容。用户上传单张图片即可查看检测结果。9To5Google|OpenAI·备用频道·",
+      "clean_text": "谷歌在搜索和 Chrome 中推出 AI 内容识别功能，OpenAI 推出 AI 生成图像验证工具谷歌宣布将 SynthID 识别工具引入搜索引擎和 Chrome 浏览器。用户现在可以通过 Google Lens 或“圈选即搜”功能，直接询问某张图片是否由 AI 生成。该系统基于 C2PA 行业标准和内置元数据进行验证，目前已支持图像、视频和音频检测，旨在提高数字内容的透明度。此外，谷歌正与 OpenAI、英伟达和 ElevenLabs 等厂商合作，扩大 AI 内容的可追溯范围。OpenAI 也提供了专门的验证工具，用于检测图片是否包含由其旗下产品产生的来源信号。该工具可识别 C2PA 元数据和 SynthID 水印，支持检测 ChatGPT、OpenAI API 或 Codex 生成的内容。用户上传单张图片即可查看检测结果。9To5Google|OpenAI·备用频道",
+      "datetime": "2026-05-20T00:03:09+00:00",
+      "views": "3.27K",
+      "source_links": [
+        {
+          "text": "9To5Google",
+          "url": "https://9to5google.com/2026/05/19/google-is-adding-ai-detection-for-photos-videos-and-audio-to-search-and-chrome/"
+        },
+        {
+          "text": "OpenAI",
+          "url": "https://openai.com/research/verify/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41473",
+      "scraped_at": "2026-05-20T09:00:14.490298"
+    },
+    {
       "id": "xhqcankao_29444",
       "channel": "xhqcankao",
       "text": "谷歌对搜索框进行全面升级以处理复杂问题谷歌重新设计了其标志性的搜索框，并推出新的人工智能编程工具。谷歌在I/O大会上宣布，公司对搜索框进行了全面升级，更好地处理用户向聊天机器人提出的更长、更复杂的问题。公司还表示，将为搜索引擎加入智能体功能，可帮助用户追踪感兴趣的话题、预订餐厅以及监测健康状况，不过其中部分功能初期仅向付费订阅用户开放。在周二的活动上，谷歌发布了多款面向开发者的新工具，可以帮助他们利用AI编写代码并管理代理系统，这些工具被归入“Antigravity”平台之下。谷歌还把编程功能整合进搜索引擎，订阅用户将可以在搜索中创建自定义仪表盘，用于管理婚礼筹备、健身计划等任务。——财联社",
@@ -1189,6 +1249,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 62,
-  "updated_at": "2026-05-20T08:59:47.200807"
+  "count": 65,
+  "updated_at": "2026-05-20T09:04:50.225889"
 }
