@@ -1,6 +1,74 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41476",
+      "channel": "zaihuapd",
+      "text": "中国海关禁止进口 NVIDIA 特供显卡 RTX 5090 Dv2中国海关通知主板厂商，NVIDIA 专为中国市场推出的 RTX 5090 Dv2 显卡将不再获批进口，零售商无法取得清关和销售许可。这是 NVIDIA 在美国限制后推出的进一步阉割版特供卡，显存从 32 GB 降至 24 GB，此番被中国方面禁售令市场意外。由于该卡仅面向中国销售，禁售后无处可去，可能转入黑市或被 AI 公司改装使用。目前中国玩家能买到的最快游戏显卡将仅剩 RTX 5080，国产 GPU 虽在加速追赶，但性能仍与 NVIDIA 最新产品差距明显。HKEPC·备用频道·",
+      "clean_text": "中国海关禁止进口 NVIDIA 特供显卡 RTX 5090 Dv2中国海关通知主板厂商，NVIDIA 专为中国市场推出的 RTX 5090 Dv2 显卡将不再获批进口，零售商无法取得清关和销售许可。这是 NVIDIA 在美国限制后推出的进一步阉割版特供卡，显存从 32 GB 降至 24 GB，此番被中国方面禁售令市场意外。由于该卡仅面向中国销售，禁售后无处可去，可能转入黑市或被 AI 公司改装使用。目前中国玩家能买到的最快游戏显卡将仅剩 RTX 5080，国产 GPU 虽在加速追赶，但性能仍与 NVIDIA 最新产品差距明显。HKEPC·备用频道",
+      "datetime": "2026-05-20T02:49:45+00:00",
+      "views": "2.06K",
+      "source_links": [
+        {
+          "text": "HKEPC",
+          "url": "https://www.hkepc.com/25795/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41476",
+      "scraped_at": "2026-05-20T11:00:27.681835"
+    },
+    {
+      "id": "xhqcankao_29450",
+      "channel": "xhqcankao",
+      "text": "OpenAI联合创始人卡帕西加盟AnthropicAI领域顶级研究员安德烈·卡帕西正式宣布加入 Anthropic。作为OpenAI创始成员及前特斯拉AI总监，卡帕西此举被视为Anthropic在顶尖AI人才争夺战中的重大突破，进一步巩固了该公司作为行业精英聚集地的地位。卡帕西将于本周正式入职 Anthropic 的预训练团队。该团队负责Claude大模型的预训练工作，直接决定了模型的核心知识储备与基础能力。据了解，他将重点主导建立一支全新的团队，探索利用Claude自身的能力来加速预训练研究，这是当前AI企业竞相推动人工智能开发自动化的关键前沿方向。——凤凰网科技、Techcrunch",
+      "clean_text": "OpenAI联合创始人卡帕西加盟AnthropicAI领域顶级研究员安德烈·卡帕西正式宣布加入 Anthropic。作为OpenAI创始成员及前特斯拉AI总监，卡帕西此举被视为Anthropic在顶尖AI人才争夺战中的重大突破，进一步巩固了该公司作为行业精英聚集地的地位。卡帕西将于本周正式入职 Anthropic 的预训练团队。该团队负责Claude大模型的预训练工作，直接决定了模型的核心知识储备与基础能力。据了解，他将重点主导建立一支全新的团队，探索利用Claude自身的能力来加速预训练研究，这是当前AI企业竞相推动人工智能开发自动化的关键前沿方向。——凤凰网科技、Techcrunch",
+      "datetime": "2026-05-20T02:33:27+00:00",
+      "views": "1.27K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006mzRn53tQL9n5H-_5mDD22mdByxmQRtOF3fe9D5iYNmKpBFIhRtcI7bjJ-_juRm2az--"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29450",
+      "scraped_at": "2026-05-20T11:00:28.931653"
+    },
+    {
+      "id": "zaihuapd_41475",
+      "channel": "zaihuapd",
+      "text": "Gemini CLI 将于 6 月 18 日停止为免费及 Pro/Ultra 用户服务，Antigravity CLI 上线谷歌宣布，2026 年 6 月 18 日起，Gemini CLI 和 Gemini Code Assist IDE 扩展将停止为免费用户及 Google AI Pro、Ultra 用户提供服务。同步上线的 Antigravity CLI 作为 Antigravity 2.0 平台的一部分，保留了 Agent Skills、Hooks 等核心功能。已付费的 Gemini Code Assist Standard 或 Enterprise 授权用户不受影响，可继续使用现有工具或尝试 Antigravity CLI。官方已提供迁移文档，并将发布视频指南。Google Developers Blog·备用频道·",
+      "clean_text": "Gemini CLI 将于 6 月 18 日停止为免费及 Pro/Ultra 用户服务，Antigravity CLI 上线谷歌宣布，2026 年 6 月 18 日起，Gemini CLI 和 Gemini Code Assist IDE 扩展将停止为免费用户及 Google AI Pro、Ultra 用户提供服务。同步上线的 Antigravity CLI 作为 Antigravity 2.0 平台的一部分，保留了 Agent Skills、Hooks 等核心功能。已付费的 Gemini Code Assist Standard 或 Enterprise 授权用户不受影响，可继续使用现有工具或尝试 Antigravity CLI。官方已提供迁移文档，并将发布视频指南。Google Developers Blog·备用频道",
+      "datetime": "2026-05-20T02:13:15+00:00",
+      "views": "4.8K",
+      "source_links": [
+        {
+          "text": "Google Developers Blog",
+          "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41475",
+      "scraped_at": "2026-05-20T11:00:27.681283"
+    },
+    {
       "id": "xhqcankao_29449",
       "channel": "xhqcankao",
       "text": "大裁员前夜 Meta员工疯狂“薅公司羊毛”多位Meta员工告诉《连线》杂志，在公司启动最新一轮大规模裁员前夕，一些员工正在离开办公室，放下手头工作，并抓紧享受他们可能很快会失去的福利。两名员工称，公司出现了普遍的 “抢用福利” 现象：大家争相用掉每年2000美元的弹性福利额度，该福利可用于支付健康及养生等各种费用。Meta员工还在抓紧使用一项每三年200美元的音频设备补贴，用它购买AirPods及其他耳机。Meta公司前员工阿黛尔·吴分享了一个离奇的幕后裁员细节。据她所述，在Meta进行第一轮大规模裁员的前一晚，气氛感觉“几乎像是末日来临”。员工们在裁员正式启动前，纷纷往包里塞满免费的办公室零食、充电器和饮料。——凤凰网科技",
@@ -1305,6 +1373,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 68,
-  "updated_at": "2026-05-20T10:56:03.866887"
+  "count": 71,
+  "updated_at": "2026-05-20T11:01:07.673623"
 }
