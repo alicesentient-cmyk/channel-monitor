@@ -1339,26 +1339,6 @@
       "scraped_at": "2026-05-19T17:00:57.401147"
     },
     {
-      "id": "xhqcankao_29429",
-      "channel": "xhqcankao",
-      "text": "苹果拟6月展示新系统 引入AI写作助手等功能苹果公司正为下一代iPhone和iPad操作系统准备一系列人工智能功能，包括语法检查器和新的快捷指令选项，此举旨在缩小与竞争对手设备在AI功能上的差距。据知情人士透露，这些功能计划在iOS 27 和 iPadOS 27操作系统中推出。新增功能包括新的AI辅助写作工具、使用自然语言创建系统级快捷指令的能力，以及自定义壁纸生成功能。苹果计划在六月的全球开发者大会上介绍这些新操作系统，随后在九月向公众发布。面对三星电子和Alphabet旗下谷歌在消费级AI功能上的领先，这家iPhone制造商正加速追赶。——新浪财经、彭博社",
-      "clean_text": "苹果拟6月展示新系统 引入AI写作助手等功能苹果公司正为下一代iPhone和iPad操作系统准备一系列人工智能功能，包括语法检查器和新的快捷指令选项，此举旨在缩小与竞争对手设备在AI功能上的差距。据知情人士透露，这些功能计划在iOS 27 和 iPadOS 27操作系统中推出。新增功能包括新的AI辅助写作工具、使用自然语言创建系统级快捷指令的能力，以及自定义壁纸生成功能。苹果计划在六月的全球开发者大会上介绍这些新操作系统，随后在九月向公众发布。面对三星电子和Alphabet旗下谷歌在消费级AI功能上的领先，这家iPhone制造商正加速追赶。——新浪财经、彭博社",
-      "datetime": "2026-05-19T08:31:40+00:00",
-      "views": "1.44K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fworld%2F2026-05-19%2Fdoc-inhykhiz7757559.shtml"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-18/apple-ios-27-ai-writing-grammar-help-new-shortcuts-app-custom-wallpapers"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29429",
-      "scraped_at": "2026-05-19T17:00:58.623723"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1383,6 +1363,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 70,
-  "updated_at": "2026-05-20T20:28:25.882690"
+  "count": 69,
+  "updated_at": "2026-05-20T20:33:29.372675"
 }
