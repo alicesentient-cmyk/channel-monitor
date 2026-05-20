@@ -1346,33 +1346,6 @@
       "scraped_at": "2026-05-19T11:00:14.179528"
     },
     {
-      "id": "xhqcankao_29417",
-      "channel": "xhqcankao",
-      "text": "Anthropic收购开发工具初创公司Stainless美国人工智能企业Anthropic当地时间5月18日宣布收购软件开发工具包（SDK）及MCP服务器工具领域企业Stainless，未对外披露交易细节。信息显示，Stainless成立于2022年，由前Stripe工程师Alex Rattray创立，该公司将API规范转化为TypeScript、Python、Go、Java、Kotlin等多种语言的SDK。据介绍，Anthropic称此次收购旨在扩展Claude连接数据与工具的能力，推动AI从\"回答问题\"向\"执行任务\"的代理能力演进。交易估值可能超过3亿美元，由红杉资本和安德森·霍洛维茨基金支持的Stainless将成为 Anthropic 关键基础设施，脱离竞争对手的掌控。——新浪财经",
-      "clean_text": "Anthropic收购开发工具初创公司Stainless美国人工智能企业Anthropic当地时间5月18日宣布收购软件开发工具包（SDK）及MCP服务器工具领域企业Stainless，未对外披露交易细节。信息显示，Stainless成立于2022年，由前Stripe工程师Alex Rattray创立，该公司将API规范转化为TypeScript、Python、Go、Java、Kotlin等多种语言的SDK。据介绍，Anthropic称此次收购旨在扩展Claude连接数据与工具的能力，推动AI从\"回答问题\"向\"执行任务\"的代理能力演进。交易估值可能超过3亿美元，由红杉资本和安德森·霍洛维茨基金支持的Stainless将成为 Anthropic 关键基础设施，脱离竞争对手的掌控。——新浪财经",
-      "datetime": "2026-05-19T02:31:06+00:00",
-      "views": "1.39K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Festate%2Fintegration%2F2026-05-19%2Fdoc-inhyksxt2354925.shtml"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29417",
-      "scraped_at": "2026-05-19T11:00:15.397384"
-    },
-    {
-      "id": "zaihuapd_41447",
-      "channel": "zaihuapd",
-      "text": "特朗普确认获得英特尔公司股份 股票大涨7%  美国总统特朗普于周五确认已与英特尔首席执行官达成协议，英特尔将向美国政府提供价值 100 亿美元的公司股份。协议宣布后，英特尔股价上涨 7%，但公司拒绝置评。  特朗普还表示将达成更多此类交易。  CNN茶馆投稿",
-      "clean_text": "特朗普确认获得英特尔公司股份 股票大涨7%  美国总统特朗普于周五确认已与英特尔首席执行官达成协议，英特尔将向美国政府提供价值 100 亿美元的公司股份。协议宣布后，英特尔股价上涨 7%，但公司拒绝置评。  特朗普还表示将达成更多此类交易。  CNN🍀在花频道🍵茶馆📮投稿",
-      "datetime": "2026-05-19T02:30:00+00:00",
-      "views": "3.56K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41447",
-      "scraped_at": "2026-05-19T11:00:14.178988"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1397,6 +1370,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 72,
-  "updated_at": "2026-05-20T14:28:46.598137"
+  "count": 70,
+  "updated_at": "2026-05-20T14:33:51.056330"
 }
