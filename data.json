@@ -1,6 +1,94 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41481",
+      "channel": "zaihuapd",
+      "text": "GitHub 确认员工设备被“投毒”扩展攻破，约 3800 个内部仓库遭外泄GitHub 证实，其内部代码仓库发生未授权访问事件，源头是一名员工电脑安装了被投毒的 VS Code 扩展程序。公司称，攻击者声称获取的约 3800 个内部仓库数量，与当前调查判断“方向一致”。GitHub 已紧急移除恶意扩展、隔离终端并轮换关键密钥，同时强调暂无证据显示客户代码或企业仓库受到影响，相关调查仍在持续。另外有安全圈人士和部分媒体援引黑客论坛信息称，外泄内容可能涉及 Copilot、CodeQL 等核心项目源码。GitHub·备用频道·",
+      "clean_text": "GitHub 确认员工设备被“投毒”扩展攻破，约 3800 个内部仓库遭外泄GitHub 证实，其内部代码仓库发生未授权访问事件，源头是一名员工电脑安装了被投毒的 VS Code 扩展程序。公司称，攻击者声称获取的约 3800 个内部仓库数量，与当前调查判断“方向一致”。GitHub 已紧急移除恶意扩展、隔离终端并轮换关键密钥，同时强调暂无证据显示客户代码或企业仓库受到影响，相关调查仍在持续。另外有安全圈人士和部分媒体援引黑客论坛信息称，外泄内容可能涉及 Copilot、CodeQL 等核心项目源码。GitHub·备用频道",
+      "datetime": "2026-05-20T06:00:00+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "另外有安全圈人士和部分媒体援引黑客论坛信息称",
+          "url": "https://x.com/im23pds/status/2056949834066583593"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://x.com/github/status/2056949168208552080"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41481",
+      "scraped_at": "2026-05-20T14:00:25.637437"
+    },
+    {
+      "id": "xhqcankao_29456",
+      "channel": "xhqcankao",
+      "text": "SpaceX将在IPO后收购AI编程公司Cursor知情人士称，SpaceX预计将在其启动首次公开招股(IPO)，开始公开交易30天后，推进对AI编程创业公司Cursor的收购。据彭博社此前报道，SpaceX最早将于本周三公开招股书，并于6月12日上市。如果计划顺利进行，SpaceX有望在7月完成对Cursor的收购。知情人士称，如果交易未能完成，SpaceX将向Cursor支付100亿美元的现金分手费。这笔交易将增强SpaceX的AI编程能力，该公司即将通过此次IPO打破多项纪录。SpaceX正寻求募资高达750亿美元，估值超过2万亿美元。——凤凰网科技、彭博社",
+      "clean_text": "SpaceX将在IPO后收购AI编程公司Cursor知情人士称，SpaceX预计将在其启动首次公开招股(IPO)，开始公开交易30天后，推进对AI编程创业公司Cursor的收购。据彭博社此前报道，SpaceX最早将于本周三公开招股书，并于6月12日上市。如果计划顺利进行，SpaceX有望在7月完成对Cursor的收购。知情人士称，如果交易未能完成，SpaceX将向Cursor支付100亿美元的现金分手费。这笔交易将增强SpaceX的AI编程能力，该公司即将通过此次IPO打破多项纪录。SpaceX正寻求募资高达750亿美元，估值超过2万亿美元。——凤凰网科技、彭博社",
+      "datetime": "2026-05-20T05:30:36+00:00",
+      "views": "1.31K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006eC2wwSM6vt8xlXA--iYRxXYEYJ9ZLwB8J1LZhH9EplTQ6iRqbop3O--gRGvtR9GeHZ"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-19/spacex-is-said-to-plan-to-buy-startup-cursor-30-days-after-ipo"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29456",
+      "scraped_at": "2026-05-20T14:00:26.934993"
+    },
+    {
+      "id": "zaihuapd_41480",
+      "channel": "zaihuapd",
+      "text": "谷歌将 YouTube Premium Lite 免费加入 AI Pro 计划，覆盖 35 个国家和地区谷歌在 20 美元/月的 AI Pro 个人计划中免费加入 YouTube Premium Lite，该服务可免除非音乐视频广告、支持后台播放和下载。计划本身还包含 5 TB 云存储，性价比更高。顶级 AI Ultra 计划（100 美元/月）则持续提供完整 YouTube Premium。AI Pro 用户还能折扣订阅完整 Premium，最高可享半价优惠。本次调整在美洲、欧洲、亚洲、非洲等 35 个国家和地区生效。9To5Google·备用频道·",
+      "clean_text": "谷歌将 YouTube Premium Lite 免费加入 AI Pro 计划，覆盖 35 个国家和地区谷歌在 20 美元/月的 AI Pro 个人计划中免费加入 YouTube Premium Lite，该服务可免除非音乐视频广告、支持后台播放和下载。计划本身还包含 5 TB 云存储，性价比更高。顶级 AI Ultra 计划（100 美元/月）则持续提供完整 YouTube Premium。AI Pro 用户还能折扣订阅完整 Premium，最高可享半价优惠。本次调整在美洲、欧洲、亚洲、非洲等 35 个国家和地区生效。9To5Google·备用频道",
+      "datetime": "2026-05-20T05:30:00+00:00",
+      "views": "3.49K",
+      "source_links": [
+        {
+          "text": "9To5Google",
+          "url": "https://9to5google.com/2026/05/19/google-is-bundling-youtube-premium-lite-into-its-best-storage-plan-heres-where/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41480",
+      "scraped_at": "2026-05-20T14:00:25.636965"
+    },
+    {
+      "id": "xhqcankao_29455",
+      "channel": "xhqcankao",
+      "text": "中国存储芯片制造商长江存储启动IPO辅导中国领先存储芯片制造商长江存储已正式启动上市辅导备案，朝着备受期待的国内股市首次公开募股迈出了重要一步。中信证券周二发布的文件显示，这家中国顶尖投行已被指定为首席保荐机构，负责辅导长江存储完成公开上市前所需的监管审查程序。这一举措对这家具有国资背景的领军企业而言堪称一座里程碑。尽管面临严峻的地缘政治阻力和华盛顿主导的贸易限制，该公司在全球科技行业的地位依然在迅速攀升。长江存储是中国唯一的本土3D NAND闪存主力厂商。——华尔街日报",
+      "clean_text": "中国存储芯片制造商长江存储启动IPO辅导中国领先存储芯片制造商长江存储已正式启动上市辅导备案，朝着备受期待的国内股市首次公开募股迈出了重要一步。中信证券周二发布的文件显示，这家中国顶尖投行已被指定为首席保荐机构，负责辅导长江存储完成公开上市前所需的监管审查程序。这一举措对这家具有国资背景的领军企业而言堪称一座里程碑。尽管面临严峻的地缘政治阻力和华盛顿主导的贸易限制，该公司在全球科技行业的地位依然在迅速攀升。长江存储是中国唯一的本土3D NAND闪存主力厂商。——华尔街日报",
+      "datetime": "2026-05-20T05:03:30+00:00",
+      "views": "2.11K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%90%AF%E5%8A%A8ipo%E8%BE%85%E5%AF%BC-28bf1254?mod=cn_hp_featst_pos1"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29455",
+      "scraped_at": "2026-05-20T14:00:26.934581"
+    },
+    {
       "id": "zaihuapd_41479",
       "channel": "zaihuapd",
       "text": "首款鸿蒙生态共享单车亮相哈啰 A70 云朵共享单车正式亮相，搭载海思 Hi3322 芯片与轻量级鸿蒙系统，成为全球首款鸿蒙生态共享单车。该车集成星闪与 NFC 碰一碰开锁功能，200 毫秒内即可完成解锁，车辆各部件协同和响应速度均有提升。新车还支持远程升级，无需人工到场即可持续更新功能。哈啰另有一款共享电动车也通过了鸿蒙生态兼容性评测，两款车型均已获得开放原子开源基金会颁发的兼容性证书。资讯中国·备用频道·",
@@ -1305,30 +1393,6 @@
       "scraped_at": "2026-05-19T11:00:15.397051"
     },
     {
-      "id": "zaihuapd_41446",
-      "channel": "zaihuapd",
-      "text": "联邦陪审团驳回马斯克对 OpenAI 的诉讼美国联邦陪审团于周一裁定，埃隆·马斯克对 OpenAI 及其首席执行官萨姆·奥特曼等人的诉讼无效。陪审团在不到两小时内达成一致结论，认为马斯克提起诉讼的时间过晚，已超出追诉时效。该裁决意味着奥特曼、联合创始人格雷格·布罗克曼及 OpenAI 无须承担相关法律责任。陪审团同时驳回了针对微软协助奥特曼和布罗克曼违背职责的指控。马斯克于 2024 年提起诉讼，指控奥特曼通过组织非法牟利，但法院认定其在了解相关盈利转化计划多年后才采取行动，未能遵守法律规定的两年或三年追诉期。NBC News",
-      "clean_text": "联邦陪审团驳回马斯克对 OpenAI 的诉讼美国联邦陪审团于周一裁定，埃隆·马斯克对 OpenAI 及其首席执行官萨姆·奥特曼等人的诉讼无效。陪审团在不到两小时内达成一致结论，认为马斯克提起诉讼的时间过晚，已超出追诉时效。该裁决意味着奥特曼、联合创始人格雷格·布罗克曼及 OpenAI 无须承担相关法律责任。陪审团同时驳回了针对微软协助奥特曼和布罗克曼违背职责的指控。马斯克于 2024 年提起诉讼，指控奥特曼通过组织非法牟利，但法院认定其在了解相关盈利转化计划多年后才采取行动，未能遵守法律规定的两年或三年追诉期。NBC News",
-      "datetime": "2026-05-19T02:00:00+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "NBC News",
-          "url": "https://www.nbcnews.com/tech/tech-news/openai-elon-musk-case-verdict-rcna345655"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41446",
-      "scraped_at": "2026-05-19T10:00:45.346298"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1353,6 +1417,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 70,
-  "updated_at": "2026-05-20T13:58:22.519321"
+  "count": 73,
+  "updated_at": "2026-05-20T14:03:25.723864"
 }
