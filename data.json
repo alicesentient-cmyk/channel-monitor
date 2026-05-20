@@ -1,6 +1,46 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41489",
+      "channel": "zaihuapd",
+      "text": "Fantia 5 月 25 日起实施更严格的马赛克审查标准Fantia 宣布将于 2026 年 5 月 25 日修订修正及马赛克指引，要求所有内容中需遮蔽的部位必须处理至“原型完全不可辨认”的程度，禁止使用透明马赛克、薄模糊或仅用线条遮盖。新规不仅适用于新投稿，也覆盖全部历史作品。平台将逐步审查旧内容，不合格者会先收到修正请求或非公开处理，不会立即冻结粉丝俱乐部。若持续违规或拒绝配合，才可能面临冻结甚至关闭。官方呼吁创作者提前自查自改，并特别提醒高分辨率图像和视频因缩放或动态效果容易导致遮蔽不足，需采用比静止图像更强的处理。Fantia Spotlight·备用频道·",
+      "clean_text": "Fantia 5 月 25 日起实施更严格的马赛克审查标准Fantia 宣布将于 2026 年 5 月 25 日修订修正及马赛克指引，要求所有内容中需遮蔽的部位必须处理至“原型完全不可辨认”的程度，禁止使用透明马赛克、薄模糊或仅用线条遮盖。新规不仅适用于新投稿，也覆盖全部历史作品。平台将逐步审查旧内容，不合格者会先收到修正请求或非公开处理，不会立即冻结粉丝俱乐部。若持续违规或拒绝配合，才可能面临冻结甚至关闭。官方呼吁创作者提前自查自改，并特别提醒高分辨率图像和视频因缩放或动态效果容易导致遮蔽不足，需采用比静止图像更强的处理。Fantia Spotlight·备用频道",
+      "datetime": "2026-05-20T14:39:33+00:00",
+      "views": "2.63K",
+      "source_links": [
+        {
+          "text": "Fantia Spotlight",
+          "url": "https://spotlight.fantia.jp/news/260519_guideline"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41489",
+      "scraped_at": "2026-05-20T23:00:16.717732"
+    },
+    {
+      "id": "xhqcankao_29475",
+      "channel": "xhqcankao",
+      "text": "黑客从GitHub数千个内部仓库中窃取了数据微软旗下的流行开发者平台GitHub确认其被黑客攻击，攻击者从大约3800个内部代码仓库中窃取了数据。这个代码托管和分享巨头在 X 上的一系列帖子中表示，“没有证据表明对存储在GitHub内部仓库之外的客户信息造成影响”，但指出其调查仍在进行中。GitHub 表示，平台检测并遏制了一起涉及‘被投毒’的 VS Code 扩展的员工设备遭入侵事件，指的是Visual Studio Code的一个插件。黑客正越来越多地以流行的开源项目为目标，包括编程扩展，目的是入侵开发者的计算机及其项目。以流行项目为目标，使黑客能够同时访问大量计算机，从而放大其攻击的影响。——Techcrunch",
+      "clean_text": "黑客从GitHub数千个内部仓库中窃取了数据微软旗下的流行开发者平台GitHub确认其被黑客攻击，攻击者从大约3800个内部代码仓库中窃取了数据。这个代码托管和分享巨头在 X 上的一系列帖子中表示，“没有证据表明对存储在GitHub内部仓库之外的客户信息造成影响”，但指出其调查仍在进行中。GitHub 表示，平台检测并遏制了一起涉及‘被投毒’的 VS Code 扩展的员工设备遭入侵事件，指的是Visual Studio Code的一个插件。黑客正越来越多地以流行的开源项目为目标，包括编程扩展，目的是入侵开发者的计算机及其项目。以流行项目为目标，使黑客能够同时访问大量计算机，从而放大其攻击的影响。——Techcrunch",
+      "datetime": "2026-05-20T14:35:15+00:00",
+      "views": "1.29K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29475",
+      "scraped_at": "2026-05-20T23:00:18.565235"
+    },
+    {
       "id": "xhqcankao_29474",
       "channel": "xhqcankao",
       "text": "各界敦促美国监管机构调查Roblox平台美国国家反性剥削工作中心和Fairplay，这两家专注于儿童安全的倡导组织，正在要求美国联邦贸易委员会调查 Roblox公司的游戏机制，他们声称这些机制胁迫儿童在平台上花费不合理的金额。根据这两家组织计划于周三发送给 FTC 的一封信件，特别受年轻玩家欢迎的游戏平台Roblox，通过不公平地向儿童推销虚拟货币和物品以及使用“最大化参与度的设计功能”，正在违反旨在保护消费者的规则。信件称，该平台混淆了现金与游戏中使用的虚拟 Robux 货币之间的汇率，使得计算物品的实际成本变得具有挑战性。这些组织表示，诸如虚假稀缺性和奖励机制等功能旨在增加儿童在该平台上的时间和消费。——彭博社",
@@ -1275,30 +1315,6 @@
       "scraped_at": "2026-05-19T22:00:17.582322"
     },
     {
-      "id": "zaihuapd_41460",
-      "channel": "zaihuapd",
-      "text": "Claude Code 推出 Fast mode 研究预览Claude Code 推出 Fast mode 研究预览，可在 Opus 4.7 和 4.6 上以更高成本换取更低延迟。用户输入 /fast 即可开启，定价为输入 30 美元、输出 150 美元每百万 token，且需开启按量付费额度。该模式适合代码快速迭代和实时调试等交互场景，不适合批处理或成本敏感任务。Team 和 Enterprise 组织默认关闭，需管理员在后台启用；当触及独立速率上限时，系统会自动降回标准速度，待冷却结束后恢复。Claude Code Docs",
-      "clean_text": "🤖Claude Code 推出 Fast mode 研究预览Claude Code 推出 Fast mode 研究预览，可在 Opus 4.7 和 4.6 上以更高成本换取更低延迟。用户输入 /fast 即可开启，定价为输入 30 美元、输出 150 美元每百万 token，且需开启按量付费额度。该模式适合代码快速迭代和实时调试等交互场景，不适合批处理或成本敏感任务。Team 和 Enterprise 组织默认关闭，需管理员在后台启用；当触及独立速率上限时，系统会自动降回标准速度，待冷却结束后恢复。Claude Code Docs",
-      "datetime": "2026-05-19T10:57:17+00:00",
-      "views": "9.8K",
-      "source_links": [
-        {
-          "text": "Claude Code Docs",
-          "url": "https://code.claude.com/docs/en/fast-mode"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41460",
-      "scraped_at": "2026-05-19T22:00:17.581686"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1323,6 +1339,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 67,
-  "updated_at": "2026-05-20T22:55:28.602836"
+  "count": 68,
+  "updated_at": "2026-05-20T23:00:32.640885"
 }
