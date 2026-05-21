@@ -1,6 +1,38 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29486",
+      "channel": "xhqcankao",
+      "text": "困扰人类80年的数学难题被AI破解了OpenAI宣布：其内部一个通用推理模型，自主推翻了“平面单位距离猜想”——这道由匈牙利数学家保罗·Erdős于1946年提出的几何难题，困扰数学界整整79年。这个问题本身说起来并不复杂：在平面上随机放 n 个点，最多能有多少对点之间的距离恰好等于 1 ？这就是 “平面单位距离问题”。数学家们长期认为，最优解大概长这样：把点排成一个正方形网格，然后按比例缩放，这样能产生大约n1+C/log⁡log⁡nn1+C/loglogn对单位距离。这个增长速度只比线性快一点点。Erdős猜测不可能有构型能显著超越方格网格。但OpenAI的模型给出了一族新的点集构型，对无穷多个n值，单位距离对数达到了 n1+δn1+δ，其中δ是一个固定的正数。也就是说，它不仅超越了方格网格，还把Erdős的猜想直接推翻。——华尔街见闻",
+      "clean_text": "困扰人类80年的数学难题被AI破解了OpenAI宣布：其内部一个通用推理模型，自主推翻了“平面单位距离猜想”——这道由匈牙利数学家保罗·Erdős于1946年提出的几何难题，困扰数学界整整79年。这个问题本身说起来并不复杂：在平面上随机放 n 个点，最多能有多少对点之间的距离恰好等于 1 ？这就是 “平面单位距离问题”。数学家们长期认为，最优解大概长这样：把点排成一个正方形网格，然后按比例缩放，这样能产生大约n1+C/log⁡log⁡nn1+C/loglogn对单位距离。这个增长速度只比线性快一点点。Erdős猜测不可能有构型能显著超越方格网格。但OpenAI的模型给出了一族新的点集构型，对无穷多个n值，单位距离对数达到了 n1+δn1+δ，其中δ是一个固定的正数。也就是说，它不仅超越了方格网格，还把Erdős的猜想直接推翻。——华尔街见闻",
+      "datetime": "2026-05-21T03:30:59+00:00",
+      "views": "1.73K",
+      "source_links": [
+        {
+          "text": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772780"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29486",
+      "scraped_at": "2026-05-21T12:00:56.610911"
+    },
+    {
+      "id": "xhqcankao_29485",
+      "channel": "xhqcankao",
+      "text": "收入暴涨将推动Anthropic迎来首个季度盈利Anthropic公司第二季度收入预计将增长逾一倍，达到 109 亿美元，这种爆炸性的增长速度将帮助该公司首次实现营业利润。该公司在正在进行的一轮融资中向投资者披露了这些数据。Anthropic第一季度销售额为48亿美元。其季度收入目前的增长速度超过了疫情期间的Zoom，也超过了首次公开募股前夕的谷歌和脸书。该公司在6月季度料将实现5.59亿美元的营业利润。Anthropic去年夏天与投资者分享的财务数据表明，公司预计至少要到2028年才能实现全年盈利。由于庞大的计算需求，该公司计划增加支出，因此可能无法在全年保持盈利。其营业利润包含了训练新模型的成本，但不包括基于股票的薪酬。——华尔街日报",
+      "clean_text": "收入暴涨将推动Anthropic迎来首个季度盈利Anthropic公司第二季度收入预计将增长逾一倍，达到 109 亿美元，这种爆炸性的增长速度将帮助该公司首次实现营业利润。该公司在正在进行的一轮融资中向投资者披露了这些数据。Anthropic第一季度销售额为48亿美元。其季度收入目前的增长速度超过了疫情期间的Zoom，也超过了首次公开募股前夕的谷歌和脸书。该公司在6月季度料将实现5.59亿美元的营业利润。Anthropic去年夏天与投资者分享的财务数据表明，公司预计至少要到2028年才能实现全年盈利。由于庞大的计算需求，该公司计划增加支出，因此可能无法在全年保持盈利。其营业利润包含了训练新模型的成本，但不包括基于股票的薪酬。——华尔街日报",
+      "datetime": "2026-05-21T03:04:36+00:00",
+      "views": "2.32K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-60dc6570"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29485",
+      "scraped_at": "2026-05-21T12:00:56.610476"
+    },
+    {
       "id": "zaihuapd_41496",
       "channel": "zaihuapd",
       "text": "营收井喷式增长，Anthropic 有望迎来首个盈利季度受益于企业端 AI 服务的爆发式需求，Anthropic 预计将在今年第二季度实现历史上首次季度盈利。最新数据显示，该公司第二季度营收预计将从第一季度的 48 亿美元飙升至 109 亿美元，环比增长超 130%，并预计录得 5.59 亿美元的运营利润，成功扭亏为盈，有力证明了生成式 AI 在企业级市场的强劲变现能力。通过计算，Anthropic 年化收入运行率已达到惊人的 440 亿美元，当前的季度营收增速甚至超越了疫情时期的 Zoom，以及当年 IPO 前夕的谷歌和 Meta。Anthropic 在实现利润破局的同时，也正在资本市场加速冲刺，进一步巩固其在全球 AI 领域的顶级独角兽地位。Bloomberg|WSJ·备用频道·",
@@ -1196,50 +1228,6 @@
       "scraped_at": "2026-05-20T09:00:15.661310"
     },
     {
-      "id": "xhqcankao_29445",
-      "channel": "xhqcankao",
-      "text": "谷歌宣布推出Gemini Omni视频生成模型谷歌在I/O大会上宣布推出一款新模型Gemini Omni，公司称其能够通过任何输入生成任何内容：用户可以通过图片、音频、视频和文字提示生成视频，还能够通过简单自然语言对视频进行编辑。谷歌表示，未来还将扩展该产品，使其支持生成图片和音频。DeepMind 首席AI架构师兼技术总监科雷·卡武克库奥卢介绍称：“Omni可以生成非常高质量的视频，并允许用户在生成后与视频进行互动。可以想象，这为学习和探索提供了类似教程的能力。”Omni可在Gemini Flash、Gemini应用、Google Flow及YouTube Shorts中运行，支持图像和音频功能。—— 财联社、Techcrunch",
-      "clean_text": "谷歌宣布推出Gemini Omni视频生成模型谷歌在I/O大会上宣布推出一款新模型Gemini Omni，公司称其能够通过任何输入生成任何内容：用户可以通过图片、音频、视频和文字提示生成视频，还能够通过简单自然语言对视频进行编辑。谷歌表示，未来还将扩展该产品，使其支持生成图片和音频。DeepMind 首席AI架构师兼技术总监科雷·卡武克库奥卢介绍称：“Omni可以生成非常高质量的视频，并允许用户在生成后与视频进行互动。可以想象，这为学习和探索提供了类似教程的能力。”Omni可在Gemini Flash、Gemini应用、Google Flow及YouTube Shorts中运行，支持图像和音频功能。—— 财联社、Techcrunch",
-      "datetime": "2026-05-20T00:03:28+00:00",
-      "views": "1.69K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29445",
-      "scraped_at": "2026-05-20T09:00:15.660946"
-    },
-    {
-      "id": "zaihuapd_41473",
-      "channel": "zaihuapd",
-      "text": "谷歌在搜索和 Chrome 中推出 AI 内容识别功能，OpenAI 推出 AI 生成图像验证工具谷歌宣布将 SynthID 识别工具引入搜索引擎和 Chrome 浏览器。用户现在可以通过 Google Lens 或“圈选即搜”功能，直接询问某张图片是否由 AI 生成。该系统基于 C2PA 行业标准和内置元数据进行验证，目前已支持图像、视频和音频检测，旨在提高数字内容的透明度。此外，谷歌正与 OpenAI、英伟达和 ElevenLabs 等厂商合作，扩大 AI 内容的可追溯范围。OpenAI 也提供了专门的验证工具，用于检测图片是否包含由其旗下产品产生的来源信号。该工具可识别 C2PA 元数据和 SynthID 水印，支持检测 ChatGPT、OpenAI API 或 Codex 生成的内容。用户上传单张图片即可查看检测结果。9To5Google|OpenAI·备用频道·",
-      "clean_text": "谷歌在搜索和 Chrome 中推出 AI 内容识别功能，OpenAI 推出 AI 生成图像验证工具谷歌宣布将 SynthID 识别工具引入搜索引擎和 Chrome 浏览器。用户现在可以通过 Google Lens 或“圈选即搜”功能，直接询问某张图片是否由 AI 生成。该系统基于 C2PA 行业标准和内置元数据进行验证，目前已支持图像、视频和音频检测，旨在提高数字内容的透明度。此外，谷歌正与 OpenAI、英伟达和 ElevenLabs 等厂商合作，扩大 AI 内容的可追溯范围。OpenAI 也提供了专门的验证工具，用于检测图片是否包含由其旗下产品产生的来源信号。该工具可识别 C2PA 元数据和 SynthID 水印，支持检测 ChatGPT、OpenAI API 或 Codex 生成的内容。用户上传单张图片即可查看检测结果。9To5Google|OpenAI·备用频道",
-      "datetime": "2026-05-20T00:03:09+00:00",
-      "views": "3.27K",
-      "source_links": [
-        {
-          "text": "9To5Google",
-          "url": "https://9to5google.com/2026/05/19/google-is-adding-ai-detection-for-photos-videos-and-audio-to-search-and-chrome/"
-        },
-        {
-          "text": "OpenAI",
-          "url": "https://openai.com/research/verify/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41473",
-      "scraped_at": "2026-05-20T09:00:14.490298"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1265,5 +1253,5 @@
     }
   ],
   "count": 64,
-  "updated_at": "2026-05-21T11:59:54.355367"
+  "updated_at": "2026-05-21T12:04:57.437434"
 }
