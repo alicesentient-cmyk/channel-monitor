@@ -1209,22 +1209,6 @@
       "scraped_at": "2026-05-20T15:01:02.176254"
     },
     {
-      "id": "xhqcankao_29457",
-      "channel": "xhqcankao",
-      "text": "OpenAI让检查图片是否由其模型生成变得更容易随着AI图片生成器在网上广泛可用且比以往任何时候都更先进，判断一张图片是否真实从未如此困难。但在星期二，OpenAI宣布了两项新措施以帮助解决这个问题。该公司已承诺采用一种名为 C2PA 的开放标准，该标准会在元数据中添加一个明确的信号，表明图像是由AI生成的。OpenAI公司还在与谷歌合作，加入 SynthID 隐形水印，这种水印将更难被察觉，但如果恶意行为者试图掩盖痕迹，也更难被擦除。新保护措施仅适用于由OpenAI产品生成的图像，因此不会影响到来自信誉较差的AI工具的大量图像；这些措施可以有助于确保OpenAI不是问题的一部分。——Techcrunch",
-      "clean_text": "OpenAI让检查图片是否由其模型生成变得更容易随着AI图片生成器在网上广泛可用且比以往任何时候都更先进，判断一张图片是否真实从未如此困难。但在星期二，OpenAI宣布了两项新措施以帮助解决这个问题。该公司已承诺采用一种名为 C2PA 的开放标准，该标准会在元数据中添加一个明确的信号，表明图像是由AI生成的。OpenAI公司还在与谷歌合作，加入 SynthID 隐形水印，这种水印将更难被察觉，但如果恶意行为者试图掩盖痕迹，也更难被擦除。新保护措施仅适用于由OpenAI产品生成的图像，因此不会影响到来自信誉较差的AI工具的大量图像；这些措施可以有助于确保OpenAI不是问题的一部分。——Techcrunch",
-      "datetime": "2026-05-20T06:04:46+00:00",
-      "views": "2.22K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29457",
-      "scraped_at": "2026-05-20T15:01:02.175834"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1249,6 +1233,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-21T18:04:30.970675"
+  "count": 65,
+  "updated_at": "2026-05-21T18:09:34.459923"
 }
