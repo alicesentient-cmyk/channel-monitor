@@ -1,6 +1,86 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41495",
+      "channel": "zaihuapd",
+      "text": "OpenAI 开始给 ChatGPT 图片加上 Google SynthID 水印ChatGPT、Codex 和 OpenAI API 生成的图像，现在会同时带上 C2PA 元数据和 Google 的 SynthID 水印。元数据容易被平台压缩或意外擦除，SynthID 则能扛住截图和简单变换，两层标记让来源更难被抹干净。OpenAI 还上线了一个公开验证页，上传图片就能查是否带有自家模型的标记。没测出来不代表不是 AI 生成的——标记有可能被故意移除。这个方法目前只针对 OpenAI 自己的图，后续会支持更多来源，但对经常需要核实假图的人来说，多一重检测总是好的。The Verge·备用频道·",
+      "clean_text": "OpenAI 开始给 ChatGPT 图片加上 Google SynthID 水印ChatGPT、Codex 和 OpenAI API 生成的图像，现在会同时带上 C2PA 元数据和 Google 的 SynthID 水印。元数据容易被平台压缩或意外擦除，SynthID 则能扛住截图和简单变换，两层标记让来源更难被抹干净。OpenAI 还上线了一个公开验证页，上传图片就能查是否带有自家模型的标记。没测出来不代表不是 AI 生成的——标记有可能被故意移除。这个方法目前只针对 OpenAI 自己的图，后续会支持更多来源，但对经常需要核实假图的人来说，多一重检测总是好的。The Verge·备用频道",
+      "datetime": "2026-05-21T02:00:00+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/933442/openai-synthid-content-credentials-c2pa-expansion"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41495",
+      "scraped_at": "2026-05-21T10:00:12.207326"
+    },
+    {
+      "id": "zaihuapd_41494",
+      "channel": "zaihuapd",
+      "text": "特斯拉监督版 FSD 入华特斯拉今早在社交媒体 X 发文公布了监督版 FSD 的最新布局，其中提到监督版 FSD 可以在中国使用。Telsa·备用频道·",
+      "clean_text": "特斯拉监督版 FSD 入华特斯拉今早在社交媒体 X 发文公布了监督版 FSD 的最新布局，其中提到监督版 FSD 可以在中国使用。Telsa·备用频道",
+      "datetime": "2026-05-21T01:34:05+00:00",
+      "views": "3.02K",
+      "source_links": [
+        {
+          "text": "Telsa",
+          "url": "https://x.com/i/status/2057226337010745348"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41494",
+      "scraped_at": "2026-05-21T10:00:12.206832"
+    },
+    {
+      "id": "xhqcankao_29482",
+      "channel": "xhqcankao",
+      "text": "特朗普移动公司可能正在泄露客户地址正当T1手机看似即将发布之际，特朗普移动被指控不安全地存储客户数据，导致地址和电话号码面临泄露风险。这起安全事件还揭示了T1手机已被预订的数量，而这一数字远低于网络上疯传的数据。博主 Coffeezilla 是首个报道这一明显安全事件的人，他得到了一位匿名人士的提示，该人士发现了特朗普移动网站中的 “漏洞”。该黑客称他们既能够为这款手机下虚假订单，也能够“抓取并搜索整个预购数据库”，访问电邮、电话号码和邮寄地址，但不能访问信用卡详细信息。由于该事件包含为该手机下达的每一笔订单，也暗示了已经有多少订单。据称，“大约有1万名独立客户以及3万笔独立手机订单”。——The Verge",
+      "clean_text": "特朗普移动公司可能正在泄露客户地址正当T1手机看似即将发布之际，特朗普移动被指控不安全地存储客户数据，导致地址和电话号码面临泄露风险。这起安全事件还揭示了T1手机已被预订的数量，而这一数字远低于网络上疯传的数据。博主 Coffeezilla 是首个报道这一明显安全事件的人，他得到了一位匿名人士的提示，该人士发现了特朗普移动网站中的 “漏洞”。该黑客称他们既能够为这款手机下虚假订单，也能够“抓取并搜索整个预购数据库”，访问电邮、电话号码和邮寄地址，但不能访问信用卡详细信息。由于该事件包含为该手机下达的每一笔订单，也暗示了已经有多少订单。据称，“大约有1万名独立客户以及3万笔独立手机订单”。——The Verge",
+      "datetime": "2026-05-21T01:32:11+00:00",
+      "views": "1.28K",
+      "source_links": [
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29482",
+      "scraped_at": "2026-05-21T10:00:13.400361"
+    },
+    {
+      "id": "xhqcankao_29481",
+      "channel": "xhqcankao",
+      "text": "研究揭示中国官方语料如何渗透全球AI自然杂志上周发表了一篇研究论文。一个由七名研究人员组成的团队，发表了首份经过同行评审的证据，表明中国官方控制的媒体已经渗透到世界日益依赖的AI聊天机器人的训练数据中。新华社、人民日报以及共产党的 “学习强国” 应用每天大量炮制的统一口径文章、官方口号和符合党内口径的措辞，如今已被证明存在于ChatGPT和其他主流聊天机器人中。研究人员梳理了 CulturaX 开源中文数据集。研究发现，该语料库中官方媒体内容的数量比中文维基百科高出41倍。绝大多数情况下，聊天机器人中文回答更偏向中国政府，英文回答没有中文回答那么偏向中国。但 DeepSeek ：无论输入的是英文还是中文，其V4 Pro模型都表现一致地亲北京。——华尔街日报",
+      "clean_text": "研究揭示中国官方语料如何渗透全球AI自然杂志上周发表了一篇研究论文。一个由七名研究人员组成的团队，发表了首份经过同行评审的证据，表明中国官方控制的媒体已经渗透到世界日益依赖的AI聊天机器人的训练数据中。新华社、人民日报以及共产党的 “学习强国” 应用每天大量炮制的统一口径文章、官方口号和符合党内口径的措辞，如今已被证明存在于ChatGPT和其他主流聊天机器人中。研究人员梳理了 CulturaX 开源中文数据集。研究发现，该语料库中官方媒体内容的数量比中文维基百科高出41倍。绝大多数情况下，聊天机器人中文回答更偏向中国政府，英文回答没有中文回答那么偏向中国。但 DeepSeek ：无论输入的是英文还是中文，其V4 Pro模型都表现一致地亲北京。——华尔街日报",
+      "datetime": "2026-05-21T01:01:55+00:00",
+      "views": "2.16K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/%E7%A0%94%E7%A9%B6%E6%8F%AD%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E8%AF%AD%E6%96%99%E5%A6%82%E4%BD%95%E6%B8%97%E9%80%8F%E5%85%A8%E7%90%83ai-f38eb926?mod=cn_hp_lead_pos3"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29481",
+      "scraped_at": "2026-05-21T10:00:13.399994"
+    },
+    {
       "id": "zaihuapd_41493",
       "channel": "zaihuapd",
       "text": "Google暂不在Gemini应用中投放广告，专注AI搜索商业化  Google全球广告副总裁Dan Taylor表示，公司目前没有在Gemini AI应用中投放广告的计划，而是将重点放在AI搜索功能的广告投放上。Google已在AI Overviews和AI Mode中引入广告，其中AI Overviews月活跃用户超过20亿。  Taylor解释称搜索和Gemini是互补工具，搜索帮助用户发现信息，Gemini则是AI助手。相比之下，OpenAI面临盈利压力，分析师认为其延迟在ChatGPT中推出广告可能面临风险。…",
@@ -1156,6 +1236,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 59,
-  "updated_at": "2026-05-21T09:58:30.893432"
+  "count": 63,
+  "updated_at": "2026-05-21T10:03:34.390629"
 }
