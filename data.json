@@ -1223,26 +1223,6 @@
       "scraped_at": "2026-05-20T11:00:27.681835"
     },
     {
-      "id": "xhqcankao_29450",
-      "channel": "xhqcankao",
-      "text": "OpenAI联合创始人卡帕西加盟AnthropicAI领域顶级研究员安德烈·卡帕西正式宣布加入 Anthropic。作为OpenAI创始成员及前特斯拉AI总监，卡帕西此举被视为Anthropic在顶尖AI人才争夺战中的重大突破，进一步巩固了该公司作为行业精英聚集地的地位。卡帕西将于本周正式入职 Anthropic 的预训练团队。该团队负责Claude大模型的预训练工作，直接决定了模型的核心知识储备与基础能力。据了解，他将重点主导建立一支全新的团队，探索利用Claude自身的能力来加速预训练研究，这是当前AI企业竞相推动人工智能开发自动化的关键前沿方向。——凤凰网科技、Techcrunch",
-      "clean_text": "OpenAI联合创始人卡帕西加盟AnthropicAI领域顶级研究员安德烈·卡帕西正式宣布加入 Anthropic。作为OpenAI创始成员及前特斯拉AI总监，卡帕西此举被视为Anthropic在顶尖AI人才争夺战中的重大突破，进一步巩固了该公司作为行业精英聚集地的地位。卡帕西将于本周正式入职 Anthropic 的预训练团队。该团队负责Claude大模型的预训练工作，直接决定了模型的核心知识储备与基础能力。据了解，他将重点主导建立一支全新的团队，探索利用Claude自身的能力来加速预训练研究，这是当前AI企业竞相推动人工智能开发自动化的关键前沿方向。——凤凰网科技、Techcrunch",
-      "datetime": "2026-05-20T02:33:27+00:00",
-      "views": "1.27K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006mzRn53tQL9n5H-_5mDD22mdByxmQRtOF3fe9D5iYNmKpBFIhRtcI7bjJ-_juRm2az--"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29450",
-      "scraped_at": "2026-05-20T11:00:28.931653"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1267,6 +1247,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 65,
-  "updated_at": "2026-05-21T14:31:45.655752"
+  "count": 64,
+  "updated_at": "2026-05-21T14:36:49.614161"
 }
