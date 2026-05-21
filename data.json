@@ -1031,22 +1031,6 @@
       "scraped_at": "2026-05-20T23:00:16.717732"
     },
     {
-      "id": "xhqcankao_29475",
-      "channel": "xhqcankao",
-      "text": "黑客从GitHub数千个内部仓库中窃取了数据微软旗下的流行开发者平台GitHub确认其被黑客攻击，攻击者从大约3800个内部代码仓库中窃取了数据。这个代码托管和分享巨头在 X 上的一系列帖子中表示，“没有证据表明对存储在GitHub内部仓库之外的客户信息造成影响”，但指出其调查仍在进行中。GitHub 表示，平台检测并遏制了一起涉及‘被投毒’的 VS Code 扩展的员工设备遭入侵事件，指的是Visual Studio Code的一个插件。黑客正越来越多地以流行的开源项目为目标，包括编程扩展，目的是入侵开发者的计算机及其项目。以流行项目为目标，使黑客能够同时访问大量计算机，从而放大其攻击的影响。——Techcrunch",
-      "clean_text": "黑客从GitHub数千个内部仓库中窃取了数据微软旗下的流行开发者平台GitHub确认其被黑客攻击，攻击者从大约3800个内部代码仓库中窃取了数据。这个代码托管和分享巨头在 X 上的一系列帖子中表示，“没有证据表明对存储在GitHub内部仓库之外的客户信息造成影响”，但指出其调查仍在进行中。GitHub 表示，平台检测并遏制了一起涉及‘被投毒’的 VS Code 扩展的员工设备遭入侵事件，指的是Visual Studio Code的一个插件。黑客正越来越多地以流行的开源项目为目标，包括编程扩展，目的是入侵开发者的计算机及其项目。以流行项目为目标，使黑客能够同时访问大量计算机，从而放大其攻击的影响。——Techcrunch",
-      "datetime": "2026-05-20T14:35:15+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29475",
-      "scraped_at": "2026-05-20T23:00:18.565235"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1095,6 +1079,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 60,
-  "updated_at": "2026-05-22T02:31:38.883791"
+  "count": 59,
+  "updated_at": "2026-05-22T02:36:42.314426"
 }
