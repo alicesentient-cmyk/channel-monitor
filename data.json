@@ -1243,30 +1243,6 @@
       "scraped_at": "2026-05-20T11:00:28.931653"
     },
     {
-      "id": "zaihuapd_41475",
-      "channel": "zaihuapd",
-      "text": "Gemini CLI 将于 6 月 18 日停止为免费及 Pro/Ultra 用户服务，Antigravity CLI 上线谷歌宣布，2026 年 6 月 18 日起，Gemini CLI 和 Gemini Code Assist IDE 扩展将停止为免费用户及 Google AI Pro、Ultra 用户提供服务。同步上线的 Antigravity CLI 作为 Antigravity 2.0 平台的一部分，保留了 Agent Skills、Hooks 等核心功能。已付费的 Gemini Code Assist Standard 或 Enterprise 授权用户不受影响，可继续使用现有工具或尝试 Antigravity CLI。官方已提供迁移文档，并将发布视频指南。Google Developers Blog·备用频道·",
-      "clean_text": "Gemini CLI 将于 6 月 18 日停止为免费及 Pro/Ultra 用户服务，Antigravity CLI 上线谷歌宣布，2026 年 6 月 18 日起，Gemini CLI 和 Gemini Code Assist IDE 扩展将停止为免费用户及 Google AI Pro、Ultra 用户提供服务。同步上线的 Antigravity CLI 作为 Antigravity 2.0 平台的一部分，保留了 Agent Skills、Hooks 等核心功能。已付费的 Gemini Code Assist Standard 或 Enterprise 授权用户不受影响，可继续使用现有工具或尝试 Antigravity CLI。官方已提供迁移文档，并将发布视频指南。Google Developers Blog·备用频道",
-      "datetime": "2026-05-20T02:13:15+00:00",
-      "views": "4.8K",
-      "source_links": [
-        {
-          "text": "Google Developers Blog",
-          "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41475",
-      "scraped_at": "2026-05-20T11:00:27.681283"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1291,6 +1267,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-21T14:11:31.277345"
+  "count": 65,
+  "updated_at": "2026-05-21T14:16:35.329009"
 }
