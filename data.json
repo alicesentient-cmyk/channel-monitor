@@ -1212,22 +1212,6 @@
       "scraped_at": "2026-05-20T10:00:52.430366"
     },
     {
-      "id": "xhqcankao_29446",
-      "channel": "xhqcankao",
-      "text": "Discord为所有用户启用端到端加密的通话社交平台巨头 Discord 已为每位用户开启了端到端加密的语音和视频信息功能。端到端加密功能意味着 Discord 用户现在可以私密地进行交流，而无需担心任何其他人能够窃听他们的通话，甚至连 Discord 也不行。这对于社区数亿用户来说是一个重大的隐私胜利。Discord 平台在2024年推出了端到端加密的语音和视频通话功能，并在周一将该功能推广至每个用户，无需任何操作。Discord 核心技术副总裁马克·史密斯在一篇博客文章中说道：“端到端加密现已成为 Discord上除舞台频道外的每个语音和视频通话的标准配置。无需选择加入。”——Techcrunch",
-      "clean_text": "Discord为所有用户启用端到端加密的通话社交平台巨头 Discord 已为每位用户开启了端到端加密的语音和视频信息功能。端到端加密功能意味着 Discord 用户现在可以私密地进行交流，而无需担心任何其他人能够窃听他们的通话，甚至连 Discord 也不行。这对于社区数亿用户来说是一个重大的隐私胜利。Discord 平台在2024年推出了端到端加密的语音和视频通话功能，并在周一将该功能推广至每个用户，无需任何操作。Discord 核心技术副总裁马克·史密斯在一篇博客文章中说道：“端到端加密现已成为 Discord上除舞台频道外的每个语音和视频通话的标准配置。无需选择加入。”——Techcrunch",
-      "datetime": "2026-05-20T00:30:00+00:00",
-      "views": "1.12K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29446",
-      "scraped_at": "2026-05-20T09:00:15.661310"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1252,6 +1236,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 64,
-  "updated_at": "2026-05-21T12:25:11.896980"
+  "count": 63,
+  "updated_at": "2026-05-21T12:30:14.911038"
 }
