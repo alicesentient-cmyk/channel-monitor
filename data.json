@@ -1169,30 +1169,6 @@
       "scraped_at": "2026-05-20T16:00:42.377684"
     },
     {
-      "id": "zaihuapd_41482",
-      "channel": "zaihuapd",
-      "text": "千问发布 Qwen3.7-Max，主打智能体长程自主执行千问大模型正式发布新一代旗舰模型 Qwen3.7-Max，专为智能体场景打造，即将通过阿里云百炼 API 提供服务。该模型在编程、办公自动化和长周期任务中展现跨框架泛化能力，在一项为期 35 小时、超过 1000 次工具调用的节点内核优化实验中，无需接触目标硬件即可自主迭代并取得 10 倍平均加速。Qwen3.7-Max 在 SWE-Pro、MCP-Mark、GPQA Diamond 等多个基准上取得领先成绩，并可无缝集成 Claude Code、OpenClaw、Qwen Code 等主流框架，提升了在超千步决策中的策略一致性。千问大模型·备用频道·",
-      "clean_text": "千问发布 Qwen3.7-Max，主打智能体长程自主执行千问大模型正式发布新一代旗舰模型 Qwen3.7-Max，专为智能体场景打造，即将通过阿里云百炼 API 提供服务。该模型在编程、办公自动化和长周期任务中展现跨框架泛化能力，在一项为期 35 小时、超过 1000 次工具调用的节点内核优化实验中，无需接触目标硬件即可自主迭代并取得 10 倍平均加速。Qwen3.7-Max 在 SWE-Pro、MCP-Mark、GPQA Diamond 等多个基准上取得领先成绩，并可无缝集成 Claude Code、OpenClaw、Qwen Code 等主流框架，提升了在超千步决策中的策略一致性。千问大模型·备用频道",
-      "datetime": "2026-05-20T06:45:00+00:00",
-      "views": "2.34K",
-      "source_links": [
-        {
-          "text": "千问大模型",
-          "url": "https://mp.weixin.qq.com/s/aAWHw7itcNx9pIEinZIOPA"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41482",
-      "scraped_at": "2026-05-20T15:00:59.917716"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1217,6 +1193,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 64,
-  "updated_at": "2026-05-21T18:39:58.685249"
+  "count": 63,
+  "updated_at": "2026-05-21T18:45:02.982436"
 }
