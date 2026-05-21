@@ -1095,26 +1095,6 @@
       "scraped_at": "2026-05-20T20:00:59.774731"
     },
     {
-      "id": "xhqcankao_29468",
-      "channel": "xhqcankao",
-      "text": "谷歌Gemini取消按次计费全面转向算力计量谷歌正式取消了Gemini原有的每日固定提问次数限制，转而采用 “基于算力消耗” 的新计量模式。新规则将综合考量用户提示词的复杂度、所调用功能以及对话历史的长度。用户的算力额度将每五小时刷新一次，并设有每周最高上限。谷歌还推出了每月 100美元的全新AI Ultra基础版方案，主要面向开发者与技术主管，提供比Pro方案高5倍的算力额度，并捆绑20TB云存储及YouTube Premium权益。同时，最高阶的AI Ultra旗舰版月费由250美元下调至200美元，算力额度达标准用户的20倍。月费20美元的AI Pro用户将免费获赠 YouTube Lite 会员，而月费8美元的 AI Plus用户的算力额度则为标准用户的2倍。——凤凰网科技、9to5google",
-      "clean_text": "谷歌Gemini取消按次计费全面转向算力计量谷歌正式取消了Gemini原有的每日固定提问次数限制，转而采用 “基于算力消耗” 的新计量模式。新规则将综合考量用户提示词的复杂度、所调用功能以及对话历史的长度。用户的算力额度将每五小时刷新一次，并设有每周最高上限。谷歌还推出了每月 100美元的全新AI Ultra基础版方案，主要面向开发者与技术主管，提供比Pro方案高5倍的算力额度，并捆绑20TB云存储及YouTube Premium权益。同时，最高阶的AI Ultra旗舰版月费由250美元下调至200美元，算力额度达标准用户的20倍。月费20美元的AI Pro用户将免费获赠 YouTube Lite 会员，而月费8美元的 AI Plus用户的算力额度则为标准用户的2倍。——凤凰网科技、9to5google",
-      "datetime": "2026-05-20T11:04:07+00:00",
-      "views": "2.26K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006--jTE-_4UWBjPUfst0LiM5OrzSefAN--y3LrYefZRLEl5Cz9Cw44-_RPR1o0PMdOoa6W"
-        },
-        {
-          "text": "9to5google",
-          "url": "https://9to5google.com/2026/05/19/google-is-bundling-youtube-premium-lite-into-its-best-storage-plan-heres-where/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29468",
-      "scraped_at": "2026-05-20T20:00:59.774336"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1163,6 +1143,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 64,
-  "updated_at": "2026-05-21T23:03:45.445441"
+  "count": 63,
+  "updated_at": "2026-05-21T23:08:49.750459"
 }
