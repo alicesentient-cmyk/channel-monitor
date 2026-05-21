@@ -943,30 +943,6 @@
       "scraped_at": "2026-05-21T07:00:47.582777"
     },
     {
-      "id": "zaihuapd_41491",
-      "channel": "zaihuapd",
-      "text": "bilibili 远古时代装机猿  测试 国产显卡砺算 LX 7G100  vs 3060视频地址·备用频道·",
-      "clean_text": "bilibili 远古时代装机猿  测试 国产显卡砺算 LX 7G100  vs 3060视频地址·备用频道",
-      "datetime": "2026-05-20T17:36:14+00:00",
-      "views": "1.54K",
-      "source_links": [
-        {
-          "text": "视频地址",
-          "url": "https://www.bilibili.com/video/av116606097164410"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41491",
-      "scraped_at": "2026-05-21T02:00:47.099440"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1015,6 +991,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 56,
-  "updated_at": "2026-05-22T05:33:46.029481"
+  "count": 55,
+  "updated_at": "2026-05-22T05:38:49.167697"
 }
