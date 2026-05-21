@@ -1173,50 +1173,6 @@
       "scraped_at": "2026-05-20T14:00:25.637437"
     },
     {
-      "id": "xhqcankao_29456",
-      "channel": "xhqcankao",
-      "text": "SpaceX将在IPO后收购AI编程公司Cursor知情人士称，SpaceX预计将在其启动首次公开招股(IPO)，开始公开交易30天后，推进对AI编程创业公司Cursor的收购。据彭博社此前报道，SpaceX最早将于本周三公开招股书，并于6月12日上市。如果计划顺利进行，SpaceX有望在7月完成对Cursor的收购。知情人士称，如果交易未能完成，SpaceX将向Cursor支付100亿美元的现金分手费。这笔交易将增强SpaceX的AI编程能力，该公司即将通过此次IPO打破多项纪录。SpaceX正寻求募资高达750亿美元，估值超过2万亿美元。——凤凰网科技、彭博社",
-      "clean_text": "SpaceX将在IPO后收购AI编程公司Cursor知情人士称，SpaceX预计将在其启动首次公开招股(IPO)，开始公开交易30天后，推进对AI编程创业公司Cursor的收购。据彭博社此前报道，SpaceX最早将于本周三公开招股书，并于6月12日上市。如果计划顺利进行，SpaceX有望在7月完成对Cursor的收购。知情人士称，如果交易未能完成，SpaceX将向Cursor支付100亿美元的现金分手费。这笔交易将增强SpaceX的AI编程能力，该公司即将通过此次IPO打破多项纪录。SpaceX正寻求募资高达750亿美元，估值超过2万亿美元。——凤凰网科技、彭博社",
-      "datetime": "2026-05-20T05:30:36+00:00",
-      "views": "1.31K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006eC2wwSM6vt8xlXA--iYRxXYEYJ9ZLwB8J1LZhH9EplTQ6iRqbop3O--gRGvtR9GeHZ"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-19/spacex-is-said-to-plan-to-buy-startup-cursor-30-days-after-ipo"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29456",
-      "scraped_at": "2026-05-20T14:00:26.934993"
-    },
-    {
-      "id": "zaihuapd_41480",
-      "channel": "zaihuapd",
-      "text": "谷歌将 YouTube Premium Lite 免费加入 AI Pro 计划，覆盖 35 个国家和地区谷歌在 20 美元/月的 AI Pro 个人计划中免费加入 YouTube Premium Lite，该服务可免除非音乐视频广告、支持后台播放和下载。计划本身还包含 5 TB 云存储，性价比更高。顶级 AI Ultra 计划（100 美元/月）则持续提供完整 YouTube Premium。AI Pro 用户还能折扣订阅完整 Premium，最高可享半价优惠。本次调整在美洲、欧洲、亚洲、非洲等 35 个国家和地区生效。9To5Google·备用频道·",
-      "clean_text": "谷歌将 YouTube Premium Lite 免费加入 AI Pro 计划，覆盖 35 个国家和地区谷歌在 20 美元/月的 AI Pro 个人计划中免费加入 YouTube Premium Lite，该服务可免除非音乐视频广告、支持后台播放和下载。计划本身还包含 5 TB 云存储，性价比更高。顶级 AI Ultra 计划（100 美元/月）则持续提供完整 YouTube Premium。AI Pro 用户还能折扣订阅完整 Premium，最高可享半价优惠。本次调整在美洲、欧洲、亚洲、非洲等 35 个国家和地区生效。9To5Google·备用频道",
-      "datetime": "2026-05-20T05:30:00+00:00",
-      "views": "3.49K",
-      "source_links": [
-        {
-          "text": "9To5Google",
-          "url": "https://9to5google.com/2026/05/19/google-is-bundling-youtube-premium-lite-into-its-best-storage-plan-heres-where/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41480",
-      "scraped_at": "2026-05-20T14:00:25.636965"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1241,6 +1197,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 65,
-  "updated_at": "2026-05-21T17:29:06.556970"
+  "count": 63,
+  "updated_at": "2026-05-21T17:34:09.743684"
 }
