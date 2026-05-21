@@ -1,6 +1,86 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29511",
+      "channel": "xhqcankao",
+      "text": "Anthropic正在谈判使用微软人工智能芯片据The Information报道，人工智能初创公司Anthropic PBC正在谈判租用微软公司的人工智能服务器芯片，这家初创公司寻求提升计算能力并满足对其服务的需求。与谷歌和亚马逊一样，微软公司也在自主研发芯片，以努力减少对英伟达公司半导体的依赖。据上述科技新闻网站援引知情人士报道，该公司的Maia芯片将为Anthropic提供另一种运行其Claude模型的方式。据报道，谈判处于早期阶段，可能不会达成协议。微软公司的股价在周四早盘交易中上涨约2%。——彭博社",
+      "clean_text": "Anthropic正在谈判使用微软人工智能芯片据The Information报道，人工智能初创公司Anthropic PBC正在谈判租用微软公司的人工智能服务器芯片，这家初创公司寻求提升计算能力并满足对其服务的需求。与谷歌和亚马逊一样，微软公司也在自主研发芯片，以努力减少对英伟达公司半导体的依赖。据上述科技新闻网站援引知情人士报道，该公司的Maia芯片将为Anthropic提供另一种运行其Claude模型的方式。据报道，谈判处于早期阶段，可能不会达成协议。微软公司的股价在周四早盘交易中上涨约2%。——彭博社",
+      "datetime": "2026-05-21T15:59:01+00:00",
+      "views": "117",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-21/anthropic-in-talks-to-use-microsoft-ai-chips-information-says"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29511",
+      "scraped_at": "2026-05-22T00:00:17.587017"
+    },
+    {
+      "id": "xhqcankao_29510",
+      "channel": "xhqcankao",
+      "text": "美国将向九家量子计算公司划拨20亿美元美国政府将向九家量子计算公司划拨20亿美元，政府将获得股权。IBM 将获得这笔协议中的10亿美元资金，而Global Foundries将获得 3.75 亿美元的款项，以推动新兴量子计算行业的发展。除初创公司Diraq预计将获得3800万美元外，其余公司预计都将获得 1 亿美元，D-Wave Quantum、Rigetti Computing、Infleqtion等一系列致力于量子计算研究的公司将在列。预计获得资金的其他量子初创公司还包括Atom Computing、PsiQuantum、Quantiniuum，政府将获得每家量子计算公司的少数股权，这些交易仍有待完成。——英国金融时报、财联社、彭博社",
+      "clean_text": "美国将向九家量子计算公司划拨20亿美元美国政府将向九家量子计算公司划拨20亿美元，政府将获得股权。IBM 将获得这笔协议中的10亿美元资金，而Global Foundries将获得 3.75 亿美元的款项，以推动新兴量子计算行业的发展。除初创公司Diraq预计将获得3800万美元外，其余公司预计都将获得 1 亿美元，D-Wave Quantum、Rigetti Computing、Infleqtion等一系列致力于量子计算研究的公司将在列。预计获得资金的其他量子初创公司还包括Atom Computing、PsiQuantum、Quantiniuum，政府将获得每家量子计算公司的少数股权，这些交易仍有待完成。——英国金融时报、财联社、彭博社",
+      "datetime": "2026-05-21T15:32:08+00:00",
+      "views": "1.2K",
+      "source_links": [
+        {
+          "text": "英国金融时报",
+          "url": "https://www.ft.com/content/92baf913-8987-4c65-82da-311e80f773b0"
+        },
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378153?&amp;sv=8.5.9&amp;"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-21/trump-administration-pledges-2-billion-for-quantum-firms-wsj"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29510",
+      "scraped_at": "2026-05-22T00:00:17.586672"
+    },
+    {
+      "id": "zaihuapd_41510",
+      "channel": "zaihuapd",
+      "text": "DeepSeek API 更新限速与隔离文档：V4 模型并发限制及 user_id 隔离功能DeepSeek API 对账号并发限制做了说明，deepseek-v4-pro 模型并发为 500，deepseek-v4-flash 并发为 2500。超出限制会返回 HTTP 429 错误。有更高需求的用户可免费申请扩容。新引入的 user_id 参数支持在同一账号下做更细粒度的管理，包括内容安全、KVCache 和调度隔离。对于普通 API 用户，所有 user_id 合并计算并发；已提升配额的账号，除了会限制账号下的总并发外，每个 user_id 也会受与模型对应的单用户并发限制。DeepSeek API Docs·备用频道·",
+      "clean_text": "DeepSeek API 更新限速与隔离文档：V4 模型并发限制及 user_id 隔离功能DeepSeek API 对账号并发限制做了说明，deepseek-v4-pro 模型并发为 500，deepseek-v4-flash 并发为 2500。超出限制会返回 HTTP 429 错误。有更高需求的用户可免费申请扩容。新引入的 user_id 参数支持在同一账号下做更细粒度的管理，包括内容安全、KVCache 和调度隔离。对于普通 API 用户，所有 user_id 合并计算并发；已提升配额的账号，除了会限制账号下的总并发外，每个 user_id 也会受与模型对应的单用户并发限制。DeepSeek API Docs·备用频道",
+      "datetime": "2026-05-21T15:03:52+00:00",
+      "views": "4.87K",
+      "source_links": [
+        {
+          "text": "DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/zh-cn/quick_start/rate_limit"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41510",
+      "scraped_at": "2026-05-22T00:00:15.385594"
+    },
+    {
+      "id": "xhqcankao_29509",
+      "channel": "xhqcankao",
+      "text": "俄罗斯有官方背景的 MAX 应用秘密录制用户音频并监控 VPN俄罗斯安全论坛 Habr 上的一位用户声称，俄罗斯官方支持的即时通讯服务 MAX 包含用于监视用户活动的侵入性工具。该研究人员声称已经对该应用程序的 APK 进行了逆向工程，并发现了至少 15 个安全问题。分析指出，该应用能够截取对话屏幕截图、秘密录制音频、创建虚假聊天记录以及直接删除消息。此外，据称 MAX 还被发现会绕过 Google Play 强制执行更新、与其服务器共享通讯录详情，以及检测用户是否启用了VPN。——TechRadar",
+      "clean_text": "俄罗斯有官方背景的 MAX 应用秘密录制用户音频并监控 VPN俄罗斯安全论坛 Habr 上的一位用户声称，俄罗斯官方支持的即时通讯服务 MAX 包含用于监视用户活动的侵入性工具。该研究人员声称已经对该应用程序的 APK 进行了逆向工程，并发现了至少 15 个安全问题。分析指出，该应用能够截取对话屏幕截图、秘密录制音频、创建虚假聊天记录以及直接删除消息。此外，据称 MAX 还被发现会绕过 Google Play 强制执行更新、与其服务器共享通讯录详情，以及检测用户是否启用了VPN。——TechRadar",
+      "datetime": "2026-05-21T15:03:31+00:00",
+      "views": "2.26K",
+      "source_links": [
+        {
+          "text": "TechRadar",
+          "url": "https://www.techradar.com/vpn/vpn-privacy-security/russian-researcher-claims-state-backed-max-app-secretly-records-users-and-monitors-vpns"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29509",
+      "scraped_at": "2026-05-22T00:00:17.586279"
+    },
+    {
       "id": "xhqcankao_29508",
       "channel": "xhqcankao",
       "text": "诈骗分子滥用微软内部账户发送垃圾链接数月来，诈骗分子一直在利用一个漏洞，该漏洞允许他们从一个通常用于发送合法账户警报的微软公司内部电子邮件地址发送垃圾邮件。目前尚不清楚诈骗分子是如何滥用该系统的，但他们已经能够像新用户一样设置新的微软账户，并利用该权限发送据称来自这家科技巨头本身的电子邮件。这些制作粗糙的电子邮件是从msonlineservicesteam @ microsoftonline.com发送的，这是微软用来向用户发送重要通知的电子邮件帐户。反垃圾邮件非营利组织Spamhaus Project在周二的一篇社交帖子中表示，其也看到了微软的账户通知电子邮件地址被滥用于发送垃圾邮件，并且该活动可追溯到“数月前”。——Techcrunch",
@@ -1039,22 +1119,6 @@
       "scraped_at": "2026-05-20T21:00:34.876370"
     },
     {
-      "id": "xhqcankao_29470",
-      "channel": "xhqcankao",
-      "text": "DeepSeek组建Harness团队 入局编程智能体DeepSeek公司正在推进Agent (智能体)产品化。近日，DeepSeek接连发布了两个Agent Harness相关岗位：Agent Harness产品经理和 Agent Harness 研发工程师。根据职位描述，DeepSeek正在将前沿模型能力转化为领先的Agent产品，其中除模型本身以外的所有工作，都属于 Harness 的范畴。入职者将加入 Harness 团队，与工程师、研究员、产品经理协作，参与Deepseek桌面端Agent产品研发的全过程，定义DeepSeek对Harness的理解。此前有媒体报道称，DeepSeek内部正在组织一个新的 Harness 团队，方向是编程智能体产品，内部对标Claude Code。——科创板日报",
-      "clean_text": "DeepSeek组建Harness团队 入局编程智能体DeepSeek公司正在推进Agent (智能体)产品化。近日，DeepSeek接连发布了两个Agent Harness相关岗位：Agent Harness产品经理和 Agent Harness 研发工程师。根据职位描述，DeepSeek正在将前沿模型能力转化为领先的Agent产品，其中除模型本身以外的所有工作，都属于 Harness 的范畴。入职者将加入 Harness 团队，与工程师、研究员、产品经理协作，参与Deepseek桌面端Agent产品研发的全过程，定义DeepSeek对Harness的理解。此前有媒体报道称，DeepSeek内部正在组织一个新的 Harness 团队，方向是编程智能体产品，内部对标Claude Code。——科创板日报",
-      "datetime": "2026-05-20T12:00:50+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "科创板日报",
-          "url": "https://www.chinastarmarket.cn/detail/2376780"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29470",
-      "scraped_at": "2026-05-20T20:00:59.775049"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1103,6 +1167,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 61,
-  "updated_at": "2026-05-21T23:59:32.207577"
+  "count": 64,
+  "updated_at": "2026-05-22T00:04:36.894764"
 }
