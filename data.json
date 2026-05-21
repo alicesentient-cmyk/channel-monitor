@@ -1,6 +1,66 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41496",
+      "channel": "zaihuapd",
+      "text": "营收井喷式增长，Anthropic 有望迎来首个盈利季度受益于企业端 AI 服务的爆发式需求，Anthropic 预计将在今年第二季度实现历史上首次季度盈利。最新数据显示，该公司第二季度营收预计将从第一季度的 48 亿美元飙升至 109 亿美元，环比增长超 130%，并预计录得 5.59 亿美元的运营利润，成功扭亏为盈，有力证明了生成式 AI 在企业级市场的强劲变现能力。通过计算，Anthropic 年化收入运行率已达到惊人的 440 亿美元，当前的季度营收增速甚至超越了疫情时期的 Zoom，以及当年 IPO 前夕的谷歌和 Meta。Anthropic 在实现利润破局的同时，也正在资本市场加速冲刺，进一步巩固其在全球 AI 领域的顶级独角兽地位。Bloomberg|WSJ·备用频道·",
+      "clean_text": "营收井喷式增长，Anthropic 有望迎来首个盈利季度受益于企业端 AI 服务的爆发式需求，Anthropic 预计将在今年第二季度实现历史上首次季度盈利。最新数据显示，该公司第二季度营收预计将从第一季度的 48 亿美元飙升至 109 亿美元，环比增长超 130%，并预计录得 5.59 亿美元的运营利润，成功扭亏为盈，有力证明了生成式 AI 在企业级市场的强劲变现能力。通过计算，Anthropic 年化收入运行率已达到惊人的 440 亿美元，当前的季度营收增速甚至超越了疫情时期的 Zoom，以及当年 IPO 前夕的谷歌和 Meta。Anthropic 在实现利润破局的同时，也正在资本市场加速冲刺，进一步巩固其在全球 AI 领域的顶级独角兽地位。Bloomberg|WSJ·备用频道",
+      "datetime": "2026-05-21T02:45:00+00:00",
+      "views": "2.17K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-20/anthropic-on-pace-for-first-profitable-quarter-as-revenue-surges?srnd=phx-technology"
+        },
+        {
+          "text": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4?mod=tech_lead_pos5"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41496",
+      "scraped_at": "2026-05-21T11:00:31.637235"
+    },
+    {
+      "id": "xhqcankao_29484",
+      "channel": "xhqcankao",
+      "text": "OpenAI开创“算力换股权”玩法：奥尔特曼向数百家YC创企发出邀约OpenAI掌门奥尔特曼周二在出席创业孵化器Y Combinator的活动期间宣布，OpenAI愿意向所有参与YC加速营的初创企业投资两百万美元。不过他们拿到的不是美元，而是OpenAI提供的AI算力额度。奥尔特曼随后在社媒上说，期待看到 “疯狂烧代币” 的创业公司会发生什么，无论是它们的内部运作方式，以及具体能构建什么产品。奥尔特曼也确认，这个投资提议适用于当前YC加速营批次的所有初创公司。奥尔特曼的提议是YC与OpenAI为春季和夏季加速营推出的一个试点项目。该提议以 “未来股权简单提议” 的形式构建。这些初创公司将立即收到代币，而OpenAI的持股比例将在创业公司下一轮融资期间确认。——财联社",
+      "clean_text": "OpenAI开创“算力换股权”玩法：奥尔特曼向数百家YC创企发出邀约OpenAI掌门奥尔特曼周二在出席创业孵化器Y Combinator的活动期间宣布，OpenAI愿意向所有参与YC加速营的初创企业投资两百万美元。不过他们拿到的不是美元，而是OpenAI提供的AI算力额度。奥尔特曼随后在社媒上说，期待看到 “疯狂烧代币” 的创业公司会发生什么，无论是它们的内部运作方式，以及具体能构建什么产品。奥尔特曼也确认，这个投资提议适用于当前YC加速营批次的所有初创公司。奥尔特曼的提议是YC与OpenAI为春季和夏季加速营推出的一个试点项目。该提议以 “未来股权简单提议” 的形式构建。这些初创公司将立即收到代币，而OpenAI的持股比例将在创业公司下一轮融资期间确认。——财联社",
+      "datetime": "2026-05-21T02:32:15+00:00",
+      "views": "1.3K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2376724?sv=8.5.9"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29484",
+      "scraped_at": "2026-05-21T11:00:32.865745"
+    },
+    {
+      "id": "xhqcankao_29483",
+      "channel": "xhqcankao",
+      "text": "Intuit将裁掉三千多名员工以重新专注于AI据路透社援引发送给员工的一份内部备忘录报道，企业软件巨头 Intuit 正在裁掉其 17% 的员工，即约 3,000 人，因为这家公司寻求将资源转向将人工智能融入其产品中。据路透社报道，公司首席执行官萨桑·古达齐的备忘录称，此次裁员旨在通过简化公司结构来降低复杂性，并帮助公司专注于AI工作。根据公司的年度报告，该公司拥有 TurboTax、QuickBooks和Credit Karma等财务会计、税务和个人财务软件，截至 2025年7月在全球拥有 18,200 名员工。Intuit 没有立即回复置评请求，也没有回应关于其管理层、董事或首席执行官是否会减薪的问题。——Techcrunch",
+      "clean_text": "Intuit将裁掉三千多名员工以重新专注于AI据路透社援引发送给员工的一份内部备忘录报道，企业软件巨头 Intuit 正在裁掉其 17% 的员工，即约 3,000 人，因为这家公司寻求将资源转向将人工智能融入其产品中。据路透社报道，公司首席执行官萨桑·古达齐的备忘录称，此次裁员旨在通过简化公司结构来降低复杂性，并帮助公司专注于AI工作。根据公司的年度报告，该公司拥有 TurboTax、QuickBooks和Credit Karma等财务会计、税务和个人财务软件，截至 2025年7月在全球拥有 18,200 名员工。Intuit 没有立即回复置评请求，也没有回应关于其管理层、董事或首席执行官是否会减薪的问题。——Techcrunch",
+      "datetime": "2026-05-21T02:00:23+00:00",
+      "views": "2.06K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29483",
+      "scraped_at": "2026-05-21T11:00:32.865384"
+    },
+    {
       "id": "zaihuapd_41495",
       "channel": "zaihuapd",
       "text": "OpenAI 开始给 ChatGPT 图片加上 Google SynthID 水印ChatGPT、Codex 和 OpenAI API 生成的图像，现在会同时带上 C2PA 元数据和 Google 的 SynthID 水印。元数据容易被平台压缩或意外擦除，SynthID 则能扛住截图和简单变换，两层标记让来源更难被抹干净。OpenAI 还上线了一个公开验证页，上传图片就能查是否带有自家模型的标记。没测出来不代表不是 AI 生成的——标记有可能被故意移除。这个方法目前只针对 OpenAI 自己的图，后续会支持更多来源，但对经常需要核实假图的人来说，多一重检测总是好的。The Verge·备用频道·",
@@ -1196,22 +1256,6 @@
       "scraped_at": "2026-05-20T08:00:44.609325"
     },
     {
-      "id": "xhqcankao_29443",
-      "channel": "xhqcankao",
-      "text": "谷歌宣布推出 Gemini 3.5 系列 AI 模型谷歌宣布推出Gemini 3.5系列模型，以及一款用于模拟物理世界的新型AI模型。谷歌在周二举行的年度开发者大会上发布了上述消息。周二公司重点展示了Gemini 3.5 Flash，这是该系列的一款轻量级产品。谷歌首席执行官桑达尔·皮查伊表示，Gemini 3.5 Flash在提供尖端能力的同时，其成本仅为同类顶尖模型的一半，甚至有时不到三分之一，同时保持了高智能水平。皮查伊称Gemini 3.5 Flash“速度极快”。谷歌同时宣布，该型号将成为全球Gemini应用和搜索AI模式的默认模型。至于 Gemini 3.5 Pro ，目前仅在内部使用，预计下月才会向更广泛的用户开放。——财联社",
-      "clean_text": "谷歌宣布推出 Gemini 3.5 系列 AI 模型谷歌宣布推出Gemini 3.5系列模型，以及一款用于模拟物理世界的新型AI模型。谷歌在周二举行的年度开发者大会上发布了上述消息。周二公司重点展示了Gemini 3.5 Flash，这是该系列的一款轻量级产品。谷歌首席执行官桑达尔·皮查伊表示，Gemini 3.5 Flash在提供尖端能力的同时，其成本仅为同类顶尖模型的一半，甚至有时不到三分之一，同时保持了高智能水平。皮查伊称Gemini 3.5 Flash“速度极快”。谷歌同时宣布，该型号将成为全球Gemini应用和搜索AI模式的默认模型。至于 Gemini 3.5 Pro ，目前仅在内部使用，预计下月才会向更广泛的用户开放。——财联社",
-      "datetime": "2026-05-19T23:02:03+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2376047?sv=8.5.9"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29443",
-      "scraped_at": "2026-05-20T08:00:44.608945"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1236,6 +1280,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 63,
-  "updated_at": "2026-05-21T10:59:13.306412"
+  "count": 65,
+  "updated_at": "2026-05-21T11:04:16.354361"
 }
