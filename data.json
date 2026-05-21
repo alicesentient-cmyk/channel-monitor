@@ -1140,30 +1140,6 @@
       "scraped_at": "2026-05-20T17:00:12.795299"
     },
     {
-      "id": "zaihuapd_41484",
-      "channel": "zaihuapd",
-      "text": "iOS 26 信息过滤上线：验证码能提醒，陌生短信单独看iOS 26 的「信息」应用支持筛选未知发件人，陌生消息会进入独立列表，用户也可以保留时间敏感通知，避免漏掉验证码和配送提醒。垃圾短信可左滑删除并举报，误判进垃圾文件夹的消息也能恢复到主列表。AppleInsider·备用频道·",
-      "clean_text": "iOS 26 信息过滤上线：验证码能提醒，陌生短信单独看iOS 26 的「信息」应用支持筛选未知发件人，陌生消息会进入独立列表，用户也可以保留时间敏感通知，避免漏掉验证码和配送提醒。垃圾短信可左滑删除并举报，误判进垃圾文件夹的消息也能恢复到主列表。AppleInsider·备用频道",
-      "datetime": "2026-05-20T08:15:00+00:00",
-      "views": "4.91K",
-      "source_links": [
-        {
-          "text": "AppleInsider",
-          "url": "https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41484",
-      "scraped_at": "2026-05-20T17:00:11.412611"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1212,6 +1188,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 65,
-  "updated_at": "2026-05-21T20:11:12.264883"
+  "count": 64,
+  "updated_at": "2026-05-21T20:16:15.899083"
 }
