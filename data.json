@@ -1055,30 +1055,6 @@
       "scraped_at": "2026-05-20T20:00:59.775049"
     },
     {
-      "id": "zaihuapd_41487",
-      "channel": "zaihuapd",
-      "text": "摩根士丹利向香港投行员工发放赴内地专用 iPhone摩根士丹利今年早些时候向 300 多名香港投行员工发放专用 iPhone 和 iPad，供前往中国内地时使用。设备功能受限，主要只能访问工作邮箱和线上会议应用，以满足数据安全与合规要求。这一做法显示，跨境数据管控已经影响到银行员工的日常出差安排。报道还提到，高盛和摩根大通目前尚未为赴内地员工实行类似的旅行设备政策。Financial Times·备用频道·",
-      "clean_text": "摩根士丹利向香港投行员工发放赴内地专用 iPhone摩根士丹利今年早些时候向 300 多名香港投行员工发放专用 iPhone 和 iPad，供前往中国内地时使用。设备功能受限，主要只能访问工作邮箱和线上会议应用，以满足数据安全与合规要求。这一做法显示，跨境数据管控已经影响到银行员工的日常出差安排。报道还提到，高盛和摩根大通目前尚未为赴内地员工实行类似的旅行设备政策。Financial Times·备用频道",
-      "datetime": "2026-05-20T11:52:06+00:00",
-      "views": "1.34K",
-      "source_links": [
-        {
-          "text": "Financial Times",
-          "url": "https://www.ft.com/content/7674f883-1f58-4601-a291-d94d25ea8b20?syn-25a6b1a6=1"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41487",
-      "scraped_at": "2026-05-20T20:00:57.401132"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1127,6 +1103,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 62,
-  "updated_at": "2026-05-21T23:49:25.354558"
+  "count": 61,
+  "updated_at": "2026-05-21T23:54:28.783696"
 }
