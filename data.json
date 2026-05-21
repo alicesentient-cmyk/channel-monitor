@@ -1152,46 +1152,6 @@
       "scraped_at": "2026-05-20T17:00:12.794927"
     },
     {
-      "id": "xhqcankao_29460",
-      "channel": "xhqcankao",
-      "text": "美CISA向公开网络暴露大量密码和云密钥美国网络安全机构CISA可能躲过了一次大规模安全漏洞，这要感谢一位善意的安全研究员，他发现了允许访问政府云服务和机构内部系统的公开暴露的凭证。GitGuardian安全研究员Guillaume Valadon在电子表格中发现了大量公开的明文凭证，这些电子表格被一名为CISA承包商工作的员工在GitHub仓库中设置为公开可访问。Valadon表示，这些公开的凭证被用于访问属于CISA及其上级机构国土安全部的系统。这些凭证包括访问令牌、云密钥和其他敏感文件。对此，CISA发言人迪桑德罗表示，该机构已得知所报告的暴露事件，并正在继续调查情况，并且没有迹象表明任何敏感数据因这一事件而遭到泄露。——Techcrunch",
-      "clean_text": "美CISA向公开网络暴露大量密码和云密钥美国网络安全机构CISA可能躲过了一次大规模安全漏洞，这要感谢一位善意的安全研究员，他发现了允许访问政府云服务和机构内部系统的公开暴露的凭证。GitGuardian安全研究员Guillaume Valadon在电子表格中发现了大量公开的明文凭证，这些电子表格被一名为CISA承包商工作的员工在GitHub仓库中设置为公开可访问。Valadon表示，这些公开的凭证被用于访问属于CISA及其上级机构国土安全部的系统。这些凭证包括访问令牌、云密钥和其他敏感文件。对此，CISA发言人迪桑德罗表示，该机构已得知所报告的暴露事件，并正在继续调查情况，并且没有迹象表明任何敏感数据因这一事件而遭到泄露。——Techcrunch",
-      "datetime": "2026-05-20T07:30:38+00:00",
-      "views": "1.73K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29460",
-      "scraped_at": "2026-05-20T16:00:42.378034"
-    },
-    {
-      "id": "zaihuapd_41483",
-      "channel": "zaihuapd",
-      "text": "阿里云发布真武 M890 AI 芯片5 月 20 日的 2026 阿里云峰会上，阿里云发布平头哥训推一体 AI 芯片真武 M890 和 ICN Switch 互联芯片，该芯片已用于磐久 AL128 号节点服务器。阿里云资深副总裁刘伟光表示，从芯片、模型到云服务和应用，阿里云已完成全栈打通。刘伟光认为，AI Agent 已从跑完业务流程转向直接交付结果，产生过去无法实现的产出。阿里云希望以此赋能各行业 AI 转型。新浪科技·备用频道·",
-      "clean_text": "阿里云发布真武 M890 AI 芯片5 月 20 日的 2026 阿里云峰会上，阿里云发布平头哥训推一体 AI 芯片真武 M890 和 ICN Switch 互联芯片，该芯片已用于磐久 AL128 号节点服务器。阿里云资深副总裁刘伟光表示，从芯片、模型到云服务和应用，阿里云已完成全栈打通。刘伟光认为，AI Agent 已从跑完业务流程转向直接交付结果，产生过去无法实现的产出。阿里云希望以此赋能各行业 AI 转型。新浪科技·备用频道",
-      "datetime": "2026-05-20T07:30:00+00:00",
-      "views": "3.27K",
-      "source_links": [
-        {
-          "text": "新浪科技",
-          "url": "https://finance.sina.com.cn/tech/shenji/2026-05-20/doc-inhypaen2740802.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41483",
-      "scraped_at": "2026-05-20T16:00:41.098907"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1216,6 +1176,6 @@
       "scraped_at": "2026-05-20T03:00:25.177109"
     }
   ],
-  "count": 65,
-  "updated_at": "2026-05-21T19:25:33.719250"
+  "count": 63,
+  "updated_at": "2026-05-21T19:30:38.037358"
 }
