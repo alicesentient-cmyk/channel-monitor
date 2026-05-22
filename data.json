@@ -927,30 +927,6 @@
       "scraped_at": "2026-05-21T17:00:24.186585"
     },
     {
-      "id": "zaihuapd_41502",
-      "channel": "zaihuapd",
-      "text": "AMD 发布 Ryzen AI Max 400 系列处理器，内存上限提升至 192 GBAMD 发布 Ryzen AI Max 400 系列处理器，为 Strix Halo 平台升级版，面向 AI 开发场景。新系列统一内存上限从 128 GB 提高到 192 GB，其中集显最多可分得 160 GB 显存，官方称足以运行 3000 亿参数以上的大语言模型。同时 CPU 最高加速频率提升至 5.2 GHz，GPU 提升至 3.0 GHz，NPU 算力最高达 55 TOPS，比前代高约一成。首发三款均为 PRO 商用型号：旗舰 495 为 16 核 CPU 加 40CU 集显；490 和 485 分别为 12 核与 8 核，均配 32CU 集显。AMD 还将推出搭载该系列与 192 GB 内存的 Halo 设备，消费版本计划今年晚些时候上市。TechPowerUp·备用频道·",
-      "clean_text": "AMD 发布 Ryzen AI Max 400 系列处理器，内存上限提升至 192 GBAMD 发布 Ryzen AI Max 400 系列处理器，为 Strix Halo 平台升级版，面向 AI 开发场景。新系列统一内存上限从 128 GB 提高到 192 GB，其中集显最多可分得 160 GB 显存，官方称足以运行 3000 亿参数以上的大语言模型。同时 CPU 最高加速频率提升至 5.2 GHz，GPU 提升至 3.0 GHz，NPU 算力最高达 55 TOPS，比前代高约一成。首发三款均为 PRO 商用型号：旗舰 495 为 16 核 CPU 加 40CU 集显；490 和 485 分别为 12 核与 8 核，均配 32CU 集显。AMD 还将推出搭载该系列与 192 GB 内存的 Halo 设备，消费版本计划今年晚些时候上市。TechPowerUp·备用频道",
-      "datetime": "2026-05-21T08:15:00+00:00",
-      "views": "4.45K",
-      "source_links": [
-        {
-          "text": "TechPowerUp",
-          "url": "https://www.techpowerup.com/349218/amd-launches-the-ryzen-ai-max-400-series-processors-strix-halo-gets-a-memory-upgrade"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41502",
-      "scraped_at": "2026-05-21T17:00:22.529885"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -999,6 +975,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 53,
-  "updated_at": "2026-05-22T20:14:25.384443"
+  "count": 52,
+  "updated_at": "2026-05-22T20:19:35.845692"
 }
