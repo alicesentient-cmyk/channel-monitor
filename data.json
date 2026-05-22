@@ -961,46 +961,6 @@
       "scraped_at": "2026-05-22T00:00:17.586672"
     },
     {
-      "id": "zaihuapd_41510",
-      "channel": "zaihuapd",
-      "text": "DeepSeek API 更新限速与隔离文档：V4 模型并发限制及 user_id 隔离功能DeepSeek API 对账号并发限制做了说明，deepseek-v4-pro 模型并发为 500，deepseek-v4-flash 并发为 2500。超出限制会返回 HTTP 429 错误。有更高需求的用户可免费申请扩容。新引入的 user_id 参数支持在同一账号下做更细粒度的管理，包括内容安全、KVCache 和调度隔离。对于普通 API 用户，所有 user_id 合并计算并发；已提升配额的账号，除了会限制账号下的总并发外，每个 user_id 也会受与模型对应的单用户并发限制。DeepSeek API Docs·备用频道·",
-      "clean_text": "DeepSeek API 更新限速与隔离文档：V4 模型并发限制及 user_id 隔离功能DeepSeek API 对账号并发限制做了说明，deepseek-v4-pro 模型并发为 500，deepseek-v4-flash 并发为 2500。超出限制会返回 HTTP 429 错误。有更高需求的用户可免费申请扩容。新引入的 user_id 参数支持在同一账号下做更细粒度的管理，包括内容安全、KVCache 和调度隔离。对于普通 API 用户，所有 user_id 合并计算并发；已提升配额的账号，除了会限制账号下的总并发外，每个 user_id 也会受与模型对应的单用户并发限制。DeepSeek API Docs·备用频道",
-      "datetime": "2026-05-21T15:03:52+00:00",
-      "views": "4.87K",
-      "source_links": [
-        {
-          "text": "DeepSeek API Docs",
-          "url": "https://api-docs.deepseek.com/zh-cn/quick_start/rate_limit"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41510",
-      "scraped_at": "2026-05-22T00:00:15.385594"
-    },
-    {
-      "id": "xhqcankao_29509",
-      "channel": "xhqcankao",
-      "text": "俄罗斯有官方背景的 MAX 应用秘密录制用户音频并监控 VPN俄罗斯安全论坛 Habr 上的一位用户声称，俄罗斯官方支持的即时通讯服务 MAX 包含用于监视用户活动的侵入性工具。该研究人员声称已经对该应用程序的 APK 进行了逆向工程，并发现了至少 15 个安全问题。分析指出，该应用能够截取对话屏幕截图、秘密录制音频、创建虚假聊天记录以及直接删除消息。此外，据称 MAX 还被发现会绕过 Google Play 强制执行更新、与其服务器共享通讯录详情，以及检测用户是否启用了VPN。——TechRadar",
-      "clean_text": "俄罗斯有官方背景的 MAX 应用秘密录制用户音频并监控 VPN俄罗斯安全论坛 Habr 上的一位用户声称，俄罗斯官方支持的即时通讯服务 MAX 包含用于监视用户活动的侵入性工具。该研究人员声称已经对该应用程序的 APK 进行了逆向工程，并发现了至少 15 个安全问题。分析指出，该应用能够截取对话屏幕截图、秘密录制音频、创建虚假聊天记录以及直接删除消息。此外，据称 MAX 还被发现会绕过 Google Play 强制执行更新、与其服务器共享通讯录详情，以及检测用户是否启用了VPN。——TechRadar",
-      "datetime": "2026-05-21T15:03:31+00:00",
-      "views": "2.26K",
-      "source_links": [
-        {
-          "text": "TechRadar",
-          "url": "https://www.techradar.com/vpn/vpn-privacy-security/russian-researcher-claims-state-backed-max-app-secretly-records-users-and-monitors-vpns"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29509",
-      "scraped_at": "2026-05-22T00:00:17.586279"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -1025,6 +985,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 56,
-  "updated_at": "2026-05-23T03:00:37.410552"
+  "count": 54,
+  "updated_at": "2026-05-23T03:05:41.813335"
 }
