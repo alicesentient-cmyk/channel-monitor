@@ -1124,26 +1124,6 @@
       "scraped_at": "2026-05-21T14:00:47.868335"
     },
     {
-      "id": "xhqcankao_29488",
-      "channel": "xhqcankao",
-      "text": "SpaceX正洽谈向其他公司提供AI计算服务马斯克发帖表示，SpaceX正向Anthropic公司提供大规模人工智能AI计算服务，并正在与其他公司洽谈提供类似服务。随着时间推移，尤其是随着在轨数据中心的建设，我们预计将以极高规模为AI提供服务。据一份证券披露文件，Anthropic PBC 已同意在未来三年内向埃隆·马斯克旗下的SpaceX支付近450亿美元，用于获取计算资源，这是为支持其Claude人工智能AI软件而扩大协议的一部分。SpaceX周三在其首次公开招股相关文件中披露，Anthropic预计将每月向马斯克的SpaceX支付12.5亿美元，直至2029年5月。——凤凰网科技、Techcrunch",
-      "clean_text": "SpaceX正洽谈向其他公司提供AI计算服务马斯克发帖表示，SpaceX正向Anthropic公司提供大规模人工智能AI计算服务，并正在与其他公司洽谈提供类似服务。随着时间推移，尤其是随着在轨数据中心的建设，我们预计将以极高规模为AI提供服务。据一份证券披露文件，Anthropic PBC 已同意在未来三年内向埃隆·马斯克旗下的SpaceX支付近450亿美元，用于获取计算资源，这是为支持其Claude人工智能AI软件而扩大协议的一部分。SpaceX周三在其首次公开招股相关文件中披露，Anthropic预计将每月向马斯克的SpaceX支付12.5亿美元，直至2029年5月。——凤凰网科技、Techcrunch",
-      "datetime": "2026-05-21T04:34:01+00:00",
-      "views": "1.05K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v0061mRAxK--1YhrdFgGiWW5uOiwQlR8JNOOK3zCCHSV4BBeTKPOXSZrfqaYXGF0sgWeh"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29488",
-      "scraped_at": "2026-05-21T13:00:24.120968"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1192,6 +1172,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 65,
-  "updated_at": "2026-05-22T16:31:46.840606"
+  "count": 64,
+  "updated_at": "2026-05-22T16:36:57.553075"
 }
