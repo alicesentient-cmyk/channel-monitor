@@ -1144,30 +1144,6 @@
       "scraped_at": "2026-05-21T13:00:24.120968"
     },
     {
-      "id": "zaihuapd_41497",
-      "channel": "zaihuapd",
-      "text": "OpenAI 计划最快本周提交 IPO 申请OpenAI 正与高盛、摩根士丹利等投行合作起草招股书，计划最快本周向监管机构秘密提交 IPO 申请，目标最早 9 月上市。公司本周刚在与马斯克的法律诉讼中胜诉，为上市扫清了一大障碍。不过 OpenAI 仍面临挑战，包括营收能否支撑巨额数据中心开支，以及 Anthropic 等对手在 AI 竞赛中快速追赶。马斯克表示将上诉，上市时间和计划仍可能有变。The Wall Street Journal·备用频道·",
-      "clean_text": "OpenAI 计划最快本周提交 IPO 申请OpenAI 正与高盛、摩根士丹利等投行合作起草招股书，计划最快本周向监管机构秘密提交 IPO 申请，目标最早 9 月上市。公司本周刚在与马斯克的法律诉讼中胜诉，为上市扫清了一大障碍。不过 OpenAI 仍面临挑战，包括营收能否支撑巨额数据中心开支，以及 Anthropic 等对手在 AI 竞赛中快速追赶。马斯克表示将上诉，上市时间和计划仍可能有变。The Wall Street Journal·备用频道",
-      "datetime": "2026-05-21T04:08:57+00:00",
-      "views": "3.92K",
-      "source_links": [
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41497",
-      "scraped_at": "2026-05-21T13:00:22.887474"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1216,6 +1192,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-22T16:06:13.971251"
+  "count": 65,
+  "updated_at": "2026-05-22T16:10:23.416472"
 }
