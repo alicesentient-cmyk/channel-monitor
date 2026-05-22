@@ -1104,34 +1104,6 @@
       "scraped_at": "2026-05-21T12:00:56.610476"
     },
     {
-      "id": "zaihuapd_41496",
-      "channel": "zaihuapd",
-      "text": "营收井喷式增长，Anthropic 有望迎来首个盈利季度受益于企业端 AI 服务的爆发式需求，Anthropic 预计将在今年第二季度实现历史上首次季度盈利。最新数据显示，该公司第二季度营收预计将从第一季度的 48 亿美元飙升至 109 亿美元，环比增长超 130%，并预计录得 5.59 亿美元的运营利润，成功扭亏为盈，有力证明了生成式 AI 在企业级市场的强劲变现能力。通过计算，Anthropic 年化收入运行率已达到惊人的 440 亿美元，当前的季度营收增速甚至超越了疫情时期的 Zoom，以及当年 IPO 前夕的谷歌和 Meta。Anthropic 在实现利润破局的同时，也正在资本市场加速冲刺，进一步巩固其在全球 AI 领域的顶级独角兽地位。Bloomberg|WSJ·备用频道·",
-      "clean_text": "营收井喷式增长，Anthropic 有望迎来首个盈利季度受益于企业端 AI 服务的爆发式需求，Anthropic 预计将在今年第二季度实现历史上首次季度盈利。最新数据显示，该公司第二季度营收预计将从第一季度的 48 亿美元飙升至 109 亿美元，环比增长超 130%，并预计录得 5.59 亿美元的运营利润，成功扭亏为盈，有力证明了生成式 AI 在企业级市场的强劲变现能力。通过计算，Anthropic 年化收入运行率已达到惊人的 440 亿美元，当前的季度营收增速甚至超越了疫情时期的 Zoom，以及当年 IPO 前夕的谷歌和 Meta。Anthropic 在实现利润破局的同时，也正在资本市场加速冲刺，进一步巩固其在全球 AI 领域的顶级独角兽地位。Bloomberg|WSJ·备用频道",
-      "datetime": "2026-05-21T02:45:00+00:00",
-      "views": "2.17K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-20/anthropic-on-pace-for-first-profitable-quarter-as-revenue-surges?srnd=phx-technology"
-        },
-        {
-          "text": "WSJ",
-          "url": "https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4?mod=tech_lead_pos5"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41496",
-      "scraped_at": "2026-05-21T11:00:31.637235"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1180,6 +1152,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 64,
-  "updated_at": "2026-05-22T14:40:15.455959"
+  "count": 63,
+  "updated_at": "2026-05-22T14:45:18.467164"
 }
