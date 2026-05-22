@@ -1,6 +1,38 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29526",
+      "channel": "xhqcankao",
+      "text": "智谱推出GLM-5.1高速版：400 tokens/s智谱宣布面向部分企业客户推出GLM-5.1高速版API“GLM-5.1-highspeed”，模型输出速度达到400 tokens/s。智谱称，这一速度刷新了当前全球大模型厂商 API 速度上限。该模型基于旗舰级GLM-5.1能力开发，打破了此前高速模型几乎总是轻量级模型的行业惯例，首次在国产大模型中实现旗舰级能力与极致低延迟的兼顾。高速版由智谱GLM团队与TileRT团队联合打造，通过推理引擎、调度系统与底层基础设施的系统级优化实现。据演示，在长程任务中，模型可在30秒内完成复杂网页的代码生成；在Agent Swarm场景下，可瞬间调度50个不同人格并行回答。——凤凰网科技",
+      "clean_text": "智谱推出GLM-5.1高速版：400 tokens/s智谱宣布面向部分企业客户推出GLM-5.1高速版API“GLM-5.1-highspeed”，模型输出速度达到400 tokens/s。智谱称，这一速度刷新了当前全球大模型厂商 API 速度上限。该模型基于旗舰级GLM-5.1能力开发，打破了此前高速模型几乎总是轻量级模型的行业惯例，首次在国产大模型中实现旗舰级能力与极致低延迟的兼顾。高速版由智谱GLM团队与TileRT团队联合打造，通过推理引擎、调度系统与底层基础设施的系统级优化实现。据演示，在长程任务中，模型可在30秒内完成复杂网页的代码生成；在Agent Swarm场景下，可瞬间调度50个不同人格并行回答。——凤凰网科技",
+      "datetime": "2026-05-22T05:32:52+00:00",
+      "views": "1.26K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006MUCnTVqbQ0pYCMrL3pCGGc8PzNHN977lptZuLaOkrSFH5fNrWVa--tAnz2N1TNPHi"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29526",
+      "scraped_at": "2026-05-22T14:00:52.490982"
+    },
+    {
+      "id": "xhqcankao_29525",
+      "channel": "xhqcankao",
+      "text": "Take-Two确认《GTA VI》游戏11月首发Take-Two互动软件公司证实《GTA VI》游戏11月19日的发布日期，缓解了人们对于这款有望成为史上最畅销电子游戏之一的作品可能会再次延期的担忧。首席执行官斯特劳斯·泽尔尼克在接受采访时表示，《 GTA VI 》的营销将于今年夏天开始。游戏的定价和预购信息也预计大约在那个时候公布。泽尔尼克表示，制造商因芯片短缺而实施的主机涨价 “不是什么好消息”，但他预计在游戏首发前不会出现任何与行业相关的挑战。“如果我们做好本职工作，推出优秀的作品，过去一年里，得益于我同事们的努力，我们在这点上全面做到了，那么消费者就会乐意买单。市场上没有任何事情让我特别担心，”他说。——彭博社",
+      "clean_text": "Take-Two确认《GTA VI》游戏11月首发Take-Two互动软件公司证实《GTA VI》游戏11月19日的发布日期，缓解了人们对于这款有望成为史上最畅销电子游戏之一的作品可能会再次延期的担忧。首席执行官斯特劳斯·泽尔尼克在接受采访时表示，《 GTA VI 》的营销将于今年夏天开始。游戏的定价和预购信息也预计大约在那个时候公布。泽尔尼克表示，制造商因芯片短缺而实施的主机涨价 “不是什么好消息”，但他预计在游戏首发前不会出现任何与行业相关的挑战。“如果我们做好本职工作，推出优秀的作品，过去一年里，得益于我同事们的努力，我们在这点上全面做到了，那么消费者就会乐意买单。市场上没有任何事情让我特别担心，”他说。——彭博社",
+      "datetime": "2026-05-22T05:02:46+00:00",
+      "views": "2.24K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-21/take-two-confirms-november-debut-for-grand-theft-auto-vi"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29525",
+      "scraped_at": "2026-05-22T14:00:52.490611"
+    },
+    {
       "id": "zaihuapd_41516",
       "channel": "zaihuapd",
       "text": "智谱 GLM-5.1 高速版面向部分企业客户开放 输出速度达 400 tokens/sGLM-5.1-HighSpeed 是 GLM-5.1 的高速版本，输出速度达到 400 tokens/s。该模型仅面向智谱 BigModel 开放平台部分企业客户定向开放。它支持 Function Call、JSON 等结构化输出和 MCP，主打低延迟场景，包括 Coding Agent、多轮代码生成、实时 UI 构建、运营问答、语音助手和实时客服等。智谱 AI·备用频道·",
@@ -1116,46 +1148,6 @@
       "scraped_at": "2026-05-21T11:00:32.865745"
     },
     {
-      "id": "xhqcankao_29483",
-      "channel": "xhqcankao",
-      "text": "Intuit将裁掉三千多名员工以重新专注于AI据路透社援引发送给员工的一份内部备忘录报道，企业软件巨头 Intuit 正在裁掉其 17% 的员工，即约 3,000 人，因为这家公司寻求将资源转向将人工智能融入其产品中。据路透社报道，公司首席执行官萨桑·古达齐的备忘录称，此次裁员旨在通过简化公司结构来降低复杂性，并帮助公司专注于AI工作。根据公司的年度报告，该公司拥有 TurboTax、QuickBooks和Credit Karma等财务会计、税务和个人财务软件，截至 2025年7月在全球拥有 18,200 名员工。Intuit 没有立即回复置评请求，也没有回应关于其管理层、董事或首席执行官是否会减薪的问题。——Techcrunch",
-      "clean_text": "Intuit将裁掉三千多名员工以重新专注于AI据路透社援引发送给员工的一份内部备忘录报道，企业软件巨头 Intuit 正在裁掉其 17% 的员工，即约 3,000 人，因为这家公司寻求将资源转向将人工智能融入其产品中。据路透社报道，公司首席执行官萨桑·古达齐的备忘录称，此次裁员旨在通过简化公司结构来降低复杂性，并帮助公司专注于AI工作。根据公司的年度报告，该公司拥有 TurboTax、QuickBooks和Credit Karma等财务会计、税务和个人财务软件，截至 2025年7月在全球拥有 18,200 名员工。Intuit 没有立即回复置评请求，也没有回应关于其管理层、董事或首席执行官是否会减薪的问题。——Techcrunch",
-      "datetime": "2026-05-21T02:00:23+00:00",
-      "views": "2.06K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29483",
-      "scraped_at": "2026-05-21T11:00:32.865384"
-    },
-    {
-      "id": "zaihuapd_41495",
-      "channel": "zaihuapd",
-      "text": "OpenAI 开始给 ChatGPT 图片加上 Google SynthID 水印ChatGPT、Codex 和 OpenAI API 生成的图像，现在会同时带上 C2PA 元数据和 Google 的 SynthID 水印。元数据容易被平台压缩或意外擦除，SynthID 则能扛住截图和简单变换，两层标记让来源更难被抹干净。OpenAI 还上线了一个公开验证页，上传图片就能查是否带有自家模型的标记。没测出来不代表不是 AI 生成的——标记有可能被故意移除。这个方法目前只针对 OpenAI 自己的图，后续会支持更多来源，但对经常需要核实假图的人来说，多一重检测总是好的。The Verge·备用频道·",
-      "clean_text": "OpenAI 开始给 ChatGPT 图片加上 Google SynthID 水印ChatGPT、Codex 和 OpenAI API 生成的图像，现在会同时带上 C2PA 元数据和 Google 的 SynthID 水印。元数据容易被平台压缩或意外擦除，SynthID 则能扛住截图和简单变换，两层标记让来源更难被抹干净。OpenAI 还上线了一个公开验证页，上传图片就能查是否带有自家模型的标记。没测出来不代表不是 AI 生成的——标记有可能被故意移除。这个方法目前只针对 OpenAI 自己的图，后续会支持更多来源，但对经常需要核实假图的人来说，多一重检测总是好的。The Verge·备用频道",
-      "datetime": "2026-05-21T02:00:00+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/933442/openai-synthid-content-credentials-c2pa-expansion"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41495",
-      "scraped_at": "2026-05-21T10:00:12.207326"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1205,5 +1197,5 @@
     }
   ],
   "count": 65,
-  "updated_at": "2026-05-22T13:59:45.820693"
+  "updated_at": "2026-05-22T14:04:50.085435"
 }
