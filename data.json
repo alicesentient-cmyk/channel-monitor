@@ -1057,30 +1057,6 @@
       "scraped_at": "2026-05-21T15:00:16.100456"
     },
     {
-      "id": "zaihuapd_41499",
-      "channel": "zaihuapd",
-      "text": "黄仁勋：已基本放弃中国 AI 芯片市场Nvidia CEO 黄仁勋表示，受美国出口管制影响，Nvidia 已\"基本放弃\"中国 AI 芯片市场，将其让给华为等本土厂商。他透露公司已告诉投资者，对获得在华销售先进芯片的许可\"不要抱任何期望\"。中国市场曾占 Nvidia 数据中心收入至少五分之一，但今年 4 月特朗普政府要求对华出口芯片须取得许可证后，Nvidia 实质上已被排除在外。黄仁勋称华为及本地芯片生态表现非常强劲，而 Nvidia 正将资金用于支持供应链扩张，并推出 800 亿美元股票回购计划。CNBC·备用频道·",
-      "clean_text": "黄仁勋：已基本放弃中国 AI 芯片市场Nvidia CEO 黄仁勋表示，受美国出口管制影响，Nvidia 已\"基本放弃\"中国 AI 芯片市场，将其让给华为等本土厂商。他透露公司已告诉投资者，对获得在华销售先进芯片的许可\"不要抱任何期望\"。中国市场曾占 Nvidia 数据中心收入至少五分之一，但今年 4 月特朗普政府要求对华出口芯片须取得许可证后，Nvidia 实质上已被排除在外。黄仁勋称华为及本地芯片生态表现非常强劲，而 Nvidia 正将资金用于支持供应链扩张，并推出 800 亿美元股票回购计划。CNBC·备用频道",
-      "datetime": "2026-05-21T05:52:25+00:00",
-      "views": "2.01K",
-      "source_links": [
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41499",
-      "scraped_at": "2026-05-21T14:00:46.615879"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1129,6 +1105,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 61,
-  "updated_at": "2026-05-22T17:49:25.496355"
+  "count": 60,
+  "updated_at": "2026-05-22T17:54:36.878356"
 }
