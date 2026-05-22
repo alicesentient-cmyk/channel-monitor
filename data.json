@@ -1156,17 +1156,6 @@
       "scraped_at": "2026-05-21T10:00:13.399994"
     },
     {
-      "id": "zaihuapd_41493",
-      "channel": "zaihuapd",
-      "text": "Google暂不在Gemini应用中投放广告，专注AI搜索商业化  Google全球广告副总裁Dan Taylor表示，公司目前没有在Gemini AI应用中投放广告的计划，而是将重点放在AI搜索功能的广告投放上。Google已在AI Overviews和AI Mode中引入广告，其中AI Overviews月活跃用户超过20亿。  Taylor解释称搜索和Gemini是互补工具，搜索帮助用户发现信息，Gemini则是AI助手。相比之下，OpenAI面临盈利压力，分析师认为其延迟在ChatGPT中推出广告可能面临风险。…",
-      "clean_text": "Google暂不在Gemini应用中投放广告，专注AI搜索商业化  Google全球广告副总裁Dan Taylor表示，公司目前没有在Gemini AI应用中投放广告的计划，而是将重点放在AI搜索功能的广告投放上。Google已在AI Overviews和AI Mode中引入广告，其中AI Overviews月活跃用户超过20亿。  Taylor解释称搜索和Gemini是互补工具，搜索帮助用户发现信息，Gemini则是AI助手。相比之下，OpenAI面临盈利压力，分析师认为其延迟在ChatGPT中推出广告可能面临风险。…",
-      "datetime": "2026-05-21T00:48:31+00:00",
-      "views": "1.26K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41493",
-      "scraped_at": "2026-05-21T09:00:40.970414"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -1215,6 +1204,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-22T12:43:44.395699"
+  "count": 65,
+  "updated_at": "2026-05-22T12:48:50.364722"
 }
