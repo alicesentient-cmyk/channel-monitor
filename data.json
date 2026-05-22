@@ -696,22 +696,6 @@
       "scraped_at": "2026-05-21T21:00:41.463862"
     },
     {
-      "id": "xhqcankao_29504",
-      "channel": "xhqcankao",
-      "text": "你现可以用AI混剪他人的YouTube短视频谷歌宣布了一项新的YouTube Shorts混剪功能，允许用户使用 Gemini Omni 重新设计剪辑风格，甚至将自己插入他人的视频中。现在，在YouTube Shorts底部，当你点击混剪图标时，你会看到一个 “重新构想” 视频的选项。在这里，你可以提示Gemini将视频转换为像素艺术、动漫或伪纪录片恐怖片。但除此之外，你还可以通过例如放大头部、插入背景演员、给人们穿上海盗服装，甚至将自己放入剪辑中来改变内容。创作者可以启用或禁用重新构想视频的功能。如果你上传了关于你孩子的短视频，并且希望人们无法编辑，你可以关闭混剪功能。通过Omni混剪的短视频将带有数字水印并链接回原始视频。——TheVerge",
-      "clean_text": "你现可以用AI混剪他人的YouTube短视频谷歌宣布了一项新的YouTube Shorts混剪功能，允许用户使用 Gemini Omni 重新设计剪辑风格，甚至将自己插入他人的视频中。现在，在YouTube Shorts底部，当你点击混剪图标时，你会看到一个 “重新构想” 视频的选项。在这里，你可以提示Gemini将视频转换为像素艺术、动漫或伪纪录片恐怖片。但除此之外，你还可以通过例如放大头部、插入背景演员、给人们穿上海盗服装，甚至将自己放入剪辑中来改变内容。创作者可以启用或禁用重新构想视频的功能。如果你上传了关于你孩子的短视频，并且希望人们无法编辑，你可以关闭混剪功能。通过Omni混剪的短视频将带有数字水印并链接回原始视频。——TheVerge",
-      "datetime": "2026-05-21T12:31:25+00:00",
-      "views": "1.24K",
-      "source_links": [
-        {
-          "text": "TheVerge",
-          "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29504",
-      "scraped_at": "2026-05-21T21:00:42.829638"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -760,6 +744,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 40,
-  "updated_at": "2026-05-23T00:28:08.347149"
+  "count": 39,
+  "updated_at": "2026-05-23T00:33:19.778831"
 }
