@@ -871,22 +871,6 @@
       "scraped_at": "2026-05-21T18:00:55.046063"
     },
     {
-      "id": "xhqcankao_29497",
-      "channel": "xhqcankao",
-      "text": "文件显示xAI公司去年烧掉了64亿美元根据SpaceX的IPO文件，埃隆·马斯克的xAI在2025年仅32亿美元的收入上，运营亏损了64亿美元。并且亏损势将增长。SpaceX的文件揭示了将Grok扩展到数万亿参数的计划，这是一个戏剧性的提升，可能需要大量额外的计算支出。埃隆·马斯克在二月份将他的人工智能公司xAI与他的火箭和卫星公司 SpaceX 合并，之后宣布他将在今年将合并后的公司上市。该文件标志着首次公开窥见 xAI 的财务状况。2024年，xAI 在 26.2亿美元的收入上录得15.6亿美元的亏损。到2025年，亏损已激增至64亿美元，收入为32亿美元，这意味着xAI赚取与支出之间的差距正在扩大。——Techcrunch",
-      "clean_text": "文件显示xAI公司去年烧掉了64亿美元根据SpaceX的IPO文件，埃隆·马斯克的xAI在2025年仅32亿美元的收入上，运营亏损了64亿美元。并且亏损势将增长。SpaceX的文件揭示了将Grok扩展到数万亿参数的计划，这是一个戏剧性的提升，可能需要大量额外的计算支出。埃隆·马斯克在二月份将他的人工智能公司xAI与他的火箭和卫星公司 SpaceX 合并，之后宣布他将在今年将合并后的公司上市。该文件标志着首次公开窥见 xAI 的财务状况。2024年，xAI 在 26.2亿美元的收入上录得15.6亿美元的亏损。到2025年，亏损已激增至64亿美元，收入为32亿美元，这意味着xAI赚取与支出之间的差距正在扩大。——Techcrunch",
-      "datetime": "2026-05-21T09:00:52+00:00",
-      "views": "2.19K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29497",
-      "scraped_at": "2026-05-21T18:00:56.352320"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -935,6 +919,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 50,
-  "updated_at": "2026-05-22T20:55:48.932855"
+  "count": 49,
+  "updated_at": "2026-05-22T21:00:59.367057"
 }
