@@ -937,30 +937,6 @@
       "scraped_at": "2026-05-22T00:00:17.587017"
     },
     {
-      "id": "xhqcankao_29510",
-      "channel": "xhqcankao",
-      "text": "美国将向九家量子计算公司划拨20亿美元美国政府将向九家量子计算公司划拨20亿美元，政府将获得股权。IBM 将获得这笔协议中的10亿美元资金，而Global Foundries将获得 3.75 亿美元的款项，以推动新兴量子计算行业的发展。除初创公司Diraq预计将获得3800万美元外，其余公司预计都将获得 1 亿美元，D-Wave Quantum、Rigetti Computing、Infleqtion等一系列致力于量子计算研究的公司将在列。预计获得资金的其他量子初创公司还包括Atom Computing、PsiQuantum、Quantiniuum，政府将获得每家量子计算公司的少数股权，这些交易仍有待完成。——英国金融时报、财联社、彭博社",
-      "clean_text": "美国将向九家量子计算公司划拨20亿美元美国政府将向九家量子计算公司划拨20亿美元，政府将获得股权。IBM 将获得这笔协议中的10亿美元资金，而Global Foundries将获得 3.75 亿美元的款项，以推动新兴量子计算行业的发展。除初创公司Diraq预计将获得3800万美元外，其余公司预计都将获得 1 亿美元，D-Wave Quantum、Rigetti Computing、Infleqtion等一系列致力于量子计算研究的公司将在列。预计获得资金的其他量子初创公司还包括Atom Computing、PsiQuantum、Quantiniuum，政府将获得每家量子计算公司的少数股权，这些交易仍有待完成。——英国金融时报、财联社、彭博社",
-      "datetime": "2026-05-21T15:32:08+00:00",
-      "views": "1.2K",
-      "source_links": [
-        {
-          "text": "英国金融时报",
-          "url": "https://www.ft.com/content/92baf913-8987-4c65-82da-311e80f773b0"
-        },
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378153?&amp;sv=8.5.9&amp;"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-21/trump-administration-pledges-2-billion-for-quantum-firms-wsj"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29510",
-      "scraped_at": "2026-05-22T00:00:17.586672"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -985,6 +961,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 54,
-  "updated_at": "2026-05-23T03:31:02.171550"
+  "count": 53,
+  "updated_at": "2026-05-23T03:36:06.173347"
 }
