@@ -672,30 +672,6 @@
       "scraped_at": "2026-05-21T22:00:54.821059"
     },
     {
-      "id": "zaihuapd_41508",
-      "channel": "zaihuapd",
-      "text": "OLED MacBook Pro 屏幕量产进度恢复Samsung Display 据称已经解决 14 英寸和 16 英寸 OLED 面板的量产难题，良率超过 90%，部分结构件达到 95%。面板预计 6 月开始出货，2026 年产量约 200 万片。这批 MacBook Pro 会使用双层 OLED，也就是 Apple 在 iPad Pro 上用过的 tandem OLED。好处是画质和寿命更好，代价是制造更复杂、成本更高；真想换 OLED MacBook Pro 的用户，可能还得等到 2027 年初。AppleInsider·备用频道·",
-      "clean_text": "OLED MacBook Pro 屏幕量产进度恢复Samsung Display 据称已经解决 14 英寸和 16 英寸 OLED 面板的量产难题，良率超过 90%，部分结构件达到 95%。面板预计 6 月开始出货，2026 年产量约 200 万片。这批 MacBook Pro 会使用双层 OLED，也就是 Apple 在 iPad Pro 上用过的 tandem OLED。好处是画质和寿命更好，代价是制造更复杂、成本更高；真想换 OLED MacBook Pro 的用户，可能还得等到 2027 年初。AppleInsider·备用频道",
-      "datetime": "2026-05-21T12:45:44+00:00",
-      "views": "1.95K",
-      "source_links": [
-        {
-          "text": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/05/21/oled-macbook-pro-screens-on-schedule-after-manufacturing-difficulties"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41508",
-      "scraped_at": "2026-05-21T21:00:41.463862"
-    },
-    {
       "id": "zaihuapd_41470",
       "channel": "zaihuapd",
       "text": "谷歌发布 Gemini Omni 模型，支持对话式视频编辑谷歌推出全新多模态模型 Gemini Omni，支持通过图像、音频及文本的混合输入来生成和编辑视频。用户能以自然语言对话的方式修改视频内容，例如调整物理效果、变换角色或改变摄像机角度。目前，首个型号 Gemini Omni Flash 已通过 Gemini 应用向 Google AI Plus、Pro 和 Ultra 订阅用户开放，并同步登陆 Google Flow、YouTube Shorts 和 YouTube Create App。该模型具备对重力、流体力学等物理规律的直观理解，并能确保在多次编辑中保持角色的一致性。为了确保内容透明度，所有生成的视频都嵌入了 SynthID 数字水印。谷歌计划在未来几周向开发者开放 API，并逐步增加图像和音频的输出支持。Google·备用频道·",
@@ -744,6 +720,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 39,
-  "updated_at": "2026-05-23T00:43:37.058758"
+  "count": 38,
+  "updated_at": "2026-05-23T00:48:41.423499"
 }
