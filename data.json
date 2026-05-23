@@ -435,17 +435,6 @@
       "scraped_at": "2026-05-23T01:01:03.499718"
     },
     {
-      "id": "zaihuapd_41527",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 发布本次故障报告，全球网络故障 25 分钟，影响 28% HTTP 流量  12 月 5 日 08:47 UTC，Cloudflare 全球网络发生重大故障，持续约 25 分钟后于 09:12 完全恢复。此次故障影响了约 28% 的 HTTP 流量，主要波及使用旧版 FL1 代理且部署了 Cloudflare 托管规则集的客户。  故障源于 Cloudflare 在修复 React Server Components 安全漏洞 CVE-2025-55182 时（Next.js），对 WAF…",
-      "clean_text": "Cloudflare 发布本次故障报告，全球网络故障 25 分钟，影响 28% HTTP 流量  12 月 5 日 08:47 UTC，Cloudflare 全球网络发生重大故障，持续约 25 分钟后于 09:12 完全恢复。此次故障影响了约 28% 的 HTTP 流量，主要波及使用旧版 FL1 代理且部署了 Cloudflare 托管规则集的客户。  故障源于 Cloudflare 在修复 React Server Components 安全漏洞 CVE-2025-55182 时（Next.js），对 WAF…",
-      "datetime": "2026-05-22T16:15:58+00:00",
-      "views": "4.01K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41527",
-      "scraped_at": "2026-05-23T01:01:03.499173"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -470,6 +459,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 26,
-  "updated_at": "2026-05-24T04:13:18.117412"
+  "count": 25,
+  "updated_at": "2026-05-24T04:18:22.752463"
 }
