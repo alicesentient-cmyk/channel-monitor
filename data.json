@@ -875,38 +875,6 @@
       "scraped_at": "2026-05-22T12:00:22.523916"
     },
     {
-      "id": "zaihuapd_41514",
-      "channel": "zaihuapd",
-      "text": "美众议院委员会推进永久夏令时法案美国众议院能源与商务委员会以 48 比 1 通过一项更大立法包，其中纳入《阳光保护法案》，把永久实施夏令时的提案送交众议院全院审议。法案目标是取消美国每年两次调钟。若最终实施，多数地区将全年维持现在每年 3 月至 11 月使用的时间，不再在秋季把时钟调回去。该提案这次是作为交通相关法案的一部分推进，特朗普也公开表态支持。The Hill|House Committee on Energy and Commerce|WJTV·备用频道·",
-      "clean_text": "美众议院委员会推进永久夏令时法案美国众议院能源与商务委员会以 48 比 1 通过一项更大立法包，其中纳入《阳光保护法案》，把永久实施夏令时的提案送交众议院全院审议。法案目标是取消美国每年两次调钟。若最终实施，多数地区将全年维持现在每年 3 月至 11 月使用的时间，不再在秋季把时钟调回去。该提案这次是作为交通相关法案的一部分推进，特朗普也公开表态支持。The Hill|House Committee on Energy and Commerce|WJTV·备用频道",
-      "datetime": "2026-05-22T03:55:09+00:00",
-      "views": "909",
-      "source_links": [
-        {
-          "text": "The Hill",
-          "url": "https://thehill.com/homenews/house/5886117-daylight-saving-time-house-republicans-markup/"
-        },
-        {
-          "text": "House Committee on Energy and Commerce",
-          "url": "https://energycommerce.house.gov/"
-        },
-        {
-          "text": "WJTV",
-          "url": "https://www.wjtv.com/washington/washington-dc/permanent-daylight-saving-time-legislation-gains-traction-what-would-change/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41514",
-      "scraped_at": "2026-05-22T12:00:22.523331"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -931,6 +899,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 51,
-  "updated_at": "2026-05-23T15:51:36.094641"
+  "count": 50,
+  "updated_at": "2026-05-23T15:56:40.675774"
 }
