@@ -1,6 +1,78 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41533",
+      "channel": "zaihuapd",
+      "text": "苹果开源 corecrypto 密码库，附形式化验证证明量子安全算法正确性苹果在 5 月 22 日发布了 corecrypto 源代码，公开了用于对抗未来量子计算机的 ML-KEM 和 ML-DSA 算法实现，并首次提供了端到端的形式化验证数学证明。这些证明确保 C 代码和手工优化的 ARM64 汇编与 NIST 标准严格一致。量子安全加密已部署于 iMessage、VPN 等场景，而 corecrypto 为超过 25 亿台活跃设备提供基础加密运算。苹果同时公开了定制验证工具和 Isabelle 理论库，供独立专家评估，希望推动关键软件保障技术的进步。Apple Security Research·备用频道·",
+      "clean_text": "苹果开源 corecrypto 密码库，附形式化验证证明量子安全算法正确性苹果在 5 月 22 日发布了 corecrypto 源代码，公开了用于对抗未来量子计算机的 ML-KEM 和 ML-DSA 算法实现，并首次提供了端到端的形式化验证数学证明。这些证明确保 C 代码和手工优化的 ARM64 汇编与 NIST 标准严格一致。量子安全加密已部署于 iMessage、VPN 等场景，而 corecrypto 为超过 25 亿台活跃设备提供基础加密运算。苹果同时公开了定制验证工具和 Isabelle 理论库，供独立专家评估，希望推动关键软件保障技术的进步。Apple Security Research·备用频道",
+      "datetime": "2026-05-23T04:49:56+00:00",
+      "views": "1.36K",
+      "source_links": [
+        {
+          "text": "Apple Security Research",
+          "url": "https://security.apple.com/blog/formal-verification-corecrypto/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41533",
+      "scraped_at": "2026-05-23T13:00:12.188303"
+    },
+    {
+      "id": "xhqcankao_29552",
+      "channel": "xhqcankao",
+      "text": "美国五角大楼公布第二批涉UFO档案美国五角大楼星期五（5月22日）公布第二批有关“不明飞行物（UFO）”等“不明异常现象（UAP）”的档案。这次新公布的档案包括历史调查记录、照片、视频、目击报告等。其中部分内容涉及1940年代末至1950年代初美国新墨西哥州军事设施附近出现的异常空中现象，以及美国军方和政府机构近年来收集的不明目标影像和报告等。美国五角大楼首席发言人帕内尔说，自档案网站上线以来，访问量已超过10亿次，显示公众对这一议题的高度关注。美国五角大楼正与相关机构合作，筹备第三批档案的发布工作。——联合早报、战争部UFO解密网站",
+      "clean_text": "美国五角大楼公布第二批涉UFO档案美国五角大楼星期五（5月22日）公布第二批有关“不明飞行物（UFO）”等“不明异常现象（UAP）”的档案。这次新公布的档案包括历史调查记录、照片、视频、目击报告等。其中部分内容涉及1940年代末至1950年代初美国新墨西哥州军事设施附近出现的异常空中现象，以及美国军方和政府机构近年来收集的不明目标影像和报告等。美国五角大楼首席发言人帕内尔说，自档案网站上线以来，访问量已超过10亿次，显示公众对这一议题的高度关注。美国五角大楼正与相关机构合作，筹备第三批档案的发布工作。——联合早报、战争部UFO解密网站",
+      "datetime": "2026-05-23T04:31:17+00:00",
+      "views": "1.26K",
+      "source_links": [
+        {
+          "text": "第二批",
+          "url": "https://www.war.gov/UFO/?releaseDate=Release+02#records"
+        },
+        {
+          "text": "联合早报",
+          "url": "https://www.zaobao.com.sg/news/world/story20260523-9094129"
+        },
+        {
+          "text": "战争部UFO解密网站",
+          "url": "https://www.war.gov/UFO/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29552",
+      "scraped_at": "2026-05-23T13:00:14.204415"
+    },
+    {
+      "id": "zaihuapd_41531",
+      "channel": "zaihuapd",
+      "text": "FCC 文件曝光苹果未发布头戴式蓝牙耳机美国 FCC 数据库近日出现一款苹果未发布的蓝牙耳机，型号 A3577。设备被描述为“蓝牙头戴式耳机”，内置电池、麦克风和天线。由于目前大部分细节仍处于保密状态，尚无法判断该产品属于 AirPods 系列还是 Beats 系列。考虑到苹果刚推出 AirPods Max 2，外界猜测这更可能是一款新的 Beats 耳机。9To5Mac·备用频道·",
+      "clean_text": "FCC 文件曝光苹果未发布头戴式蓝牙耳机美国 FCC 数据库近日出现一款苹果未发布的蓝牙耳机，型号 A3577。设备被描述为“蓝牙头戴式耳机”，内置电池、麦克风和天线。由于目前大部分细节仍处于保密状态，尚无法判断该产品属于 AirPods 系列还是 Beats 系列。考虑到苹果刚推出 AirPods Max 2，外界猜测这更可能是一款新的 Beats 耳机。9To5Mac·备用频道",
+      "datetime": "2026-05-23T04:02:43+00:00",
+      "views": "4.42K",
+      "source_links": [
+        {
+          "text": "9To5Mac",
+          "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41531",
+      "scraped_at": "2026-05-23T13:00:12.187805"
+    },
+    {
       "id": "zaihuapd_41530",
       "channel": "zaihuapd",
       "text": "Anthropic 公布 Project Glasswing 初期成果：AI 发现逾万高危漏洞Anthropic 的 Project Glasswing 项目利用 Claude Mythos Preview 模型，在一个月内与其约 50 个合作伙伴共同从关键软件里找出逾万高危或严重漏洞，并扫描上千个开源项目，发现 6202 个高危严重漏洞，其中经过审查的 1752 个里 90.6% 为真阳性。合作伙伴 Cloudflare 等表示漏洞发现速率提高十倍以上。漏洞发现已不再是瓶颈，但验证、披露和打补丁的人力严重跟不上，开源维护者甚至请求放缓漏洞报告速度。Anthropic 已与开源安全基金会合作并发布 Claude Security 工具支持企业修复，同时提醒随着同类模型走向普及，软件行业必须缩短补丁周期以应对加速到来的风险。Anthropic·备用频道·",
@@ -912,66 +984,6 @@
       "scraped_at": "2026-05-22T10:00:19.903304"
     },
     {
-      "id": "xhqcankao_29517",
-      "channel": "xhqcankao",
-      "text": "担忧放缓AI发展 特朗普推迟签署监管行政令美国总统特朗普推迟签署一项行政命令，该命令将允许政府在人工智能模型发布前对其进行评估。特朗普声称他对该命令的措辞不满意：“我不喜欢其中的某些方面，” 他告诉白宫记者团。“我们领先中国，我们领先所有人，我不想做任何会妨碍这种领先地位的事情。”预期的行政命令将责成国家网络总监办公室和其他机构制定一个流程，在人工智能模型发布前对其进行安全性评估。据CNN报道，该行政命令措辞中的关键症结之一是一项拟议的要求，即人工智能公司在发布前14至90天内与政府共享先进模型。——Techcrunch",
-      "clean_text": "担忧放缓AI发展 特朗普推迟签署监管行政令美国总统特朗普推迟签署一项行政命令，该命令将允许政府在人工智能模型发布前对其进行评估。特朗普声称他对该命令的措辞不满意：“我不喜欢其中的某些方面，” 他告诉白宫记者团。“我们领先中国，我们领先所有人，我不想做任何会妨碍这种领先地位的事情。”预期的行政命令将责成国家网络总监办公室和其他机构制定一个流程，在人工智能模型发布前对其进行安全性评估。据CNN报道，该行政命令措辞中的关键症结之一是一项拟议的要求，即人工智能公司在发布前14至90天内与政府共享先进模型。——Techcrunch",
-      "datetime": "2026-05-22T01:02:02+00:00",
-      "views": "1.9K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29517",
-      "scraped_at": "2026-05-22T10:00:19.902916"
-    },
-    {
-      "id": "zaihuapd_41511",
-      "channel": "zaihuapd",
-      "text": "Codex 新增 Mac 锁屏后继续操作功能OpenAI 为 Codex 的 Computer Use 增加“锁屏使用”。用户启用后，即使 Mac 已锁屏、屏幕关闭，也能让 Codex 从手机等已连接设备继续操作获准应用。这项功能目前用于 macOS，首发不含欧洲经济区、英国和瑞士。使用前要安装插件并授予屏幕录制、辅助功能权限；临时解锁只在当前任务内生效，检测到本地输入会重新锁定。OpenAI Developers(1,2)·备用频道·",
-      "clean_text": "Codex 新增 Mac 锁屏后继续操作功能OpenAI 为 Codex 的 Computer Use 增加“锁屏使用”。用户启用后，即使 Mac 已锁屏、屏幕关闭，也能让 Codex 从手机等已连接设备继续操作获准应用。这项功能目前用于 macOS，首发不含欧洲经济区、英国和瑞士。使用前要安装插件并授予屏幕录制、辅助功能权限；临时解锁只在当前任务内生效，检测到本地输入会重新锁定。OpenAI Developers(1,2)·备用频道",
-      "datetime": "2026-05-22T00:58:35+00:00",
-      "views": "374",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://x.com/OpenAIDevs/status/2057536706778378692"
-        },
-        {
-          "text": "2",
-          "url": "https://developers.openai.com/codex/app/computer-use"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41511",
-      "scraped_at": "2026-05-22T09:00:47.978980"
-    },
-    {
-      "id": "xhqcankao_29516",
-      "channel": "xhqcankao",
-      "text": "执法部门关闭勒索软件团伙使用的VPN服务国际执法机构联盟周四宣布，他们取缔了一个被网络犯罪分子使用的流行虚拟专用网络服务，并逮捕了其管理员。美国联邦调查局在一份警报中表示，First VPN非常受欢迎，以至于 “至少” 有25个勒索软件团伙使用该服务来隐藏其恶意活动。网络犯罪分子还依赖该VPN来扫描互联网、运行僵尸网络、发起分布式拒绝服务攻击以及进行诈骗活动。据该局称，First VPN在27个不同国家运营服务器。欧洲刑警组织在一份声明中表示，除了提供匿名连接外，First VPN还为网络犯罪分子提供匿名支付、隐藏基础设施以及其他专门针对犯罪黑客营销的服务。——Techcrunch",
-      "clean_text": "执法部门关闭勒索软件团伙使用的VPN服务国际执法机构联盟周四宣布，他们取缔了一个被网络犯罪分子使用的流行虚拟专用网络服务，并逮捕了其管理员。美国联邦调查局在一份警报中表示，First VPN非常受欢迎，以至于 “至少” 有25个勒索软件团伙使用该服务来隐藏其恶意活动。网络犯罪分子还依赖该VPN来扫描互联网、运行僵尸网络、发起分布式拒绝服务攻击以及进行诈骗活动。据该局称，First VPN在27个不同国家运营服务器。欧洲刑警组织在一份声明中表示，除了提供匿名连接外，First VPN还为网络犯罪分子提供匿名支付、隐藏基础设施以及其他专门针对犯罪黑客营销的服务。——Techcrunch",
-      "datetime": "2026-05-22T00:32:30+00:00",
-      "views": "1.1K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29516",
-      "scraped_at": "2026-05-22T09:00:49.230388"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -997,5 +1009,5 @@
     }
   ],
   "count": 55,
-  "updated_at": "2026-05-23T12:10:53.793175"
+  "updated_at": "2026-05-23T13:10:24.354174"
 }
