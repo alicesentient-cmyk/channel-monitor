@@ -704,22 +704,6 @@
       "scraped_at": "2026-05-23T01:01:06.337226"
     },
     {
-      "id": "xhqcankao_29532",
-      "channel": "xhqcankao",
-      "text": "HMD将印度AI聊天机器人捆绑到新手机上芬兰手机制造商HMD今天推出了其首款智能手机，名为 Vibe 2 5G ，该手机预装了印度 AI 公司 Sarvam 的聊天机器人 Indus。两家公司最初于二月在新德里举行的印度AI峰会上宣布了这一合作伙伴关系。 Indus 应用由Sarvam 本地训练的1050亿参数模型驱动并在AI峰会上推出。该应用支持22种印度语言和句中的语码转换，这有助于助手更好地理解查询的上下文。目前，该应用不支持离线使用，并且它没有任何与设备集成的功能来通过快捷方式调用AI助手。此次合作对于两家公司来说都是潜在的试验场，可以借此评估市场对面向印度的聊天机器人的需求。——Techcrunch",
-      "clean_text": "HMD将印度AI聊天机器人捆绑到新手机上芬兰手机制造商HMD今天推出了其首款智能手机，名为 Vibe 2 5G ，该手机预装了印度 AI 公司 Sarvam 的聊天机器人 Indus。两家公司最初于二月在新德里举行的印度AI峰会上宣布了这一合作伙伴关系。 Indus 应用由Sarvam 本地训练的1050亿参数模型驱动并在AI峰会上推出。该应用支持22种印度语言和句中的语码转换，这有助于助手更好地理解查询的上下文。目前，该应用不支持离线使用，并且它没有任何与设备集成的功能来通过快捷方式调用AI助手。此次合作对于两家公司来说都是潜在的试验场，可以借此评估市场对面向印度的聊天机器人的需求。——Techcrunch",
-      "datetime": "2026-05-22T08:32:14+00:00",
-      "views": "5.8K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29532",
-      "scraped_at": "2026-05-23T01:01:06.336769"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -744,6 +728,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 43,
-  "updated_at": "2026-05-23T20:30:46.097307"
+  "count": 42,
+  "updated_at": "2026-05-23T20:35:52.144696"
 }
