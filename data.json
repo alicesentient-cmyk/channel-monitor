@@ -600,17 +600,6 @@
       "scraped_at": "2026-05-23T01:01:06.339756"
     },
     {
-      "id": "zaihuapd_41523",
-      "channel": "zaihuapd",
-      "text": "Antigravity 将付费层级 Gemini 模型速率限制提升至 3 倍并重置周配额  Antigravity 宣布，即日起将所有付费层级的 Gemini 模型速率限制提高至原来的 3 倍，同时重置所有用户本周的 Gemini 配额。这一调整是对用户迅速触达旧限制的即时回应。  团队表示，更多改进措施即将推出，鼓励开发者继续放心构建。  @_mohansolo · 备用频道 ·",
-      "clean_text": "Antigravity 将付费层级 Gemini 模型速率限制提升至 3 倍并重置周配额  Antigravity 宣布，即日起将所有付费层级的 Gemini 模型速率限制提高至原来的 3 倍，同时重置所有用户本周的 Gemini 配额。这一调整是对用户迅速触达旧限制的即时回应。  团队表示，更多改进措施即将推出，鼓励开发者继续放心构建。  @_mohansolo · 备用频道 · 投稿通道",
-      "datetime": "2026-05-22T11:18:37+00:00",
-      "views": "13.4K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41523",
-      "scraped_at": "2026-05-23T01:01:03.497242"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -635,6 +624,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 37,
-  "updated_at": "2026-05-23T23:18:27.357034"
+  "count": 36,
+  "updated_at": "2026-05-23T23:23:31.964287"
 }
