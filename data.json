@@ -509,22 +509,6 @@
       "scraped_at": "2026-05-23T01:01:03.498545"
     },
     {
-      "id": "xhqcankao_29543",
-      "channel": "xhqcankao",
-      "text": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4DeepSeek 官方今日宣布，DeepSeek-V4-Pro 模型 API 价格将于 2026 年 5 月 31 日结束 2.5 折优惠活动后，正式调整为原定价的 1/4。DeepSeek-V4-Pro 的 API原价为：输入（缓存命中）：0.1 元 / 百万 Tokens输入（缓存未命中）：12 元 / 百万 Tokens输出：24 元 / 百万 Tokens这一 API 截至 5 月 31 日拥有 2.5 折优惠活动，原本 6 月起恢复原价，但最新公告确认，DeepSeek-V4-Pro API 将永久降为原价的 1/4（相当于 2.5 折），相当于这个活动会一直保持下去。——IT之家",
-      "clean_text": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4DeepSeek 官方今日宣布，DeepSeek-V4-Pro 模型 API 价格将于 2026 年 5 月 31 日结束 2.5 折优惠活动后，正式调整为原定价的 1/4。DeepSeek-V4-Pro 的 API原价为：输入（缓存命中）：0.1 元 / 百万 Tokens输入（缓存未命中）：12 元 / 百万 Tokens输出：24 元 / 百万 Tokens这一 API 截至 5 月 31 日拥有 2.5 折优惠活动，原本 6 月起恢复原价，但最新公告确认，DeepSeek-V4-Pro API 将永久降为原价的 1/4（相当于 2.5 折），相当于这个活动会一直保持下去。——IT之家",
-      "datetime": "2026-05-22T13:41:58+00:00",
-      "views": "4.62K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/954/188.htm"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29543",
-      "scraped_at": "2026-05-23T01:01:06.341462"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -549,6 +533,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 31,
-  "updated_at": "2026-05-24T01:40:50.556020"
+  "count": 30,
+  "updated_at": "2026-05-24T01:45:55.546436"
 }
