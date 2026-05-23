@@ -822,30 +822,6 @@
       "scraped_at": "2026-05-22T14:00:52.490611"
     },
     {
-      "id": "zaihuapd_41516",
-      "channel": "zaihuapd",
-      "text": "智谱 GLM-5.1 高速版面向部分企业客户开放 输出速度达 400 tokens/sGLM-5.1-HighSpeed 是 GLM-5.1 的高速版本，输出速度达到 400 tokens/s。该模型仅面向智谱 BigModel 开放平台部分企业客户定向开放。它支持 Function Call、JSON 等结构化输出和 MCP，主打低延迟场景，包括 Coding Agent、多轮代码生成、实时 UI 构建、运营问答、语音助手和实时客服等。智谱 AI·备用频道·",
-      "clean_text": "智谱 GLM-5.1 高速版面向部分企业客户开放 输出速度达 400 tokens/sGLM-5.1-HighSpeed 是 GLM-5.1 的高速版本，输出速度达到 400 tokens/s。该模型仅面向智谱 BigModel 开放平台部分企业客户定向开放。它支持 Function Call、JSON 等结构化输出和 MCP，主打低延迟场景，包括 Coding Agent、多轮代码生成、实时 UI 构建、运营问答、语音助手和实时客服等。智谱 AI·备用频道",
-      "datetime": "2026-05-22T04:45:43+00:00",
-      "views": "1.82K",
-      "source_links": [
-        {
-          "text": "智谱 AI",
-          "url": "https://docs.bigmodel.cn/cn/guide/models/text/glm-5.1-highspeed"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41516",
-      "scraped_at": "2026-05-22T13:00:52.247146"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -870,6 +846,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 49,
-  "updated_at": "2026-05-23T16:42:24.079598"
+  "count": 48,
+  "updated_at": "2026-05-23T16:47:27.885422"
 }
