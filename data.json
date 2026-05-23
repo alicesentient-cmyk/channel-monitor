@@ -446,22 +446,6 @@
       "scraped_at": "2026-05-23T01:01:03.499173"
     },
     {
-      "id": "xhqcankao_29546",
-      "channel": "xhqcankao",
-      "text": "Cloudflare 控制面板和 Cloudflare API 服务出现问题May 22, 2026 - 15:36 UTC — Cloudflare 正在调查 Cloudflare 控制面板及其相关 API 的问题。这些问题不会影响通过 Cloudflare CDN 提供的缓存文件服务，也不会影响 Cloudflare Edge 上的其他安全功能。使用控制面板/Cloudflare API 的客户会受到影响，因为请求可能会失败和/或显示错误。May 22, 2026 - 15:41 UTC — 问题已查明，目前正在实施修复。——Cloudflare Status、LoopDNS",
-      "clean_text": "Cloudflare 控制面板和 Cloudflare API 服务出现问题May 22, 2026 - 15:36 UTC — Cloudflare 正在调查 Cloudflare 控制面板及其相关 API 的问题。这些问题不会影响通过 Cloudflare CDN 提供的缓存文件服务，也不会影响 Cloudflare Edge 上的其他安全功能。使用控制面板/Cloudflare API 的客户会受到影响，因为请求可能会失败和/或显示错误。May 22, 2026 - 15:41 UTC — 问题已查明，目前正在实施修复。——Cloudflare Status、LoopDNS",
-      "datetime": "2026-05-22T15:45:01+00:00",
-      "views": "2.41K",
-      "source_links": [
-        {
-          "text": "Cloudflare Status",
-          "url": "https://www.cloudflarestatus.com/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29546",
-      "scraped_at": "2026-05-23T01:01:06.342780"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -486,6 +470,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 27,
-  "updated_at": "2026-05-24T03:42:53.338038"
+  "count": 26,
+  "updated_at": "2026-05-24T03:47:57.201264"
 }
