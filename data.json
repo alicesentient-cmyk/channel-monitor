@@ -632,22 +632,6 @@
       "scraped_at": "2026-05-23T01:01:06.338508"
     },
     {
-      "id": "xhqcankao_29535",
-      "channel": "xhqcankao",
-      "text": "Meta悄然发布了一款名为Forum的类Reddit应用Meta悄然发布了一款名为Forum的新应用，旨在为Facebook群组提供专用空间，功能类似Reddit。用户需通过Facebook账户登录，可在群组中使用匿名用户名，但管理员可见真实身份。Forum的特色是聚焦群组对话，并具备“提问”和管理员助理等AI功能，前者可跨群组获取答案。该应用目前仍在测试中，允许用户在Forum与主Facebook应用间无缝同步帖子。这是Meta继2017年终止独立群组应用后，再次尝试推出此类产品。——engadget",
-      "clean_text": "Meta悄然发布了一款名为Forum的类Reddit应用Meta悄然发布了一款名为Forum的新应用，旨在为Facebook群组提供专用空间，功能类似Reddit。用户需通过Facebook账户登录，可在群组中使用匿名用户名，但管理员可见真实身份。Forum的特色是聚焦群组对话，并具备“提问”和管理员助理等AI功能，前者可跨群组获取答案。该应用目前仍在测试中，允许用户在Forum与主Facebook应用间无缝同步帖子。这是Meta继2017年终止独立群组应用后，再次尝试推出此类产品。——engadget",
-      "datetime": "2026-05-22T09:52:01+00:00",
-      "views": "5.36K",
-      "source_links": [
-        {
-          "text": "engadget",
-          "url": "https://www.engadget.com/2179165/meta-forum-groups-app/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29535",
-      "scraped_at": "2026-05-23T01:01:06.338111"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -672,6 +656,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 39,
-  "updated_at": "2026-05-23T21:52:00.435764"
+  "count": 38,
+  "updated_at": "2026-05-23T21:57:05.319879"
 }
