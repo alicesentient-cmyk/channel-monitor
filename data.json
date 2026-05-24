@@ -1,6 +1,38 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41543",
+      "channel": "zaihuapd",
+      "text": "苹果为生成式 AI 功能准备新网站genai.apple.com苹果已筹备genai.apple.com子域，目前尚无页面，但可能在 WWDC 2026 前启用，用于展示生成式 AI 功能。WWDC 2026 将在 6 月 8 日开幕，届时苹果将发布 iOS 27 等系统的 AI 升级，包括支持屏幕感知的 Siri、独立 Siri 对话应用、视频自动字幕、自然语言语音控制及更多 Apple Intelligence 特性。MacRumors·备用频道·",
+      "clean_text": "苹果为生成式 AI 功能准备新网站genai.apple.com苹果已筹备genai.apple.com子域，目前尚无页面，但可能在 WWDC 2026 前启用，用于展示生成式 AI 功能。WWDC 2026 将在 6 月 8 日开幕，届时苹果将发布 iOS 27 等系统的 AI 升级，包括支持屏幕感知的 Siri、独立 Siri 对话应用、视频自动字幕、自然语言语音控制及更多 Apple Intelligence 特性。MacRumors·备用频道",
+      "datetime": "2026-05-24T01:58:00+00:00",
+      "views": "275",
+      "source_links": [
+        {
+          "text": "genai.apple.com",
+          "url": "http://genai.apple.com/"
+        },
+        {
+          "text": "genai.apple.com",
+          "url": "http://genai.apple.com/"
+        },
+        {
+          "text": "MacRumors",
+          "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41543",
+      "scraped_at": "2026-05-24T10:00:06.185157"
+    },
+    {
       "id": "xhqcankao_29558",
       "channel": "xhqcankao",
       "text": "苹果在Q1首次荣登全球智能手机市场榜首根据Counterpoint Research的最新数据，苹果公司在2026年第一季度以出货量计成为全球第一大智能手机品牌。这是该公司首次在第一季度领跑市场。苹果占据了全球出货量的21%，同比增长9%，即便整体市场萎缩了3%。三星紧随其后位列第二，出货量大致持平，也占21%，随后是小米占12%，OPPO占10%，vivo占7%。与此同时，小米的出货量同比下降19%，而OPPO和vivo分别下降了4%和2%。调研机构Counterpoint早些时候的报告显示：iPhone 17是第一季度全球最畅销的智能手机型号，在此期间，iPhone 17系列在全球手机型号销售追踪中包揽了前三名。——Macrumors",
@@ -467,6 +499,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 26,
-  "updated_at": "2026-05-24T09:57:46.357673"
+  "count": 27,
+  "updated_at": "2026-05-24T10:02:50.266644"
 }
