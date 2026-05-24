@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41548",
+      "channel": "zaihuapd",
+      "text": "证券从业人员违法买卖证券被罚 25 万 19 年不赚反亏 476 万元天津证监局对证券从业人员迟伟作出行政处罚，认定其在任职期间违法买卖证券，决定罚款 25 万元。2005 年 8 月至 2024 年 2 月，迟伟实际控制、使用多个他人证券账户交易多只股票，经计算亏损 476.21 万元。中国证监会·备用频道·",
+      "clean_text": "证券从业人员违法买卖证券被罚 25 万 19 年不赚反亏 476 万元天津证监局对证券从业人员迟伟作出行政处罚，认定其在任职期间违法买卖证券，决定罚款 25 万元。2005 年 8 月至 2024 年 2 月，迟伟实际控制、使用多个他人证券账户交易多只股票，经计算亏损 476.21 万元。中国证监会·备用频道",
+      "datetime": "2026-05-24T07:56:42+00:00",
+      "views": "774",
+      "source_links": [
+        {
+          "text": "中国证监会",
+          "url": "https://www.csrc.gov.cn/tianjin/c103608/c7634433/content.shtml"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41548",
+      "scraped_at": "2026-05-24T16:00:36.264277"
+    },
+    {
       "id": "zaihuapd_41547",
       "channel": "zaihuapd",
       "text": "bilibili 远古时代装机猿  测试 国产显卡砺算 LX 7G100  vs 3060  视频地址 · 备用频道 ·",
@@ -467,30 +491,6 @@
       "scraped_at": "2026-05-23T13:00:14.204415"
     },
     {
-      "id": "zaihuapd_41531",
-      "channel": "zaihuapd",
-      "text": "FCC 文件曝光苹果未发布头戴式蓝牙耳机美国 FCC 数据库近日出现一款苹果未发布的蓝牙耳机，型号 A3577。设备被描述为“蓝牙头戴式耳机”，内置电池、麦克风和天线。由于目前大部分细节仍处于保密状态，尚无法判断该产品属于 AirPods 系列还是 Beats 系列。考虑到苹果刚推出 AirPods Max 2，外界猜测这更可能是一款新的 Beats 耳机。9To5Mac·备用频道·",
-      "clean_text": "FCC 文件曝光苹果未发布头戴式蓝牙耳机美国 FCC 数据库近日出现一款苹果未发布的蓝牙耳机，型号 A3577。设备被描述为“蓝牙头戴式耳机”，内置电池、麦克风和天线。由于目前大部分细节仍处于保密状态，尚无法判断该产品属于 AirPods 系列还是 Beats 系列。考虑到苹果刚推出 AirPods Max 2，外界猜测这更可能是一款新的 Beats 耳机。9To5Mac·备用频道",
-      "datetime": "2026-05-23T04:02:43+00:00",
-      "views": "4.42K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41531",
-      "scraped_at": "2026-05-23T13:00:12.187805"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -516,5 +516,5 @@
     }
   ],
   "count": 27,
-  "updated_at": "2026-05-24T15:58:05.146544"
+  "updated_at": "2026-05-24T16:03:10.025679"
 }
