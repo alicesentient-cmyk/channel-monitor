@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41550",
+      "channel": "zaihuapd",
+      "text": "APKPure 上的 Telegram 官方版被植入间谍后门从 APKPure 下载的 Telegram 12.6.5 被重新签名打包，注入了名为 DataCollector 的间谍框架（classes3.dex，3000+行代码）。后门可窃取：全部聊天记录（含历史消息）、通讯录、手机相册、文档文件、GPS 定位、SIM 卡信息。数据经 AES-GCM 加密后上传至 C2 服务器38.190.225.166。Eric Parkervia 群友·备用频道·",
+      "clean_text": "APKPure 上的 Telegram 官方版被植入间谍后门从 APKPure 下载的 Telegram 12.6.5 被重新签名打包，注入了名为 DataCollector 的间谍框架（classes3.dex，3000+行代码）。后门可窃取：全部聊天记录（含历史消息）、通讯录、手机相册、文档文件、GPS 定位、SIM 卡信息。数据经 AES-GCM 加密后上传至 C2 服务器38.190.225.166。Eric Parkervia 群友·备用频道",
+      "datetime": "2026-05-24T11:38:22+00:00",
+      "views": "3.82K",
+      "source_links": [
+        {
+          "text": "Eric Parker",
+          "url": "https://x.com/EricParker/status/2058411298195661221"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41550",
+      "scraped_at": "2026-05-24T20:00:23.306205"
+    },
+    {
       "id": "zaihuapd_41549",
       "channel": "zaihuapd",
       "text": "Google Docs 推出 Docs Live 功能：支持语音对话生成文档Google 推出名为 Docs Live 的新功能，用户可以通过语音对话直接生成文档草稿。该工具利用 Gemini AI 将口述的零散想法转化为结构化的文本，并支持根据指令调整大纲或语气。Docs Live 还能调用用户 Google Drive 中的文件或搜索网页信息来充实内容，旨在解决创作初期的“白纸焦虑”。该功能目前遵循 Google Workspace 的隐私规则，输入数据不会用于模型训练。Docs Live 将首先面向 iOS 和 Android 端的付费 AI 订阅用户开放，随后将逐步覆盖网页端及更多普通用户。The Wall Street Journal·备用频道·",
@@ -437,6 +461,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 23,
-  "updated_at": "2026-05-24T19:56:33.684027"
+  "count": 24,
+  "updated_at": "2026-05-24T20:01:39.488061"
 }
