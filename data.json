@@ -1,6 +1,46 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41549",
+      "channel": "zaihuapd",
+      "text": "Google Docs 推出 Docs Live 功能：支持语音对话生成文档Google 推出名为 Docs Live 的新功能，用户可以通过语音对话直接生成文档草稿。该工具利用 Gemini AI 将口述的零散想法转化为结构化的文本，并支持根据指令调整大纲或语气。Docs Live 还能调用用户 Google Drive 中的文件或搜索网页信息来充实内容，旨在解决创作初期的“白纸焦虑”。该功能目前遵循 Google Workspace 的隐私规则，输入数据不会用于模型训练。Docs Live 将首先面向 iOS 和 Android 端的付费 AI 订阅用户开放，随后将逐步覆盖网页端及更多普通用户。The Wall Street Journal·备用频道·",
+      "clean_text": "Google Docs 推出 Docs Live 功能：支持语音对话生成文档Google 推出名为 Docs Live 的新功能，用户可以通过语音对话直接生成文档草稿。该工具利用 Gemini AI 将口述的零散想法转化为结构化的文本，并支持根据指令调整大纲或语气。Docs Live 还能调用用户 Google Drive 中的文件或搜索网页信息来充实内容，旨在解决创作初期的“白纸焦虑”。该功能目前遵循 Google Workspace 的隐私规则，输入数据不会用于模型训练。Docs Live 将首先面向 iOS 和 Android 端的付费 AI 订阅用户开放，随后将逐步覆盖网页端及更多普通用户。The Wall Street Journal·备用频道",
+      "datetime": "2026-05-24T09:39:46+00:00",
+      "views": "1.98K",
+      "source_links": [
+        {
+          "text": "The Wall Street Journal",
+          "url": "https://www.wsj.com/tech/personal-tech/google-docs-live-test-e4473e07"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41549",
+      "scraped_at": "2026-05-24T18:00:26.238619"
+    },
+    {
+      "id": "xhqcankao_29564",
+      "channel": "xhqcankao",
+      "text": "虎牙旗下apkpure应用商店正在分发恶意软件近日有多名开发者发现，虎牙旗下的知名第三方应用商店 APKPure 在分发 Telegram 相关应用时存在严重安全问题，强烈建议用户立即停止使用该平台下载任何 APK。开发者南宫雪珊在其电报频道发文警告 apkpure 不可信，其中 Telegram 商店版 apk 签名不正确；Telegram X 包名不正确；目前仅web版正常，但版本也不是最新的。除此之外，安全研究员、逆向工程师 Eric Parker 在社交媒体平台 X 上也发文警告，APKPure 正在分发恶意版本的 Telegram。公开资料显示，虎牙于2023年以8100万美元的总现金对价，从腾讯手中收购apkpure应用商店的100%股权。——南宫雪珊、Eric Parker",
+      "clean_text": "虎牙旗下apkpure应用商店正在分发恶意软件近日有多名开发者发现，虎牙旗下的知名第三方应用商店 APKPure 在分发 Telegram 相关应用时存在严重安全问题，强烈建议用户立即停止使用该平台下载任何 APK。开发者南宫雪珊在其电报频道发文警告 apkpure 不可信，其中 Telegram 商店版 apk 签名不正确；Telegram X 包名不正确；目前仅web版正常，但版本也不是最新的。除此之外，安全研究员、逆向工程师 Eric Parker 在社交媒体平台 X 上也发文警告，APKPure 正在分发恶意版本的 Telegram。公开资料显示，虎牙于2023年以8100万美元的总现金对价，从腾讯手中收购apkpure应用商店的100%股权。——南宫雪珊、Eric Parker",
+      "datetime": "2026-05-24T09:31:10+00:00",
+      "views": "2.21K",
+      "source_links": [
+        {
+          "text": "Eric Parker",
+          "url": "https://x.com/i/status/2058411298195661221"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29564",
+      "scraped_at": "2026-05-24T18:00:28.224492"
+    },
+    {
       "id": "xhqcankao_29563",
       "channel": "xhqcankao",
       "text": "外资正纷纷撤出中国数据中心市场多年来，外国私募股权投资公司投入了数十亿美元押注中国的云计算繁荣，如今它们正纷纷退出中国数据中心行业进行套现。随着政治和监管压力加大，境外资本持有数字基础设施的难度正不断上升。华平投资所投资的Princeton Digital Group(PDG)正在启动出售其中国资产的进程，该交易金额最高或达10亿美元。这将是继贝恩资本和凯雷在内的全球基金的一系列退出行动上再添一例。意味着全球收购基金对中国数字基础设施长达十年的直接投资浪潮接近尾声。尽管中国云计算市场持续扩大，但随着中国政府不断收紧网络安全和数据保护制度，外资对关键数字基础设施的所有权在政治上变得十分敏感。同时，不断上升的AI驱动需求推高了估值，促使国际投资者有机会将所持资产出售给本土买家，并把资金重新部署到他们同样看好且在政治上更为安全的亚洲其他市场。——金融时报",
@@ -459,6 +499,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 25,
-  "updated_at": "2026-05-24T17:59:58.585672"
+  "count": 27,
+  "updated_at": "2026-05-24T18:05:03.047744"
 }
