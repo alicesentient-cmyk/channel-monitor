@@ -491,30 +491,6 @@
       "scraped_at": "2026-05-23T13:00:12.187805"
     },
     {
-      "id": "zaihuapd_41530",
-      "channel": "zaihuapd",
-      "text": "Anthropic 公布 Project Glasswing 初期成果：AI 发现逾万高危漏洞Anthropic 的 Project Glasswing 项目利用 Claude Mythos Preview 模型，在一个月内与其约 50 个合作伙伴共同从关键软件里找出逾万高危或严重漏洞，并扫描上千个开源项目，发现 6202 个高危严重漏洞，其中经过审查的 1752 个里 90.6% 为真阳性。合作伙伴 Cloudflare 等表示漏洞发现速率提高十倍以上。漏洞发现已不再是瓶颈，但验证、披露和打补丁的人力严重跟不上，开源维护者甚至请求放缓漏洞报告速度。Anthropic 已与开源安全基金会合作并发布 Claude Security 工具支持企业修复，同时提醒随着同类模型走向普及，软件行业必须缩短补丁周期以应对加速到来的风险。Anthropic·备用频道·",
-      "clean_text": "Anthropic 公布 Project Glasswing 初期成果：AI 发现逾万高危漏洞Anthropic 的 Project Glasswing 项目利用 Claude Mythos Preview 模型，在一个月内与其约 50 个合作伙伴共同从关键软件里找出逾万高危或严重漏洞，并扫描上千个开源项目，发现 6202 个高危严重漏洞，其中经过审查的 1752 个里 90.6% 为真阳性。合作伙伴 Cloudflare 等表示漏洞发现速率提高十倍以上。漏洞发现已不再是瓶颈，但验证、披露和打补丁的人力严重跟不上，开源维护者甚至请求放缓漏洞报告速度。Anthropic 已与开源安全基金会合作并发布 Claude Security 工具支持企业修复，同时提醒随着同类模型走向普及，软件行业必须缩短补丁周期以应对加速到来的风险。Anthropic·备用频道",
-      "datetime": "2026-05-23T03:16:00+00:00",
-      "views": "3.53K",
-      "source_links": [
-        {
-          "text": "Anthropic",
-          "url": "https://www.anthropic.com/research/glasswing-initial-update"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41530",
-      "scraped_at": "2026-05-23T12:00:43.011712"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -539,6 +515,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 28,
-  "updated_at": "2026-05-24T15:12:19.511405"
+  "count": 27,
+  "updated_at": "2026-05-24T15:17:25.947914"
 }
