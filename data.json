@@ -464,17 +464,6 @@
       "scraped_at": "2026-05-23T15:00:13.059519"
     },
     {
-      "id": "zaihuapd_41535",
-      "channel": "zaihuapd",
-      "text": "微软内部大规模推广 Claude Code，鼓励非技术员工使用 AI 编程  微软正在其最重要的工程团队中广泛推广 Anthropic 的 Claude Code，甚至鼓励没有编程经验的员工使用该工具进行原型设计。据消息人士透露，微软 CoreAI 团队和负责 Windows、Microsoft 365、Outlook 等产品的体验与设备部门都被要求安装 Claude Code。  微软软件工程师现在需要同时使用 Claude Code 和 GitHub Copilot 并提供对比反馈。尽管微软向客户销售…",
-      "clean_text": "📱微软内部大规模推广 Claude Code，鼓励非技术员工使用 AI 编程  微软正在其最重要的工程团队中广泛推广 Anthropic 的 Claude Code，甚至鼓励没有编程经验的员工使用该工具进行原型设计。据消息人士透露，微软 CoreAI 团队和负责 Windows、Microsoft 365、Outlook 等产品的体验与设备部门都被要求安装 Claude Code。  微软软件工程师现在需要同时使用 Claude Code 和 GitHub Copilot 并提供对比反馈。尽管微软向客户销售…",
-      "datetime": "2026-05-23T06:05:36+00:00",
-      "views": "4.95K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41535",
-      "scraped_at": "2026-05-23T15:00:13.058979"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -499,6 +488,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 27,
-  "updated_at": "2026-05-24T18:05:03.047744"
+  "count": 26,
+  "updated_at": "2026-05-24T18:10:08.083335"
 }
