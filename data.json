@@ -431,38 +431,6 @@
       "scraped_at": "2026-05-23T20:00:57.808579"
     },
     {
-      "id": "zaihuapd_41540",
-      "channel": "zaihuapd",
-      "text": "美商海盗船开始采用长鑫存储芯片，DDR5 内存价格有望下调美商海盗船（Corsair）已开始在其 DDR5 内存模组中使用长鑫存储（CXMT）的芯片。由于全球三大存储巨头将产能优先转向 AI 所需的高带宽内存，导致消费级市场供应短缺，促使海盗船等品牌转向中国供应链。目前采用长鑫芯片的 6000 MT/s 内存已上市，性能规格与国际主流产品一致。中国存储厂商正通过大规模扩产填补市场空缺。长鑫存储在 2026 年第一季度实现业绩爆发，并计划于年内上市。业内专家预计，随着中国产能持续释放，受 AI 需求挤压的内存价格有望在 2027 年下半年迎来明显回落。The Next Web|TechSpot|South China Morning Post·备用频道·",
-      "clean_text": "美商海盗船开始采用长鑫存储芯片，DDR5 内存价格有望下调美商海盗船（Corsair）已开始在其 DDR5 内存模组中使用长鑫存储（CXMT）的芯片。由于全球三大存储巨头将产能优先转向 AI 所需的高带宽内存，导致消费级市场供应短缺，促使海盗船等品牌转向中国供应链。目前采用长鑫芯片的 6000 MT/s 内存已上市，性能规格与国际主流产品一致。中国存储厂商正通过大规模扩产填补市场空缺。长鑫存储在 2026 年第一季度实现业绩爆发，并计划于年内上市。业内专家预计，随着中国产能持续释放，受 AI 需求挤压的内存价格有望在 2027 年下半年迎来明显回落。The Next Web|TechSpot|South China Morning Post·备用频道",
-      "datetime": "2026-05-23T11:17:04+00:00",
-      "views": "3.75K",
-      "source_links": [
-        {
-          "text": "The Next Web",
-          "url": "https://thenextweb.com/news/chinese-dram-cxmt-corsair-ddr5-memory-prices"
-        },
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/112502-memory-prices-tipped-fall-china-starts-flooding-market.html"
-        },
-        {
-          "text": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3353464/chinese-memory-module-makers-ramp-production-cxmt-ddr5-breakthrough-hits-market"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41540",
-      "scraped_at": "2026-05-23T20:00:56.156981"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -487,6 +455,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 24,
-  "updated_at": "2026-05-24T23:14:31.791393"
+  "count": 23,
+  "updated_at": "2026-05-24T23:19:36.916535"
 }
