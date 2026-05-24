@@ -386,30 +386,6 @@
       "scraped_at": "2026-05-23T23:00:54.788724"
     },
     {
-      "id": "zaihuapd_41541",
-      "channel": "zaihuapd",
-      "text": "Android 17 将引入 Noto 3D 表情设计Google 确认将在 Android 17 中推出名为“Noto 3D”的全新表情符号，全面取代现有的平面设计。这套新表情由人工手绘，通过增加反光和颜色渐变来营造立体效果。Google 表示，此举旨在为线上交流增添“实体感”，避免情感表达显得过于平淡。新设计将率先在 Pixel 手机上更新。虽然视觉上更现代，但不少评论认为 3D 风格可能削弱表情符号的象征意义，且在小屏幕上不如旧版清晰。此外，这种风格被指与 iOS 趋同，可能会让 Android 表情失去原有的独特性。Android Police·备用频道·",
-      "clean_text": "Android 17 将引入 Noto 3D 表情设计Google 确认将在 Android 17 中推出名为“Noto 3D”的全新表情符号，全面取代现有的平面设计。这套新表情由人工手绘，通过增加反光和颜色渐变来营造立体效果。Google 表示，此举旨在为线上交流增添“实体感”，避免情感表达显得过于平淡。新设计将率先在 Pixel 手机上更新。虽然视觉上更现代，但不少评论认为 3D 风格可能削弱表情符号的象征意义，且在小屏幕上不如旧版清晰。此外，这种风格被指与 iOS 趋同，可能会让 Android 表情失去原有的独特性。Android Police·备用频道",
-      "datetime": "2026-05-23T13:51:56+00:00",
-      "views": "1.34K",
-      "source_links": [
-        {
-          "text": "Android Police",
-          "url": "https://www.androidpolice.com/google-has-confirmed-android-17-will-make-emoji-more-boring-and-i-think-its-missing-the-point-of-what-people-like-about-them/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41541",
-      "scraped_at": "2026-05-23T22:00:26.573782"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -434,6 +410,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 22,
-  "updated_at": "2026-05-25T01:47:02.044273"
+  "count": 21,
+  "updated_at": "2026-05-25T01:52:07.380593"
 }
