@@ -443,30 +443,6 @@
       "scraped_at": "2026-05-23T14:00:41.836905"
     },
     {
-      "id": "zaihuapd_41533",
-      "channel": "zaihuapd",
-      "text": "苹果开源 corecrypto 密码库，附形式化验证证明量子安全算法正确性苹果在 5 月 22 日发布了 corecrypto 源代码，公开了用于对抗未来量子计算机的 ML-KEM 和 ML-DSA 算法实现，并首次提供了端到端的形式化验证数学证明。这些证明确保 C 代码和手工优化的 ARM64 汇编与 NIST 标准严格一致。量子安全加密已部署于 iMessage、VPN 等场景，而 corecrypto 为超过 25 亿台活跃设备提供基础加密运算。苹果同时公开了定制验证工具和 Isabelle 理论库，供独立专家评估，希望推动关键软件保障技术的进步。Apple Security Research·备用频道·",
-      "clean_text": "苹果开源 corecrypto 密码库，附形式化验证证明量子安全算法正确性苹果在 5 月 22 日发布了 corecrypto 源代码，公开了用于对抗未来量子计算机的 ML-KEM 和 ML-DSA 算法实现，并首次提供了端到端的形式化验证数学证明。这些证明确保 C 代码和手工优化的 ARM64 汇编与 NIST 标准严格一致。量子安全加密已部署于 iMessage、VPN 等场景，而 corecrypto 为超过 25 亿台活跃设备提供基础加密运算。苹果同时公开了定制验证工具和 Isabelle 理论库，供独立专家评估，希望推动关键软件保障技术的进步。Apple Security Research·备用频道",
-      "datetime": "2026-05-23T04:49:56+00:00",
-      "views": "1.36K",
-      "source_links": [
-        {
-          "text": "Apple Security Research",
-          "url": "https://security.apple.com/blog/formal-verification-corecrypto/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41533",
-      "scraped_at": "2026-05-23T13:00:12.188303"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -491,6 +467,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 26,
-  "updated_at": "2026-05-24T16:48:53.132361"
+  "count": 25,
+  "updated_at": "2026-05-24T16:53:58.183151"
 }
