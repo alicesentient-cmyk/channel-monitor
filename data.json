@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41560",
+      "channel": "zaihuapd",
+      "text": "人工智能时代网络安全专家需求激增人工智能带来的代码膨胀和新型安全威胁，正推动企业大规模招聘网络安全人才。今年一季度相关岗位招聘量同比增长 11%，猎头公司称高管职位需求较去年秋季增加了五到七倍，部分公司甚至因人手不足拒绝接单。随着 Anthropic 的 Mythos 等模型展现出发现和利用软件漏洞的能力，企业急需既懂安全技术又能驾驭 AI 复杂性的高管。目前高级安全岗位薪酬包可达七八百万美元，安全工程师也需补充 AI 技能才能保持竞争力。The New York Times·备用频道·",
+      "clean_text": "人工智能时代网络安全专家需求激增人工智能带来的代码膨胀和新型安全威胁，正推动企业大规模招聘网络安全人才。今年一季度相关岗位招聘量同比增长 11%，猎头公司称高管职位需求较去年秋季增加了五到七倍，部分公司甚至因人手不足拒绝接单。随着 Anthropic 的 Mythos 等模型展现出发现和利用软件漏洞的能力，企业急需既懂安全技术又能驾驭 AI 复杂性的高管。目前高级安全岗位薪酬包可达七八百万美元，安全工程师也需补充 AI 技能才能保持竞争力。The New York Times·备用频道",
+      "datetime": "2026-05-25T06:21:41+00:00",
+      "views": "3.99K",
+      "source_links": [
+        {
+          "text": "The New York Times",
+          "url": "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41560",
+      "scraped_at": "2026-05-25T15:00:47.414756"
+    },
+    {
       "id": "zaihuapd_41559",
       "channel": "zaihuapd",
       "text": "腾讯 ima copilot 全量开放，主打个人知识库常驻记忆腾讯 5 月 25 日宣布，AI 助手 ima copilot 结束灰度测试，向所有用户开放。这个产品主打“用个人知识库自主完成任务”，支持记忆用户习惯、感知当前操作内容，并直接调用笔记和知识库，解决传统 AI 聊完就断、任务接不上的问题。其记忆系统分为 Soul、User、Memory、Agent 四个模块，分别对应交互风格、用户档案、项目长期记忆和任务经验积累。江南都市报viaBoytime A·备用频道·",
@@ -527,6 +551,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 27,
-  "updated_at": "2026-05-25T14:58:04.279524"
+  "count": 28,
+  "updated_at": "2026-05-25T15:03:09.216525"
 }
