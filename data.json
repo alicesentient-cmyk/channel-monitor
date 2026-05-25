@@ -536,32 +536,8 @@
       ],
       "url": "https://t.me/xhqcankao/29565",
       "scraped_at": "2026-05-24T21:01:03.856264"
-    },
-    {
-      "id": "zaihuapd_41551",
-      "channel": "zaihuapd",
-      "text": "DeepSeek-V4 团队继续征集角色扮演等反馈小红书·备用频道·",
-      "clean_text": "DeepSeek-V4 团队继续征集角色扮演等反馈小红书·备用频道",
-      "datetime": "2026-05-24T12:10:51+00:00",
-      "views": "5K",
-      "source_links": [
-        {
-          "text": "小红书",
-          "url": "https://www.xiaohongshu.com/discovery/item/6a0ac4ce000000003601e8f6"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41551",
-      "scraped_at": "2026-05-24T21:01:02.151480"
     }
   ],
-  "count": 30,
-  "updated_at": "2026-05-26T00:10:48.731455"
+  "count": 29,
+  "updated_at": "2026-05-26T00:11:47.957790"
 }
