@@ -560,32 +560,8 @@
       ],
       "url": "https://t.me/zaihuapd/41551",
       "scraped_at": "2026-05-24T21:01:02.151480"
-    },
-    {
-      "id": "zaihuapd_41550",
-      "channel": "zaihuapd",
-      "text": "APKPure 上的 Telegram 官方版被植入间谍后门从 APKPure 下载的 Telegram 12.6.5 被重新签名打包，注入了名为 DataCollector 的间谍框架（classes3.dex，3000+行代码）。后门可窃取：全部聊天记录（含历史消息）、通讯录、手机相册、文档文件、GPS 定位、SIM 卡信息。数据经 AES-GCM 加密后上传至 C2 服务器38.190.225.166。Eric Parkervia 群友·备用频道·",
-      "clean_text": "APKPure 上的 Telegram 官方版被植入间谍后门从 APKPure 下载的 Telegram 12.6.5 被重新签名打包，注入了名为 DataCollector 的间谍框架（classes3.dex，3000+行代码）。后门可窃取：全部聊天记录（含历史消息）、通讯录、手机相册、文档文件、GPS 定位、SIM 卡信息。数据经 AES-GCM 加密后上传至 C2 服务器38.190.225.166。Eric Parkervia 群友·备用频道",
-      "datetime": "2026-05-24T11:38:22+00:00",
-      "views": "3.82K",
-      "source_links": [
-        {
-          "text": "Eric Parker",
-          "url": "https://x.com/EricParker/status/2058411298195661221"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41550",
-      "scraped_at": "2026-05-24T20:00:23.306205"
     }
   ],
-  "count": 31,
-  "updated_at": "2026-05-25T23:36:12.956618"
+  "count": 30,
+  "updated_at": "2026-05-25T23:41:17.518343"
 }
