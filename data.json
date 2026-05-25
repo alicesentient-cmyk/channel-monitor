@@ -1,6 +1,46 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29574",
+      "channel": "xhqcankao",
+      "text": "全球Token消耗量持续攀升 DeepSeek大模型登顶调用榜在 AI Agent等应用带动下，全球词元消耗量进一步攀升。根据 OpenRouter 最新数据测算，上周(18日至24日)全球AI大模型总调用量为28.9万亿Token，较此前一周增长7.4%。调用量已连续五周上涨，大模型调用需求仍在持续释放。其中，上榜的AI大模型中，中国AI大模型周调用量达9.22万亿Token，环比增长19.89%；同期美国AI大模型周调用量为4.93万亿Token，环比增长16.27%。中国大模型周调用量连续四周超过美国并稳居全球首位。截至目前，DeepSeek-V4-Flash 已登顶OpenRouter全球AI大模型调用榜。——财联社",
+      "clean_text": "全球Token消耗量持续攀升 DeepSeek大模型登顶调用榜在 AI Agent等应用带动下，全球词元消耗量进一步攀升。根据 OpenRouter 最新数据测算，上周(18日至24日)全球AI大模型总调用量为28.9万亿Token，较此前一周增长7.4%。调用量已连续五周上涨，大模型调用需求仍在持续释放。其中，上榜的AI大模型中，中国AI大模型周调用量达9.22万亿Token，环比增长19.89%；同期美国AI大模型周调用量为4.93万亿Token，环比增长16.27%。中国大模型周调用量连续四周超过美国并稳居全球首位。截至目前，DeepSeek-V4-Flash 已登顶OpenRouter全球AI大模型调用榜。——财联社",
+      "datetime": "2026-05-25T08:41:16+00:00",
+      "views": "1.63K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2380489?sv=8.5.9"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29574",
+      "scraped_at": "2026-05-25T17:00:43.947310"
+    },
+    {
+      "id": "zaihuapd_41562",
+      "channel": "zaihuapd",
+      "text": "Antigravity 新增低用量模型并重置付费配额Antigravity 收到反馈称简单任务仍消耗过多 token，因此正式加入 Gemini 3.5 Flash(Low)作为优化方案。内部测试中，该模型比 Gemini 3.5 Flash(Medium)少生成约 45% 的 token，且 SWE 任务表现普遍优于 Gemini 3 Flash(High)。与此同步，所有付费计划的 Gemini 配额已全部重置，以保障用户接下来一周的开发用量。Varun Mohan(@_mohansolo)·备用频道·",
+      "clean_text": "Antigravity 新增低用量模型并重置付费配额Antigravity 收到反馈称简单任务仍消耗过多 token，因此正式加入 Gemini 3.5 Flash(Low)作为优化方案。内部测试中，该模型比 Gemini 3.5 Flash(Medium)少生成约 45% 的 token，且 SWE 任务表现普遍优于 Gemini 3 Flash(High)。与此同步，所有付费计划的 Gemini 配额已全部重置，以保障用户接下来一周的开发用量。Varun Mohan(@_mohansolo)·备用频道",
+      "datetime": "2026-05-25T08:32:47+00:00",
+      "views": "3.18K",
+      "source_links": [
+        {
+          "text": "Varun Mohan(@_mohansolo)",
+          "url": "https://x.com/_mohansolo/status/2058740603563966758"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41562",
+      "scraped_at": "2026-05-25T17:00:41.883995"
+    },
+    {
       "id": "xhqcankao_29573",
       "channel": "xhqcankao",
       "text": "华为：麒麟手机芯片性能将大幅提升在国际电路与系统研讨会上，华为半导体业务部总裁何庭波表示，将于今年秋季面世的麒麟手机芯片率先采用了逻辑折叠技术，性能大幅提升。2025年推出麒麟9030Pro后，华为手机芯片进入性能 “饱和区”。为此，华为基于以 “时间缩微” 替代“几何缩微” 的新定律，找到了新的路径，使手机芯片性能实现阶跃式提升。何庭波说，“麒麟 2026 ” 手机芯片是逻辑折叠技术的首次成功实施。它基于全新的自由逻辑设计理念，由单层扩展至了双层，并实现晶体管密度等指标的大幅提升。我们取得了一系列仅靠先进制程工艺难以取得的进步。诸如此类的大量创新，会逐步落地到2027年及之后的量产芯片中。——东方财富",
@@ -519,6 +559,6 @@
       "scraped_at": "2026-05-24T15:01:07.233834"
     }
   ],
-  "count": 27,
-  "updated_at": "2026-05-25T17:00:02.092889"
+  "count": 29,
+  "updated_at": "2026-05-25T17:05:06.929066"
 }
