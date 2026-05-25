@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41557",
+      "channel": "zaihuapd",
+      "text": "打开京东 App 搜索「待领红包963」，每日可领 3 次，最高 26618 元。无线端：https://u.jd.com/HDixgif电脑端：https://u.jd.com/H1uKYB0618 活动攻略：www.fanli.me",
+      "clean_text": "打开京东 App 搜索「待领红包963」，每日可领 3 次，最高 26618 元。无线端：https://u.jd.com/HDixgif电脑端：https://u.jd.com/H1uKYB0618 活动攻略：www.fanli.me",
+      "datetime": "2026-05-25T03:32:56+00:00",
+      "views": "2.97K",
+      "source_links": [
+        {
+          "text": "https://u.jd.com/HDixgif",
+          "url": "https://u.jd.com/HDixgif"
+        },
+        {
+          "text": "https://u.jd.com/H1uKYB0",
+          "url": "https://u.jd.com/H1uKYB0"
+        },
+        {
+          "text": "www.fanli.me",
+          "url": "http://www.fanli.me/"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41557",
+      "scraped_at": "2026-05-25T12:00:56.024514"
+    },
+    {
       "id": "zaihuapd_41556",
       "channel": "zaihuapd",
       "text": "Epic 公布虚幻引擎 6，首个展示游戏是《Rocket League》Epic Games 在巴黎 Rocket League 冠军系列赛上首次公开虚幻引擎 6，并确认《Rocket League》将直接从虚幻引擎 3 跨代升级至 6。这款赛车足球游戏此前一直基于 X360 世代的 UE3 运行，此次引擎换代幅度堪比续作。虚幻引擎 5 发布四年来虽已成为影视与游戏行业使用最广泛的中间件之一，但在 PC 端因优化问题频遭批评，不少玩家呼吁“先修好 UE5”。此次 UE6 预告还出现了《堡垒之夜》等游戏串联镜头，被视为 Epic 推动元宇宙平台的信号。PC Gamer·备用频道·",
@@ -511,6 +535,6 @@
       "scraped_at": "2026-05-21T20:01:08.675982"
     }
   ],
-  "count": 26,
-  "updated_at": "2026-05-25T12:00:26.053371"
+  "count": 27,
+  "updated_at": "2026-05-25T12:05:29.789719"
 }
