@@ -1,6 +1,30 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41559",
+      "channel": "zaihuapd",
+      "text": "腾讯 ima copilot 全量开放，主打个人知识库常驻记忆腾讯 5 月 25 日宣布，AI 助手 ima copilot 结束灰度测试，向所有用户开放。这个产品主打“用个人知识库自主完成任务”，支持记忆用户习惯、感知当前操作内容，并直接调用笔记和知识库，解决传统 AI 聊完就断、任务接不上的问题。其记忆系统分为 Soul、User、Memory、Agent 四个模块，分别对应交互风格、用户档案、项目长期记忆和任务经验积累。江南都市报viaBoytime A·备用频道·",
+      "clean_text": "腾讯 ima copilot 全量开放，主打个人知识库常驻记忆腾讯 5 月 25 日宣布，AI 助手 ima copilot 结束灰度测试，向所有用户开放。这个产品主打“用个人知识库自主完成任务”，支持记忆用户习惯、感知当前操作内容，并直接调用笔记和知识库，解决传统 AI 聊完就断、任务接不上的问题。其记忆系统分为 Soul、User、Memory、Agent 四个模块，分别对应交互风格、用户档案、项目长期记忆和任务经验积累。江南都市报viaBoytime A·备用频道",
+      "datetime": "2026-05-25T05:21:17+00:00",
+      "views": "4.07K",
+      "source_links": [
+        {
+          "text": "江南都市报",
+          "url": "https://mp.weixin.qq.com/s/4gEMiKaRMTL2ieH5EnnnyA"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41559",
+      "scraped_at": "2026-05-25T14:00:37.846939"
+    },
+    {
       "id": "zaihuapd_41558",
       "channel": "zaihuapd",
       "text": "北京多部门约谈 17 家平台：要求“6・18”杜绝非理性大额补贴北京市市场监管局近日联合商务、文旅、通信管理、税务、邮政、版权、知识产权及人民银行北京市分行，集中约谈 17 家重点平台企业，为即将到来的“6·18”大促划定合规红线。核心要求包括：严禁非理性大额补贴促销，规范价格与广告营销，强化食品安全风险防控，未经消费者同意不得发送营销短信，并及时准确报送平台内经营者信息。各部门还分别就住宿资质核验、退订规则展示、地理标志保护、版权审核、金融活动准入等提出具体监管提示。市市场监管局表示，将持续完善平台经济常态化监管，推动平台、经营者和劳动者共赢发展。北京市市场监督管理局·备用频道·",
@@ -503,38 +527,6 @@
       "scraped_at": "2026-05-24T11:00:43.056319"
     },
     {
-      "id": "zaihuapd_41543",
-      "channel": "zaihuapd",
-      "text": "苹果为生成式 AI 功能准备新网站genai.apple.com苹果已筹备genai.apple.com子域，目前尚无页面，但可能在 WWDC 2026 前启用，用于展示生成式 AI 功能。WWDC 2026 将在 6 月 8 日开幕，届时苹果将发布 iOS 27 等系统的 AI 升级，包括支持屏幕感知的 Siri、独立 Siri 对话应用、视频自动字幕、自然语言语音控制及更多 Apple Intelligence 特性。MacRumors·备用频道·",
-      "clean_text": "苹果为生成式 AI 功能准备新网站genai.apple.com苹果已筹备genai.apple.com子域，目前尚无页面，但可能在 WWDC 2026 前启用，用于展示生成式 AI 功能。WWDC 2026 将在 6 月 8 日开幕，届时苹果将发布 iOS 27 等系统的 AI 升级，包括支持屏幕感知的 Siri、独立 Siri 对话应用、视频自动字幕、自然语言语音控制及更多 Apple Intelligence 特性。MacRumors·备用频道",
-      "datetime": "2026-05-24T01:58:00+00:00",
-      "views": "275",
-      "source_links": [
-        {
-          "text": "genai.apple.com",
-          "url": "http://genai.apple.com/"
-        },
-        {
-          "text": "genai.apple.com",
-          "url": "http://genai.apple.com/"
-        },
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41543",
-      "scraped_at": "2026-05-24T10:00:06.185157"
-    },
-    {
       "id": "zaihuapd_41507",
       "channel": "zaihuapd",
       "text": "YU7 GT 小米人车家全生态新品发布会正在直播哔哩哔哩·备用频道·",
@@ -560,5 +552,5 @@
     }
   ],
   "count": 28,
-  "updated_at": "2026-05-25T13:57:07.901620"
+  "updated_at": "2026-05-25T14:02:11.675904"
 }
