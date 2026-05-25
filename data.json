@@ -528,24 +528,8 @@
       ],
       "url": "https://t.me/zaihuapd/41549",
       "scraped_at": "2026-05-24T18:00:26.238619"
-    },
-    {
-      "id": "xhqcankao_29564",
-      "channel": "xhqcankao",
-      "text": "虎牙旗下apkpure应用商店正在分发恶意软件近日有多名开发者发现，虎牙旗下的知名第三方应用商店 APKPure 在分发 Telegram 相关应用时存在严重安全问题，强烈建议用户立即停止使用该平台下载任何 APK。开发者南宫雪珊在其电报频道发文警告 apkpure 不可信，其中 Telegram 商店版 apk 签名不正确；Telegram X 包名不正确；目前仅web版正常，但版本也不是最新的。除此之外，安全研究员、逆向工程师 Eric Parker 在社交媒体平台 X 上也发文警告，APKPure 正在分发恶意版本的 Telegram。公开资料显示，虎牙于2023年以8100万美元的总现金对价，从腾讯手中收购apkpure应用商店的100%股权。——南宫雪珊、Eric Parker",
-      "clean_text": "虎牙旗下apkpure应用商店正在分发恶意软件近日有多名开发者发现，虎牙旗下的知名第三方应用商店 APKPure 在分发 Telegram 相关应用时存在严重安全问题，强烈建议用户立即停止使用该平台下载任何 APK。开发者南宫雪珊在其电报频道发文警告 apkpure 不可信，其中 Telegram 商店版 apk 签名不正确；Telegram X 包名不正确；目前仅web版正常，但版本也不是最新的。除此之外，安全研究员、逆向工程师 Eric Parker 在社交媒体平台 X 上也发文警告，APKPure 正在分发恶意版本的 Telegram。公开资料显示，虎牙于2023年以8100万美元的总现金对价，从腾讯手中收购apkpure应用商店的100%股权。——南宫雪珊、Eric Parker",
-      "datetime": "2026-05-24T09:31:10+00:00",
-      "views": "2.21K",
-      "source_links": [
-        {
-          "text": "Eric Parker",
-          "url": "https://x.com/i/status/2058411298195661221"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29564",
-      "scraped_at": "2026-05-24T18:00:28.224492"
     }
   ],
-  "count": 29,
-  "updated_at": "2026-05-25T21:29:13.385887"
+  "count": 28,
+  "updated_at": "2026-05-25T21:34:17.512431"
 }
