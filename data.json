@@ -504,32 +504,8 @@
       ],
       "url": "https://t.me/zaihuapd/41550",
       "scraped_at": "2026-05-24T20:00:23.306205"
-    },
-    {
-      "id": "zaihuapd_41549",
-      "channel": "zaihuapd",
-      "text": "Google Docs 推出 Docs Live 功能：支持语音对话生成文档Google 推出名为 Docs Live 的新功能，用户可以通过语音对话直接生成文档草稿。该工具利用 Gemini AI 将口述的零散想法转化为结构化的文本，并支持根据指令调整大纲或语气。Docs Live 还能调用用户 Google Drive 中的文件或搜索网页信息来充实内容，旨在解决创作初期的“白纸焦虑”。该功能目前遵循 Google Workspace 的隐私规则，输入数据不会用于模型训练。Docs Live 将首先面向 iOS 和 Android 端的付费 AI 订阅用户开放，随后将逐步覆盖网页端及更多普通用户。The Wall Street Journal·备用频道·",
-      "clean_text": "Google Docs 推出 Docs Live 功能：支持语音对话生成文档Google 推出名为 Docs Live 的新功能，用户可以通过语音对话直接生成文档草稿。该工具利用 Gemini AI 将口述的零散想法转化为结构化的文本，并支持根据指令调整大纲或语气。Docs Live 还能调用用户 Google Drive 中的文件或搜索网页信息来充实内容，旨在解决创作初期的“白纸焦虑”。该功能目前遵循 Google Workspace 的隐私规则，输入数据不会用于模型训练。Docs Live 将首先面向 iOS 和 Android 端的付费 AI 订阅用户开放，随后将逐步覆盖网页端及更多普通用户。The Wall Street Journal·备用频道",
-      "datetime": "2026-05-24T09:39:46+00:00",
-      "views": "1.98K",
-      "source_links": [
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/tech/personal-tech/google-docs-live-test-e4473e07"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41549",
-      "scraped_at": "2026-05-24T18:00:26.238619"
     }
   ],
-  "count": 28,
-  "updated_at": "2026-05-25T21:39:21.305090"
+  "count": 27,
+  "updated_at": "2026-05-25T21:44:26.439550"
 }
