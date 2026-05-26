@@ -587,32 +587,8 @@
       ],
       "url": "https://t.me/zaihuapd/41557",
       "scraped_at": "2026-05-25T12:00:56.024514"
-    },
-    {
-      "id": "zaihuapd_41556",
-      "channel": "zaihuapd",
-      "text": "Epic 公布虚幻引擎 6，首个展示游戏是《Rocket League》Epic Games 在巴黎 Rocket League 冠军系列赛上首次公开虚幻引擎 6，并确认《Rocket League》将直接从虚幻引擎 3 跨代升级至 6。这款赛车足球游戏此前一直基于 X360 世代的 UE3 运行，此次引擎换代幅度堪比续作。虚幻引擎 5 发布四年来虽已成为影视与游戏行业使用最广泛的中间件之一，但在 PC 端因优化问题频遭批评，不少玩家呼吁“先修好 UE5”。此次 UE6 预告还出现了《堡垒之夜》等游戏串联镜头，被视为 Epic 推动元宇宙平台的信号。PC Gamer·备用频道·",
-      "clean_text": "Epic 公布虚幻引擎 6，首个展示游戏是《Rocket League》Epic Games 在巴黎 Rocket League 冠军系列赛上首次公开虚幻引擎 6，并确认《Rocket League》将直接从虚幻引擎 3 跨代升级至 6。这款赛车足球游戏此前一直基于 X360 世代的 UE3 运行，此次引擎换代幅度堪比续作。虚幻引擎 5 发布四年来虽已成为影视与游戏行业使用最广泛的中间件之一，但在 PC 端因优化问题频遭批评，不少玩家呼吁“先修好 UE5”。此次 UE6 预告还出现了《堡垒之夜》等游戏串联镜头，被视为 Epic 推动元宇宙平台的信号。PC Gamer·备用频道",
-      "datetime": "2026-05-25T02:20:58+00:00",
-      "views": "3.74K",
-      "source_links": [
-        {
-          "text": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/epic-reveals-first-unreal-engine-6-game-and-its-not-fortnite/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41556",
-      "scraped_at": "2026-05-25T11:00:27.605080"
     }
   ],
-  "count": 32,
-  "updated_at": "2026-05-26T14:19:14.805932"
+  "count": 31,
+  "updated_at": "2026-05-26T14:24:19.405504"
 }
