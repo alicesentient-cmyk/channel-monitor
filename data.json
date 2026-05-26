@@ -621,24 +621,8 @@
       ],
       "url": "https://t.me/xhqcankao/29575",
       "scraped_at": "2026-05-25T18:00:23.804915"
-    },
-    {
-      "id": "xhqcankao_29574",
-      "channel": "xhqcankao",
-      "text": "全球Token消耗量持续攀升 DeepSeek大模型登顶调用榜在 AI Agent等应用带动下，全球词元消耗量进一步攀升。根据 OpenRouter 最新数据测算，上周(18日至24日)全球AI大模型总调用量为28.9万亿Token，较此前一周增长7.4%。调用量已连续五周上涨，大模型调用需求仍在持续释放。其中，上榜的AI大模型中，中国AI大模型周调用量达9.22万亿Token，环比增长19.89%；同期美国AI大模型周调用量为4.93万亿Token，环比增长16.27%。中国大模型周调用量连续四周超过美国并稳居全球首位。截至目前，DeepSeek-V4-Flash 已登顶OpenRouter全球AI大模型调用榜。——财联社",
-      "clean_text": "全球Token消耗量持续攀升 DeepSeek大模型登顶调用榜在 AI Agent等应用带动下，全球词元消耗量进一步攀升。根据 OpenRouter 最新数据测算，上周(18日至24日)全球AI大模型总调用量为28.9万亿Token，较此前一周增长7.4%。调用量已连续五周上涨，大模型调用需求仍在持续释放。其中，上榜的AI大模型中，中国AI大模型周调用量达9.22万亿Token，环比增长19.89%；同期美国AI大模型周调用量为4.93万亿Token，环比增长16.27%。中国大模型周调用量连续四周超过美国并稳居全球首位。截至目前，DeepSeek-V4-Flash 已登顶OpenRouter全球AI大模型调用榜。——财联社",
-      "datetime": "2026-05-25T08:41:16+00:00",
-      "views": "1.63K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2380489?sv=8.5.9"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29574",
-      "scraped_at": "2026-05-25T17:00:43.947310"
     }
   ],
-  "count": 37,
-  "updated_at": "2026-05-26T20:40:24.244457"
+  "count": 36,
+  "updated_at": "2026-05-26T20:45:29.475170"
 }
