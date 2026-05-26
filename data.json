@@ -685,32 +685,8 @@
       ],
       "url": "https://t.me/zaihuapd/41561",
       "scraped_at": "2026-05-25T16:01:07.068599"
-    },
-    {
-      "id": "zaihuapd_41560",
-      "channel": "zaihuapd",
-      "text": "人工智能时代网络安全专家需求激增人工智能带来的代码膨胀和新型安全威胁，正推动企业大规模招聘网络安全人才。今年一季度相关岗位招聘量同比增长 11%，猎头公司称高管职位需求较去年秋季增加了五到七倍，部分公司甚至因人手不足拒绝接单。随着 Anthropic 的 Mythos 等模型展现出发现和利用软件漏洞的能力，企业急需既懂安全技术又能驾驭 AI 复杂性的高管。目前高级安全岗位薪酬包可达七八百万美元，安全工程师也需补充 AI 技能才能保持竞争力。The New York Times·备用频道·",
-      "clean_text": "人工智能时代网络安全专家需求激增人工智能带来的代码膨胀和新型安全威胁，正推动企业大规模招聘网络安全人才。今年一季度相关岗位招聘量同比增长 11%，猎头公司称高管职位需求较去年秋季增加了五到七倍，部分公司甚至因人手不足拒绝接单。随着 Anthropic 的 Mythos 等模型展现出发现和利用软件漏洞的能力，企业急需既懂安全技术又能驾驭 AI 复杂性的高管。目前高级安全岗位薪酬包可达七八百万美元，安全工程师也需补充 AI 技能才能保持竞争力。The New York Times·备用频道",
-      "datetime": "2026-05-25T06:21:41+00:00",
-      "views": "3.99K",
-      "source_links": [
-        {
-          "text": "The New York Times",
-          "url": "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41560",
-      "scraped_at": "2026-05-25T15:00:47.414756"
     }
   ],
-  "count": 40,
-  "updated_at": "2026-05-26T18:18:12.987128"
+  "count": 39,
+  "updated_at": "2026-05-26T18:23:17.201037"
 }
