@@ -734,24 +734,8 @@
       ],
       "url": "https://t.me/zaihuapd/41565",
       "scraped_at": "2026-05-25T23:01:04.733108"
-    },
-    {
-      "id": "xhqcankao_29580",
-      "channel": "xhqcankao",
-      "text": "一款开源App为国行机补上快速分享功能绝大多数安卓手机都预装谷歌Play服务，而该服务内置了快速分享。​这项功能可让您使用快速分享应用轻松地与附近的 Android 设备、Chromebook、iPhone 或个人电脑分享文件。没有预装谷歌服务的安卓手机缺少该分享功能，但一款新的应用正在填补这一空白。一款名为 Bada 的开源安卓应用最近已发布在GitHub上，并且它可以与谷歌的快速分享服务互通。换句话说，该应用可以让您在已配备快速分享的安卓设备与没有快速分享的手机之间传输文件。Bada只需要安装在没有快速分享的手机上。Bada支持通过同一Wi-Fi连接进行设备间的文件传输，但GitHub页面也指出，您可以通过Wi-Fi Direct共享文件，以实现真正的设备对设备连接。——Androidauthority",
-      "clean_text": "一款开源App为国行机补上快速分享功能绝大多数安卓手机都预装谷歌Play服务，而该服务内置了快速分享。​这项功能可让您使用快速分享应用轻松地与附近的 Android 设备、Chromebook、iPhone 或个人电脑分享文件。没有预装谷歌服务的安卓手机缺少该分享功能，但一款新的应用正在填补这一空白。一款名为 Bada 的开源安卓应用最近已发布在GitHub上，并且它可以与谷歌的快速分享服务互通。换句话说，该应用可以让您在已配备快速分享的安卓设备与没有快速分享的手机之间传输文件。Bada只需要安装在没有快速分享的手机上。Bada支持通过同一Wi-Fi连接进行设备间的文件传输，但GitHub页面也指出，您可以通过Wi-Fi Direct共享文件，以实现真正的设备对设备连接。——Androidauthority",
-      "datetime": "2026-05-25T14:46:20+00:00",
-      "views": "1.13K",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/bada-app-quick-share-interoperable-3670644/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29580",
-      "scraped_at": "2026-05-25T23:01:06.426372"
     }
   ],
-  "count": 43,
-  "updated_at": "2026-05-27T02:41:40.507644"
+  "count": 42,
+  "updated_at": "2026-05-27T02:46:44.307631"
 }
