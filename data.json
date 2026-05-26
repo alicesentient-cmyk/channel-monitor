@@ -606,32 +606,8 @@
       ],
       "url": "https://t.me/zaihuapd/41558",
       "scraped_at": "2026-05-25T13:00:42.737693"
-    },
-    {
-      "id": "zaihuapd_41557",
-      "channel": "zaihuapd",
-      "text": "打开京东 App 搜索「待领红包963」，每日可领 3 次，最高 26618 元。无线端：https://u.jd.com/HDixgif电脑端：https://u.jd.com/H1uKYB0618 活动攻略：www.fanli.me",
-      "clean_text": "打开京东 App 搜索「待领红包963」，每日可领 3 次，最高 26618 元。无线端：https://u.jd.com/HDixgif电脑端：https://u.jd.com/H1uKYB0618 活动攻略：www.fanli.me",
-      "datetime": "2026-05-25T03:32:56+00:00",
-      "views": "2.97K",
-      "source_links": [
-        {
-          "text": "https://u.jd.com/HDixgif",
-          "url": "https://u.jd.com/HDixgif"
-        },
-        {
-          "text": "https://u.jd.com/H1uKYB0",
-          "url": "https://u.jd.com/H1uKYB0"
-        },
-        {
-          "text": "www.fanli.me",
-          "url": "http://www.fanli.me/"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41557",
-      "scraped_at": "2026-05-25T12:00:56.024514"
     }
   ],
-  "count": 34,
-  "updated_at": "2026-05-26T15:30:21.410127"
+  "count": 33,
+  "updated_at": "2026-05-26T15:35:26.823480"
 }
