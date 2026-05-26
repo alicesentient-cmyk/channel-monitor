@@ -666,32 +666,8 @@
       ],
       "url": "https://t.me/zaihuapd/41560",
       "scraped_at": "2026-05-25T15:00:47.414756"
-    },
-    {
-      "id": "zaihuapd_41559",
-      "channel": "zaihuapd",
-      "text": "腾讯 ima copilot 全量开放，主打个人知识库常驻记忆腾讯 5 月 25 日宣布，AI 助手 ima copilot 结束灰度测试，向所有用户开放。这个产品主打“用个人知识库自主完成任务”，支持记忆用户习惯、感知当前操作内容，并直接调用笔记和知识库，解决传统 AI 聊完就断、任务接不上的问题。其记忆系统分为 Soul、User、Memory、Agent 四个模块，分别对应交互风格、用户档案、项目长期记忆和任务经验积累。江南都市报viaBoytime A·备用频道·",
-      "clean_text": "腾讯 ima copilot 全量开放，主打个人知识库常驻记忆腾讯 5 月 25 日宣布，AI 助手 ima copilot 结束灰度测试，向所有用户开放。这个产品主打“用个人知识库自主完成任务”，支持记忆用户习惯、感知当前操作内容，并直接调用笔记和知识库，解决传统 AI 聊完就断、任务接不上的问题。其记忆系统分为 Soul、User、Memory、Agent 四个模块，分别对应交互风格、用户档案、项目长期记忆和任务经验积累。江南都市报viaBoytime A·备用频道",
-      "datetime": "2026-05-25T05:21:17+00:00",
-      "views": "4.07K",
-      "source_links": [
-        {
-          "text": "江南都市报",
-          "url": "https://mp.weixin.qq.com/s/4gEMiKaRMTL2ieH5EnnnyA"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41559",
-      "scraped_at": "2026-05-25T14:00:37.846939"
     }
   ],
-  "count": 38,
-  "updated_at": "2026-05-26T17:17:12.125387"
+  "count": 37,
+  "updated_at": "2026-05-26T17:22:18.978128"
 }
