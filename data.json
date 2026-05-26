@@ -693,32 +693,8 @@
       ],
       "url": "https://t.me/xhqcankao/29572",
       "scraped_at": "2026-05-25T16:01:10.413194"
-    },
-    {
-      "id": "zaihuapd_41561",
-      "channel": "zaihuapd",
-      "text": "马斯克宣布 Grok V9-Medium 模型训练完成，预计两三周后发布马斯克称 Grok V9-Medium（1.5T）基础模型已完成训练，评估结果良好。目前团队正在进行微调，几天后启动强化学习，预计两三周后向公众发布。该版本在补充训练中加入了大量 Cursor 数据，相比目前线上运行的 0.5T v8-small，在处理复杂编程任务时将有明显提升。Elon Musk·备用频道·",
-      "clean_text": "马斯克宣布 Grok V9-Medium 模型训练完成，预计两三周后发布马斯克称 Grok V9-Medium（1.5T）基础模型已完成训练，评估结果良好。目前团队正在进行微调，几天后启动强化学习，预计两三周后向公众发布。该版本在补充训练中加入了大量 Cursor 数据，相比目前线上运行的 0.5T v8-small，在处理复杂编程任务时将有明显提升。Elon Musk·备用频道",
-      "datetime": "2026-05-25T07:07:04+00:00",
-      "views": "5.08K",
-      "source_links": [
-        {
-          "text": "Elon Musk",
-          "url": "https://x.com/elonmusk/status/2058787384364265734"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41561",
-      "scraped_at": "2026-05-25T16:01:07.068599"
     }
   ],
-  "count": 41,
-  "updated_at": "2026-05-26T19:03:52.881300"
+  "count": 40,
+  "updated_at": "2026-05-26T19:08:57.928527"
 }
