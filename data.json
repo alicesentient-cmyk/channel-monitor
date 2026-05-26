@@ -637,32 +637,8 @@
       ],
       "url": "https://t.me/xhqcankao/29574",
       "scraped_at": "2026-05-25T17:00:43.947310"
-    },
-    {
-      "id": "zaihuapd_41562",
-      "channel": "zaihuapd",
-      "text": "Antigravity 新增低用量模型并重置付费配额Antigravity 收到反馈称简单任务仍消耗过多 token，因此正式加入 Gemini 3.5 Flash(Low)作为优化方案。内部测试中，该模型比 Gemini 3.5 Flash(Medium)少生成约 45% 的 token，且 SWE 任务表现普遍优于 Gemini 3 Flash(High)。与此同步，所有付费计划的 Gemini 配额已全部重置，以保障用户接下来一周的开发用量。Varun Mohan(@_mohansolo)·备用频道·",
-      "clean_text": "Antigravity 新增低用量模型并重置付费配额Antigravity 收到反馈称简单任务仍消耗过多 token，因此正式加入 Gemini 3.5 Flash(Low)作为优化方案。内部测试中，该模型比 Gemini 3.5 Flash(Medium)少生成约 45% 的 token，且 SWE 任务表现普遍优于 Gemini 3 Flash(High)。与此同步，所有付费计划的 Gemini 配额已全部重置，以保障用户接下来一周的开发用量。Varun Mohan(@_mohansolo)·备用频道",
-      "datetime": "2026-05-25T08:32:47+00:00",
-      "views": "3.18K",
-      "source_links": [
-        {
-          "text": "Varun Mohan(@_mohansolo)",
-          "url": "https://x.com/_mohansolo/status/2058740603563966758"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41562",
-      "scraped_at": "2026-05-25T17:00:41.883995"
     }
   ],
-  "count": 38,
-  "updated_at": "2026-05-26T20:30:15.274106"
+  "count": 37,
+  "updated_at": "2026-05-26T20:35:20.247680"
 }
