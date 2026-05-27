@@ -1016,24 +1016,8 @@
       ],
       "url": "https://t.me/zaihuapd/41571",
       "scraped_at": "2026-05-26T13:00:35.263691"
-    },
-    {
-      "id": "xhqcankao_29587",
-      "channel": "xhqcankao",
-      "text": "加州在遭反对后拟豁免Linux遵守年龄验证法加州备受争议的《数字年龄保障法案》(AB 1043）原要求操作系统收集用户年龄，引发Linux和开源社区的强烈反对。隐私倡导者批评该法案对去中心化开源平台不切实际且具有侵入性。为回应这些担忧，加州提出了新的《议会法案1856》（AB 1856）修正案。该修正案提议豁免允许用户复制、再分发和修改软件的许可下发布的操作系统，这意味着大多数主流Linux发行版（如Debian, Ubuntu等）将获得豁免。该修正案由原法案作者提出，旨在解决开源社区的顾虑，但商业专有平台仍可能受年龄验证要求约束。原法案的规定将于2027年1月1日生效。——Tom's 硬件",
-      "clean_text": "加州在遭反对后拟豁免Linux遵守年龄验证法加州备受争议的《数字年龄保障法案》(AB 1043）原要求操作系统收集用户年龄，引发Linux和开源社区的强烈反对。隐私倡导者批评该法案对去中心化开源平台不切实际且具有侵入性。为回应这些担忧，加州提出了新的《议会法案1856》（AB 1856）修正案。该修正案提议豁免允许用户复制、再分发和修改软件的许可下发布的操作系统，这意味着大多数主流Linux发行版（如Debian, Ubuntu等）将获得豁免。该修正案由原法案作者提出，旨在解决开源社区的顾虑，但商业专有平台仍可能受年龄验证要求约束。原法案的规定将于2027年1月1日生效。——Tom's 硬件",
-      "datetime": "2026-05-26T03:53:36+00:00",
-      "views": "647",
-      "source_links": [
-        {
-          "text": "Tom's 硬件",
-          "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29587",
-      "scraped_at": "2026-05-26T12:00:46.286636"
     }
   ],
-  "count": 56,
-  "updated_at": "2026-05-27T15:52:14.945597"
+  "count": 55,
+  "updated_at": "2026-05-27T15:57:19.075913"
 }
