@@ -1177,24 +1177,8 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41574",
       "scraped_at": "2026-05-26T15:00:48.814699"
-    },
-    {
-      "id": "xhqcankao_29588",
-      "channel": "xhqcankao",
-      "text": "三星相册将很快停止直接与OneDrive同步早在去年九月，媒体在泄露的One UI 8.5版本中发现了代码，表明三星相册将终止对微软 OneDrive 的支持。近日，一位Reddit用户发现，微软最近更新了其关于三星相册同步的支持页面。根据该页面，你将在2026年9月30日 失去从相册应用直接同步照片到 OneDrive 的功能。据悉，三星计划用其自己的云解决方案取代 OneDrive 。微软警告称，在此日期之后，存储在 OneDrive 中的所有照片将从三星相册中消失。然而，这些照片仍将存在，并可在 OneDrive 网站以及安装了该应用的设备上访问。你也可以选择继续将照片备份到微软的云服务。但你需要更新相册设置并下载 OneDrive 应用。——Androidauthority",
-      "clean_text": "三星相册将很快停止直接与OneDrive同步早在去年九月，媒体在泄露的One UI 8.5版本中发现了代码，表明三星相册将终止对微软 OneDrive 的支持。近日，一位Reddit用户发现，微软最近更新了其关于三星相册同步的支持页面。根据该页面，你将在2026年9月30日 失去从相册应用直接同步照片到 OneDrive 的功能。据悉，三星计划用其自己的云解决方案取代 OneDrive 。微软警告称，在此日期之后，存储在 OneDrive 中的所有照片将从三星相册中消失。然而，这些照片仍将存在，并可在 OneDrive 网站以及安装了该应用的设备上访问。你也可以选择继续将照片备份到微软的云服务。但你需要更新相册设置并下载 OneDrive 应用。——Androidauthority",
-      "datetime": "2026-05-26T06:11:34+00:00",
-      "views": "2.32K",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/samsung-gallery-onedrive-backups-end-date-3670801/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29588",
-      "scraped_at": "2026-05-26T15:00:50.497491"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-27T18:10:08.714360"
+  "count": 65,
+  "updated_at": "2026-05-27T18:14:19.157130"
 }
