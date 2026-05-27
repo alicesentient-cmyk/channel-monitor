@@ -1179,24 +1179,8 @@
       ],
       "url": "https://t.me/xhqcankao/29606",
       "scraped_at": "2026-05-27T00:00:57.638991"
-    },
-    {
-      "id": "xhqcankao_29605",
-      "channel": "xhqcankao",
-      "text": "7-Eleven个人数据泄露事件影响超18.5万人数据泄露通知服务 Have I Been Pwned 表示，便利店连锁7-Eleven发生的数据泄露影响了超过185,000人，包括他们的姓名、出生日期和实际地址。该数据泄露于四月被报道，还包括电话号码和电子邮件地址。收集数据泄露缓存并提醒受影响个人其数据已被泄露的Have I Been Pwned在一份新列表中表示，7-Eleven是一次黑客与敲诈攻击的受害者。ShinyHunters 组织声称对此次泄露负责，称如果他们没有收到付款，就会公开这些数据。根据缅因州总检察长办公室的记录，7-Eleven CISO 卡斯特尔表示，黑客入侵了一台包含加盟商文件的内部服务器。——Techcrunch",
-      "clean_text": "7-Eleven个人数据泄露事件影响超18.5万人数据泄露通知服务 Have I Been Pwned 表示，便利店连锁7-Eleven发生的数据泄露影响了超过185,000人，包括他们的姓名、出生日期和实际地址。该数据泄露于四月被报道，还包括电话号码和电子邮件地址。收集数据泄露缓存并提醒受影响个人其数据已被泄露的Have I Been Pwned在一份新列表中表示，7-Eleven是一次黑客与敲诈攻击的受害者。ShinyHunters 组织声称对此次泄露负责，称如果他们没有收到付款，就会公开这些数据。根据缅因州总检察长办公室的记录，7-Eleven CISO 卡斯特尔表示，黑客入侵了一台包含加盟商文件的内部服务器。——Techcrunch",
-      "datetime": "2026-05-26T14:27:01+00:00",
-      "views": "3K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29605",
-      "scraped_at": "2026-05-27T00:00:57.638582"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-28T02:25:07.559040"
+  "count": 65,
+  "updated_at": "2026-05-28T02:30:12.284445"
 }
