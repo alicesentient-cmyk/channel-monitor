@@ -1227,32 +1227,8 @@
       ],
       "url": "https://t.me/xhqcankao/29601",
       "scraped_at": "2026-05-27T00:00:57.636736"
-    },
-    {
-      "id": "zaihuapd_41578",
-      "channel": "zaihuapd",
-      "text": "支付宝发布 Token Pay 和 AI 钱包支付宝 5 月 26 日发布 Token Pay 服务和 AI 钱包。用户即日起可在支付宝搜索“AI 钱包”体验，用于管理智能体任务的支付过程，并查询支付后账单。Token Pay 面向大模型公司，支持全球用户订阅、端内充 Token 等场景。MiniMax、阶跃星辰已与支付宝合作，多个 AI 原生产品将采用相关支付方案。新浪财经·备用频道·",
-      "clean_text": "支付宝发布 Token Pay 和 AI 钱包支付宝 5 月 26 日发布 Token Pay 服务和 AI 钱包。用户即日起可在支付宝搜索“AI 钱包”体验，用于管理智能体任务的支付过程，并查询支付后账单。Token Pay 面向大模型公司，支持全球用户订阅、端内充 Token 等场景。MiniMax、阶跃星辰已与支付宝合作，多个 AI 原生产品将采用相关支付方案。新浪财经·备用频道",
-      "datetime": "2026-05-26T12:31:49+00:00",
-      "views": "12.5K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://finance.sina.com.cn/jjxw/2026-05-26/doc-inhzffss1524895.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41578",
-      "scraped_at": "2026-05-27T00:00:55.321448"
     }
   ],
-  "count": 69,
-  "updated_at": "2026-05-28T00:28:27.421414"
+  "count": 68,
+  "updated_at": "2026-05-28T00:33:33.400178"
 }
