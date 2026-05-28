@@ -1,6 +1,102 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29652",
+      "channel": "xhqcankao",
+      "text": "Snowflake与AWS签订60亿美元采购协议云数据仓库公司Snowflake公布强劲季度业绩，并宣布未来五年将在亚马逊云服务AWS上投入六十亿美元，消息推动其盘后股价暴涨。周三，亚马逊宣布，Snowflake已承诺在五年内向 AWS采购价值60亿美元的服务与技术，内容涵盖亚马逊自研的基于Arm架构的Graviton通用芯片，以及用于人工智能的GPU。这是继 Anthropic 公司承诺十年内在AWS投入逾1000亿美元之后，AWS在AI领域赢得的又一重大客户承诺，显示出其在云基础设施竞争中的持续吸引力。与此同时，Snowflake还宣布以未披露金额收购AI初创公司Natoma，进一步强化其AI布局。——华尔街见闻、华尔街日报",
+      "clean_text": "Snowflake与AWS签订60亿美元采购协议云数据仓库公司Snowflake公布强劲季度业绩，并宣布未来五年将在亚马逊云服务AWS上投入六十亿美元，消息推动其盘后股价暴涨。周三，亚马逊宣布，Snowflake已承诺在五年内向 AWS采购价值60亿美元的服务与技术，内容涵盖亚马逊自研的基于Arm架构的Graviton通用芯片，以及用于人工智能的GPU。这是继 Anthropic 公司承诺十年内在AWS投入逾1000亿美元之后，AWS在AI领域赢得的又一重大客户承诺，显示出其在云基础设施竞争中的持续吸引力。与此同时，Snowflake还宣布以未披露金额收购AI初创公司Natoma，进一步强化其AI布局。——华尔街见闻、华尔街日报",
+      "datetime": "2026-05-28T01:31:23+00:00",
+      "views": "1.18K",
+      "source_links": [
+        {
+          "text": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3773285"
+        },
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/amazonstrikes-6-billion-deal-with-snowflake-for-agentic-computing-chips-15a8f095?mod=cn_hp_featst_pos5"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29652",
+      "scraped_at": "2026-05-28T10:03:34.102810"
+    },
+    {
+      "id": "zaihuapd_41607",
+      "channel": "zaihuapd",
+      "text": "OpenAI 将于 6 月 2 日下架 Codex 中的 GPT-5.2 与 GPT-5.3-CodexOpenAI 宣布，自 6 月 2 日起，通过 ChatGPT 账号登录 Codex 的用户将无法再使用 GPT-5.2 和 GPT-5.3-Codex。免费版用户将默认使用 GPT-5.5 作为前沿编程模型。该公司表示，此举是为了简化 Codex 计算集群管理。需要说明的是，这两个模型仍会继续通过 API 提供服务，不会完全停用。Tibo·备用频道·",
+      "clean_text": "OpenAI 将于 6 月 2 日下架 Codex 中的 GPT-5.2 与 GPT-5.3-CodexOpenAI 宣布，自 6 月 2 日起，通过 ChatGPT 账号登录 Codex 的用户将无法再使用 GPT-5.2 和 GPT-5.3-Codex。免费版用户将默认使用 GPT-5.5 作为前沿编程模型。该公司表示，此举是为了简化 Codex 计算集群管理。需要说明的是，这两个模型仍会继续通过 API 提供服务，不会完全停用。Tibo·备用频道",
+      "datetime": "2026-05-28T01:20:07+00:00",
+      "views": "4.18K",
+      "source_links": [
+        {
+          "text": "Tibo",
+          "url": "https://x.com/thsottiaux/status/2059650685948551384"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41607",
+      "scraped_at": "2026-05-28T10:03:32.509392"
+    },
+    {
+      "id": "xhqcankao_29651",
+      "channel": "xhqcankao",
+      "text": "谷歌员工被控在Polymarket进行内幕交易美国检方称，一名谷歌软件工程师涉嫌通过在预测平台Polymarket上非法交易合约赚取了120万美元。这些合约允许用户押注“2025年搜索量最高的人物”会是谁。根据周三公开的一份刑事起诉书，米歇尔·斯帕尼奥洛被控欺诈和洗钱。现年36岁的斯帕尼奥洛已在联邦治安法官面前出庭，并缴纳 225万美元保释金后获释。检方称，他去年涉嫌利用谷歌仅向 “少数员工” 开放的非公开搜索数据进行下注。法院文件显示，这些数据表明，当时搜索量最高的人物是音乐人肯德里克·拉马尔和d4vd，两人均进入了搜索榜前五名。——凤凰网科技、华尔街日报",
+      "clean_text": "谷歌员工被控在Polymarket进行内幕交易美国检方称，一名谷歌软件工程师涉嫌通过在预测平台Polymarket上非法交易合约赚取了120万美元。这些合约允许用户押注“2025年搜索量最高的人物”会是谁。根据周三公开的一份刑事起诉书，米歇尔·斯帕尼奥洛被控欺诈和洗钱。现年36岁的斯帕尼奥洛已在联邦治安法官面前出庭，并缴纳 225万美元保释金后获释。检方称，他去年涉嫌利用谷歌仅向 “少数员工” 开放的非公开搜索数据进行下注。法院文件显示，这些数据表明，当时搜索量最高的人物是音乐人肯德里克·拉马尔和d4vd，两人均进入了搜索榜前五名。——凤凰网科技、华尔街日报",
+      "datetime": "2026-05-28T01:02:54+00:00",
+      "views": "1.95K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006XP374aa15K0WBACfhPfbGxbBUVgO0Cu1rcAgjtdLJuWjCO1A1LrC1Q9--H8cQkhL--"
+        },
+        {
+          "text": "华尔街日报",
+          "url": "https://www.wsj.com/tech/google-employee-charged-with-insider-trading-on-polymarket-b6a3b60f"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29651",
+      "scraped_at": "2026-05-28T10:03:34.102433"
+    },
+    {
+      "id": "xhqcankao_29650",
+      "channel": "xhqcankao",
+      "text": "亚马逊开始将AI购物技术出售给其他零售商亚马逊一直在使用自主研发的AI技术，帮助用户比较产品并代其购买或重新订购商品。现在，该公司正在将该技术授权给其他零售商，因为亚马逊力求成为整个网络上AI购物的支柱。在周三的一篇博客文章中，亚马逊表示，其正在从Alexa for Shopping中提取“架构、入门代码和经验教训”，并将其打包在一起，提供给零售行业的其他参与者。亚马逊表示，这项新服务允许零售商在“短短六十天内”推出针对其店面、商品目录和品牌量身定制的自己的AI购物工具。对亚马逊公司来说，此举标志着其将内部构建的技术作为服务出售给其他公司的又一次努力。——CNBC",
+      "clean_text": "亚马逊开始将AI购物技术出售给其他零售商亚马逊一直在使用自主研发的AI技术，帮助用户比较产品并代其购买或重新订购商品。现在，该公司正在将该技术授权给其他零售商，因为亚马逊力求成为整个网络上AI购物的支柱。在周三的一篇博客文章中，亚马逊表示，其正在从Alexa for Shopping中提取“架构、入门代码和经验教训”，并将其打包在一起，提供给零售行业的其他参与者。亚马逊表示，这项新服务允许零售商在“短短六十天内”推出针对其店面、商品目录和品牌量身定制的自己的AI购物工具。对亚马逊公司来说，此举标志着其将内部构建的技术作为服务出售给其他公司的又一次努力。——CNBC",
+      "datetime": "2026-05-28T00:30:41+00:00",
+      "views": "2.34K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29650",
+      "scraped_at": "2026-05-28T10:03:34.102029"
+    },
+    {
+      "id": "xhqcankao_29649",
+      "channel": "xhqcankao",
+      "text": "Robinhood宣布股民可接入第三方智能体AI智能体(AI Agent)亲自上阵炒股的时代终于来了。有着美国 “散户大本营” 称号的互联网券商Robinhood周三宣布，即日起推出“智能体交易”功能，允许股民接入第三方AI智能体，让AI代理自己炒股。据Robinhood介绍称，用户可以为自己的AI开设一个独立的“智能体交易账户”，限制AI只能使用存入这个账户的资金。每当AI代理进行交易时，交易软件都会推送通知，用户也能实时查看AI交易的盈亏情况，并在情况不妙时一键剥夺AI的交易权限。对于散户而言，这大概率会是绝大多数人头一回接触自动化交易。——财联社",
+      "clean_text": "Robinhood宣布股民可接入第三方智能体AI智能体(AI Agent)亲自上阵炒股的时代终于来了。有着美国 “散户大本营” 称号的互联网券商Robinhood周三宣布，即日起推出“智能体交易”功能，允许股民接入第三方AI智能体，让AI代理自己炒股。据Robinhood介绍称，用户可以为自己的AI开设一个独立的“智能体交易账户”，限制AI只能使用存入这个账户的资金。每当AI代理进行交易时，交易软件都会推送通知，用户也能实时查看AI交易的盈亏情况，并在情况不妙时一键剥夺AI的交易权限。对于散户而言，这大概率会是绝大多数人头一回接触自动化交易。——财联社",
+      "datetime": "2026-05-28T00:04:19+00:00",
+      "views": "2.72K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2383460?sv=8.5.9&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29649",
+      "scraped_at": "2026-05-28T10:03:34.101656"
+    },
+    {
       "id": "xhqcankao_29648",
       "channel": "xhqcankao",
       "text": "Valve宣布上市两年半的掌机定价暴涨40%V 社周四凌晨宣布，此前持续处于缺货状态的 Steam Deck 掌上电脑重新上架，但价格大涨。其中512GB存储规格的Steam Deck OLED 售价从原先的 549美元暴涨至 789美元；1TB版本的机型则从649美元上调至949美元。两款机器分别涨价240美元和300美元，涨幅均超过40%。就一款2023年底发布的电子设备而言，即便机器本身的性能已经落后于时代，还能额外加价4成销售，堪称 “存储超级周期” 里才能见到的奇景。Valve 也直言，机器本体没有任何变化，新价格反映的是当前组件成本的状况，以及整个行业面临的其他全球性物流挑战。——财联社、彭博社",
@@ -1174,6 +1270,6 @@
       "scraped_at": "2026-05-27T08:00:49.976470"
     }
   ],
-  "count": 64,
-  "updated_at": "2026-05-28T10:00:57.381590"
+  "count": 69,
+  "updated_at": "2026-05-28T10:06:01.095239"
 }
