@@ -1272,32 +1272,8 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41599",
       "scraped_at": "2026-05-27T18:00:41.151133"
-    },
-    {
-      "id": "zaihuapd_41598",
-      "channel": "zaihuapd",
-      "text": "长鑫科技科创板 IPO 过会，拟募资 295 亿元长鑫科技科创板 IPO 获上市委会议通过，拟募资 295 亿元，用于存储器晶圆制造量产线技术升级、DRAM 技术升级和前瞻技术研发等项目。上海证券交易所·备用频道·",
-      "clean_text": "长鑫科技科创板 IPO 过会，拟募资 295 亿元长鑫科技科创板 IPO 获上市委会议通过，拟募资 295 亿元，用于存储器晶圆制造量产线技术升级、DRAM 技术升级和前瞻技术研发等项目。上海证券交易所·备用频道",
-      "datetime": "2026-05-27T09:12:54+00:00",
-      "views": "4.7K",
-      "source_links": [
-        {
-          "text": "上海证券交易所",
-          "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/000001_20260527_SPLE.pdf"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41598",
-      "scraped_at": "2026-05-27T18:00:41.150606"
     }
   ],
-  "count": 70,
-  "updated_at": "2026-05-28T21:11:43.658391"
+  "count": 69,
+  "updated_at": "2026-05-28T21:16:54.024706"
 }
