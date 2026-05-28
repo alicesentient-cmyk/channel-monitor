@@ -1124,48 +1124,8 @@
       ],
       "url": "https://t.me/xhqcankao/29642",
       "scraped_at": "2026-05-28T00:00:59.301704"
-    },
-    {
-      "id": "zaihuapd_41606",
-      "channel": "zaihuapd",
-      "text": "拼多多一季度利润低于预期拼多多母公司 PDD Holdings 一季度净利润同比下降 15% 至 125.5 亿元，低于分析师预期的 228 亿元；营收同比增长 11% 至 1062.3 亿元，也低于 1099.5 亿元的预期。利润下滑主要受中国电商竞争加剧和监管压力影响。PDD 将业绩波动归因于供应链等长期投入，并计划推出商家支持措施以提升留存。其美股盘前一度下跌约 5.4%。The Wall Street Journal·备用频道·",
-      "clean_text": "拼多多一季度利润低于预期拼多多母公司 PDD Holdings 一季度净利润同比下降 15% 至 125.5 亿元，低于分析师预期的 228 亿元；营收同比增长 11% 至 1062.3 亿元，也低于 1099.5 亿元的预期。利润下滑主要受中国电商竞争加剧和监管压力影响。PDD 将业绩波动归因于供应链等长期投入，并计划推出商家支持措施以提升留存。其美股盘前一度下跌约 5.4%。The Wall Street Journal·备用频道",
-      "datetime": "2026-05-27T15:33:31+00:00",
-      "views": "2.74K",
-      "source_links": [
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/business/earnings/temu-owner-pdd-posts-profit-miss-amid-fierce-competition-in-china-a8cf3b0a?st=sGDa8G&amp;reflink=desktopwebshare_permalink"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41606",
-      "scraped_at": "2026-05-28T00:00:57.362535"
-    },
-    {
-      "id": "xhqcankao_29641",
-      "channel": "xhqcankao",
-      "text": "华为郑俊谈中美AI：整体水平差距仅2.7%5月27日，“2026凤凰湾区财经论坛·金融峰会”在中国深圳举行。论坛上，华为技术有限公司金融系统部CTO郑俊表示，在中美AI行业竞争中，双方在模型层面的差距已十分微小。根据斯坦福最新报告数据，中国AI模型整体水平仅落后美国2.7%，整体实力已无限接近国际先进水平。郑俊指出，自今年二月份以来，中国模型的调用量持续碾压美国模型。他分析称，这一现象主要源于两大核心原因，一是国内开源模型能力大幅提升，已逼近美国闭源模型水平；二是依托中国基础设施优势，叠加算力、电力资源优势，国产AI模型具备更强的价格经济性。——凤凰网",
-      "clean_text": "华为郑俊谈中美AI：整体水平差距仅2.7%5月27日，“2026凤凰湾区财经论坛·金融峰会”在中国深圳举行。论坛上，华为技术有限公司金融系统部CTO郑俊表示，在中美AI行业竞争中，双方在模型层面的差距已十分微小。根据斯坦福最新报告数据，中国AI模型整体水平仅落后美国2.7%，整体实力已无限接近国际先进水平。郑俊指出，自今年二月份以来，中国模型的调用量持续碾压美国模型。他分析称，这一现象主要源于两大核心原因，一是国内开源模型能力大幅提升，已逼近美国闭源模型水平；二是依托中国基础设施优势，叠加算力、电力资源优势，国产AI模型具备更强的价格经济性。——凤凰网",
-      "datetime": "2026-05-27T15:32:52+00:00",
-      "views": "1.34K",
-      "source_links": [
-        {
-          "text": "凤凰网",
-          "url": "https://ishare.ifeng.com/c/s/v0068YOa28YJS67AZsJiOBgiIUjp-_sQLKuRqgZcgWie6cJ-_kCP5lYqO2gHYWZjx6m1f3"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29641",
-      "scraped_at": "2026-05-28T00:00:59.301364"
     }
   ],
-  "count": 61,
-  "updated_at": "2026-05-29T03:30:01.755714"
+  "count": 59,
+  "updated_at": "2026-05-29T03:35:05.685846"
 }
