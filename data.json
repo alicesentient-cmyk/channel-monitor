@@ -1232,32 +1232,8 @@
       ],
       "url": "https://t.me/xhqcankao/29637",
       "scraped_at": "2026-05-27T22:01:04.456701"
-    },
-    {
-      "id": "zaihuapd_41605",
-      "channel": "zaihuapd",
-      "text": "微博最新版 iOS App 16.5.3 疑似配置高考加油横幅图标时失误，在用户自定义主屏幕图标为深色时，图标呈现黑白样式App Store·备用频道·",
-      "clean_text": "微博最新版 iOS App 16.5.3 疑似配置高考加油横幅图标时失误，在用户自定义主屏幕图标为深色时，图标呈现黑白样式App Store·备用频道",
-      "datetime": "2026-05-27T13:18:20+00:00",
-      "views": "4.93K",
-      "source_links": [
-        {
-          "text": "App Store",
-          "url": "https://apps.apple.com/app/id350962117"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41605",
-      "scraped_at": "2026-05-27T22:01:02.775218"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-29T01:17:15.936084"
+  "count": 65,
+  "updated_at": "2026-05-29T01:22:20.170227"
 }
