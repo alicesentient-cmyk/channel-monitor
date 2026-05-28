@@ -1363,32 +1363,8 @@
       ],
       "url": "https://t.me/xhqcankao/29615",
       "scraped_at": "2026-05-27T11:00:36.158011"
-    },
-    {
-      "id": "zaihuapd_41586",
-      "channel": "zaihuapd",
-      "text": "高通与字节跳动达成 AI 芯片合作，字节跳动将采购数百万颗定制 ASIC据消息人士透露，高通已与字节跳动就 AI ASIC 芯片达成合作协议，字节跳动将采购数百万颗定制芯片，用于支持其 AI 服务算力需求。这笔合作还将帮助字节跳动把内部芯片设计转化为可量产的半导体产品。此前高通曾在 4 月底宣布，将于今年向某超大规模云服务商交付首款 ASIC。目前高通代表拒绝置评，字节跳动发言人也未回应置评请求。Bloomberg·备用频道·",
-      "clean_text": "高通与字节跳动达成 AI 芯片合作，字节跳动将采购数百万颗定制 ASIC据消息人士透露，高通已与字节跳动就 AI ASIC 芯片达成合作协议，字节跳动将采购数百万颗定制芯片，用于支持其 AI 服务算力需求。这笔合作还将帮助字节跳动把内部芯片设计转化为可量产的半导体产品。此前高通曾在 4 月底宣布，将于今年向某超大规模云服务商交付首款 ASIC。目前高通代表拒绝置评，字节跳动发言人也未回应置评请求。Bloomberg·备用频道",
-      "datetime": "2026-05-27T02:29:37+00:00",
-      "views": "3.19K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-26/qualcomm-to-supply-chips-to-tiktok-owner-bytedance-video"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41586",
-      "scraped_at": "2026-05-27T11:00:34.523105"
     }
   ],
-  "count": 74,
-  "updated_at": "2026-05-28T14:24:33.715821"
+  "count": 73,
+  "updated_at": "2026-05-28T14:29:37.824201"
 }
