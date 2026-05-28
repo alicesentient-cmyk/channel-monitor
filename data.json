@@ -1355,32 +1355,8 @@
       ],
       "url": "https://t.me/xhqcankao/29613",
       "scraped_at": "2026-05-27T10:00:42.074037"
-    },
-    {
-      "id": "zaihuapd_41584",
-      "channel": "zaihuapd",
-      "text": "NVIDIA 控制面板在历经 20 年后正式停用，所有功能均已迁移至 NVIDIA 应用程序英伟达已让 GeForce 用户使用的经典 Nvidia 控制面板正式退役，主要功能现已转入 Nvidia App。这个用了 20 年的旧应用今后不再增加新功能，也不再提供修复。旧版控制面板会继续留在已安装的电脑中，直到用户进行一次驱动全新安装；需要时仍可通过 Microsoft Store 下载。RTX PRO 用户的控制面板会继续支持，直到专业功能也迁入 Nvidia App。The Verge·备用频道·",
-      "clean_text": "♻️NVIDIA 控制面板在历经 20 年后正式停用，所有功能均已迁移至 NVIDIA 应用程序英伟达已让 GeForce 用户使用的经典 Nvidia 控制面板正式退役，主要功能现已转入 Nvidia App。这个用了 20 年的旧应用今后不再增加新功能，也不再提供修复。旧版控制面板会继续留在已安装的电脑中，直到用户进行一次驱动全新安装；需要时仍可通过 Microsoft Store 下载。RTX PRO 用户的控制面板会继续支持，直到专业功能也迁入 Nvidia App。The Verge·备用频道",
-      "datetime": "2026-05-27T01:06:20+00:00",
-      "views": "4.87K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41584",
-      "scraped_at": "2026-05-27T10:00:40.434487"
     }
   ],
-  "count": 74,
-  "updated_at": "2026-05-28T13:03:24.368758"
+  "count": 73,
+  "updated_at": "2026-05-28T13:08:29.206957"
 }
