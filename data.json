@@ -1306,32 +1306,8 @@
       ],
       "url": "https://t.me/zaihuapd/41593",
       "scraped_at": "2026-05-27T15:00:15.895388"
-    },
-    {
-      "id": "zaihuapd_41592",
-      "channel": "zaihuapd",
-      "text": "SpaceX 上市在即，与特斯拉合并猜想升温SpaceX 预计约两周后在纳斯达克挂牌，估值达 1.25 万亿美元。马斯克即将同时执掌两家万亿级企业，外界再度猜测他可能将 SpaceX 与市值约 1.6 万亿美元的特斯拉整合。知情人士称，马斯克内部曾讨论合并，特斯拉员工也长期视其为大概率事件。两家公司在人员、采购和算力上深度绑定：特斯拉曾投资 xAI 20 亿美元，SpaceX 则大量采购特斯拉电池与 Cybertruck。法律人士认为，合并虽不太可能触发反垄断问题，却将面临换股定价、母公司归属及股东利益平衡等复杂挑战。CNBC·备用频道·",
-      "clean_text": "SpaceX 上市在即，与特斯拉合并猜想升温SpaceX 预计约两周后在纳斯达克挂牌，估值达 1.25 万亿美元。马斯克即将同时执掌两家万亿级企业，外界再度猜测他可能将 SpaceX 与市值约 1.6 万亿美元的特斯拉整合。知情人士称，马斯克内部曾讨论合并，特斯拉员工也长期视其为大概率事件。两家公司在人员、采购和算力上深度绑定：特斯拉曾投资 xAI 20 亿美元，SpaceX 则大量采购特斯拉电池与 Cybertruck。法律人士认为，合并虽不太可能触发反垄断问题，却将面临换股定价、母公司归属及股东利益平衡等复杂挑战。CNBC·备用频道",
-      "datetime": "2026-05-27T06:15:40+00:00",
-      "views": "4.51K",
-      "source_links": [
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/26/spacex-tesla-merger-chatter-reignites-as-musk-rocket-company-nears-ipo.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41592",
-      "scraped_at": "2026-05-27T15:00:15.894837"
     }
   ],
-  "count": 72,
-  "updated_at": "2026-05-28T18:13:15.470285"
+  "count": 71,
+  "updated_at": "2026-05-28T18:18:20.406176"
 }
