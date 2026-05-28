@@ -1072,24 +1072,8 @@
       ],
       "url": "https://t.me/xhqcankao/29645",
       "scraped_at": "2026-05-28T02:01:02.309600"
-    },
-    {
-      "id": "xhqcankao_29644",
-      "channel": "xhqcankao",
-      "text": "YouTube现在将自动标记人工智能视频随着AI视频模型变得更加强大，YouTube不再仅仅依赖创作者来标记他们的AI视频，平台现在将代表他们自动标记视频。该公司周三宣布，其内部系统将在检测到使用了「显著的逼真AI」时添加标记。YouTube平台还将使其AI标记更加显眼，以便它们在长视频和YouTube Shorts中更容易被注意到。从五月份开始，YouTube现在将使用新的内部信号来帮助识别AI生成的内容并相应地进行标记，该公司表示。这并不意味着创作者不应该继续披露他们对AI的使用，但如果他们忽略这样做，YouTube将为他们标记视频。——Techcrunch",
-      "clean_text": "YouTube现在将自动标记人工智能视频随着AI视频模型变得更加强大，YouTube不再仅仅依赖创作者来标记他们的AI视频，平台现在将代表他们自动标记视频。该公司周三宣布，其内部系统将在检测到使用了「显著的逼真AI」时添加标记。YouTube平台还将使其AI标记更加显眼，以便它们在长视频和YouTube Shorts中更容易被注意到。从五月份开始，YouTube现在将使用新的内部信号来帮助识别AI生成的内容并相应地进行标记，该公司表示。这并不意味着创作者不应该继续披露他们对AI的使用，但如果他们忽略这样做，YouTube将为他们标记视频。——Techcrunch",
-      "datetime": "2026-05-27T17:02:31+00:00",
-      "views": "1.11K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29644",
-      "scraped_at": "2026-05-28T02:01:02.309231"
     }
   ],
-  "count": 57,
-  "updated_at": "2026-05-29T05:01:46.511125"
+  "count": 56,
+  "updated_at": "2026-05-29T05:06:50.441821"
 }
