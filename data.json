@@ -1282,32 +1282,8 @@
       ],
       "url": "https://t.me/xhqcankao/29623",
       "scraped_at": "2026-05-27T15:00:17.500095"
-    },
-    {
-      "id": "zaihuapd_41593",
-      "channel": "zaihuapd",
-      "text": "彭博称中国延后空客入境审批中国正推迟批准部分空客飞机交付，以推动欧洲加快 C919 适航认证。这被视为对欧洲监管机构迟迟未认证中国商飞飞机的一种回应。ReutersC919 已获得中国民航局适航许可，但要进入欧洲市场仍需通过欧洲航空安全局认证。欧洲航空安全局此前称，C919 取得欧洲适航认证仍需 3 至 6 年。该机型定位于单通道窄体客机市场，主要对标空客 A320neo 和波音 737 Max。·备用频道·",
-      "clean_text": "彭博称中国延后空客入境审批中国正推迟批准部分空客飞机交付，以推动欧洲加快 C919 适航认证。这被视为对欧洲监管机构迟迟未认证中国商飞飞机的一种回应。ReutersC919 已获得中国民航局适航许可，但要进入欧洲市场仍需通过欧洲航空安全局认证。欧洲航空安全局此前称，C919 取得欧洲适航认证仍需 3 至 6 年。该机型定位于单通道窄体客机市场，主要对标空客 A320neo 和波音 737 Max。·备用频道",
-      "datetime": "2026-05-27T06:26:59+00:00",
-      "views": "3.56K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/china-stalls-airbus-approvals-pressure-europe-homegrown-chinese-jets-bloomberg-2026-05-27/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41593",
-      "scraped_at": "2026-05-27T15:00:15.895388"
     }
   ],
-  "count": 71,
-  "updated_at": "2026-05-28T18:23:24.480196"
+  "count": 70,
+  "updated_at": "2026-05-28T18:28:28.630313"
 }
