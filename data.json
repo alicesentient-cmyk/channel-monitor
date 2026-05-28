@@ -1227,36 +1227,8 @@
       ],
       "url": "https://t.me/xhqcankao/29634",
       "scraped_at": "2026-05-27T20:01:09.484650"
-    },
-    {
-      "id": "zaihuapd_41602",
-      "channel": "zaihuapd",
-      "text": "加州拟豁免开源系统遵守年龄验证法加州 AB 1043《数字年龄保障法案》可能迎来调整。5 月 18 日提交的 AB 1856 修正案重新定义“操作系统提供商”，拟豁免允许用户自由复制、再分发和修改软件的开源操作系统，Debian、Ubuntu 等主流 Linux 发行版将不再适用年龄验证要求。部分商业化平台仍可能受约束，例如默认搭载专有应用商店的 SteamOS。AB 1856 预计 6 月投票，原法案计划 2027 年 1 月生效。AB 1043|AB 1856via 正阳·备用频道·",
-      "clean_text": "加州拟豁免开源系统遵守年龄验证法加州 AB 1043《数字年龄保障法案》可能迎来调整。5 月 18 日提交的 AB 1856 修正案重新定义“操作系统提供商”，拟豁免允许用户自由复制、再分发和修改软件的开源操作系统，Debian、Ubuntu 等主流 Linux 发行版将不再适用年龄验证要求。部分商业化平台仍可能受约束，例如默认搭载专有应用商店的 SteamOS。AB 1856 预计 6 月投票，原法案计划 2027 年 1 月生效。AB 1043|AB 1856via 正阳·备用频道",
-      "datetime": "2026-05-27T11:45:00+00:00",
-      "views": "1.87K",
-      "source_links": [
-        {
-          "text": "AB 1043",
-          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043"
-        },
-        {
-          "text": "AB 1856",
-          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1856"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41602",
-      "scraped_at": "2026-05-27T20:01:07.794883"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-05-28T23:40:04.288203"
+  "count": 65,
+  "updated_at": "2026-05-28T23:45:08.921778"
 }
