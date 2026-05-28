@@ -1266,24 +1266,8 @@
       ],
       "url": "https://t.me/xhqcankao/29624",
       "scraped_at": "2026-05-27T16:01:05.495636"
-    },
-    {
-      "id": "xhqcankao_29623",
-      "channel": "xhqcankao",
-      "text": "荷兰以公共利益风险为由阻止美企进行收购荷兰政府已阻止美国信息技术巨头Kyndryl收购Solvinity，后者是一家托管荷兰在线身份平台的荷兰云服务提供商。荷兰政府称，该交易可能构成公共利益风险。荷兰数字经济部长威勒米恩·艾尔茨在周一发布的一封信函中表示，政府已对该收购实施全面禁止。该交易本将使Kyndryl能够以未披露的金额收购Solvinity。Solvinity托管一个名为DigiD的平台，这是一项由荷兰政府管理的服务，允许该国居民在访问公共服务时验证其身份。这一交易引发担忧，即 DigiD 数据将落入外国控制之下，并可能被美国当局要求获取。——Techcrunch",
-      "clean_text": "荷兰以公共利益风险为由阻止美企进行收购荷兰政府已阻止美国信息技术巨头Kyndryl收购Solvinity，后者是一家托管荷兰在线身份平台的荷兰云服务提供商。荷兰政府称，该交易可能构成公共利益风险。荷兰数字经济部长威勒米恩·艾尔茨在周一发布的一封信函中表示，政府已对该收购实施全面禁止。该交易本将使Kyndryl能够以未披露的金额收购Solvinity。Solvinity托管一个名为DigiD的平台，这是一项由荷兰政府管理的服务，允许该国居民在访问公共服务时验证其身份。这一交易引发担忧，即 DigiD 数据将落入外国控制之下，并可能被美国当局要求获取。——Techcrunch",
-      "datetime": "2026-05-27T06:30:47+00:00",
-      "views": "1.37K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29623",
-      "scraped_at": "2026-05-27T15:00:17.500095"
     }
   ],
-  "count": 70,
-  "updated_at": "2026-05-28T18:28:28.630313"
+  "count": 69,
+  "updated_at": "2026-05-28T18:33:32.539754"
 }
