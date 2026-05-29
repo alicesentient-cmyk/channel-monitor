@@ -1055,26 +1055,6 @@
       "scraped_at": "2026-05-28T20:01:09.335719"
     },
     {
-      "id": "xhqcankao_29671",
-      "channel": "xhqcankao",
-      "text": "马斯克称与Anthropic算力合作只有180天SpaceX CEO埃隆·马斯克周四表示，公司仅同意将其Colossus AI训练数据中心集群租给Anthropic使用六个月，而非此前所暗示的数年。马斯克在X上发帖称：“SpaceX并未承诺将Colossus出租多年，尽管未来确实有这种可能性。”他还补充表示，该协议是一项为期180天的租约。此后，双方均可在提前90天通知的情况下终止租赁协议。马斯克表示：“短期租约是我们的要求，不是Anthropic提出的。我们不会让他们措手不及，会提供一个合理的退出方案。但如果算力变得极其紧张，我曾说过，我们可能在某个时候需要把它拿回来。”月初，SpaceX与Anthropic 达成算力合作协议，向后者出租数据中心。——凤凰网科技、路透社",
-      "clean_text": "马斯克称与Anthropic算力合作只有180天SpaceX CEO埃隆·马斯克周四表示，公司仅同意将其Colossus AI训练数据中心集群租给Anthropic使用六个月，而非此前所暗示的数年。马斯克在X上发帖称：“SpaceX并未承诺将Colossus出租多年，尽管未来确实有这种可能性。”他还补充表示，该协议是一项为期180天的租约。此后，双方均可在提前90天通知的情况下终止租赁协议。马斯克表示：“短期租约是我们的要求，不是Anthropic提出的。我们不会让他们措手不及，会提供一个合理的退出方案。但如果算力变得极其紧张，我曾说过，我们可能在某个时候需要把它拿回来。”月初，SpaceX与Anthropic 达成算力合作协议，向后者出租数据中心。——凤凰网科技、路透社",
-      "datetime": "2026-05-28T11:01:38+00:00",
-      "views": "2.37K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006-_EHFHrE7RaF6xXl9ekFNlzPJq31CkoR4kVMYC3vPHkg4I7rtwOfe--qeqqYWAn2-_J"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/technology/musk-says-spacex-did-not-commit-long-term-colossus-lease-with-anthropic-2026-05-28/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29671",
-      "scraped_at": "2026-05-28T20:01:09.335315"
-    },
-    {
       "id": "zaihuapd_41643",
       "channel": "zaihuapd",
       "text": "蓝色起源新格伦火箭静态点火测试爆炸，NASA 登月计划受重创2026 年 5 月 28 日晚，亚马逊创始人杰夫·贝索斯旗下的蓝色起源公司在佛罗里达州卡纳维拉尔角 36 号发射台进行新格伦（New Glenn）重型火箭静态点火测试时发生剧烈爆炸。一级火箭的七台 BE-4 甲烷发动机在点火过程中出现异常，随后整枚火箭被大火吞没，形成巨大火球，导致一级火箭和二级火箭完全报废，发射台的闪电防护塔倒塌，地面基础设施遭受严重损毁，所幸现场无人员伤亡。此次爆炸发生在 NG-4 任务准备阶段，该任务原计划发射 48 颗亚马逊 Project Kuiper 宽带卫星。此次事故令蓝色起源年内复飞希望渺茫，并进一步延误其承担的 NASA 阿尔忒弥斯计划月球着陆器和月球车发射任务。蓝色起源目前正调查事故原因，尚未公布具体修复和复飞时间表，美国联邦航空管理局（FAA）和 NASA 均已关注事件进展。Ars Technica|TechCrunchvia:𝑨𝒂 𝒅𝒊𝒖 不争，Rainbow,Bale，my·备用频道·",
@@ -1103,6 +1083,6 @@
       "scraped_at": "2026-05-29T20:00:18.094037"
     }
   ],
-  "count": 61,
-  "updated_at": "2026-05-29T22:58:17.399788"
+  "count": 60,
+  "updated_at": "2026-05-29T23:03:23.528824"
 }
