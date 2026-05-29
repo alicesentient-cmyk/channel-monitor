@@ -1107,32 +1107,8 @@
       ],
       "url": "https://t.me/xhqcankao/29657",
       "scraped_at": "2026-05-28T12:00:23.346377"
-    },
-    {
-      "id": "zaihuapd_41610",
-      "channel": "zaihuapd",
-      "text": "知名华语动画评分网站 bangumi 疑似被墙bangumivia 艾尼娅·备用频道·",
-      "clean_text": "知名华语动画评分网站 bangumi 疑似被墙bangumivia 艾尼娅·备用频道",
-      "datetime": "2026-05-28T03:39:44+00:00",
-      "views": "2.86K",
-      "source_links": [
-        {
-          "text": "bangumi",
-          "url": "https://bgm.tv/group/topic/462070"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41610",
-      "scraped_at": "2026-05-28T12:00:21.576966"
     }
   ],
-  "count": 60,
-  "updated_at": "2026-05-29T15:38:48.962556"
+  "count": 59,
+  "updated_at": "2026-05-29T15:43:53.071282"
 }
