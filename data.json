@@ -1,6 +1,62 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29686",
+      "channel": "xhqcankao",
+      "text": "亚马逊因算力成本关闭内部AI使用排行榜亚马逊已关闭一个用于追踪员工使用AI工具情况的内部排行榜，原因是部分员工试图通过不必要的操作来提高自己的得分，导致公司的算力成本上升。亚马逊已在本周告知员工，这项名为‘Kirorank’的服务已下线。该服务会根据员工在亚马逊Kiro开发平台上的AI使用活跃度，对用户进行评分和排名。亚马逊之所以出台这一决定，是因为Kirorank导致一些员工开始让AI智能体去完成毫无必要的任务，显然是为了提高自己在排行榜上的名次。亚马逊高级副总裁戴夫·特雷德韦尔表示，该排行榜的初衷是 “好的”，但结果却因员工“刷token”而给亚马逊带来了额外成本。——凤凰网科技、英国金融时报",
+      "clean_text": "亚马逊因算力成本关闭内部AI使用排行榜亚马逊已关闭一个用于追踪员工使用AI工具情况的内部排行榜，原因是部分员工试图通过不必要的操作来提高自己的得分，导致公司的算力成本上升。亚马逊已在本周告知员工，这项名为‘Kirorank’的服务已下线。该服务会根据员工在亚马逊Kiro开发平台上的AI使用活跃度，对用户进行评分和排名。亚马逊之所以出台这一决定，是因为Kirorank导致一些员工开始让AI智能体去完成毫无必要的任务，显然是为了提高自己在排行榜上的名次。亚马逊高级副总裁戴夫·特雷德韦尔表示，该排行榜的初衷是 “好的”，但结果却因员工“刷token”而给亚马逊带来了额外成本。——凤凰网科技、英国金融时报",
+      "datetime": "2026-05-29T01:00:56+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v0064ibCuHvYoPXD11jONg34hDcslNkmiCb1WxuBQuYxjIxNonIUDBWnr7AH--kMLugpU"
+        },
+        {
+          "text": "英国金融时报",
+          "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6?syn-25a6b1a6=1"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29686",
+      "scraped_at": "2026-05-29T09:01:05.106790"
+    },
+    {
+      "id": "xhqcankao_29685",
+      "channel": "xhqcankao",
+      "text": "CNN起诉Perplexity涉嫌“逐字”抄袭文章美国有线电视新闻网CNN已对Perplexity提起诉讼，声称这家初创公司的AI工具生成其作品的 “逐字” 副本。该诉讼于周四在纽约一家法院提起，还指控 Perplexity 向用户提供锁在CNN订阅服务背后的信息。Perplexity 提供 AI“答案”引擎以及AI浏览器Comet，被指控无视 CNN 为识别或阻止 Perplexity 的未知爬虫抓取其内容所做的努力。这起诉讼写道：“人类报道、研究、撰写、编辑和创作了内容， Perplexity 未经许可或补偿就拿走了。”有线电视新闻网正在寻求赔偿，并要求永久禁止 Perplexity 涉嫌的非法行为。——Theverge",
+      "clean_text": "CNN起诉Perplexity涉嫌“逐字”抄袭文章美国有线电视新闻网CNN已对Perplexity提起诉讼，声称这家初创公司的AI工具生成其作品的 “逐字” 副本。该诉讼于周四在纽约一家法院提起，还指控 Perplexity 向用户提供锁在CNN订阅服务背后的信息。Perplexity 提供 AI“答案”引擎以及AI浏览器Comet，被指控无视 CNN 为识别或阻止 Perplexity 的未知爬虫抓取其内容所做的努力。这起诉讼写道：“人类报道、研究、撰写、编辑和创作了内容， Perplexity 未经许可或补偿就拿走了。”有线电视新闻网正在寻求赔偿，并要求永久禁止 Perplexity 涉嫌的非法行为。——Theverge",
+      "datetime": "2026-05-29T00:33:41+00:00",
+      "views": "998",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29685",
+      "scraped_at": "2026-05-29T09:01:05.106459"
+    },
+    {
+      "id": "xhqcankao_29684",
+      "channel": "xhqcankao",
+      "text": "欧盟将与Anthropic就获取Mythos展开谈判欧盟委员会官员正计划与Anthropic会面，以获取有关Mythos模型的更多信息，并请求向欧盟开放该模型。自该公司透露该模型极度擅长寻找网络漏洞并可能构成重大网络安全风险以来，欧盟一直在推动获取Mythos访问权限。这可能都需要获得美国的批准。与此同时，Anthropic计划在几周内广泛发布新的模型，网络安全能力可与Mythos相媲美。该公司此前曾表示，Mythos过于危险，不适合向公众开放。此外，该公司已完成H轮650亿美元的融资，投后估值达到9650亿美元。最新一轮融资由阿尔蒂米特资本、德拉戈尼尔投资、格林奥克斯资本和红杉资本领投。——财联社、彭博社",
+      "clean_text": "欧盟将与Anthropic就获取Mythos展开谈判欧盟委员会官员正计划与Anthropic会面，以获取有关Mythos模型的更多信息，并请求向欧盟开放该模型。自该公司透露该模型极度擅长寻找网络漏洞并可能构成重大网络安全风险以来，欧盟一直在推动获取Mythos访问权限。这可能都需要获得美国的批准。与此同时，Anthropic计划在几周内广泛发布新的模型，网络安全能力可与Mythos相媲美。该公司此前曾表示，Mythos过于危险，不适合向公众开放。此外，该公司已完成H轮650亿美元的融资，投后估值达到9650亿美元。最新一轮融资由阿尔蒂米特资本、德拉戈尼尔投资、格林奥克斯资本和红杉资本领投。——财联社、彭博社",
+      "datetime": "2026-05-29T00:01:46+00:00",
+      "views": "1.68K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2384760?sv=8.5.9&amp;app=cailianpress"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-28/eu-girds-for-talks-with-anthropic-on-access-to-mythos-ai-model"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29684",
+      "scraped_at": "2026-05-29T09:01:05.106096"
+    },
+    {
       "id": "xhqcankao_29683",
       "channel": "xhqcankao",
       "text": "IBM力争2029年前建成大型量子计算机IBM周四表示，计划未来五年向量子计算领域投资超过 100亿美元，进一步加码这一前沿技术赛道，目标是在2029年前建成全球首台能够稳定且无误执行复杂计算任务的大型量子计算机。这一公告紧随美政府上周发布的一项量子战略。美国政府当时宣布，将以股权投资方式向九家量子计算公司注资20亿美元。其中，IBM预计将获得一半资金，用于支持一家名为Anderon的新合资公司，该公司将成为美国首座专门用于量子芯片制造的工厂。IBM称这笔 100亿美元的投资将覆盖多个领域，包括研发支出、资本开支、生态合作、制造能力扩张，以及并购活动。——财联社",
@@ -1074,6 +1130,6 @@
       "scraped_at": "2026-05-28T08:00:54.904796"
     }
   ],
-  "count": 56,
-  "updated_at": "2026-05-29T08:56:06.749977"
+  "count": 59,
+  "updated_at": "2026-05-29T09:01:10.366767"
 }
