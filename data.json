@@ -1059,32 +1059,8 @@
       ],
       "url": "https://t.me/xhqcankao/29665",
       "scraped_at": "2026-05-28T17:00:22.606998"
-    },
-    {
-      "id": "zaihuapd_41617",
-      "channel": "zaihuapd",
-      "text": "英伟达计划每年在台湾投入 1500 亿美元，黄仁勋称台湾是 AI 革命中心英伟达计划每年在台湾投入约 1500 亿美元，黄仁勋称台湾是 AI 革命中心。相关投入将覆盖 AI 芯片生产、系统制造和供应链合作，规模高于数年前每年 100 亿至 150 亿美元。英伟达在台北的新总部项目预计今年动工、2030 年启用，计划容纳 4000 名员工。台湾制造体系仍是英伟达 AI 供应链核心，合作方包括台积电、鸿海、纬创和广达等。Ars Technica·备用频道·",
-      "clean_text": "英伟达计划每年在台湾投入 1500 亿美元，黄仁勋称台湾是 AI 革命中心英伟达计划每年在台湾投入约 1500 亿美元，黄仁勋称台湾是 AI 革命中心。相关投入将覆盖 AI 芯片生产、系统制造和供应链合作，规模高于数年前每年 100 亿至 150 亿美元。英伟达在台北的新总部项目预计今年动工、2030 年启用，计划容纳 4000 名员工。台湾制造体系仍是英伟达 AI 供应链核心，合作方包括台积电、鸿海、纬创和广达等。Ars Technica·备用频道",
-      "datetime": "2026-05-28T07:33:42+00:00",
-      "views": "3.13K",
-      "source_links": [
-        {
-          "text": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41617",
-      "scraped_at": "2026-05-28T16:00:38.942849"
     }
   ],
-  "count": 59,
-  "updated_at": "2026-05-29T19:33:31.306942"
+  "count": 58,
+  "updated_at": "2026-05-29T19:38:41.684872"
 }
