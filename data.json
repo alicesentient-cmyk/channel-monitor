@@ -1114,44 +1114,8 @@
       ],
       "url": "https://t.me/xhqcankao/29661",
       "scraped_at": "2026-05-28T15:00:11.419643"
-    },
-    {
-      "id": "zaihuapd_41614",
-      "channel": "zaihuapd",
-      "text": "DOMD：从零自研渲染引擎的 Markdown 所见即所得编辑器（开源 / 本地优先 / 20 KB 内核）DOMD 把「所见即所得」直接做在 Markdown 上，渲染引擎完全从零自研，没有基于 ProseMirror、Slate、Lexical 等通用富文本框架。- 内核仅 20 KB（gzip，除 React 外零运行时依赖），输入与渲染同步进行，光标稳定、无卡顿无闪烁- 单一数据源 + 不可变状态：打字、撤销重做、AI 流式注入、大文件分块加载都是同一种状态变更，所以打开 1 MB 文档与 5 KB 笔记几乎同样快- macOS 原生版（Tauri），自带 Quick Look 扩展——在访达里按空格即可直接渲染 .md- 极简：无项目树、无侧栏、无标签页、无同步、无账号，文件始终留在本地- Web 版把 .md 拖进浏览器即用，内容不上传- 自带 domd-cli，可让 AI agent 直接驱动窗口（新建窗口 / 流式写入 / 改写选区），模型输出能边生成边渲染成富文本GitHub｜在线体验｜Apple 芯片版｜Intel 版·备用频道·",
-      "clean_text": "DOMD：从零自研渲染引擎的 Markdown 所见即所得编辑器（开源 / 本地优先 / 20 KB 内核）DOMD 把「所见即所得」直接做在 Markdown 上，渲染引擎完全从零自研，没有基于 ProseMirror、Slate、Lexical 等通用富文本框架。- 内核仅 20 KB（gzip，除 React 外零运行时依赖），输入与渲染同步进行，光标稳定、无卡顿无闪烁- 单一数据源 + 不可变状态：打字、撤销重做、AI 流式注入、大文件分块加载都是同一种状态变更，所以打开 1 MB 文档与 5 KB 笔记几乎同样快- macOS 原生版（Tauri），自带 Quick Look 扩展——在访达里按空格即可直接渲染 .md- 极简：无项目树、无侧栏、无标签页、无同步、无账号，文件始终留在本地- Web 版把 .md 拖进浏览器即用，内容不上传- 自带 domd-cli，可让 AI agent 直接驱动窗口（新建窗口 / 流式写入 / 改写选区），模型输出能边生成边渲染成富文本GitHub｜在线体验｜Apple 芯片版｜Intel 版·备用频道",
-      "datetime": "2026-05-28T05:48:42+00:00",
-      "views": "1.7K",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/do-md/domd"
-        },
-        {
-          "text": "在线体验",
-          "url": "https://www.domd.app/editor"
-        },
-        {
-          "text": "Apple 芯片版",
-          "url": "https://github.com/do-md/domd/releases/latest/download/DOMD_0.1.0_aarch64.dmg"
-        },
-        {
-          "text": "Intel 版",
-          "url": "https://github.com/do-md/domd/releases/latest/download/DOMD_x86_64.dmg"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41614",
-      "scraped_at": "2026-05-28T14:00:15.148415"
     }
   ],
-  "count": 62,
-  "updated_at": "2026-05-29T17:46:06.200724"
+  "count": 61,
+  "updated_at": "2026-05-29T17:51:16.616076"
 }
