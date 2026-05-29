@@ -1167,28 +1167,8 @@
       ],
       "url": "https://t.me/xhqcankao/29653",
       "scraped_at": "2026-05-28T12:00:23.344795"
-    },
-    {
-      "id": "xhqcankao_29652",
-      "channel": "xhqcankao",
-      "text": "Snowflake与AWS签订60亿美元采购协议云数据仓库公司Snowflake公布强劲季度业绩，并宣布未来五年将在亚马逊云服务AWS上投入六十亿美元，消息推动其盘后股价暴涨。周三，亚马逊宣布，Snowflake已承诺在五年内向 AWS采购价值60亿美元的服务与技术，内容涵盖亚马逊自研的基于Arm架构的Graviton通用芯片，以及用于人工智能的GPU。这是继 Anthropic 公司承诺十年内在AWS投入逾1000亿美元之后，AWS在AI领域赢得的又一重大客户承诺，显示出其在云基础设施竞争中的持续吸引力。与此同时，Snowflake还宣布以未披露金额收购AI初创公司Natoma，进一步强化其AI布局。——华尔街见闻、华尔街日报",
-      "clean_text": "Snowflake与AWS签订60亿美元采购协议云数据仓库公司Snowflake公布强劲季度业绩，并宣布未来五年将在亚马逊云服务AWS上投入六十亿美元，消息推动其盘后股价暴涨。周三，亚马逊宣布，Snowflake已承诺在五年内向 AWS采购价值60亿美元的服务与技术，内容涵盖亚马逊自研的基于Arm架构的Graviton通用芯片，以及用于人工智能的GPU。这是继 Anthropic 公司承诺十年内在AWS投入逾1000亿美元之后，AWS在AI领域赢得的又一重大客户承诺，显示出其在云基础设施竞争中的持续吸引力。与此同时，Snowflake还宣布以未披露金额收购AI初创公司Natoma，进一步强化其AI布局。——华尔街见闻、华尔街日报",
-      "datetime": "2026-05-28T01:31:23+00:00",
-      "views": "1.18K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3773285"
-        },
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/amazonstrikes-6-billion-deal-with-snowflake-for-agentic-computing-chips-15a8f095?mod=cn_hp_featst_pos5"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29652",
-      "scraped_at": "2026-05-28T10:03:34.102810"
     }
   ],
-  "count": 63,
-  "updated_at": "2026-05-29T13:26:13.405152"
+  "count": 62,
+  "updated_at": "2026-05-29T13:31:24.255539"
 }
