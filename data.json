@@ -1148,28 +1148,8 @@
       ],
       "url": "https://t.me/xhqcankao/29648",
       "scraped_at": "2026-05-28T08:00:54.905212"
-    },
-    {
-      "id": "xhqcankao_29647",
-      "channel": "xhqcankao",
-      "text": "Meta开启“付费时代”：AI聊天机器人、社交流量全装进订阅服务Meta平台公司周三宣布，将从下个月开始测试 Meta AI 付费订阅服务，同时还将推出面向企业和网红的订阅套餐。对于普通消费者，Meta旗下三大平台也将推出每月付费3或4美元的订阅服务，提供一些个性化功能。公司披露，新的AI订阅套餐分为两档。对于频繁使用 Meta AI 生成图像和视频，或者进行深度推理的用户，将推出一档月费7.99美元的Meta One Plus订阅服务；更高级别的套餐名为Meta One Premium，每月费用为19.99美元，包含与 Meta One Plus 相同的功能，但使用额度更多。用户仍可免费使用Meta AI聊天机器人，但使用量会受限。——财联社、彭博社",
-      "clean_text": "Meta开启“付费时代”：AI聊天机器人、社交流量全装进订阅服务Meta平台公司周三宣布，将从下个月开始测试 Meta AI 付费订阅服务，同时还将推出面向企业和网红的订阅套餐。对于普通消费者，Meta旗下三大平台也将推出每月付费3或4美元的订阅服务，提供一些个性化功能。公司披露，新的AI订阅套餐分为两档。对于频繁使用 Meta AI 生成图像和视频，或者进行深度推理的用户，将推出一档月费7.99美元的Meta One Plus订阅服务；更高级别的套餐名为Meta One Premium，每月费用为19.99美元，包含与 Meta One Plus 相同的功能，但使用额度更多。用户仍可免费使用Meta AI聊天机器人，但使用量会受限。——财联社、彭博社",
-      "datetime": "2026-05-27T23:02:58+00:00",
-      "views": "1.14K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2383502?sv=8.7.8&amp;app=cailianpress&amp;"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-27/meta-to-sell-ai-chatbot-subscriptions-in-bid-to-offset-spending"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29647",
-      "scraped_at": "2026-05-28T08:00:54.904796"
     }
   ],
-  "count": 61,
-  "updated_at": "2026-05-29T10:58:09.383786"
+  "count": 60,
+  "updated_at": "2026-05-29T11:03:19.861140"
 }
