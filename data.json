@@ -1,6 +1,22 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29713",
+      "channel": "xhqcankao",
+      "text": "Anthropic七位创始人一夜晋升超级富豪Anthropic 最新的一轮融资，让这家AI公司的七位创始人一夜之间全部跻身全球最富有的 500人之列。除了阿莫代伊兄妹以外，首次进入富豪榜的 Anthropic 公司联合创始人还包括 Tom Brown、Jack Clark、Jared Kaplan、Sam McCandlish和Christopher Olah。这也是彭博亿万富豪指数历史上，单家公司单日新增富豪人数最多的一次。数据显示，每位创始人持有的公司股份不到1%。但在Anthropic于周四以9650亿美元估值完成650亿美元融资后，他们每人的持股价值均已达到约80亿美元。过去几年，AI热潮在公开市场和私募市场都催生了巨额财富。——财联社",
+      "clean_text": "Anthropic七位创始人一夜晋升超级富豪Anthropic 最新的一轮融资，让这家AI公司的七位创始人一夜之间全部跻身全球最富有的 500人之列。除了阿莫代伊兄妹以外，首次进入富豪榜的 Anthropic 公司联合创始人还包括 Tom Brown、Jack Clark、Jared Kaplan、Sam McCandlish和Christopher Olah。这也是彭博亿万富豪指数历史上，单家公司单日新增富豪人数最多的一次。数据显示，每位创始人持有的公司股份不到1%。但在Anthropic于周四以9650亿美元估值完成650亿美元融资后，他们每人的持股价值均已达到约80亿美元。过去几年，AI热潮在公开市场和私募市场都催生了巨额财富。——财联社",
+      "datetime": "2026-05-29T22:59:10+00:00",
+      "views": "47",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2385939?sv=8.6.7&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29713",
+      "scraped_at": "2026-05-30T07:00:24.506564"
+    },
+    {
       "id": "zaihuapd_41646",
       "channel": "zaihuapd",
       "text": "滴滴选定女司机功能开启内测，仅限女乘客使用  滴滴于今年 7 月初发起公众评议会“您希望滴滴提供哪些功能”话题投票，官方发文称针对投票结果，已分别组建专项团队投入开发。  目前，投票中的女乘客可选女司机、宠物快车、滴滴包车、拉黑异味车等功能已完成一期产品开发，并在少量城市小范围测试。  其中，女乘客可选女司机功能仅限女性用户实名认证后使用。据微博用户反馈，内测用户可在底部选择“可选女司机”。  滴滴出行关注频道 @ZaiHuaPd投稿爆料 @ZaiHuabot",
@@ -811,6 +827,6 @@
       "scraped_at": "2026-05-29T20:00:18.094037"
     }
   ],
-  "count": 46,
-  "updated_at": "2026-05-30T06:57:58.410625"
+  "count": 47,
+  "updated_at": "2026-05-30T07:03:02.047414"
 }
