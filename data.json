@@ -1162,36 +1162,8 @@
       ],
       "url": "https://t.me/xhqcankao/29658",
       "scraped_at": "2026-05-28T13:00:50.919722"
-    },
-    {
-      "id": "zaihuapd_41612",
-      "channel": "zaihuapd",
-      "text": "YouTube 调整 AI 视频标注，未申报内容也可能自动加标签YouTube 正在调整 AI 视频标注。从 2026 年 5 月起，针对“逼真且经 AI 明显生成或修改”的视频，标签会移到更显眼位置；如果创作者未主动申报，但系统检测到显著的逼真 AI 使用，平台也会自动加注。不逼真、动画或仅轻微修改的内容，说明仍放在展开描述里。创作者可在 YouTube Studio 更正标注状态，但使用 YouTube AI 工具生成，或带有表明完全生成式 AI 的 C2PA 元数据的内容，标注会永久保留。YouTube|MacRumors·备用频道·",
-      "clean_text": "YouTube 调整 AI 视频标注，未申报内容也可能自动加标签YouTube 正在调整 AI 视频标注。从 2026 年 5 月起，针对“逼真且经 AI 明显生成或修改”的视频，标签会移到更显眼位置；如果创作者未主动申报，但系统检测到显著的逼真 AI 使用，平台也会自动加注。不逼真、动画或仅轻微修改的内容，说明仍放在展开描述里。创作者可在 YouTube Studio 更正标注状态，但使用 YouTube AI 工具生成，或带有表明完全生成式 AI 的 C2PA 元数据的内容，标注会永久保留。YouTube|MacRumors·备用频道",
-      "datetime": "2026-05-28T04:18:42+00:00",
-      "views": "3.5K",
-      "source_links": [
-        {
-          "text": "YouTube",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
-        },
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/05/27/youtube-automatic-ai-video-labeling/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41612",
-      "scraped_at": "2026-05-28T13:00:49.218139"
     }
   ],
-  "count": 64,
-  "updated_at": "2026-05-29T16:14:18.973979"
+  "count": 63,
+  "updated_at": "2026-05-29T16:19:24.617100"
 }
