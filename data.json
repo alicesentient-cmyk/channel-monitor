@@ -1130,56 +1130,8 @@
       ],
       "url": "https://t.me/xhqcankao/29663",
       "scraped_at": "2026-05-28T16:00:40.780835"
-    },
-    {
-      "id": "zaihuapd_41615",
-      "channel": "zaihuapd",
-      "text": "上期所修订版风控办法今起实施，取消极端情况下 20% 固定涨跌停限制《上海期货交易所风险控制管理办法》（修订版）今起实施。上海期货交易所优化现行风控规则，取消了连续单边市等极端情况下 20% 涨跌停板幅度的固定限制。此举将提升涨跌停板制度的灵活性，促进价格充分反映市场供需关系。上海期货交易所|央视新闻客户端·备用频道·",
-      "clean_text": "上期所修订版风控办法今起实施，取消极端情况下 20% 固定涨跌停限制《上海期货交易所风险控制管理办法》（修订版）今起实施。上海期货交易所优化现行风控规则，取消了连续单边市等极端情况下 20% 涨跌停板幅度的固定限制。此举将提升涨跌停板制度的灵活性，促进价格充分反映市场供需关系。上海期货交易所|央视新闻客户端·备用频道",
-      "datetime": "2026-05-28T06:33:42+00:00",
-      "views": "3.07K",
-      "source_links": [
-        {
-          "text": "上海期货交易所",
-          "url": "https://www.shfe.com.cn/publicnotice/notice/202605/t20260515_831716.html"
-        },
-        {
-          "text": "央视新闻客户端",
-          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260528_2995380.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41615",
-      "scraped_at": "2026-05-28T15:00:09.300815"
-    },
-    {
-      "id": "xhqcankao_29662",
-      "channel": "xhqcankao",
-      "text": "谷歌与CrowdStrike联手摧毁Glassworm僵尸网络CrowdStrike 与 Google 及 Shadowserver 合作，后者是一个扫描及监测互联网以防止网络攻击的非营利组织，成功摧毁了一个由网络罪犯利用的僵尸网络，该网络用于推送恶意软件并窃取开源软件开发者的密码。根据 CrowdStrike 的报告，这次行动的目的是干扰所谓 Glassworm 僵尸网络背后的网络罪犯的活动，该网络已针对开源软件供应链进行了两年的攻击。CrowdStrike在其有关此次行动的报告中写道：“对手不再仅仅针对产品，而是针对开发者。开发者代表了独特的高价值目标：一旦攻破了某位开发者的工作站，就可能导致供应链被入侵，进而影响数千家下游组织及用户。”——Techritual、Techcrunch",
-      "clean_text": "谷歌与CrowdStrike联手摧毁Glassworm僵尸网络CrowdStrike 与 Google 及 Shadowserver 合作，后者是一个扫描及监测互联网以防止网络攻击的非营利组织，成功摧毁了一个由网络罪犯利用的僵尸网络，该网络用于推送恶意软件并窃取开源软件开发者的密码。根据 CrowdStrike 的报告，这次行动的目的是干扰所谓 Glassworm 僵尸网络背后的网络罪犯的活动，该网络已针对开源软件供应链进行了两年的攻击。CrowdStrike在其有关此次行动的报告中写道：“对手不再仅仅针对产品，而是针对开发者。开发者代表了独特的高价值目标：一旦攻破了某位开发者的工作站，就可能导致供应链被入侵，进而影响数千家下游组织及用户。”——Techritual、Techcrunch",
-      "datetime": "2026-05-28T06:33:00+00:00",
-      "views": "1.3K",
-      "source_links": [
-        {
-          "text": "Techritual",
-          "url": "https://www.techritual.com/2026/05/28/538938/"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29662",
-      "scraped_at": "2026-05-28T15:00:11.420103"
     }
   ],
-  "count": 64,
-  "updated_at": "2026-05-29T18:31:55.953582"
+  "count": 62,
+  "updated_at": "2026-05-29T18:37:06.516218"
 }
