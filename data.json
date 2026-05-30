@@ -809,22 +809,6 @@
       "scraped_at": "2026-05-29T09:01:05.106790"
     },
     {
-      "id": "xhqcankao_29685",
-      "channel": "xhqcankao",
-      "text": "CNN起诉Perplexity涉嫌“逐字”抄袭文章美国有线电视新闻网CNN已对Perplexity提起诉讼，声称这家初创公司的AI工具生成其作品的 “逐字” 副本。该诉讼于周四在纽约一家法院提起，还指控 Perplexity 向用户提供锁在CNN订阅服务背后的信息。Perplexity 提供 AI“答案”引擎以及AI浏览器Comet，被指控无视 CNN 为识别或阻止 Perplexity 的未知爬虫抓取其内容所做的努力。这起诉讼写道：“人类报道、研究、撰写、编辑和创作了内容， Perplexity 未经许可或补偿就拿走了。”有线电视新闻网正在寻求赔偿，并要求永久禁止 Perplexity 涉嫌的非法行为。——Theverge",
-      "clean_text": "CNN起诉Perplexity涉嫌“逐字”抄袭文章美国有线电视新闻网CNN已对Perplexity提起诉讼，声称这家初创公司的AI工具生成其作品的 “逐字” 副本。该诉讼于周四在纽约一家法院提起，还指控 Perplexity 向用户提供锁在CNN订阅服务背后的信息。Perplexity 提供 AI“答案”引擎以及AI浏览器Comet，被指控无视 CNN 为识别或阻止 Perplexity 的未知爬虫抓取其内容所做的努力。这起诉讼写道：“人类报道、研究、撰写、编辑和创作了内容， Perplexity 未经许可或补偿就拿走了。”有线电视新闻网正在寻求赔偿，并要求永久禁止 Perplexity 涉嫌的非法行为。——Theverge",
-      "datetime": "2026-05-29T00:33:41+00:00",
-      "views": "998",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29685",
-      "scraped_at": "2026-05-29T09:01:05.106459"
-    },
-    {
       "id": "zaihuapd_41643",
       "channel": "zaihuapd",
       "text": "蓝色起源新格伦火箭静态点火测试爆炸，NASA 登月计划受重创2026 年 5 月 28 日晚，亚马逊创始人杰夫·贝索斯旗下的蓝色起源公司在佛罗里达州卡纳维拉尔角 36 号发射台进行新格伦（New Glenn）重型火箭静态点火测试时发生剧烈爆炸。一级火箭的七台 BE-4 甲烷发动机在点火过程中出现异常，随后整枚火箭被大火吞没，形成巨大火球，导致一级火箭和二级火箭完全报废，发射台的闪电防护塔倒塌，地面基础设施遭受严重损毁，所幸现场无人员伤亡。此次爆炸发生在 NG-4 任务准备阶段，该任务原计划发射 48 颗亚马逊 Project Kuiper 宽带卫星。此次事故令蓝色起源年内复飞希望渺茫，并进一步延误其承担的 NASA 阿尔忒弥斯计划月球着陆器和月球车发射任务。蓝色起源目前正调查事故原因，尚未公布具体修复和复飞时间表，美国联邦航空管理局（FAA）和 NASA 均已关注事件进展。Ars Technica|TechCrunchvia:𝑨𝒂 𝒅𝒊𝒖 不争，Rainbow,Bale，my·备用频道·",
@@ -853,6 +837,6 @@
       "scraped_at": "2026-05-29T20:00:18.094037"
     }
   ],
-  "count": 49,
-  "updated_at": "2026-05-30T12:29:49.145338"
+  "count": 48,
+  "updated_at": "2026-05-30T12:34:53.458895"
 }
