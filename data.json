@@ -283,30 +283,6 @@
       "scraped_at": "2026-05-31T20:00:28.573297"
     },
     {
-      "id": "zaihuapd_41665",
-      "channel": "zaihuapd",
-      "text": "三星 Galaxy Z Fold 8 宽版机模曝光三星 Galaxy Z Fold 8 新机模曝光，显示该系列可能同时提供宽版和较窄的 Ultra 版本。宽版采用新的机身比例，外屏观感更接近普通直板手机；Ultra 版本则延续近几代 Z Fold 的窄长形态。现有爆料还提到，Galaxy Z Fold 8 系列可能改善屏幕折痕，并升级电池。两款折叠屏预计 7 月 22 日发布。9to5Google·备用频道·",
-      "clean_text": "三星 Galaxy Z Fold 8 宽版机模曝光三星 Galaxy Z Fold 8 新机模曝光，显示该系列可能同时提供宽版和较窄的 Ultra 版本。宽版采用新的机身比例，外屏观感更接近普通直板手机；Ultra 版本则延续近几代 Z Fold 的窄长形态。现有爆料还提到，Galaxy Z Fold 8 系列可能改善屏幕折痕，并升级电池。两款折叠屏预计 7 月 22 日发布。9to5Google·备用频道",
-      "datetime": "2026-05-31T02:59:18+00:00",
-      "views": "234",
-      "source_links": [
-        {
-          "text": "9to5Google",
-          "url": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41665",
-      "scraped_at": "2026-05-31T11:00:45.316353"
-    },
-    {
       "id": "zaihuapd_41643",
       "channel": "zaihuapd",
       "text": "蓝色起源新格伦火箭静态点火测试爆炸，NASA 登月计划受重创2026 年 5 月 28 日晚，亚马逊创始人杰夫·贝索斯旗下的蓝色起源公司在佛罗里达州卡纳维拉尔角 36 号发射台进行新格伦（New Glenn）重型火箭静态点火测试时发生剧烈爆炸。一级火箭的七台 BE-4 甲烷发动机在点火过程中出现异常，随后整枚火箭被大火吞没，形成巨大火球，导致一级火箭和二级火箭完全报废，发射台的闪电防护塔倒塌，地面基础设施遭受严重损毁，所幸现场无人员伤亡。此次爆炸发生在 NG-4 任务准备阶段，该任务原计划发射 48 颗亚马逊 Project Kuiper 宽带卫星。此次事故令蓝色起源年内复飞希望渺茫，并进一步延误其承担的 NASA 阿尔忒弥斯计划月球着陆器和月球车发射任务。蓝色起源目前正调查事故原因，尚未公布具体修复和复飞时间表，美国联邦航空管理局（FAA）和 NASA 均已关注事件进展。Ars Technica|TechCrunchvia:𝑨𝒂 𝒅𝒊𝒖 不争，Rainbow,Bale，my·备用频道·",
@@ -363,6 +339,6 @@
       "scraped_at": "2026-05-30T19:01:04.201547"
     }
   ],
-  "count": 19,
-  "updated_at": "2026-06-01T14:56:42.452572"
+  "count": 18,
+  "updated_at": "2026-06-01T15:01:52.849761"
 }
