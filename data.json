@@ -597,30 +597,6 @@
       "scraped_at": "2026-05-31T20:00:30.671186"
     },
     {
-      "id": "zaihuapd_41668",
-      "channel": "zaihuapd",
-      "text": "OpenAI 和 SpaceX 融资热带火亚洲 AI 供应链SpaceX、OpenAI 和 Anthropic 的大规模融资预期正在带动投资者寻找亚洲 AI 供应链机会。相关资金可能继续流向服务器零部件、专用材料、散热组件、电力设备等硬件环节，推动亚洲 AI 股票进入新一轮交易。硬件公司已是数据中心建设的主要受益者。SpaceX、OpenAI 和 Anthropic 的上市或融资可能带来约 700 亿美元新增 AI 支出，叠加大型云厂商已承诺的超过 7500 亿美元投入，市场正在从台积电等核心芯片股扩散到更广的亚洲供应链公司。Bloomberg·备用频道·",
-      "clean_text": "OpenAI 和 SpaceX 融资热带火亚洲 AI 供应链SpaceX、OpenAI 和 Anthropic 的大规模融资预期正在带动投资者寻找亚洲 AI 供应链机会。相关资金可能继续流向服务器零部件、专用材料、散热组件、电力设备等硬件环节，推动亚洲 AI 股票进入新一轮交易。硬件公司已是数据中心建设的主要受益者。SpaceX、OpenAI 和 Anthropic 的上市或融资可能带来约 700 亿美元新增 AI 支出，叠加大型云厂商已承诺的超过 7500 亿美元投入，市场正在从台积电等核心芯片股扩散到更广的亚洲供应链公司。Bloomberg·备用频道",
-      "datetime": "2026-05-31T06:22:22+00:00",
-      "views": "11.2K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41668",
-      "scraped_at": "2026-05-31T20:00:28.573800"
-    },
-    {
       "id": "zaihuapd_41643",
       "channel": "zaihuapd",
       "text": "蓝色起源新格伦火箭静态点火测试爆炸，NASA 登月计划受重创2026 年 5 月 28 日晚，亚马逊创始人杰夫·贝索斯旗下的蓝色起源公司在佛罗里达州卡纳维拉尔角 36 号发射台进行新格伦（New Glenn）重型火箭静态点火测试时发生剧烈爆炸。一级火箭的七台 BE-4 甲烷发动机在点火过程中出现异常，随后整枚火箭被大火吞没，形成巨大火球，导致一级火箭和二级火箭完全报废，发射台的闪电防护塔倒塌，地面基础设施遭受严重损毁，所幸现场无人员伤亡。此次爆炸发生在 NG-4 任务准备阶段，该任务原计划发射 48 颗亚马逊 Project Kuiper 宽带卫星。此次事故令蓝色起源年内复飞希望渺茫，并进一步延误其承担的 NASA 阿尔忒弥斯计划月球着陆器和月球车发射任务。蓝色起源目前正调查事故原因，尚未公布具体修复和复飞时间表，美国联邦航空管理局（FAA）和 NASA 均已关注事件进展。Ars Technica|TechCrunchvia:𝑨𝒂 𝒅𝒊𝒖 不争，Rainbow,Bale，my·备用频道·",
@@ -677,6 +653,6 @@
       "scraped_at": "2026-05-30T19:01:04.201547"
     }
   ],
-  "count": 37,
-  "updated_at": "2026-06-01T18:17:43.430328"
+  "count": 36,
+  "updated_at": "2026-06-01T18:22:54.287048"
 }
