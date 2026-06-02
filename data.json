@@ -1126,30 +1126,6 @@
       "scraped_at": "2026-06-01T16:00:13.972133"
     },
     {
-      "id": "zaihuapd_41677",
-      "channel": "zaihuapd",
-      "text": "GitHub Copilot 2026 年 6 月起改为按使用量计费，老用户调用 GPT-5.5 乘数达 57 倍GitHub 将从 2026 年 6 月 1 日起，把 Copilot 的主要计费方式切换为按用量计费，费用按 Token 消耗计算，各档方案会提供每月 GitHub AI Credits 额度。针对仍处于传统年度计划中的老用户，官方允许其继续沿用旧版计费模式直到计划到期。而在最新公布的模型乘数表中，GPT-5.5 模型的单次请求计费乘数设定为 57 倍。GitHub Docs·备用频道·",
-      "clean_text": "💻GitHub Copilot 2026 年 6 月起改为按使用量计费，老用户调用 GPT-5.5 乘数达 57 倍GitHub 将从 2026 年 6 月 1 日起，把 Copilot 的主要计费方式切换为按用量计费，费用按 Token 消耗计算，各档方案会提供每月 GitHub AI Credits 额度。针对仍处于传统年度计划中的老用户，官方允许其继续沿用旧版计费模式直到计划到期。而在最新公布的模型乘数表中，GPT-5.5 模型的单次请求计费乘数设定为 57 倍。GitHub Docs·备用频道",
-      "datetime": "2026-06-01T04:12:01+00:00",
-      "views": "11.1K",
-      "source_links": [
-        {
-          "text": "GitHub Docs",
-          "url": "https://docs-internal.github.com/en/copilot/reference/copilot-billing/request-based-billing-legacy/what-changed-with-billing"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41677",
-      "scraped_at": "2026-06-01T16:00:11.304614"
-    },
-    {
       "id": "zaihuapd_41656",
       "channel": "zaihuapd",
       "text": "Codex 现已开放跨设备远程控制，强化协作与搜索功能Codex 现可在 Windows 前台运行，直接通过观察、点击和输入操作各类桌面应用；同时新增远程控制能力，允许用户从 iOS、Android 设备或 Mac 上远程启动 Windows 端的 Codex 工作并实时查看进度。个人资料页面改版，开始展示详细使用统计与代币活动。本地项目和工作树现在支持线程协调，并可按需添加独立后台线程，多任务处理更加灵活。此外，历史讨论的搜索范围也进一步扩大，现已覆盖对话内容与 Git 分支名称，方便开发者快速定位相关上下文。OpenAI|X·备用频道·",
@@ -1178,6 +1154,6 @@
       "scraped_at": "2026-05-30T19:01:04.201547"
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-02T16:10:17.591600"
+  "count": 64,
+  "updated_at": "2026-06-02T16:13:13.424841"
 }
