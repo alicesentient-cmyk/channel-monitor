@@ -1190,32 +1190,8 @@
       ],
       "url": "https://t.me/zaihuapd/41684",
       "scraped_at": "2026-06-01T19:00:49.676653"
-    },
-    {
-      "id": "zaihuapd_41683",
-      "channel": "zaihuapd",
-      "text": "ClawCloud 宣布 6 月 30 日关闭 VPS 及 VDS 服务ClawCloud 宣布将于 2026 年 6 月 30 日正式关闭 VPS、VDS 及相关托管服务。6 月 1 日起已停止新购、续费和升级，用户需在 6 月 30 日前完成数据备份与迁移，逾期数据将被永久删除。预付用户可按剩余时间比例申请原路退款，不收取手续费；通过账户转移获得且未实际付费的实例不予退款。退款需在控制台为每台服务器分别提交标题含“Refund”的工单，申请入口将于 6 月 30 日关闭。CLAWCLOUD·备用频道·",
-      "clean_text": "ClawCloud 宣布 6 月 30 日关闭 VPS 及 VDS 服务ClawCloud 宣布将于 2026 年 6 月 30 日正式关闭 VPS、VDS 及相关托管服务。6 月 1 日起已停止新购、续费和升级，用户需在 6 月 30 日前完成数据备份与迁移，逾期数据将被永久删除。预付用户可按剩余时间比例申请原路退款，不收取手续费；通过账户转移获得且未实际付费的实例不予退款。退款需在控制台为每台服务器分别提交标题含“Refund”的工单，申请入口将于 6 月 30 日关闭。CLAWCLOUD·备用频道",
-      "datetime": "2026-06-01T10:01:42+00:00",
-      "views": "5.15K",
-      "source_links": [
-        {
-          "text": "CLAWCLOUD",
-          "url": "https://claw.cloud/announcements/38/Important-Notice-Announcement-on-the-Shutdown-and-Refund-Policy-of-ClawCloud-VPS-VDS-and-Related-Services.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41683",
-      "scraped_at": "2026-06-01T19:00:49.676061"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-02T21:57:05.956861"
+  "count": 65,
+  "updated_at": "2026-06-02T22:02:16.387225"
 }
