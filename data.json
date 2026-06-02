@@ -1015,30 +1015,6 @@
       "scraped_at": "2026-06-01T16:00:13.971275"
     },
     {
-      "id": "zaihuapd_41674",
-      "channel": "zaihuapd",
-      "text": "MiniMax 发布 M3 模型：1M 上下文、原生多模态，编程能力领先MiniMax 正式发布 M3 模型，采用全新 MSA 稀疏注意力架构，支持最高 100 万 token 上下文窗口，可原生处理图片、视频和桌面操作。在编程评测 SWE-Bench Pro 上，M3 得分 59%，超过 GPT-5.5 和 Gemini 3.1 Pro；在多模态 OmniDocBench 和 Agent 评测 Claw-Eval 中也达到领先水平。M3 是国内首个同时具备超长上下文、前沿编程与原生多模态能力且开源的模型。同步推出的 MiniMax Code 是专为 M3 设计的 Agent 产品，注重长程任务中的自主纠错与协作。Token Plan 订阅同步上线，Plus 档月费 49 元（6 亿 token），同等价格下的容量约为海外同类服务的 15 倍。API 已开放，模型权重和技术报告将在 10 天内发布。MiniMax·备用频道·",
-      "clean_text": "MiniMax 发布 M3 模型：1M 上下文、原生多模态，编程能力领先MiniMax 正式发布 M3 模型，采用全新 MSA 稀疏注意力架构，支持最高 100 万 token 上下文窗口，可原生处理图片、视频和桌面操作。在编程评测 SWE-Bench Pro 上，M3 得分 59%，超过 GPT-5.5 和 Gemini 3.1 Pro；在多模态 OmniDocBench 和 Agent 评测 Claw-Eval 中也达到领先水平。M3 是国内首个同时具备超长上下文、前沿编程与原生多模态能力且开源的模型。同步推出的 MiniMax Code 是专为 M3 设计的 Agent 产品，注重长程任务中的自主纠错与协作。Token Plan 订阅同步上线，Plus 档月费 49 元（6 亿 token），同等价格下的容量约为海外同类服务的 15 倍。API 已开放，模型权重和技术报告将在 10 天内发布。MiniMax·备用频道",
-      "datetime": "2026-06-01T01:55:17+00:00",
-      "views": "12.8K",
-      "source_links": [
-        {
-          "text": "MiniMax",
-          "url": "https://www.minimaxi.com/blog/minimax-m3"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41674",
-      "scraped_at": "2026-06-01T16:00:11.302639"
-    },
-    {
       "id": "zaihuapd_41656",
       "channel": "zaihuapd",
       "text": "Codex 现已开放跨设备远程控制，强化协作与搜索功能Codex 现可在 Windows 前台运行，直接通过观察、点击和输入操作各类桌面应用；同时新增远程控制能力，允许用户从 iOS、Android 设备或 Mac 上远程启动 Windows 端的 Codex 工作并实时查看进度。个人资料页面改版，开始展示详细使用统计与代币活动。本地项目和工作树现在支持线程协调，并可按需添加独立后台线程，多任务处理更加灵活。此外，历史讨论的搜索范围也进一步扩大，现已覆盖对话内容与 Git 分支名称，方便开发者快速定位相关上下文。OpenAI|X·备用频道·",
@@ -1067,6 +1043,6 @@
       "scraped_at": "2026-05-30T19:01:04.201547"
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-02T13:53:50.591691"
+  "count": 57,
+  "updated_at": "2026-06-02T13:59:01.008703"
 }
