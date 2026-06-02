@@ -1106,32 +1106,8 @@
       ],
       "url": "https://t.me/xhqcankao/29745",
       "scraped_at": "2026-06-01T16:00:13.974315"
-    },
-    {
-      "id": "zaihuapd_41681",
-      "channel": "zaihuapd",
-      "text": "NVIDIA DLSS 4.5 光线重建 8 月覆盖全系 RTX 显卡NVIDIA 将在今年 8 月通过 NVIDIA App 推出 DLSS 4.5 Ray Reconstruction，覆盖所有 GeForce RTX 显卡，包括 RTX 20、30、40 和 50 系列。新模型采用第二代 Transformer，官方称在性能接近现版的同时，计算能力提高 35%，参数处理量增加 20%。这次更新主打改进光线追踪和路径追踪内容的光照准确性、时间稳定性和运动清晰度。首发支持 27 款游戏，Blender Cycles 也计划在今年秋季的 Blender 5.3 中加入该降噪器，用于实时视口预览。VideoCardz·备用频道·",
-      "clean_text": "NVIDIA DLSS 4.5 光线重建 8 月覆盖全系 RTX 显卡NVIDIA 将在今年 8 月通过 NVIDIA App 推出 DLSS 4.5 Ray Reconstruction，覆盖所有 GeForce RTX 显卡，包括 RTX 20、30、40 和 50 系列。新模型采用第二代 Transformer，官方称在性能接近现版的同时，计算能力提高 35%，参数处理量增加 20%。这次更新主打改进光线追踪和路径追踪内容的光照准确性、时间稳定性和运动清晰度。首发支持 27 款游戏，Blender Cycles 也计划在今年秋季的 Blender 5.3 中加入该降噪器，用于实时视口预览。VideoCardz·备用频道",
-      "datetime": "2026-06-01T07:51:55+00:00",
-      "views": "1.45K",
-      "source_links": [
-        {
-          "text": "VideoCardz",
-          "url": "https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41681",
-      "scraped_at": "2026-06-01T16:00:11.306741"
     }
   ],
-  "count": 62,
-  "updated_at": "2026-06-02T19:48:52.018850"
+  "count": 61,
+  "updated_at": "2026-06-02T19:54:00.017230"
 }
