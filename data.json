@@ -1069,17 +1069,6 @@
       "scraped_at": "2026-06-02T07:00:56.917385"
     },
     {
-      "id": "zaihuapd_41693",
-      "channel": "zaihuapd",
-      "text": "马来西亚将对TikTok、Instagram 等社交平台实施强制许可管理  马来西亚通信与多媒体委员会宣布，从 2026 年 1 月 1 日起，TikTok、Instagram、Facebook、WhatsApp、YouTube 和 Telegram 等拥有 800 万以上用户的社交媒体平台将自动纳入该国法律管辖范围，须遵守《1998 年通信与多媒体法》的许可框架。该监管将确保大型互联网平台以\"有序、一致和有效的方式\"遵守马来西亚的法律法规框架，并承担更明确的用户安全责任，特别是保护儿童和家庭。马来西亚还计划从明年开始禁止…",
-      "clean_text": "马来西亚将对📱TikTok、📱Instagram 等社交平台实施强制许可管理  马来西亚通信与多媒体委员会宣布，从 2026 年 1 月 1 日起，TikTok、Instagram、Facebook、WhatsApp、YouTube 和 Telegram 等拥有 800 万以上用户的社交媒体平台将自动纳入该国法律管辖范围，须遵守《1998 年通信与多媒体法》的许可框架。该监管将确保大型互联网平台以\"有序、一致和有效的方式\"遵守马来西亚的法律法规框架，并承担更明确的用户安全责任，特别是保护儿童和家庭。马来西亚还计划从明年开始禁止…",
-      "datetime": "2026-06-01T15:46:42+00:00",
-      "views": "8.32K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41693",
-      "scraped_at": "2026-06-02T07:00:56.916771"
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1104,6 +1093,6 @@
       "scraped_at": "2026-06-03T02:00:09.953577"
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-03T03:44:04.988357"
+  "count": 57,
+  "updated_at": "2026-06-03T03:49:08.194876"
 }
