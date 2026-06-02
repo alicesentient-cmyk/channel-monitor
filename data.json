@@ -1113,24 +1113,8 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41680",
       "scraped_at": "2026-06-01T16:00:11.306228"
-    },
-    {
-      "id": "xhqcankao_29742",
-      "channel": "xhqcankao",
-      "text": "英伟达新一代平台Vera Rubin已全面投产英伟达CEO黄仁勋6月1日宣布，英伟达新一代平台Vera Rubin已全面投产。Vera Rubin采用美光、SK海力士和三星的HBM (高带宽内存），提供机柜级（POD）一体化AI工厂底座。英伟达为 Rubin 搭建的供应链是上一代Blackwell的“两倍大”，以往需要花两个小时组装一个巨大的Blackwell机架，现在只需要5分钟。英伟达表示，Anthropic、OpenAI以及 SpaceX 将成为其新款Vera处理器的首批主要客户。黄仁勋在6月1日演讲中点名提及上述几家企业。这些企业将率先在自有数据中心部署英伟达Vera系列中央处理器。——界面新闻",
-      "clean_text": "英伟达新一代平台Vera Rubin已全面投产英伟达CEO黄仁勋6月1日宣布，英伟达新一代平台Vera Rubin已全面投产。Vera Rubin采用美光、SK海力士和三星的HBM (高带宽内存），提供机柜级（POD）一体化AI工厂底座。英伟达为 Rubin 搭建的供应链是上一代Blackwell的“两倍大”，以往需要花两个小时组装一个巨大的Blackwell机架，现在只需要5分钟。英伟达表示，Anthropic、OpenAI以及 SpaceX 将成为其新款Vera处理器的首批主要客户。黄仁勋在6月1日演讲中点名提及上述几家企业。这些企业将率先在自有数据中心部署英伟达Vera系列中央处理器。——界面新闻",
-      "datetime": "2026-06-01T06:50:27+00:00",
-      "views": "2.52K",
-      "source_links": [
-        {
-          "text": "界面新闻",
-          "url": "https://www.jiemian.com/article/14513751.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29742",
-      "scraped_at": "2026-06-01T16:00:13.973199"
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-02T18:47:49.978983"
+  "count": 62,
+  "updated_at": "2026-06-02T18:52:54.754060"
 }
