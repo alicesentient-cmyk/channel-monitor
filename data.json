@@ -975,30 +975,6 @@
       "scraped_at": "2026-06-01T16:00:11.303979"
     },
     {
-      "id": "zaihuapd_41675",
-      "channel": "zaihuapd",
-      "text": "苹果眼镜推迟至 2027 年底发布 欲颠覆传统眼镜市场苹果计划在 2027 年底推出首款智能眼镜，目标瞄准 200 至 500 美元的传统眼镜市场，与 Ray-Ban 等品牌直接竞争。该公司希望重现 Apple Watch 的成功，用品牌、设计和 iPhone 整合吸引配镜用户；但眼镜产品不支持安卓，可能给 Meta 留下增长空间。同时，新款 Apple TV 机顶盒和 HomePod mini 硬件已完工，因等待新版 Siri 和 AI 功能，准备在今年秋季发布。苹果也启动了 iOS 28、iPadOS 28 和 macOS 28 的早期开发，为明年的 iPhone 20 周年机型做准备。Bloomberg·备用频道·",
-      "clean_text": "🍏苹果眼镜推迟至 2027 年底发布 欲颠覆传统眼镜市场苹果计划在 2027 年底推出首款智能眼镜，目标瞄准 200 至 500 美元的传统眼镜市场，与 Ray-Ban 等品牌直接竞争。该公司希望重现 Apple Watch 的成功，用品牌、设计和 iPhone 整合吸引配镜用户；但眼镜产品不支持安卓，可能给 Meta 留下增长空间。同时，新款 Apple TV 机顶盒和 HomePod mini 硬件已完工，因等待新版 Siri 和 AI 功能，准备在今年秋季发布。苹果也启动了 iOS 28、iPadOS 28 和 macOS 28 的早期开发，为明年的 iPhone 20 周年机型做准备。Bloomberg·备用频道",
-      "datetime": "2026-06-01T02:54:54+00:00",
-      "views": "11.5K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41675",
-      "scraped_at": "2026-06-01T16:00:11.303276"
-    },
-    {
       "id": "zaihuapd_41656",
       "channel": "zaihuapd",
       "text": "Codex 现已开放跨设备远程控制，强化协作与搜索功能Codex 现可在 Windows 前台运行，直接通过观察、点击和输入操作各类桌面应用；同时新增远程控制能力，允许用户从 iOS、Android 设备或 Mac 上远程启动 Windows 端的 Codex 工作并实时查看进度。个人资料页面改版，开始展示详细使用统计与代币活动。本地项目和工作树现在支持线程协调，并可按需添加独立后台线程，多任务处理更加灵活。此外，历史讨论的搜索范围也进一步扩大，现已覆盖对话内容与 Git 分支名称，方便开发者快速定位相关上下文。OpenAI|X·备用频道·",
@@ -1027,6 +1003,6 @@
       "scraped_at": "2026-05-30T19:01:04.201547"
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-02T14:50:46.457423"
+  "count": 55,
+  "updated_at": "2026-06-02T14:55:56.868092"
 }
