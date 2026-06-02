@@ -1209,24 +1209,8 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41687",
       "scraped_at": "2026-06-01T21:00:22.619536"
-    },
-    {
-      "id": "xhqcankao_29750",
-      "channel": "xhqcankao",
-      "text": "Anthropic将向欧盟网络安全局开放Mythos人工智能初创公司Anthropic将允许欧盟网络安全机构使用其 Mythos 模型，该模型能够发现并利用计算机系统中的漏洞。据悉，这家生成式人工智能公司打算让欧盟网络安全局加入Glasswing项目，这是一项让关键组织在 Mythos 更广泛发布之前测试其能力的计划。Anthropic在周末将该决定传达给了欧盟的执行机构欧盟委员会。​在数周毫无结果的接触之后，欧盟委员会官员上周四前往旧金山，要求Anthropic高管开放该模型。欧盟委员会的一位发言人表示，与Anthropic的讨论正在取得进展，并拒绝进一步置评。——彭博社",
-      "clean_text": "Anthropic将向欧盟网络安全局开放Mythos人工智能初创公司Anthropic将允许欧盟网络安全机构使用其 Mythos 模型，该模型能够发现并利用计算机系统中的漏洞。据悉，这家生成式人工智能公司打算让欧盟网络安全局加入Glasswing项目，这是一项让关键组织在 Mythos 更广泛发布之前测试其能力的计划。Anthropic在周末将该决定传达给了欧盟的执行机构欧盟委员会。​在数周毫无结果的接触之后，欧盟委员会官员上周四前往旧金山，要求Anthropic高管开放该模型。欧盟委员会的一位发言人表示，与Anthropic的讨论正在取得进展，并拒绝进一步置评。——彭博社",
-      "datetime": "2026-06-01T12:15:14+00:00",
-      "views": "1.77K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29750",
-      "scraped_at": "2026-06-01T21:00:24.269206"
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-03T00:10:55.779055"
+  "count": 67,
+  "updated_at": "2026-06-03T00:15:43.488573"
 }
