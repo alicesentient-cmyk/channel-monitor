@@ -1,6 +1,70 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41731",
+      "channel": "zaihuapd",
+      "text": "VSCode 漏洞可被用于窃取 GitHub Token安全研究者披露，攻击者可能通过诱导用户点击github.dev链接，利用 VSCode Webview 的键盘事件处理问题安装扩展，从而读取 GitHub API Token，并访问用户有权限的仓库，包括私有仓库。该问题也存在于桌面版 VSCode，但利用门槛更高。研究者建议清除github.dev的站点数据；如果已运行 PoC，还应卸载相关测试扩展。Ammar's Blog·备用频道·",
+      "clean_text": "VSCode 漏洞可被用于窃取 GitHub Token安全研究者披露，攻击者可能通过诱导用户点击github.dev链接，利用 VSCode Webview 的键盘事件处理问题安装扩展，从而读取 GitHub API Token，并访问用户有权限的仓库，包括私有仓库。该问题也存在于桌面版 VSCode，但利用门槛更高。研究者建议清除github.dev的站点数据；如果已运行 PoC，还应卸载相关测试扩展。Ammar's Blog·备用频道",
+      "datetime": "2026-06-03T06:32:21+00:00",
+      "views": "3.18K",
+      "source_links": [
+        {
+          "text": "github.dev",
+          "url": "http://github.dev/"
+        },
+        {
+          "text": "github.dev",
+          "url": "http://github.dev/"
+        },
+        {
+          "text": "Ammar's Blog",
+          "url": "https://blog.ammaraskar.com/github-token-stealing/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41731",
+      "scraped_at": "2026-06-03T15:00:29.565348"
+    },
+    {
+      "id": "xhqcankao_29805",
+      "channel": "xhqcankao",
+      "text": "CMLink全球数据卡将对中国内地居民设限中国移动国际CMLink Global发布公告，为附合中国内地合规经营要求，CMLink 全球数据卡于北京时间2026年6月17日起，调整中国内地相关产品激活启用政策，具体通知如下：CMLink 全球数据卡中国内地相关产品仅适用于境外来华客户入境短期使用，不支持中国内地居民购买及使用。2026年6月17日0时起，含中国内地流量的套餐产品将不支持在中国内地直接激活启用。客户在中国内地使用SIM卡前的72小时内，需要在中国境外(含港澳台)插卡，并保持手机开机三至五分钟。如果未按要求提前插卡操作，入境中国入境后，SIM卡可能无法正常开通。——CMLink Global",
+      "clean_text": "CMLink全球数据卡将对中国内地居民设限中国移动国际CMLink Global发布公告，为附合中国内地合规经营要求，CMLink 全球数据卡于北京时间2026年6月17日起，调整中国内地相关产品激活启用政策，具体通知如下：CMLink 全球数据卡中国内地相关产品仅适用于境外来华客户入境短期使用，不支持中国内地居民购买及使用。2026年6月17日0时起，含中国内地流量的套餐产品将不支持在中国内地直接激活启用。客户在中国内地使用SIM卡前的72小时内，需要在中国境外(含港澳台)插卡，并保持手机开机三至五分钟。如果未按要求提前插卡操作，入境中国入境后，SIM卡可能无法正常开通。——CMLink Global",
+      "datetime": "2026-06-03T06:32:07+00:00",
+      "views": "1.81K",
+      "source_links": [
+        {
+          "text": "CMLink Global",
+          "url": "https://global.cmlink.com/zh-cn/homepage"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29805",
+      "scraped_at": "2026-06-03T15:00:31.863447"
+    },
+    {
+      "id": "xhqcankao_29804",
+      "channel": "xhqcankao",
+      "text": "今年手机出货量因存储器短缺预计降14%调查公司Counterpoint发布预测称，2026年全球智能手机出货量预计为10.8亿部，较上年减少13.9%。受存储器供应短缺，以及中东局势等因素影响，降幅将创下历史最高纪录。作为半导体存储器的DRAM标准品价格预计将在2026年4~6月升至半年前的约3倍。由于低功耗存储器产品的供应量预计将在2026年减少40%以上，部分低价智能手机面临无法正常生产的风险。随着AI普及带动半导体需求持续增长，有限的半导体资源难以充分供应低价智能手机。市场人士认为存储器短缺状况可能持续至2027年下半年。——日经新闻",
+      "clean_text": "今年手机出货量因存储器短缺预计降14%调查公司Counterpoint发布预测称，2026年全球智能手机出货量预计为10.8亿部，较上年减少13.9%。受存储器供应短缺，以及中东局势等因素影响，降幅将创下历史最高纪录。作为半导体存储器的DRAM标准品价格预计将在2026年4~6月升至半年前的约3倍。由于低功耗存储器产品的供应量预计将在2026年减少40%以上，部分低价智能手机面临无法正常生产的风险。随着AI普及带动半导体需求持续增长，有限的半导体资源难以充分供应低价智能手机。市场人士认为存储器短缺状况可能持续至2027年下半年。——日经新闻",
+      "datetime": "2026-06-03T06:02:20+00:00",
+      "views": "2.25K",
+      "source_links": [
+        {
+          "text": "日经新闻",
+          "url": "http://cn.nikkei.com/industry/itelectric-appliance/62745-2026-06-03-07-53-46.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29804",
+      "scraped_at": "2026-06-03T15:00:31.863019"
+    },
+    {
       "id": "zaihuapd_41730",
       "channel": "zaihuapd",
       "text": "OpenAI 社区出现 ChatGPT 订阅和账号滥用报告OpenAI 开发者社区出现一份 ChatGPT 订阅和账号完整性问题报告，涉及 Plus / Pro 跨区订阅、免费账号批量注册、Session / Token 转售、伪装高阶模型销售，以及 ChatGPT Business 优惠码和席位异常扩张等问题。报告提交者称，相关问题已被部分商家组合成批量化、自动化、可转售的供应链，并可提供脚本样本、订阅记录、异常 Business 后台截图和二级市场售卖记录等证据。OpenAI 社区支持人员已回复，称会将反馈提交给相应团队评估。OpenAI Developer Communityvia RT Time·备用频道·",
@@ -1313,6 +1377,6 @@
       "scraped_at": "2026-06-03T02:00:09.953577"
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-03T14:58:31.384666"
+  "count": 70,
+  "updated_at": "2026-06-03T15:03:36.166954"
 }
