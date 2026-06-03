@@ -1,6 +1,94 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41724",
+      "channel": "zaihuapd",
+      "text": "Google 出资向 Play Store 开发者购买代码以训练 AIGoogle 正私下联系 Android 应用开发者，提议付费获取其私有代码库的使用权，用于训练 AI 和改进开发工具。开发者保留 100% 知识产权，并可通过非独家授权获得额外收入。谷歌想要在缩小 Gemini 与 GitHub Copilot、Claude Code 等竞品在编程辅助能力上的差距。Google 近期已发布 Gemini 3.5 Flash 及 Antigravity 2.0 等新工具，加紧追赶竞争对手。Neowin·备用频道·",
+      "clean_text": "Google 出资向 Play Store 开发者购买代码以训练 AIGoogle 正私下联系 Android 应用开发者，提议付费获取其私有代码库的使用权，用于训练 AI 和改进开发工具。开发者保留 100% 知识产权，并可通过非独家授权获得额外收入。谷歌想要在缩小 Gemini 与 GitHub Copilot、Claude Code 等竞品在编程辅助能力上的差距。Google 近期已发布 Gemini 3.5 Flash 及 Antigravity 2.0 等新工具，加紧追赶竞争对手。Neowin·备用频道",
+      "datetime": "2026-06-03T02:47:21+00:00",
+      "views": "2.11K",
+      "source_links": [
+        {
+          "text": "Neowin",
+          "url": "https://www.neowin.net/reports/google-wants-to-pay-play-store-developers-for-code-to-train-its-ai/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41724",
+      "scraped_at": "2026-06-03T11:00:29.073890"
+    },
+    {
+      "id": "xhqcankao_29796",
+      "channel": "xhqcankao",
+      "text": "Meta收缩“追踪鼠标、键盘训练AI”计划Meta在周二的内部备忘录中表示，将缩减其收集员工鼠标移动、键盘敲击操作及其他行为数据用于AI训练的计划。此前数周，这一计划遭到了员工们的强烈反对。Meta AI模型构建 “超级智能实验室” 副总裁卡斯里尔在备忘录中表示，Meta将新增控制选项，允许员工每次最长暂停数据收集30分钟，并可申请豁免参与该项目。卡斯里尔称，开发该软件的团队还引入了 “多项优化措施”，以降低其对电脑电池续航的影响。Meta上月宣布，将在美国员工的电脑上安装新的追踪软件，用于记录鼠标移动、点击以及键盘输入等操作数据，并将这些数据用于训练其AI模型。——凤凰网科技、路透社",
+      "clean_text": "Meta收缩“追踪鼠标、键盘训练AI”计划Meta在周二的内部备忘录中表示，将缩减其收集员工鼠标移动、键盘敲击操作及其他行为数据用于AI训练的计划。此前数周，这一计划遭到了员工们的强烈反对。Meta AI模型构建 “超级智能实验室” 副总裁卡斯里尔在备忘录中表示，Meta将新增控制选项，允许员工每次最长暂停数据收集30分钟，并可申请豁免参与该项目。卡斯里尔称，开发该软件的团队还引入了 “多项优化措施”，以降低其对电脑电池续航的影响。Meta上月宣布，将在美国员工的电脑上安装新的追踪软件，用于记录鼠标移动、点击以及键盘输入等操作数据，并将这些数据用于训练其AI模型。——凤凰网科技、路透社",
+      "datetime": "2026-06-03T02:31:13+00:00",
+      "views": "1.21K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006613PeLj43aOudGxgKGyhad2L7QXAVgB7hFOWgezFvrgZZBeYz--ELv7w3ZYgolKlo"
+        },
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/world/meta-scales-back-ai-mouse-clicks-tool-citing-employee-concerns-2026-06-02/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29796",
+      "scraped_at": "2026-06-03T11:00:31.152549"
+    },
+    {
+      "id": "zaihuapd_41723",
+      "channel": "zaihuapd",
+      "text": "iOS 27 或引入应用分屏适配功能，助力折叠屏 iPhone苹果正在为 iOS 27 开发一项系统级的应用横屏适配功能。该功能旨在自动将手机应用适配至宽屏或横屏布局，无需开发者手动重新设计。此举将解决 iOS 在大屏幕显示上的长期短板，让垂直布局的 App 能在更宽的画面中自然显示。这项改进主要针对传闻中拥有 7.8 英寸内屏的折叠屏 iPhone。iOS 27 预计将借鉴 iPadOS 的多任务处理机制，支持在折叠屏上并排运行两个应用。苹果有望在 6 月举办的 WWDC 2026 上正式公布该系统。MacRumors·备用频道·",
+      "clean_text": "iOS 27 或引入应用分屏适配功能，助力折叠屏 iPhone苹果正在为 iOS 27 开发一项系统级的应用横屏适配功能。该功能旨在自动将手机应用适配至宽屏或横屏布局，无需开发者手动重新设计。此举将解决 iOS 在大屏幕显示上的长期短板，让垂直布局的 App 能在更宽的画面中自然显示。这项改进主要针对传闻中拥有 7.8 英寸内屏的折叠屏 iPhone。iOS 27 预计将借鉴 iPadOS 的多任务处理机制，支持在折叠屏上并排运行两个应用。苹果有望在 6 月举办的 WWDC 2026 上正式公布该系统。MacRumors·备用频道",
+      "datetime": "2026-06-03T02:02:21+00:00",
+      "views": "4.8K",
+      "source_links": [
+        {
+          "text": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41723",
+      "scraped_at": "2026-06-03T11:00:29.073359"
+    },
+    {
+      "id": "xhqcankao_29795",
+      "channel": "xhqcankao",
+      "text": "v2rayN发布跳过证书验证参数被移除说明知名代理软件客户端 v2rayN / NG开发者发布跳过证书验证参数被移除的说明。开发者表示，Xray-core 在v26.2.6版本中，正式移除了TLS配置中的 allowInsecure 参数。“跳过 TLS 证书验证” 这种做法存在一定的安全风险，因此Xray官方决定用更安全、更明确的证书固定机制来替代它。自2026年6月1日起，所有使用了新版Xray内核的用户，只要配置中存在 allowInsecure 字段，均会出现报错，导致内核无法启动。作为过渡期解决方案，v2rayN 7.22.5版本已临时恢复对“跳过证书验证”功能的支持。但Xray将于8月1日彻底禁用相关参数，届时此方案将不再有效。用户和机场需要尽快完成配置更新。——v2rayN",
+      "clean_text": "v2rayN发布跳过证书验证参数被移除说明知名代理软件客户端 v2rayN / NG开发者发布跳过证书验证参数被移除的说明。开发者表示，Xray-core 在v26.2.6版本中，正式移除了TLS配置中的 allowInsecure 参数。“跳过 TLS 证书验证” 这种做法存在一定的安全风险，因此Xray官方决定用更安全、更明确的证书固定机制来替代它。自2026年6月1日起，所有使用了新版Xray内核的用户，只要配置中存在 allowInsecure 字段，均会出现报错，导致内核无法启动。作为过渡期解决方案，v2rayN 7.22.5版本已临时恢复对“跳过证书验证”功能的支持。但Xray将于8月1日彻底禁用相关参数，届时此方案将不再有效。用户和机场需要尽快完成配置更新。——v2rayN",
+      "datetime": "2026-06-03T02:00:25+00:00",
+      "views": "3.07K",
+      "source_links": [
+        {
+          "text": "v2rayN 7.22.5版本已临时恢复对“跳过证书验证”功能的支持",
+          "url": "https://github.com/2dust/v2rayN/releases/tag/7.22.5"
+        },
+        {
+          "text": "v2rayN",
+          "url": "https://github.com/2dust/v2rayN/discussions/9460"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29795",
+      "scraped_at": "2026-06-03T11:00:31.152033"
+    },
+    {
       "id": "xhqcankao_29794",
       "channel": "xhqcankao",
       "text": "Office 2019 for Mac即将停止编辑文档功能微软将从7月13日起阻止Mac版Office 2019用户编辑他们的文档，该公司将这一限制归因于该生产力套件即将过期的数字证书。一旦用于确认该套件许可的证书过期，这些应用将进入微软所称的功能受限模式。换句话说，用户仍将能够打开、查看和打印现有文档，但创建、编辑和保存文档将被禁用。同样的限制将适用于无法更新的iPhone和iPad应用程序，微软实际上已经更新了该套件的证书，但修复只能通过软件更新来交付。这意味着Microsoft 365和Office 2021的用户是安全的 —— 他们将收到更新。然而，微软于 2023年10月10日停止了对 Office 2019 的支持。因此，该套件不会更新到16.83版本，该版本是包含续订证书的发行版。——Macrumors",
@@ -1165,22 +1253,6 @@
       "scraped_at": "2026-06-02T12:00:30.136302"
     },
     {
-      "id": "xhqcankao_29756",
-      "channel": "xhqcankao",
-      "text": "日政府宣布针对中韩产钢材启动反倾销调查日本财务省和经济产业省6月1日宣布，针对从韩国、中国大陆、台湾进口的两种钢材启动反倾销调查。日本制铁和JFE钢铁等公司以需求被抢占、遭受损失为由，二月申请展开调查。据财务省消息，调查对象包括用于汽车和建材的热轧钢板和钢带、用于家电和汽车零部件的冷轧钢板和钢带。这些钢材均用途广泛，中国企业等的过剩生产成为国际性问题。调查原则上在一年以内结束，将就是否征收反倾销税作出判断。日本钢铁联盟会长当天表示，“将在加强对不公平进口的监督的同时，与政府研究进一步的对策”。——共同社",
-      "clean_text": "日政府宣布针对中韩产钢材启动反倾销调查日本财务省和经济产业省6月1日宣布，针对从韩国、中国大陆、台湾进口的两种钢材启动反倾销调查。日本制铁和JFE钢铁等公司以需求被抢占、遭受损失为由，二月申请展开调查。据财务省消息，调查对象包括用于汽车和建材的热轧钢板和钢带、用于家电和汽车零部件的冷轧钢板和钢带。这些钢材均用途广泛，中国企业等的过剩生产成为国际性问题。调查原则上在一年以内结束，将就是否征收反倾销税作出判断。日本钢铁联盟会长当天表示，“将在加强对不公平进口的监督的同时，与政府研究进一步的对策”。——共同社",
-      "datetime": "2026-06-01T23:01:24+00:00",
-      "views": "4.29K",
-      "source_links": [
-        {
-          "text": "共同社",
-          "url": "https://china.kyodonews.net/articles/-/11090"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29756",
-      "scraped_at": "2026-06-02T12:00:30.135925"
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1205,6 +1277,6 @@
       "scraped_at": "2026-06-03T02:00:09.953577"
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-03T10:59:15.831246"
+  "count": 66,
+  "updated_at": "2026-06-03T11:04:21.427779"
 }
