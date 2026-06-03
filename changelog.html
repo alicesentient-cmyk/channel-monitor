@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pulse · 更新日志</title>
+<style>
+:root {
+  --bg: #0f0f0f;
+  --surface: #1a1a1a;
+  --card: #222;
+  --text: #e5e5e5;
+  --text2: #999;
+  --accent: #4f9cf7;
+  --green: #22c55e;
+  --yellow: #eab308;
+  --red: #ef4444;
+  --radius: 12px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, "SF Pro Text", "Helvetica Neue", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  border-bottom: 1px solid #333;
+  margin-bottom: 30px;
+}
+.header h1 {
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.back-btn {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 14px;
+  padding: 8px 16px;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  transition: all 0.2s;
+}
+.back-btn:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+.version {
+  margin-bottom: 30px;
+  padding: 20px;
+  background: var(--card);
+  border-radius: var(--radius);
+  border-left: 4px solid var(--accent);
+}
+.version.current {
+  border-left-color: var(--green);
+}
+.version.rollback {
+  border-left-color: var(--yellow);
+}
+.version-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.version-tag {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--accent);
+}
+.version.current .version-tag {
+  color: var(--green);
+}
+.version-date {
+  font-size: 13px;
+  color: var(--text2);
+}
+.version-badge {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: var(--green);
+  color: #000;
+  font-weight: 600;
+}
+.version.rollback .version-badge {
+  background: var(--yellow);
+}
+.changes {
+  list-style: none;
+}
+.changes li {
+  padding: 6px 0;
+  font-size: 14px;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.changes li::before {
+  content: "•";
+  color: var(--accent);
+  font-weight: bold;
+  margin-top: 2px;
+}
+.change-type {
+  font-size: 11px;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.change-type.feat { background: rgba(34,197,94,0.2); color: var(--green); }
+.change-type.fix { background: rgba(239,68,68,0.2); color: var(--red); }
+.change-type.rollback { background: rgba(234,179,8,0.2); color: var(--yellow); }
+.change-type.optimize { background: rgba(79,156,247,0.2); color: var(--accent); }
+
+.footer-link {
+  text-align: center;
+  padding: 20px;
+  color: var(--text2);
+  font-size: 13px;
+}
+.footer-link a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f5f5f5;
+    --surface: #fff;
+    --card: #fff;
+    --text: #1a1a1a;
+    --text2: #666;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>📋 更新日志</h1>
+  <a href="index.html" class="back-btn">← 返回</a>
+</div>
+
+<div class="version current">
+  <div class="version-header">
+    <span class="version-tag">v0.0006</span>
+    <span class="version-date">2026-06-03</span>
+    <span class="version-badge">当前版本</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type feat">新增</span> AI 标题生成：调用 DeepSeek API 自动生成 ≤20 字符的精简标题</li>
+    <li><span class="change-type feat">新增</span> 三种标题视角：结论型、吸引型、极简型，AI 自动选择最优</li>
+    <li><span class="change-type optimize">优化</span> 生图 Prompt：改为传文章内容，让 GPT 自行提取视觉元素</li>
+    <li><span class="change-type feat">新增</span> 标题缓存机制（title_cache.json），避免重复调用 API</li>
+    <li><span class="change-type fix">修复</span> DeepSeek API 模型名称修正为 deepseek-chat</li>
+  </ul>
+</div>
+
+<div class="version rollback">
+  <div class="version-header">
+    <span class="version-tag">v0.0007</span>
+    <span class="version-date">2026-06-03</span>
+    <span class="version-badge">已回滚</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type rollback">回滚</span> 英文 Prompt 生图效果不佳，回滚至 v0.0006</li>
+    <li><span class="change-type optimize">优化</span> 改用中文文章内容直接传给 GPT 生图</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
+    <span class="version-tag">v0.0005</span>
+    <span class="version-date">2026-05-15</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type feat">新增</span> 分页功能：每页显示 20 条消息</li>
+    <li><span class="change-type feat">新增</span> 5 天自动清除旧消息</li>
+    <li><span class="change-type feat">新增</span> 热度排序（按浏览量）</li>
+    <li><span class="change-type feat">新增</span> 分类筛选（AI / 公司 / 金融 / 科技）</li>
+    <li><span class="change-type optimize">优化</span> 卡片布局和响应式设计</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
+    <span class="version-tag">v0.0004</span>
+    <span class="version-date">2026-05-08</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type feat">新增</span> 分页 20 条 + 5 天自动清除</li>
+    <li><span class="change-type fix">修复</span> Base64 数据同步问题</li>
+    <li><span class="change-type fix">修复</span> 日夜模式图标逻辑反转</li>
+    <li><span class="change-type fix">修复</span> 文件缓冲区强制刷新</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
+    <span class="version-tag">v0.0003</span>
+    <span class="version-date">2026-05-07</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type feat">新增</span> 深色/浅色主题切换</li>
+    <li><span class="change-type feat">新增</span> 搜索功能</li>
+    <li><span class="change-type feat">新增</span> 消息详情弹窗</li>
+    <li><span class="change-type optimize">优化</span> 卡片视觉设计</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
+    <span class="version-tag">v0.0002</span>
+    <span class="version-date">2026-05-06</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type feat">新增</span> GitHub Pages 部署</li>
+    <li><span class="change-type feat">新增</span> 自动数据同步脚本</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
+    <span class="version-tag">v0.0001</span>
+    <span class="version-date">2026-05-06</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type feat">新增</span> 项目初始化</li>
+    <li><span class="change-type feat">新增</span> 基础卡片布局</li>
+    <li><span class="change-type feat">新增</span> 频道数据抓取</li>
+  </ul>
+</div>
+
+<div class="footer-link">
+  <a href="index.html">← 返回 Pulse 首页</a>
+</div>
+
+</body>
+</html>
