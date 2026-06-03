@@ -1709,45 +1709,6 @@
       }
     },
     {
-      "id": "zaihuapd_41719",
-      "channel": "zaihuapd",
-      "text": "特朗普签署人工智能行政令，要求企业自愿提交模型审查美国总统特朗普于 6 月 2 日签署了一项关于人工智能（AI）的行政命令。该指令建立了一个自愿性框架，邀请 AI 开发商在正式发布“受保护的尖端模型”前 30 天，将其提交给政府进行网络安全审查。此外，指令还要求财政部、战争部和国土安全部组建 AI 网络安全清算所，协调软件漏洞的扫描与修复，并加强联邦政府系统的防御能力。与此前计划的 90 天审查期相比，最终签署的版本有所缩减。这一调整是在行业压力和白宫内部意见分歧下做出的，旨在平衡国家安全需求与减少监管负担的承诺。该命令明确禁止建立强制性的政府许可或预检机制，强调通过公私合作来维持美国的 AI 领先地位，同时优先打击利用人工智能进行的网络犯罪。The White House|Politico|CNBC·备用频道·",
-      "clean_text": "特朗普签署人工智能行政令，要求企业自愿提交模型审查美国总统特朗普于 6 月 2 日签署了一项关于人工智能（AI）的行政命令。该指令建立了一个自愿性框架，邀请 AI 开发商在正式发布“受保护的尖端模型”前 30 天，将其提交给政府进行网络安全审查。此外，指令还要求财政部、战争部和国土安全部组建 AI 网络安全清算所，协调软件漏洞的扫描与修复，并加强联邦政府系统的防御能力。与此前计划的 90 天审查期相比，最终签署的版本有所缩减。这一调整是在行业压力和白宫内部意见分歧下做出的，旨在平衡国家安全需求与减少监管负担的承诺。该命令明确禁止建立强制性的政府许可或预检机制，强调通过公私合作来维持美国的 AI 领先地位，同时优先打击利用人工智能进行的网络犯罪。The White House|Politico|CNBC·备用频道",
-      "datetime": "2026-06-02T16:44:32+00:00",
-      "views": "1.42K",
-      "source_links": [
-        {
-          "text": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
-        },
-        {
-          "text": "Politico",
-          "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41719",
-      "scraped_at": "2026-06-03T01:00:23.039265",
-      "title": "特朗普签AI行政令",
-      "title_options": {
-        "conclusion": "特朗普签AI行政令",
-        "attractive": "企业自愿提交模型审查",
-        "minimal": "AI行政令 自愿审查",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1809,6 +1770,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-04T04:39:48.662257"
+  "count": 65,
+  "updated_at": "2026-06-04T04:44:52.375940"
 }
