@@ -1897,33 +1897,6 @@
       }
     },
     {
-      "id": "xhqcankao_29785",
-      "channel": "xhqcankao",
-      "text": "SK集团计划未来五年将晶圆产能翻倍韩国 SK 集团董事长崔泰源周二表示，旗下存储芯片子公司SK海力士计划在未来五年将晶圆产能扩大一倍。崔泰源在Computex展会上发表了上述言论，英伟达等全球头部科技企业的高管齐聚本次展会。崔泰源三月曾警告称，全球晶圆短缺的状况可能会持续到2030年。崔泰源在此次展会上还称，SK 集团需要在台湾建立更多的合作伙伴关系，而不仅仅是与全球最大的芯片代工厂台积电合作。他还表示，希望SK海力士能成为英伟达Vera Rubin系统的主要HBM供应商。崔泰源本周一还会见了英伟达公司首席执行官黄仁勋，探讨了AI内存芯片领域的合作事宜。——财联社、彭博社",
-      "clean_text": "SK集团计划未来五年将晶圆产能翻倍韩国 SK 集团董事长崔泰源周二表示，旗下存储芯片子公司SK海力士计划在未来五年将晶圆产能扩大一倍。崔泰源在Computex展会上发表了上述言论，英伟达等全球头部科技企业的高管齐聚本次展会。崔泰源三月曾警告称，全球晶圆短缺的状况可能会持续到2030年。崔泰源在此次展会上还称，SK 集团需要在台湾建立更多的合作伙伴关系，而不仅仅是与全球最大的芯片代工厂台积电合作。他还表示，希望SK海力士能成为英伟达Vera Rubin系统的主要HBM供应商。崔泰源本周一还会见了英伟达公司首席执行官黄仁勋，探讨了AI内存芯片领域的合作事宜。——财联社、彭博社",
-      "datetime": "2026-06-02T13:31:13+00:00",
-      "views": "3.67K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2388372?sv=8.6.7&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29785",
-      "scraped_at": "2026-06-03T00:00:37.180572",
-      "title": "SK海力士五年内晶圆产能翻倍",
-      "title_options": {
-        "conclusion": "SK海力士五年内晶圆产能翻倍",
-        "attractive": "晶圆短缺持续到2030年",
-        "minimal": "SK海力士产能翻倍",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1985,6 +1958,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-06-04T01:27:13.465536"
+  "count": 72,
+  "updated_at": "2026-06-04T01:32:19.478803"
 }
