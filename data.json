@@ -1951,37 +1951,6 @@
       }
     },
     {
-      "id": "zaihuapd_41712",
-      "channel": "zaihuapd",
-      "text": "美联邦机构 X 账号互动量在特朗普任内显著增长皮尤研究中心分析显示，美国联邦机构 X 账号在特朗普第二个任期内的互动量远超拜登时期。在受访的 24 个机构账号中，绝大多数的获赞和转发量大幅增加。尽管多数机构的发帖频率变化不大，但白宫、国土安全部和移民海关执法局的发帖量已达此前的两倍以上。政府账号的用词偏好也发生转变，“美国”、“总统”和“犯罪”等词汇的提及率显著上升。其中，新设立的政府效率部（DOGE）账号互动最为活跃，单条帖子平均获得近 2.9 万次互动。此外，国务院和国防部等部分机构已开始清理或归档 2025 年之前的历史推文。Pew Research Center·备用频道·",
-      "clean_text": "美联邦机构 X 账号互动量在特朗普任内显著增长皮尤研究中心分析显示，美国联邦机构 X 账号在特朗普第二个任期内的互动量远超拜登时期。在受访的 24 个机构账号中，绝大多数的获赞和转发量大幅增加。尽管多数机构的发帖频率变化不大，但白宫、国土安全部和移民海关执法局的发帖量已达此前的两倍以上。政府账号的用词偏好也发生转变，“美国”、“总统”和“犯罪”等词汇的提及率显著上升。其中，新设立的政府效率部（DOGE）账号互动最为活跃，单条帖子平均获得近 2.9 万次互动。此外，国务院和国防部等部分机构已开始清理或归档 2025 年之前的历史推文。Pew Research Center·备用频道",
-      "datetime": "2026-06-02T11:59:24+00:00",
-      "views": "305",
-      "source_links": [
-        {
-          "text": "Pew Research Center",
-          "url": "https://www.pewresearch.org/short-reads/2026/06/01/federal-agency-x-accounts-are-getting-far-more-engagement-in-the-second-trump-term-than-under-biden/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41712",
-      "scraped_at": "2026-06-02T20:01:01.827283",
-      "title": "联邦机构X账号互动量激增",
-      "title_options": {
-        "conclusion": "联邦机构X账号互动量激增",
-        "attractive": "特朗普任内X账号互动翻倍",
-        "minimal": "X账号互动量增长",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -2043,6 +2012,6 @@
       }
     }
   ],
-  "count": 75,
-  "updated_at": "2026-06-03T23:55:09.752109"
+  "count": 74,
+  "updated_at": "2026-06-04T00:00:17.148680"
 }
