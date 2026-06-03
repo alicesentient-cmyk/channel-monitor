@@ -1,118 +1,6 @@
 {
   "messages": [
     {
-      "id": "zaihuapd_41752",
-      "channel": "zaihuapd",
-      "text": "HTTP/2 Bomb 可远程拖垮多款主流服务器研究人员披露名为 HTTP/2 Bomb 的远程拒绝服务攻击。，影响 NGINX、Apache HTTPD、Microsoft IIS、Envoy 和 Cloudflare Pingora 的默认 HTTP/2 配置。攻击把 HPACK 压缩放大与类似 Slowloris 的连接占用结合起来，可持续占住服务器内存。文中称，100 Mbps 家用网络可在数秒内让部分服务器不可用，Apache httpd 和 Envoy 单个客户端约 20 秒可占住 32 GB 内存。nginx 已在 1.29.8+ 加入修复，Apache 修复在 mod_http2 v2.0.41，IIS、Envoy 和 Pingora 暂无补丁。Calif|The Hacker News·备用频道·",
-      "clean_text": "HTTP/2 Bomb 可远程拖垮多款主流服务器研究人员披露名为 HTTP/2 Bomb 的远程拒绝服务攻击。，影响 NGINX、Apache HTTPD、Microsoft IIS、Envoy 和 Cloudflare Pingora 的默认 HTTP/2 配置。攻击把 HPACK 压缩放大与类似 Slowloris 的连接占用结合起来，可持续占住服务器内存。文中称，100 Mbps 家用网络可在数秒内让部分服务器不可用，Apache httpd 和 Envoy 单个客户端约 20 秒可占住 32 GB 内存。nginx 已在 1.29.8+ 加入修复，Apache 修复在 mod_http2 v2.0.41，IIS、Envoy 和 Pingora 暂无补丁。Calif|The Hacker News·备用频道",
-      "datetime": "2026-06-03T15:00:21+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "Calif",
-          "url": "https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb"
-        },
-        {
-          "text": "The Hacker News",
-          "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41752",
-      "scraped_at": "2026-06-03T23:00:50.492850",
-      "title": "HTTP/2 Bomb攻击多款服务器",
-      "title_options": {
-        "conclusion": "HTTP/2 Bomb攻击多款服务器",
-        "attractive": "100Mbps网络秒杀服务器",
-        "minimal": "HTTP/2 Bomb 拒绝服务",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_29821",
-      "channel": "xhqcankao",
-      "text": "豆包计划推出专业版 日常使用功能保持免费6月3日，豆包发布《关于豆包即将推出专业版的说明》：一、针对专业人群的生产力需求，豆包计划推出豆包专业版，将包含软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等专业服务。二、对于广大用户日常使用的豆包功能，包含搜索问答、写作生图、以及语音和视频对话等，将保持目前的免费服务，保证用户使用体验和习惯不受影响。豆包会不断为免费用户提供新的模型、能力和更好的体验。专业版的服务，也将在一定额度内免费。三、豆包专业版目前还在测试阶段，正式上线时，会通过官方渠道发布完整信息。——财联社",
-      "clean_text": "豆包计划推出专业版 日常使用功能保持免费6月3日，豆包发布《关于豆包即将推出专业版的说明》：一、针对专业人群的生产力需求，豆包计划推出豆包专业版，将包含软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等专业服务。二、对于广大用户日常使用的豆包功能，包含搜索问答、写作生图、以及语音和视频对话等，将保持目前的免费服务，保证用户使用体验和习惯不受影响。豆包会不断为免费用户提供新的模型、能力和更好的体验。专业版的服务，也将在一定额度内免费。三、豆包专业版目前还在测试阶段，正式上线时，会通过官方渠道发布完整信息。——财联社",
-      "datetime": "2026-06-03T14:33:31+00:00",
-      "views": "1.36K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2389865?os=&amp;sv=8.7.9&amp;"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29821",
-      "scraped_at": "2026-06-03T23:00:52.778882",
-      "title": "豆包将推专业版",
-      "title_options": {
-        "conclusion": "豆包将推专业版",
-        "attractive": "免费功能不变",
-        "minimal": "豆包专业版",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41751",
-      "channel": "zaihuapd",
-      "text": "知乎 2026 年首季扭亏为盈，经调整净利润 1716 万元知乎发布 2026 年第一季度财报，当季实现营收 6.52 亿元，环比增长 1.3%。在盈利表现上，经调整净利润为 1716 万元，同比增长 147.2%，成功实现环比扭亏为盈。截至季度末，知乎持有的现金及等价物等资产总额为 44.9 亿元。业务结构方面，付费内容及 IP 运营已成为核心支柱，收入达 4.02 亿元，营收占比超六成。运营数据也同步增长，月均订阅会员达到 1310 万，日活跃用户时长及互动率均有提升。知乎表示，未来将继续推进 AI 与业务的融合，并专注于提升长期经营盈利能力。新浪科技·备用频道·",
-      "clean_text": "知乎 2026 年首季扭亏为盈，经调整净利润 1716 万元知乎发布 2026 年第一季度财报，当季实现营收 6.52 亿元，环比增长 1.3%。在盈利表现上，经调整净利润为 1716 万元，同比增长 147.2%，成功实现环比扭亏为盈。截至季度末，知乎持有的现金及等价物等资产总额为 44.9 亿元。业务结构方面，付费内容及 IP 运营已成为核心支柱，收入达 4.02 亿元，营收占比超六成。运营数据也同步增长，月均订阅会员达到 1310 万，日活跃用户时长及互动率均有提升。知乎表示，未来将继续推进 AI 与业务的融合，并专注于提升长期经营盈利能力。新浪科技·备用频道",
-      "datetime": "2026-06-03T14:30:21+00:00",
-      "views": "3.09K",
-      "source_links": [
-        {
-          "text": "新浪科技",
-          "url": "https://finance.sina.com.cn/tob/2026-06-03/doc-iniacnuq4159117.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41751",
-      "scraped_at": "2026-06-03T23:00:50.492353",
-      "title": "知乎首季扭亏为盈",
-      "title_options": {
-        "conclusion": "知乎首季扭亏为盈",
-        "attractive": "知乎净利增147%",
-        "minimal": "知乎扭亏净利1716万",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_29820",
-      "channel": "xhqcankao",
-      "text": "​纽约时报出版人痛斥AI公司窃取知识产权第77届世界新闻出版协会（WAN-IFRA）世界新闻媒体年会在法国马赛举行。纽约时报出版人萨兹柏格周一在会中痛斥人工智能公司 “大胆窃取知识产权”。根据萨兹柏格的演讲稿，“人工智能公司之所以能劫持公共舆论空间，是其AI产品以前所未见的规模，大胆窃取知识产权的原罪所造就。”“科技巨头在未获许可、未予补偿的情况下，掠夺性地挖掘新闻网站内容。”新闻业“面对AI革命领导公司的侵害，反应过于沉默、过于被动、过于分散。”萨兹柏格对此感到忧心，“未来愿意耗费大量资源，从事难度极高的原创新闻工作者，很快就会越来越少”。——法新社",
-      "clean_text": "​纽约时报出版人痛斥AI公司窃取知识产权第77届世界新闻出版协会（WAN-IFRA）世界新闻媒体年会在法国马赛举行。纽约时报出版人萨兹柏格周一在会中痛斥人工智能公司 “大胆窃取知识产权”。根据萨兹柏格的演讲稿，“人工智能公司之所以能劫持公共舆论空间，是其AI产品以前所未见的规模，大胆窃取知识产权的原罪所造就。”“科技巨头在未获许可、未予补偿的情况下，掠夺性地挖掘新闻网站内容。”新闻业“面对AI革命领导公司的侵害，反应过于沉默、过于被动、过于分散。”萨兹柏格对此感到忧心，“未来愿意耗费大量资源，从事难度极高的原创新闻工作者，很快就会越来越少”。——法新社",
-      "datetime": "2026-06-03T14:03:58+00:00",
-      "views": "2.18K",
-      "source_links": [
-        {
-          "text": "法新社",
-          "url": "https://hk.news.yahoo.com/share/82685ea6-f42a-3e55-a99b-adc0f05884be"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29820",
-      "scraped_at": "2026-06-03T23:00:52.778448",
-      "title": "纽时出版人痛斥AI窃取知识产权",
-      "title_options": {
-        "conclusion": "纽时出版人痛斥AI窃取知识产权",
-        "attractive": "AI窃取内容，新闻业沉默",
-        "minimal": "纽时AI窃取知识产权",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41750",
       "channel": "zaihuapd",
       "text": "调查称欧洲人对自动驾驶信任度偏低XPeng 一项覆盖欧洲六国、逾 5000 名受访者的调查显示，只有 13% 的欧洲人愿意乘坐没有驾驶员掌控的自动驾驶汽车；中国受访者这一比例为 70%。欧洲受访者中，53% 在 AI 接管驾驶或作出紧急决定时表示“很少或完全不信任”。但最多 53% 的驾驶者能接受自适应巡航、交通标志识别、车道保持等辅助功能。AutoExpress·备用频道·",
@@ -134,14 +22,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41750",
-      "scraped_at": "2026-06-03T22:01:07.352395",
-      "title": "仅13%欧洲人信任自动驾驶",
-      "title_options": {
-        "conclusion": "仅13%欧洲人信任自动驾驶",
-        "attractive": "中国70%信任，欧洲仅13%",
-        "minimal": "欧洲自动驾驶信任度低",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T22:01:07.352395"
     },
     {
       "id": "xhqcankao_29819",
@@ -157,13 +38,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29819",
-      "scraped_at": "2026-06-03T22:01:10.018608",
-      "title": "马克龙邀OpenAI CEO出席G7",
-      "title_options": {
-        "conclusion": "马克龙邀OpenAI CEO出席G7",
-        "attractive": "OpenAI CEO首次参加G7峰会",
-        "minimal": "马克龙邀奥尔特曼G7"
-      }
+      "scraped_at": "2026-06-03T22:01:10.018608"
     },
     {
       "id": "zaihuapd_41749",
@@ -187,14 +62,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41749",
-      "scraped_at": "2026-06-03T22:01:07.351941",
-      "title": "美教师工会呼吁限制小学AI",
-      "title_options": {
-        "conclusion": "美教师工会呼吁限制小学AI",
-        "attractive": "小学禁用AI？教师工会发声",
-        "minimal": "限制AI 课堂屏幕",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T22:01:07.351941"
     },
     {
       "id": "xhqcankao_29818",
@@ -214,14 +82,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29818",
-      "scraped_at": "2026-06-03T22:01:10.018229",
-      "title": "欧盟AI数据中心计划受挫",
-      "title_options": {
-        "conclusion": "欧盟AI数据中心计划受挫",
-        "attractive": "两百亿欧元计划遇资金难题",
-        "minimal": "欧盟数据中心延误",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T22:01:10.018229"
     },
     {
       "id": "zaihuapd_41748",
@@ -245,14 +106,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41748",
-      "scraped_at": "2026-06-03T21:00:43.757596",
-      "title": "豆包推专业版，日常免费",
-      "title_options": {
-        "conclusion": "豆包推专业版，日常免费",
-        "attractive": "专业版测试，日常免费",
-        "minimal": "豆包专业版",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T21:00:43.757596"
     },
     {
       "id": "xhqcankao_29817",
@@ -272,14 +126,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29817",
-      "scraped_at": "2026-06-03T21:00:47.261627",
-      "title": "东陶加码半导体材料",
-      "title_options": {
-        "conclusion": "东陶加码半导体材料",
-        "attractive": "AI热催生陶瓷新需求",
-        "minimal": "东陶半导体支出过半",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T21:00:47.261627"
     },
     {
       "id": "zaihuapd_41743",
@@ -303,13 +150,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41743",
-      "scraped_at": "2026-06-03T21:00:43.757159",
-      "title": "64GB内存成创作甜点",
-      "title_options": {
-        "conclusion": "64GB内存成创作甜点",
-        "attractive": "16GB瓶颈跌40%",
-        "minimal": "64GB甜点配置"
-      }
+      "scraped_at": "2026-06-03T21:00:43.757159"
     },
     {
       "id": "zaihuapd_41742",
@@ -333,14 +174,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41742",
-      "scraped_at": "2026-06-03T21:00:43.756446",
-      "title": "千问向第三方全面开放",
-      "title_options": {
-        "conclusion": "千问向第三方全面开放",
-        "attractive": "瑞幸等企业测试千问Agent",
-        "minimal": "千问开放Agent",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T21:00:43.756446"
     },
     {
       "id": "xhqcankao_29816",
@@ -356,14 +190,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29816",
-      "scraped_at": "2026-06-03T21:00:47.261211",
-      "title": "谷歌买开发者代码训练AI",
-      "title_options": {
-        "conclusion": "谷歌买开发者代码训练AI",
-        "attractive": "你的代码能卖钱了",
-        "minimal": "谷歌购代码",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T21:00:47.261211"
     },
     {
       "id": "zaihuapd_41741",
@@ -387,14 +214,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41741",
-      "scraped_at": "2026-06-03T20:01:02.397789",
-      "title": "谷歌允许网站退出AI搜索",
-      "title_options": {
-        "conclusion": "谷歌允许网站退出AI搜索",
-        "attractive": "网站可自主退出AI搜索",
-        "minimal": "谷歌AI搜索退出选项",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T20:01:02.397789"
     },
     {
       "id": "xhqcankao_29815",
@@ -410,14 +230,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29815",
-      "scraped_at": "2026-06-03T20:01:04.540956",
-      "title": "张一鸣成亚洲第二大富豪",
-      "title_options": {
-        "conclusion": "张一鸣成亚洲第二大富豪",
-        "attractive": "身家928亿，超越安巴尼",
-        "minimal": "张一鸣亚洲第二",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T20:01:04.540956"
     },
     {
       "id": "zaihuapd_41740",
@@ -428,14 +241,7 @@
       "views": "6.72K",
       "source_links": [],
       "url": "https://t.me/zaihuapd/41740",
-      "scraped_at": "2026-06-03T20:01:02.396391",
-      "title": "代理IP段遭封禁",
-      "title_options": {
-        "conclusion": "代理IP段遭封禁",
-        "attractive": "Vless协议被阻断",
-        "minimal": "代理服务阻断",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T20:01:02.396391"
     },
     {
       "id": "xhqcankao_29814",
@@ -451,14 +257,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29814",
-      "scraped_at": "2026-06-03T20:01:04.540515",
-      "title": "特斯拉上海工厂5月交付量增39%",
-      "title_options": {
-        "conclusion": "特斯拉上海工厂5月交付量增39%",
-        "attractive": "特斯拉上海工厂交付量创2026年新高",
-        "minimal": "特斯拉上海工厂交付量增39%",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T20:01:04.540515"
     },
     {
       "id": "zaihuapd_41739",
@@ -469,14 +268,7 @@
       "views": "2.28K",
       "source_links": [],
       "url": "https://t.me/zaihuapd/41739",
-      "scraped_at": "2026-06-03T19:00:12.689358",
-      "title": "日企推员工恋爱福利",
-      "title_options": {
-        "conclusion": "日企推员工恋爱福利",
-        "attractive": "超1500家企业用交友App",
-        "minimal": "日企恋爱福利App",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T19:00:12.689358"
     },
     {
       "id": "xhqcankao_29813",
@@ -492,14 +284,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29813",
-      "scraped_at": "2026-06-03T19:00:15.693718",
-      "title": "印度Prime音乐将含广告",
-      "title_options": {
-        "conclusion": "印度Prime音乐将含广告",
-        "attractive": "Prime音乐免费听？广告来了",
-        "minimal": "印度Prime音乐广告",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T19:00:15.693718"
     },
     {
       "id": "zaihuapd_41738",
@@ -519,14 +304,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41738",
-      "scraped_at": "2026-06-03T19:00:12.688727",
-      "title": "CMLink调整内地流量激活规则",
-      "title_options": {
-        "conclusion": "CMLink调整内地流量激活规则",
-        "attractive": "境外卡内地流量需提前激活",
-        "minimal": "CMLink激活规则变更",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T19:00:12.688727"
     },
     {
       "id": "xhqcankao_29812",
@@ -546,14 +324,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29812",
-      "scraped_at": "2026-06-03T19:00:15.693350",
-      "title": "DeepSeek获500亿融资",
-      "title_options": {
-        "conclusion": "DeepSeek获500亿融资",
-        "attractive": "腾讯宁德时代投DeepSeek",
-        "minimal": "DeepSeek 500亿融资",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T19:00:15.693350"
     },
     {
       "id": "zaihuapd_41737",
@@ -564,14 +335,7 @@
       "views": "4.68K",
       "source_links": [],
       "url": "https://t.me/zaihuapd/41737",
-      "scraped_at": "2026-06-03T19:00:12.688218",
-      "title": "美法院裁定特朗普关税违法",
-      "title_options": {
-        "conclusion": "美法院裁定特朗普关税违法",
-        "attractive": "10%全球关税被判无效",
-        "minimal": "特朗普关税违法",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T19:00:12.688218"
     },
     {
       "id": "xhqcankao_29811",
@@ -587,14 +351,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29811",
-      "scraped_at": "2026-06-03T18:00:22.560546",
-      "title": "英国迫使谷歌改变AI摘要",
-      "title_options": {
-        "conclusion": "英国迫使谷歌改变AI摘要",
-        "attractive": "出版商获AI内容控制权",
-        "minimal": "谷歌AI摘要控制权",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T18:00:22.560546"
     },
     {
       "id": "xhqcankao_29810",
@@ -610,14 +367,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29810",
-      "scraped_at": "2026-06-03T18:00:22.560193",
-      "title": "MacBook Neo首季出货110万台",
-      "title_options": {
-        "conclusion": "MacBook Neo首季出货110万台",
-        "attractive": "三周销量超M5和M5 Pro",
-        "minimal": "Neo出货110万台领先",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T18:00:22.560193"
     },
     {
       "id": "zaihuapd_41736",
@@ -641,14 +391,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41736",
-      "scraped_at": "2026-06-03T18:00:19.829580",
-      "title": "SpaceX IPO定价135美元",
-      "title_options": {
-        "conclusion": "SpaceX IPO定价135美元",
-        "attractive": "史上最大IPO筹资750亿",
-        "minimal": "SpaceX IPO 135美元",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T18:00:19.829580"
     },
     {
       "id": "xhqcankao_29809",
@@ -664,14 +407,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29809",
-      "scraped_at": "2026-06-03T17:00:33.738195",
-      "title": "X推视频评论功能",
-      "title_options": {
-        "conclusion": "X推视频评论功能",
-        "attractive": "发视频评论替代转发",
-        "minimal": "X视频评论",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T17:00:33.738195"
     },
     {
       "id": "zaihuapd_41733",
@@ -695,13 +431,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41733",
-      "scraped_at": "2026-06-03T17:00:30.778670",
-      "title": "教育部严禁炒作高考状元",
-      "title_options": {
-        "conclusion": "教育部严禁炒作高考状元",
-        "attractive": "录取通知书回归一页纸",
-        "minimal": "高考规范招生宣传"
-      }
+      "scraped_at": "2026-06-03T17:00:30.778670"
     },
     {
       "id": "xhqcankao_29808",
@@ -717,14 +447,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29808",
-      "scraped_at": "2026-06-03T17:00:33.737735",
-      "title": "微软量子芯片可靠性提升千倍",
-      "title_options": {
-        "conclusion": "微软量子芯片可靠性提升千倍",
-        "attractive": "量子比特存续20秒，微软芯片突破",
-        "minimal": "微软量子芯片Majorana 2",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T17:00:33.737735"
     },
     {
       "id": "xhqcankao_29807",
@@ -740,14 +463,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29807",
-      "scraped_at": "2026-06-03T16:00:34.604133",
-      "title": "黑客窃取Dashlane加密库",
-      "title_options": {
-        "conclusion": "黑客窃取Dashlane加密库",
-        "attractive": "20个用户密码库被盗",
-        "minimal": "Dashlane遭黑客攻击",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T16:00:34.604133"
     },
     {
       "id": "zaihuapd_41732",
@@ -787,14 +503,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41732",
-      "scraped_at": "2026-06-03T16:00:31.272473",
-      "title": "特斯拉更新加密行车记录",
-      "title_options": {
-        "conclusion": "特斯拉更新加密行车记录",
-        "attractive": "你的特斯拉录像被加密了",
-        "minimal": "特斯拉加密行车记录",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T16:00:31.272473"
     },
     {
       "id": "xhqcankao_29806",
@@ -814,13 +523,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29806",
-      "scraped_at": "2026-06-03T16:00:34.603720",
-      "title": "美国数据中心建设滞后",
-      "title_options": {
-        "conclusion": "美国数据中心建设滞后",
-        "attractive": "六成数据中心未开工",
-        "minimal": "数据中心瓶颈"
-      }
+      "scraped_at": "2026-06-03T16:00:34.603720"
     },
     {
       "id": "zaihuapd_41731",
@@ -852,14 +555,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41731",
-      "scraped_at": "2026-06-03T15:00:29.565348",
-      "title": "VSCode漏洞可窃取GitHub T…",
-      "title_options": {
-        "conclusion": "VSCode漏洞可窃取GitHub T…",
-        "attractive": "点击链接Token被盗",
-        "minimal": "VSCode漏洞 Token窃取",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T15:00:29.565348"
     },
     {
       "id": "xhqcankao_29805",
@@ -875,14 +571,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29805",
-      "scraped_at": "2026-06-03T15:00:31.863447",
-      "title": "CMLink数据卡限制内地居民",
-      "title_options": {
-        "conclusion": "CMLink数据卡限制内地居民",
-        "attractive": "境外卡需提前激活",
-        "minimal": "CMLink 限制 内地",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T15:00:31.863447"
     },
     {
       "id": "xhqcankao_29804",
@@ -898,14 +587,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29804",
-      "scraped_at": "2026-06-03T15:00:31.863019",
-      "title": "手机出货量预计降14%",
-      "title_options": {
-        "conclusion": "手机出货量预计降14%",
-        "attractive": "存储器短缺致手机减产",
-        "minimal": "出货量降14%",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T15:00:31.863019"
     },
     {
       "id": "zaihuapd_41730",
@@ -929,14 +611,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41730",
-      "scraped_at": "2026-06-03T14:00:31.874877",
-      "title": "ChatGPT订阅滥用报告",
-      "title_options": {
-        "conclusion": "ChatGPT订阅滥用报告",
-        "attractive": "账号批量注册转售",
-        "minimal": "订阅账号滥用",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T14:00:31.874877"
     },
     {
       "id": "xhqcankao_29803",
@@ -952,14 +627,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29803",
-      "scraped_at": "2026-06-03T14:00:33.858844",
-      "title": "马斯克囤地6000英亩",
-      "title_options": {
-        "conclusion": "马斯克囤地6000英亩",
-        "attractive": "550亿芯片厂选址曝光",
-        "minimal": "马斯克囤地建厂",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T14:00:33.858844"
     },
     {
       "id": "zaihuapd_41728",
@@ -983,14 +651,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41728",
-      "scraped_at": "2026-06-03T14:00:31.873751",
-      "title": "OpenAI推金融法律AI工具",
-      "title_options": {
-        "conclusion": "OpenAI推金融法律AI工具",
-        "attractive": "OpenAI与Anthropic争企业…",
-        "minimal": "OpenAI金融法律AI",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T14:00:31.873751"
     },
     {
       "id": "xhqcankao_29802",
@@ -1006,14 +667,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29802",
-      "scraped_at": "2026-06-03T14:00:33.858495",
-      "title": "美拟对60国加征关税",
-      "title_options": {
-        "conclusion": "美拟对60国加征关税",
-        "attractive": "美国关税墙卷土重来",
-        "minimal": "美对60国分档征税",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T14:00:33.858495"
     },
     {
       "id": "zaihuapd_41727",
@@ -1037,14 +691,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41727",
-      "scraped_at": "2026-06-03T14:00:31.873220",
-      "title": "iOS首款磁盘可视化工具",
-      "title_options": {
-        "conclusion": "iOS首款磁盘可视化工具",
-        "attractive": "iOS磁盘可视化工具发布",
-        "minimal": "Disk Icicle 工具",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T14:00:31.873220"
     },
     {
       "id": "xhqcankao_29801",
@@ -1060,13 +707,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29801",
-      "scraped_at": "2026-06-03T14:00:33.858115",
-      "title": "YT Music搜索栏移至底部",
-      "title_options": {
-        "conclusion": "YT Music搜索栏移至底部",
-        "attractive": "YT Music搜索栏下移",
-        "minimal": "YT Music搜索栏底部"
-      }
+      "scraped_at": "2026-06-03T14:00:33.858115"
     },
     {
       "id": "xhqcankao_29800",
@@ -1082,14 +723,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29800",
-      "scraped_at": "2026-06-03T13:00:53.855430",
-      "title": "Ring面部识别遭集体诉讼",
-      "title_options": {
-        "conclusion": "Ring面部识别遭集体诉讼",
-        "attractive": "路过门铃就被扫脸？",
-        "minimal": "Ring 面部识别 诉讼",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T13:00:53.855430"
     },
     {
       "id": "zaihuapd_41726",
@@ -1125,14 +759,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41726",
-      "scraped_at": "2026-06-03T13:00:52.642719",
-      "title": "微软量子芯片商用提前至2029",
-      "title_options": {
-        "conclusion": "微软量子芯片商用提前至2029",
-        "attractive": "量子比特寿命延长至20秒",
-        "minimal": "Majorana 2 量子芯片",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T13:00:52.642719"
     },
     {
       "id": "xhqcankao_29799",
@@ -1148,14 +775,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29799",
-      "scraped_at": "2026-06-03T13:00:53.855048",
-      "title": "美军破解武器系统整合",
-      "title_options": {
-        "conclusion": "美军破解武器系统整合",
-        "attractive": "20人盯屏变1屏",
-        "minimal": "美军破解系统",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T13:00:53.855048"
     },
     {
       "id": "zaihuapd_41725",
@@ -1179,14 +799,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41725",
-      "scraped_at": "2026-06-03T12:00:14.628732",
-      "title": "Hermes Desktop公开预览版…",
-      "title_options": {
-        "conclusion": "Hermes Desktop公开预览版…",
-        "attractive": "本地运行Hermes Agent",
-        "minimal": "Hermes Desktop预览",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T12:00:14.628732"
     },
     {
       "id": "xhqcankao_29798",
@@ -1206,14 +819,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29798",
-      "scraped_at": "2026-06-03T12:00:16.438297",
-      "title": "谷歌推虚假通话检测",
-      "title_options": {
-        "conclusion": "谷歌推虚假通话检测",
-        "attractive": "防深伪诈骗新功能",
-        "minimal": "安卓通话检测",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T12:00:16.438297"
     },
     {
       "id": "xhqcankao_29797",
@@ -1233,14 +839,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29797",
-      "scraped_at": "2026-06-03T12:00:16.437940",
-      "title": "优步限制AI工具支出",
-      "title_options": {
-        "conclusion": "优步限制AI工具支出",
-        "attractive": "每款AI工具月限1500美元",
-        "minimal": "优步AI支出上限",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T12:00:16.437940"
     },
     {
       "id": "zaihuapd_41724",
@@ -1264,14 +863,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41724",
-      "scraped_at": "2026-06-03T11:00:29.073890",
-      "title": "谷歌付费购开发者代码",
-      "title_options": {
-        "conclusion": "谷歌付费购开发者代码",
-        "attractive": "开发者代码可卖钱",
-        "minimal": "谷歌购代码训练AI",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T11:00:29.073890"
     },
     {
       "id": "xhqcankao_29796",
@@ -1291,14 +883,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29796",
-      "scraped_at": "2026-06-03T11:00:31.152549",
-      "title": "Meta缩减鼠标键盘追踪计划",
-      "title_options": {
-        "conclusion": "Meta缩减鼠标键盘追踪计划",
-        "attractive": "员工反对，Meta暂停数据收集",
-        "minimal": "Meta追踪计划缩减",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T11:00:31.152549"
     },
     {
       "id": "zaihuapd_41723",
@@ -1322,14 +907,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41723",
-      "scraped_at": "2026-06-03T11:00:29.073359",
-      "title": "iOS 27将适配折叠屏",
-      "title_options": {
-        "conclusion": "iOS 27将适配折叠屏",
-        "attractive": "折叠屏iPhone分屏功能",
-        "minimal": "iOS 27分屏适配",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T11:00:29.073359"
     },
     {
       "id": "xhqcankao_29795",
@@ -1349,14 +927,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29795",
-      "scraped_at": "2026-06-03T11:00:31.152033",
-      "title": "v2rayN移除跳过证书验证",
-      "title_options": {
-        "conclusion": "v2rayN移除跳过证书验证",
-        "attractive": "证书验证移除，内核将报错",
-        "minimal": "v2rayN证书验证移除",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T11:00:31.152033"
     },
     {
       "id": "xhqcankao_29794",
@@ -1372,14 +943,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29794",
-      "scraped_at": "2026-06-03T10:00:16.657676",
-      "title": "Mac版Office 2019将停编辑",
-      "title_options": {
-        "conclusion": "Mac版Office 2019将停编辑",
-        "attractive": "7月13日起Mac Office 20…",
-        "minimal": "Office 2019 Mac 编辑停用",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T10:00:16.657676"
     },
     {
       "id": "zaihuapd_41722",
@@ -1403,14 +967,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41722",
-      "scraped_at": "2026-06-03T10:00:15.403555",
-      "title": "小米公布老用户回归礼",
-      "title_options": {
-        "conclusion": "小米公布老用户回归礼",
-        "attractive": "小米API降价99%",
-        "minimal": "小米回归礼API降价",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T10:00:15.403555"
     },
     {
       "id": "xhqcankao_29793",
@@ -1426,14 +983,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29793",
-      "scraped_at": "2026-06-03T10:00:16.657313",
-      "title": "波兰呼吁技术主权应对AI风险",
-      "title_options": {
-        "conclusion": "波兰呼吁技术主权应对AI风险",
-        "attractive": "波兰推主权测试防AI依赖",
-        "minimal": "波兰技术主权AI风险",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T10:00:16.657313"
     },
     {
       "id": "xhqcankao_29792",
@@ -1449,14 +999,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29792",
-      "scraped_at": "2026-06-03T09:00:37.442354",
-      "title": "微软发布代码生成模型",
-      "title_options": {
-        "conclusion": "微软发布代码生成模型",
-        "attractive": "AI自动生成源代码",
-        "minimal": "微软新模型发布",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T09:00:37.442354"
     },
     {
       "id": "zaihuapd_41721",
@@ -1480,13 +1023,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41721",
-      "scraped_at": "2026-06-03T09:00:36.214221",
-      "title": "孙正义再成亚洲首富",
-      "title_options": {
-        "conclusion": "孙正义再成亚洲首富",
-        "attractive": "AI押注助孙正义登顶",
-        "minimal": "孙正义 亚洲首富"
-      }
+      "scraped_at": "2026-06-03T09:00:36.214221"
     },
     {
       "id": "xhqcankao_29791",
@@ -1510,14 +1047,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29791",
-      "scraped_at": "2026-06-03T09:00:37.441963",
-      "title": "Anthropic模型扩测150家",
-      "title_options": {
-        "conclusion": "Anthropic模型扩测150家",
-        "attractive": "漏洞发现速度提升十倍",
-        "minimal": "Anthropic模型扩测",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T09:00:37.441963"
     },
     {
       "id": "xhqcankao_29790",
@@ -1537,14 +1067,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29790",
-      "scraped_at": "2026-06-03T08:00:48.398864",
-      "title": "特朗普签AI行政令",
-      "title_options": {
-        "conclusion": "特朗普签AI行政令",
-        "attractive": "企业需提前开放AI",
-        "minimal": "AI行政令",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T08:00:48.398864"
     },
     {
       "id": "xhqcankao_29789",
@@ -1564,14 +1087,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29789",
-      "scraped_at": "2026-06-03T08:00:48.398479",
-      "title": "OpenAI推6款Codex插件",
-      "title_options": {
-        "conclusion": "OpenAI推6款Codex插件",
-        "attractive": "AI上岗，股票研究也能干",
-        "minimal": "OpenAI Codex插件",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T08:00:48.398479"
     },
     {
       "id": "zaihuapd_41719",
@@ -1603,14 +1119,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41719",
-      "scraped_at": "2026-06-03T01:00:23.039265",
-      "title": "特朗普签AI行政令",
-      "title_options": {
-        "conclusion": "特朗普签AI行政令",
-        "attractive": "企业自愿提交模型审查",
-        "minimal": "AI行政令 自愿审查",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T01:00:23.039265"
     },
     {
       "id": "zaihuapd_41718",
@@ -1634,14 +1143,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41718",
-      "scraped_at": "2026-06-03T00:00:34.346952",
-      "title": "农村老人月入不足千元",
-      "title_options": {
-        "conclusion": "农村老人月入不足千元",
-        "attractive": "2.6亿人月收入低于千元",
-        "minimal": "农村老人养老困境",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:34.346952"
     },
     {
       "id": "zaihuapd_41717",
@@ -1652,14 +1154,7 @@
       "views": "3.87K",
       "source_links": [],
       "url": "https://t.me/zaihuapd/41717",
-      "scraped_at": "2026-06-03T00:00:34.346310",
-      "title": "英伟达复产RTX 3060 8GB",
-      "title_options": {
-        "conclusion": "英伟达复产RTX 3060 8GB",
-        "attractive": "RTX 3060 8GB三月回归",
-        "minimal": "RTX 3060 8GB复产",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:34.346310"
     },
     {
       "id": "xhqcankao_29788",
@@ -1675,14 +1170,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29788",
-      "scraped_at": "2026-06-03T00:00:37.181703",
-      "title": "美唯一铀工厂扩产50%",
-      "title_options": {
-        "conclusion": "美唯一铀工厂扩产50%",
-        "attractive": "美国铀产能缺口扩大",
-        "minimal": "铀工厂扩建50%",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:37.181703"
     },
     {
       "id": "zaihuapd_41716",
@@ -1706,14 +1194,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41716",
-      "scraped_at": "2026-06-03T00:00:34.345717",
-      "title": "马尔代夫拟禁16岁以下用社交平台",
-      "title_options": {
-        "conclusion": "马尔代夫拟禁16岁以下用社交平台",
-        "attractive": "16岁以下禁用高风险社交平台",
-        "minimal": "马尔代夫青少年社交禁令",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:34.345717"
     },
     {
       "id": "xhqcankao_29787",
@@ -1729,14 +1210,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29787",
-      "scraped_at": "2026-06-03T00:00:37.181353",
-      "title": "中国人造钻石成AI热潮赢家",
-      "title_options": {
-        "conclusion": "中国人造钻石成AI热潮赢家",
-        "attractive": "钻石替代铜铝成芯片散热器",
-        "minimal": "人造钻石 AI 散热",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:37.181353"
     },
     {
       "id": "xhqcankao_29786",
@@ -1752,14 +1226,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29786",
-      "scraped_at": "2026-06-03T00:00:37.180956",
-      "title": "联发科扩招AI业务",
-      "title_options": {
-        "conclusion": "联发科扩招AI业务",
-        "attractive": "AI芯片订单已定至2030",
-        "minimal": "联发科AI招聘扩张",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:37.180956"
     },
     {
       "id": "zaihuapd_41715",
@@ -1783,14 +1250,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41715",
-      "scraped_at": "2026-06-03T00:00:34.345161",
-      "title": "英特尔继续支持DDR4",
-      "title_options": {
-        "conclusion": "英特尔继续支持DDR4",
-        "attractive": "旧内存技术缓解PC涨价",
-        "minimal": "英特尔DDR4支持",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:34.345161"
     },
     {
       "id": "xhqcankao_29785",
@@ -1810,14 +1270,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29785",
-      "scraped_at": "2026-06-03T00:00:37.180572",
-      "title": "SK海力士五年内晶圆产能翻倍",
-      "title_options": {
-        "conclusion": "SK海力士五年内晶圆产能翻倍",
-        "attractive": "晶圆短缺持续到2030年",
-        "minimal": "SK海力士产能翻倍",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:37.180572"
     },
     {
       "id": "xhqcankao_29784",
@@ -1833,14 +1286,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29784",
-      "scraped_at": "2026-06-03T00:00:37.180170",
-      "title": "老虎国际暂停境内新开仓",
-      "title_options": {
-        "conclusion": "老虎国际暂停境内新开仓",
-        "attractive": "老虎国际6月12日起限制交易",
-        "minimal": "老虎国际暂停交易",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T00:00:37.180170"
     },
     {
       "id": "zaihuapd_41714",
@@ -1864,14 +1310,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41714",
-      "scraped_at": "2026-06-02T21:00:58.359009",
-      "title": "老虎国际暂停境内新开仓",
-      "title_options": {
-        "conclusion": "老虎国际暂停境内新开仓",
-        "attractive": "境内账户加仓被叫停",
-        "minimal": "老虎国际暂停加仓",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-02T21:00:58.359009"
     },
     {
       "id": "xhqcankao_29783",
@@ -1887,14 +1326,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29783",
-      "scraped_at": "2026-06-02T21:01:00.291507",
-      "title": "黄仁勋称Marvell为下家万亿公司",
-      "title_options": {
-        "conclusion": "黄仁勋称Marvell为下家万亿公司",
-        "attractive": "黄仁勋钦点下一家万亿美元公司",
-        "minimal": "黄仁勋 Marvell 万亿",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-02T21:01:00.291507"
     },
     {
       "id": "zaihuapd_41713",
@@ -1918,14 +1350,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41713",
-      "scraped_at": "2026-06-02T21:00:58.358473",
-      "title": "中国电三轮海外爆单",
-      "title_options": {
-        "conclusion": "中国电三轮海外爆单",
-        "attractive": "欧美售价达3000-6000美元",
-        "minimal": "电三轮海外爆单",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-02T21:00:58.358473"
     },
     {
       "id": "xhqcankao_29782",
@@ -1941,14 +1366,7 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29782",
-      "scraped_at": "2026-06-02T21:01:00.291089",
-      "title": "安谋称美国难阻对华CPU出口",
-      "title_options": {
-        "conclusion": "安谋称美国难阻对华CPU出口",
-        "attractive": "AI芯片禁令难堵CPU出口",
-        "minimal": "安谋CPU出口中国",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-02T21:01:00.291089"
     },
     {
       "id": "zaihuapd_41712",
@@ -1972,14 +1390,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41712",
-      "scraped_at": "2026-06-02T20:01:01.827283",
-      "title": "联邦机构X账号互动量激增",
-      "title_options": {
-        "conclusion": "联邦机构X账号互动量激增",
-        "attractive": "特朗普任内X账号互动翻倍",
-        "minimal": "X账号互动量增长",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-02T20:01:01.827283"
     },
     {
       "id": "xhqcankao_29781",
@@ -1995,14 +1406,71 @@
         }
       ],
       "url": "https://t.me/xhqcankao/29781",
-      "scraped_at": "2026-06-02T20:01:03.796945",
-      "title": "俄高官手机发现间谍软件",
-      "title_options": {
-        "conclusion": "俄高官手机发现间谍软件",
-        "attractive": "你的手机可能被监听",
-        "minimal": "俄高官手机间谍软件",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-02T20:01:03.796945"
+    },
+    {
+      "id": "zaihuapd_41711",
+      "channel": "zaihuapd",
+      "text": "CVD 协议引入引发争议：订阅安全升级，还是设备身份暴露与反自由使用隐患开源代理客户端 Clash Verge Rev 在 dev 分支引入一项新的订阅安全机制：CVD，即 Clash Verge Device-binding Protocol，试图解决传统订阅 URL 一旦泄露即可被长期复制、批量滥用的问题。新方案让客户端生成设备密钥，通过请求头上报公钥，服务端再按设备加密下发订阅，并可限制设备数量、解绑旧设备、拒绝超额访问。但社区也有在讨论代价：CVD 会引入新的可识别信息。设备公钥虽不等同于真实身份，却可成为长期稳定标识；若服务端结合 IP、User-Agent、更新时间、失败记录和设备数量，便可能形成订阅侧指纹画像。对于代理届这种需要高度匿名与反追踪需求的场景而言，CVD 引入带来了一些身份隐私风险。同时，CVD 若被服务端强制启用，可能削弱第三方客户端、脚本备份和跨设备同步能力，使订阅访问更依赖特定客户端实现。当然，目前方案处于草创阶段，并没有实际运用，方案本身大部分也由 Ai 所撰写完成，具体可行性需要社区完整讨论与分析。关联 Git 提交·备用频道·",
+      "clean_text": "CVD 协议引入引发争议：订阅安全升级，还是设备身份暴露与反自由使用隐患开源代理客户端 Clash Verge Rev 在 dev 分支引入一项新的订阅安全机制：CVD，即 Clash Verge Device-binding Protocol，试图解决传统订阅 URL 一旦泄露即可被长期复制、批量滥用的问题。新方案让客户端生成设备密钥，通过请求头上报公钥，服务端再按设备加密下发订阅，并可限制设备数量、解绑旧设备、拒绝超额访问。但社区也有在讨论代价：CVD 会引入新的可识别信息。设备公钥虽不等同于真实身份，却可成为长期稳定标识；若服务端结合 IP、User-Agent、更新时间、失败记录和设备数量，便可能形成订阅侧指纹画像。对于代理届这种需要高度匿名与反追踪需求的场景而言，CVD 引入带来了一些身份隐私风险。同时，CVD 若被服务端强制启用，可能削弱第三方客户端、脚本备份和跨设备同步能力，使订阅访问更依赖特定客户端实现。当然，目前方案处于草创阶段，并没有实际运用，方案本身大部分也由 Ai 所撰写完成，具体可行性需要社区完整讨论与分析。关联 Git 提交·备用频道",
+      "datetime": "2026-06-02T11:07:22+00:00",
+      "views": "4.54K",
+      "source_links": [
+        {
+          "text": "关联 Git 提交",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev/commit/2cb9c13ab6f0b0fec5ccc622c669843c935942ed"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41711",
+      "scraped_at": "2026-06-02T20:01:01.826827"
+    },
+    {
+      "id": "xhqcankao_29780",
+      "channel": "xhqcankao",
+      "text": "存储涨价 运动相机鼻祖GoPro被逼入绝境最新迹象显示，飙升的存储芯片价格，正在成为压垮全球“运动相机鼻祖”GoPro的“最后一根稻草”……。根据周一最新提交的8-K补充文件，这家由Nicholas Woodman创立的公司已正式亮起 “无法持续经营” 的红灯，目前正四处奔走寻求紧急融资，以期在债务暴雷前避免违约的命运。该公司在最新文件中表示，目前其“对公司持续经营能力存在重大疑虑”。作为更新报告的一部分，该公司的独立审计机构普华永道在其审计意见中增加了一个解释性段落，强调了围绕GoPro持续经营能力的重大不确定性。该公司指出，导致这一披露的情况是在其于2026年3月12日提交原始年报之后才出现的。——财联社、彭博社",
+      "clean_text": "存储涨价 运动相机鼻祖GoPro被逼入绝境最新迹象显示，飙升的存储芯片价格，正在成为压垮全球“运动相机鼻祖”GoPro的“最后一根稻草”……。根据周一最新提交的8-K补充文件，这家由Nicholas Woodman创立的公司已正式亮起 “无法持续经营” 的红灯，目前正四处奔走寻求紧急融资，以期在债务暴雷前避免违约的命运。该公司在最新文件中表示，目前其“对公司持续经营能力存在重大疑虑”。作为更新报告的一部分，该公司的独立审计机构普华永道在其审计意见中增加了一个解释性段落，强调了围绕GoPro持续经营能力的重大不确定性。该公司指出，导致这一披露的情况是在其于2026年3月12日提交原始年报之后才出现的。——财联社、彭博社",
+      "datetime": "2026-06-02T11:04:31+00:00",
+      "views": "2.27K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2388158?sv=8.5.9&amp;app=cailianpress"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-01/gopro-warns-of-going-concern-risk-amid-ai-fueled-memory-crunch"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29780",
+      "scraped_at": "2026-06-02T20:01:03.796520"
+    },
+    {
+      "id": "xhqcankao_29779",
+      "channel": "xhqcankao",
+      "text": "亚马逊为期四天的会员日活动6月23日开启亚马逊一年一度的Prime会员日活动将连续第二年持续四天，时间为6月23日至6月26日。Prime会员日始于2015年，是亚马逊为年中打造购物季、吸纳新会员及推广产品服务的活动。亚马逊Prime业务副总裁贾米尔·加尼称，因观察到会员去年四天活动期间持续购物，决定延续延长活动时间，每天会提供限时优惠和新折扣。数据显示，美国五月消费者信心指数降至历史低点，油价飙升和美国与伊朗冲突致消费者信心恶化，高物价侵蚀个人财务。今年促销重点是食品杂货和家庭必需品，农产品、热狗面包和肉类最低一美元，部分个人护理用品如肥皂预计5折。——新浪财经、CNBC",
+      "clean_text": "亚马逊为期四天的会员日活动6月23日开启亚马逊一年一度的Prime会员日活动将连续第二年持续四天，时间为6月23日至6月26日。Prime会员日始于2015年，是亚马逊为年中打造购物季、吸纳新会员及推广产品服务的活动。亚马逊Prime业务副总裁贾米尔·加尼称，因观察到会员去年四天活动期间持续购物，决定延续延长活动时间，每天会提供限时优惠和新折扣。数据显示，美国五月消费者信心指数降至历史低点，油价飙升和美国与伊朗冲突致消费者信心恶化，高物价侵蚀个人财务。今年促销重点是食品杂货和家庭必需品，农产品、热狗面包和肉类最低一美元，部分个人护理用品如肥皂预计5折。——新浪财经、CNBC",
+      "datetime": "2026-06-02T10:33:01+00:00",
+      "views": "1.17K",
+      "source_links": [
+        {
+          "text": "新浪财经",
+          "url": "https://finance.sina.cn/2026-06-02/detail-inhzyxfm7807208.d.html?oid=WA%200859%203970%200884%20Rincian%20Pembangunan%20Rumah%20Kayu%20Minimalis%204x6%20Berpengalaman%20%20Solo&amp;vt=4"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/02/amazon-prime-day-shopping-inflation.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29779",
+      "scraped_at": "2026-06-02T19:00:32.938448"
     },
     {
       "id": "zaihuapd_41720",
@@ -2026,13 +1494,7 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41720",
-      "scraped_at": "2026-06-03T02:00:09.953577",
-      "title": "OpenAI推出Sites功能",
-      "title_options": {
-        "conclusion": "OpenAI推出Sites功能",
-        "attractive": "Codex将想法变应用",
-        "minimal": "Sites：想法转应用"
-      }
+      "scraped_at": "2026-06-03T02:00:09.953577"
     },
     {
       "id": "zaihuapd_41734",
@@ -2056,16 +1518,9 @@
         }
       ],
       "url": "https://t.me/zaihuapd/41734",
-      "scraped_at": "2026-06-03T17:00:30.779257",
-      "title": "Quick Share兼容AirDro…",
-      "title_options": {
-        "conclusion": "Quick Share兼容AirDro…",
-        "attractive": "你的安卓机也能用AirDrop了",
-        "minimal": "Quick Share AirDrop…",
-        "best": "conclusion"
-      }
+      "scraped_at": "2026-06-03T17:00:30.779257"
     }
   ],
-  "count": 76,
-  "updated_at": "2026-06-03T23:11:05.556531"
+  "count": 75,
+  "updated_at": "2026-06-03T22:22:55.244519"
 }

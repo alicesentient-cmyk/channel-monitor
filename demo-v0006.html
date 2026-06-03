@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pulse v0.0006 Demo - 标题优化预览</title>
+<style>
+:root {
+  --bg: #0f0f0f;
+  --surface: #1a1a1a;
+  --card: #222;
+  --hover: #2a2a2a;
+  --text: #e5e5e5;
+  --text2: #999;
+  --accent: #4f9cf7;
+  --tag-ai: #818cf8;
+  --tag-company: #34d399;
+  --tag-finance: #fbbf24;
+  --tag-tech: #60a5fa;
+  --radius: 12px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, "SF Pro Text", "Helvetica Neue", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+h1 { font-size: 24px; margin-bottom: 8px; }
+.subtitle { color: var(--text2); margin-bottom: 30px; font-size: 14px; }
+
+/* Demo 卡片 */
+.demo-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 16px;
+  border: 1px solid #333;
+}
+.original-text {
+  color: var(--text2);
+  font-size: 13px;
+  line-height: 1.6;
+  margin-bottom: 16px;
+  padding: 12px;
+  background: var(--surface);
+  border-radius: 8px;
+  max-height: 80px;
+  overflow: hidden;
+}
+.title-options {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.title-option {
+  padding: 12px;
+  background: var(--surface);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 2px solid transparent;
+}
+.title-option:hover { border-color: var(--accent); }
+.title-option.selected { border-color: var(--accent); background: #1a2332; }
+.option-label {
+  font-size: 11px;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 6px;
+}
+.option-title {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.char-count {
+  font-size: 11px;
+  color: var(--text2);
+  margin-top: 6px;
+}
+.char-count.over { color: #ef4444; font-weight: 600; }
+.char-count.ok { color: #22c55e; }
+
+/* 选中预览 */
+.preview-section {
+  margin-top: 40px;
+  padding: 20px;
+  background: var(--surface);
+  border-radius: var(--radius);
+}
+.preview-title { font-size: 18px; font-weight: 600; margin-bottom: 12px; }
+.preview-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+.preview-card {
+  background: var(--card);
+  border-radius: 8px;
+  padding: 16px;
+}
+.preview-card .tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  margin-bottom: 8px;
+}
+.preview-card .tag-ai { background: rgba(129,140,248,0.2); color: var(--tag-ai); }
+.preview-card .tag-company { background: rgba(52,211,153,0.2); color: var(--tag-company); }
+.preview-card .tag-finance { background: rgba(251,191,36,0.2); color: var(--tag-finance); }
+.preview-card .tag-tech { background: rgba(96,165,250,0.2); color: var(--tag-tech); }
+.preview-card h4 { font-size: 15px; margin-bottom: 8px; line-height: 1.4; }
+.preview-card .meta { font-size: 12px; color: var(--text2); }
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .title-options { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<h1>📡 Pulse v0.0006 Demo</h1>
+<p class="subtitle">标题优化预览 — 点击选择每条消息的标题视角，下方实时预览卡片效果</p>
+
+<div id="demoContainer"></div>
+
+<div class="preview-section">
+  <h3 class="preview-title">🎴 卡片预览（基于你的选择）</h3>
+  <div class="preview-cards" id="previewGrid"></div>
+</div>
+
+<script>
+// 示例数据（取自当前 data.json）
+const samples = [
+  {
+    id: 1,
+    text: "闲鱼 AI 误将用户手机照片自动上架，陕历博文物被标价 6000 元近日，江苏用户顾女士发现闲鱼账号里凭空多出一件商品：陕西历史博物馆的唐鎏金舞马衔杯纹皮囊式银壶照片被标价 6000 元，配有 AI 生成的售卖描述，而她毫不知情。",
+    tag: "AI",
+    views: "7.76K",
+    time: "2小时前",
+    titles: {
+      conclusion: "闲鱼AI误上架用户照片",
+      attractive: "AI又闯祸：文物被标价6千",
+      minimal: "闲鱼·AI·文物·6000元"
+    }
+  },
+  {
+    id: 2,
+    text: "Anthropic 向 SEC 秘密提交 IPO 草案Anthropic 已向美国证券交易委员会秘密提交 S-1 注册草案，为可能的首次公开募股做准备。公司表示，最终是否上市将取决于市场状况等因素，目前发行股数与价格均未确定。这家 AI 公司近期刚完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元。",
+    tag: "AI",
+    views: "5.27K",
+    time: "3小时前",
+    titles: {
+      conclusion: "Anthropic秘密提交IPO",
+      attractive: "估值万亿的AI公司要上市",
+      minimal: "Anthropic·IPO·SEC"
+    }
+  },
+  {
+    id: 3,
+    text: "马来西亚将对TikTok、Instagram 等社交平台实施强制许可管理  马来西亚通信与多媒体委员会宣布，从 2026 年 1 月 1 日起，TikTok、Instagram、Facebook、WhatsApp、YouTube 和 Telegram 等拥有 800 万以上用户的社交媒体平台将自动纳入该国法律管辖范围。",
+    tag: "公司",
+    views: "8.32K",
+    time: "1天前",
+    titles: {
+      conclusion: "马来西亚强制许可社交平台",
+      attractive: "800万用户以上的平台被管",
+      minimal: "马来西亚·社交平台·许可"
+    }
+  },
+  {
+    id: 4,
+    text: "豆包计划推出专业版，日常功能将继续免费豆包计划推出专业版，面向软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等生产力需求。目前专业版仍在测试，正式上线信息将通过官方渠道发布。",
+    tag: "AI",
+    views: "1",
+    time: "4小时前",
+    titles: {
+      conclusion: "豆包将推专业版",
+      attractive: "豆包专业版：开发设计等付费",
+      minimal: "豆包·专业版·免费"
+    }
+  },
+  {
+    id: 5,
+    text: "v2rayN发布跳过证书验证参数被移除说明知名代理软件客户端 v2rayN / NG开发者发布跳过证书验证参数被移除的说明。开发者表示，Xray-core 在v26.2.6版本中，正式移除了TLS配置中的 allowInsecure 参数。",
+    tag: "科技",
+    views: "2.1K",
+    time: "5小时前",
+    titles: {
+      conclusion: "v2rayN移除证书跳过参数",
+      attractive: "代理软件安全性大变更",
+      minimal: "v2rayN·证书·Xray"
+    }
+  }
+];
+
+// 状态管理
+const selections = {};
+
+function init() {
+  samples.forEach(s => {
+    selections[s.id] = 'conclusion'; // 默认选中结论型
+  });
+  renderDemo();
+  renderPreview();
+}
+
+function renderDemo() {
+  const container = document.getElementById('demoContainer');
+  container.innerHTML = samples.map(s => {
+    const charCounts = {};
+    Object.entries(s.titles).forEach(([key, title]) => {
+      charCounts[key] = title.length;
+    });
+    
+    return `
+      <div class="demo-card">
+        <div class="original-text">${s.text}</div>
+        <div class="title-options">
+          ${Object.entries(s.titles).map(([key, title]) => {
+            const labels = { conclusion: '结论型', attractive: '吸引型', minimal: '极简型' };
+            const count = charCounts[key];
+            const isOver = count > 20;
+            const isSelected = selections[s.id] === key;
+            return `
+              <div class="title-option ${isSelected ? 'selected' : ''}" 
+                   onclick="selectTitle(${s.id}, '${key}')">
+                <div class="option-label">${labels[key]}</div>
+                <div class="option-title">${title}</div>
+                <div class="char-count ${isOver ? 'over' : 'ok'}">
+                  ${count} 字符 ${isOver ? '⚠️ 超限' : '✓'}
+                </div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function selectTitle(id, type) {
+  selections[id] = type;
+  renderDemo();
+  renderPreview();
+}
+
+function renderPreview() {
+  const grid = document.getElementById('previewGrid');
+  grid.innerHTML = samples.map(s => {
+    const selectedType = selections[s.id];
+    const title = s.titles[selectedType];
+    const tagClass = s.tag === 'AI' ? 'tag-ai' : 
+                     s.tag === '公司' ? 'tag-company' : 
+                     s.tag === '金融' ? 'tag-finance' : 'tag-tech';
+    
+    return `
+      <div class="preview-card">
+        <span class="tag ${tagClass}">${s.tag}</span>
+        <h4>${title}</h4>
+        <div class="meta">👁 ${s.views} · ${s.time}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+// 启动
+init();
+</script>
+
+</body>
+</html>
