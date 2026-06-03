@@ -4,66 +4,68 @@
     "title_options": {
       "conclusion": "仅13%欧洲人信任自动驾驶",
       "attractive": "中国70%信任，欧洲仅13%",
-      "minimal": "欧洲自动驾驶信任度低"
+      "minimal": "欧洲自动驾驶信任度低",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:32:55.344870"
+    "generated_at": "2026-06-03T22:33:27.078311"
   },
   "xhqcankao_29819": {
     "ai_title": "马克龙邀OpenAI CEO出席G7",
     "title_options": {
       "conclusion": "马克龙邀OpenAI CEO出席G7",
-      "attractive": "OpenAI首度参加G7峰会",
-      "minimal": "马克龙邀奥特曼出席G7"
+      "attractive": "OpenAI CEO首次参加G7峰会",
+      "minimal": "马克龙邀奥尔特曼G7"
     },
-    "generated_at": "2026-06-03T22:32:56.655098"
+    "generated_at": "2026-06-03T22:33:28.323639"
   },
   "zaihuapd_41749": {
-    "ai_title": "美教师工会呼吁限制小学AI使用",
+    "ai_title": "美教师工会呼吁限制小学AI",
     "title_options": {
-      "conclusion": "美教师工会呼吁限制小学AI使用",
-      "attractive": "小学禁用AI？教师工会提新规",
-      "minimal": "教师工会 限制AI 小学",
+      "conclusion": "美教师工会呼吁限制小学AI",
+      "attractive": "小学禁用AI？教师工会发声",
+      "minimal": "限制AI 课堂屏幕",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:32:57.910962"
+    "generated_at": "2026-06-03T22:33:29.399916"
   },
   "xhqcankao_29818": {
     "ai_title": "欧盟AI数据中心计划受挫",
     "title_options": {
       "conclusion": "欧盟AI数据中心计划受挫",
-      "attractive": "两百亿欧元计划仅两座获资助",
-      "minimal": "欧盟数据中心延误资金短缺",
+      "attractive": "两百亿欧元计划遇资金难题",
+      "minimal": "欧盟数据中心延误",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:32:58.866508"
+    "generated_at": "2026-06-03T22:33:30.431847"
   },
   "zaihuapd_41748": {
     "ai_title": "豆包推专业版，日常免费",
     "title_options": {
       "conclusion": "豆包推专业版，日常免费",
-      "attractive": "豆包专业版测试中",
+      "attractive": "专业版测试，日常免费",
       "minimal": "豆包专业版",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:32:59.799259"
+    "generated_at": "2026-06-03T22:33:31.282536"
   },
   "xhqcankao_29817": {
     "ai_title": "东陶加码半导体材料",
     "title_options": {
       "conclusion": "东陶加码半导体材料",
       "attractive": "AI热催生陶瓷新需求",
-      "minimal": "东陶 芯片 陶瓷"
+      "minimal": "东陶半导体支出过半",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:01.856740"
+    "generated_at": "2026-06-03T22:33:33.424555"
   },
   "zaihuapd_41743": {
-    "ai_title": "64GB是创作软件甜点",
+    "ai_title": "64GB内存成创作甜点",
     "title_options": {
-      "conclusion": "64GB是创作软件甜点",
-      "attractive": "16GB内存瓶颈达40%",
-      "minimal": "64GB创作甜点"
+      "conclusion": "64GB内存成创作甜点",
+      "attractive": "16GB瓶颈跌40%",
+      "minimal": "64GB甜点配置"
     },
-    "generated_at": "2026-06-03T22:33:02.959489"
+    "generated_at": "2026-06-03T22:33:34.458737"
   },
   "zaihuapd_41742": {
     "ai_title": "千问向第三方全面开放",
@@ -73,214 +75,215 @@
       "minimal": "千问开放Agent",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:03.794607"
+    "generated_at": "2026-06-03T22:33:35.301934"
   },
   "xhqcankao_29816": {
-    "ai_title": "谷歌购开发者代码训练AI",
+    "ai_title": "谷歌买开发者代码训练AI",
     "title_options": {
-      "conclusion": "谷歌购开发者代码训练AI",
-      "attractive": "谷歌买你代码赚钱",
-      "minimal": "谷歌购代码训练AI",
+      "conclusion": "谷歌买开发者代码训练AI",
+      "attractive": "你的代码能卖钱了",
+      "minimal": "谷歌购代码",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:04.750291"
+    "generated_at": "2026-06-03T22:33:36.480432"
   },
   "zaihuapd_41741": {
     "ai_title": "谷歌允许网站退出AI搜索",
     "title_options": {
       "conclusion": "谷歌允许网站退出AI搜索",
-      "attractive": "网站可自主退出AI结果",
+      "attractive": "网站可自主退出AI搜索",
       "minimal": "谷歌AI搜索退出选项",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:05.872981"
+    "generated_at": "2026-06-03T22:33:37.290526"
   },
   "xhqcankao_29815": {
-    "ai_title": "张一鸣跃升亚洲第二富豪",
+    "ai_title": "张一鸣成亚洲第二大富豪",
     "title_options": {
-      "conclusion": "张一鸣跃升亚洲第二富豪",
+      "conclusion": "张一鸣成亚洲第二大富豪",
       "attractive": "身家928亿，超越安巴尼",
-      "minimal": "张一鸣亚洲第二富豪"
+      "minimal": "张一鸣亚洲第二",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:08.051882"
+    "generated_at": "2026-06-03T22:33:39.625167"
   },
   "zaihuapd_41740": {
-    "ai_title": "代理服务IP段被GFW封禁",
+    "ai_title": "代理IP段遭封禁",
     "title_options": {
-      "conclusion": "代理服务IP段被GFW封禁",
-      "attractive": "Vless协议遭大规模阻断",
-      "minimal": "代理阻断，协议受影响",
+      "conclusion": "代理IP段遭封禁",
+      "attractive": "Vless协议被阻断",
+      "minimal": "代理服务阻断",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:09.176505"
+    "generated_at": "2026-06-03T22:33:40.658521"
   },
   "xhqcankao_29814": {
-    "ai_title": "特斯拉上海工厂5月交付增39%",
+    "ai_title": "特斯拉上海工厂5月交付量增39%",
     "title_options": {
-      "conclusion": "特斯拉上海工厂5月交付增39%",
-      "attractive": "特斯拉上海工厂交付创新高",
-      "minimal": "上海工厂交付8.5万辆",
+      "conclusion": "特斯拉上海工厂5月交付量增39%",
+      "attractive": "特斯拉上海工厂交付量创2026年新高",
+      "minimal": "特斯拉上海工厂交付量增39%",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:10.340676"
+    "generated_at": "2026-06-03T22:33:41.859186"
   },
   "zaihuapd_41739": {
     "ai_title": "日企推员工恋爱福利",
     "title_options": {
       "conclusion": "日企推员工恋爱福利",
-      "attractive": "超1500家企业用恋爱App",
+      "attractive": "超1500家企业用交友App",
       "minimal": "日企恋爱福利App",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:11.567522"
+    "generated_at": "2026-06-03T22:33:42.838088"
   },
   "xhqcankao_29813": {
     "ai_title": "印度Prime音乐将含广告",
     "title_options": {
       "conclusion": "印度Prime音乐将含广告",
-      "attractive": "Prime音乐免费变付费？",
+      "attractive": "Prime音乐免费听？广告来了",
       "minimal": "印度Prime音乐广告",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:12.854509"
+    "generated_at": "2026-06-03T22:33:43.845662"
   },
   "zaihuapd_41738": {
     "ai_title": "CMLink调整内地流量激活规则",
     "title_options": {
       "conclusion": "CMLink调整内地流量激活规则",
-      "attractive": "境外卡内地激活需提前72小时",
-      "minimal": "CMLink激活规则调整",
+      "attractive": "境外卡内地流量需提前激活",
+      "minimal": "CMLink激活规则变更",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:15.107850"
+    "generated_at": "2026-06-03T22:33:46.092366"
   },
   "xhqcankao_29812": {
-    "ai_title": "DeepSeek完成500亿融资",
+    "ai_title": "DeepSeek获500亿融资",
     "title_options": {
-      "conclusion": "DeepSeek完成500亿融资",
-      "attractive": "腾讯宁德时代拟投DeepSeek",
+      "conclusion": "DeepSeek获500亿融资",
+      "attractive": "腾讯宁德时代投DeepSeek",
       "minimal": "DeepSeek 500亿融资",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:15.981015"
+    "generated_at": "2026-06-03T22:33:46.935049"
   },
   "zaihuapd_41737": {
     "ai_title": "美法院裁定特朗普关税违法",
     "title_options": {
       "conclusion": "美法院裁定特朗普关税违法",
-      "attractive": "特朗普关税被判无效",
-      "minimal": "关税违法 裁定",
+      "attractive": "10%全球关税被判无效",
+      "minimal": "特朗普关税违法",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:16.938599"
+    "generated_at": "2026-06-03T22:33:48.088936"
   },
   "xhqcankao_29811": {
     "ai_title": "英国迫使谷歌改变AI摘要",
     "title_options": {
       "conclusion": "英国迫使谷歌改变AI摘要",
       "attractive": "出版商获AI内容控制权",
-      "minimal": "谷歌AI摘要受限",
+      "minimal": "谷歌AI摘要控制权",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:18.165019"
+    "generated_at": "2026-06-03T22:33:49.194895"
   },
   "xhqcankao_29810": {
     "ai_title": "MacBook Neo首季出货110万台",
     "title_options": {
       "conclusion": "MacBook Neo首季出货110万台",
-      "attractive": "MacBook Neo三周销量超M5",
+      "attractive": "三周销量超M5和M5 Pro",
       "minimal": "Neo出货110万台领先",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:19.172163"
+    "generated_at": "2026-06-03T22:33:50.394639"
   },
   "zaihuapd_41736": {
-    "ai_title": "SpaceX拟135美元IPO",
+    "ai_title": "SpaceX IPO定价135美元",
     "title_options": {
-      "conclusion": "SpaceX拟135美元IPO",
+      "conclusion": "SpaceX IPO定价135美元",
       "attractive": "史上最大IPO筹资750亿",
       "minimal": "SpaceX IPO 135美元",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:21.157603"
+    "generated_at": "2026-06-03T22:33:52.432820"
   },
   "xhqcankao_29809": {
     "ai_title": "X推视频评论功能",
     "title_options": {
       "conclusion": "X推视频评论功能",
-      "attractive": "视频回复替代转发",
+      "attractive": "发视频评论替代转发",
       "minimal": "X视频评论",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:22.165254"
+    "generated_at": "2026-06-03T22:33:53.382747"
   },
   "zaihuapd_41733": {
-    "ai_title": "教育部规范高考招生宣传",
+    "ai_title": "教育部严禁炒作高考状元",
     "title_options": {
-      "conclusion": "教育部规范高考招生宣传",
-      "attractive": "录取通知书禁夹广告",
-      "minimal": "高考招生宣传规范",
-      "best": "conclusion"
+      "conclusion": "教育部严禁炒作高考状元",
+      "attractive": "录取通知书回归一页纸",
+      "minimal": "高考规范招生宣传"
     },
-    "generated_at": "2026-06-03T22:33:23.072255"
+    "generated_at": "2026-06-03T22:33:54.384204"
   },
   "xhqcankao_29808": {
     "ai_title": "微软量子芯片可靠性提升千倍",
     "title_options": {
       "conclusion": "微软量子芯片可靠性提升千倍",
-      "attractive": "量子比特存续20秒，提升千倍",
-      "minimal": "微软量子芯片可靠性飞跃",
+      "attractive": "量子比特存续20秒，微软芯片突破",
+      "minimal": "微软量子芯片Majorana 2",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:24.140690"
+    "generated_at": "2026-06-03T22:33:55.652229"
   },
   "xhqcankao_29807": {
-    "ai_title": "Dashlane遭黑客窃取加密库",
+    "ai_title": "黑客窃取Dashlane加密库",
     "title_options": {
-      "conclusion": "Dashlane遭黑客窃取加密库",
-      "attractive": "黑客破解双因素认证",
-      "minimal": "Dashlane黑客窃取密码",
+      "conclusion": "黑客窃取Dashlane加密库",
+      "attractive": "20个用户密码库被盗",
+      "minimal": "Dashlane遭黑客攻击",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:25.074966"
+    "generated_at": "2026-06-03T22:33:56.796992"
   },
   "zaihuapd_41732": {
     "ai_title": "特斯拉更新加密行车记录",
     "title_options": {
       "conclusion": "特斯拉更新加密行车记录",
-      "attractive": "行车记录视频需解密查看",
-      "minimal": "特斯拉加密视频"
+      "attractive": "你的特斯拉录像被加密了",
+      "minimal": "特斯拉加密行车记录",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:27.109765"
+    "generated_at": "2026-06-03T22:33:58.732528"
   },
   "xhqcankao_29806": {
-    "ai_title": "美国数据中心建设延迟",
+    "ai_title": "美国数据中心建设滞后",
     "title_options": {
-      "conclusion": "美国数据中心建设延迟",
-      "attractive": "超六成数据中心未开工",
+      "conclusion": "美国数据中心建设滞后",
+      "attractive": "六成数据中心未开工",
       "minimal": "数据中心瓶颈"
     },
-    "generated_at": "2026-06-03T22:33:27.970222"
+    "generated_at": "2026-06-03T22:33:59.671719"
   },
   "zaihuapd_41731": {
     "ai_title": "VSCode漏洞可窃取GitHub T…",
     "title_options": {
       "conclusion": "VSCode漏洞可窃取GitHub T…",
-      "attractive": "点击链接即被盗Token",
+      "attractive": "点击链接Token被盗",
       "minimal": "VSCode漏洞 Token窃取",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:28.926957"
+    "generated_at": "2026-06-03T22:34:00.633847"
   },
   "xhqcankao_29805": {
     "ai_title": "CMLink数据卡限制内地居民",
     "title_options": {
       "conclusion": "CMLink数据卡限制内地居民",
-      "attractive": "境外卡内地激活需提前72小时",
-      "minimal": "CMLink数据卡限内地",
+      "attractive": "境外卡需提前激活",
+      "minimal": "CMLink 限制 内地",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:30.090050"
+    "generated_at": "2026-06-03T22:34:01.820958"
   },
   "xhqcankao_29804": {
     "ai_title": "手机出货量预计降14%",
@@ -290,143 +293,146 @@
       "minimal": "出货量降14%",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:31.150948"
+    "generated_at": "2026-06-03T22:34:03.071884"
   },
   "zaihuapd_41730": {
-    "ai_title": "ChatGPT订阅账号滥用报告",
+    "ai_title": "ChatGPT订阅滥用报告",
     "title_options": {
-      "conclusion": "ChatGPT订阅账号滥用报告",
-      "attractive": "ChatGPT账号黑产链曝光",
-      "minimal": "订阅账号滥用报告",
+      "conclusion": "ChatGPT订阅滥用报告",
+      "attractive": "账号批量注册转售",
+      "minimal": "订阅账号滥用",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:33.287871"
+    "generated_at": "2026-06-03T22:34:05.406598"
   },
   "xhqcankao_29803": {
-    "ai_title": "马斯克得州囤地6000英亩",
+    "ai_title": "马斯克囤地6000英亩",
     "title_options": {
-      "conclusion": "马斯克得州囤地6000英亩",
-      "attractive": "550亿芯片工厂选址浮现",
+      "conclusion": "马斯克囤地6000英亩",
+      "attractive": "550亿芯片厂选址曝光",
       "minimal": "马斯克囤地建厂",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:34.363392"
+    "generated_at": "2026-06-03T22:34:06.401269"
   },
   "zaihuapd_41728": {
     "ai_title": "OpenAI推金融法律AI工具",
     "title_options": {
       "conclusion": "OpenAI推金融法律AI工具",
-      "attractive": "与Anthropic抢企业客户",
+      "attractive": "OpenAI与Anthropic争企业…",
       "minimal": "OpenAI金融法律AI",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:35.261352"
+    "generated_at": "2026-06-03T22:34:07.372144"
   },
   "xhqcankao_29802": {
-    "ai_title": "美国拟对60国加征关税",
+    "ai_title": "美拟对60国加征关税",
     "title_options": {
-      "conclusion": "美国拟对60国加征关税",
+      "conclusion": "美拟对60国加征关税",
       "attractive": "美国关税墙卷土重来",
-      "minimal": "美国60国关税",
+      "minimal": "美对60国分档征税",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:36.414373"
+    "generated_at": "2026-06-03T22:34:08.579203"
   },
   "zaihuapd_41727": {
     "ai_title": "iOS首款磁盘可视化工具",
     "title_options": {
       "conclusion": "iOS首款磁盘可视化工具",
-      "attractive": "iOS磁盘占用可视化",
-      "minimal": "Disk Icicle 工具"
+      "attractive": "iOS磁盘可视化工具发布",
+      "minimal": "Disk Icicle 工具",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:37.236636"
+    "generated_at": "2026-06-03T22:34:09.492716"
   },
   "xhqcankao_29801": {
     "ai_title": "YT Music搜索栏移至底部",
     "title_options": {
       "conclusion": "YT Music搜索栏移至底部",
-      "attractive": "YT Music搜索栏大挪移",
-      "minimal": "YT Music搜索栏底部",
-      "best": "conclusion"
+      "attractive": "YT Music搜索栏下移",
+      "minimal": "YT Music搜索栏底部"
     },
-    "generated_at": "2026-06-03T22:33:39.351064"
+    "generated_at": "2026-06-03T22:34:11.558182"
   },
   "xhqcankao_29800": {
-    "ai_title": "亚马逊因Ring面部识别被诉",
+    "ai_title": "Ring面部识别遭集体诉讼",
     "title_options": {
-      "conclusion": "亚马逊因Ring面部识别被诉",
+      "conclusion": "Ring面部识别遭集体诉讼",
       "attractive": "路过门铃就被扫脸？",
-      "minimal": "Ring面部识别诉讼",
+      "minimal": "Ring 面部识别 诉讼",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:40.279976"
+    "generated_at": "2026-06-03T22:34:12.588062"
   },
   "zaihuapd_41726": {
     "ai_title": "微软量子芯片商用提前至2029",
     "title_options": {
       "conclusion": "微软量子芯片商用提前至2029",
-      "attractive": "量子比特寿命提升1000倍",
-      "minimal": "Majorana 2 量子芯片"
+      "attractive": "量子比特寿命延长至20秒",
+      "minimal": "Majorana 2 量子芯片",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:41.245838"
+    "generated_at": "2026-06-03T22:34:13.671712"
   },
   "xhqcankao_29799": {
-    "ai_title": "美军破解系统整合防空",
+    "ai_title": "美军破解武器系统整合",
     "title_options": {
-      "conclusion": "美军破解系统整合防空",
-      "attractive": "美军破解自家武器系统",
-      "minimal": "美军破解系统"
+      "conclusion": "美军破解武器系统整合",
+      "attractive": "20人盯屏变1屏",
+      "minimal": "美军破解系统",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:42.148922"
+    "generated_at": "2026-06-03T22:34:14.676912"
   },
   "zaihuapd_41725": {
-    "ai_title": "Hermes Desktop发布预览版",
+    "ai_title": "Hermes Desktop公开预览版…",
     "title_options": {
-      "conclusion": "Hermes Desktop发布预览版",
+      "conclusion": "Hermes Desktop公开预览版…",
       "attractive": "本地运行Hermes Agent",
       "minimal": "Hermes Desktop预览",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:43.034733"
+    "generated_at": "2026-06-03T22:34:15.609553"
   },
   "xhqcankao_29798": {
     "ai_title": "谷歌推虚假通话检测",
     "title_options": {
       "conclusion": "谷歌推虚假通话检测",
-      "attractive": "安卓防深伪诈骗新功能",
-      "minimal": "谷歌通话检测",
+      "attractive": "防深伪诈骗新功能",
+      "minimal": "安卓通话检测",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:45.228173"
+    "generated_at": "2026-06-03T22:34:17.628742"
   },
   "xhqcankao_29797": {
     "ai_title": "优步限制AI工具支出",
     "title_options": {
       "conclusion": "优步限制AI工具支出",
-      "attractive": "每员工AI月费1500美元",
+      "attractive": "每款AI工具月限1500美元",
       "minimal": "优步AI支出上限",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:46.118171"
+    "generated_at": "2026-06-03T22:34:18.465855"
   },
   "zaihuapd_41724": {
     "ai_title": "谷歌付费购开发者代码",
     "title_options": {
       "conclusion": "谷歌付费购开发者代码",
-      "attractive": "谷歌买代码训练AI",
-      "minimal": "谷歌购代码训AI"
-    },
-    "generated_at": "2026-06-03T22:33:47.113213"
-  },
-  "xhqcankao_29796": {
-    "ai_title": "Meta缩减AI训练数据收集",
-    "title_options": {
-      "conclusion": "Meta缩减AI训练数据收集",
-      "attractive": "员工反对后Meta调整追踪",
-      "minimal": "Meta追踪计划收缩",
+      "attractive": "开发者代码可卖钱",
+      "minimal": "谷歌购代码训练AI",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:48.082725"
+    "generated_at": "2026-06-03T22:34:19.333686"
+  },
+  "xhqcankao_29796": {
+    "ai_title": "Meta缩减鼠标键盘追踪计划",
+    "title_options": {
+      "conclusion": "Meta缩减鼠标键盘追踪计划",
+      "attractive": "员工反对，Meta暂停数据收集",
+      "minimal": "Meta追踪计划缩减",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-03T22:34:20.272044"
   },
   "zaihuapd_41723": {
     "ai_title": "iOS 27将适配折叠屏",
@@ -436,65 +442,66 @@
       "minimal": "iOS 27分屏适配",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:49.016772"
+    "generated_at": "2026-06-03T22:34:21.337453"
   },
   "xhqcankao_29795": {
-    "ai_title": "v2rayN移除证书验证",
+    "ai_title": "v2rayN移除跳过证书验证",
     "title_options": {
-      "conclusion": "v2rayN移除证书验证",
-      "attractive": "证书验证移除，内核报错",
-      "minimal": "证书验证移除",
+      "conclusion": "v2rayN移除跳过证书验证",
+      "attractive": "证书验证移除，内核将报错",
+      "minimal": "v2rayN证书验证移除",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:50.871670"
+    "generated_at": "2026-06-03T22:34:23.656055"
   },
   "xhqcankao_29794": {
-    "ai_title": "Mac版Office 2019将停止编辑",
+    "ai_title": "Mac版Office 2019将停编辑",
     "title_options": {
-      "conclusion": "Mac版Office 2019将停止编辑",
-      "attractive": "7月13日起Mac版Office 20…",
-      "minimal": "Office 2019 Mac编辑停止",
+      "conclusion": "Mac版Office 2019将停编辑",
+      "attractive": "7月13日起Mac Office 20…",
+      "minimal": "Office 2019 Mac 编辑停用",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:51.883705"
+    "generated_at": "2026-06-03T22:34:24.609274"
   },
   "zaihuapd_41722": {
     "ai_title": "小米公布老用户回归礼",
     "title_options": {
       "conclusion": "小米公布老用户回归礼",
-      "attractive": "老用户回归礼有效期一个月",
-      "minimal": "小米老用户回归礼",
+      "attractive": "小米API降价99%",
+      "minimal": "小米回归礼API降价",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:52.975315"
+    "generated_at": "2026-06-03T22:34:25.436305"
   },
   "xhqcankao_29793": {
     "ai_title": "波兰呼吁技术主权应对AI风险",
     "title_options": {
       "conclusion": "波兰呼吁技术主权应对AI风险",
-      "attractive": "波兰推主权测试防AI威胁",
+      "attractive": "波兰推主权测试防AI依赖",
       "minimal": "波兰技术主权AI风险",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:53.942371"
+    "generated_at": "2026-06-03T22:34:26.349548"
   },
   "xhqcankao_29792": {
     "ai_title": "微软发布代码生成模型",
     "title_options": {
       "conclusion": "微软发布代码生成模型",
-      "attractive": "AI自动生成应用代码",
-      "minimal": "微软AI模型发布"
+      "attractive": "AI自动生成源代码",
+      "minimal": "微软新模型发布",
+      "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:54.981424"
+    "generated_at": "2026-06-03T22:34:27.208778"
   },
   "zaihuapd_41721": {
     "ai_title": "孙正义再成亚洲首富",
     "title_options": {
       "conclusion": "孙正义再成亚洲首富",
       "attractive": "AI押注助孙正义登顶",
-      "minimal": "孙正义亚洲首富"
+      "minimal": "孙正义 亚洲首富"
     },
-    "generated_at": "2026-06-03T22:33:56.975487"
+    "generated_at": "2026-06-03T22:34:29.331004"
   },
   "xhqcankao_29791": {
     "ai_title": "Anthropic模型扩测150家",
@@ -504,233 +511,225 @@
       "minimal": "Anthropic模型扩测",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:57.902824"
+    "generated_at": "2026-06-03T22:34:30.324446"
   },
   "xhqcankao_29790": {
-    "ai_title": "特朗普签AI令要求企业提前开放模型",
+    "ai_title": "特朗普签AI行政令",
     "title_options": {
-      "conclusion": "特朗普签AI令要求企业提前开放模型",
-      "attractive": "AI模型发布前30天须向政府开放",
-      "minimal": "特朗普AI行政令",
+      "conclusion": "特朗普签AI行政令",
+      "attractive": "企业需提前开放AI",
+      "minimal": "AI行政令",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:33:58.819492"
+    "generated_at": "2026-06-03T22:34:31.326591"
   },
   "xhqcankao_29789": {
     "ai_title": "OpenAI推6款Codex插件",
     "title_options": {
       "conclusion": "OpenAI推6款Codex插件",
-      "attractive": "AI上岗，股票投行都能干",
+      "attractive": "AI上岗，股票研究也能干",
       "minimal": "OpenAI Codex插件",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:00.030706"
+    "generated_at": "2026-06-03T22:34:32.487175"
   },
   "zaihuapd_41719": {
     "ai_title": "特朗普签AI行政令",
     "title_options": {
       "conclusion": "特朗普签AI行政令",
-      "attractive": "AI模型审查期缩短",
-      "minimal": "AI行政令",
+      "attractive": "企业自愿提交模型审查",
+      "minimal": "AI行政令 自愿审查",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:01.073244"
+    "generated_at": "2026-06-03T22:34:33.435143"
   },
   "zaihuapd_41718": {
-    "ai_title": "2.6亿农村人口月入不足千元",
+    "ai_title": "农村老人月入不足千元",
     "title_options": {
-      "conclusion": "2.6亿农村人口月入不足千元",
-      "attractive": "农村老人月入250元如何养老",
+      "conclusion": "农村老人月入不足千元",
+      "attractive": "2.6亿人月收入低于千元",
       "minimal": "农村老人养老困境",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:04.106718"
+    "generated_at": "2026-06-03T22:34:35.516093"
   },
   "zaihuapd_41717": {
     "ai_title": "英伟达复产RTX 3060 8GB",
     "title_options": {
       "conclusion": "英伟达复产RTX 3060 8GB",
-      "attractive": "RTX 3060 8GB版3月回归",
-      "minimal": "RTX 3060 8GB 复产",
+      "attractive": "RTX 3060 8GB三月回归",
+      "minimal": "RTX 3060 8GB复产",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:05.356899"
+    "generated_at": "2026-06-03T22:34:36.367774"
   },
   "xhqcankao_29788": {
     "ai_title": "美唯一铀工厂扩产50%",
     "title_options": {
       "conclusion": "美唯一铀工厂扩产50%",
-      "attractive": "铀产能增50%需十年",
-      "minimal": "铀工厂扩产50%",
+      "attractive": "美国铀产能缺口扩大",
+      "minimal": "铀工厂扩建50%",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:06.391785"
+    "generated_at": "2026-06-03T22:34:37.386165"
   },
   "zaihuapd_41716": {
-    "ai_title": "马尔代夫拟禁16岁以下用社媒",
+    "ai_title": "马尔代夫拟禁16岁以下用社交平台",
     "title_options": {
-      "conclusion": "马尔代夫拟禁16岁以下用社媒",
-      "attractive": "16岁以下禁入高风险社交平台",
-      "minimal": "马尔代夫青少年社媒禁令",
+      "conclusion": "马尔代夫拟禁16岁以下用社交平台",
+      "attractive": "16岁以下禁用高风险社交平台",
+      "minimal": "马尔代夫青少年社交禁令",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:07.565384"
+    "generated_at": "2026-06-03T22:34:38.374445"
   },
   "xhqcankao_29787": {
-    "ai_title": "中国人造钻石成AI芯片散热材料",
+    "ai_title": "中国人造钻石成AI热潮赢家",
     "title_options": {
-      "conclusion": "中国人造钻石成AI芯片散热材料",
-      "attractive": "钻石替代铜铝，AI芯片散热新宠",
-      "minimal": "人造钻石，AI散热",
+      "conclusion": "中国人造钻石成AI热潮赢家",
+      "attractive": "钻石替代铜铝成芯片散热器",
+      "minimal": "人造钻石 AI 散热",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:08.530516"
+    "generated_at": "2026-06-03T22:34:39.473750"
   },
   "xhqcankao_29786": {
-    "ai_title": "联发科扩招支持AI业务",
+    "ai_title": "联发科扩招AI业务",
     "title_options": {
-      "conclusion": "联发科扩招支持AI业务",
-      "attractive": "联发科招人缓解AI失业",
+      "conclusion": "联发科扩招AI业务",
+      "attractive": "AI芯片订单已定至2030",
       "minimal": "联发科AI招聘扩张",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:10.706082"
+    "generated_at": "2026-06-03T22:34:41.430818"
   },
   "zaihuapd_41715": {
     "ai_title": "英特尔继续支持DDR4",
     "title_options": {
       "conclusion": "英特尔继续支持DDR4",
-      "attractive": "旧技术缓解PC涨价",
-      "minimal": "英特尔DDR4支持"
-    },
-    "generated_at": "2026-06-03T22:34:11.797104"
-  },
-  "xhqcankao_29785": {
-    "ai_title": "SK海力士五年晶圆产能翻倍",
-    "title_options": {
-      "conclusion": "SK海力士五年晶圆产能翻倍",
-      "attractive": "晶圆短缺持续到2030年",
-      "minimal": "SK海力士扩产",
+      "attractive": "旧内存技术缓解PC涨价",
+      "minimal": "英特尔DDR4支持",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:12.771121"
+    "generated_at": "2026-06-03T22:34:42.345141"
+  },
+  "xhqcankao_29785": {
+    "ai_title": "SK海力士五年内晶圆产能翻倍",
+    "title_options": {
+      "conclusion": "SK海力士五年内晶圆产能翻倍",
+      "attractive": "晶圆短缺持续到2030年",
+      "minimal": "SK海力士产能翻倍",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-03T22:34:43.223374"
   },
   "xhqcankao_29784": {
     "ai_title": "老虎国际暂停境内新开仓",
     "title_options": {
       "conclusion": "老虎国际暂停境内新开仓",
-      "attractive": "6月12日起境内禁新开仓",
-      "minimal": "老虎国际暂停加仓",
+      "attractive": "老虎国际6月12日起限制交易",
+      "minimal": "老虎国际暂停交易",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:13.727607"
+    "generated_at": "2026-06-03T22:34:44.096040"
   },
   "zaihuapd_41714": {
     "ai_title": "老虎国际暂停境内新开仓",
     "title_options": {
       "conclusion": "老虎国际暂停境内新开仓",
       "attractive": "境内账户加仓被叫停",
-      "minimal": "老虎国际 暂停 新开仓"
-    },
-    "generated_at": "2026-06-03T22:34:14.972501"
-  },
-  "xhqcankao_29783": {
-    "ai_title": "黄仁勋称迈威尔为下家万亿公司",
-    "title_options": {
-      "conclusion": "黄仁勋称迈威尔为下家万亿公司",
-      "attractive": "黄仁勋钦点下一家万亿美元公司",
-      "minimal": "黄仁勋 迈威尔 万亿",
+      "minimal": "老虎国际暂停加仓",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:17.576940"
+    "generated_at": "2026-06-03T22:34:45.180031"
+  },
+  "xhqcankao_29783": {
+    "ai_title": "黄仁勋称Marvell为下家万亿公司",
+    "title_options": {
+      "conclusion": "黄仁勋称Marvell为下家万亿公司",
+      "attractive": "黄仁勋钦点下一家万亿美元公司",
+      "minimal": "黄仁勋 Marvell 万亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-03T22:34:47.298532"
   },
   "zaihuapd_41713": {
     "ai_title": "中国电三轮海外爆单",
     "title_options": {
       "conclusion": "中国电三轮海外爆单",
-      "attractive": "电三轮成美农场主新宠",
-      "minimal": "电三轮海外热销",
+      "attractive": "欧美售价达3000-6000美元",
+      "minimal": "电三轮海外爆单",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:18.564046"
+    "generated_at": "2026-06-03T22:34:48.271314"
   },
   "xhqcankao_29782": {
-    "ai_title": "安谋称美难阻对华AI芯片出口",
+    "ai_title": "安谋称美国难阻对华CPU出口",
     "title_options": {
-      "conclusion": "安谋称美难阻对华AI芯片出口",
-      "attractive": "CPU如石油，美禁令难堵",
-      "minimal": "安谋：美对华CPU禁令难行",
+      "conclusion": "安谋称美国难阻对华CPU出口",
+      "attractive": "AI芯片禁令难堵CPU出口",
+      "minimal": "安谋CPU出口中国",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:19.996859"
+    "generated_at": "2026-06-03T22:34:49.614402"
   },
   "zaihuapd_41712": {
-    "ai_title": "美机构X账号互动量激增",
+    "ai_title": "联邦机构X账号互动量激增",
     "title_options": {
-      "conclusion": "美机构X账号互动量激增",
+      "conclusion": "联邦机构X账号互动量激增",
       "attractive": "特朗普任内X账号互动翻倍",
-      "minimal": "美机构X账号互动增长",
+      "minimal": "X账号互动量增长",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:21.031339"
+    "generated_at": "2026-06-03T22:34:50.505727"
   },
   "xhqcankao_29781": {
     "ai_title": "俄高官手机发现间谍软件",
     "title_options": {
       "conclusion": "俄高官手机发现间谍软件",
-      "attractive": "俄高官手机被植入间谍软件",
+      "attractive": "你的手机可能被监听",
       "minimal": "俄高官手机间谍软件",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:22.016580"
+    "generated_at": "2026-06-03T22:34:51.771786"
   },
   "zaihuapd_41711": {
     "ai_title": "CVD协议引发争议",
     "title_options": {
       "conclusion": "CVD协议引发争议",
-      "attractive": "订阅安全还是隐私泄露",
+      "attractive": "订阅安全还是隐私暴露",
       "minimal": "CVD协议争议",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:24.005388"
+    "generated_at": "2026-06-03T22:34:53.761126"
   },
   "xhqcankao_29780": {
     "ai_title": "存储涨价压垮GoPro",
     "title_options": {
       "conclusion": "存储涨价压垮GoPro",
-      "attractive": "GoPro面临倒闭危机",
-      "minimal": "GoPro存储涨价",
+      "attractive": "GoPro亮起经营红灯",
+      "minimal": "GoPro存储涨价危机",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:25.091306"
-  },
-  "xhqcankao_29779": {
-    "ai_title": "亚马逊Prime会员日6月23日开启",
-    "title_options": {
-      "conclusion": "亚马逊Prime会员日6月23日开启",
-      "attractive": "食品杂货最低一美元",
-      "minimal": "亚马逊会员日四天"
-    },
-    "generated_at": "2026-06-03T22:34:26.299248"
+    "generated_at": "2026-06-03T22:34:55.024358"
   },
   "zaihuapd_41720": {
     "ai_title": "OpenAI推出Sites功能",
     "title_options": {
       "conclusion": "OpenAI推出Sites功能",
       "attractive": "Codex将想法变应用",
-      "minimal": "Sites:想法转应用",
-      "best": "conclusion"
+      "minimal": "Sites：想法转应用"
     },
-    "generated_at": "2026-06-03T22:34:27.366415"
+    "generated_at": "2026-06-03T22:34:55.889876"
   },
   "zaihuapd_41734": {
     "ai_title": "Quick Share兼容AirDro…",
     "title_options": {
       "conclusion": "Quick Share兼容AirDro…",
-      "attractive": "你的安卓机支持AirDrop了吗",
+      "attractive": "你的安卓机也能用AirDrop了",
       "minimal": "Quick Share AirDrop…",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T22:34:28.337456"
+    "generated_at": "2026-06-03T22:34:56.865815"
   }
 }
