@@ -1866,37 +1866,6 @@
       }
     },
     {
-      "id": "zaihuapd_41715",
-      "channel": "zaihuapd",
-      "text": "英特尔表示将继续支持旧内存技术以缓解电脑价格压力英特尔在 Computex 2026 上指出，内存和存储价格的过度上涨已使其成为决定 PC 成本的关键，甚至盖过了 CPU 本身的价格。为应对这一挑战，英特尔承诺将继续支持 DDR4 内存标准，并保持 Raptor Lake 等旧款处理器的供应，以确保市场上有低价装机方案。此外，英特尔正在推广支持 8 GB 单通道的 Wildcat Lake 处理器，并通过验证中国、印度尼西亚等地的本土供应商来增加市场选择。公司表示，在内存供应紧张缓解之前，将通过支持旧技术和低配规格，为预算有限的用户提供缓解压力的空间。Tom's Hardware·备用频道·",
-      "clean_text": "英特尔表示将继续支持旧内存技术以缓解电脑价格压力英特尔在 Computex 2026 上指出，内存和存储价格的过度上涨已使其成为决定 PC 成本的关键，甚至盖过了 CPU 本身的价格。为应对这一挑战，英特尔承诺将继续支持 DDR4 内存标准，并保持 Raptor Lake 等旧款处理器的供应，以确保市场上有低价装机方案。此外，英特尔正在推广支持 8 GB 单通道的 Wildcat Lake 处理器，并通过验证中国、印度尼西亚等地的本土供应商来增加市场选择。公司表示，在内存供应紧张缓解之前，将通过支持旧技术和低配规格，为预算有限的用户提供缓解压力的空间。Tom's Hardware·备用频道",
-      "datetime": "2026-06-02T13:55:18+00:00",
-      "views": "8.3K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/cpus/intel-says-something-has-to-give-with-memory-prices-company-says-it-will-continue-to-make-sure-that-there-are-products-which-can-take-care-of-older-memory-technologies"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41715",
-      "scraped_at": "2026-06-03T00:00:34.345161",
-      "title": "英特尔继续支持DDR4",
-      "title_options": {
-        "conclusion": "英特尔继续支持DDR4",
-        "attractive": "旧内存技术缓解PC涨价",
-        "minimal": "英特尔DDR4支持",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1958,6 +1927,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-04T01:52:39.885788"
+  "count": 71,
+  "updated_at": "2026-06-04T01:57:44.633360"
 }
