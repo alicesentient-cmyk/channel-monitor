@@ -1473,30 +1473,6 @@
       "scraped_at": "2026-06-02T19:00:32.938448"
     },
     {
-      "id": "zaihuapd_41710",
-      "channel": "zaihuapd",
-      "text": "黄仁勋称 Marvell 或成下一家万亿美元芯片公司英伟达 CEO 黄仁勋在台北国际电脑展上表示，自主 AI 智能体正在推动 AI 硬件需求激增，Marvell 可能成为下一家进入万亿美元市值俱乐部的芯片公司。Marvell 主要为数据中心提供半导体和高速网络技术。英伟达今年 3 月宣布与 Marvell 建立战略合作，并向其投资 20 亿美元。新浪科技·备用频道·",
-      "clean_text": "黄仁勋称 Marvell 或成下一家万亿美元芯片公司英伟达 CEO 黄仁勋在台北国际电脑展上表示，自主 AI 智能体正在推动 AI 硬件需求激增，Marvell 可能成为下一家进入万亿美元市值俱乐部的芯片公司。Marvell 主要为数据中心提供半导体和高速网络技术。英伟达今年 3 月宣布与 Marvell 建立战略合作，并向其投资 20 亿美元。新浪科技·备用频道",
-      "datetime": "2026-06-02T10:06:44+00:00",
-      "views": "4.53K",
-      "source_links": [
-        {
-          "text": "新浪科技",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzivp1585226.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41710",
-      "scraped_at": "2026-06-02T19:00:31.301004"
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1545,6 +1521,6 @@
       "scraped_at": "2026-06-03T17:00:30.779257"
     }
   ],
-  "count": 76,
-  "updated_at": "2026-06-03T22:02:28.872615"
+  "count": 75,
+  "updated_at": "2026-06-03T22:07:36.352971"
 }
