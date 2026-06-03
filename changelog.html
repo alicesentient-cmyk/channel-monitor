@@ -157,16 +157,14 @@ body {
 
 <div class="version current">
   <div class="version-header">
-    <span class="version-tag">v0.0006</span>
+    <span class="version-tag">v0.0008</span>
     <span class="version-date">2026-06-03</span>
     <span class="version-badge">当前版本</span>
   </div>
   <ul class="changes">
-    <li><span class="change-type feat">新增</span> AI 标题生成：调用 DeepSeek API 自动生成 ≤20 字符的精简标题</li>
-    <li><span class="change-type feat">新增</span> 三种标题视角：结论型、吸引型、极简型，AI 自动选择最优</li>
-    <li><span class="change-type optimize">优化</span> 生图 Prompt：改为传文章内容，让 GPT 自行提取视觉元素</li>
-    <li><span class="change-type feat">新增</span> 标题缓存机制（title_cache.json），避免重复调用 API</li>
-    <li><span class="change-type fix">修复</span> DeepSeek API 模型名称修正为 deepseek-chat</li>
+    <li><span class="change-type optimize">优化</span> 生图 Prompt 改回中文（基于 v0.0006 代码）</li>
+    <li><span class="change-type optimize">优化</span> 改为传文章内容，让 GPT 自行提取视觉元素</li>
+    <li><span class="change-type feat">新增</span> 更新日志页面（changelog.html）</li>
   </ul>
 </div>
 
@@ -174,11 +172,24 @@ body {
   <div class="version-header">
     <span class="version-tag">v0.0007</span>
     <span class="version-date">2026-06-03</span>
-    <span class="version-badge">已回滚</span>
+    <span class="version-badge">效果不佳</span>
   </div>
   <ul class="changes">
-    <li><span class="change-type rollback">回滚</span> 英文 Prompt 生图效果不佳，回滚至 v0.0006</li>
-    <li><span class="change-type optimize">优化</span> 改用中文文章内容直接传给 GPT 生图</li>
+    <li><span class="change-type optimize">优化</span> 英文 Prompt 生图：纯英文、NO TEXT、Minimalist 风格</li>
+    <li><span class="change-type rollback">问题</span> 英文 Prompt 效果不如中文，后续版本改回中文</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
+    <span class="version-tag">v0.0006</span>
+    <span class="version-date">2026-06-03</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type feat">新增</span> AI 标题生成：调用 DeepSeek API 自动生成 ≤20 字符的精简标题</li>
+    <li><span class="change-type feat">新增</span> 三种标题视角：结论型、吸引型、极简型，AI 自动选择最优</li>
+    <li><span class="change-type feat">新增</span> 标题缓存机制（title_cache.json），避免重复调用 API</li>
+    <li><span class="change-type fix">修复</span> DeepSeek API 模型名称修正为 deepseek-chat</li>
   </ul>
 </div>
 

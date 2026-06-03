@@ -23,3 +23,7 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+From https://github.com/alicesentient-cmyk/channel-monitor
+ * branch              main       -> FETCH_HEAD
+To https://github.com/alicesentient-cmyk/channel-monitor.git
+   b52db2e5..2412df18  main -> main
