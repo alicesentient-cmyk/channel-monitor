@@ -34,7 +34,7 @@
         "minimal": "HTTP/2 Bomb攻击",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing server rack with a bomb icon inside, memory chips overflowing like balloons, network cables fraying, dark gray background, red warning gradient, clean vector lines, flat minimal style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A server rack with glowing red warning indicators, memory modules overflowing with digital data streams, a single network cable pulsing with destructive energy, clean lines, dark gray background with crimson accent lighting, flat vector style, geometric composition."
     },
     {
       "id": "xhqcankao_29821",
@@ -51,14 +51,14 @@
       ],
       "url": "https://t.me/xhqcankao/29821",
       "scraped_at": "2026-06-03T23:00:52.778882",
-      "title": "豆包将推专业版，日常免费",
+      "title": "豆包推专业版免费功能不变",
       "title_options": {
-        "conclusion": "豆包将推专业版，日常免费",
-        "attractive": "豆包专业版上线，免费不变",
-        "minimal": "豆包专业版，免费",
+        "conclusion": "豆包推专业版免费功能不变",
+        "attractive": "豆包专业版上线免费功能保留",
+        "minimal": "豆包专业版免费",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue orb floating above an open laptop, surrounded by faint code lines and data flow, clean geometric shapes, white and soft blue gradient background, calm professional atmosphere, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue cloud icon split into two halves, left side free with a simple chat bubble and pencil, right side professional with code brackets and graph lines, clean white background, soft cyan gradient, geometric shapes, flat design."
     },
     {
       "id": "zaihuapd_41751",
@@ -86,11 +86,11 @@
       "title": "知乎首季扭亏为盈",
       "title_options": {
         "conclusion": "知乎首季扭亏为盈",
-        "attractive": "知乎净利增147%",
-        "minimal": "知乎扭亏净利1716万",
+        "attractive": "知乎扭亏净利增147%",
+        "minimal": "知乎首季扭亏",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized graph line sharply turning upward from red to green, a small coin stack at the pivot point, clean geometric shapes, soft blue-gray gradient background, centered composition, flat vector style, subtle glow."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized graph line turning upward from red to green, a glowing coin at the peak, clean geometric shapes, soft blue and white gradient background, centered composition, flat vector style, subtle shadows."
     },
     {
       "id": "xhqcankao_29820",
@@ -110,11 +110,11 @@
       "title": "纽约时报痛斥AI窃取知识产权",
       "title_options": {
         "conclusion": "纽约时报痛斥AI窃取知识产权",
-        "attractive": "AI窃取知识产权引新闻业忧心",
-        "minimal": "纽约时报痛斥AI窃取",
+        "attractive": "AI窃取新闻内容，原创者忧心",
+        "minimal": "纽约时报AI窃取知识产权",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A towering newspaper building with a glowing \"NYT\" facade being drained by robotic tentacles, clean geometric lines, muted grays and deep blues, stark contrast, empty streets, cold digital atmosphere."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A giant robotic hand reaching down to steal glowing pages from a newspaper stack, clean geometric shapes, monochrome blue-gray palette, sharp contrast, empty white background, flat vector style, cold digital atmosphere."
     },
     {
       "id": "zaihuapd_41750",
@@ -139,14 +139,13 @@
       ],
       "url": "https://t.me/zaihuapd/41750",
       "scraped_at": "2026-06-03T22:01:07.352395",
-      "title": "仅13%欧洲人信任自动驾驶",
+      "title": "仅13%欧洲人愿乘自动驾驶车",
       "title_options": {
-        "conclusion": "仅13%欧洲人信任自动驾驶",
-        "attractive": "中国70%信任，欧洲仅13%",
-        "minimal": "欧洲自动驾驶信任度低",
-        "best": "conclusion"
+        "conclusion": "仅13%欧洲人愿乘自动驾驶车",
+        "attractive": "中国70%信任自动驾驶，欧洲仅13%",
+        "minimal": "欧洲自动驾驶信任度低"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A lone European silhouette stands before a sleek autonomous car, head lowered in hesitation, sparse geometric road lines, muted gray-blue palette, cold lighting, flat vector shapes, wide negative space conveying distrust."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A lone European figure standing beside a driverless car, crossed arms showing distrust, empty highway stretching into fog, cold blue-gray gradient, clean geometric shapes, low contrast, isolated atmosphere, flat vector style."
     },
     {
       "id": "xhqcankao_29819",
@@ -167,9 +166,10 @@
       "title_options": {
         "conclusion": "马克龙邀OpenAI CEO出席G7",
         "attractive": "OpenAI CEO首赴G7峰会",
-        "minimal": "马克龙邀奥尔特曼G7"
+        "minimal": "马克龙邀奥特曼G7",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized Macron figure extending a hand toward a glowing Sam Altman silhouette, G7 summit table with digital holographic AI symbols, clean geometric lines, soft blue and white gradient, centered composition, calm futuristic atmosphere."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A humanoid robot shaking hands with a silhouette of a political leader, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style, subtle hexagonal tech patterns in background."
     },
     {
       "id": "zaihuapd_41749",
@@ -197,11 +197,11 @@
       "title": "美教师工会呼吁限制小学AI使用",
       "title_options": {
         "conclusion": "美教师工会呼吁限制小学AI使用",
-        "attractive": "小学禁用AI，保护学生社交",
-        "minimal": "限制AI，课堂屏幕",
+        "attractive": "小学禁用AI？教师工会新提案",
+        "minimal": "限制AI 小学 屏幕",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A teacher's hand pushing away a glowing tablet and robot toy from a child's desk, clean lines, muted blue-gray palette, soft shadows, empty classroom background, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A young child reaching for a tablet on a classroom desk, a teacher gently pulling the tablet away, clean lines, soft beige and blue gradient, simple classroom background, centered composition, flat vector style, calm atmosphere."
     },
     {
       "id": "xhqcankao_29818",
@@ -225,11 +225,11 @@
       "title": "欧盟AI数据中心计划受挫",
       "title_options": {
         "conclusion": "欧盟AI数据中心计划受挫",
-        "attractive": "两百亿欧元计划面临挑战",
+        "attractive": "两百亿欧元计划面临资金缺口",
         "minimal": "欧盟AI数据中心延误",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A large data center under construction with cranes and unfinished server racks, scattered blueprints and question marks floating above, muted gray-blue palette, simple geometric shapes, flat lighting, wide shot showing stalled progress."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A large data center under construction with cranes stalled, broken blueprints scattered, faded EU flag colors, gray-blue palette, empty server racks, clean geometric lines, flat lighting, muted tones."
     },
     {
       "id": "zaihuapd_41748",
@@ -254,14 +254,14 @@
       ],
       "url": "https://t.me/zaihuapd/41748",
       "scraped_at": "2026-06-03T21:00:43.757596",
-      "title": "豆包推专业版，日常免费",
+      "title": "豆包推专业版日常免费",
       "title_options": {
-        "conclusion": "豆包推专业版，日常免费",
-        "attractive": "专业版测试，日常免费",
-        "minimal": "豆包专业版",
+        "conclusion": "豆包推专业版日常免费",
+        "attractive": "豆包专业版不降基础体验",
+        "minimal": "豆包专业版免费日常",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek humanoid robot hand touching a glowing digital interface with floating icons for code, charts, and gears, clean geometric lines, blue-white gradient background, centered composition, soft shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A humanoid figure analyzing data streams on a holographic interface, surrounded by floating code and geometric shapes, muted blue-gray palette, clean lines, soft ambient light, centered composition, modern flat style."
     },
     {
       "id": "xhqcankao_29817",
@@ -286,10 +286,9 @@
       "title_options": {
         "conclusion": "东陶加码半导体材料",
         "attractive": "AI热催生陶瓷新需求",
-        "minimal": "东陶芯片业务扩张",
-        "best": "conclusion"
+        "minimal": "东陶半导体投资增"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A ceramic electrostatic chuck holding a glowing silicon wafer, clean geometric lines, blue-gray gradient background, centered composition, soft ambient light, industrial precision, flat minimal style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A ceramic electrostatic chuck holding a glowing silicon wafer, clean geometric lines, cool blue-gray gradient, industrial cleanroom setting, soft ambient light, centered composition, flat vector style."
     },
     {
       "id": "zaihuapd_41743",
@@ -314,14 +313,13 @@
       ],
       "url": "https://t.me/zaihuapd/41743",
       "scraped_at": "2026-06-03T21:00:43.757159",
-      "title": "64GB成创作软件甜点",
+      "title": "64GB是创作软件甜点",
       "title_options": {
-        "conclusion": "64GB成创作软件甜点",
-        "attractive": "16GB内存拖慢40%性能",
-        "minimal": "64GB内存甜点",
-        "best": "conclusion"
+        "conclusion": "64GB是创作软件甜点",
+        "attractive": "16GB内存性能暴跌40%",
+        "minimal": "64GB创作内存甜点"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek desktop workstation with 64GB RAM highlighted, a stylized memory module glowing in soft blue, surrounded by abstract Adobe and DaVinci Resolve icons in muted gray, clean geometric shapes, cool blue-white gradient background, flat minimal style, soft ambient lighting."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek desktop computer with a glowing 64GB memory module at center, surrounded by floating Adobe and DaVinci Resolve app icons in muted blue-gray tones, clean geometric shapes, soft gradient background, subtle performance graph lines fading upward, flat vector style, calm professional atmosphere."
     },
     {
       "id": "zaihuapd_41742",
@@ -346,14 +344,14 @@
       ],
       "url": "https://t.me/zaihuapd/41742",
       "scraped_at": "2026-06-03T21:00:43.756446",
-      "title": "千问向第三方开放Agent",
+      "title": "千问向第三方全面开放",
       "title_options": {
-        "conclusion": "千问向第三方开放Agent",
-        "attractive": "瑞幸等企业测试千问Agent",
-        "minimal": "千问Agent开放",
+        "conclusion": "千问向第三方全面开放",
+        "attractive": "瑞幸等企业测试Agent",
+        "minimal": "千问开放Agent",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing smartphone floating center, surrounded by small geometric brand icons for coffee, airplane, and fast food, connected by thin white lines, blue-white gradient background, clean flat shapes, soft ambient light, modern digital ecosystem."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing smartphone floating at center, radiating digital connection lines to multiple small brand icons like coffee cup and airplane, smooth gradient background in cool blue and white, clean geometric shapes, soft ambient light, open portal symbolizing third-party integration."
     },
     {
       "id": "xhqcankao_29816",
@@ -370,14 +368,13 @@
       ],
       "url": "https://t.me/xhqcankao/29816",
       "scraped_at": "2026-06-03T21:00:47.261211",
-      "title": "谷歌购开发者代码训练AI",
+      "title": "谷歌购买开发者代码",
       "title_options": {
-        "conclusion": "谷歌购开发者代码训练AI",
-        "attractive": "你的代码能卖钱了",
-        "minimal": "谷歌买代码训练AI",
-        "best": "conclusion"
+        "conclusion": "谷歌购买开发者代码",
+        "attractive": "你的代码能卖钱",
+        "minimal": "谷歌买代码"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone glowing on a table, code snippets floating upward from the screen into a cloud-shaped AI icon, clean geometric lines, cool blue and white gradient, soft shadows, centered composition, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A humanoid robot hand holding a glowing Android icon, code snippets floating upward as digital particles, blue and white gradient background, clean geometric shapes, flat design, soft ambient light, centered composition, modern tech aesthetic."
     },
     {
       "id": "zaihuapd_41741",
@@ -405,11 +402,11 @@
       "title": "谷歌允许网站退出AI搜索",
       "title_options": {
         "conclusion": "谷歌允许网站退出AI搜索",
-        "attractive": "网站可自主退出AI搜索",
+        "attractive": "网站可自主退出AI结果",
         "minimal": "谷歌AI搜索退出选项",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing website toggle switch labeled with an abstract AI eye icon, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style, a globe icon fading in background, minimal geometric shapes."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized website toggle switch with a glowing green checkmark, surrounded by abstract data flow lines, a small globe icon in the background, blue-gray gradient, clean geometric shapes, soft ambient light, flat vector style."
     },
     {
       "id": "xhqcankao_29815",
@@ -429,10 +426,11 @@
       "title": "张一鸣成亚洲第二大富豪",
       "title_options": {
         "conclusion": "张一鸣成亚洲第二大富豪",
-        "attractive": "身家928亿，超越安巴尼",
-        "minimal": "张一鸣亚洲第二"
+        "attractive": "身家七年增七倍至928亿",
+        "minimal": "张一鸣亚洲第二",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A silhouetted figure stands before a glowing digital graph with a soaring red arrow, surrounded by abstract AI nodes and a rising sun. Clean lines, blue and gold gradient, soft shadows, flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A silhouette figure stands before a glowing vertical timeline, wealth rising in clean blue-white bars, a floating chatbot orb and video platform icon beside a rising graph, soft gradient background, flat minimal style."
     },
     {
       "id": "zaihuapd_41740",
@@ -444,14 +442,14 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41740",
       "scraped_at": "2026-06-03T20:01:02.396391",
-      "title": "代理IP段遭封禁",
+      "title": "代理服务IP段被GFW封禁",
       "title_options": {
-        "conclusion": "代理IP段遭封禁",
-        "attractive": "Vless协议被阻断",
+        "conclusion": "代理服务IP段被GFW封禁",
+        "attractive": "Vless和AnyTLS协议被阻断",
         "minimal": "代理服务阻断",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A fragmented digital wall blocking multiple glowing proxy nodes, broken connection lines, abstract IP segments fading into darkness, cyan and dark gray palette, clean geometric shapes, flat minimal style, soft gradient background, isolated server icons dissolving."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A fragmented digital wall with glowing red grid lines blocking a stream of blue data packets, abstract IP addresses dissolving into static, dark background with subtle orange warning glow, clean geometric shapes, low-poly style, cold blue and muted gray palette."
     },
     {
       "id": "xhqcankao_29814",
@@ -468,14 +466,14 @@
       ],
       "url": "https://t.me/xhqcankao/29814",
       "scraped_at": "2026-06-03T20:01:04.540515",
-      "title": "特斯拉上海工厂5月交付增39%",
+      "title": "特斯拉上海工厂5月交付量增39%",
       "title_options": {
-        "conclusion": "特斯拉上海工厂5月交付增39%",
-        "attractive": "特斯拉上海工厂交付创2026新高",
-        "minimal": "特斯拉上海交付8.5万辆",
+        "conclusion": "特斯拉上海工厂5月交付量增39%",
+        "attractive": "特斯拉上海工厂交付量创新高",
+        "minimal": "特斯拉上海工厂交付量增39%",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing red Tesla Model Y L SUV on a clean white grid floor, surrounded by subtle delivery arrows pointing outward to Singapore, Australia, and Thailand, blue-white gradient background, soft shadows, modern flat style, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A streamlined Tesla Model Y SUV on a shipping dock, clean geometric lines, blue-white gradient sky, soft reflections on wet ground, cargo ship in background, flat vector style, calm atmosphere, wide composition."
     },
     {
       "id": "zaihuapd_41739",
@@ -490,11 +488,11 @@
       "title": "日企推员工恋爱福利",
       "title_options": {
         "conclusion": "日企推员工恋爱福利",
-        "attractive": "超1500家企业认证交友",
-        "minimal": "日企员工恋爱App",
+        "attractive": "超1500家企业用交友App",
+        "minimal": "日企恋爱福利App",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. Two silhouetted figures facing each other with glowing heart symbols between them, subtle corporate building outlines in background, clean geometric shapes, soft pink and blue gradient tones, flat vector style, calm atmosphere, white negative space."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. Two stylized silhouettes of a man and woman facing each other with glowing heart icons between them, clean geometric lines, soft pink and blue gradient background, flat vector style, subtle glow effect, centered composition, corporate workplace setting implied by simple desk shapes in background."
     },
     {
       "id": "xhqcankao_29813",
@@ -511,14 +509,14 @@
       ],
       "url": "https://t.me/xhqcankao/29813",
       "scraped_at": "2026-06-03T19:00:15.693718",
-      "title": "印度Prime音乐引入广告",
+      "title": "印度Prime音乐将含广告",
       "title_options": {
-        "conclusion": "印度Prime音乐引入广告",
-        "attractive": "Prime音乐免费变广告版",
+        "conclusion": "印度Prime音乐将含广告",
+        "attractive": "Prime音乐免费听？广告来了",
         "minimal": "Prime音乐 广告 印度",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek smartphone displaying a music app interface with a small \"Ad\" badge, surrounded by floating musical notes and a subtle dollar sign icon, clean geometric shapes, muted blue-gray palette, soft gradient background, flat design, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone screen displaying a music app interface with a small ad banner at the bottom, clean geometric shapes, muted gray-blue palette, soft lighting, flat design, simple composition, subtle shadows."
     },
     {
       "id": "zaihuapd_41738",
@@ -539,14 +537,14 @@
       ],
       "url": "https://t.me/zaihuapd/41738",
       "scraped_at": "2026-06-03T19:00:12.688727",
-      "title": "CMLink调整内地流量激活规则",
+      "title": "CMLink调整境外卡激活规则",
       "title_options": {
-        "conclusion": "CMLink调整内地流量激活规则",
-        "attractive": "境外卡内地激活需提前72小时",
+        "conclusion": "CMLink调整境外卡激活规则",
+        "attractive": "境外卡内地激活需提前",
         "minimal": "CMLink激活规则变更",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A SIM card floating above a smartphone, with a glowing activation icon, surrounded by a subtle network signal wave, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A SIM card floating above a smartphone, with a glowing activation icon and a dotted line tracing a path from an airplane window to the phone, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style."
     },
     {
       "id": "xhqcankao_29812",
@@ -567,14 +565,14 @@
       ],
       "url": "https://t.me/xhqcankao/29812",
       "scraped_at": "2026-06-03T19:00:15.693350",
-      "title": "DeepSeek获500亿首轮融资",
+      "title": "DeepSeek完成500亿融资",
       "title_options": {
-        "conclusion": "DeepSeek获500亿首轮融资",
+        "conclusion": "DeepSeek完成500亿融资",
         "attractive": "腾讯宁德时代拟投DeepSeek",
         "minimal": "DeepSeek 500亿融资",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized human hand placing a glowing coin into a geometric chip, surrounded by abstract financial nodes, clean lines, deep blue and gold gradient, centered composition, soft shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing digital cube floating above a table, surrounded by abstract financial symbols like coins and circuit lines, soft blue and silver gradient background, clean geometric shapes, centered composition, subtle light beams, modern flat style."
     },
     {
       "id": "zaihuapd_41737",
@@ -590,10 +588,10 @@
       "title_options": {
         "conclusion": "美法院裁定特朗普关税违法",
         "attractive": "10%全球关税被判无效",
-        "minimal": "特朗普关税违法",
+        "minimal": "关税裁定违法",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A judge's gavel striking down a stack of tariff documents, broken chains around a globe, clean lines, muted navy and white palette, centered composition, soft shadows, flat vector style"
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A judge's gavel striking down a stack of tariff documents, broken chains around a globe, clean vector lines, muted blue-gray palette, flat lighting, geometric composition, modern courtroom setting"
     },
     {
       "id": "xhqcankao_29811",
@@ -613,11 +611,11 @@
       "title": "英国迫使谷歌改变AI摘要",
       "title_options": {
         "conclusion": "英国迫使谷歌改变AI摘要",
-        "attractive": "出版商获控AI摘要权",
-        "minimal": "谷歌AI摘要受管制",
+        "attractive": "出版商获AI摘要控制权",
+        "minimal": "谷歌AI摘要受限",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A humanoid robot hand pressing a button on a search bar interface, abstract scales of justice hovering above, clean geometric shapes, muted blue-gray palette, flat digital style, soft lighting, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized hand pressing a toggle switch labeled with a lock icon, a newspaper stack beside a search bar, clean geometric shapes, muted blue-gray palette, flat lighting, balanced composition."
     },
     {
       "id": "xhqcankao_29810",
@@ -637,11 +635,11 @@
       "title": "MacBook Neo首季出货110万台",
       "title_options": {
         "conclusion": "MacBook Neo首季出货110万台",
-        "attractive": "三周销量超M5和M5 Pro",
+        "attractive": "Neo三周销量超Air和Pro",
         "minimal": "Neo出货110万领先",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek MacBook Neo on a clean desk, glowing screen, geometric shipping boxes stacked in background, soft blue-white gradient, subtle light rays, centered composition, modern flat style, minimal shadows."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek MacBook Neo on a clean desk with soft blue-white gradient, glowing screen showing abstract data, surrounded by subtle shipping boxes and upward arrows, minimal lines, modern flat style, cool gray tones, soft shadows."
     },
     {
       "id": "zaihuapd_41736",
@@ -666,14 +664,14 @@
       ],
       "url": "https://t.me/zaihuapd/41736",
       "scraped_at": "2026-06-03T18:00:19.829580",
-      "title": "SpaceX IPO筹资750亿美元",
+      "title": "SpaceX拟135美元IPO",
       "title_options": {
-        "conclusion": "SpaceX IPO筹资750亿美元",
-        "attractive": "史上最大IPO锁定发行价",
-        "minimal": "SpaceX 135美元 IPO",
+        "conclusion": "SpaceX拟135美元IPO",
+        "attractive": "史上最大IPO筹资750亿",
+        "minimal": "SpaceX IPO 135美元",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek rocket launching upward from a stylized globe, surrounded by faint satellite orbits and abstract AI data streams, blue-white gradient background, clean geometric lines, centered composition, soft shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek rocket launching from a stylized stock exchange floor, clean geometric lines, blue-gray gradient background, centered composition, soft shadows, modern flat style, subtle dollar sign shapes dissolving into satellite orbits, minimalist stock ticker board without text, cool metallic tones."
     },
     {
       "id": "xhqcankao_29809",
@@ -693,11 +691,11 @@
       "title": "X推视频评论功能",
       "title_options": {
         "conclusion": "X推视频评论功能",
-        "attractive": "发视频回复替代转发",
-        "minimal": "X视频评论",
+        "attractive": "视频回复替代转发",
+        "minimal": "X视频互动",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone screen with a video reply icon floating above a comment thread, clean geometric lines, blue-gray gradient background, centered composition, soft shadows, flat vector style, user pressing a video record button."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone screen displaying a video reply interface, a user's hand holding phone recording a video response, clean geometric shapes, blue-gray gradient background, flat design, soft ambient lighting, centered composition, modern digital interaction scene."
     },
     {
       "id": "zaihuapd_41733",
@@ -725,11 +723,11 @@
       "title": "教育部规范高考招生宣传",
       "title_options": {
         "conclusion": "教育部规范高考招生宣传",
-        "attractive": "高考录取通知书禁夹带",
+        "attractive": "录取通知书禁夹带广告",
         "minimal": "高考招生宣传规范",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A single folded document with a red seal on a clean desk, an open envelope beside it, soft blue-white gradient background, centered composition, smooth flat surfaces, subtle shadows, calm academic atmosphere."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A single-page letter floating above a desk, clean geometric lines, muted blue-gray palette, soft ambient light, no decorations, centered composition, flat vector style, subtle shadow beneath the paper."
     },
     {
       "id": "xhqcankao_29808",
@@ -749,11 +747,11 @@
       "title": "微软量子芯片可靠性提升千倍",
       "title_options": {
         "conclusion": "微软量子芯片可靠性提升千倍",
-        "attractive": "量子比特存续20秒，微软芯片飞跃",
+        "attractive": "量子比特存续20秒，微软新芯片",
         "minimal": "微软量子芯片可靠性千倍",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing quantum chip floating in darkness, 12 tiny blue particles arranged in a grid, ethereal light trails connecting them, sleek metallic surface, deep navy background, subtle cyan highlights, clean geometric shapes, futuristic atmosphere, soft glow."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue quantum chip floating in a dark void, surrounded by faint concentric rings, with twelve tiny light particles orbiting, clean geometric lines, deep navy and cyan gradient, soft ambient glow, centered composition, futuristic minimal style."
     },
     {
       "id": "xhqcankao_29807",
@@ -773,11 +771,11 @@
       "title": "黑客窃取Dashlane加密库",
       "title_options": {
         "conclusion": "黑客窃取Dashlane加密库",
-        "attractive": "双因素认证被暴力破解",
+        "attractive": "20个用户密码库被盗",
         "minimal": "Dashlane遭黑客攻击",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked digital vault icon floating in dark space, fragmented key symbols falling, blue and red neon glow, clean geometric lines, abstract data streams, stark contrast, empty background, cyber security breach atmosphere."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A fragmented digital vault door with a glowing crack, dark blue and red neon lines, abstract binary particles floating, geometric padlock icon broken in half, sleek flat design, low saturation, high contrast, cold metallic tones."
     },
     {
       "id": "zaihuapd_41732",
@@ -821,10 +819,11 @@
       "title": "特斯拉更新加密行车记录",
       "title_options": {
         "conclusion": "特斯拉更新加密行车记录",
-        "attractive": "行车记录视频需解密查看",
-        "minimal": "特斯拉更新加密"
+        "attractive": "特斯拉视频加密防泄露",
+        "minimal": "特斯拉更新加密",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A Tesla vehicle with a glowing USB drive, encrypted video stream lines around it, dashboard camera icon, clean geometric shapes, dark blue and white color palette, soft gradient background, modern flat style, subtle tech glow."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A Tesla vehicle with a glowing USB drive, encrypted lock icon over a camera lens, abstract data lines flowing into a cloud, dark blue and cyan gradient, clean geometric shapes, soft ambient lighting, centered composition."
     },
     {
       "id": "xhqcankao_29806",
@@ -845,14 +844,14 @@
       ],
       "url": "https://t.me/xhqcankao/29806",
       "scraped_at": "2026-06-03T16:00:34.603720",
-      "title": "美国数据中心建设延迟",
+      "title": "美国数据中心建设滞后",
       "title_options": {
-        "conclusion": "美国数据中心建设延迟",
-        "attractive": "超六成数据中心未开工",
-        "minimal": "AI竞赛 数据中心 瓶颈",
+        "conclusion": "美国数据中心建设滞后",
+        "attractive": "超60%数据中心未开工",
+        "minimal": "数据中心 建设 瓶颈",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A partially constructed data center with exposed steel frames, idle construction cranes, and tangled power cables, surrounded by empty land, muted gray-blue palette, clean geometric shapes, flat lighting, soft shadows, sense of stagnation and delay."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A half-built data center under construction with cranes, tangled power cables and transformers scattered, empty server racks, dim blue-gray tones, flat geometric shapes, soft shadows, delayed progress atmosphere."
     },
     {
       "id": "zaihuapd_41731",
@@ -885,14 +884,14 @@
       ],
       "url": "https://t.me/zaihuapd/41731",
       "scraped_at": "2026-06-03T15:00:29.565348",
-      "title": "VSCode漏洞可窃取Token",
+      "title": "VSCode漏洞可窃取GitHub T…",
       "title_options": {
-        "conclusion": "VSCode漏洞可窃取Token",
-        "attractive": "点击链接即泄露Token",
+        "conclusion": "VSCode漏洞可窃取GitHub T…",
+        "attractive": "点击链接即泄露GitHub令牌",
         "minimal": "VSCode漏洞 Token窃取",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked VSCode window with a glowing token icon leaking from a webview panel, a shadowy cursor clicking a malicious extension button, dark blue background, red warning glow, clean geometric lines, flat vector style, subtle grid overlay."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing red GitHub token icon leaking from a VSCode window, a cursor clicking a malicious extension link, dark blue background with cyan code lines, flat geometric shapes, subtle grid pattern, soft gradient lighting, clean vector style."
     },
     {
       "id": "xhqcankao_29805",
@@ -912,10 +911,11 @@
       "title": "CMLink数据卡限制内地居民",
       "title_options": {
         "conclusion": "CMLink数据卡限制内地居民",
-        "attractive": "境外卡内地激活需提前72小时",
-        "minimal": "CMLink数据卡设限"
+        "attractive": "境外卡需境外激活",
+        "minimal": "CMLink 设限 内地",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A SIM card with a red prohibition symbol over a map of China, clean lines, blue-gray gradient, centered composition, soft shadows, modern flat style, a person holding a phone with a disconnected signal icon, airport background, cool digital palette."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A SIM card with a red prohibition symbol, floating above a stylized map of China, surrounded by data flow lines, muted blue-gray gradient, clean geometric shapes, flat design, centered composition, soft ambient shadows."
     },
     {
       "id": "xhqcankao_29804",
@@ -936,10 +936,10 @@
       "title_options": {
         "conclusion": "手机出货量预计降14%",
         "attractive": "存储器短缺致手机减产",
-        "minimal": "出货量降14%",
+        "minimal": "手机出货降14%",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A single smartphone with a cracked screen, surrounded by falling memory chips, stark white background, cool blue-gray tones, clean geometric shapes, downward arrow composed of fading DRAM modules, empty production line in background, soft gradient lighting, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A single smartphone silhouette with a downward arrow piercing it, fragmented memory chip pieces falling below, flat clean lines, muted blue-gray gradient background, sparse composition, soft shadows, modern tech style."
     },
     {
       "id": "zaihuapd_41730",
@@ -964,14 +964,14 @@
       ],
       "url": "https://t.me/zaihuapd/41730",
       "scraped_at": "2026-06-03T14:00:31.874877",
-      "title": "ChatGPT订阅滥用报告",
+      "title": "ChatGPT订阅账号滥用报告",
       "title_options": {
-        "conclusion": "ChatGPT订阅滥用报告",
-        "attractive": "账号批量注册转售",
-        "minimal": "订阅账号滥用",
+        "conclusion": "ChatGPT订阅账号滥用报告",
+        "attractive": "ChatGPT账号黑产链曝光",
+        "minimal": "ChatGPT滥用报告",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked smartphone screen showing multiple fake subscription tiers, scattered credit cards and script code fragments around it, dark blue and gray palette, clean geometric shapes, low-angle view, harsh fluorescent lighting, sterile server room background."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked subscription badge icon with scattered account tokens and a broken chain link, dark gray background, neon red and blue accent lines, flat vector style, clean geometric shapes, subtle glow on fraudulent transaction nodes."
     },
     {
       "id": "xhqcankao_29803",
@@ -991,11 +991,11 @@
       "title": "马斯克囤地6000英亩",
       "title_options": {
         "conclusion": "马斯克囤地6000英亩",
-        "attractive": "马斯克550亿芯片厂选址",
+        "attractive": "550亿芯片厂选址曝光",
         "minimal": "马斯克囤地芯片厂",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A vast Texas rural landscape with scattered land parcels marked by subtle boundary lines, a single industrial chip factory silhouette emerging from the horizon, clean geometric shapes, muted earthy tones with cool blue-gray sky, flat minimal style, soft ambient light, empty open fields, serene and expansive composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A vast rural Texas landscape with scattered land parcels outlined in thin clean lines, a subtle glow on a central plot, flat blue and beige tones, soft shadows, aerial perspective, modern flat style."
     },
     {
       "id": "zaihuapd_41728",
@@ -1020,14 +1020,14 @@
       ],
       "url": "https://t.me/zaihuapd/41728",
       "scraped_at": "2026-06-03T14:00:31.873751",
-      "title": "OpenAI推金融法律AI工具",
+      "title": "OpenAI推金融法律AI",
       "title_options": {
-        "conclusion": "OpenAI推金融法律AI工具",
-        "attractive": "OpenAI与Anthropic争客户",
+        "conclusion": "OpenAI推金融法律AI",
+        "attractive": "OpenAI与Anthropic抢客户",
         "minimal": "OpenAI金融法律AI",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek humanoid robot hand signing a financial document on a minimalist desk, stock charts and legal scales floating as holographic icons, blue-white gradient background, clean geometric lines, soft shadows, modern flat style, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek humanoid robot hand holding a glowing pen over a financial chart and legal document on a desk, clean geometric lines, blue-white gradient background, centered composition, soft shadows, modern flat style, subtle stock graph lines and gavel silhouette."
     },
     {
       "id": "xhqcankao_29802",
@@ -1044,13 +1044,14 @@
       ],
       "url": "https://t.me/xhqcankao/29802",
       "scraped_at": "2026-06-03T14:00:33.858495",
-      "title": "美国拟对60国加征关税",
+      "title": "美拟对60国加征关税",
       "title_options": {
-        "conclusion": "美国拟对60国加征关税",
-        "attractive": "关税墙卷土重来，最高12.5%",
-        "minimal": "美国，60国，关税"
+        "conclusion": "美拟对60国加征关税",
+        "attractive": "美国关税墙卷土重来",
+        "minimal": "美对60国分档征税",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A towering gray wall with two distinct height levels, labeled with abstract tariff percentages 10 and 12.5, dividing a clean globe into 60 small country blocks, muted blue-gray palette, flat geometric shapes, soft ambient shadows, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A towering geometric wall with two distinct height levels, small cargo ships and containers at base, cold blue-gray gradient, clean lines, flat minimal style, soft shadows, isolated composition."
     },
     {
       "id": "zaihuapd_41727",
@@ -1078,11 +1079,11 @@
       "title": "iOS首款磁盘可视化工具",
       "title_options": {
         "conclusion": "iOS首款磁盘可视化工具",
-        "attractive": "iOS磁盘占用可视化",
+        "attractive": "iOS磁盘占用可视化工具",
         "minimal": "Disk Icicle 工具",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. An icicle-shaped data visualization on an iPhone screen, colorful vertical bars representing disk usage, glowing storage blocks, clean lines, dark blue background, soft gradient light, centered composition, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. An icicle-shaped disk visualization on an iPhone screen, colorful storage blocks cascading downward, clean lines, blue-teal gradient background, soft shadows, modern flat style, centered composition."
     },
     {
       "id": "xhqcankao_29801",
@@ -1099,14 +1100,14 @@
       ],
       "url": "https://t.me/xhqcankao/29801",
       "scraped_at": "2026-06-03T14:00:33.858115",
-      "title": "YT Music搜索移至底部",
+      "title": "YT Music搜索移至底部栏",
       "title_options": {
-        "conclusion": "YT Music搜索移至底部",
-        "attractive": "搜索栏搬家了",
-        "minimal": "YT Music 搜索 底部",
+        "conclusion": "YT Music搜索移至底部栏",
+        "attractive": "搜索栏取代探索标签",
+        "minimal": "YT Music搜索栏底部",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone interface with bottom navigation bar, magnifying glass icon highlighted, keyboard appearing on screen, clean lines, monochromatic dark blue and white palette, centered composition, soft shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone bottom bar with a magnifying glass icon replacing an explore icon, clean lines, soft blue-gray gradient, centered composition, flat UI elements, subtle shadows, modern digital interface style."
     },
     {
       "id": "xhqcankao_29800",
@@ -1123,14 +1124,14 @@
       ],
       "url": "https://t.me/xhqcankao/29800",
       "scraped_at": "2026-06-03T13:00:53.855430",
-      "title": "亚马逊因Ring面部识别被诉",
+      "title": "Ring面部识别遭集体诉讼",
       "title_options": {
-        "conclusion": "亚马逊因Ring面部识别被诉",
-        "attractive": "路过门铃就被扫脸？",
+        "conclusion": "Ring面部识别遭集体诉讼",
+        "attractive": "路过门铃被偷拍面部",
         "minimal": "Ring面部识别诉讼",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A Ring doorbell camera with a glowing red eye scanning a passerby's face, abstract facial data points floating in the air, dark blue and gray palette, clean geometric lines, surveillance atmosphere, flat vector style, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A Ring doorbell camera with a glowing red eye scanning a blurred passerby's face, geometric lines, cold blue-gray palette, stark shadows, fragmented data streams, flat vector style."
     },
     {
       "id": "zaihuapd_41726",
@@ -1167,13 +1168,14 @@
       ],
       "url": "https://t.me/zaihuapd/41726",
       "scraped_at": "2026-06-03T13:00:52.642719",
-      "title": "微软量子芯片商用提前至2029",
+      "title": "微软量子芯片商用目标提前至2029",
       "title_options": {
-        "conclusion": "微软量子芯片商用提前至2029",
+        "conclusion": "微软量子芯片商用目标提前至2029",
         "attractive": "量子比特寿命延长至20秒",
-        "minimal": "Majorana 2 2029商用"
+        "minimal": "Majorana 2 量子芯片",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue quantum chip floating in a dark void, surrounded by concentric circuit rings, a faint particle trail extending upward, cold blue-white gradient, clean geometric lines, centered composition, soft ambient light."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue quantum chip floating above a metallic surface, surrounded by faint particle trails, clean geometric lines, dark navy background with cool cyan highlights, centered composition, soft ambient light, futuristic flat style."
     },
     {
       "id": "xhqcankao_29799",
@@ -1190,13 +1192,14 @@
       ],
       "url": "https://t.me/xhqcankao/29799",
       "scraped_at": "2026-06-03T13:00:53.855048",
-      "title": "美军破解武器系统整合数据",
+      "title": "美军破解武器系统应对无人机",
       "title_options": {
-        "conclusion": "美军破解武器系统整合数据",
-        "attractive": "美军破解自家武器系统",
-        "minimal": "美军破解系统整合"
+        "conclusion": "美军破解武器系统应对无人机",
+        "attractive": "20名士兵盯屏终被解放",
+        "minimal": "美军破解武器系统",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A unified digital battlefield display merging multiple radar and interceptor system icons into a single screen, clean lines, dark blue and white gradient, centered composition, soft shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A single soldier at a unified holographic display, multiple radar and interceptor icons merging into one clean battlefield map, flat geometric shapes, cool blue and gray tones, soft ambient light, streamlined military tech aesthetic, calm focused atmosphere."
     },
     {
       "id": "zaihuapd_41725",
@@ -1221,14 +1224,14 @@
       ],
       "url": "https://t.me/zaihuapd/41725",
       "scraped_at": "2026-06-03T12:00:14.628732",
-      "title": "Hermes Desktop发布公开预览",
+      "title": "Hermes Desktop公开预览版…",
       "title_options": {
-        "conclusion": "Hermes Desktop发布公开预览",
+        "conclusion": "Hermes Desktop公开预览版…",
         "attractive": "本地运行Hermes Agent",
         "minimal": "Hermes Desktop预览",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek desktop computer with a glowing AI interface, a stylized agent icon floating above the screen, clean geometric lines, soft blue and white gradient, minimal desk setup, subtle shadows, modern flat style, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek desktop computer on a clean desk, glowing blue interface, floating holographic agent icon above screen, subtle white-blue gradient background, centered composition, soft shadows, modern flat style."
     },
     {
       "id": "xhqcankao_29798",
@@ -1249,14 +1252,14 @@
       ],
       "url": "https://t.me/xhqcankao/29798",
       "scraped_at": "2026-06-03T12:00:16.438297",
-      "title": "谷歌推虚假通话检测",
+      "title": "谷歌推出虚假通话检测",
       "title_options": {
-        "conclusion": "谷歌推虚假通话检测",
-        "attractive": "防深伪诈骗新功能",
-        "minimal": "谷歌通话检测",
+        "conclusion": "谷歌推出虚假通话检测",
+        "attractive": "防深伪诈骗新功能上线",
+        "minimal": "安卓虚假通话检测",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. Two smartphones facing each other, one emitting a subtle green verification pulse, the other receiving a silent digital handshake, clean geometric lines, soft blue-gray gradient background, centered composition, flat minimal style, subtle glow effect."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. Two smartphones facing each other, a glowing digital handshake between them, one phone emitting a shield icon, clean geometric lines, blue and white color palette, soft gradient background, centered composition, flat vector style."
     },
     {
       "id": "xhqcankao_29797",
@@ -1284,7 +1287,7 @@
         "minimal": "优步AI支出上限",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone dashboard displaying a glowing progress bar near a limit line, a stylized AI coding icon dimmed beside it, clean geometric shapes, muted blue-gray palette, soft gradient background, flat vector style, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A digital dashboard with a red capped spending meter, a cursor icon hovering over a locked AI tool interface, clean geometric lines, muted blue-gray palette, soft shadows, flat design, centered composition, subtle data graph in background."
     },
     {
       "id": "zaihuapd_41724",
@@ -1309,14 +1312,14 @@
       ],
       "url": "https://t.me/zaihuapd/41724",
       "scraped_at": "2026-06-03T11:00:29.073890",
-      "title": "谷歌付费购开发者代码",
+      "title": "谷歌付费买开发者代码",
       "title_options": {
-        "conclusion": "谷歌付费购开发者代码",
-        "attractive": "开发者代码可卖钱",
+        "conclusion": "谷歌付费买开发者代码",
+        "attractive": "开发者代码能卖钱了",
         "minimal": "谷歌购代码训练AI",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek Android robot icon handing a glowing code key to a developer silhouette, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style, digital transaction gesture, minimalist desk with floating code blocks."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized Android robot hand offering a glowing contract to a developer's hand, abstract code streams flowing upward, clean geometric shapes, monochromatic blue-gray palette, soft gradient background, centered composition, subtle shadows, modern flat style."
     },
     {
       "id": "xhqcankao_29796",
@@ -1337,13 +1340,14 @@
       ],
       "url": "https://t.me/xhqcankao/29796",
       "scraped_at": "2026-06-03T11:00:31.152549",
-      "title": "Meta缩减员工数据追踪",
+      "title": "Meta缩减员工数据追踪计划",
       "title_options": {
-        "conclusion": "Meta缩减员工数据追踪",
-        "attractive": "员工反对，Meta暂停追踪",
-        "minimal": "Meta追踪计划收缩"
+        "conclusion": "Meta缩减员工数据追踪计划",
+        "attractive": "员工反对，Meta暂停数据收集",
+        "minimal": "Meta 数据追踪 缩减",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing computer mouse and keyboard on a desk, with a translucent barrier or pause symbol hovering above, soft blue-gray gradient background, clean geometric shapes, subtle data lines fading away, calm corporate atmosphere, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A desk with a computer mouse and keyboard, subtle motion lines around them, a small pause icon floating above, blue-gray gradient background, clean geometric shapes, soft shadows, flat vector style, centered composition."
     },
     {
       "id": "zaihuapd_41723",
@@ -1371,11 +1375,11 @@
       "title": "iOS 27适配折叠屏",
       "title_options": {
         "conclusion": "iOS 27适配折叠屏",
-        "attractive": "分屏功能解决短板",
-        "minimal": "iOS 27分屏",
+        "attractive": "折叠屏iPhone分屏",
+        "minimal": "iOS27分屏适配",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A folding smartphone screen splitting into two app panels, clean geometric lines, soft blue-gray gradient background, centered composition, subtle reflection on display, flat vector style, smooth edges, calm lighting."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A folded smartphone screen splits into two app panels side by side, clean geometric lines, soft blue-gray gradient background, subtle screen reflections, centered composition, flat digital style, smooth edges, modern UI concept."
     },
     {
       "id": "xhqcankao_29795",
@@ -1396,14 +1400,14 @@
       ],
       "url": "https://t.me/xhqcankao/29795",
       "scraped_at": "2026-06-03T11:00:31.152033",
-      "title": "v2rayN移除证书跳过参数",
+      "title": "v2rayN移除跳过证书验证",
       "title_options": {
-        "conclusion": "v2rayN移除证书跳过参数",
-        "attractive": "证书跳过功能将报错",
-        "minimal": "证书参数移除",
+        "conclusion": "v2rayN移除跳过证书验证",
+        "attractive": "证书验证移除，内核将报错",
+        "minimal": "v2rayN证书验证移除",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing red warning symbol above a broken shield icon, fragmented digital certificate falling apart, abstract network nodes in background, clean geometric shapes, dark blue and gray gradient, cold lighting, flat vector style, centered composition, soft ambient shadows."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A shield icon with a broken chain link, crossed out by a red X, floating above a digital network grid, clean lines, blue-gray gradient, centered composition, flat vector style, soft ambient light."
     },
     {
       "id": "xhqcankao_29794",
@@ -1420,14 +1424,14 @@
       ],
       "url": "https://t.me/xhqcankao/29794",
       "scraped_at": "2026-06-03T10:00:16.657676",
-      "title": "Mac版Office 2019将停止编辑",
+      "title": "Mac版Office 2019将停编辑",
       "title_options": {
-        "conclusion": "Mac版Office 2019将停止编辑",
+        "conclusion": "Mac版Office 2019将停编辑",
         "attractive": "7月13日起Mac Office 20…",
-        "minimal": "Office 2019 Mac编辑功能…",
+        "minimal": "Office 2019 Mac 停编辑",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked digital certificate icon floating above a MacBook, crossed-out edit symbol on Office document, muted gray-blue gradient background, clean geometric lines, flat minimal style, soft ambient shadows."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. An expired digital certificate floating above a Mac laptop, crossed-out edit icon on a Word document, dimmed screen, muted gray-blue gradient, clean geometric shapes, soft shadows, flat minimal style."
     },
     {
       "id": "zaihuapd_41722",
@@ -1456,10 +1460,10 @@
       "title_options": {
         "conclusion": "小米公布老用户回归礼",
         "attractive": "小米API降价99%",
-        "minimal": "小米 回归礼 降价",
+        "minimal": "小米 回归礼 API降价",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized smartphone screen displaying a glowing token icon, surrounded by floating digital particles, a subtle clock symbol indicating a one-month validity period, clean geometric shapes, soft blue and white gradient background, centered composition, modern flat style, minimal shadows."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized smartphone screen displaying a digital token icon, glowing blue-white gradient background, a subtle returning arrow symbol floating above, clean geometric shapes, soft ambient light, modern flat design, centered composition, calm tech atmosphere."
     },
     {
       "id": "xhqcankao_29793",
@@ -1479,11 +1483,11 @@
       "title": "波兰呼吁技术主权应对AI风险",
       "title_options": {
         "conclusion": "波兰呼吁技术主权应对AI风险",
-        "attractive": "波兰推主权测试防AI依赖",
-        "minimal": "波兰技术主权AI风险",
+        "attractive": "波兰推主权测试保IT独立",
+        "minimal": "波兰技术主权",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing digital shield with a Polish flag pattern floating above a city skyline, clean geometric lines, blue and white gradient, soft shadows, centered composition, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized European Union flag with a central glowing shield icon, surrounded by floating digital chains breaking apart, clean geometric lines, deep blue and silver gradient, soft ambient light, modern flat style."
     },
     {
       "id": "xhqcankao_29792",
@@ -1503,11 +1507,11 @@
       "title": "微软发布代码生成模型",
       "title_options": {
         "conclusion": "微软发布代码生成模型",
-        "attractive": "AI自动生成代码，效率翻倍",
-        "minimal": "微软新模型代码生成",
+        "attractive": "AI自动写代码，成本更低",
+        "minimal": "微软智能体时代",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A human hand typing on a laptop keyboard, glowing blue code lines float upward from screen, forming abstract geometric shapes, clean white background, soft cyan-blue gradient, flat vector style, centered composition, subtle shadows."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A developer's hand typing on a keyboard, abstract code lines floating upward from a laptop screen, transforming into a glowing cube, soft blue and white gradient, clean geometric shapes, centered composition, subtle shadows, modern flat style."
     },
     {
       "id": "zaihuapd_41721",
@@ -1535,10 +1539,11 @@
       "title": "孙正义再成亚洲首富",
       "title_options": {
         "conclusion": "孙正义再成亚洲首富",
-        "attractive": "AI押注助孙正义登顶",
-        "minimal": "孙正义资产千亿美元"
+        "attractive": "AI押注助孙正义逆袭",
+        "minimal": "孙正义资产千亿美元",
+        "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A silhouette of a man in a suit standing on a glowing upward arrow, surrounded by floating AI chip icons and a stylized ARM logo, clean geometric lines, blue and gold gradient background, soft ambient light, centered composition, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A silhouette figure in a suit stands on a glowing upward arrow, surrounded by floating circuit board patterns and AI chip icons, clean geometric shapes, blue and gold gradient background, soft ambient light, centered composition, modern flat style."
     },
     {
       "id": "xhqcankao_29791",
@@ -1563,14 +1568,14 @@
       ],
       "url": "https://t.me/xhqcankao/29791",
       "scraped_at": "2026-06-03T09:00:37.441963",
-      "title": "Anthropic神话模型扩测",
+      "title": "Anthropic模型扩测150家",
       "title_options": {
-        "conclusion": "Anthropic神话模型扩测",
+        "conclusion": "Anthropic模型扩测150家",
         "attractive": "漏洞发现速度提升十倍",
-        "minimal": "神话模型扩测",
+        "minimal": "Anthropic模型扩测",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue digital globe with interconnected nodes, surrounded by abstract shield icons and scanning lines, clean geometric shapes, dark background with cyan highlights, centered composition, flat vector style"
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing digital network map with 150 nodes spreading across a dark globe, a central AI core pulsing in cyan-blue, abstract power grid lines and medical cross icons embedded in clean geometric shapes, white-blue gradient background, flat minimal style, soft ambient light."
     },
     {
       "id": "xhqcankao_29790",
@@ -1594,11 +1599,11 @@
       "title": "特朗普签AI行政令",
       "title_options": {
         "conclusion": "特朗普签AI行政令",
-        "attractive": "企业须提前开放AI",
+        "attractive": "企业须提前开放模型",
         "minimal": "AI行政令",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized hand signing a digital document on a futuristic desk, floating AI model icons above, clean geometric shapes, blue-gray gradient background, soft ambient light, flat vector style, centered composition, subtle grid lines."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized human hand signing a digital document with a glowing pen, a transparent AI brain icon floating above, clean geometric lines, monochrome blue palette, soft gradient background, centered composition, flat vector style, subtle shadow effects."
     },
     {
       "id": "xhqcankao_29789",
@@ -1623,10 +1628,10 @@
       "title_options": {
         "conclusion": "OpenAI推6款Codex插件",
         "attractive": "AI上岗，股票研究也能干",
-        "minimal": "AI上岗，Codex插件",
+        "minimal": "OpenAI Codex插件",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. Six glowing Codex plugin icons floating in a circle around a central AI interface, abstract data streams connecting to stock charts and design tools, clean geometric shapes, blue and white gradient background, soft ambient light, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. Six glowing Codex plugin icons floating in a circle around a central AI core, sleek humanoid robot hand reaching toward a stock market chart, minimalist office desk with creative tools, blue and white gradient background, clean lines, soft shadows, modern flat style."
     },
     {
       "id": "zaihuapd_41719",
@@ -1663,10 +1668,10 @@
       "title_options": {
         "conclusion": "特朗普签AI行政令",
         "attractive": "AI模型审查期缩至30天",
-        "minimal": "AI行政令自愿审查",
+        "minimal": "AI行政令 自愿审查",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized presidential hand signing a document, abstract AI chip floating above, clean lines, blue and white palette, centered composition, soft shadows, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized presidential hand signing a digital document, floating AI brain icon above, clean geometric lines, monochrome blue-gray palette, soft ambient light, isolated on white background, flat vector style."
     },
     {
       "id": "zaihuapd_41718",
@@ -1691,14 +1696,14 @@
       ],
       "url": "https://t.me/zaihuapd/41718",
       "scraped_at": "2026-06-03T00:00:34.346952",
-      "title": "农村老人月入不足千元",
+      "title": "2.6亿农村人月入不足千元",
       "title_options": {
-        "conclusion": "农村老人月入不足千元",
-        "attractive": "2.6亿人月入不足千元",
+        "conclusion": "2.6亿农村人月入不足千元",
+        "attractive": "农村老人月入250元如何养老",
         "minimal": "农村老人养老困境",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. An elderly farmer bent over a field, thin hands gripping a hoe, empty rice bowl beside worn shoes, pale gray sky, muted earth tones, solitary figure, vast empty land, clean lines, flat colors, soft shadows."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. An elderly farmer bent over a barren field, thin hands gripping a worn hoe, empty rice bowl overturned nearby, pale gray sky, muted earth tones, simple geometric shapes, solitary figure, soft shadows, flat style."
     },
     {
       "id": "zaihuapd_41717",
@@ -1710,14 +1715,14 @@
       "source_links": [],
       "url": "https://t.me/zaihuapd/41717",
       "scraped_at": "2026-06-03T00:00:34.346310",
-      "title": "英伟达复产RTX 3060 8GB",
+      "title": "英伟达复产RTX3060",
       "title_options": {
-        "conclusion": "英伟达复产RTX 3060 8GB",
-        "attractive": "RTX 3060 8GB三月回归",
-        "minimal": "英伟达 RTX 3060 复产",
+        "conclusion": "英伟达复产RTX3060",
+        "attractive": "8GB版RTX3060回归",
+        "minimal": "RTX3060复产",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek graphics card floating in a dark void, glowing blue circuit lines, geometric cooling fan, subtle green accents, clean flat shapes, soft gradient background, centered composition, cool metallic tones, low-poly style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek graphics card emerging from a factory assembly line, clean geometric shapes, cool blue-gray metallic tones, subtle glowing green accents, soft ambient light, centered composition, flat minimal style, empty dark background."
     },
     {
       "id": "xhqcankao_29788",
@@ -1738,10 +1743,10 @@
       "title_options": {
         "conclusion": "美唯一铀工厂扩产50%",
         "attractive": "美国铀产能缺口扩大",
-        "minimal": "铀工厂扩建",
+        "minimal": "铀工厂扩建50%",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A single gas centrifuge facility in a New Mexico desert landscape, expanding with new modular buildings, clean geometric lines, cool blue-gray and warm sand tones, low-angle view showing construction cranes and concentric circular patterns, soft ambient lighting, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A single cylindrical centrifuge tower glowing with cool blue light, surrounded by concentric white rings, expanding outward, clean geometric lines, dark grey background with soft blue gradient, subtle metallic reflections, modern flat style, industrial precision."
     },
     {
       "id": "zaihuapd_41716",
@@ -1766,14 +1771,14 @@
       ],
       "url": "https://t.me/zaihuapd/41716",
       "scraped_at": "2026-06-03T00:00:34.345717",
-      "title": "马尔代夫拟禁16岁以下用社交平台",
+      "title": "马尔代夫拟禁16岁以下用社媒",
       "title_options": {
-        "conclusion": "马尔代夫拟禁16岁以下用社交平台",
-        "attractive": "16岁以下禁用高风险社交平台",
-        "minimal": "马尔代夫青少年社交禁令",
+        "conclusion": "马尔代夫拟禁16岁以下用社媒",
+        "attractive": "16岁以下禁用高风险社媒",
+        "minimal": "马尔代夫青少年社媒禁令",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized island silhouette with a barrier gate over a smartphone, surrounded by ocean waves, glowing red warning symbols on the screen, soft blue and white gradient background, clean geometric shapes, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized island silhouette with a barrier gate symbol, a child figure standing behind it, social media app icons fading into mist, ocean waves, soft blue-gray gradient, clean geometric shapes, flat minimal style, muted teal and white tones."
     },
     {
       "id": "xhqcankao_29787",
@@ -1790,14 +1795,14 @@
       ],
       "url": "https://t.me/xhqcankao/29787",
       "scraped_at": "2026-06-03T00:00:37.181353",
-      "title": "中国人造钻石成AI热潮赢家",
+      "title": "中国人造钻石成AI芯片散热材料",
       "title_options": {
-        "conclusion": "中国人造钻石成AI热潮赢家",
-        "attractive": "钻石替代铜铝成芯片散热器",
-        "minimal": "人造钻石 AI 芯片散热",
+        "conclusion": "中国人造钻石成AI芯片散热材料",
+        "attractive": "钻石替代铜铝，AI芯片散热新宠",
+        "minimal": "人造钻石 AI散热",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing synthetic diamond wafer floating above a microchip, cool blue and white gradient background, clean geometric lines, abstract heat dissipation waves radiating from the diamond, sleek futuristic hardware, centered composition, soft lighting, flat minimal style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing synthetic diamond wafer acting as a heat sink on an AI chip, cool blue and white gradient, clean geometric lines, abstract circuit board background, centered composition, soft ambient light, high-tech atmosphere."
     },
     {
       "id": "xhqcankao_29786",
@@ -1814,14 +1819,14 @@
       ],
       "url": "https://t.me/xhqcankao/29786",
       "scraped_at": "2026-06-03T00:00:37.180956",
-      "title": "联发科扩招AI业务",
+      "title": "联发科扩招AI人才",
       "title_options": {
-        "conclusion": "联发科扩招AI业务",
+        "conclusion": "联发科扩招AI人才",
         "attractive": "AI芯片订单已至2030",
         "minimal": "联发科AI招聘",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A microchip with glowing blue circuits being lifted by a robotic arm, surrounded by floating data particles, clean geometric shapes, dark navy background with soft cyan highlights, centered composition, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized microchip with a glowing human brain embedded at its center, surrounded by floating geometric hiring symbols, clean lines, cool blue and white gradient, soft shadows, modern flat style."
     },
     {
       "id": "zaihuapd_41715",
@@ -1849,11 +1854,11 @@
       "title": "英特尔继续支持DDR4",
       "title_options": {
         "conclusion": "英特尔继续支持DDR4",
-        "attractive": "旧内存技术缓解PC涨价",
-        "minimal": "英特尔DDR4支持",
+        "attractive": "内存涨价，英特尔保旧",
+        "minimal": "英特尔支持DDR4",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized DDR4 memory module beside a Raptor Lake CPU on a circuit board, clean geometric shapes, muted blue-gray palette, soft ambient lighting, centered composition, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized DDR4 memory module beside a simplified CPU chip, clean geometric shapes, muted blue-gray palette, soft gradient background, balanced composition, subtle reflections, flat vector style."
     },
     {
       "id": "xhqcankao_29785",
@@ -1874,14 +1879,14 @@
       ],
       "url": "https://t.me/xhqcankao/29785",
       "scraped_at": "2026-06-03T00:00:37.180572",
-      "title": "SK海力士五年晶圆产能翻倍",
+      "title": "SK海力士五年产能翻倍",
       "title_options": {
-        "conclusion": "SK海力士五年晶圆产能翻倍",
-        "attractive": "全球晶圆短缺或持续至2030",
-        "minimal": "SK海力士产能翻倍",
+        "conclusion": "SK海力士五年产能翻倍",
+        "attractive": "晶圆短缺持续到2030",
+        "minimal": "SK海力士扩产",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A silicon wafer doubling into two stacked wafers, clean geometric lines, blue and silver gradient, centered composition, soft ambient light, flat minimal style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing semiconductor wafer doubling in size, clean geometric lines, blue and silver gradient, floating in a dark void, subtle light reflections, modern flat style, centered composition, soft shadows."
     },
     {
       "id": "xhqcankao_29784",
@@ -1901,11 +1906,11 @@
       "title": "老虎国际暂停境内新开仓",
       "title_options": {
         "conclusion": "老虎国际暂停境内新开仓",
-        "attractive": "老虎国际6月12日起暂停加仓",
+        "attractive": "6月12日起境内禁加仓",
         "minimal": "老虎国际暂停新开仓",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A tiger-shaped stock market symbol being locked inside a transparent cage, with a downward-trending red line graph beside it, clean geometric shapes, muted blue-gray and white palette, soft ambient lighting, flat vector style, centered composition."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A tiger statue with a closed padlock on its chest, standing in an empty white room, a single red downward arrow above its head, clean geometric lines, cool blue-gray gradient, soft ambient light, flat vector style."
     },
     {
       "id": "zaihuapd_41714",
@@ -1933,11 +1938,10 @@
       "title": "老虎国际暂停境内新开仓",
       "title_options": {
         "conclusion": "老虎国际暂停境内新开仓",
-        "attractive": "6月12日起境内加仓受限",
-        "minimal": "老虎国际暂停加仓",
-        "best": "conclusion"
+        "attractive": "6月12日起禁加仓交易",
+        "minimal": "老虎国际暂停加仓"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A hand pressing a pause button over a globe, stock chart lines fading, closed door with a lock symbol, blue-gray gradient, clean geometric shapes, soft shadows, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A hand pressing a stop button on a glowing interface, a downward arrow icon crossed out, a closed laptop on a desk, empty trading charts fading to gray, blue and white gradient background, clean geometric shapes, soft shadows, modern flat style."
     },
     {
       "id": "xhqcankao_29783",
@@ -1954,14 +1958,14 @@
       ],
       "url": "https://t.me/xhqcankao/29783",
       "scraped_at": "2026-06-02T21:01:00.291507",
-      "title": "黄仁勋称迈威尔将达万亿",
+      "title": "黄仁勋称迈威尔为下家万亿美元公司",
       "title_options": {
-        "conclusion": "黄仁勋称迈威尔将达万亿",
-        "attractive": "黄仁勋钦点下一家万亿公司",
-        "minimal": "黄仁勋 迈威尔 万亿",
+        "conclusion": "黄仁勋称迈威尔为下家万亿美元公司",
+        "attractive": "黄仁勋钦点下一家万亿美元公司",
+        "minimal": "黄仁勋 迈威尔 万亿美元",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. Two male executives shaking hands on a futuristic stage, glowing fiber optic cables connecting in the background, clean geometric lines, cool blue and cyan gradient, soft ambient light, centered composition, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. Two abstract figures standing on a stage, one pointing toward a glowing network node, fiber optic lines connecting server racks, clean geometric shapes, cool blue and cyan gradient, soft ambient light, empty dark background, modern flat style."
     },
     {
       "id": "zaihuapd_41713",
@@ -1990,10 +1994,10 @@
       "title_options": {
         "conclusion": "中国电三轮海外爆单",
         "attractive": "欧美售价3000-6000美元",
-        "minimal": "电三轮海外热销",
+        "minimal": "电三轮海外爆单",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. An electric tricycle in a vast wheat field, a farmer standing beside it, clean geometric shapes, muted earth tones and soft blue sky, flat vector style, simple composition, subtle sunlight."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek electric tricycle in a wheat field, a farmer standing beside it, clean geometric lines, muted green and beige tones, flat vector style, soft sunlight, open sky, simple composition."
     },
     {
       "id": "xhqcankao_29782",
@@ -2010,14 +2014,14 @@
       ],
       "url": "https://t.me/xhqcankao/29782",
       "scraped_at": "2026-06-02T21:01:00.291089",
-      "title": "安谋称美难阻对华CPU出口",
+      "title": "安谋称美国难阻对华CPU出口",
       "title_options": {
-        "conclusion": "安谋称美难阻对华CPU出口",
-        "attractive": "CPU如石油，美禁令难堵",
-        "minimal": "美对华CPU出口限制",
+        "conclusion": "安谋称美国难阻对华CPU出口",
+        "attractive": "CPU如石油，对华出口难禁",
+        "minimal": "安谋：CPU对华出口难阻",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A microchip shaped like a crude oil drop, floating above a globe centered on China, surrounded by scattered CPU units, clean geometric lines, cool blue-gray monochrome palette, soft gradient background, flat vector style, subtle grid lines."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A CPU chip resembling a floating oil drop, surrounded by abstract circuit lines and a globe silhouette, a faint barrier breaking near China, cool blue-gray gradient, clean geometric shapes, soft ambient light, flat minimal style."
     },
     {
       "id": "zaihuapd_41712",
@@ -2045,11 +2049,11 @@
       "title": "美机构X账号互动量激增",
       "title_options": {
         "conclusion": "美机构X账号互动量激增",
-        "attractive": "特朗普任内X账号互动翻倍",
-        "minimal": "机构X账号互动增长",
+        "attractive": "特朗普任内政府账号互动翻倍",
+        "minimal": "X账号互动量增长",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek government building icon with a glowing X symbol above, digital interaction arrows pulsing upward, clean geometric lines, monochrome blue-gray palette, soft ambient light, flat vector style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek government building facade with a glowing X-shaped icon above, blue-white gradient background, clean lines, flat style. A bar chart showing a sharp upward spike in front, soft shadows, minimal details, centered composition, modern digital aesthetic."
     },
     {
       "id": "xhqcankao_29781",
@@ -2069,11 +2073,11 @@
       "title": "俄高官手机发现间谍软件",
       "title_options": {
         "conclusion": "俄高官手机发现间谍软件",
-        "attractive": "你的手机被监控了吗",
+        "attractive": "俄高官手机被植入间谍软件",
         "minimal": "俄高官手机间谍软件",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing smartphone held by a dark silhouette, red spyware lines radiating from the screen, abstract surveillance nodes, muted gray-blue palette, clean geometric shapes, flat lighting, isolated on white background."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone glowing with a faint red warning icon, cracked screen revealing circuit traces, surrounded by invisible signal waves, dark blue and gray palette, clean geometric shapes, low angle view, cold metallic tones, subtle data stream lines fading into shadow."
     },
     {
       "id": "zaihuapd_41720",
@@ -2101,11 +2105,11 @@
       "title": "OpenAI推出Sites功能",
       "title_options": {
         "conclusion": "OpenAI推出Sites功能",
-        "attractive": "Codex将想法变应用",
-        "minimal": "Sites交互应用",
+        "attractive": "Codex将想法变交互应用",
+        "minimal": "Sites：Codex转应用",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek human hand gesturing over a glowing digital interface, abstract website elements emerging as floating geometric shapes, clean lines, soft blue-white gradient, centered composition, minimal shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing digital interface transforming a sketch into a 3D interactive website, floating URL links, clean geometric shapes, blue-white gradient background, centered composition, soft shadows, modern flat style."
     },
     {
       "id": "zaihuapd_41734",
@@ -2130,16 +2134,16 @@
       ],
       "url": "https://t.me/zaihuapd/41734",
       "scraped_at": "2026-06-03T17:00:30.779257",
-      "title": "Quick Share兼容AirDrop",
+      "title": "Quick Share兼容AirDro…",
       "title_options": {
-        "conclusion": "Quick Share兼容AirDrop",
-        "attractive": "多款安卓机型支持",
-        "minimal": "Quick Share AirDrop",
+        "conclusion": "Quick Share兼容AirDro…",
+        "attractive": "你的安卓机支持AirDrop了",
+        "minimal": "Quick Share AirDrop…",
         "best": "conclusion"
       },
-      "image_prompt": "Minimalist tech illustration, NO TEXT. Two sleek smartphones floating in mid-air, one Android and one iPhone, exchanging a glowing blue data packet between them, clean geometric shapes, soft blue-white gradient background, centered composition, minimal shadows, modern flat style."
+      "image_prompt": "Minimalist tech illustration, NO TEXT. Two sleek smartphones floating in mid-air, one Android and one Apple, exchanging a glowing digital data packet between them, clean geometric shapes, soft blue and white gradient background, centered composition, subtle light beams connecting the devices, modern flat style."
     }
   ],
   "count": 76,
-  "updated_at": "2026-06-03T23:18:02.956009"
+  "updated_at": "2026-06-03T23:19:22.869229"
 }
