@@ -1,6 +1,74 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29800",
+      "channel": "xhqcankao",
+      "text": "亚马逊因Ring面部识别功能面临集体诉讼亚马逊公司于周一被起诉，原因是其Ring门铃摄像头涉嫌侵犯隐私。这起由弗吉尼亚州居民查尔斯·西格瓦尔特在西雅图提起的集体诉讼称，Ring的 “熟悉面孔” 功能在未经同意的情况下存储了路人的图像。“熟悉面孔” 允许Ring用户通过AI面部识别，来识别经常来他们家的人员。比如家庭成员、邮递员等常客来到门口，该设备将能够识别他们，并发出更具体的通知，例如 “爸爸在门口”，而不是 “有人在门口”。用户必须选择启用这项功能，但隐私倡导者指出，路过这些门铃的人并未同意这些面部识别扫描。诉讼称，“数百万其他美国人路过Ring安全摄像头，并在不知情的情况下被收集了其面部识别信息。”——Techcrunch",
+      "clean_text": "亚马逊因Ring面部识别功能面临集体诉讼亚马逊公司于周一被起诉，原因是其Ring门铃摄像头涉嫌侵犯隐私。这起由弗吉尼亚州居民查尔斯·西格瓦尔特在西雅图提起的集体诉讼称，Ring的 “熟悉面孔” 功能在未经同意的情况下存储了路人的图像。“熟悉面孔” 允许Ring用户通过AI面部识别，来识别经常来他们家的人员。比如家庭成员、邮递员等常客来到门口，该设备将能够识别他们，并发出更具体的通知，例如 “爸爸在门口”，而不是 “有人在门口”。用户必须选择启用这项功能，但隐私倡导者指出，路过这些门铃的人并未同意这些面部识别扫描。诉讼称，“数百万其他美国人路过Ring安全摄像头，并在不知情的情况下被收集了其面部识别信息。”——Techcrunch",
+      "datetime": "2026-06-03T04:31:11+00:00",
+      "views": "1.14K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29800",
+      "scraped_at": "2026-06-03T13:00:53.855430"
+    },
+    {
+      "id": "zaihuapd_41726",
+      "channel": "zaihuapd",
+      "text": "微软发布第二代量子芯片 Majorana 2，商用目标提前至 2029 年微软正式发布第二代拓扑量子芯片 Majorana 2，并宣布将实现商用量子计算机的目标时间缩短一半至 2029 年。该芯片通过引入铅超导体材料，将量子比特的可靠性提升了 1000 倍，其平均寿命从上一代的毫秒级大幅延长至 20 秒，部分实例最高可达一分钟。此次研发得到了 Microsoft Discovery 智能体 AI 平台的协助，该平台目前已正式开放。尽管物理学界对微软拓扑量子路线的实验数据仍存争议，但微软表示其研发过程正接受美国国防高级研究计划局（DARPA）的持续审计，以确保技术路径的可靠性。Microsoft|The Verge|Bloomberg|Reuters·备用频道·",
+      "clean_text": "📱微软发布第二代量子芯片 Majorana 2，商用目标提前至 2029 年微软正式发布第二代拓扑量子芯片 Majorana 2，并宣布将实现商用量子计算机的目标时间缩短一半至 2029 年。该芯片通过引入铅超导体材料，将量子比特的可靠性提升了 1000 倍，其平均寿命从上一代的毫秒级大幅延长至 20 秒，部分实例最高可达一分钟。此次研发得到了 Microsoft Discovery 智能体 AI 平台的协助，该平台目前已正式开放。尽管物理学界对微软拓扑量子路线的实验数据仍存争议，但微软表示其研发过程正接受美国国防高级研究计划局（DARPA）的持续审计，以确保技术路径的可靠性。Microsoft|The Verge|Bloomberg|Reuters·备用频道",
+      "datetime": "2026-06-03T04:17:21+00:00",
+      "views": "3.7K",
+      "source_links": [
+        {
+          "text": "Microsoft",
+          "url": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/"
+        },
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build"
+        },
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-new-quantum-chip-aiming-for-useful-machine-in-2029"
+        },
+        {
+          "text": "Reuters",
+          "url": "https://www.reuters.com/business/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2026-06-02/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41726",
+      "scraped_at": "2026-06-03T13:00:52.642719"
+    },
+    {
+      "id": "xhqcankao_29799",
+      "channel": "xhqcankao",
+      "text": "美军“越狱”自家武器系统以应对无人机威胁美国陆军防空军官们透露，中东驻军用于预警无人机和导弹来袭的雷达无法与拦截系统直接互通。结果就是，陆军每天需要多达20名士兵紧盯屏幕、监控潜在威胁。但陆军官员表示，最近几周他们找到了破局之道：说服防务承包商相互共享数据。由于担心向竞争对手泄露知识产权，这些公司长期以来对此极为抗拒。军方通过解除武器和雷达系统上的软件限制解决了这一问题。最终成功整合了70多个系统，将几十个屏幕的繁杂信息汇聚成一幅单一战场全景图。为了让士兵能在单一屏幕上获得更清晰的战场画面，工程师们不断 “破解” 雷达、拦截器、传感器及其他系统的API，从而绕过系统自带的限制。——华尔街日报",
+      "clean_text": "美军“越狱”自家武器系统以应对无人机威胁美国陆军防空军官们透露，中东驻军用于预警无人机和导弹来袭的雷达无法与拦截系统直接互通。结果就是，陆军每天需要多达20名士兵紧盯屏幕、监控潜在威胁。但陆军官员表示，最近几周他们找到了破局之道：说服防务承包商相互共享数据。由于担心向竞争对手泄露知识产权，这些公司长期以来对此极为抗拒。军方通过解除武器和雷达系统上的软件限制解决了这一问题。最终成功整合了70多个系统，将几十个屏幕的繁杂信息汇聚成一幅单一战场全景图。为了让士兵能在单一屏幕上获得更清晰的战场画面，工程师们不断 “破解” 雷达、拦截器、传感器及其他系统的API，从而绕过系统自带的限制。——华尔街日报",
+      "datetime": "2026-06-03T04:03:52+00:00",
+      "views": "2.28K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/army-jailbreaks-its-own-weapon-systems-to-counter-drone-threats-08d9b5ce?mod=cn_hp_lead_pos5"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29799",
+      "scraped_at": "2026-06-03T13:00:53.855048"
+    },
+    {
       "id": "zaihuapd_41725",
       "channel": "zaihuapd",
       "text": "Nous Research 发布 Hermes Desktop 公开预览版Nous Research 推出 Hermes Desktop，将 Hermes Agent 带到本地桌面运行。该产品曾在 Jensen 的 GTC 主题演讲中首次演示，现已开放公开预览。用户可在个人电脑上原生使用 Hermes 的各项功能。Nous Research·备用频道·",
@@ -1261,6 +1329,6 @@
       "scraped_at": "2026-06-03T02:00:09.953577"
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-03T12:56:10.912882"
+  "count": 68,
+  "updated_at": "2026-06-03T13:01:16.924293"
 }
