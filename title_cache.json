@@ -731,5 +731,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-03T22:34:56.865815"
+  },
+  "zaihuapd_41752": {
+    "ai_title": "HTTP/2 Bomb攻击多款服务器",
+    "title_options": {
+      "conclusion": "HTTP/2 Bomb攻击多款服务器",
+      "attractive": "100Mbps网络秒杀服务器",
+      "minimal": "HTTP/2 Bomb 拒绝服务",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-03T23:05:39.527473"
+  },
+  "xhqcankao_29821": {
+    "ai_title": "豆包将推专业版",
+    "title_options": {
+      "conclusion": "豆包将推专业版",
+      "attractive": "免费功能不变",
+      "minimal": "豆包专业版",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-03T23:05:40.367171"
+  },
+  "zaihuapd_41751": {
+    "ai_title": "知乎首季扭亏为盈",
+    "title_options": {
+      "conclusion": "知乎首季扭亏为盈",
+      "attractive": "知乎净利增147%",
+      "minimal": "知乎扭亏净利1716万",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-03T23:05:41.274318"
+  },
+  "xhqcankao_29820": {
+    "ai_title": "纽时出版人痛斥AI窃取知识产权",
+    "title_options": {
+      "conclusion": "纽时出版人痛斥AI窃取知识产权",
+      "attractive": "AI窃取内容，新闻业沉默",
+      "minimal": "纽时AI窃取知识产权",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-03T23:05:42.237384"
   }
 }

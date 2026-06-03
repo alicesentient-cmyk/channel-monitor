@@ -1,6 +1,118 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41752",
+      "channel": "zaihuapd",
+      "text": "HTTP/2 Bomb 可远程拖垮多款主流服务器研究人员披露名为 HTTP/2 Bomb 的远程拒绝服务攻击。，影响 NGINX、Apache HTTPD、Microsoft IIS、Envoy 和 Cloudflare Pingora 的默认 HTTP/2 配置。攻击把 HPACK 压缩放大与类似 Slowloris 的连接占用结合起来，可持续占住服务器内存。文中称，100 Mbps 家用网络可在数秒内让部分服务器不可用，Apache httpd 和 Envoy 单个客户端约 20 秒可占住 32 GB 内存。nginx 已在 1.29.8+ 加入修复，Apache 修复在 mod_http2 v2.0.41，IIS、Envoy 和 Pingora 暂无补丁。Calif|The Hacker News·备用频道·",
+      "clean_text": "HTTP/2 Bomb 可远程拖垮多款主流服务器研究人员披露名为 HTTP/2 Bomb 的远程拒绝服务攻击。，影响 NGINX、Apache HTTPD、Microsoft IIS、Envoy 和 Cloudflare Pingora 的默认 HTTP/2 配置。攻击把 HPACK 压缩放大与类似 Slowloris 的连接占用结合起来，可持续占住服务器内存。文中称，100 Mbps 家用网络可在数秒内让部分服务器不可用，Apache httpd 和 Envoy 单个客户端约 20 秒可占住 32 GB 内存。nginx 已在 1.29.8+ 加入修复，Apache 修复在 mod_http2 v2.0.41，IIS、Envoy 和 Pingora 暂无补丁。Calif|The Hacker News·备用频道",
+      "datetime": "2026-06-03T15:00:21+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Calif",
+          "url": "https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb"
+        },
+        {
+          "text": "The Hacker News",
+          "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41752",
+      "scraped_at": "2026-06-03T23:00:50.492850",
+      "title": "HTTP/2 Bomb攻击多款服务器",
+      "title_options": {
+        "conclusion": "HTTP/2 Bomb攻击多款服务器",
+        "attractive": "100Mbps网络秒杀服务器",
+        "minimal": "HTTP/2 Bomb 拒绝服务",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29821",
+      "channel": "xhqcankao",
+      "text": "豆包计划推出专业版 日常使用功能保持免费6月3日，豆包发布《关于豆包即将推出专业版的说明》：一、针对专业人群的生产力需求，豆包计划推出豆包专业版，将包含软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等专业服务。二、对于广大用户日常使用的豆包功能，包含搜索问答、写作生图、以及语音和视频对话等，将保持目前的免费服务，保证用户使用体验和习惯不受影响。豆包会不断为免费用户提供新的模型、能力和更好的体验。专业版的服务，也将在一定额度内免费。三、豆包专业版目前还在测试阶段，正式上线时，会通过官方渠道发布完整信息。——财联社",
+      "clean_text": "豆包计划推出专业版 日常使用功能保持免费6月3日，豆包发布《关于豆包即将推出专业版的说明》：一、针对专业人群的生产力需求，豆包计划推出豆包专业版，将包含软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等专业服务。二、对于广大用户日常使用的豆包功能，包含搜索问答、写作生图、以及语音和视频对话等，将保持目前的免费服务，保证用户使用体验和习惯不受影响。豆包会不断为免费用户提供新的模型、能力和更好的体验。专业版的服务，也将在一定额度内免费。三、豆包专业版目前还在测试阶段，正式上线时，会通过官方渠道发布完整信息。——财联社",
+      "datetime": "2026-06-03T14:33:31+00:00",
+      "views": "1.36K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2389865?os=&amp;sv=8.7.9&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29821",
+      "scraped_at": "2026-06-03T23:00:52.778882",
+      "title": "豆包将推专业版",
+      "title_options": {
+        "conclusion": "豆包将推专业版",
+        "attractive": "免费功能不变",
+        "minimal": "豆包专业版",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41751",
+      "channel": "zaihuapd",
+      "text": "知乎 2026 年首季扭亏为盈，经调整净利润 1716 万元知乎发布 2026 年第一季度财报，当季实现营收 6.52 亿元，环比增长 1.3%。在盈利表现上，经调整净利润为 1716 万元，同比增长 147.2%，成功实现环比扭亏为盈。截至季度末，知乎持有的现金及等价物等资产总额为 44.9 亿元。业务结构方面，付费内容及 IP 运营已成为核心支柱，收入达 4.02 亿元，营收占比超六成。运营数据也同步增长，月均订阅会员达到 1310 万，日活跃用户时长及互动率均有提升。知乎表示，未来将继续推进 AI 与业务的融合，并专注于提升长期经营盈利能力。新浪科技·备用频道·",
+      "clean_text": "知乎 2026 年首季扭亏为盈，经调整净利润 1716 万元知乎发布 2026 年第一季度财报，当季实现营收 6.52 亿元，环比增长 1.3%。在盈利表现上，经调整净利润为 1716 万元，同比增长 147.2%，成功实现环比扭亏为盈。截至季度末，知乎持有的现金及等价物等资产总额为 44.9 亿元。业务结构方面，付费内容及 IP 运营已成为核心支柱，收入达 4.02 亿元，营收占比超六成。运营数据也同步增长，月均订阅会员达到 1310 万，日活跃用户时长及互动率均有提升。知乎表示，未来将继续推进 AI 与业务的融合，并专注于提升长期经营盈利能力。新浪科技·备用频道",
+      "datetime": "2026-06-03T14:30:21+00:00",
+      "views": "3.09K",
+      "source_links": [
+        {
+          "text": "新浪科技",
+          "url": "https://finance.sina.com.cn/tob/2026-06-03/doc-iniacnuq4159117.shtml"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41751",
+      "scraped_at": "2026-06-03T23:00:50.492353",
+      "title": "知乎首季扭亏为盈",
+      "title_options": {
+        "conclusion": "知乎首季扭亏为盈",
+        "attractive": "知乎净利增147%",
+        "minimal": "知乎扭亏净利1716万",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29820",
+      "channel": "xhqcankao",
+      "text": "​纽约时报出版人痛斥AI公司窃取知识产权第77届世界新闻出版协会（WAN-IFRA）世界新闻媒体年会在法国马赛举行。纽约时报出版人萨兹柏格周一在会中痛斥人工智能公司 “大胆窃取知识产权”。根据萨兹柏格的演讲稿，“人工智能公司之所以能劫持公共舆论空间，是其AI产品以前所未见的规模，大胆窃取知识产权的原罪所造就。”“科技巨头在未获许可、未予补偿的情况下，掠夺性地挖掘新闻网站内容。”新闻业“面对AI革命领导公司的侵害，反应过于沉默、过于被动、过于分散。”萨兹柏格对此感到忧心，“未来愿意耗费大量资源，从事难度极高的原创新闻工作者，很快就会越来越少”。——法新社",
+      "clean_text": "​纽约时报出版人痛斥AI公司窃取知识产权第77届世界新闻出版协会（WAN-IFRA）世界新闻媒体年会在法国马赛举行。纽约时报出版人萨兹柏格周一在会中痛斥人工智能公司 “大胆窃取知识产权”。根据萨兹柏格的演讲稿，“人工智能公司之所以能劫持公共舆论空间，是其AI产品以前所未见的规模，大胆窃取知识产权的原罪所造就。”“科技巨头在未获许可、未予补偿的情况下，掠夺性地挖掘新闻网站内容。”新闻业“面对AI革命领导公司的侵害，反应过于沉默、过于被动、过于分散。”萨兹柏格对此感到忧心，“未来愿意耗费大量资源，从事难度极高的原创新闻工作者，很快就会越来越少”。——法新社",
+      "datetime": "2026-06-03T14:03:58+00:00",
+      "views": "2.18K",
+      "source_links": [
+        {
+          "text": "法新社",
+          "url": "https://hk.news.yahoo.com/share/82685ea6-f42a-3e55-a99b-adc0f05884be"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29820",
+      "scraped_at": "2026-06-03T23:00:52.778448",
+      "title": "纽时出版人痛斥AI窃取知识产权",
+      "title_options": {
+        "conclusion": "纽时出版人痛斥AI窃取知识产权",
+        "attractive": "AI窃取内容，新闻业沉默",
+        "minimal": "纽时AI窃取知识产权",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41750",
       "channel": "zaihuapd",
       "text": "调查称欧洲人对自动驾驶信任度偏低XPeng 一项覆盖欧洲六国、逾 5000 名受访者的调查显示，只有 13% 的欧洲人愿意乘坐没有驾驶员掌控的自动驾驶汽车；中国受访者这一比例为 70%。欧洲受访者中，53% 在 AI 接管驾驶或作出紧急决定时表示“很少或完全不信任”。但最多 53% 的驾驶者能接受自适应巡航、交通标志识别、车道保持等辅助功能。AutoExpress·备用频道·",
@@ -1924,33 +2036,6 @@
       }
     },
     {
-      "id": "xhqcankao_29780",
-      "channel": "xhqcankao",
-      "text": "存储涨价 运动相机鼻祖GoPro被逼入绝境最新迹象显示，飙升的存储芯片价格，正在成为压垮全球“运动相机鼻祖”GoPro的“最后一根稻草”……。根据周一最新提交的8-K补充文件，这家由Nicholas Woodman创立的公司已正式亮起 “无法持续经营” 的红灯，目前正四处奔走寻求紧急融资，以期在债务暴雷前避免违约的命运。该公司在最新文件中表示，目前其“对公司持续经营能力存在重大疑虑”。作为更新报告的一部分，该公司的独立审计机构普华永道在其审计意见中增加了一个解释性段落，强调了围绕GoPro持续经营能力的重大不确定性。该公司指出，导致这一披露的情况是在其于2026年3月12日提交原始年报之后才出现的。——财联社、彭博社",
-      "clean_text": "存储涨价 运动相机鼻祖GoPro被逼入绝境最新迹象显示，飙升的存储芯片价格，正在成为压垮全球“运动相机鼻祖”GoPro的“最后一根稻草”……。根据周一最新提交的8-K补充文件，这家由Nicholas Woodman创立的公司已正式亮起 “无法持续经营” 的红灯，目前正四处奔走寻求紧急融资，以期在债务暴雷前避免违约的命运。该公司在最新文件中表示，目前其“对公司持续经营能力存在重大疑虑”。作为更新报告的一部分，该公司的独立审计机构普华永道在其审计意见中增加了一个解释性段落，强调了围绕GoPro持续经营能力的重大不确定性。该公司指出，导致这一披露的情况是在其于2026年3月12日提交原始年报之后才出现的。——财联社、彭博社",
-      "datetime": "2026-06-02T11:04:31+00:00",
-      "views": "2.27K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2388158?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-01/gopro-warns-of-going-concern-risk-amid-ai-fueled-memory-crunch"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29780",
-      "scraped_at": "2026-06-02T20:01:03.796520",
-      "title": "存储涨价压垮GoPro",
-      "title_options": {
-        "conclusion": "存储涨价压垮GoPro",
-        "attractive": "GoPro亮起经营红灯",
-        "minimal": "GoPro存储涨价危机",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -2012,6 +2097,6 @@
       }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-03T23:00:32.035318"
+  "count": 77,
+  "updated_at": "2026-06-03T23:05:42.239492"
 }
