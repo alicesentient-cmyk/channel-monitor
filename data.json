@@ -1307,30 +1307,6 @@
       "scraped_at": "2026-06-02T16:00:34.571201"
     },
     {
-      "id": "zaihuapd_41707",
-      "channel": "zaihuapd",
-      "text": "TON 原生代币将更名为 GramTelegram 首席执行官 Pavel Durov 宣布，TON 网络的原生代币将更名为 Gram，恢复其最初白皮书中的名称。更名过渡期约为三周，区块链名称将继续保留为 TON。Durov 称，此举标志着该网络正开启“回归初心”的新篇章。该项目最初由 Telegram 于 2018 年发起，后因与美国 SEC 的法律纠纷于 2020 年停摆，随后由独立开发者接手推进。此次更名意味着项目在经历多年波折后，重新启用了最初的代币命名。Foresight News·备用频道·",
-      "clean_text": "✈️TON 原生代币将更名为 GramTelegram 首席执行官 Pavel Durov 宣布，TON 网络的原生代币将更名为 Gram，恢复其最初白皮书中的名称。更名过渡期约为三周，区块链名称将继续保留为 TON。Durov 称，此举标志着该网络正开启“回归初心”的新篇章。该项目最初由 Telegram 于 2018 年发起，后因与美国 SEC 的法律纠纷于 2020 年停摆，随后由独立开发者接手推进。此次更名意味着项目在经历多年波折后，重新启用了最初的代币命名。Foresight News·备用频道",
-      "datetime": "2026-06-02T06:33:08+00:00",
-      "views": "3.32K",
-      "source_links": [
-        {
-          "text": "Foresight News",
-          "url": "https://foresightnews.pro/news/h5Detail/105554"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41707",
-      "scraped_at": "2026-06-02T15:00:49.165217"
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1379,6 +1355,6 @@
       "scraped_at": "2026-06-03T17:00:30.779257"
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-03T18:32:53.723819"
+  "count": 67,
+  "updated_at": "2026-06-03T18:37:58.438507"
 }
