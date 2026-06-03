@@ -1,756 +1,25 @@
 {
-  "zaihuapd_41750": {
-    "ai_title": "仅13%欧洲人信任自动驾驶",
-    "title_options": {
-      "conclusion": "仅13%欧洲人信任自动驾驶",
-      "attractive": "中国70%信任，欧洲仅13%",
-      "minimal": "欧洲自动驾驶信任度低",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:27.078311"
-  },
-  "xhqcankao_29819": {
-    "ai_title": "马克龙邀OpenAI CEO出席G7",
-    "title_options": {
-      "conclusion": "马克龙邀OpenAI CEO出席G7",
-      "attractive": "OpenAI CEO首次参加G7峰会",
-      "minimal": "马克龙邀奥尔特曼G7"
-    },
-    "generated_at": "2026-06-03T22:33:28.323639"
-  },
-  "zaihuapd_41749": {
-    "ai_title": "美教师工会呼吁限制小学AI",
-    "title_options": {
-      "conclusion": "美教师工会呼吁限制小学AI",
-      "attractive": "小学禁用AI？教师工会发声",
-      "minimal": "限制AI 课堂屏幕",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:29.399916"
-  },
-  "xhqcankao_29818": {
-    "ai_title": "欧盟AI数据中心计划受挫",
-    "title_options": {
-      "conclusion": "欧盟AI数据中心计划受挫",
-      "attractive": "两百亿欧元计划遇资金难题",
-      "minimal": "欧盟数据中心延误",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:30.431847"
-  },
-  "zaihuapd_41748": {
-    "ai_title": "豆包推专业版，日常免费",
-    "title_options": {
-      "conclusion": "豆包推专业版，日常免费",
-      "attractive": "专业版测试，日常免费",
-      "minimal": "豆包专业版",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:31.282536"
-  },
-  "xhqcankao_29817": {
-    "ai_title": "东陶加码半导体材料",
-    "title_options": {
-      "conclusion": "东陶加码半导体材料",
-      "attractive": "AI热催生陶瓷新需求",
-      "minimal": "东陶半导体支出过半",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:33.424555"
-  },
-  "zaihuapd_41743": {
-    "ai_title": "64GB内存成创作甜点",
-    "title_options": {
-      "conclusion": "64GB内存成创作甜点",
-      "attractive": "16GB瓶颈跌40%",
-      "minimal": "64GB甜点配置"
-    },
-    "generated_at": "2026-06-03T22:33:34.458737"
-  },
-  "zaihuapd_41742": {
-    "ai_title": "千问向第三方全面开放",
-    "title_options": {
-      "conclusion": "千问向第三方全面开放",
-      "attractive": "瑞幸等企业测试千问Agent",
-      "minimal": "千问开放Agent",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:35.301934"
-  },
-  "xhqcankao_29816": {
-    "ai_title": "谷歌买开发者代码训练AI",
-    "title_options": {
-      "conclusion": "谷歌买开发者代码训练AI",
-      "attractive": "你的代码能卖钱了",
-      "minimal": "谷歌购代码",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:36.480432"
-  },
-  "zaihuapd_41741": {
-    "ai_title": "谷歌允许网站退出AI搜索",
-    "title_options": {
-      "conclusion": "谷歌允许网站退出AI搜索",
-      "attractive": "网站可自主退出AI搜索",
-      "minimal": "谷歌AI搜索退出选项",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:37.290526"
-  },
-  "xhqcankao_29815": {
-    "ai_title": "张一鸣成亚洲第二大富豪",
-    "title_options": {
-      "conclusion": "张一鸣成亚洲第二大富豪",
-      "attractive": "身家928亿，超越安巴尼",
-      "minimal": "张一鸣亚洲第二",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:39.625167"
-  },
-  "zaihuapd_41740": {
-    "ai_title": "代理IP段遭封禁",
-    "title_options": {
-      "conclusion": "代理IP段遭封禁",
-      "attractive": "Vless协议被阻断",
-      "minimal": "代理服务阻断",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:40.658521"
-  },
-  "xhqcankao_29814": {
-    "ai_title": "特斯拉上海工厂5月交付量增39%",
-    "title_options": {
-      "conclusion": "特斯拉上海工厂5月交付量增39%",
-      "attractive": "特斯拉上海工厂交付量创2026年新高",
-      "minimal": "特斯拉上海工厂交付量增39%",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:41.859186"
-  },
-  "zaihuapd_41739": {
-    "ai_title": "日企推员工恋爱福利",
-    "title_options": {
-      "conclusion": "日企推员工恋爱福利",
-      "attractive": "超1500家企业用交友App",
-      "minimal": "日企恋爱福利App",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:42.838088"
-  },
-  "xhqcankao_29813": {
-    "ai_title": "印度Prime音乐将含广告",
-    "title_options": {
-      "conclusion": "印度Prime音乐将含广告",
-      "attractive": "Prime音乐免费听？广告来了",
-      "minimal": "印度Prime音乐广告",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:43.845662"
-  },
-  "zaihuapd_41738": {
-    "ai_title": "CMLink调整内地流量激活规则",
-    "title_options": {
-      "conclusion": "CMLink调整内地流量激活规则",
-      "attractive": "境外卡内地流量需提前激活",
-      "minimal": "CMLink激活规则变更",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:46.092366"
-  },
-  "xhqcankao_29812": {
-    "ai_title": "DeepSeek获500亿融资",
-    "title_options": {
-      "conclusion": "DeepSeek获500亿融资",
-      "attractive": "腾讯宁德时代投DeepSeek",
-      "minimal": "DeepSeek 500亿融资",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:46.935049"
-  },
-  "zaihuapd_41737": {
-    "ai_title": "美法院裁定特朗普关税违法",
-    "title_options": {
-      "conclusion": "美法院裁定特朗普关税违法",
-      "attractive": "10%全球关税被判无效",
-      "minimal": "特朗普关税违法",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:48.088936"
-  },
-  "xhqcankao_29811": {
-    "ai_title": "英国迫使谷歌改变AI摘要",
-    "title_options": {
-      "conclusion": "英国迫使谷歌改变AI摘要",
-      "attractive": "出版商获AI内容控制权",
-      "minimal": "谷歌AI摘要控制权",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:49.194895"
-  },
-  "xhqcankao_29810": {
-    "ai_title": "MacBook Neo首季出货110万台",
-    "title_options": {
-      "conclusion": "MacBook Neo首季出货110万台",
-      "attractive": "三周销量超M5和M5 Pro",
-      "minimal": "Neo出货110万台领先",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:50.394639"
-  },
-  "zaihuapd_41736": {
-    "ai_title": "SpaceX IPO定价135美元",
-    "title_options": {
-      "conclusion": "SpaceX IPO定价135美元",
-      "attractive": "史上最大IPO筹资750亿",
-      "minimal": "SpaceX IPO 135美元",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:52.432820"
-  },
-  "xhqcankao_29809": {
-    "ai_title": "X推视频评论功能",
-    "title_options": {
-      "conclusion": "X推视频评论功能",
-      "attractive": "发视频评论替代转发",
-      "minimal": "X视频评论",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:53.382747"
-  },
-  "zaihuapd_41733": {
-    "ai_title": "教育部严禁炒作高考状元",
-    "title_options": {
-      "conclusion": "教育部严禁炒作高考状元",
-      "attractive": "录取通知书回归一页纸",
-      "minimal": "高考规范招生宣传"
-    },
-    "generated_at": "2026-06-03T22:33:54.384204"
-  },
-  "xhqcankao_29808": {
-    "ai_title": "微软量子芯片可靠性提升千倍",
-    "title_options": {
-      "conclusion": "微软量子芯片可靠性提升千倍",
-      "attractive": "量子比特存续20秒，微软芯片突破",
-      "minimal": "微软量子芯片Majorana 2",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:55.652229"
-  },
-  "xhqcankao_29807": {
-    "ai_title": "黑客窃取Dashlane加密库",
-    "title_options": {
-      "conclusion": "黑客窃取Dashlane加密库",
-      "attractive": "20个用户密码库被盗",
-      "minimal": "Dashlane遭黑客攻击",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:56.796992"
-  },
-  "zaihuapd_41732": {
-    "ai_title": "特斯拉更新加密行车记录",
-    "title_options": {
-      "conclusion": "特斯拉更新加密行车记录",
-      "attractive": "你的特斯拉录像被加密了",
-      "minimal": "特斯拉加密行车记录",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:33:58.732528"
-  },
-  "xhqcankao_29806": {
-    "ai_title": "美国数据中心建设滞后",
-    "title_options": {
-      "conclusion": "美国数据中心建设滞后",
-      "attractive": "六成数据中心未开工",
-      "minimal": "数据中心瓶颈"
-    },
-    "generated_at": "2026-06-03T22:33:59.671719"
-  },
-  "zaihuapd_41731": {
-    "ai_title": "VSCode漏洞可窃取GitHub T…",
-    "title_options": {
-      "conclusion": "VSCode漏洞可窃取GitHub T…",
-      "attractive": "点击链接Token被盗",
-      "minimal": "VSCode漏洞 Token窃取",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:00.633847"
-  },
-  "xhqcankao_29805": {
-    "ai_title": "CMLink数据卡限制内地居民",
-    "title_options": {
-      "conclusion": "CMLink数据卡限制内地居民",
-      "attractive": "境外卡需提前激活",
-      "minimal": "CMLink 限制 内地",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:01.820958"
-  },
-  "xhqcankao_29804": {
-    "ai_title": "手机出货量预计降14%",
-    "title_options": {
-      "conclusion": "手机出货量预计降14%",
-      "attractive": "存储器短缺致手机减产",
-      "minimal": "出货量降14%",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:03.071884"
-  },
-  "zaihuapd_41730": {
-    "ai_title": "ChatGPT订阅滥用报告",
-    "title_options": {
-      "conclusion": "ChatGPT订阅滥用报告",
-      "attractive": "账号批量注册转售",
-      "minimal": "订阅账号滥用",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:05.406598"
-  },
-  "xhqcankao_29803": {
-    "ai_title": "马斯克囤地6000英亩",
-    "title_options": {
-      "conclusion": "马斯克囤地6000英亩",
-      "attractive": "550亿芯片厂选址曝光",
-      "minimal": "马斯克囤地建厂",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:06.401269"
-  },
-  "zaihuapd_41728": {
-    "ai_title": "OpenAI推金融法律AI工具",
-    "title_options": {
-      "conclusion": "OpenAI推金融法律AI工具",
-      "attractive": "OpenAI与Anthropic争企业…",
-      "minimal": "OpenAI金融法律AI",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:07.372144"
-  },
-  "xhqcankao_29802": {
-    "ai_title": "美拟对60国加征关税",
-    "title_options": {
-      "conclusion": "美拟对60国加征关税",
-      "attractive": "美国关税墙卷土重来",
-      "minimal": "美对60国分档征税",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:08.579203"
-  },
-  "zaihuapd_41727": {
-    "ai_title": "iOS首款磁盘可视化工具",
-    "title_options": {
-      "conclusion": "iOS首款磁盘可视化工具",
-      "attractive": "iOS磁盘可视化工具发布",
-      "minimal": "Disk Icicle 工具",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:09.492716"
-  },
-  "xhqcankao_29801": {
-    "ai_title": "YT Music搜索栏移至底部",
-    "title_options": {
-      "conclusion": "YT Music搜索栏移至底部",
-      "attractive": "YT Music搜索栏下移",
-      "minimal": "YT Music搜索栏底部"
-    },
-    "generated_at": "2026-06-03T22:34:11.558182"
-  },
-  "xhqcankao_29800": {
-    "ai_title": "Ring面部识别遭集体诉讼",
-    "title_options": {
-      "conclusion": "Ring面部识别遭集体诉讼",
-      "attractive": "路过门铃就被扫脸？",
-      "minimal": "Ring 面部识别 诉讼",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:12.588062"
-  },
-  "zaihuapd_41726": {
-    "ai_title": "微软量子芯片商用提前至2029",
-    "title_options": {
-      "conclusion": "微软量子芯片商用提前至2029",
-      "attractive": "量子比特寿命延长至20秒",
-      "minimal": "Majorana 2 量子芯片",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:13.671712"
-  },
-  "xhqcankao_29799": {
-    "ai_title": "美军破解武器系统整合",
-    "title_options": {
-      "conclusion": "美军破解武器系统整合",
-      "attractive": "20人盯屏变1屏",
-      "minimal": "美军破解系统",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:14.676912"
-  },
-  "zaihuapd_41725": {
-    "ai_title": "Hermes Desktop公开预览版…",
-    "title_options": {
-      "conclusion": "Hermes Desktop公开预览版…",
-      "attractive": "本地运行Hermes Agent",
-      "minimal": "Hermes Desktop预览",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:15.609553"
-  },
-  "xhqcankao_29798": {
-    "ai_title": "谷歌推虚假通话检测",
-    "title_options": {
-      "conclusion": "谷歌推虚假通话检测",
-      "attractive": "防深伪诈骗新功能",
-      "minimal": "安卓通话检测",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:17.628742"
-  },
-  "xhqcankao_29797": {
-    "ai_title": "优步限制AI工具支出",
-    "title_options": {
-      "conclusion": "优步限制AI工具支出",
-      "attractive": "每款AI工具月限1500美元",
-      "minimal": "优步AI支出上限",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:18.465855"
-  },
-  "zaihuapd_41724": {
-    "ai_title": "谷歌付费购开发者代码",
-    "title_options": {
-      "conclusion": "谷歌付费购开发者代码",
-      "attractive": "开发者代码可卖钱",
-      "minimal": "谷歌购代码训练AI",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:19.333686"
-  },
-  "xhqcankao_29796": {
-    "ai_title": "Meta缩减鼠标键盘追踪计划",
-    "title_options": {
-      "conclusion": "Meta缩减鼠标键盘追踪计划",
-      "attractive": "员工反对，Meta暂停数据收集",
-      "minimal": "Meta追踪计划缩减",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:20.272044"
-  },
-  "zaihuapd_41723": {
-    "ai_title": "iOS 27将适配折叠屏",
-    "title_options": {
-      "conclusion": "iOS 27将适配折叠屏",
-      "attractive": "折叠屏iPhone分屏功能",
-      "minimal": "iOS 27分屏适配",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:21.337453"
-  },
-  "xhqcankao_29795": {
-    "ai_title": "v2rayN移除跳过证书验证",
-    "title_options": {
-      "conclusion": "v2rayN移除跳过证书验证",
-      "attractive": "证书验证移除，内核将报错",
-      "minimal": "v2rayN证书验证移除",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:23.656055"
-  },
-  "xhqcankao_29794": {
-    "ai_title": "Mac版Office 2019将停编辑",
-    "title_options": {
-      "conclusion": "Mac版Office 2019将停编辑",
-      "attractive": "7月13日起Mac Office 20…",
-      "minimal": "Office 2019 Mac 编辑停用",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:24.609274"
-  },
-  "zaihuapd_41722": {
-    "ai_title": "小米公布老用户回归礼",
-    "title_options": {
-      "conclusion": "小米公布老用户回归礼",
-      "attractive": "小米API降价99%",
-      "minimal": "小米回归礼API降价",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:25.436305"
-  },
-  "xhqcankao_29793": {
-    "ai_title": "波兰呼吁技术主权应对AI风险",
-    "title_options": {
-      "conclusion": "波兰呼吁技术主权应对AI风险",
-      "attractive": "波兰推主权测试防AI依赖",
-      "minimal": "波兰技术主权AI风险",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:26.349548"
-  },
-  "xhqcankao_29792": {
-    "ai_title": "微软发布代码生成模型",
-    "title_options": {
-      "conclusion": "微软发布代码生成模型",
-      "attractive": "AI自动生成源代码",
-      "minimal": "微软新模型发布",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:27.208778"
-  },
-  "zaihuapd_41721": {
-    "ai_title": "孙正义再成亚洲首富",
-    "title_options": {
-      "conclusion": "孙正义再成亚洲首富",
-      "attractive": "AI押注助孙正义登顶",
-      "minimal": "孙正义 亚洲首富"
-    },
-    "generated_at": "2026-06-03T22:34:29.331004"
-  },
-  "xhqcankao_29791": {
-    "ai_title": "Anthropic模型扩测150家",
-    "title_options": {
-      "conclusion": "Anthropic模型扩测150家",
-      "attractive": "漏洞发现速度提升十倍",
-      "minimal": "Anthropic模型扩测",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:30.324446"
-  },
-  "xhqcankao_29790": {
-    "ai_title": "特朗普签AI行政令",
-    "title_options": {
-      "conclusion": "特朗普签AI行政令",
-      "attractive": "企业需提前开放AI",
-      "minimal": "AI行政令",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:31.326591"
-  },
-  "xhqcankao_29789": {
-    "ai_title": "OpenAI推6款Codex插件",
-    "title_options": {
-      "conclusion": "OpenAI推6款Codex插件",
-      "attractive": "AI上岗，股票研究也能干",
-      "minimal": "OpenAI Codex插件",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:32.487175"
-  },
-  "zaihuapd_41719": {
-    "ai_title": "特朗普签AI行政令",
-    "title_options": {
-      "conclusion": "特朗普签AI行政令",
-      "attractive": "企业自愿提交模型审查",
-      "minimal": "AI行政令 自愿审查",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:33.435143"
-  },
-  "zaihuapd_41718": {
-    "ai_title": "农村老人月入不足千元",
-    "title_options": {
-      "conclusion": "农村老人月入不足千元",
-      "attractive": "2.6亿人月收入低于千元",
-      "minimal": "农村老人养老困境",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:35.516093"
-  },
-  "zaihuapd_41717": {
-    "ai_title": "英伟达复产RTX 3060 8GB",
-    "title_options": {
-      "conclusion": "英伟达复产RTX 3060 8GB",
-      "attractive": "RTX 3060 8GB三月回归",
-      "minimal": "RTX 3060 8GB复产",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:36.367774"
-  },
-  "xhqcankao_29788": {
-    "ai_title": "美唯一铀工厂扩产50%",
-    "title_options": {
-      "conclusion": "美唯一铀工厂扩产50%",
-      "attractive": "美国铀产能缺口扩大",
-      "minimal": "铀工厂扩建50%",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:37.386165"
-  },
-  "zaihuapd_41716": {
-    "ai_title": "马尔代夫拟禁16岁以下用社交平台",
-    "title_options": {
-      "conclusion": "马尔代夫拟禁16岁以下用社交平台",
-      "attractive": "16岁以下禁用高风险社交平台",
-      "minimal": "马尔代夫青少年社交禁令",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:38.374445"
-  },
-  "xhqcankao_29787": {
-    "ai_title": "中国人造钻石成AI热潮赢家",
-    "title_options": {
-      "conclusion": "中国人造钻石成AI热潮赢家",
-      "attractive": "钻石替代铜铝成芯片散热器",
-      "minimal": "人造钻石 AI 散热",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:39.473750"
-  },
-  "xhqcankao_29786": {
-    "ai_title": "联发科扩招AI业务",
-    "title_options": {
-      "conclusion": "联发科扩招AI业务",
-      "attractive": "AI芯片订单已定至2030",
-      "minimal": "联发科AI招聘扩张",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:41.430818"
-  },
-  "zaihuapd_41715": {
-    "ai_title": "英特尔继续支持DDR4",
-    "title_options": {
-      "conclusion": "英特尔继续支持DDR4",
-      "attractive": "旧内存技术缓解PC涨价",
-      "minimal": "英特尔DDR4支持",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:42.345141"
-  },
-  "xhqcankao_29785": {
-    "ai_title": "SK海力士五年内晶圆产能翻倍",
-    "title_options": {
-      "conclusion": "SK海力士五年内晶圆产能翻倍",
-      "attractive": "晶圆短缺持续到2030年",
-      "minimal": "SK海力士产能翻倍",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:43.223374"
-  },
-  "xhqcankao_29784": {
-    "ai_title": "老虎国际暂停境内新开仓",
-    "title_options": {
-      "conclusion": "老虎国际暂停境内新开仓",
-      "attractive": "老虎国际6月12日起限制交易",
-      "minimal": "老虎国际暂停交易",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:44.096040"
-  },
-  "zaihuapd_41714": {
-    "ai_title": "老虎国际暂停境内新开仓",
-    "title_options": {
-      "conclusion": "老虎国际暂停境内新开仓",
-      "attractive": "境内账户加仓被叫停",
-      "minimal": "老虎国际暂停加仓",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:45.180031"
-  },
-  "xhqcankao_29783": {
-    "ai_title": "黄仁勋称Marvell为下家万亿公司",
-    "title_options": {
-      "conclusion": "黄仁勋称Marvell为下家万亿公司",
-      "attractive": "黄仁勋钦点下一家万亿美元公司",
-      "minimal": "黄仁勋 Marvell 万亿",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:47.298532"
-  },
-  "zaihuapd_41713": {
-    "ai_title": "中国电三轮海外爆单",
-    "title_options": {
-      "conclusion": "中国电三轮海外爆单",
-      "attractive": "欧美售价达3000-6000美元",
-      "minimal": "电三轮海外爆单",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:48.271314"
-  },
-  "xhqcankao_29782": {
-    "ai_title": "安谋称美国难阻对华CPU出口",
-    "title_options": {
-      "conclusion": "安谋称美国难阻对华CPU出口",
-      "attractive": "AI芯片禁令难堵CPU出口",
-      "minimal": "安谋CPU出口中国",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:49.614402"
-  },
-  "zaihuapd_41712": {
-    "ai_title": "联邦机构X账号互动量激增",
-    "title_options": {
-      "conclusion": "联邦机构X账号互动量激增",
-      "attractive": "特朗普任内X账号互动翻倍",
-      "minimal": "X账号互动量增长",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:50.505727"
-  },
-  "xhqcankao_29781": {
-    "ai_title": "俄高官手机发现间谍软件",
-    "title_options": {
-      "conclusion": "俄高官手机发现间谍软件",
-      "attractive": "你的手机可能被监听",
-      "minimal": "俄高官手机间谍软件",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:51.771786"
-  },
-  "zaihuapd_41711": {
-    "ai_title": "CVD协议引发争议",
-    "title_options": {
-      "conclusion": "CVD协议引发争议",
-      "attractive": "订阅安全还是隐私暴露",
-      "minimal": "CVD协议争议",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:53.761126"
-  },
-  "xhqcankao_29780": {
-    "ai_title": "存储涨价压垮GoPro",
-    "title_options": {
-      "conclusion": "存储涨价压垮GoPro",
-      "attractive": "GoPro亮起经营红灯",
-      "minimal": "GoPro存储涨价危机",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:55.024358"
-  },
-  "zaihuapd_41720": {
-    "ai_title": "OpenAI推出Sites功能",
-    "title_options": {
-      "conclusion": "OpenAI推出Sites功能",
-      "attractive": "Codex将想法变应用",
-      "minimal": "Sites：想法转应用"
-    },
-    "generated_at": "2026-06-03T22:34:55.889876"
-  },
-  "zaihuapd_41734": {
-    "ai_title": "Quick Share兼容AirDro…",
-    "title_options": {
-      "conclusion": "Quick Share兼容AirDro…",
-      "attractive": "你的安卓机也能用AirDrop了",
-      "minimal": "Quick Share AirDrop…",
-      "best": "conclusion"
-    },
-    "generated_at": "2026-06-03T22:34:56.865815"
-  },
   "zaihuapd_41752": {
-    "ai_title": "HTTP/2 Bomb攻击多款服务器",
+    "ai_title": "HTTP/2 Bomb可拖垮主流服务器",
     "title_options": {
-      "conclusion": "HTTP/2 Bomb攻击多款服务器",
+      "conclusion": "HTTP/2 Bomb可拖垮主流服务器",
       "attractive": "100Mbps网络秒杀服务器",
-      "minimal": "HTTP/2 Bomb 拒绝服务",
+      "minimal": "HTTP/2 Bomb攻击",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T23:05:39.527473"
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing server rack with a bomb icon inside, memory chips overflowing like balloons, network cables fraying, dark gray background, red warning gradient, clean vector lines, flat minimal style.",
+    "generated_at": "2026-06-03T23:14:39.734119"
   },
   "xhqcankao_29821": {
-    "ai_title": "豆包将推专业版",
+    "ai_title": "豆包将推专业版，日常免费",
     "title_options": {
-      "conclusion": "豆包将推专业版",
-      "attractive": "免费功能不变",
-      "minimal": "豆包专业版",
+      "conclusion": "豆包将推专业版，日常免费",
+      "attractive": "豆包专业版上线，免费不变",
+      "minimal": "豆包专业版，免费",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T23:05:40.367171"
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue orb floating above an open laptop, surrounded by faint code lines and data flow, clean geometric shapes, white and soft blue gradient background, calm professional atmosphere, centered composition.",
+    "generated_at": "2026-06-03T23:14:41.869864"
   },
   "zaihuapd_41751": {
     "ai_title": "知乎首季扭亏为盈",
@@ -760,16 +29,801 @@
       "minimal": "知乎扭亏净利1716万",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T23:05:41.274318"
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized graph line sharply turning upward from red to green, a small coin stack at the pivot point, clean geometric shapes, soft blue-gray gradient background, centered composition, flat vector style, subtle glow.",
+    "generated_at": "2026-06-03T23:14:44.081124"
   },
   "xhqcankao_29820": {
-    "ai_title": "纽时出版人痛斥AI窃取知识产权",
+    "ai_title": "纽约时报痛斥AI窃取知识产权",
     "title_options": {
-      "conclusion": "纽时出版人痛斥AI窃取知识产权",
-      "attractive": "AI窃取内容，新闻业沉默",
-      "minimal": "纽时AI窃取知识产权",
+      "conclusion": "纽约时报痛斥AI窃取知识产权",
+      "attractive": "AI窃取知识产权引新闻业忧心",
+      "minimal": "纽约时报痛斥AI窃取",
       "best": "conclusion"
     },
-    "generated_at": "2026-06-03T23:05:42.237384"
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A towering newspaper building with a glowing \"NYT\" facade being drained by robotic tentacles, clean geometric lines, muted grays and deep blues, stark contrast, empty streets, cold digital atmosphere.",
+    "generated_at": "2026-06-03T23:14:47.627135"
+  },
+  "zaihuapd_41750": {
+    "ai_title": "仅13%欧洲人信任自动驾驶",
+    "title_options": {
+      "conclusion": "仅13%欧洲人信任自动驾驶",
+      "attractive": "中国70%信任，欧洲仅13%",
+      "minimal": "欧洲自动驾驶信任度低",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A lone European silhouette stands before a sleek autonomous car, head lowered in hesitation, sparse geometric road lines, muted gray-blue palette, cold lighting, flat vector shapes, wide negative space conveying distrust.",
+    "generated_at": "2026-06-03T23:14:50.142397"
+  },
+  "xhqcankao_29819": {
+    "ai_title": "马克龙邀OpenAI CEO出席G7",
+    "title_options": {
+      "conclusion": "马克龙邀OpenAI CEO出席G7",
+      "attractive": "OpenAI CEO首赴G7峰会",
+      "minimal": "马克龙邀奥尔特曼G7"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized Macron figure extending a hand toward a glowing Sam Altman silhouette, G7 summit table with digital holographic AI symbols, clean geometric lines, soft blue and white gradient, centered composition, calm futuristic atmosphere.",
+    "generated_at": "2026-06-03T23:14:52.530448"
+  },
+  "zaihuapd_41749": {
+    "ai_title": "美教师工会呼吁限制小学AI使用",
+    "title_options": {
+      "conclusion": "美教师工会呼吁限制小学AI使用",
+      "attractive": "小学禁用AI，保护学生社交",
+      "minimal": "限制AI，课堂屏幕",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A teacher's hand pushing away a glowing tablet and robot toy from a child's desk, clean lines, muted blue-gray palette, soft shadows, empty classroom background, flat vector style.",
+    "generated_at": "2026-06-03T23:14:55.870182"
+  },
+  "xhqcankao_29818": {
+    "ai_title": "欧盟AI数据中心计划受挫",
+    "title_options": {
+      "conclusion": "欧盟AI数据中心计划受挫",
+      "attractive": "两百亿欧元计划面临挑战",
+      "minimal": "欧盟AI数据中心延误",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A large data center under construction with cranes and unfinished server racks, scattered blueprints and question marks floating above, muted gray-blue palette, simple geometric shapes, flat lighting, wide shot showing stalled progress.",
+    "generated_at": "2026-06-03T23:14:58.198660"
+  },
+  "zaihuapd_41748": {
+    "ai_title": "豆包推专业版，日常免费",
+    "title_options": {
+      "conclusion": "豆包推专业版，日常免费",
+      "attractive": "专业版测试，日常免费",
+      "minimal": "豆包专业版",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek humanoid robot hand touching a glowing digital interface with floating icons for code, charts, and gears, clean geometric lines, blue-white gradient background, centered composition, soft shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:15:00.080323"
+  },
+  "xhqcankao_29817": {
+    "ai_title": "东陶加码半导体材料",
+    "title_options": {
+      "conclusion": "东陶加码半导体材料",
+      "attractive": "AI热催生陶瓷新需求",
+      "minimal": "东陶芯片业务扩张",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A ceramic electrostatic chuck holding a glowing silicon wafer, clean geometric lines, blue-gray gradient background, centered composition, soft ambient light, industrial precision, flat minimal style.",
+    "generated_at": "2026-06-03T23:15:03.441297"
+  },
+  "zaihuapd_41743": {
+    "ai_title": "64GB成创作软件甜点",
+    "title_options": {
+      "conclusion": "64GB成创作软件甜点",
+      "attractive": "16GB内存拖慢40%性能",
+      "minimal": "64GB内存甜点",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek desktop workstation with 64GB RAM highlighted, a stylized memory module glowing in soft blue, surrounded by abstract Adobe and DaVinci Resolve icons in muted gray, clean geometric shapes, cool blue-white gradient background, flat minimal style, soft ambient lighting.",
+    "generated_at": "2026-06-03T23:15:06.223334"
+  },
+  "zaihuapd_41742": {
+    "ai_title": "千问向第三方开放Agent",
+    "title_options": {
+      "conclusion": "千问向第三方开放Agent",
+      "attractive": "瑞幸等企业测试千问Agent",
+      "minimal": "千问Agent开放",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing smartphone floating center, surrounded by small geometric brand icons for coffee, airplane, and fast food, connected by thin white lines, blue-white gradient background, clean flat shapes, soft ambient light, modern digital ecosystem.",
+    "generated_at": "2026-06-03T23:15:08.699833"
+  },
+  "xhqcankao_29816": {
+    "ai_title": "谷歌购开发者代码训练AI",
+    "title_options": {
+      "conclusion": "谷歌购开发者代码训练AI",
+      "attractive": "你的代码能卖钱了",
+      "minimal": "谷歌买代码训练AI",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone glowing on a table, code snippets floating upward from the screen into a cloud-shaped AI icon, clean geometric lines, cool blue and white gradient, soft shadows, centered composition, modern flat style.",
+    "generated_at": "2026-06-03T23:15:11.824261"
+  },
+  "zaihuapd_41741": {
+    "ai_title": "谷歌允许网站退出AI搜索",
+    "title_options": {
+      "conclusion": "谷歌允许网站退出AI搜索",
+      "attractive": "网站可自主退出AI搜索",
+      "minimal": "谷歌AI搜索退出选项",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing website toggle switch labeled with an abstract AI eye icon, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style, a globe icon fading in background, minimal geometric shapes.",
+    "generated_at": "2026-06-03T23:15:14.426056"
+  },
+  "xhqcankao_29815": {
+    "ai_title": "张一鸣成亚洲第二大富豪",
+    "title_options": {
+      "conclusion": "张一鸣成亚洲第二大富豪",
+      "attractive": "身家928亿，超越安巴尼",
+      "minimal": "张一鸣亚洲第二"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A silhouetted figure stands before a glowing digital graph with a soaring red arrow, surrounded by abstract AI nodes and a rising sun. Clean lines, blue and gold gradient, soft shadows, flat style.",
+    "generated_at": "2026-06-03T23:15:16.738889"
+  },
+  "zaihuapd_41740": {
+    "ai_title": "代理IP段遭封禁",
+    "title_options": {
+      "conclusion": "代理IP段遭封禁",
+      "attractive": "Vless协议被阻断",
+      "minimal": "代理服务阻断",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A fragmented digital wall blocking multiple glowing proxy nodes, broken connection lines, abstract IP segments fading into darkness, cyan and dark gray palette, clean geometric shapes, flat minimal style, soft gradient background, isolated server icons dissolving.",
+    "generated_at": "2026-06-03T23:15:19.913635"
+  },
+  "xhqcankao_29814": {
+    "ai_title": "特斯拉上海工厂5月交付增39%",
+    "title_options": {
+      "conclusion": "特斯拉上海工厂5月交付增39%",
+      "attractive": "特斯拉上海工厂交付创2026新高",
+      "minimal": "特斯拉上海交付8.5万辆",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing red Tesla Model Y L SUV on a clean white grid floor, surrounded by subtle delivery arrows pointing outward to Singapore, Australia, and Thailand, blue-white gradient background, soft shadows, modern flat style, centered composition.",
+    "generated_at": "2026-06-03T23:15:22.188556"
+  },
+  "zaihuapd_41739": {
+    "ai_title": "日企推员工恋爱福利",
+    "title_options": {
+      "conclusion": "日企推员工恋爱福利",
+      "attractive": "超1500家企业认证交友",
+      "minimal": "日企员工恋爱App",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. Two silhouetted figures facing each other with glowing heart symbols between them, subtle corporate building outlines in background, clean geometric shapes, soft pink and blue gradient tones, flat vector style, calm atmosphere, white negative space.",
+    "generated_at": "2026-06-03T23:15:24.603098"
+  },
+  "xhqcankao_29813": {
+    "ai_title": "印度Prime音乐引入广告",
+    "title_options": {
+      "conclusion": "印度Prime音乐引入广告",
+      "attractive": "Prime音乐免费变广告版",
+      "minimal": "Prime音乐 广告 印度",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek smartphone displaying a music app interface with a small \"Ad\" badge, surrounded by floating musical notes and a subtle dollar sign icon, clean geometric shapes, muted blue-gray palette, soft gradient background, flat design, centered composition.",
+    "generated_at": "2026-06-03T23:15:27.970334"
+  },
+  "zaihuapd_41738": {
+    "ai_title": "CMLink调整内地流量激活规则",
+    "title_options": {
+      "conclusion": "CMLink调整内地流量激活规则",
+      "attractive": "境外卡内地激活需提前72小时",
+      "minimal": "CMLink激活规则变更",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A SIM card floating above a smartphone, with a glowing activation icon, surrounded by a subtle network signal wave, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:15:30.163231"
+  },
+  "xhqcankao_29812": {
+    "ai_title": "DeepSeek获500亿首轮融资",
+    "title_options": {
+      "conclusion": "DeepSeek获500亿首轮融资",
+      "attractive": "腾讯宁德时代拟投DeepSeek",
+      "minimal": "DeepSeek 500亿融资",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized human hand placing a glowing coin into a geometric chip, surrounded by abstract financial nodes, clean lines, deep blue and gold gradient, centered composition, soft shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:15:32.349525"
+  },
+  "zaihuapd_41737": {
+    "ai_title": "美法院裁定特朗普关税违法",
+    "title_options": {
+      "conclusion": "美法院裁定特朗普关税违法",
+      "attractive": "10%全球关税被判无效",
+      "minimal": "特朗普关税违法",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A judge's gavel striking down a stack of tariff documents, broken chains around a globe, clean lines, muted navy and white palette, centered composition, soft shadows, flat vector style",
+    "generated_at": "2026-06-03T23:15:35.654691"
+  },
+  "xhqcankao_29811": {
+    "ai_title": "英国迫使谷歌改变AI摘要",
+    "title_options": {
+      "conclusion": "英国迫使谷歌改变AI摘要",
+      "attractive": "出版商获控AI摘要权",
+      "minimal": "谷歌AI摘要受管制",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A humanoid robot hand pressing a button on a search bar interface, abstract scales of justice hovering above, clean geometric shapes, muted blue-gray palette, flat digital style, soft lighting, centered composition.",
+    "generated_at": "2026-06-03T23:15:38.031256"
+  },
+  "xhqcankao_29810": {
+    "ai_title": "MacBook Neo首季出货110万台",
+    "title_options": {
+      "conclusion": "MacBook Neo首季出货110万台",
+      "attractive": "三周销量超M5和M5 Pro",
+      "minimal": "Neo出货110万领先",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek MacBook Neo on a clean desk, glowing screen, geometric shipping boxes stacked in background, soft blue-white gradient, subtle light rays, centered composition, modern flat style, minimal shadows.",
+    "generated_at": "2026-06-03T23:15:40.390537"
+  },
+  "zaihuapd_41736": {
+    "ai_title": "SpaceX IPO筹资750亿美元",
+    "title_options": {
+      "conclusion": "SpaceX IPO筹资750亿美元",
+      "attractive": "史上最大IPO锁定发行价",
+      "minimal": "SpaceX 135美元 IPO",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek rocket launching upward from a stylized globe, surrounded by faint satellite orbits and abstract AI data streams, blue-white gradient background, clean geometric lines, centered composition, soft shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:15:43.375462"
+  },
+  "xhqcankao_29809": {
+    "ai_title": "X推视频评论功能",
+    "title_options": {
+      "conclusion": "X推视频评论功能",
+      "attractive": "发视频回复替代转发",
+      "minimal": "X视频评论",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone screen with a video reply icon floating above a comment thread, clean geometric lines, blue-gray gradient background, centered composition, soft shadows, flat vector style, user pressing a video record button.",
+    "generated_at": "2026-06-03T23:15:45.762442"
+  },
+  "zaihuapd_41733": {
+    "ai_title": "教育部规范高考招生宣传",
+    "title_options": {
+      "conclusion": "教育部规范高考招生宣传",
+      "attractive": "高考录取通知书禁夹带",
+      "minimal": "高考招生宣传规范",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A single folded document with a red seal on a clean desk, an open envelope beside it, soft blue-white gradient background, centered composition, smooth flat surfaces, subtle shadows, calm academic atmosphere.",
+    "generated_at": "2026-06-03T23:15:48.277472"
+  },
+  "xhqcankao_29808": {
+    "ai_title": "微软量子芯片可靠性提升千倍",
+    "title_options": {
+      "conclusion": "微软量子芯片可靠性提升千倍",
+      "attractive": "量子比特存续20秒，微软芯片飞跃",
+      "minimal": "微软量子芯片可靠性千倍",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing quantum chip floating in darkness, 12 tiny blue particles arranged in a grid, ethereal light trails connecting them, sleek metallic surface, deep navy background, subtle cyan highlights, clean geometric shapes, futuristic atmosphere, soft glow.",
+    "generated_at": "2026-06-03T23:15:51.675027"
+  },
+  "xhqcankao_29807": {
+    "ai_title": "黑客窃取Dashlane加密库",
+    "title_options": {
+      "conclusion": "黑客窃取Dashlane加密库",
+      "attractive": "双因素认证被暴力破解",
+      "minimal": "Dashlane遭黑客攻击",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked digital vault icon floating in dark space, fragmented key symbols falling, blue and red neon glow, clean geometric lines, abstract data streams, stark contrast, empty background, cyber security breach atmosphere.",
+    "generated_at": "2026-06-03T23:15:53.729928"
+  },
+  "zaihuapd_41732": {
+    "ai_title": "特斯拉更新加密行车记录",
+    "title_options": {
+      "conclusion": "特斯拉更新加密行车记录",
+      "attractive": "行车记录视频需解密查看",
+      "minimal": "特斯拉更新加密"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A Tesla vehicle with a glowing USB drive, encrypted video stream lines around it, dashboard camera icon, clean geometric shapes, dark blue and white color palette, soft gradient background, modern flat style, subtle tech glow.",
+    "generated_at": "2026-06-03T23:15:56.259180"
+  },
+  "xhqcankao_29806": {
+    "ai_title": "美国数据中心建设延迟",
+    "title_options": {
+      "conclusion": "美国数据中心建设延迟",
+      "attractive": "超六成数据中心未开工",
+      "minimal": "AI竞赛 数据中心 瓶颈",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A partially constructed data center with exposed steel frames, idle construction cranes, and tangled power cables, surrounded by empty land, muted gray-blue palette, clean geometric shapes, flat lighting, soft shadows, sense of stagnation and delay.",
+    "generated_at": "2026-06-03T23:15:59.874352"
+  },
+  "zaihuapd_41731": {
+    "ai_title": "VSCode漏洞可窃取Token",
+    "title_options": {
+      "conclusion": "VSCode漏洞可窃取Token",
+      "attractive": "点击链接即泄露Token",
+      "minimal": "VSCode漏洞 Token窃取",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked VSCode window with a glowing token icon leaking from a webview panel, a shadowy cursor clicking a malicious extension button, dark blue background, red warning glow, clean geometric lines, flat vector style, subtle grid overlay.",
+    "generated_at": "2026-06-03T23:16:02.310017"
+  },
+  "xhqcankao_29805": {
+    "ai_title": "CMLink数据卡限制内地居民",
+    "title_options": {
+      "conclusion": "CMLink数据卡限制内地居民",
+      "attractive": "境外卡内地激活需提前72小时",
+      "minimal": "CMLink数据卡设限"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A SIM card with a red prohibition symbol over a map of China, clean lines, blue-gray gradient, centered composition, soft shadows, modern flat style, a person holding a phone with a disconnected signal icon, airport background, cool digital palette.",
+    "generated_at": "2026-06-03T23:16:04.857593"
+  },
+  "xhqcankao_29804": {
+    "ai_title": "手机出货量预计降14%",
+    "title_options": {
+      "conclusion": "手机出货量预计降14%",
+      "attractive": "存储器短缺致手机减产",
+      "minimal": "出货量降14%",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A single smartphone with a cracked screen, surrounded by falling memory chips, stark white background, cool blue-gray tones, clean geometric shapes, downward arrow composed of fading DRAM modules, empty production line in background, soft gradient lighting, flat vector style.",
+    "generated_at": "2026-06-03T23:16:08.505068"
+  },
+  "zaihuapd_41730": {
+    "ai_title": "ChatGPT订阅滥用报告",
+    "title_options": {
+      "conclusion": "ChatGPT订阅滥用报告",
+      "attractive": "账号批量注册转售",
+      "minimal": "订阅账号滥用",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked smartphone screen showing multiple fake subscription tiers, scattered credit cards and script code fragments around it, dark blue and gray palette, clean geometric shapes, low-angle view, harsh fluorescent lighting, sterile server room background.",
+    "generated_at": "2026-06-03T23:16:10.667958"
+  },
+  "xhqcankao_29803": {
+    "ai_title": "马斯克囤地6000英亩",
+    "title_options": {
+      "conclusion": "马斯克囤地6000英亩",
+      "attractive": "马斯克550亿芯片厂选址",
+      "minimal": "马斯克囤地芯片厂",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A vast Texas rural landscape with scattered land parcels marked by subtle boundary lines, a single industrial chip factory silhouette emerging from the horizon, clean geometric shapes, muted earthy tones with cool blue-gray sky, flat minimal style, soft ambient light, empty open fields, serene and expansive composition.",
+    "generated_at": "2026-06-03T23:16:13.447371"
+  },
+  "zaihuapd_41728": {
+    "ai_title": "OpenAI推金融法律AI工具",
+    "title_options": {
+      "conclusion": "OpenAI推金融法律AI工具",
+      "attractive": "OpenAI与Anthropic争客户",
+      "minimal": "OpenAI金融法律AI",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek humanoid robot hand signing a financial document on a minimalist desk, stock charts and legal scales floating as holographic icons, blue-white gradient background, clean geometric lines, soft shadows, modern flat style, centered composition.",
+    "generated_at": "2026-06-03T23:16:16.538695"
+  },
+  "xhqcankao_29802": {
+    "ai_title": "美国拟对60国加征关税",
+    "title_options": {
+      "conclusion": "美国拟对60国加征关税",
+      "attractive": "关税墙卷土重来，最高12.5%",
+      "minimal": "美国，60国，关税"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A towering gray wall with two distinct height levels, labeled with abstract tariff percentages 10 and 12.5, dividing a clean globe into 60 small country blocks, muted blue-gray palette, flat geometric shapes, soft ambient shadows, centered composition.",
+    "generated_at": "2026-06-03T23:16:19.212154"
+  },
+  "zaihuapd_41727": {
+    "ai_title": "iOS首款磁盘可视化工具",
+    "title_options": {
+      "conclusion": "iOS首款磁盘可视化工具",
+      "attractive": "iOS磁盘占用可视化",
+      "minimal": "Disk Icicle 工具",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. An icicle-shaped data visualization on an iPhone screen, colorful vertical bars representing disk usage, glowing storage blocks, clean lines, dark blue background, soft gradient light, centered composition, modern flat style.",
+    "generated_at": "2026-06-03T23:16:21.264487"
+  },
+  "xhqcankao_29801": {
+    "ai_title": "YT Music搜索移至底部",
+    "title_options": {
+      "conclusion": "YT Music搜索移至底部",
+      "attractive": "搜索栏搬家了",
+      "minimal": "YT Music 搜索 底部",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone interface with bottom navigation bar, magnifying glass icon highlighted, keyboard appearing on screen, clean lines, monochromatic dark blue and white palette, centered composition, soft shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:16:24.543805"
+  },
+  "xhqcankao_29800": {
+    "ai_title": "亚马逊因Ring面部识别被诉",
+    "title_options": {
+      "conclusion": "亚马逊因Ring面部识别被诉",
+      "attractive": "路过门铃就被扫脸？",
+      "minimal": "Ring面部识别诉讼",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A Ring doorbell camera with a glowing red eye scanning a passerby's face, abstract facial data points floating in the air, dark blue and gray palette, clean geometric lines, surveillance atmosphere, flat vector style, centered composition.",
+    "generated_at": "2026-06-03T23:16:26.721366"
+  },
+  "zaihuapd_41726": {
+    "ai_title": "微软量子芯片商用提前至2029",
+    "title_options": {
+      "conclusion": "微软量子芯片商用提前至2029",
+      "attractive": "量子比特寿命延长至20秒",
+      "minimal": "Majorana 2 2029商用"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue quantum chip floating in a dark void, surrounded by concentric circuit rings, a faint particle trail extending upward, cold blue-white gradient, clean geometric lines, centered composition, soft ambient light.",
+    "generated_at": "2026-06-03T23:16:28.896848"
+  },
+  "xhqcankao_29799": {
+    "ai_title": "美军破解武器系统整合数据",
+    "title_options": {
+      "conclusion": "美军破解武器系统整合数据",
+      "attractive": "美军破解自家武器系统",
+      "minimal": "美军破解系统整合"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A unified digital battlefield display merging multiple radar and interceptor system icons into a single screen, clean lines, dark blue and white gradient, centered composition, soft shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:16:32.426597"
+  },
+  "zaihuapd_41725": {
+    "ai_title": "Hermes Desktop发布公开预览",
+    "title_options": {
+      "conclusion": "Hermes Desktop发布公开预览",
+      "attractive": "本地运行Hermes Agent",
+      "minimal": "Hermes Desktop预览",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek desktop computer with a glowing AI interface, a stylized agent icon floating above the screen, clean geometric lines, soft blue and white gradient, minimal desk setup, subtle shadows, modern flat style, centered composition.",
+    "generated_at": "2026-06-03T23:16:34.691621"
+  },
+  "xhqcankao_29798": {
+    "ai_title": "谷歌推虚假通话检测",
+    "title_options": {
+      "conclusion": "谷歌推虚假通话检测",
+      "attractive": "防深伪诈骗新功能",
+      "minimal": "谷歌通话检测",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. Two smartphones facing each other, one emitting a subtle green verification pulse, the other receiving a silent digital handshake, clean geometric lines, soft blue-gray gradient background, centered composition, flat minimal style, subtle glow effect.",
+    "generated_at": "2026-06-03T23:16:36.851689"
+  },
+  "xhqcankao_29797": {
+    "ai_title": "优步限制AI工具支出",
+    "title_options": {
+      "conclusion": "优步限制AI工具支出",
+      "attractive": "优步AI预算用完设上限",
+      "minimal": "优步AI支出上限",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A smartphone dashboard displaying a glowing progress bar near a limit line, a stylized AI coding icon dimmed beside it, clean geometric shapes, muted blue-gray palette, soft gradient background, flat vector style, centered composition.",
+    "generated_at": "2026-06-03T23:16:40.417154"
+  },
+  "zaihuapd_41724": {
+    "ai_title": "谷歌付费购开发者代码",
+    "title_options": {
+      "conclusion": "谷歌付费购开发者代码",
+      "attractive": "开发者代码可卖钱",
+      "minimal": "谷歌购代码训练AI",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek Android robot icon handing a glowing code key to a developer silhouette, clean lines, blue-white gradient, centered composition, soft shadows, modern flat style, digital transaction gesture, minimalist desk with floating code blocks.",
+    "generated_at": "2026-06-03T23:16:42.718661"
+  },
+  "xhqcankao_29796": {
+    "ai_title": "Meta缩减员工数据追踪",
+    "title_options": {
+      "conclusion": "Meta缩减员工数据追踪",
+      "attractive": "员工反对，Meta暂停追踪",
+      "minimal": "Meta追踪计划收缩"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing computer mouse and keyboard on a desk, with a translucent barrier or pause symbol hovering above, soft blue-gray gradient background, clean geometric shapes, subtle data lines fading away, calm corporate atmosphere, flat vector style.",
+    "generated_at": "2026-06-03T23:16:44.793482"
+  },
+  "zaihuapd_41723": {
+    "ai_title": "iOS 27适配折叠屏",
+    "title_options": {
+      "conclusion": "iOS 27适配折叠屏",
+      "attractive": "分屏功能解决短板",
+      "minimal": "iOS 27分屏",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A folding smartphone screen splitting into two app panels, clean geometric lines, soft blue-gray gradient background, centered composition, subtle reflection on display, flat vector style, smooth edges, calm lighting.",
+    "generated_at": "2026-06-03T23:16:48.021436"
+  },
+  "xhqcankao_29795": {
+    "ai_title": "v2rayN移除证书跳过参数",
+    "title_options": {
+      "conclusion": "v2rayN移除证书跳过参数",
+      "attractive": "证书跳过功能将报错",
+      "minimal": "证书参数移除",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing red warning symbol above a broken shield icon, fragmented digital certificate falling apart, abstract network nodes in background, clean geometric shapes, dark blue and gray gradient, cold lighting, flat vector style, centered composition, soft ambient shadows.",
+    "generated_at": "2026-06-03T23:16:50.638546"
+  },
+  "xhqcankao_29794": {
+    "ai_title": "Mac版Office 2019将停止编辑",
+    "title_options": {
+      "conclusion": "Mac版Office 2019将停止编辑",
+      "attractive": "7月13日起Mac Office 20…",
+      "minimal": "Office 2019 Mac编辑功能…",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A cracked digital certificate icon floating above a MacBook, crossed-out edit symbol on Office document, muted gray-blue gradient background, clean geometric lines, flat minimal style, soft ambient shadows.",
+    "generated_at": "2026-06-03T23:16:53.184944"
+  },
+  "zaihuapd_41722": {
+    "ai_title": "小米公布老用户回归礼",
+    "title_options": {
+      "conclusion": "小米公布老用户回归礼",
+      "attractive": "小米API降价99%",
+      "minimal": "小米 回归礼 降价",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized smartphone screen displaying a glowing token icon, surrounded by floating digital particles, a subtle clock symbol indicating a one-month validity period, clean geometric shapes, soft blue and white gradient background, centered composition, modern flat style, minimal shadows.",
+    "generated_at": "2026-06-03T23:16:56.899725"
+  },
+  "xhqcankao_29793": {
+    "ai_title": "波兰呼吁技术主权应对AI风险",
+    "title_options": {
+      "conclusion": "波兰呼吁技术主权应对AI风险",
+      "attractive": "波兰推主权测试防AI依赖",
+      "minimal": "波兰技术主权AI风险",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing digital shield with a Polish flag pattern floating above a city skyline, clean geometric lines, blue and white gradient, soft shadows, centered composition, modern flat style.",
+    "generated_at": "2026-06-03T23:16:58.913618"
+  },
+  "xhqcankao_29792": {
+    "ai_title": "微软发布代码生成模型",
+    "title_options": {
+      "conclusion": "微软发布代码生成模型",
+      "attractive": "AI自动生成代码，效率翻倍",
+      "minimal": "微软新模型代码生成",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A human hand typing on a laptop keyboard, glowing blue code lines float upward from screen, forming abstract geometric shapes, clean white background, soft cyan-blue gradient, flat vector style, centered composition, subtle shadows.",
+    "generated_at": "2026-06-03T23:17:01.111336"
+  },
+  "zaihuapd_41721": {
+    "ai_title": "孙正义再成亚洲首富",
+    "title_options": {
+      "conclusion": "孙正义再成亚洲首富",
+      "attractive": "AI押注助孙正义登顶",
+      "minimal": "孙正义资产千亿美元"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A silhouette of a man in a suit standing on a glowing upward arrow, surrounded by floating AI chip icons and a stylized ARM logo, clean geometric lines, blue and gold gradient background, soft ambient light, centered composition, modern flat style.",
+    "generated_at": "2026-06-03T23:17:04.611519"
+  },
+  "xhqcankao_29791": {
+    "ai_title": "Anthropic神话模型扩测",
+    "title_options": {
+      "conclusion": "Anthropic神话模型扩测",
+      "attractive": "漏洞发现速度提升十倍",
+      "minimal": "神话模型扩测",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing blue digital globe with interconnected nodes, surrounded by abstract shield icons and scanning lines, clean geometric shapes, dark background with cyan highlights, centered composition, flat vector style",
+    "generated_at": "2026-06-03T23:17:06.931259"
+  },
+  "xhqcankao_29790": {
+    "ai_title": "特朗普签AI行政令",
+    "title_options": {
+      "conclusion": "特朗普签AI行政令",
+      "attractive": "企业须提前开放AI",
+      "minimal": "AI行政令",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized hand signing a digital document on a futuristic desk, floating AI model icons above, clean geometric shapes, blue-gray gradient background, soft ambient light, flat vector style, centered composition, subtle grid lines.",
+    "generated_at": "2026-06-03T23:17:09.241765"
+  },
+  "xhqcankao_29789": {
+    "ai_title": "OpenAI推6款Codex插件",
+    "title_options": {
+      "conclusion": "OpenAI推6款Codex插件",
+      "attractive": "AI上岗，股票研究也能干",
+      "minimal": "AI上岗，Codex插件",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. Six glowing Codex plugin icons floating in a circle around a central AI interface, abstract data streams connecting to stock charts and design tools, clean geometric shapes, blue and white gradient background, soft ambient light, modern flat style.",
+    "generated_at": "2026-06-03T23:17:13.108733"
+  },
+  "zaihuapd_41719": {
+    "ai_title": "特朗普签AI行政令",
+    "title_options": {
+      "conclusion": "特朗普签AI行政令",
+      "attractive": "AI模型审查期缩至30天",
+      "minimal": "AI行政令自愿审查",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized presidential hand signing a document, abstract AI chip floating above, clean lines, blue and white palette, centered composition, soft shadows, flat vector style.",
+    "generated_at": "2026-06-03T23:17:15.477670"
+  },
+  "zaihuapd_41718": {
+    "ai_title": "农村老人月入不足千元",
+    "title_options": {
+      "conclusion": "农村老人月入不足千元",
+      "attractive": "2.6亿人月入不足千元",
+      "minimal": "农村老人养老困境",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. An elderly farmer bent over a field, thin hands gripping a hoe, empty rice bowl beside worn shoes, pale gray sky, muted earth tones, solitary figure, vast empty land, clean lines, flat colors, soft shadows.",
+    "generated_at": "2026-06-03T23:17:18.305176"
+  },
+  "zaihuapd_41717": {
+    "ai_title": "英伟达复产RTX 3060 8GB",
+    "title_options": {
+      "conclusion": "英伟达复产RTX 3060 8GB",
+      "attractive": "RTX 3060 8GB三月回归",
+      "minimal": "英伟达 RTX 3060 复产",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek graphics card floating in a dark void, glowing blue circuit lines, geometric cooling fan, subtle green accents, clean flat shapes, soft gradient background, centered composition, cool metallic tones, low-poly style.",
+    "generated_at": "2026-06-03T23:17:21.918463"
+  },
+  "xhqcankao_29788": {
+    "ai_title": "美唯一铀工厂扩产50%",
+    "title_options": {
+      "conclusion": "美唯一铀工厂扩产50%",
+      "attractive": "美国铀产能缺口扩大",
+      "minimal": "铀工厂扩建",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A single gas centrifuge facility in a New Mexico desert landscape, expanding with new modular buildings, clean geometric lines, cool blue-gray and warm sand tones, low-angle view showing construction cranes and concentric circular patterns, soft ambient lighting, flat vector style.",
+    "generated_at": "2026-06-03T23:17:25.016592"
+  },
+  "zaihuapd_41716": {
+    "ai_title": "马尔代夫拟禁16岁以下用社交平台",
+    "title_options": {
+      "conclusion": "马尔代夫拟禁16岁以下用社交平台",
+      "attractive": "16岁以下禁用高风险社交平台",
+      "minimal": "马尔代夫青少年社交禁令",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized island silhouette with a barrier gate over a smartphone, surrounded by ocean waves, glowing red warning symbols on the screen, soft blue and white gradient background, clean geometric shapes, flat vector style.",
+    "generated_at": "2026-06-03T23:17:27.322534"
+  },
+  "xhqcankao_29787": {
+    "ai_title": "中国人造钻石成AI热潮赢家",
+    "title_options": {
+      "conclusion": "中国人造钻石成AI热潮赢家",
+      "attractive": "钻石替代铜铝成芯片散热器",
+      "minimal": "人造钻石 AI 芯片散热",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing synthetic diamond wafer floating above a microchip, cool blue and white gradient background, clean geometric lines, abstract heat dissipation waves radiating from the diamond, sleek futuristic hardware, centered composition, soft lighting, flat minimal style.",
+    "generated_at": "2026-06-03T23:17:30.736520"
+  },
+  "xhqcankao_29786": {
+    "ai_title": "联发科扩招AI业务",
+    "title_options": {
+      "conclusion": "联发科扩招AI业务",
+      "attractive": "AI芯片订单已至2030",
+      "minimal": "联发科AI招聘",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A microchip with glowing blue circuits being lifted by a robotic arm, surrounded by floating data particles, clean geometric shapes, dark navy background with soft cyan highlights, centered composition, flat vector style.",
+    "generated_at": "2026-06-03T23:17:33.072960"
+  },
+  "zaihuapd_41715": {
+    "ai_title": "英特尔继续支持DDR4",
+    "title_options": {
+      "conclusion": "英特尔继续支持DDR4",
+      "attractive": "旧内存技术缓解PC涨价",
+      "minimal": "英特尔DDR4支持",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A stylized DDR4 memory module beside a Raptor Lake CPU on a circuit board, clean geometric shapes, muted blue-gray palette, soft ambient lighting, centered composition, flat vector style.",
+    "generated_at": "2026-06-03T23:17:35.122299"
+  },
+  "xhqcankao_29785": {
+    "ai_title": "SK海力士五年晶圆产能翻倍",
+    "title_options": {
+      "conclusion": "SK海力士五年晶圆产能翻倍",
+      "attractive": "全球晶圆短缺或持续至2030",
+      "minimal": "SK海力士产能翻倍",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A silicon wafer doubling into two stacked wafers, clean geometric lines, blue and silver gradient, centered composition, soft ambient light, flat minimal style.",
+    "generated_at": "2026-06-03T23:17:38.521415"
+  },
+  "xhqcankao_29784": {
+    "ai_title": "老虎国际暂停境内新开仓",
+    "title_options": {
+      "conclusion": "老虎国际暂停境内新开仓",
+      "attractive": "老虎国际6月12日起暂停加仓",
+      "minimal": "老虎国际暂停新开仓",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A tiger-shaped stock market symbol being locked inside a transparent cage, with a downward-trending red line graph beside it, clean geometric shapes, muted blue-gray and white palette, soft ambient lighting, flat vector style, centered composition.",
+    "generated_at": "2026-06-03T23:17:40.804641"
+  },
+  "zaihuapd_41714": {
+    "ai_title": "老虎国际暂停境内新开仓",
+    "title_options": {
+      "conclusion": "老虎国际暂停境内新开仓",
+      "attractive": "6月12日起境内加仓受限",
+      "minimal": "老虎国际暂停加仓",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A hand pressing a pause button over a globe, stock chart lines fading, closed door with a lock symbol, blue-gray gradient, clean geometric shapes, soft shadows, flat vector style.",
+    "generated_at": "2026-06-03T23:17:43.021356"
+  },
+  "xhqcankao_29783": {
+    "ai_title": "黄仁勋称迈威尔将达万亿",
+    "title_options": {
+      "conclusion": "黄仁勋称迈威尔将达万亿",
+      "attractive": "黄仁勋钦点下一家万亿公司",
+      "minimal": "黄仁勋 迈威尔 万亿",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. Two male executives shaking hands on a futuristic stage, glowing fiber optic cables connecting in the background, clean geometric lines, cool blue and cyan gradient, soft ambient light, centered composition, modern flat style.",
+    "generated_at": "2026-06-03T23:17:46.434768"
+  },
+  "zaihuapd_41713": {
+    "ai_title": "中国电三轮海外爆单",
+    "title_options": {
+      "conclusion": "中国电三轮海外爆单",
+      "attractive": "欧美售价3000-6000美元",
+      "minimal": "电三轮海外热销",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. An electric tricycle in a vast wheat field, a farmer standing beside it, clean geometric shapes, muted earth tones and soft blue sky, flat vector style, simple composition, subtle sunlight.",
+    "generated_at": "2026-06-03T23:17:48.343292"
+  },
+  "xhqcankao_29782": {
+    "ai_title": "安谋称美难阻对华CPU出口",
+    "title_options": {
+      "conclusion": "安谋称美难阻对华CPU出口",
+      "attractive": "CPU如石油，美禁令难堵",
+      "minimal": "美对华CPU出口限制",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A microchip shaped like a crude oil drop, floating above a globe centered on China, surrounded by scattered CPU units, clean geometric lines, cool blue-gray monochrome palette, soft gradient background, flat vector style, subtle grid lines.",
+    "generated_at": "2026-06-03T23:17:50.961090"
+  },
+  "zaihuapd_41712": {
+    "ai_title": "美机构X账号互动量激增",
+    "title_options": {
+      "conclusion": "美机构X账号互动量激增",
+      "attractive": "特朗普任内X账号互动翻倍",
+      "minimal": "机构X账号互动增长",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek government building icon with a glowing X symbol above, digital interaction arrows pulsing upward, clean geometric lines, monochrome blue-gray palette, soft ambient light, flat vector style.",
+    "generated_at": "2026-06-03T23:17:54.539403"
+  },
+  "xhqcankao_29781": {
+    "ai_title": "俄高官手机发现间谍软件",
+    "title_options": {
+      "conclusion": "俄高官手机发现间谍软件",
+      "attractive": "你的手机被监控了吗",
+      "minimal": "俄高官手机间谍软件",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A glowing smartphone held by a dark silhouette, red spyware lines radiating from the screen, abstract surveillance nodes, muted gray-blue palette, clean geometric shapes, flat lighting, isolated on white background.",
+    "generated_at": "2026-06-03T23:17:56.875491"
+  },
+  "zaihuapd_41720": {
+    "ai_title": "OpenAI推出Sites功能",
+    "title_options": {
+      "conclusion": "OpenAI推出Sites功能",
+      "attractive": "Codex将想法变应用",
+      "minimal": "Sites交互应用",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. A sleek human hand gesturing over a glowing digital interface, abstract website elements emerging as floating geometric shapes, clean lines, soft blue-white gradient, centered composition, minimal shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:17:59.116064"
+  },
+  "zaihuapd_41734": {
+    "ai_title": "Quick Share兼容AirDrop",
+    "title_options": {
+      "conclusion": "Quick Share兼容AirDrop",
+      "attractive": "多款安卓机型支持",
+      "minimal": "Quick Share AirDrop",
+      "best": "conclusion"
+    },
+    "image_prompt": "Minimalist tech illustration, NO TEXT. Two sleek smartphones floating in mid-air, one Android and one iPhone, exchanging a glowing blue data packet between them, clean geometric shapes, soft blue-white gradient background, centered composition, minimal shadows, modern flat style.",
+    "generated_at": "2026-06-03T23:18:02.954179"
   }
 }
