@@ -709,17 +709,10 @@ function copyTitle(i) {
 function quickGen(i) {
   var m = allData[i];
   var content = m.clean_text || m.text || "";
-  var entities = [];
-  var p1 = /Anthropic|OpenAI|Meta|Google|Microsoft|Apple|小米|华为|腾讯|阿里|字节|Coinbase|Tesla|Samsung|三星|DeepSeek/g;
-  var p2 = /GPT-[\w.]+|Claude|Gemini|Llama|Sora|DeepSeek/g;
-  var m2;
-  while ((m2 = p1.exec(content)) !== null) entities.push(m2[0]);
-  while ((m2 = p2.exec(content)) !== null) entities.push(m2[0]);
-  var unique = entities.filter(function(v, i, a) { return a.indexOf(v) === i; });
-  var keywords = unique.join(", ") || m.tag;
-  var title = m.title || content.slice(0, 60);
+  // 截取前500字，避免Prompt过长
+  var article = content.slice(0, 500);
   window.open("https://chat.openai.com/?model=gpt-4&prompt=" + encodeURIComponent(
-    "请根据以下描述生成一张配图：科技新闻配图，标题：" + title + "，关键词：" + keywords
+    "请根据以下新闻生成一张配图：\n\n" + article
   ), "_blank", "noopener,noreferrer");
   showToast("正在打开生图... 🎨");
 }
@@ -752,14 +745,18 @@ function copyText(type) {
   if (type === "info") {
     text = "主体: " + currentInfo.tag + "\n标题: " + currentInfo.title + "\n实体: " + currentInfo.entities.join(", ") + "\n要点:\n" + currentInfo.points.map(function(p,i) { return (i+1) + ". " + p; }).join("\n");
   } else {
-    text = "请生成一张科技新闻配图：\n标题：" + currentInfo.title + "\n关键词：" + currentInfo.entities.join(", ") + "\n风格：现代简约、科技感、深色背景";
+    var content = currentInfo.clean_text || currentInfo.text || "";
+    text = "请根据以下新闻生成一张配图：\n\n" + content.slice(0, 500);
   }
   writeClipboard(text, type === "info" ? "已复制信息 ✅" : "已复制提示词 ✅");
 }
 
 function generateImage() {
   if (!currentInfo) return;
-  window.open("https://chat.openai.com/?model=gpt-4&prompt=" + encodeURIComponent("请根据以下描述生成一张配图：科技新闻配图，标题：" + currentInfo.title + "，关键词：" + currentInfo.entities.join(", ")), "_blank", "noopener,noreferrer");
+  var content = currentInfo.clean_text || currentInfo.text || "";
+  window.open("https://chat.openai.com/?model=gpt-4&prompt=" + encodeURIComponent(
+    "请根据以下新闻生成一张配图：\n\n" + content.slice(0, 500)
+  ), "_blank", "noopener,noreferrer");
   showToast("正在打开生图... 🎨");
 }
 
