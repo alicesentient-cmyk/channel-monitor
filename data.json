@@ -1,6 +1,82 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29807",
+      "channel": "xhqcankao",
+      "text": "黑客窃取了Dashlane部分用户的密码库密码管理器开发商Dashlane表示，黑客在周末的一次网络攻击中获取了至少十几个用于存储客户密码的加密库。该公司在其官网上表示，黑客暴力破解了该公司的双因素认证系统，使黑客得以访问约20个用户账户。通过攻破其双因素机制，黑客得以下载某些客户加密库的副本，这些加密库存储了他们的密码及其他敏感凭证。该公司表示已采取措施以降低未来类似事件的风险。该公司的官网表示，被盗的库是被混淆加密的，没有用户的主密码就无法读取，主密码只有客户知道，且不会以明文形式上传至Dashlane。——Techcrunch",
+      "clean_text": "黑客窃取了Dashlane部分用户的密码库密码管理器开发商Dashlane表示，黑客在周末的一次网络攻击中获取了至少十几个用于存储客户密码的加密库。该公司在其官网上表示，黑客暴力破解了该公司的双因素认证系统，使黑客得以访问约20个用户账户。通过攻破其双因素机制，黑客得以下载某些客户加密库的副本，这些加密库存储了他们的密码及其他敏感凭证。该公司表示已采取措施以降低未来类似事件的风险。该公司的官网表示，被盗的库是被混淆加密的，没有用户的主密码就无法读取，主密码只有客户知道，且不会以明文形式上传至Dashlane。——Techcrunch",
+      "datetime": "2026-06-03T07:35:10+00:00",
+      "views": "1.27K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29807",
+      "scraped_at": "2026-06-03T16:00:34.604133"
+    },
+    {
+      "id": "zaihuapd_41732",
+      "channel": "zaihuapd",
+      "text": "特斯拉 2026.20 更新加入行车记录仪加密特斯拉 2026.20 软件更新开始推送，行车记录仪和哨兵模式保存到 USB 盘的视频会被加密。车主可在车内查看，也可登录dashcam.tesla.com解密播放；如不需要，可在安全设置中关闭。新版本还加入网页端行车记录仪查看器，并扩展家长管控，可在停车时限制浏览器、剧场和游戏功能。目前更新仍只覆盖一小部分车辆。Not a Tesla App|Tesla Info|TESLARATI|Drive Tesla Canada·备用频道·",
+      "clean_text": "特斯拉 2026.20 更新加入行车记录仪加密特斯拉 2026.20 软件更新开始推送，行车记录仪和哨兵模式保存到 USB 盘的视频会被加密。车主可在车内查看，也可登录dashcam.tesla.com解密播放；如不需要，可在安全设置中关闭。新版本还加入网页端行车记录仪查看器，并扩展家长管控，可在停车时限制浏览器、剧场和游戏功能。目前更新仍只覆盖一小部分车辆。Not a Tesla App|Tesla Info|TESLARATI|Drive Tesla Canada·备用频道",
+      "datetime": "2026-06-03T07:17:21+00:00",
+      "views": "4.22K",
+      "source_links": [
+        {
+          "text": "dashcam.tesla.com",
+          "url": "http://dashcam.tesla.com/"
+        },
+        {
+          "text": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/4225/tesla-enables-dashcam-clip-encryption-in-update-202620"
+        },
+        {
+          "text": "Tesla Info",
+          "url": "https://tesla-info.com/release/2026.20"
+        },
+        {
+          "text": "TESLARATI",
+          "url": "https://www.teslarati.com/tesla-improves-dashcam-playback-awesome-addition/"
+        },
+        {
+          "text": "Drive Tesla Canada",
+          "url": "https://driveteslacanada.ca/news/tesla-2026-20-dashcam-encryption-parental-controls/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41732",
+      "scraped_at": "2026-06-03T16:00:31.272473"
+    },
+    {
+      "id": "xhqcankao_29806",
+      "channel": "xhqcankao",
+      "text": "美国AI竞赛遭遇现实瓶颈 数据中心难落地美国科技公司正在投入前所未有的巨额资金用于建设大型数据中心。然而，即便科技巨头们已筹集的资本规模不断扩大，在AI竞赛中如何有效投入这些资金却变得越来越不确定。供应链延迟交付、许可审批之争以及电力供应不足等问题，已导致美国数据中心的建设落后于原定时间表，而且这一差距在近几个月进一步扩大：摩根大通上个月的一项分析发现，计划在2027年完工的数据中心容量中，超过60%尚未开工建设，另有7%已经延期。这些企业面临的一项关键挑战是，如何获得电网运营商和电力公司批准，将数据中心接入电力系统。建设发电设施本身也面临瓶颈。燃气轮机和电力变压器的采购延迟也是导致数据中心工期延误的因素之一。——凤凰网科技、华尔街日报",
+      "clean_text": "美国AI竞赛遭遇现实瓶颈 数据中心难落地美国科技公司正在投入前所未有的巨额资金用于建设大型数据中心。然而，即便科技巨头们已筹集的资本规模不断扩大，在AI竞赛中如何有效投入这些资金却变得越来越不确定。供应链延迟交付、许可审批之争以及电力供应不足等问题，已导致美国数据中心的建设落后于原定时间表，而且这一差距在近几个月进一步扩大：摩根大通上个月的一项分析发现，计划在2027年完工的数据中心容量中，超过60%尚未开工建设，另有7%已经延期。这些企业面临的一项关键挑战是，如何获得电网运营商和电力公司批准，将数据中心接入电力系统。建设发电设施本身也面临瓶颈。燃气轮机和电力变压器的采购延迟也是导致数据中心工期延误的因素之一。——凤凰网科技、华尔街日报",
+      "datetime": "2026-06-03T07:04:59+00:00",
+      "views": "2.18K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006jyXjOFZ17E3uMahUmQvcSFVWc0dvY0ad--83gju12opU7FdgBLEC9DJgX-_JQ0sxdw"
+        },
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/americas-data-center-build-out-is-falling-way-behind-schedule-9ba97153"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29806",
+      "scraped_at": "2026-06-03T16:00:34.603720"
+    },
+    {
       "id": "zaihuapd_41731",
       "channel": "zaihuapd",
       "text": "VSCode 漏洞可被用于窃取 GitHub Token安全研究者披露，攻击者可能通过诱导用户点击github.dev链接，利用 VSCode Webview 的键盘事件处理问题安装扩展，从而读取 GitHub API Token，并访问用户有权限的仓库，包括私有仓库。该问题也存在于桌面版 VSCode，但利用门槛更高。研究者建议清除github.dev的站点数据；如果已运行 PoC，还应卸载相关测试扩展。Ammar's Blog·备用频道·",
@@ -1266,22 +1342,6 @@
       "scraped_at": "2026-06-02T15:00:50.846936"
     },
     {
-      "id": "xhqcankao_29766",
-      "channel": "xhqcankao",
-      "text": "《GTA 5》外挂服务商Atlas Menu遭黑客入侵据数据泄露预警网站“Have I Been Pwned”消息，热门在线游戏《GTA 5》的外挂服务商 Atlas Menu 已被黑客入侵。据上述数据泄露预警网站称，被盗数据包含用户的电子邮箱、账号名、加密乱码密码、IP地址以及客服工单，共计近 6.4 万个账号信息遭到窃取。颇具讽刺的是， Atlas Menu 官网此前宣称依托自研高级加密技术，可实现“安全身份验证、强化用户隐私防护”，但截至撰写本文时，该网站已无法访问。宣称对此入侵事件负责的黑客，在代码托管平台 GitHub 上公开了疑似被盗数据，这名黑客作案动因疑似是报复一名诈骗人员。——Techcrunch",
-      "clean_text": "《GTA 5》外挂服务商Atlas Menu遭黑客入侵据数据泄露预警网站“Have I Been Pwned”消息，热门在线游戏《GTA 5》的外挂服务商 Atlas Menu 已被黑客入侵。据上述数据泄露预警网站称，被盗数据包含用户的电子邮箱、账号名、加密乱码密码、IP地址以及客服工单，共计近 6.4 万个账号信息遭到窃取。颇具讽刺的是， Atlas Menu 官网此前宣称依托自研高级加密技术，可实现“安全身份验证、强化用户隐私防护”，但截至撰写本文时，该网站已无法访问。宣称对此入侵事件负责的黑客，在代码托管平台 GitHub 上公开了疑似被盗数据，这名黑客作案动因疑似是报复一名诈骗人员。——Techcrunch",
-      "datetime": "2026-06-02T04:01:49+00:00",
-      "views": "4.11K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29766",
-      "scraped_at": "2026-06-02T15:00:50.846476"
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1306,6 +1366,6 @@
       "scraped_at": "2026-06-03T02:00:09.953577"
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-03T15:59:48.381740"
+  "count": 68,
+  "updated_at": "2026-06-03T16:04:53.795290"
 }
