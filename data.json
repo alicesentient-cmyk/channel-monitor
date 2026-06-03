@@ -1282,30 +1282,6 @@
       "scraped_at": "2026-06-02T15:00:50.846476"
     },
     {
-      "id": "zaihuapd_41704",
-      "channel": "zaihuapd",
-      "text": "Wise 因可疑交易在比利时接受调查Wise 正在比利时接受检方调查，涉及欧洲多国刑事程序中的跨境协助请求。相关 Wise 账户出现在来自 30 多个欧洲国家的数百项司法请求中，涉及可疑交易金额约 5 亿欧元。调查聚焦 Wise 是否未遵守反洗钱法规，范围涉及其欧洲业务，不直接关联由伦敦管理的 300 万英国用户。Wise 的美国子公司去年曾因违反《银行保密法》和反洗钱规则被六个州监管机构罚款 420 万美元；比利时方面的调查仍在进行，预计很快结束。The Bureau of Investigative Journalism·备用频道·",
-      "clean_text": "Wise 因可疑交易在比利时接受调查Wise 正在比利时接受检方调查，涉及欧洲多国刑事程序中的跨境协助请求。相关 Wise 账户出现在来自 30 多个欧洲国家的数百项司法请求中，涉及可疑交易金额约 5 亿欧元。调查聚焦 Wise 是否未遵守反洗钱法规，范围涉及其欧洲业务，不直接关联由伦敦管理的 300 万英国用户。Wise 的美国子公司去年曾因违反《银行保密法》和反洗钱规则被六个州监管机构罚款 420 万美元；比利时方面的调查仍在进行，预计很快结束。The Bureau of Investigative Journalism·备用频道",
-      "datetime": "2026-06-02T03:59:25+00:00",
-      "views": "321",
-      "source_links": [
-        {
-          "text": "The Bureau of Investigative Journalism",
-          "url": "https://www.thebureauinvestigates.com/stories/2026-06-01/money-transfer-giant-wise-investigated-for-half-a-billion-in-suspicious-transactions"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41704",
-      "scraped_at": "2026-06-02T12:00:28.249157"
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1330,6 +1306,6 @@
       "scraped_at": "2026-06-03T02:00:09.953577"
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-03T15:54:40.680895"
+  "count": 66,
+  "updated_at": "2026-06-03T15:59:48.381740"
 }
