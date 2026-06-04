@@ -1407,29 +1407,6 @@
       }
     },
     {
-      "id": "xhqcankao_29822",
-      "channel": "xhqcankao",
-      "text": "特朗普政府官员持有SpaceX数百万美元股票SpaceX的首次公开募股（IPO）很可能会让特朗普总统本已富有的政府班底变得更加富裕。根据这些官员最近一次公开的财务披露文件，包括美国特使维特科夫和小企业管理局局长洛夫勒在内的十名美国官员，均申报在埃隆·马斯克旗下火箭公司或其在二月份合并的人工智能和社交媒体公司xAI中拥有财务利益。根据去年的披露信息，美国联邦工作人员持有的 SpaceX 或 xAI 股票总价值至少为990万美元，且最高可达4380万美元。此后，这些美国官员可能已出售其全部或部分持股，而未触发额外披露要求。——彭博社",
-      "clean_text": "特朗普政府官员持有SpaceX数百万美元股票SpaceX的首次公开募股（IPO）很可能会让特朗普总统本已富有的政府班底变得更加富裕。根据这些官员最近一次公开的财务披露文件，包括美国特使维特科夫和小企业管理局局长洛夫勒在内的十名美国官员，均申报在埃隆·马斯克旗下火箭公司或其在二月份合并的人工智能和社交媒体公司xAI中拥有财务利益。根据去年的披露信息，美国联邦工作人员持有的 SpaceX 或 xAI 股票总价值至少为990万美元，且最高可达4380万美元。此后，这些美国官员可能已出售其全部或部分持股，而未触发额外披露要求。——彭博社",
-      "datetime": "2026-06-03T15:02:20+00:00",
-      "views": "2.18K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-ipo-poised-to-enrich-trump-officials-who-hold-millions-in-stock"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29822",
-      "scraped_at": "2026-06-04T00:00:33.958283",
-      "title": "美官员持SpaceX股票超千万",
-      "title_options": {
-        "conclusion": "美官员持SpaceX股票超千万",
-        "attractive": "官员持股SpaceX，IPO或暴富",
-        "minimal": "官员持股SpaceX",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1491,6 +1468,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-05T03:01:01.450702"
+  "count": 56,
+  "updated_at": "2026-06-05T03:06:05.709800"
 }
