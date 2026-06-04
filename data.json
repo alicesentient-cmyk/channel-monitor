@@ -1679,37 +1679,6 @@
       }
     },
     {
-      "id": "zaihuapd_41742",
-      "channel": "zaihuapd",
-      "text": "千问宣布向第三方 Agent、Skill 全面开放千问 APP 宣布将向第三方 Agent、Skill 全面开放，所有企业均可在千问运营自己的品牌 Agent。目前，瑞幸、肯德基、蜜雪冰城、东方航空等首批企业正在千问进行 Agent 服务测试，并将陆续上线。证券时报·备用频道·",
-      "clean_text": "千问宣布向第三方 Agent、Skill 全面开放千问 APP 宣布将向第三方 Agent、Skill 全面开放，所有企业均可在千问运营自己的品牌 Agent。目前，瑞幸、肯德基、蜜雪冰城、东方航空等首批企业正在千问进行 Agent 服务测试，并将陆续上线。证券时报·备用频道",
-      "datetime": "2026-06-03T12:15:09+00:00",
-      "views": "4.28K",
-      "source_links": [
-        {
-          "text": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3941333.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41742",
-      "scraped_at": "2026-06-03T21:00:43.756446",
-      "title": "千问向第三方全面开放",
-      "title_options": {
-        "conclusion": "千问向第三方全面开放",
-        "attractive": "瑞幸等企业测试千问Agent",
-        "minimal": "千问开放Agent",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1771,6 +1740,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-05T00:12:45.997615"
+  "count": 66,
+  "updated_at": "2026-06-05T00:17:56.155404"
 }
