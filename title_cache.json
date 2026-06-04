@@ -950,5 +950,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T12:05:56.167939"
+  },
+  "zaihuapd_41759": {
+    "ai_title": "微信与手机厂商推A2A助手",
+    "title_options": {
+      "conclusion": "微信与手机厂商推A2A助手",
+      "attractive": "手机语音可发微信消息",
+      "minimal": "微信A2A助手合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T13:02:03.371927"
+  },
+  "xhqcankao_29836": {
+    "ai_title": "优步裁员23%",
+    "title_options": {
+      "conclusion": "优步裁员23%",
+      "attractive": "优步裁员23%",
+      "minimal": "优步裁员23%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T13:02:04.387174"
+  },
+  "zaihuapd_41758": {
+    "ai_title": "韬定律：中国自主知识创新",
+    "title_options": {
+      "conclusion": "韬定律：中国自主知识创新",
+      "attractive": "后摩尔时代新定律",
+      "minimal": "韬定律 知识创新"
+    },
+    "generated_at": "2026-06-04T13:02:05.307521"
+  },
+  "xhqcankao_29835": {
+    "ai_title": "xAI暂停招聘AI导师",
+    "title_options": {
+      "conclusion": "xAI暂停招聘AI导师",
+      "attractive": "Grok训练师招聘暂停",
+      "minimal": "xAI AI导师停招",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T13:02:06.216044"
   }
 }
