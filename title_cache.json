@@ -1267,5 +1267,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T23:00:52.342446"
+  },
+  "zaihuapd_41772": {
+    "ai_title": "天涯社区6月1日恢复访问",
+    "title_options": {
+      "conclusion": "天涯社区6月1日恢复访问",
+      "attractive": "天涯社区明天回归",
+      "minimal": "天涯社区恢复访问",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T00:02:30.884228"
+  },
+  "xhqcankao_29856": {
+    "ai_title": "多国捣毁东南亚诈骗网",
+    "title_options": {
+      "conclusion": "多国捣毁东南亚诈骗网",
+      "attractive": "美企联手执法捕63人",
+      "minimal": "东南亚诈骗网被捣毁",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T00:02:32.096331"
+  },
+  "zaihuapd_41771": {
+    "ai_title": "TP-LINK九成员工拒签新合同",
+    "title_options": {
+      "conclusion": "TP-LINK九成员工拒签新合同",
+      "attractive": "社保突停，百人离职潮",
+      "minimal": "拒签、社保停、离职"
+    },
+    "generated_at": "2026-06-05T00:02:33.343528"
   }
 }
