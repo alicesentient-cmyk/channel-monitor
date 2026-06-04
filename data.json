@@ -1859,49 +1859,6 @@
       }
     },
     {
-      "id": "zaihuapd_41726",
-      "channel": "zaihuapd",
-      "text": "微软发布第二代量子芯片 Majorana 2，商用目标提前至 2029 年微软正式发布第二代拓扑量子芯片 Majorana 2，并宣布将实现商用量子计算机的目标时间缩短一半至 2029 年。该芯片通过引入铅超导体材料，将量子比特的可靠性提升了 1000 倍，其平均寿命从上一代的毫秒级大幅延长至 20 秒，部分实例最高可达一分钟。此次研发得到了 Microsoft Discovery 智能体 AI 平台的协助，该平台目前已正式开放。尽管物理学界对微软拓扑量子路线的实验数据仍存争议，但微软表示其研发过程正接受美国国防高级研究计划局（DARPA）的持续审计，以确保技术路径的可靠性。Microsoft|The Verge|Bloomberg|Reuters·备用频道·",
-      "clean_text": "📱微软发布第二代量子芯片 Majorana 2，商用目标提前至 2029 年微软正式发布第二代拓扑量子芯片 Majorana 2，并宣布将实现商用量子计算机的目标时间缩短一半至 2029 年。该芯片通过引入铅超导体材料，将量子比特的可靠性提升了 1000 倍，其平均寿命从上一代的毫秒级大幅延长至 20 秒，部分实例最高可达一分钟。此次研发得到了 Microsoft Discovery 智能体 AI 平台的协助，该平台目前已正式开放。尽管物理学界对微软拓扑量子路线的实验数据仍存争议，但微软表示其研发过程正接受美国国防高级研究计划局（DARPA）的持续审计，以确保技术路径的可靠性。Microsoft|The Verge|Bloomberg|Reuters·备用频道",
-      "datetime": "2026-06-03T04:17:21+00:00",
-      "views": "3.7K",
-      "source_links": [
-        {
-          "text": "Microsoft",
-          "url": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/"
-        },
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build"
-        },
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-new-quantum-chip-aiming-for-useful-machine-in-2029"
-        },
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/business/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2026-06-02/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41726",
-      "scraped_at": "2026-06-03T13:00:52.642719",
-      "title": "微软量子芯片商用提前至2029",
-      "title_options": {
-        "conclusion": "微软量子芯片商用提前至2029",
-        "attractive": "量子比特寿命延长至20秒",
-        "minimal": "Majorana 2 量子芯片",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1963,6 +1920,6 @@
       }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-04T16:16:37.307246"
+  "count": 73,
+  "updated_at": "2026-06-04T16:21:45.539596"
 }
