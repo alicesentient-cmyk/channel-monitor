@@ -1739,68 +1739,6 @@
       }
     },
     {
-      "id": "zaihuapd_41731",
-      "channel": "zaihuapd",
-      "text": "VSCode 漏洞可被用于窃取 GitHub Token安全研究者披露，攻击者可能通过诱导用户点击github.dev链接，利用 VSCode Webview 的键盘事件处理问题安装扩展，从而读取 GitHub API Token，并访问用户有权限的仓库，包括私有仓库。该问题也存在于桌面版 VSCode，但利用门槛更高。研究者建议清除github.dev的站点数据；如果已运行 PoC，还应卸载相关测试扩展。Ammar's Blog·备用频道·",
-      "clean_text": "VSCode 漏洞可被用于窃取 GitHub Token安全研究者披露，攻击者可能通过诱导用户点击github.dev链接，利用 VSCode Webview 的键盘事件处理问题安装扩展，从而读取 GitHub API Token，并访问用户有权限的仓库，包括私有仓库。该问题也存在于桌面版 VSCode，但利用门槛更高。研究者建议清除github.dev的站点数据；如果已运行 PoC，还应卸载相关测试扩展。Ammar's Blog·备用频道",
-      "datetime": "2026-06-03T06:32:21+00:00",
-      "views": "3.18K",
-      "source_links": [
-        {
-          "text": "github.dev",
-          "url": "http://github.dev/"
-        },
-        {
-          "text": "github.dev",
-          "url": "http://github.dev/"
-        },
-        {
-          "text": "Ammar's Blog",
-          "url": "https://blog.ammaraskar.com/github-token-stealing/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41731",
-      "scraped_at": "2026-06-03T15:00:29.565348",
-      "title": "VSCode漏洞可窃取GitHub T…",
-      "title_options": {
-        "conclusion": "VSCode漏洞可窃取GitHub T…",
-        "attractive": "点击链接Token被盗",
-        "minimal": "VSCode漏洞 Token窃取",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_29805",
-      "channel": "xhqcankao",
-      "text": "CMLink全球数据卡将对中国内地居民设限中国移动国际CMLink Global发布公告，为附合中国内地合规经营要求，CMLink 全球数据卡于北京时间2026年6月17日起，调整中国内地相关产品激活启用政策，具体通知如下：CMLink 全球数据卡中国内地相关产品仅适用于境外来华客户入境短期使用，不支持中国内地居民购买及使用。2026年6月17日0时起，含中国内地流量的套餐产品将不支持在中国内地直接激活启用。客户在中国内地使用SIM卡前的72小时内，需要在中国境外(含港澳台)插卡，并保持手机开机三至五分钟。如果未按要求提前插卡操作，入境中国入境后，SIM卡可能无法正常开通。——CMLink Global",
-      "clean_text": "CMLink全球数据卡将对中国内地居民设限中国移动国际CMLink Global发布公告，为附合中国内地合规经营要求，CMLink 全球数据卡于北京时间2026年6月17日起，调整中国内地相关产品激活启用政策，具体通知如下：CMLink 全球数据卡中国内地相关产品仅适用于境外来华客户入境短期使用，不支持中国内地居民购买及使用。2026年6月17日0时起，含中国内地流量的套餐产品将不支持在中国内地直接激活启用。客户在中国内地使用SIM卡前的72小时内，需要在中国境外(含港澳台)插卡，并保持手机开机三至五分钟。如果未按要求提前插卡操作，入境中国入境后，SIM卡可能无法正常开通。——CMLink Global",
-      "datetime": "2026-06-03T06:32:07+00:00",
-      "views": "1.81K",
-      "source_links": [
-        {
-          "text": "CMLink Global",
-          "url": "https://global.cmlink.com/zh-cn/homepage"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29805",
-      "scraped_at": "2026-06-03T15:00:31.863447",
-      "title": "CMLink数据卡限制内地居民",
-      "title_options": {
-        "conclusion": "CMLink数据卡限制内地居民",
-        "attractive": "境外卡需提前激活",
-        "minimal": "CMLink 限制 内地",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1862,6 +1800,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-06-04T18:30:01.953547"
+  "count": 69,
+  "updated_at": "2026-06-04T18:35:07.600519"
 }
