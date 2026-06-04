@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29853",
+      "channel": "xhqcankao",
+      "text": "数学家就人工智能迅速发展发出警告随着人工智能（AI）迅速进入各个领域，数学家们感受到巨大压力。今天，16位数学专家发布了长达11页的《关于人工智能与数学的莱顿宣言》，警告称不受约束的自动化不仅威胁着数学实践，也威胁着该学科的价值观。宣言提出了支持而非侵蚀该领域使用AI的原则，并强调数学是基于创造力、理解和协作的深度人类 endeavor。作者警告，AI生成的论文可能以低质量工作淹没同行评审系统，并使发现归属变得困难。该宣言已获得国际数学联盟的认可，并向全球个人和组织开放签署。——科学",
+      "clean_text": "数学家就人工智能迅速发展发出警告随着人工智能（AI）迅速进入各个领域，数学家们感受到巨大压力。今天，16位数学专家发布了长达11页的《关于人工智能与数学的莱顿宣言》，警告称不受约束的自动化不仅威胁着数学实践，也威胁着该学科的价值观。宣言提出了支持而非侵蚀该领域使用AI的原则，并强调数学是基于创造力、理解和协作的深度人类 endeavor。作者警告，AI生成的论文可能以低质量工作淹没同行评审系统，并使发现归属变得困难。该宣言已获得国际数学联盟的认可，并向全球个人和组织开放签署。——科学",
+      "datetime": "2026-06-04T13:55:38+00:00",
+      "views": "425",
+      "source_links": [
+        {
+          "text": "科学",
+          "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29853",
+      "scraped_at": "2026-06-04T22:00:44.546985",
+      "title": "16位专家警告AI威胁数学",
+      "title_options": {
+        "conclusion": "16位专家警告AI威胁数学",
+        "attractive": "AI论文将淹没同行评审",
+        "minimal": "数学家警告AI",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29852",
+      "channel": "xhqcankao",
+      "text": "中国公司以“公斤计”出售隐身涂料，可使无人机对雷达几乎隐形深圳公司星航（Star-Navi）现正销售原本需有数十亿美元才能涉足的隐身无人机技术，并使用标准化的喷涂枪套装形式出售其涂料。该技术通过涂层使无人机的雷达散射截面更小，更难被现代雷达追踪。他们推出的XRAM-C系列涂层提供三种不同变体，分别针对不同的威胁雷达频率，旨在增强无人机的隐蔽性。喷涂涂层成本与F-117相比几乎可以忽略不计，能够削减雷达反射功率50%。这些涂层包括XRAM‑C105（针对X和Ku频段）、XRAM‑C112（针对S和C频段）以及XRAM‑C113B（C和X频段宽带覆盖），均以公斤计出售，并声称在250摄氏度下可耐受100小时。这使得过去被视为国家机密的技术，更容易被获取，引发了潜在的扩散担忧。——TechRadar",
+      "clean_text": "中国公司以“公斤计”出售隐身涂料，可使无人机对雷达几乎隐形深圳公司星航（Star-Navi）现正销售原本需有数十亿美元才能涉足的隐身无人机技术，并使用标准化的喷涂枪套装形式出售其涂料。该技术通过涂层使无人机的雷达散射截面更小，更难被现代雷达追踪。他们推出的XRAM-C系列涂层提供三种不同变体，分别针对不同的威胁雷达频率，旨在增强无人机的隐蔽性。喷涂涂层成本与F-117相比几乎可以忽略不计，能够削减雷达反射功率50%。这些涂层包括XRAM‑C105（针对X和Ku频段）、XRAM‑C112（针对S和C频段）以及XRAM‑C113B（C和X频段宽带覆盖），均以公斤计出售，并声称在250摄氏度下可耐受100小时。这使得过去被视为国家机密的技术，更容易被获取，引发了潜在的扩散担忧。——TechRadar",
+      "datetime": "2026-06-04T13:20:28+00:00",
+      "views": "2.01K",
+      "source_links": [
+        {
+          "text": "TechRadar",
+          "url": "https://www.techradar.com/pro/chinese-firm-selling-stealth-core-technology-by-the-kilogram-to-make-drones-almost-invisible-to-radars-spray-on-coating-is-almost-affordable-by-f-117-standards-slashes-reflected-radar-power-by-50-percent"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29852",
+      "scraped_at": "2026-06-04T22:00:44.546588",
+      "title": "中国公司公斤售隐身涂料",
+      "title_options": {
+        "conclusion": "中国公司公斤售隐身涂料",
+        "attractive": "无人机隐身涂料公斤卖",
+        "minimal": "隐身涂料公斤售",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41769",
+      "channel": "zaihuapd",
+      "text": "美两党推出 GUARD 法案，拟对中国等国机器人实施进口审查美国众议院中国问题特别委员会主席与两名跨党派议员提出《保护美国免受对抗性机器人主导法案》。该法案要求国家安全机构在一年内对“对抗国家”（涵盖中国、俄罗斯等）制造的人形与四足机器人及通信设备进行审查；若审查期限届满仍未完成，FCC 将自动将其列入“覆盖名单”，限制其进入美国市场。批评者指出，部分支持方与美国本土机器人产业存在直接或间接利益关联（如美国无人驾驶系统协会、美国人形机器人企业 Agility Robotics 等），其国安话语与产业政策诉求有所重叠；法案及背书方援引的“后门”“远程劫持”等描述，尚无公开证据支撑。宇树科技上市申请于 6 月 1 日上会审议，法案恰逢其在中国科创板 IPO 的关键时间节点。Select Committee on China|中国科技网|联合早报·备用频道·",
+      "clean_text": "美两党推出 GUARD 法案，拟对中国等国机器人实施进口审查美国众议院中国问题特别委员会主席与两名跨党派议员提出《保护美国免受对抗性机器人主导法案》。该法案要求国家安全机构在一年内对“对抗国家”（涵盖中国、俄罗斯等）制造的人形与四足机器人及通信设备进行审查；若审查期限届满仍未完成，FCC 将自动将其列入“覆盖名单”，限制其进入美国市场。批评者指出，部分支持方与美国本土机器人产业存在直接或间接利益关联（如美国无人驾驶系统协会、美国人形机器人企业 Agility Robotics 等），其国安话语与产业政策诉求有所重叠；法案及背书方援引的“后门”“远程劫持”等描述，尚无公开证据支撑。宇树科技上市申请于 6 月 1 日上会审议，法案恰逢其在中国科创板 IPO 的关键时间节点。Select Committee on China|中国科技网|联合早报·备用频道",
+      "datetime": "2026-06-04T13:16:10+00:00",
+      "views": "3.8K",
+      "source_links": [
+        {
+          "text": "Select Committee on China",
+          "url": "http://chinaselectcommittee.house.gov/media/press-releases/moolenaar-obernolte-mcclellan-introduce-legislation-to-ban-dangerous-chinese-robots"
+        },
+        {
+          "text": "中国科技网",
+          "url": "https://www.stdaily.com/web/gjxw/2026-03/25/content_492458.html"
+        },
+        {
+          "text": "联合早报",
+          "url": "https://www.zaobao.com/finance/china/story20260604-9152747"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41769",
+      "scraped_at": "2026-06-04T22:00:42.316589",
+      "title": "美拟审查中国机器人进口",
+      "title_options": {
+        "conclusion": "美拟审查中国机器人进口",
+        "attractive": "美法案限制中国机器人",
+        "minimal": "美机器人进口审查",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29851",
       "channel": "xhqcankao",
       "text": "据称OpenAI内部有人月耗1000亿tokenOpenAI公司首席执行官山姆·奥尔特曼在一场面向企业客户的活动上，披露了一组令人咋舌的内部 token 消耗数据，也让外界得以一窥这家AI巨头真实的 “烧钱” 规模。奥尔特曼称，六年半前，OpenAI token消耗最多的用户每月使用约10万token，当时“极有可能是全世界的token消耗冠军”奥尔特曼说：“六年半后的今天，这个数字大约只是全球人均水平。而目前OpenAI公司内部的token消耗冠军，每月用量约为1000亿 token。”但即便如此，这还不是全球最高的。公司发现有外部用户的消耗量超过了这个数字。奥尔特曼说，OpenAI将继续推动模型迭代，并探索更多方式，实现花更少的钱，交付更多价值。——环球网、商业内幕",
@@ -1663,51 +1748,6 @@
       }
     },
     {
-      "id": "xhqcankao_29812",
-      "channel": "xhqcankao",
-      "text": "DeepSeek将完成500亿元人民币首次融资中国人工智能初创企业 DeepSeek 即将完成规模大约五百亿元人民币的首次融资，腾讯控股以及宁德时代有望成为最大的外部投资方。在此轮投资完成后， DeepSeek 的整体估值将攀升至 3500 亿元至 4000 亿元人民币。在具体的资金募集构成上， DeepSeek 创始人梁文锋个人已承诺出资两百亿元。作为外部财务与战略支持，腾讯正考虑注资一百亿元人民币，而电池行业龙头宁德时代则计划投资五十亿元人民币。上述出资方案若最终敲定，将使这两家企业成为本轮融资中最大的外部支持者。 DeepSeek 的潜在投资方阵容还包括多支国家队与知名投资机构。——凤凰网科技、路透社",
-      "clean_text": "DeepSeek将完成500亿元人民币首次融资中国人工智能初创企业 DeepSeek 即将完成规模大约五百亿元人民币的首次融资，腾讯控股以及宁德时代有望成为最大的外部投资方。在此轮投资完成后， DeepSeek 的整体估值将攀升至 3500 亿元至 4000 亿元人民币。在具体的资金募集构成上， DeepSeek 创始人梁文锋个人已承诺出资两百亿元。作为外部财务与战略支持，腾讯正考虑注资一百亿元人民币，而电池行业龙头宁德时代则计划投资五十亿元人民币。上述出资方案若最终敲定，将使这两家企业成为本轮融资中最大的外部支持者。 DeepSeek 的潜在投资方阵容还包括多支国家队与知名投资机构。——凤凰网科技、路透社",
-      "datetime": "2026-06-03T10:03:19+00:00",
-      "views": "2.19K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v0062ASdPrrRwjuz8olwMbz5Ehmvte7mim--Lvd1YTpgAKgcRoJ3qb8gNhvTjl--dgxPUL"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/business/retail-consumer/deepseek-slated-draw-7-billion-maiden-fundraising-sources-say-2026-06-03/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29812",
-      "scraped_at": "2026-06-03T19:00:15.693350",
-      "title": "DeepSeek获500亿融资",
-      "title_options": {
-        "conclusion": "DeepSeek获500亿融资",
-        "attractive": "腾讯宁德时代投DeepSeek",
-        "minimal": "DeepSeek 500亿融资",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41737",
-      "channel": "zaihuapd",
-      "text": "美国联邦法院裁定特朗普新一轮 10% 全球关税违法  美国纽约国际贸易法院近日裁定，总统特朗普在最高法院此前否决其更广泛关税措施后推出的 10%全球临时关税“无效”且“无法律授权”，认定其超越国会依据《1974 年贸易法》第 122 条赋予总统的关税权限。  裁决直接阻止政府向原告华盛顿州及两家企业继续征收相关关税，目前还不清楚其他企业是否需要继续缴纳。特朗普政府大概率将就此上诉，后续或提交华盛顿联邦巡回上诉法院审理，并最终再度进入美国最高法院。  AP News",
-      "clean_text": "美国联邦法院裁定特朗普新一轮 10% 全球关税违法  美国纽约国际贸易法院近日裁定，总统特朗普在最高法院此前否决其更广泛关税措施后推出的 10%全球临时关税“无效”且“无法律授权”，认定其超越国会依据《1974 年贸易法》第 122 条赋予总统的关税权限。  裁决直接阻止政府向原告华盛顿州及两家企业继续征收相关关税，目前还不清楚其他企业是否需要继续缴纳。特朗普政府大概率将就此上诉，后续或提交华盛顿联邦巡回上诉法院审理，并最终再度进入美国最高法院。  AP News · 茶馆讨论 · 投稿通道",
-      "datetime": "2026-06-03T10:02:21+00:00",
-      "views": "4.68K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41737",
-      "scraped_at": "2026-06-03T19:00:12.688218",
-      "title": "美法院裁定特朗普关税违法",
-      "title_options": {
-        "conclusion": "美法院裁定特朗普关税违法",
-        "attractive": "10%全球关税被判无效",
-        "minimal": "特朗普关税违法",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1769,6 +1809,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-04T21:59:19.243885"
+  "count": 69,
+  "updated_at": "2026-06-04T22:04:30.634862"
 }
