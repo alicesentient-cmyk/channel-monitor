@@ -1376,37 +1376,6 @@
       }
     },
     {
-      "id": "zaihuapd_41753",
-      "channel": "zaihuapd",
-      "text": "苹果相机模组散热专利提出用矿物油吸热苹果获得一项相机模组散热专利，方案是在不影响光轴的区域外填充矿物油等介电液体，让液体吸收图像传感器、执行器和处理电路产生的热量。这项设计不是液态镜头，而是为可移动相机部件提供更稳定的散热路径。材料还提到，它可能让形状记忆合金执行器更实用，因为这类部件在精确移动时也会产生废热。Wccftech·备用频道·",
-      "clean_text": "苹果相机模组散热专利提出用矿物油吸热苹果获得一项相机模组散热专利，方案是在不影响光轴的区域外填充矿物油等介电液体，让液体吸收图像传感器、执行器和处理电路产生的热量。这项设计不是液态镜头，而是为可移动相机部件提供更稳定的散热路径。材料还提到，它可能让形状记忆合金执行器更实用，因为这类部件在精确移动时也会产生废热。Wccftech·备用频道",
-      "datetime": "2026-06-03T15:30:21+00:00",
-      "views": "2.71K",
-      "source_links": [
-        {
-          "text": "Wccftech",
-          "url": "https://wccftech.com/apple-just-won-a-patent-that-floods-the-iphone-camera-module-with-mineral-oil-to-tame-runaway-sensor-heat/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41753",
-      "scraped_at": "2026-06-04T00:00:29.711052",
-      "title": "苹果获相机散热专利",
-      "title_options": {
-        "conclusion": "苹果获相机散热专利",
-        "attractive": "相机散热用矿物油",
-        "minimal": "苹果散热专利",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1468,6 +1437,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-05T03:26:20.161126"
+  "count": 55,
+  "updated_at": "2026-06-05T03:31:23.867621"
 }
