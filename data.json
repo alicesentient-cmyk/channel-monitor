@@ -1931,29 +1931,6 @@
       }
     },
     {
-      "id": "xhqcankao_29794",
-      "channel": "xhqcankao",
-      "text": "Office 2019 for Mac即将停止编辑文档功能微软将从7月13日起阻止Mac版Office 2019用户编辑他们的文档，该公司将这一限制归因于该生产力套件即将过期的数字证书。一旦用于确认该套件许可的证书过期，这些应用将进入微软所称的功能受限模式。换句话说，用户仍将能够打开、查看和打印现有文档，但创建、编辑和保存文档将被禁用。同样的限制将适用于无法更新的iPhone和iPad应用程序，微软实际上已经更新了该套件的证书，但修复只能通过软件更新来交付。这意味着Microsoft 365和Office 2021的用户是安全的 —— 他们将收到更新。然而，微软于 2023年10月10日停止了对 Office 2019 的支持。因此，该套件不会更新到16.83版本，该版本是包含续订证书的发行版。——Macrumors",
-      "clean_text": "Office 2019 for Mac即将停止编辑文档功能微软将从7月13日起阻止Mac版Office 2019用户编辑他们的文档，该公司将这一限制归因于该生产力套件即将过期的数字证书。一旦用于确认该套件许可的证书过期，这些应用将进入微软所称的功能受限模式。换句话说，用户仍将能够打开、查看和打印现有文档，但创建、编辑和保存文档将被禁用。同样的限制将适用于无法更新的iPhone和iPad应用程序，微软实际上已经更新了该套件的证书，但修复只能通过软件更新来交付。这意味着Microsoft 365和Office 2021的用户是安全的 —— 他们将收到更新。然而，微软于 2023年10月10日停止了对 Office 2019 的支持。因此，该套件不会更新到16.83版本，该版本是包含续订证书的发行版。——Macrumors",
-      "datetime": "2026-06-03T01:33:29+00:00",
-      "views": "1.11K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/02/microsoft-office-2019-for-mac-no-edit-documents/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29794",
-      "scraped_at": "2026-06-03T10:00:16.657676",
-      "title": "Mac版Office 2019将停编辑",
-      "title_options": {
-        "conclusion": "Mac版Office 2019将停编辑",
-        "attractive": "7月13日起Mac Office 20…",
-        "minimal": "Office 2019 Mac 编辑停用",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -2015,6 +1992,6 @@
       }
     }
   ],
-  "count": 75,
-  "updated_at": "2026-06-04T13:32:49.196609"
+  "count": 74,
+  "updated_at": "2026-06-04T13:37:55.694682"
 }
