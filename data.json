@@ -1698,56 +1698,6 @@
       }
     },
     {
-      "id": "xhqcankao_29813",
-      "channel": "xhqcankao",
-      "text": "印度亚马逊Prime音乐权益现已包含广告亚马逊Prime会员多年来一直是一项充满福利的订阅服务，包括免费送货、优质视频内容、音乐流媒体，甚至还有游戏。但就在公司将广告引入Prime Video仅仅两年后，亚马逊正在向澳大利亚、印度等市场的亚马逊音乐中推出广告。印度和澳大利亚的用户报告称收到了该公司发送的告知他们这些变化的电子邮件。亚马逊向媒体证实，这一通知仅针对印度的亚马逊音乐产品，但澳大利亚的用户已收到类似的电子邮件。该电子邮件指出，广告将从6月2日起加入，而希望继续无广告、离线收听高清和空间音频的用户应尝试Amazon Music Unlimited会员。——digitalmusicnews",
-      "clean_text": "印度亚马逊Prime音乐权益现已包含广告亚马逊Prime会员多年来一直是一项充满福利的订阅服务，包括免费送货、优质视频内容、音乐流媒体，甚至还有游戏。但就在公司将广告引入Prime Video仅仅两年后，亚马逊正在向澳大利亚、印度等市场的亚马逊音乐中推出广告。印度和澳大利亚的用户报告称收到了该公司发送的告知他们这些变化的电子邮件。亚马逊向媒体证实，这一通知仅针对印度的亚马逊音乐产品，但澳大利亚的用户已收到类似的电子邮件。该电子邮件指出，广告将从6月2日起加入，而希望继续无广告、离线收听高清和空间音频的用户应尝试Amazon Music Unlimited会员。——digitalmusicnews",
-      "datetime": "2026-06-03T10:35:08+00:00",
-      "views": "1.05K",
-      "source_links": [
-        {
-          "text": "digitalmusicnews",
-          "url": "https://www.digitalmusicnews.com/2026/06/02/amazon-prime-music-benefits-now-include-ads-in-india/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29813",
-      "scraped_at": "2026-06-03T19:00:15.693718",
-      "title": "印度Prime音乐将含广告",
-      "title_options": {
-        "conclusion": "印度Prime音乐将含广告",
-        "attractive": "Prime音乐免费听？广告来了",
-        "minimal": "印度Prime音乐广告",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41738",
-      "channel": "zaihuapd",
-      "text": "CMLink 调整境外卡内地流量套餐激活规则：6 月 17 日起需境外提前启用CMLink 公告称，自 2026 年 6 月 17 日 0 时起，含中国内地流量的 CMLink 套餐将不支持在中国内地直接激活。用户需在入境前 72 小时内，于中国境外含港澳台地区插卡，并保持手机开机 3 至 5 分钟。若未提前完成操作，入境后 SIM 卡可能无法正常激活或使用。CMLink 建议用户在出发前或中转机场提前完成激活。via 群友·备用频道·",
-      "clean_text": "CMLink 调整境外卡内地流量套餐激活规则：6 月 17 日起需境外提前启用CMLink 公告称，自 2026 年 6 月 17 日 0 时起，含中国内地流量的 CMLink 套餐将不支持在中国内地直接激活。用户需在入境前 72 小时内，于中国境外含港澳台地区插卡，并保持手机开机 3 至 5 分钟。若未提前完成操作，入境后 SIM 卡可能无法正常激活或使用。CMLink 建议用户在出发前或中转机场提前完成激活。via 群友·备用频道",
-      "datetime": "2026-06-03T10:30:18+00:00",
-      "views": "3.2K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41738",
-      "scraped_at": "2026-06-03T19:00:12.688727",
-      "title": "CMLink调整内地流量激活规则",
-      "title_options": {
-        "conclusion": "CMLink调整内地流量激活规则",
-        "attractive": "境外卡内地流量需提前激活",
-        "minimal": "CMLink激活规则变更",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1809,6 +1759,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-04T22:30:07.667034"
+  "count": 67,
+  "updated_at": "2026-06-04T22:35:13.596641"
 }
