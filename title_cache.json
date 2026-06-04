@@ -1069,5 +1069,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T16:01:14.077186"
+  },
+  "xhqcankao_29845": {
+    "ai_title": "中国厂商占日本自动驾驶巴士过半",
+    "title_options": {
+      "conclusion": "中国厂商占日本自动驾驶巴士过半",
+      "attractive": "日本自动驾驶巴士过半来自中国",
+      "minimal": "中国厂商 日本 自动驾驶 巴士 过半",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T17:02:42.354118"
+  },
+  "zaihuapd_41763": {
+    "ai_title": "汽柴油每吨上调75/70元",
+    "title_options": {
+      "conclusion": "汽柴油每吨上调75/70元",
+      "attractive": "油价上涨，每吨多花75元",
+      "minimal": "油价上调",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T17:02:43.388879"
+  },
+  "xhqcankao_29844": {
+    "ai_title": "台积电数年无法满足芯片需求",
+    "title_options": {
+      "conclusion": "台积电数年无法满足芯片需求",
+      "attractive": "AI芯片需求数年难满足",
+      "minimal": "台积电芯片供应不足",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T17:02:44.444413"
+  },
+  "xhqcankao_29843": {
+    "ai_title": "亚马逊上线AI生成商品图",
+    "title_options": {
+      "conclusion": "亚马逊上线AI生成商品图",
+      "attractive": "搜连衣裙AI生成款式",
+      "minimal": "亚马逊AI商品图",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T17:02:45.531798"
   }
 }
