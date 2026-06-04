@@ -1237,5 +1237,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T22:04:30.632545"
+  },
+  "xhqcankao_29855": {
+    "ai_title": "中国电视销量全球唯一下滑",
+    "title_options": {
+      "conclusion": "中国电视销量全球唯一下滑",
+      "attractive": "全球电视热销，中国为何独降？",
+      "minimal": "中国电视销量下滑",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T23:00:50.084928"
+  },
+  "xhqcankao_29854": {
+    "ai_title": "华为2031年比肩尖端芯片",
+    "title_options": {
+      "conclusion": "华为2031年比肩尖端芯片",
+      "attractive": "华为芯片差距六到八年",
+      "minimal": "华为芯片技术高墙",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T23:00:51.232082"
+  },
+  "zaihuapd_41770": {
+    "ai_title": "市长嘲讽反对数据中心居民",
+    "title_options": {
+      "conclusion": "市长嘲讽反对数据中心居民",
+      "attractive": "市长称反对者住烂房子",
+      "minimal": "市长 嘲讽 居民",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T23:00:52.342446"
   }
 }
