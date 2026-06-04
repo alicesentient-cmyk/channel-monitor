@@ -1,6 +1,114 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29839",
+      "channel": "xhqcankao",
+      "text": "微信正与手机厂商合作推出A2A助手能力即时通讯软件微信正在与华为、荣耀、小米、OPPO、vivo等手机厂商合作推出A2A（Agent-to-Agent）助手能力，可通过手机语音助理发起微信的音视频通话，或向好友发送消息。目前，荣耀部分机型已经支持该功能，把YOYO智能体和微信更新到最新版本，即可唤醒YOYO直接语音下达指令，比如语音发微信消息、拨打微信语音、视频通话。该功能基于A2A协作机制，由厂商AI助手向微信发起指令，微信负责执行并返回结果，全程采用双重授权机制，保障数据安全与隐私合规。合作旨在以更自然的方式将微信能力融入您的日常使用中。——财联社",
+      "clean_text": "微信正与手机厂商合作推出A2A助手能力即时通讯软件微信正在与华为、荣耀、小米、OPPO、vivo等手机厂商合作推出A2A（Agent-to-Agent）助手能力，可通过手机语音助理发起微信的音视频通话，或向好友发送消息。目前，荣耀部分机型已经支持该功能，把YOYO智能体和微信更新到最新版本，即可唤醒YOYO直接语音下达指令，比如语音发微信消息、拨打微信语音、视频通话。该功能基于A2A协作机制，由厂商AI助手向微信发起指令，微信负责执行并返回结果，全程采用双重授权机制，保障数据安全与隐私合规。合作旨在以更自然的方式将微信能力融入您的日常使用中。——财联社",
+      "datetime": "2026-06-04T05:51:36+00:00",
+      "views": "625",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://www.cls.cn/detail/2390226"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29839",
+      "scraped_at": "2026-06-04T14:00:42.095088",
+      "title": "微信与厂商推A2A助手",
+      "title_options": {
+        "conclusion": "微信与厂商推A2A助手",
+        "attractive": "手机语音可发微信",
+        "minimal": "微信A2A助手",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41760",
+      "channel": "zaihuapd",
+      "text": "粉笔 CEO 张小龙就人大讲座不当言行道歉粉笔 CEO 张小龙在中国人民大学哲学院职业规划讲座中引发争议。他临时把主题改为“AI 炒股”与个人财富分享，因学生反应平淡而情绪失控，连续爆粗口辱骂学生，并称“考公都是混吃等死”，随后愤然离场。6 月 4 日，张小龙发布道歉信，承认个人言行失当，称给在场师生造成困扰、破坏交流氛围，向中国人民大学及哲学院师生致歉，并表示愿意承担相应责任。搜狐网(1,2) |网易·备用频道·",
+      "clean_text": "粉笔 CEO 张小龙就人大讲座不当言行道歉粉笔 CEO 张小龙在中国人民大学哲学院职业规划讲座中引发争议。他临时把主题改为“AI 炒股”与个人财富分享，因学生反应平淡而情绪失控，连续爆粗口辱骂学生，并称“考公都是混吃等死”，随后愤然离场。6 月 4 日，张小龙发布道歉信，承认个人言行失当，称给在场师生造成困扰、破坏交流氛围，向中国人民大学及哲学院师生致歉，并表示愿意承担相应责任。搜狐网(1,2) |网易·备用频道",
+      "datetime": "2026-06-04T05:51:13+00:00",
+      "views": "1.65K",
+      "source_links": [
+        {
+          "text": "1",
+          "url": "https://www.sohu.com/a/1032002001_313745"
+        },
+        {
+          "text": "2",
+          "url": "https://www.sohu.com/a/1031943522_115060"
+        },
+        {
+          "text": "网易",
+          "url": "https://www.163.com/dy/article/KUIQ8L9U0511A6N9.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41760",
+      "scraped_at": "2026-06-04T14:00:34.181295",
+      "title": "张小龙就人大讲座不当言行道歉",
+      "title_options": {
+        "conclusion": "张小龙就人大讲座不当言行道歉",
+        "attractive": "考公混吃等死？张小龙道歉",
+        "minimal": "张小龙人大讲座道歉",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29838",
+      "channel": "xhqcankao",
+      "text": "Meta一再推迟向开发者发布其最新AI模型据知情人士透露，Meta公司已多次推迟向开发者发布其最新人工智能模型的计划，截至周二，该公司仍未确定发布日期。距离该公司AI负责人告诉开发者 “很快” 就会发布该模型已过去近两个月。Meta发言人在回答记者周三的提问时表示，该公司正在与合作伙伴测试模型 API ，并计划于本月发布。知情人士表示，Meta最初计划在4月份推出其最新AI模型Muse Spark时发布该API。知情人士透露，发布时间最初从4月推迟到5月，是因为测试中发现了漏洞，并且需要构建更多基础设施。随后发布时间又被推迟到了6月。——华尔街日报",
+      "clean_text": "Meta一再推迟向开发者发布其最新AI模型据知情人士透露，Meta公司已多次推迟向开发者发布其最新人工智能模型的计划，截至周二，该公司仍未确定发布日期。距离该公司AI负责人告诉开发者 “很快” 就会发布该模型已过去近两个月。Meta发言人在回答记者周三的提问时表示，该公司正在与合作伙伴测试模型 API ，并计划于本月发布。知情人士表示，Meta最初计划在4月份推出其最新AI模型Muse Spark时发布该API。知情人士透露，发布时间最初从4月推迟到5月，是因为测试中发现了漏洞，并且需要构建更多基础设施。随后发布时间又被推迟到了6月。——华尔街日报",
+      "datetime": "2026-06-04T05:32:16+00:00",
+      "views": "1.36K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-e6fbf651?mod=cn_hp_lead_pos6"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29838",
+      "scraped_at": "2026-06-04T14:00:42.094741",
+      "title": "Meta推迟发布AI模型",
+      "title_options": {
+        "conclusion": "Meta推迟发布AI模型",
+        "attractive": "Meta AI模型发布再延期",
+        "minimal": "Meta AI模型推迟",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29837",
+      "channel": "xhqcankao",
+      "text": "欧洲议会弃用谷歌转而使用法国搜索引擎根据内部通讯，从周四开始，欧洲议会将在内部计算机上用法国搜索引擎取代谷歌作为默认搜索工具。在一封电子邮件中，官员们告诉议员，截至6月4日，Qwant将取代谷歌成为欧洲议会计算机上的默认搜索引擎。这一改变的做出是符合议会对数字主权和保护用户个人数据的承诺。这一搜索引擎的切换正值布鲁塞尔加倍推进其对 “技术主权” 的争取。欧盟委员会将于周三公布其备受期待的技术主权一揽子计划，旨在减少对外国技术供应商的依赖并促进欧洲的替代方案。该电邮将Qwant描述为专注于隐私的欧洲搜索引擎，旨在避免追踪用户或收集个人数据。——politico",
+      "clean_text": "欧洲议会弃用谷歌转而使用法国搜索引擎根据内部通讯，从周四开始，欧洲议会将在内部计算机上用法国搜索引擎取代谷歌作为默认搜索工具。在一封电子邮件中，官员们告诉议员，截至6月4日，Qwant将取代谷歌成为欧洲议会计算机上的默认搜索引擎。这一改变的做出是符合议会对数字主权和保护用户个人数据的承诺。这一搜索引擎的切换正值布鲁塞尔加倍推进其对 “技术主权” 的争取。欧盟委员会将于周三公布其备受期待的技术主权一揽子计划，旨在减少对外国技术供应商的依赖并促进欧洲的替代方案。该电邮将Qwant描述为专注于隐私的欧洲搜索引擎，旨在避免追踪用户或收集个人数据。——politico",
+      "datetime": "2026-06-04T05:03:50+00:00",
+      "views": "2.11K",
+      "source_links": [
+        {
+          "text": "politico",
+          "url": "https://www.politico.eu/article/european-parliament-ditches-google-for-french-search-engine/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29837",
+      "scraped_at": "2026-06-04T14:00:42.094393",
+      "title": "欧洲议会弃谷歌用Qwant",
+      "title_options": {
+        "conclusion": "欧洲议会弃谷歌用Qwant",
+        "attractive": "欧洲议会换搜索引擎",
+        "minimal": "欧洲议会换搜索引擎",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41759",
       "channel": "zaihuapd",
       "text": "微信正与手机厂商合作推出 Agent-to-Agent 助手能力微信正在与华为、荣耀、小米、OPPO、vivo 等手机厂商合作推出 A2A（Agent-to-Agent）助手能力，可通过手机语音助理发起微信的音视频通话，或向好友发送消息。目前，荣耀部分机型已经支持该功能，把 YOYO 智能体和微信更新到最新版本，即可唤醒 YOYO 直接语音下达指令，比如语音发微信消息、拨打微信语音、视频通话。财联社·备用频道·",
@@ -1873,64 +1981,6 @@
       }
     },
     {
-      "id": "zaihuapd_41723",
-      "channel": "zaihuapd",
-      "text": "iOS 27 或引入应用分屏适配功能，助力折叠屏 iPhone苹果正在为 iOS 27 开发一项系统级的应用横屏适配功能。该功能旨在自动将手机应用适配至宽屏或横屏布局，无需开发者手动重新设计。此举将解决 iOS 在大屏幕显示上的长期短板，让垂直布局的 App 能在更宽的画面中自然显示。这项改进主要针对传闻中拥有 7.8 英寸内屏的折叠屏 iPhone。iOS 27 预计将借鉴 iPadOS 的多任务处理机制，支持在折叠屏上并排运行两个应用。苹果有望在 6 月举办的 WWDC 2026 上正式公布该系统。MacRumors·备用频道·",
-      "clean_text": "iOS 27 或引入应用分屏适配功能，助力折叠屏 iPhone苹果正在为 iOS 27 开发一项系统级的应用横屏适配功能。该功能旨在自动将手机应用适配至宽屏或横屏布局，无需开发者手动重新设计。此举将解决 iOS 在大屏幕显示上的长期短板，让垂直布局的 App 能在更宽的画面中自然显示。这项改进主要针对传闻中拥有 7.8 英寸内屏的折叠屏 iPhone。iOS 27 预计将借鉴 iPadOS 的多任务处理机制，支持在折叠屏上并排运行两个应用。苹果有望在 6 月举办的 WWDC 2026 上正式公布该系统。MacRumors·备用频道",
-      "datetime": "2026-06-03T02:02:21+00:00",
-      "views": "4.8K",
-      "source_links": [
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41723",
-      "scraped_at": "2026-06-03T11:00:29.073359",
-      "title": "iOS 27将适配折叠屏",
-      "title_options": {
-        "conclusion": "iOS 27将适配折叠屏",
-        "attractive": "折叠屏iPhone分屏功能",
-        "minimal": "iOS 27分屏适配",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_29795",
-      "channel": "xhqcankao",
-      "text": "v2rayN发布跳过证书验证参数被移除说明知名代理软件客户端 v2rayN / NG开发者发布跳过证书验证参数被移除的说明。开发者表示，Xray-core 在v26.2.6版本中，正式移除了TLS配置中的 allowInsecure 参数。“跳过 TLS 证书验证” 这种做法存在一定的安全风险，因此Xray官方决定用更安全、更明确的证书固定机制来替代它。自2026年6月1日起，所有使用了新版Xray内核的用户，只要配置中存在 allowInsecure 字段，均会出现报错，导致内核无法启动。作为过渡期解决方案，v2rayN 7.22.5版本已临时恢复对“跳过证书验证”功能的支持。但Xray将于8月1日彻底禁用相关参数，届时此方案将不再有效。用户和机场需要尽快完成配置更新。——v2rayN",
-      "clean_text": "v2rayN发布跳过证书验证参数被移除说明知名代理软件客户端 v2rayN / NG开发者发布跳过证书验证参数被移除的说明。开发者表示，Xray-core 在v26.2.6版本中，正式移除了TLS配置中的 allowInsecure 参数。“跳过 TLS 证书验证” 这种做法存在一定的安全风险，因此Xray官方决定用更安全、更明确的证书固定机制来替代它。自2026年6月1日起，所有使用了新版Xray内核的用户，只要配置中存在 allowInsecure 字段，均会出现报错，导致内核无法启动。作为过渡期解决方案，v2rayN 7.22.5版本已临时恢复对“跳过证书验证”功能的支持。但Xray将于8月1日彻底禁用相关参数，届时此方案将不再有效。用户和机场需要尽快完成配置更新。——v2rayN",
-      "datetime": "2026-06-03T02:00:25+00:00",
-      "views": "3.07K",
-      "source_links": [
-        {
-          "text": "v2rayN 7.22.5版本已临时恢复对“跳过证书验证”功能的支持",
-          "url": "https://github.com/2dust/v2rayN/releases/tag/7.22.5"
-        },
-        {
-          "text": "v2rayN",
-          "url": "https://github.com/2dust/v2rayN/discussions/9460"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29795",
-      "scraped_at": "2026-06-03T11:00:31.152033",
-      "title": "v2rayN移除跳过证书验证",
-      "title_options": {
-        "conclusion": "v2rayN移除跳过证书验证",
-        "attractive": "证书验证移除，内核将报错",
-        "minimal": "v2rayN证书验证移除",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1992,6 +2042,6 @@
       }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-04T13:58:18.649293"
+  "count": 76,
+  "updated_at": "2026-06-04T14:03:29.271160"
 }
