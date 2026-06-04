@@ -920,5 +920,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T11:04:52.739866"
+  },
+  "xhqcankao_29834": {
+    "ai_title": "AI高管呼吁立法防生物武器",
+    "title_options": {
+      "conclusion": "AI高管呼吁立法防生物武器",
+      "attractive": "AI巨头联手防生物威胁",
+      "minimal": "AI企业呼吁立法",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T12:05:54.058109"
+  },
+  "zaihuapd_41757": {
+    "ai_title": "德州App Store实施年龄验证",
+    "title_options": {
+      "conclusion": "德州App Store实施年龄验证",
+      "attractive": "苹果验证年龄，家长同意",
+      "minimal": "德州年龄验证",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T12:05:55.065116"
+  },
+  "xhqcankao_29833": {
+    "ai_title": "广电总局治理微短剧",
+    "title_options": {
+      "conclusion": "广电总局治理微短剧",
+      "attractive": "微短剧八类问题被查",
+      "minimal": "微短剧专项治理",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T12:05:56.167939"
   }
 }
