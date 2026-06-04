@@ -1,6 +1,63 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29849",
+      "channel": "xhqcankao",
+      "text": "苹果将借谷歌云、英伟达芯片处理Siri查询苹果将通过谷歌云，使用英伟达Blackwell B200数据中心芯片来处理部分Siri查询。据知情人士透露，苹果此次采用的是英伟达旗舰级数据中心GPU——Blackwell B200。该芯片基于英伟达Blackwell架构，是上一代 Hopper 架构的继任者，被英伟达定位为运行和训练万亿参数级超大规模AI模型的核心平台，在推理性能、内存带宽及多GPU扩展能力上均有显著提升。值得注意的是，苹果还将启用英伟达的机密计算功能。这是一项基于硬件的安全技术，能够在GPU处理数据的同时对数据进行加密。苹果选择借力谷歌云和英伟达芯片的做法，“与其长期以来试图控制其产品所有关键要素的战略背道而驰”。——环球网、The Information",
+      "clean_text": "苹果将借谷歌云、英伟达芯片处理Siri查询苹果将通过谷歌云，使用英伟达Blackwell B200数据中心芯片来处理部分Siri查询。据知情人士透露，苹果此次采用的是英伟达旗舰级数据中心GPU——Blackwell B200。该芯片基于英伟达Blackwell架构，是上一代 Hopper 架构的继任者，被英伟达定位为运行和训练万亿参数级超大规模AI模型的核心平台，在推理性能、内存带宽及多GPU扩展能力上均有显著提升。值得注意的是，苹果还将启用英伟达的机密计算功能。这是一项基于硬件的安全技术，能够在GPU处理数据的同时对数据进行加密。苹果选择借力谷歌云和英伟达芯片的做法，“与其长期以来试图控制其产品所有关键要素的战略背道而驰”。——环球网、The Information",
+      "datetime": "2026-06-04T11:46:46+00:00",
+      "views": "769",
+      "source_links": [
+        {
+          "text": "环球网",
+          "url": "https://tech.huanqiu.com/article/4RqDpjgz58J"
+        },
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/briefings/apple-launch-new-siri-september-help-google-nvidia"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29849",
+      "scraped_at": "2026-06-04T20:00:40.153633",
+      "title": "苹果借谷歌云用英伟达芯片",
+      "title_options": {
+        "conclusion": "苹果借谷歌云用英伟达芯片",
+        "attractive": "苹果Siri查询用英伟达芯片",
+        "minimal": "苹果谷歌云英伟达芯片"
+      }
+    },
+    {
+      "id": "zaihuapd_41766",
+      "channel": "zaihuapd",
+      "text": "苹果新版 Siri 被曝将采用谷歌 Nvidia 芯片处理云端请求苹果计划在今年 9 月推出的新版 Siri，将把需要云端处理的 AI 查询交给 Google 数据中心，使用 Nvidia Blackwell B200 芯片运算，并通过 Nvidia 硬件加密保护用户数据。这与苹果一贯自研核心部件的做法不同，据称是因为其自研服务器运行 Gemini 模型的速度过慢。下周 WWDC 上，苹果将重点强调设备端 AI 能力，并有望重新介绍多次延迟的 Siri 个性化功能。Apple Intelligence 自 2024 年发布以来反响平淡，此次大会被视为苹果重塑 AI 叙事的关键机会。MacRumors·备用频道·",
+      "clean_text": "苹果新版 Siri 被曝将采用谷歌 Nvidia 芯片处理云端请求苹果计划在今年 9 月推出的新版 Siri，将把需要云端处理的 AI 查询交给 Google 数据中心，使用 Nvidia Blackwell B200 芯片运算，并通过 Nvidia 硬件加密保护用户数据。这与苹果一贯自研核心部件的做法不同，据称是因为其自研服务器运行 Gemini 模型的速度过慢。下周 WWDC 上，苹果将重点强调设备端 AI 能力，并有望重新介绍多次延迟的 Siri 个性化功能。Apple Intelligence 自 2024 年发布以来反响平淡，此次大会被视为苹果重塑 AI 叙事的关键机会。MacRumors·备用频道",
+      "datetime": "2026-06-04T11:37:16+00:00",
+      "views": "2.67K",
+      "source_links": [
+        {
+          "text": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41766",
+      "scraped_at": "2026-06-04T20:00:37.941822",
+      "title": "苹果Siri用谷歌Nvidia芯片",
+      "title_options": {
+        "conclusion": "苹果Siri用谷歌Nvidia芯片",
+        "attractive": "苹果Siri弃自研用谷歌",
+        "minimal": "Siri谷歌Nvidia芯片",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29848",
       "channel": "xhqcankao",
       "text": "日产英国工厂拟代工生产中国奇瑞汽车日产汽车公司6月3日发布消息称，正考虑在英国中部的桑德兰工厂为中国汽车巨头奇瑞汽车代工生产乘用车。力争2027年度开始生产，此举目的是通过增加产量来提升低迷的开工率。日产已与奇瑞的当地法人签署了备忘录。该工厂拥有两条生产线，生产包括纯电动汽车新款 “聆风” 等三种车型。日产计划将自家车型的生产线整合为一条，另一条生产线用来制造奇瑞的车型。日产将继续拥有工厂的设备，并维持员工的就业。桑德兰工厂目前的开工率在50%左右，持续低迷。——共同社",
@@ -1696,29 +1753,6 @@
       }
     },
     {
-      "id": "xhqcankao_29808",
-      "channel": "xhqcankao",
-      "text": "微软亮出全新量子芯片 可靠性实现千倍飞跃在本周二于美国旧金山举行的Build开发者大会上，微软表示，其新型量子芯片Majorana 2 的可靠性较上一代大幅提升，为量子计算机在未来三年内解决具有商业实用价值的问题铺平了道路。量子计算的核心在于量子比特。微软称，新芯片Majorana 2上的量子比特平均存续时长可维持20秒，相比之下，上一代芯片中的量子比特仅能维持不到12毫秒便消失。这意味着新芯片的可靠性提升了逾一千倍。微软量子部门企业副总裁祖尔菲·阿拉姆表示：“我们将在2029年拥有一台能够解决商业上可行、合理问题的量子机器。”但这仍需要巨大的进一步突破，因为这样一台设备将需要搭载数百万个量子比特，目前的Majorana 2芯片仅能搭载12个量子比特。——财联社",
-      "clean_text": "微软亮出全新量子芯片 可靠性实现千倍飞跃在本周二于美国旧金山举行的Build开发者大会上，微软表示，其新型量子芯片Majorana 2 的可靠性较上一代大幅提升，为量子计算机在未来三年内解决具有商业实用价值的问题铺平了道路。量子计算的核心在于量子比特。微软称，新芯片Majorana 2上的量子比特平均存续时长可维持20秒，相比之下，上一代芯片中的量子比特仅能维持不到12毫秒便消失。这意味着新芯片的可靠性提升了逾一千倍。微软量子部门企业副总裁祖尔菲·阿拉姆表示：“我们将在2029年拥有一台能够解决商业上可行、合理问题的量子机器。”但这仍需要巨大的进一步突破，因为这样一台设备将需要搭载数百万个量子比特，目前的Majorana 2芯片仅能搭载12个量子比特。——财联社",
-      "datetime": "2026-06-03T08:01:11+00:00",
-      "views": "2.14K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2389226?sv=8.7.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29808",
-      "scraped_at": "2026-06-03T17:00:33.737735",
-      "title": "微软量子芯片可靠性提升千倍",
-      "title_options": {
-        "conclusion": "微软量子芯片可靠性提升千倍",
-        "attractive": "量子比特存续20秒，微软芯片突破",
-        "minimal": "微软量子芯片Majorana 2",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1780,6 +1814,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-04T19:56:30.843356"
+  "count": 70,
+  "updated_at": "2026-06-04T20:01:41.772667"
 }
