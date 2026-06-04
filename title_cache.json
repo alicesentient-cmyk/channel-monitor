@@ -861,5 +861,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T09:02:57.855562"
+  },
+  "zaihuapd_41755": {
+    "ai_title": "谷歌发布Gemma 4 12B模型",
+    "title_options": {
+      "conclusion": "谷歌发布Gemma 4 12B模型",
+      "attractive": "16GB内存笔记本可运行",
+      "minimal": "Gemma 4 12B 本地运行",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T10:03:41.221586"
+  },
+  "xhqcankao_29830": {
+    "ai_title": "千问向第三方全面开放",
+    "title_options": {
+      "conclusion": "千问向第三方全面开放",
+      "attractive": "瑞幸肯德基接入千问",
+      "minimal": "千问开放Agent",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T10:03:42.337669"
+  },
+  "xhqcankao_29829": {
+    "ai_title": "企业利用Reddit操纵AI搜索",
+    "title_options": {
+      "conclusion": "企业利用Reddit操纵AI搜索",
+      "attractive": "Reddit成AI搜索操纵工具",
+      "minimal": "Reddit AI搜索操纵"
+    },
+    "generated_at": "2026-06-04T10:03:43.466559"
   }
 }

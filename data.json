@@ -1,6 +1,82 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41755",
+      "channel": "zaihuapd",
+      "text": "Google 发布 Gemma 4 12B 模型，16 GB 内存笔记本即可本地运行Google 新推出 Gemma 4 12B 开源模型，定位介于现有的移动端轻量版与大型专业版之间。该模型只需 16 GB 系统内存或显存即可在普通笔记本上本地运行，内存占用约为同系列 26B MoE 模型的一半。Google 称其在基准测试中的表现接近 26B MoE 版本。今年 4 月，Gemma 4 系列已发布四款模型并改用 Apache 2.0 许可证，此次 12B 版本填补了中端设备的空白。Ars Technica·备用频道·",
+      "clean_text": "Google 发布 Gemma 4 12B 模型，16 GB 内存笔记本即可本地运行Google 新推出 Gemma 4 12B 开源模型，定位介于现有的移动端轻量版与大型专业版之间。该模型只需 16 GB 系统内存或显存即可在普通笔记本上本地运行，内存占用约为同系列 26B MoE 模型的一半。Google 称其在基准测试中的表现接近 26B MoE 版本。今年 4 月，Gemma 4 系列已发布四款模型并改用 Apache 2.0 许可证，此次 12B 版本填补了中端设备的空白。Ars Technica·备用频道",
+      "datetime": "2026-06-04T01:46:54+00:00",
+      "views": "1.85K",
+      "source_links": [
+        {
+          "text": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41755",
+      "scraped_at": "2026-06-04T10:00:36.546823",
+      "title": "谷歌发布Gemma 4 12B模型",
+      "title_options": {
+        "conclusion": "谷歌发布Gemma 4 12B模型",
+        "attractive": "16GB内存笔记本可运行",
+        "minimal": "Gemma 4 12B 本地运行",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29830",
+      "channel": "xhqcankao",
+      "text": "千问宣布向第三方Agent、Skill全面开放千问APP宣布将向第三方Agent、Skill全面开放，未来所有企业不仅可以接入Skill，也可在千问上运营自己的品牌Agent。目前，瑞幸、肯德基、东方航空等首批企业已在千问上通过Skill提供服务，用户可在千问上体验瑞幸、肯德基的到店自取服务。同时，上述企业也同步在进行Agent接入测试，计划于近期上线Agent和Skill接入平台。未来企业不仅仅可以接入Skill，还可以在千问应用程序中运营自己的Agent，自定义Agent人设与具体服务，以对话的形式为用户提供各种形式的产品服务。同时，Agent具备记忆与主动规划能力，可在特定场景下主动提供服务，如行程提醒、权益到期、复购推荐等。——环球网",
+      "clean_text": "千问宣布向第三方Agent、Skill全面开放千问APP宣布将向第三方Agent、Skill全面开放，未来所有企业不仅可以接入Skill，也可在千问上运营自己的品牌Agent。目前，瑞幸、肯德基、东方航空等首批企业已在千问上通过Skill提供服务，用户可在千问上体验瑞幸、肯德基的到店自取服务。同时，上述企业也同步在进行Agent接入测试，计划于近期上线Agent和Skill接入平台。未来企业不仅仅可以接入Skill，还可以在千问应用程序中运营自己的Agent，自定义Agent人设与具体服务，以对话的形式为用户提供各种形式的产品服务。同时，Agent具备记忆与主动规划能力，可在特定场景下主动提供服务，如行程提醒、权益到期、复购推荐等。——环球网",
+      "datetime": "2026-06-04T01:30:34+00:00",
+      "views": "1.25K",
+      "source_links": [
+        {
+          "text": "环球网",
+          "url": "https://tech.huanqiu.com/article/4RpRhbDTuwS"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29830",
+      "scraped_at": "2026-06-04T10:00:37.918316",
+      "title": "千问向第三方全面开放",
+      "title_options": {
+        "conclusion": "千问向第三方全面开放",
+        "attractive": "瑞幸肯德基接入千问",
+        "minimal": "千问开放Agent",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29829",
+      "channel": "xhqcankao",
+      "text": "企业利用Reddit操纵ChatGPT和谷歌AI搜索biohacking子版块的版主表示，肽和激素替代疗法公司一直在偷偷地在Reddit平台上发送垃圾信息，试图让它们的帖子被AI聊天机器人抓取。这种策略旨在通过操纵聊天机器人抓取的底层数据源，来系统地影响聊天机器人提供的答案。在上周的一篇帖子中，r/biohackers的版主表示，他们将禁止关于肽和激素替代疗法（HRT）的新帖子，因为制造、营销和销售这些产品的公司试图进行操纵。“随着AI搜索引擎越来越多地从Reddit抓取答案，公司正在利用我们进行AEO。除此之外，对肽的兴趣和AI使用的激增淹没了该子版块。这些因素共同给内容质量带来了严重压力，”版主的一篇帖子写道。——404media",
+      "clean_text": "企业利用Reddit操纵ChatGPT和谷歌AI搜索biohacking子版块的版主表示，肽和激素替代疗法公司一直在偷偷地在Reddit平台上发送垃圾信息，试图让它们的帖子被AI聊天机器人抓取。这种策略旨在通过操纵聊天机器人抓取的底层数据源，来系统地影响聊天机器人提供的答案。在上周的一篇帖子中，r/biohackers的版主表示，他们将禁止关于肽和激素替代疗法（HRT）的新帖子，因为制造、营销和销售这些产品的公司试图进行操纵。“随着AI搜索引擎越来越多地从Reddit抓取答案，公司正在利用我们进行AEO。除此之外，对肽的兴趣和AI使用的激增淹没了该子版块。这些因素共同给内容质量带来了严重压力，”版主的一篇帖子写道。——404media",
+      "datetime": "2026-06-04T01:02:56+00:00",
+      "views": "1.93K",
+      "source_links": [
+        {
+          "text": "404media",
+          "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29829",
+      "scraped_at": "2026-06-04T10:00:37.917922",
+      "title": "企业利用Reddit操纵AI搜索",
+      "title_options": {
+        "conclusion": "企业利用Reddit操纵AI搜索",
+        "attractive": "Reddit成AI搜索操纵工具",
+        "minimal": "Reddit AI搜索操纵"
+      }
+    },
+    {
       "id": "xhqcankao_29828",
       "channel": "xhqcankao",
       "text": "郭明錤：苹果眼镜路线图生变 Vision Pro后续版本被砍分析师郭明錤今日发帖称，即将担任苹果下一任CEO的约翰·特努斯已经批准缩减苹果眼镜的开发路线图。郭明錤表示，他大约在一年前整理的苹果XR头显和智能眼镜路线图已经 “不再是有效的参考”。目前，整个路线图上只剩下两款智能眼镜产品可见。郭明錤还表示，最新的供应链调查显示，配备光学波导显示屏的苹果AR/XR智能眼镜设备已经推迟到2029年。而类似于Ray-Ban Meta的无显示屏 AI眼镜仍计划于 2027年出货。对于Vision Pro产品线被移除的结局，郭明錤直言这是正确的决定，苹果应当把资源转向具有更广大消费潜力的AI眼镜品类。——财联社",
@@ -1866,6 +1942,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-04T09:58:35.941692"
+  "count": 72,
+  "updated_at": "2026-06-04T10:03:43.468381"
 }
