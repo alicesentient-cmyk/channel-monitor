@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29832",
+      "channel": "xhqcankao",
+      "text": "苹果本周将在得州推出年龄验证功能苹果公司今天表示，由于SB 2420法案的实施，得克萨斯州的 App Store 规则正在发生变化，这项法律为应用市场和应用开发者增加了年龄保证要求。位于得州的苹果用户在创建Apple账户时，很快将被要求确认他们是否已年满18岁。未满18岁用户的Apple帐户必须加入“家人共享”群组，并且所有 App Store 下载、应用内购和应用内交易都需要获得家长的同意。开发者需要采用Declared Age Range API来为在得克萨斯州的新账户用户提供所需的年龄类别，并且有责任实施正确的年龄限制。开发人员必须获得父母的同意才能让未成年人下载应用，如果应用发生“重大改变”，则被要求重新获得同意。——Theverge",
+      "clean_text": "苹果本周将在得州推出年龄验证功能苹果公司今天表示，由于SB 2420法案的实施，得克萨斯州的 App Store 规则正在发生变化，这项法律为应用市场和应用开发者增加了年龄保证要求。位于得州的苹果用户在创建Apple账户时，很快将被要求确认他们是否已年满18岁。未满18岁用户的Apple帐户必须加入“家人共享”群组，并且所有 App Store 下载、应用内购和应用内交易都需要获得家长的同意。开发者需要采用Declared Age Range API来为在得克萨斯州的新账户用户提供所需的年龄类别，并且有责任实施正确的年龄限制。开发人员必须获得父母的同意才能让未成年人下载应用，如果应用发生“重大改变”，则被要求重新获得同意。——Theverge",
+      "datetime": "2026-06-04T02:31:41+00:00",
+      "views": "1.37K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29832",
+      "scraped_at": "2026-06-04T11:00:20.816538",
+      "title": "苹果在得州推年龄验证",
+      "title_options": {
+        "conclusion": "苹果在得州推年龄验证",
+        "attractive": "得州苹果账户需确认年龄",
+        "minimal": "苹果得州年龄验证",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41756",
+      "channel": "zaihuapd",
+      "text": "奥特曼：OpenAI 内部最高用户每月消耗约 1000 亿个 tokenSam Altman 在企业活动上说，OpenAI 内部当前最高的 token 使用者每月约消耗 1000 亿个 token，但公司发现外部还有人用得更多。他还提到，6 年半前 OpenAI 最高使用者每月消耗 10 万个 token，当时很可能已是全球领先水平，如今这大约只是全球人均水平。OpenAI 内部有鼓励高 token 使用的文化，但 AI 成本压力正在升高。Altman 说，2026 年初成本问题还很少被提起，现在已经成了“巨大问题”，公司正继续改进模型，并寻找用更低支出提供更多价值的方法。Business Insider·备用频道·",
+      "clean_text": "奥特曼：OpenAI 内部最高用户每月消耗约 1000 亿个 tokenSam Altman 在企业活动上说，OpenAI 内部当前最高的 token 使用者每月约消耗 1000 亿个 token，但公司发现外部还有人用得更多。他还提到，6 年半前 OpenAI 最高使用者每月消耗 10 万个 token，当时很可能已是全球领先水平，如今这大约只是全球人均水平。OpenAI 内部有鼓励高 token 使用的文化，但 AI 成本压力正在升高。Altman 说，2026 年初成本问题还很少被提起，现在已经成了“巨大问题”，公司正继续改进模型，并寻找用更低支出提供更多价值的方法。Business Insider·备用频道",
+      "datetime": "2026-06-04T02:31:18+00:00",
+      "views": "3.26K",
+      "source_links": [
+        {
+          "text": "Business Insider",
+          "url": "https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41756",
+      "scraped_at": "2026-06-04T11:00:17.957995",
+      "title": "OpenAI用户月耗千亿token",
+      "title_options": {
+        "conclusion": "OpenAI用户月耗千亿token",
+        "attractive": "AI成本飙升成巨大问题",
+        "minimal": "月耗千亿token",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29831",
+      "channel": "xhqcankao",
+      "text": "GitLab平台裁员14% 即大约350名员工开发者平台 GitLab 已裁员约 14%，即大约 350 名员工，作为平台上月详细说明的更广泛重组努力的一部分。该公司在今年五月份表示，平台将裁员，同时退出22个国家与地区、扁平化管理层级，并投资基础设施以扩大平台规模并服务来自人工智能工作流的增加流量，同时更加聚焦于研发。CEO Bill Staples 在周二的一次电话会议中表示，智能体工作负载对开发者基础设施造成的压力超出了其设计处理能力。这不是GitLab独有的问题。该公司的竞争对手GitHub自身也难以应对大量涌入的人工智能驱动的提交，这些提交已影响了其正常运行时间。——Techcrunch",
+      "clean_text": "GitLab平台裁员14% 即大约350名员工开发者平台 GitLab 已裁员约 14%，即大约 350 名员工，作为平台上月详细说明的更广泛重组努力的一部分。该公司在今年五月份表示，平台将裁员，同时退出22个国家与地区、扁平化管理层级，并投资基础设施以扩大平台规模并服务来自人工智能工作流的增加流量，同时更加聚焦于研发。CEO Bill Staples 在周二的一次电话会议中表示，智能体工作负载对开发者基础设施造成的压力超出了其设计处理能力。这不是GitLab独有的问题。该公司的竞争对手GitHub自身也难以应对大量涌入的人工智能驱动的提交，这些提交已影响了其正常运行时间。——Techcrunch",
+      "datetime": "2026-06-04T02:02:14+00:00",
+      "views": "2.06K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29831",
+      "scraped_at": "2026-06-04T11:00:20.816126",
+      "title": "GitLab裁员14%约350人",
+      "title_options": {
+        "conclusion": "GitLab裁员14%约350人",
+        "attractive": "AI工作负载压垮GitLab",
+        "minimal": "GitLab裁员14%",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41755",
       "channel": "zaihuapd",
       "text": "Google 发布 Gemma 4 12B 模型，16 GB 内存笔记本即可本地运行Google 新推出 Gemma 4 12B 开源模型，定位介于现有的移动端轻量版与大型专业版之间。该模型只需 16 GB 系统内存或显存即可在普通笔记本上本地运行，内存占用约为同系列 26B MoE 模型的一半。Google 称其在基准测试中的表现接近 26B MoE 版本。今年 4 月，Gemma 4 系列已发布四款模型并改用 Apache 2.0 许可证，此次 12B 版本填补了中端设备的空白。Ars Technica·备用频道·",
@@ -1854,33 +1931,6 @@
       }
     },
     {
-      "id": "xhqcankao_29789",
-      "channel": "xhqcankao",
-      "text": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干周三凌晨，OpenAI举行主题为《AI上岗》的发布会，推出面向股票投资、创意设计等岗位的Codex工作流插件，展示如何让AI接入企业工作流，承担越来越多原本由知识工作者完成的任务。OpenAI首席营收官德雷瑟在开场时透露，OpenAI的Codex工具在上周末达成周活跃用户数500万人的里程碑，其中20%的用户并非程序员。同时，来自企业的营收已经占到OpenAI整体营收的4成，到今年底这个比例将达到50%。作为发布会的重头戏，OpenAI推出6款Codex角色插件，涵盖数据分析、创意制作、销售、产品设计、上市公司股票投资、投资银行六个领域。——财联社、彭博社",
-      "clean_text": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干周三凌晨，OpenAI举行主题为《AI上岗》的发布会，推出面向股票投资、创意设计等岗位的Codex工作流插件，展示如何让AI接入企业工作流，承担越来越多原本由知识工作者完成的任务。OpenAI首席营收官德雷瑟在开场时透露，OpenAI的Codex工具在上周末达成周活跃用户数500万人的里程碑，其中20%的用户并非程序员。同时，来自企业的营收已经占到OpenAI整体营收的4成，到今年底这个比例将达到50%。作为发布会的重头戏，OpenAI推出6款Codex角色插件，涵盖数据分析、创意制作、销售、产品设计、上市公司股票投资、投资银行六个领域。——财联社、彭博社",
-      "datetime": "2026-06-02T23:01:00+00:00",
-      "views": "1.17K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2388950?sv=8.7.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29789",
-      "scraped_at": "2026-06-03T08:00:48.398479",
-      "title": "OpenAI推6款Codex插件",
-      "title_options": {
-        "conclusion": "OpenAI推6款Codex插件",
-        "attractive": "AI上岗，股票研究也能干",
-        "minimal": "OpenAI Codex插件",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1942,6 +1992,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-04T10:59:43.585348"
+  "count": 74,
+  "updated_at": "2026-06-04T11:04:52.742676"
 }
