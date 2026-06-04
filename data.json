@@ -1770,37 +1770,6 @@
       }
     },
     {
-      "id": "zaihuapd_41730",
-      "channel": "zaihuapd",
-      "text": "OpenAI 社区出现 ChatGPT 订阅和账号滥用报告OpenAI 开发者社区出现一份 ChatGPT 订阅和账号完整性问题报告，涉及 Plus / Pro 跨区订阅、免费账号批量注册、Session / Token 转售、伪装高阶模型销售，以及 ChatGPT Business 优惠码和席位异常扩张等问题。报告提交者称，相关问题已被部分商家组合成批量化、自动化、可转售的供应链，并可提供脚本样本、订阅记录、异常 Business 后台截图和二级市场售卖记录等证据。OpenAI 社区支持人员已回复，称会将反馈提交给相应团队评估。OpenAI Developer Communityvia RT Time·备用频道·",
-      "clean_text": "OpenAI 社区出现 ChatGPT 订阅和账号滥用报告OpenAI 开发者社区出现一份 ChatGPT 订阅和账号完整性问题报告，涉及 Plus / Pro 跨区订阅、免费账号批量注册、Session / Token 转售、伪装高阶模型销售，以及 ChatGPT Business 优惠码和席位异常扩张等问题。报告提交者称，相关问题已被部分商家组合成批量化、自动化、可转售的供应链，并可提供脚本样本、订阅记录、异常 Business 后台截图和二级市场售卖记录等证据。OpenAI 社区支持人员已回复，称会将反馈提交给相应团队评估。OpenAI Developer Communityvia RT Time·备用频道",
-      "datetime": "2026-06-03T05:40:05+00:00",
-      "views": "2.9K",
-      "source_links": [
-        {
-          "text": "OpenAI Developer Community",
-          "url": "https://community.openai.com/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41730",
-      "scraped_at": "2026-06-03T14:00:31.874877",
-      "title": "ChatGPT订阅滥用报告",
-      "title_options": {
-        "conclusion": "ChatGPT订阅滥用报告",
-        "attractive": "账号批量注册转售",
-        "minimal": "订阅账号滥用",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1862,6 +1831,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-06-04T17:38:31.080836"
+  "count": 70,
+  "updated_at": "2026-06-04T17:43:36.189430"
 }
