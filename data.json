@@ -1,6 +1,68 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41774",
+      "channel": "zaihuapd",
+      "text": "Cloudflare：AI 智能体流量首次超过人类，占比约 57.5%Cloudflare 数据显示，AI 智能体产生的网络流量已首次超过人类流量。公司 CEO Matthew Prince 表示，目前网页请求中智能体与人类的占比约为 57.5% 对 42.5%，这一转折比他此前预测的 2027 年明显提前。这些智能体不同于传统爬虫，它们会像人类一样执行比价、检索内容、处理客服等多步骤任务。不过 Cloudflare 也指出，若以使用总时长衡量，人类仍是网络的主要使用者，只是流媒体、社交应用等行为产生的页面请求量远低于自动化程序。Tom's Hardware·备用频道·",
+      "clean_text": "Cloudflare：AI 智能体流量首次超过人类，占比约 57.5%Cloudflare 数据显示，AI 智能体产生的网络流量已首次超过人类流量。公司 CEO Matthew Prince 表示，目前网页请求中智能体与人类的占比约为 57.5% 对 42.5%，这一转折比他此前预测的 2027 年明显提前。这些智能体不同于传统爬虫，它们会像人类一样执行比价、检索内容、处理客服等多步骤任务。不过 Cloudflare 也指出，若以使用总时长衡量，人类仍是网络的主要使用者，只是流媒体、社交应用等行为产生的页面请求量远低于自动化程序。Tom's Hardware·备用频道",
+      "datetime": "2026-06-04T16:49:36+00:00",
+      "views": "1.07K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41774",
+      "scraped_at": "2026-06-05T01:00:19.908674",
+      "title": "AI流量首超人类",
+      "title_options": {
+        "conclusion": "AI流量首超人类",
+        "attractive": "AI流量占比57.5%",
+        "minimal": "AI流量超人类",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41773",
+      "channel": "zaihuapd",
+      "text": "ChatGPT 记忆系统升级：自动学习偏好，不再过时OpenAI 开始向美国 Plus 和 Pro 用户推出全新的内存系统，基于“dreaming”后台自动整理技术。它能从多轮对话中自动抓取用户偏好、项目和上下文，无需特意说“请记住”，并会随时间自动更新记忆，例如旅行结束后不再推荐当地餐厅。这一更新解决了此前手动记忆条目容易过时、不够灵活的问题。未来几周将向更多国家和免费用户开放。OpenAI·备用频道·",
+      "clean_text": "ChatGPT 记忆系统升级：自动学习偏好，不再过时OpenAI 开始向美国 Plus 和 Pro 用户推出全新的内存系统，基于“dreaming”后台自动整理技术。它能从多轮对话中自动抓取用户偏好、项目和上下文，无需特意说“请记住”，并会随时间自动更新记忆，例如旅行结束后不再推荐当地餐厅。这一更新解决了此前手动记忆条目容易过时、不够灵活的问题。未来几周将向更多国家和免费用户开放。OpenAI·备用频道",
+      "datetime": "2026-06-04T16:22:01+00:00",
+      "views": "3.08K",
+      "source_links": [
+        {
+          "text": "OpenAI",
+          "url": "https://openai.com/index/chatgpt-memory-dreaming/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41773",
+      "scraped_at": "2026-06-05T01:00:19.908184",
+      "title": "ChatGPT记忆系统升级",
+      "title_options": {
+        "conclusion": "ChatGPT记忆系统升级",
+        "attractive": "记忆自动更新不过时",
+        "minimal": "记忆系统升级",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41772",
       "channel": "zaihuapd",
       "text": "明天，天涯社区将正式恢复访问  2026 年 6 月 1 日，天涯社区将正式恢复访问。据@天涯社区 官方微博，“你写的那些帖子，你认识的那些朋友，你收藏的那些好文都还在。”  此前，2026 年 2 月 6 日晚，新天涯联合工作组、成都天涯客网络科技有限公司、天涯好东西（海南）电子商务有限公司发布联合公告称，正推进天涯社区于今年 6 月 1 日恢复访问。  荆楚网  via Siqi Yuan · 备用频道 ·",
@@ -1564,64 +1626,6 @@
       }
     },
     {
-      "id": "xhqcankao_29818",
-      "channel": "xhqcankao",
-      "text": "欧盟AI数据中心计划因延误和资金问题受挫延误频发、资金短缺侵蚀各方信心，欧盟斥资两百亿欧元打造五座超大规模AI数据中心的雄心计划正面临挑战，在AI基础设施竞赛中再度落后。该项目投标流程一再推迟、补贴资金何时到位尚无定论，部分潜在合作方的参与热情已明显降温。竞标程序原定于今年5月启动，目前预计推迟至7月。据参与欧盟谈判的波兰数字事务部长介绍，项目资金将分两期拨付，分别在2028年和2030年落实。资金缺口制约着计划推进，在2028年新预算周期开启前，五座规划中的数据中心最多只有两座能获得资助。该局面令欧盟官员忧虑：若无法大力投资本土数据中心，欧洲将再度错失一场由硅谷主导的技术革命。——华尔街见闻、彭博社",
-      "clean_text": "欧盟AI数据中心计划因延误和资金问题受挫延误频发、资金短缺侵蚀各方信心，欧盟斥资两百亿欧元打造五座超大规模AI数据中心的雄心计划正面临挑战，在AI基础设施竞赛中再度落后。该项目投标流程一再推迟、补贴资金何时到位尚无定论，部分潜在合作方的参与热情已明显降温。竞标程序原定于今年5月启动，目前预计推迟至7月。据参与欧盟谈判的波兰数字事务部长介绍，项目资金将分两期拨付，分别在2028年和2030年落实。资金缺口制约着计划推进，在2028年新预算周期开启前，五座规划中的数据中心最多只有两座能获得资助。该局面令欧盟官员忧虑：若无法大力投资本土数据中心，欧洲将再度错失一场由硅谷主导的技术革命。——华尔街见闻、彭博社",
-      "datetime": "2026-06-03T13:01:16+00:00",
-      "views": "2.02K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3773717"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/eu-s-ai-data-center-plans-stumble-due-to-delays-funding-issues"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29818",
-      "scraped_at": "2026-06-03T22:01:10.018229",
-      "title": "欧盟AI数据中心计划受挫",
-      "title_options": {
-        "conclusion": "欧盟AI数据中心计划受挫",
-        "attractive": "两百亿欧元计划遇资金难题",
-        "minimal": "欧盟数据中心延误",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41748",
-      "channel": "zaihuapd",
-      "text": "豆包计划推出专业版，日常功能将继续免费豆包计划推出专业版，面向软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等生产力需求。目前专业版仍在测试，正式上线信息将通过官方渠道发布。搜索问答、写作生图、语音和视频对话等日常功能将保持免费，专业版也会有一定免费额度。豆包否认会通过降低基础功能体验来推动用户购买会员。豆包·备用频道·",
-      "clean_text": "豆包计划推出专业版，日常功能将继续免费豆包计划推出专业版，面向软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等生产力需求。目前专业版仍在测试，正式上线信息将通过官方渠道发布。搜索问答、写作生图、语音和视频对话等日常功能将保持免费，专业版也会有一定免费额度。豆包否认会通过降低基础功能体验来推动用户购买会员。豆包·备用频道",
-      "datetime": "2026-06-03T13:00:21+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "豆包",
-          "url": "https://mp.weixin.qq.com/s/Be5hOIJUQC8ogxRy3epWLQ"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41748",
-      "scraped_at": "2026-06-03T21:00:43.757596",
-      "title": "豆包推专业版，日常免费",
-      "title_options": {
-        "conclusion": "豆包推专业版，日常免费",
-        "attractive": "专业版测试，日常免费",
-        "minimal": "豆包专业版",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1684,5 +1688,5 @@
     }
   ],
   "count": 64,
-  "updated_at": "2026-06-05T00:58:48.421293"
+  "updated_at": "2026-06-05T01:03:58.047849"
 }

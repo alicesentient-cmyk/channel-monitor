@@ -1296,5 +1296,25 @@
       "minimal": "拒签、社保停、离职"
     },
     "generated_at": "2026-06-05T00:02:33.343528"
+  },
+  "zaihuapd_41774": {
+    "ai_title": "AI流量首超人类",
+    "title_options": {
+      "conclusion": "AI流量首超人类",
+      "attractive": "AI流量占比57.5%",
+      "minimal": "AI流量超人类",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T01:03:57.122378"
+  },
+  "zaihuapd_41773": {
+    "ai_title": "ChatGPT记忆系统升级",
+    "title_options": {
+      "conclusion": "ChatGPT记忆系统升级",
+      "attractive": "记忆自动更新不过时",
+      "minimal": "记忆系统升级",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T01:03:58.044337"
   }
 }
