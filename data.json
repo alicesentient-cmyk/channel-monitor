@@ -1719,29 +1719,6 @@
       }
     },
     {
-      "id": "xhqcankao_29807",
-      "channel": "xhqcankao",
-      "text": "黑客窃取了Dashlane部分用户的密码库密码管理器开发商Dashlane表示，黑客在周末的一次网络攻击中获取了至少十几个用于存储客户密码的加密库。该公司在其官网上表示，黑客暴力破解了该公司的双因素认证系统，使黑客得以访问约20个用户账户。通过攻破其双因素机制，黑客得以下载某些客户加密库的副本，这些加密库存储了他们的密码及其他敏感凭证。该公司表示已采取措施以降低未来类似事件的风险。该公司的官网表示，被盗的库是被混淆加密的，没有用户的主密码就无法读取，主密码只有客户知道，且不会以明文形式上传至Dashlane。——Techcrunch",
-      "clean_text": "黑客窃取了Dashlane部分用户的密码库密码管理器开发商Dashlane表示，黑客在周末的一次网络攻击中获取了至少十几个用于存储客户密码的加密库。该公司在其官网上表示，黑客暴力破解了该公司的双因素认证系统，使黑客得以访问约20个用户账户。通过攻破其双因素机制，黑客得以下载某些客户加密库的副本，这些加密库存储了他们的密码及其他敏感凭证。该公司表示已采取措施以降低未来类似事件的风险。该公司的官网表示，被盗的库是被混淆加密的，没有用户的主密码就无法读取，主密码只有客户知道，且不会以明文形式上传至Dashlane。——Techcrunch",
-      "datetime": "2026-06-03T07:35:10+00:00",
-      "views": "1.27K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29807",
-      "scraped_at": "2026-06-03T16:00:34.604133",
-      "title": "黑客窃取Dashlane加密库",
-      "title_options": {
-        "conclusion": "黑客窃取Dashlane加密库",
-        "attractive": "20个用户密码库被盗",
-        "minimal": "Dashlane遭黑客攻击",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1803,6 +1780,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-04T19:31:03.035747"
+  "count": 69,
+  "updated_at": "2026-06-04T19:36:06.354232"
 }
