@@ -1731,29 +1731,6 @@
       }
     },
     {
-      "id": "xhqcankao_29810",
-      "channel": "xhqcankao",
-      "text": "MacBook Neo正在赢得新一代买家的青睐在首次亮相近3个月后，MacBook Neo正作为一个早期的成功案例脱颖而出，帮助这家库比蒂诺公司接触新客户。根据市场情报提供商IDC的数据，在截至三月的季度中，苹果出货了110万台 MacBook Neo，领先于近期发布的MacBook Air (M5)和MacBook Pro (M5)。这两款MacBook在其首发季度分别出货了超过90万台和55万台。IDC副总裁Navkendar Singh表示，这个数字值得注意，因为Neo在三月中旬上市后，在该季度内仅销售了大约三周，并补充说出货量从四月初开始激增。据IDC，在三月季度全球出货的MacBook Neo中，44%被运往美国。——Techcrunch",
-      "clean_text": "MacBook Neo正在赢得新一代买家的青睐在首次亮相近3个月后，MacBook Neo正作为一个早期的成功案例脱颖而出，帮助这家库比蒂诺公司接触新客户。根据市场情报提供商IDC的数据，在截至三月的季度中，苹果出货了110万台 MacBook Neo，领先于近期发布的MacBook Air (M5)和MacBook Pro (M5)。这两款MacBook在其首发季度分别出货了超过90万台和55万台。IDC副总裁Navkendar Singh表示，这个数字值得注意，因为Neo在三月中旬上市后，在该季度内仅销售了大约三周，并补充说出货量从四月初开始激增。据IDC，在三月季度全球出货的MacBook Neo中，44%被运往美国。——Techcrunch",
-      "datetime": "2026-06-03T09:04:45+00:00",
-      "views": "2.07K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29810",
-      "scraped_at": "2026-06-03T18:00:22.560193",
-      "title": "MacBook Neo首季出货110万台",
-      "title_options": {
-        "conclusion": "MacBook Neo首季出货110万台",
-        "attractive": "三周销量超M5和M5 Pro",
-        "minimal": "Neo出货110万台领先",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1815,6 +1792,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-04T21:03:07.615394"
+  "count": 69,
+  "updated_at": "2026-06-04T21:08:14.167946"
 }
