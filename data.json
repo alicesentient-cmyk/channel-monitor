@@ -1954,33 +1954,6 @@
       }
     },
     {
-      "id": "xhqcankao_29796",
-      "channel": "xhqcankao",
-      "text": "Meta收缩“追踪鼠标、键盘训练AI”计划Meta在周二的内部备忘录中表示，将缩减其收集员工鼠标移动、键盘敲击操作及其他行为数据用于AI训练的计划。此前数周，这一计划遭到了员工们的强烈反对。Meta AI模型构建 “超级智能实验室” 副总裁卡斯里尔在备忘录中表示，Meta将新增控制选项，允许员工每次最长暂停数据收集30分钟，并可申请豁免参与该项目。卡斯里尔称，开发该软件的团队还引入了 “多项优化措施”，以降低其对电脑电池续航的影响。Meta上月宣布，将在美国员工的电脑上安装新的追踪软件，用于记录鼠标移动、点击以及键盘输入等操作数据，并将这些数据用于训练其AI模型。——凤凰网科技、路透社",
-      "clean_text": "Meta收缩“追踪鼠标、键盘训练AI”计划Meta在周二的内部备忘录中表示，将缩减其收集员工鼠标移动、键盘敲击操作及其他行为数据用于AI训练的计划。此前数周，这一计划遭到了员工们的强烈反对。Meta AI模型构建 “超级智能实验室” 副总裁卡斯里尔在备忘录中表示，Meta将新增控制选项，允许员工每次最长暂停数据收集30分钟，并可申请豁免参与该项目。卡斯里尔称，开发该软件的团队还引入了 “多项优化措施”，以降低其对电脑电池续航的影响。Meta上月宣布，将在美国员工的电脑上安装新的追踪软件，用于记录鼠标移动、点击以及键盘输入等操作数据，并将这些数据用于训练其AI模型。——凤凰网科技、路透社",
-      "datetime": "2026-06-03T02:31:13+00:00",
-      "views": "1.21K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006613PeLj43aOudGxgKGyhad2L7QXAVgB7hFOWgezFvrgZZBeYz--ELv7w3ZYgolKlo"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/world/meta-scales-back-ai-mouse-clicks-tool-citing-employee-concerns-2026-06-02/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29796",
-      "scraped_at": "2026-06-03T11:00:31.152549",
-      "title": "Meta缩减鼠标键盘追踪计划",
-      "title_options": {
-        "conclusion": "Meta缩减鼠标键盘追踪计划",
-        "attractive": "员工反对，Meta暂停数据收集",
-        "minimal": "Meta追踪计划缩减",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -2042,6 +2015,6 @@
       }
     }
   ],
-  "count": 76,
-  "updated_at": "2026-06-04T14:29:02.830113"
+  "count": 75,
+  "updated_at": "2026-06-04T14:34:09.093579"
 }
