@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29851",
+      "channel": "xhqcankao",
+      "text": "据称OpenAI内部有人月耗1000亿tokenOpenAI公司首席执行官山姆·奥尔特曼在一场面向企业客户的活动上，披露了一组令人咋舌的内部 token 消耗数据，也让外界得以一窥这家AI巨头真实的 “烧钱” 规模。奥尔特曼称，六年半前，OpenAI token消耗最多的用户每月使用约10万token，当时“极有可能是全世界的token消耗冠军”奥尔特曼说：“六年半后的今天，这个数字大约只是全球人均水平。而目前OpenAI公司内部的token消耗冠军，每月用量约为1000亿 token。”但即便如此，这还不是全球最高的。公司发现有外部用户的消耗量超过了这个数字。奥尔特曼说，OpenAI将继续推动模型迭代，并探索更多方式，实现花更少的钱，交付更多价值。——环球网、商业内幕",
+      "clean_text": "据称OpenAI内部有人月耗1000亿tokenOpenAI公司首席执行官山姆·奥尔特曼在一场面向企业客户的活动上，披露了一组令人咋舌的内部 token 消耗数据，也让外界得以一窥这家AI巨头真实的 “烧钱” 规模。奥尔特曼称，六年半前，OpenAI token消耗最多的用户每月使用约10万token，当时“极有可能是全世界的token消耗冠军”奥尔特曼说：“六年半后的今天，这个数字大约只是全球人均水平。而目前OpenAI公司内部的token消耗冠军，每月用量约为1000亿 token。”但即便如此，这还不是全球最高的。公司发现有外部用户的消耗量超过了这个数字。奥尔特曼说，OpenAI将继续推动模型迭代，并探索更多方式，实现花更少的钱，交付更多价值。——环球网、商业内幕",
+      "datetime": "2026-06-04T12:50:16+00:00",
+      "views": "789",
+      "source_links": [
+        {
+          "text": "环球网",
+          "url": "https://tech.huanqiu.com/article/4RqDpAnsKIN"
+        },
+        {
+          "text": "商业内幕",
+          "url": "https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29851",
+      "scraped_at": "2026-06-04T21:00:26.060499",
+      "title": "OpenAI内部月耗1000亿token",
+      "title_options": {
+        "conclusion": "OpenAI内部月耗1000亿token",
+        "attractive": "内部用户月耗1000亿token",
+        "minimal": "OpenAI token消耗",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41767",
+      "channel": "zaihuapd",
+      "text": "荔枝龙眼杂交新品种“怀石”首次挂果全球首棵以荔枝为母本、龙眼为父本杂交成功的新品种“怀石”今年首次挂果。其亲本为晚熟荔枝“怀枝”与龙眼“石硖”，后代却呈早熟性状，果肉爽脆清甜、香气浓郁，比同熟期偏酸的早熟荔枝优势明显。该品种由广东省农业科学院团队自 2015 年起攻关，成功打破荔枝与龙眼的属间生殖隔离。目前“怀石”处于品种比较试验阶段，预计五至六年后推向市场。羊城晚报·备用频道·",
+      "clean_text": "荔枝龙眼杂交新品种“怀石”首次挂果全球首棵以荔枝为母本、龙眼为父本杂交成功的新品种“怀石”今年首次挂果。其亲本为晚熟荔枝“怀枝”与龙眼“石硖”，后代却呈早熟性状，果肉爽脆清甜、香气浓郁，比同熟期偏酸的早熟荔枝优势明显。该品种由广东省农业科学院团队自 2015 年起攻关，成功打破荔枝与龙眼的属间生殖隔离。目前“怀石”处于品种比较试验阶段，预计五至六年后推向市场。羊城晚报·备用频道",
+      "datetime": "2026-06-04T12:31:10+00:00",
+      "views": "3.31K",
+      "source_links": [
+        {
+          "text": "羊城晚报",
+          "url": "https://news.ycwb.com/ikimvkmtkh/content_54155752.htm"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41767",
+      "scraped_at": "2026-06-04T21:00:23.236918",
+      "title": "荔枝龙眼杂交新品种首次挂果",
+      "title_options": {
+        "conclusion": "荔枝龙眼杂交新品种首次挂果",
+        "attractive": "荔枝龙眼杂交新品种怀石挂果",
+        "minimal": "怀石首次挂果",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29850",
+      "channel": "xhqcankao",
+      "text": "奥尔特曼：不准备为今年中期选举捐款OpenAI CEO山姆·奥尔特曼最新表态，他不打算为今年的美国的中期选举提供任何资金支持。周三奥尔特曼在国会山与佛蒙特州独立参议员Bernie Sanders举行会晤后说，他本人不打算为今年美国中期选举提供任何资金支持，但他理解其他硅谷亿万富翁投入巨资的做法，因为人工智能行业正面临越来越多的反对声音。新的民调显示，美国人对AI越来越持怀疑态度，因担心其对就业和环境的影响。奥尔特曼称，“我很希望看到金钱不再介入政治。我认为这是一件非常好的事情。”奥尔特曼访问国会山之际，OpenAI正在为今年晚些时候的首次公开募股做准备。——财联社、彭博社",
+      "clean_text": "奥尔特曼：不准备为今年中期选举捐款OpenAI CEO山姆·奥尔特曼最新表态，他不打算为今年的美国的中期选举提供任何资金支持。周三奥尔特曼在国会山与佛蒙特州独立参议员Bernie Sanders举行会晤后说，他本人不打算为今年美国中期选举提供任何资金支持，但他理解其他硅谷亿万富翁投入巨资的做法，因为人工智能行业正面临越来越多的反对声音。新的民调显示，美国人对AI越来越持怀疑态度，因担心其对就业和环境的影响。奥尔特曼称，“我很希望看到金钱不再介入政治。我认为这是一件非常好的事情。”奥尔特曼访问国会山之际，OpenAI正在为今年晚些时候的首次公开募股做准备。——财联社、彭博社",
+      "datetime": "2026-06-04T12:20:16+00:00",
+      "views": "1.82K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2390666?sv=8.5.9&amp;app=cailianpress"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-03/sam-altman-says-he-doesn-t-plan-to-put-money-into-2026-elections"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29850",
+      "scraped_at": "2026-06-04T21:00:26.060096",
+      "title": "奥尔特曼不为中期选举捐款",
+      "title_options": {
+        "conclusion": "奥尔特曼不为中期选举捐款",
+        "attractive": "AI大佬拒捐中期选举",
+        "minimal": "奥尔特曼 不捐款 中期选举",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29849",
       "channel": "xhqcankao",
       "text": "苹果将借谷歌云、英伟达芯片处理Siri查询苹果将通过谷歌云，使用英伟达Blackwell B200数据中心芯片来处理部分Siri查询。据知情人士透露，苹果此次采用的是英伟达旗舰级数据中心GPU——Blackwell B200。该芯片基于英伟达Blackwell架构，是上一代 Hopper 架构的继任者，被英伟达定位为运行和训练万亿参数级超大规模AI模型的核心平台，在推理性能、内存带宽及多GPU扩展能力上均有显著提升。值得注意的是，苹果还将启用英伟达的机密计算功能。这是一项基于硬件的安全技术，能够在GPU处理数据的同时对数据进行加密。苹果选择借力谷歌云和英伟达芯片的做法，“与其长期以来试图控制其产品所有关键要素的战略背道而驰”。——环球网、The Information",
@@ -1669,37 +1754,6 @@
       }
     },
     {
-      "id": "zaihuapd_41736",
-      "channel": "zaihuapd",
-      "text": "SpaceX 拟以 135 美元固定价 IPO，筹资 750 亿美元SpaceX 计划以每股 135 美元固定价发行 5.556 亿股，筹资 750 亿美元，对应估值 1.75 万亿美元。在路演前就锁定发行价的做法极为罕见。周四启动的路演上，细节仍可能调整。若成功，这将是史上最大 IPO。募资将用于扩展 AI 计算和星链网络。去年营收 187 亿美元但净亏 49 亿，仅星链盈利。公司预计 6 月 12 日在纳斯达克交易，代码 SPCX。此次上市可能掀起巨型 IPO 潮，AI 公司 OpenAI 和 Anthropic 也在筹备中。Reuters·备用频道·",
-      "clean_text": "SpaceX 拟以 135 美元固定价 IPO，筹资 750 亿美元SpaceX 计划以每股 135 美元固定价发行 5.556 亿股，筹资 750 亿美元，对应估值 1.75 万亿美元。在路演前就锁定发行价的做法极为罕见。周四启动的路演上，细节仍可能调整。若成功，这将是史上最大 IPO。募资将用于扩展 AI 计算和星链网络。去年营收 187 亿美元但净亏 49 亿，仅星链盈利。公司预计 6 月 12 日在纳斯达克交易，代码 SPCX。此次上市可能掀起巨型 IPO 潮，AI 公司 OpenAI 和 Anthropic 也在筹备中。Reuters·备用频道",
-      "datetime": "2026-06-03T09:01:48+00:00",
-      "views": "4.72K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/spacex-plans-raise-75-billion-ipo-135-per-share-source-says-2026-06-03/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41736",
-      "scraped_at": "2026-06-03T18:00:19.829580",
-      "title": "SpaceX IPO定价135美元",
-      "title_options": {
-        "conclusion": "SpaceX IPO定价135美元",
-        "attractive": "史上最大IPO筹资750亿",
-        "minimal": "SpaceX IPO 135美元",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1761,6 +1815,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-04T20:57:58.027201"
+  "count": 70,
+  "updated_at": "2026-06-04T21:03:07.615394"
 }

@@ -1177,5 +1177,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T20:01:41.770553"
+  },
+  "xhqcankao_29851": {
+    "ai_title": "OpenAI内部月耗1000亿token",
+    "title_options": {
+      "conclusion": "OpenAI内部月耗1000亿token",
+      "attractive": "内部用户月耗1000亿token",
+      "minimal": "OpenAI token消耗",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T21:03:05.289411"
+  },
+  "zaihuapd_41767": {
+    "ai_title": "荔枝龙眼杂交新品种首次挂果",
+    "title_options": {
+      "conclusion": "荔枝龙眼杂交新品种首次挂果",
+      "attractive": "荔枝龙眼杂交新品种怀石挂果",
+      "minimal": "怀石首次挂果",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T21:03:06.642967"
+  },
+  "xhqcankao_29850": {
+    "ai_title": "奥尔特曼不为中期选举捐款",
+    "title_options": {
+      "conclusion": "奥尔特曼不为中期选举捐款",
+      "attractive": "AI大佬拒捐中期选举",
+      "minimal": "奥尔特曼 不捐款 中期选举",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T21:03:07.612065"
   }
 }
