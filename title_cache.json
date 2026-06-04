@@ -1129,5 +1129,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-04T18:04:32.320225"
+  },
+  "xhqcankao_29848": {
+    "ai_title": "日产英国工厂将代工奇瑞",
+    "title_options": {
+      "conclusion": "日产英国工厂将代工奇瑞",
+      "attractive": "日产代工奇瑞救开工率",
+      "minimal": "日产奇瑞代工合作"
+    },
+    "generated_at": "2026-06-04T19:05:42.511339"
+  },
+  "zaihuapd_41765": {
+    "ai_title": "DeepSeek登顶美企业软件榜",
+    "title_options": {
+      "conclusion": "DeepSeek登顶美企业软件榜",
+      "attractive": "美企因成本转向中国AI",
+      "minimal": "DeepSeek登顶美企榜",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T19:05:43.526911"
+  },
+  "xhqcankao_29847": {
+    "ai_title": "谷歌发布笔记本可跑模型",
+    "title_options": {
+      "conclusion": "谷歌发布笔记本可跑模型",
+      "attractive": "笔记本也能跑多模态AI",
+      "minimal": "Gemma 4 12B 笔记本",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-04T19:05:44.333794"
   }
 }
