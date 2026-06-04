@@ -1861,64 +1861,6 @@
       }
     },
     {
-      "id": "zaihuapd_41725",
-      "channel": "zaihuapd",
-      "text": "Nous Research 发布 Hermes Desktop 公开预览版Nous Research 推出 Hermes Desktop，将 Hermes Agent 带到本地桌面运行。该产品曾在 Jensen 的 GTC 主题演讲中首次演示，现已开放公开预览。用户可在个人电脑上原生使用 Hermes 的各项功能。Nous Research·备用频道·",
-      "clean_text": "Nous Research 发布 Hermes Desktop 公开预览版Nous Research 推出 Hermes Desktop，将 Hermes Agent 带到本地桌面运行。该产品曾在 Jensen 的 GTC 主题演讲中首次演示，现已开放公开预览。用户可在个人电脑上原生使用 Hermes 的各项功能。Nous Research·备用频道",
-      "datetime": "2026-06-03T03:32:21+00:00",
-      "views": "2.81K",
-      "source_links": [
-        {
-          "text": "Nous Research",
-          "url": "https://x.com/NousResearch/status/2061843507417944552"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41725",
-      "scraped_at": "2026-06-03T12:00:14.628732",
-      "title": "Hermes Desktop公开预览版…",
-      "title_options": {
-        "conclusion": "Hermes Desktop公开预览版…",
-        "attractive": "本地运行Hermes Agent",
-        "minimal": "Hermes Desktop预览",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_29798",
-      "channel": "xhqcankao",
-      "text": "谷歌推出虚假通话检测以防范深伪冒充诈骗谷歌公司周二宣布，安卓正在推出虚假通话检测功能，以防范人工智能深度伪造冒充诈骗。该功能本月通过谷歌的“电话” App在全球范围内向安卓12及以上设备推出，从Pixel设备开始。新功能默认开启，并在后台自动运行。谷歌解释说，这项新功能的工作原理有点像 “设备之间的数字握手”。当联系人给你打电话，并且你们都在使用谷歌电话 App时，他们的手机会向你的设备发送一个静默确认信号，以验证通话是合法的并且确实来自他们的手机。这家科技巨头指出，该公司是基于富通信服务(RCS) 构建此功能的，这使得其他应用和公司能够采用该技术。——Techcrunch、Theverge",
-      "clean_text": "谷歌推出虚假通话检测以防范深伪冒充诈骗谷歌公司周二宣布，安卓正在推出虚假通话检测功能，以防范人工智能深度伪造冒充诈骗。该功能本月通过谷歌的“电话” App在全球范围内向安卓12及以上设备推出，从Pixel设备开始。新功能默认开启，并在后台自动运行。谷歌解释说，这项新功能的工作原理有点像 “设备之间的数字握手”。当联系人给你打电话，并且你们都在使用谷歌电话 App时，他们的手机会向你的设备发送一个静默确认信号，以验证通话是合法的并且确实来自他们的手机。这家科技巨头指出，该公司是基于富通信服务(RCS) 构建此功能的，这使得其他应用和公司能够采用该技术。——Techcrunch、Theverge",
-      "datetime": "2026-06-03T03:30:50+00:00",
-      "views": "1.17K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/"
-        },
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29798",
-      "scraped_at": "2026-06-03T12:00:16.438297",
-      "title": "谷歌推虚假通话检测",
-      "title_options": {
-        "conclusion": "谷歌推虚假通话检测",
-        "attractive": "防深伪诈骗新功能",
-        "minimal": "安卓通话检测",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1980,6 +1922,6 @@
       }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-04T15:30:26.639591"
+  "count": 72,
+  "updated_at": "2026-06-04T15:35:35.144893"
 }
