@@ -1923,37 +1923,6 @@
       }
     },
     {
-      "id": "zaihuapd_41724",
-      "channel": "zaihuapd",
-      "text": "Google 出资向 Play Store 开发者购买代码以训练 AIGoogle 正私下联系 Android 应用开发者，提议付费获取其私有代码库的使用权，用于训练 AI 和改进开发工具。开发者保留 100% 知识产权，并可通过非独家授权获得额外收入。谷歌想要在缩小 Gemini 与 GitHub Copilot、Claude Code 等竞品在编程辅助能力上的差距。Google 近期已发布 Gemini 3.5 Flash 及 Antigravity 2.0 等新工具，加紧追赶竞争对手。Neowin·备用频道·",
-      "clean_text": "Google 出资向 Play Store 开发者购买代码以训练 AIGoogle 正私下联系 Android 应用开发者，提议付费获取其私有代码库的使用权，用于训练 AI 和改进开发工具。开发者保留 100% 知识产权，并可通过非独家授权获得额外收入。谷歌想要在缩小 Gemini 与 GitHub Copilot、Claude Code 等竞品在编程辅助能力上的差距。Google 近期已发布 Gemini 3.5 Flash 及 Antigravity 2.0 等新工具，加紧追赶竞争对手。Neowin·备用频道",
-      "datetime": "2026-06-03T02:47:21+00:00",
-      "views": "2.11K",
-      "source_links": [
-        {
-          "text": "Neowin",
-          "url": "https://www.neowin.net/reports/google-wants-to-pay-play-store-developers-for-code-to-train-its-ai/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41724",
-      "scraped_at": "2026-06-03T11:00:29.073890",
-      "title": "谷歌付费购开发者代码",
-      "title_options": {
-        "conclusion": "谷歌付费购开发者代码",
-        "attractive": "开发者代码可卖钱",
-        "minimal": "谷歌购代码训练AI",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -2015,6 +1984,6 @@
       }
     }
   ],
-  "count": 75,
-  "updated_at": "2026-06-04T14:44:23.816416"
+  "count": 74,
+  "updated_at": "2026-06-04T14:49:29.958192"
 }
