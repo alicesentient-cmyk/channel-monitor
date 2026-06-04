@@ -1622,63 +1622,6 @@
       }
     },
     {
-      "id": "xhqcankao_29817",
-      "channel": "xhqcankao",
-      "text": "AI热刺激芯片设备陶瓷需求 日本卫浴制造商东陶加码进军半导体材料业6月3日消息，日本卫浴制造商东陶预计，未来几年其芯片相关业务支出将占公司总资本支出的一半以上，以借助人工智能热潮开辟新的增长空间。这家生产加热马桶座圈和智能马桶盖的公司，正受益于芯片设备制造商需求的意外激增。东陶在陶瓷材料方面具备专长，其材料被设计用于抵御灰尘颗粒、腐蚀性物质和高温。全球AI投资热潮正带动东陶静电吸盘以及其他芯片制造材料的销售增长。静电吸盘用于在芯片制造过程中固定硅晶圆。在截至今年三月的财年中，东陶半导体相关产品支出占资本开支的11%。——财联社、彭博社",
-      "clean_text": "AI热刺激芯片设备陶瓷需求 日本卫浴制造商东陶加码进军半导体材料业6月3日消息，日本卫浴制造商东陶预计，未来几年其芯片相关业务支出将占公司总资本支出的一半以上，以借助人工智能热潮开辟新的增长空间。这家生产加热马桶座圈和智能马桶盖的公司，正受益于芯片设备制造商需求的意外激增。东陶在陶瓷材料方面具备专长，其材料被设计用于抵御灰尘颗粒、腐蚀性物质和高温。全球AI投资热潮正带动东陶静电吸盘以及其他芯片制造材料的销售增长。静电吸盘用于在芯片制造过程中固定硅晶圆。在截至今年三月的财年中，东陶半导体相关产品支出占资本开支的11%。——财联社、彭博社",
-      "datetime": "2026-06-03T12:30:45+00:00",
-      "views": "1.32K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2389114?sv=859"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/toilet-maker-toto-hikes-capex-to-meet-ai-demand-for-its-ceramics"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29817",
-      "scraped_at": "2026-06-03T21:00:47.261627",
-      "title": "东陶加码半导体材料",
-      "title_options": {
-        "conclusion": "东陶加码半导体材料",
-        "attractive": "AI热催生陶瓷新需求",
-        "minimal": "东陶半导体支出过半",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41743",
-      "channel": "zaihuapd",
-      "text": "创作软件内存需求实测：64 GB 是专业用户甜点Puget Systems 针对 Adobe 全家桶与 DaVinci Resolve 的测试显示，16 GB 内存在多数创作软件中会造成明显性能瓶颈，After Effects 2D 合成与 Lightroom 导出等场景跌幅可达 40% 以上。32 GB 足以应对轻度修图或短视频剪辑，但在 AI 特效、复杂合成及 Fusion 节点流程中仍不及 64 GB 流畅。总体上，64 GB 是当前专业创作平台的“甜点”配置。Puget Systems·备用频道·",
-      "clean_text": "创作软件内存需求实测：64 GB 是专业用户甜点Puget Systems 针对 Adobe 全家桶与 DaVinci Resolve 的测试显示，16 GB 内存在多数创作软件中会造成明显性能瓶颈，After Effects 2D 合成与 Lightroom 导出等场景跌幅可达 40% 以上。32 GB 足以应对轻度修图或短视频剪辑，但在 AI 特效、复杂合成及 Fusion 节点流程中仍不及 64 GB 流畅。总体上，64 GB 是当前专业创作平台的“甜点”配置。Puget Systems·备用频道",
-      "datetime": "2026-06-03T12:30:23+00:00",
-      "views": "3.37K",
-      "source_links": [
-        {
-          "text": "Puget Systems",
-          "url": "https://www.pugetsystems.com/labs/articles/when-does-ram-capacity-impact-performance/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41743",
-      "scraped_at": "2026-06-03T21:00:43.757159",
-      "title": "64GB内存成创作甜点",
-      "title_options": {
-        "conclusion": "64GB内存成创作甜点",
-        "attractive": "16GB瓶颈跌40%",
-        "minimal": "64GB甜点配置"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1740,6 +1683,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-05T00:28:09.433423"
+  "count": 64,
+  "updated_at": "2026-06-05T00:33:16.606681"
 }
