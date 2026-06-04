@@ -1824,37 +1824,6 @@
       }
     },
     {
-      "id": "zaihuapd_41728",
-      "channel": "zaihuapd",
-      "text": "OpenAI 推出金融与法律 AI 工具，与 Anthropic 争夺企业客户OpenAI 正扩展其 AI 编程代理 Codex 的功能，推出面向股票投资、银行、销售等任务的新插件，并计划近期增加法律与企业财务功能。这些工具将整合进 ChatGPT，目的是争夺企业客户，与已推出金融和法律 AI 产品的 Anthropic 直接竞争。OpenAI 计划到今年年底让企业客户贡献一半收入。Codex 每周活跃用户已超 500 万，其中约 20%并非开发者。目前两家公司都在加速冲刺 IPO。Bloomberg·备用频道·",
-      "clean_text": "OpenAI 推出金融与法律 AI 工具，与 Anthropic 争夺企业客户OpenAI 正扩展其 AI 编程代理 Codex 的功能，推出面向股票投资、银行、销售等任务的新插件，并计划近期增加法律与企业财务功能。这些工具将整合进 ChatGPT，目的是争夺企业客户，与已推出金融和法律 AI 产品的 Anthropic 直接竞争。OpenAI 计划到今年年底让企业客户贡献一半收入。Codex 每周活跃用户已超 500 万，其中约 20%并非开发者。目前两家公司都在加速冲刺 IPO。Bloomberg·备用频道",
-      "datetime": "2026-06-03T05:20:22+00:00",
-      "views": "4.25K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41728",
-      "scraped_at": "2026-06-03T14:00:31.873751",
-      "title": "OpenAI推金融法律AI工具",
-      "title_options": {
-        "conclusion": "OpenAI推金融法律AI工具",
-        "attractive": "OpenAI与Anthropic争企业…",
-        "minimal": "OpenAI金融法律AI",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41720",
       "channel": "zaihuapd",
       "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
@@ -1916,6 +1885,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-06-04T17:18:04.092396"
+  "count": 72,
+  "updated_at": "2026-06-04T17:23:11.572588"
 }
