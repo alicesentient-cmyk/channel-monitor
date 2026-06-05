@@ -1,6 +1,69 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29881",
+      "channel": "xhqcankao",
+      "text": "美国国家安全局使用Anthropic的Mythos开展进攻性网络行Anthropic公司正在帮助美国国家安全局部署其强大的 Mythos AI 模型，用于进攻性网络行动，其已将工程师派驻到该机构内部。两名了解相关安排的人士表示，这家总部位于旧金山的公司已在NSA内部部署了约六名员工，担任所谓 “前沿部署工程师”，以指导该技术的使用，并针对特定应用定制模型。目前尚不清楚 Anthropic 的工程师是否正在协助NSA开展实际行动。不过，一名接近相关情况的人士说，Mythos将有助于渗透中国或伊朗等国家的网络。一名接近 Anthropic 的人士表示：“建立良好防御的最佳方式，就是建立强有力的进攻。”这名人士认为，对手很可能也在研发由AI驱动的进攻性科技。——英国金融时报",
+      "clean_text": "美国国家安全局使用Anthropic的Mythos开展进攻性网络行Anthropic公司正在帮助美国国家安全局部署其强大的 Mythos AI 模型，用于进攻性网络行动，其已将工程师派驻到该机构内部。两名了解相关安排的人士表示，这家总部位于旧金山的公司已在NSA内部部署了约六名员工，担任所谓 “前沿部署工程师”，以指导该技术的使用，并针对特定应用定制模型。目前尚不清楚 Anthropic 的工程师是否正在协助NSA开展实际行动。不过，一名接近相关情况的人士说，Mythos将有助于渗透中国或伊朗等国家的网络。一名接近 Anthropic 的人士表示：“建立良好防御的最佳方式，就是建立强有力的进攻。”这名人士认为，对手很可能也在研发由AI驱动的进攻性科技。——英国金融时报",
+      "datetime": "2026-06-05T10:53:56+00:00",
+      "views": "488",
+      "source_links": [
+        {
+          "text": "英国金融时报",
+          "url": "https://www.ftchinese.com/interactive/282207"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29881",
+      "scraped_at": "2026-06-05T19:01:06.386618",
+      "title": "NSA用AnthropicAI进攻",
+      "title_options": {
+        "conclusion": "NSA用AnthropicAI进攻",
+        "attractive": "Anthropic助NSA渗透中伊",
+        "minimal": "NSA Anthropic 网络攻击",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41788",
+      "channel": "zaihuapd",
+      "text": "英特尔发布 Arc Pro B 系列显卡及“Project Battlematrix”Linux 软件改进  英特尔在 Computex 2025 上推出了 Arc Pro B 系列专业显卡，包括 Arc Pro B50（16GB 显存，70W TBP，售价 299 美元）和 Arc Pro B60（24GB 显存，120-200W TBP），将于第三季度上市，主要面向专业应用、AI 推理工作站和边缘计算。  同时，英特尔宣布了“Project Battlematrix”计划，旨在通过 Linux 优化的软件栈（包含…",
+      "clean_text": "英特尔发布 Arc Pro B 系列显卡及“Project Battlematrix”Linux 软件改进  英特尔在 Computex 2025 上推出了 Arc Pro B 系列专业显卡，包括 Arc Pro B50（16GB 显存，70W TBP，售价 299 美元）和 Arc Pro B60（24GB 显存，120-200W TBP），将于第三季度上市，主要面向专业应用、AI 推理工作站和边缘计算。  同时，英特尔宣布了“Project Battlematrix”计划，旨在通过 Linux 优化的软件栈（包含…",
+      "datetime": "2026-06-05T10:35:12+00:00",
+      "views": "2.59K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41788",
+      "scraped_at": "2026-06-05T19:01:03.604216",
+      "title": "英特尔推Arc Pro B系列显卡",
+      "title_options": {
+        "conclusion": "英特尔推Arc Pro B系列显卡",
+        "attractive": "299美元起专业显卡发布",
+        "minimal": "Arc Pro B系列显卡",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29880",
+      "channel": "xhqcankao",
+      "text": "抖音回应豆包误判蘑菇致用户中毒：AI还在发展阶段会不断提升识别准确性针对此前引发公众广泛关注的豆包识别蘑菇误导用户中毒事件，抖音高管李亮近日正式对外作出公开回应。按照李亮披露的核查细节，事件发生后豆包的工作人员第一时间联系上了当事用户，核对完整交互记录后确认，用户当时用豆包拍照识别从小区绿化带采摘的野生蘑菇时，系统确实将目标品种识别为鸡腿菇，但同步给出了多维度的安全风险提示。当前大模型行业整体仍处于快速迭代的发展阶段，平台郑重提示所有用户，凡是涉及人身安全的高风险问题，AI给出的回答仅能作为参考——快科技（中国）",
+      "clean_text": "抖音回应豆包误判蘑菇致用户中毒：AI还在发展阶段会不断提升识别准确性针对此前引发公众广泛关注的豆包识别蘑菇误导用户中毒事件，抖音高管李亮近日正式对外作出公开回应。按照李亮披露的核查细节，事件发生后豆包的工作人员第一时间联系上了当事用户，核对完整交互记录后确认，用户当时用豆包拍照识别从小区绿化带采摘的野生蘑菇时，系统确实将目标品种识别为鸡腿菇，但同步给出了多维度的安全风险提示。当前大模型行业整体仍处于快速迭代的发展阶段，平台郑重提示所有用户，凡是涉及人身安全的高风险问题，AI给出的回答仅能作为参考——快科技（中国）",
+      "datetime": "2026-06-05T10:03:24+00:00",
+      "views": "2.21K",
+      "source_links": [
+        {
+          "text": "快科技",
+          "url": "https://news.mydrivers.com/1/1127/1127515.htm"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29880",
+      "scraped_at": "2026-06-05T19:01:06.386205",
+      "title": "抖音回应豆包误判蘑菇致中毒",
+      "title_options": {
+        "conclusion": "抖音回应豆包误判蘑菇致中毒",
+        "attractive": "AI识别蘑菇误判致用户中毒",
+        "minimal": "豆包误判蘑菇中毒回应"
+      }
+    },
+    {
       "id": "zaihuapd_41787",
       "channel": "zaihuapd",
       "text": "多款 2026 笔记本起跳内存回归 8 GB，AI 推高成本是主因2026 台北国际电脑展上，多家厂商推出 8 GB 内存起步的新笔记本，价位从 449 美元到 1299 美元（约 8825 元人民币）不等。戴尔 XPS 13、宏碁 Swift Air 14、驰为 UniBook、微软 Surface Laptop for Business 等机型均采用 8 GB 起跳配置。此前微软曾要求 Windows 11 AI+ PC 至少 16 GB 内存，苹果也将 16 GB 设为多数 Mac 基础配置，市场一度认为 16 GB 时代已经到来。但受内存及 AI 零部件成本上涨，以及苹果 MacBook Neo 上市等因素影响，Windows 笔记本起跳内存重新出现下降趋势。IT之家·备用频道·",
@@ -1695,6 +1758,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-05T18:57:40.042551"
+  "count": 68,
+  "updated_at": "2026-06-05T19:02:50.126556"
 }

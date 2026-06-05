@@ -1666,5 +1666,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T18:01:50.076648"
+  },
+  "xhqcankao_29881": {
+    "ai_title": "NSA用AnthropicAI进攻",
+    "title_options": {
+      "conclusion": "NSA用AnthropicAI进攻",
+      "attractive": "Anthropic助NSA渗透中伊",
+      "minimal": "NSA Anthropic 网络攻击",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T19:02:47.660768"
+  },
+  "zaihuapd_41788": {
+    "ai_title": "英特尔推Arc Pro B系列显卡",
+    "title_options": {
+      "conclusion": "英特尔推Arc Pro B系列显卡",
+      "attractive": "299美元起专业显卡发布",
+      "minimal": "Arc Pro B系列显卡",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T19:02:48.691056"
+  },
+  "xhqcankao_29880": {
+    "ai_title": "抖音回应豆包误判蘑菇致中毒",
+    "title_options": {
+      "conclusion": "抖音回应豆包误判蘑菇致中毒",
+      "attractive": "AI识别蘑菇误判致用户中毒",
+      "minimal": "豆包误判蘑菇中毒回应"
+    },
+    "generated_at": "2026-06-05T19:02:50.123131"
   }
 }
