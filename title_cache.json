@@ -1695,5 +1695,25 @@
       "minimal": "豆包误判蘑菇中毒回应"
     },
     "generated_at": "2026-06-05T19:02:50.123131"
+  },
+  "zaihuapd_41790": {
+    "ai_title": "中方促荷兰撤销安世接管令",
+    "title_options": {
+      "conclusion": "中方促荷兰撤销安世接管令",
+      "attractive": "晶片短缺，荷兰该撤令了",
+      "minimal": "荷兰安世行政令撤销",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T20:03:56.976499"
+  },
+  "zaihuapd_41789": {
+    "ai_title": "SpaceX IPO排除中国投资者",
+    "title_options": {
+      "conclusion": "SpaceX IPO排除中国投资者",
+      "attractive": "中国投资者无缘SpaceX IPO",
+      "minimal": "SpaceX IPO 中国禁购",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T20:03:58.293052"
   }
 }
