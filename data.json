@@ -1414,37 +1414,6 @@
       }
     },
     {
-      "id": "zaihuapd_41770",
-      "channel": "zaihuapd",
-      "text": "美国市长嘲讽反对数据中心建设的居民是“住烂房子”低收入租客美国印第安纳州 Shelbyville 市长 Scott Furgeson 被拍到谈论反对数据中心的居民。他暗指挂出“No Data Centers”标语的人是住在“烂房子”里的低收入租客，相关视频曝光后引发当地居民不满。Shelbyville 近期围绕数据中心项目出现争议，居民主要担心用电、用水和社区影响。当地此前已有居民在公开会议上反对项目，Furgeson 的言论让反对者认为自己受到贬低。FOX59·备用频道·",
-      "clean_text": "美国市长嘲讽反对数据中心建设的居民是“住烂房子”低收入租客美国印第安纳州 Shelbyville 市长 Scott Furgeson 被拍到谈论反对数据中心的居民。他暗指挂出“No Data Centers”标语的人是住在“烂房子”里的低收入租客，相关视频曝光后引发当地居民不满。Shelbyville 近期围绕数据中心项目出现争议，居民主要担心用电、用水和社区影响。当地此前已有居民在公开会议上反对项目，Furgeson 的言论让反对者认为自己受到贬低。FOX59·备用频道",
-      "datetime": "2026-06-04T14:01:00+00:00",
-      "views": "4.93K",
-      "source_links": [
-        {
-          "text": "FOX59",
-          "url": "https://fox59.com/indiana-news/caught-on-camera-shelbyville-mayor-insinuates-citizens-opposing-data-centers-are-poor-renters-in-shy-houses/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41770",
-      "scraped_at": "2026-06-04T23:00:27.026413",
-      "title": "市长嘲讽反对数据中心居民",
-      "title_options": {
-        "conclusion": "市长嘲讽反对数据中心居民",
-        "attractive": "市长称反对者住烂房子",
-        "minimal": "市长 嘲讽 居民",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1476,6 +1445,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-06T01:57:20.078313"
+  "count": 56,
+  "updated_at": "2026-06-06T02:02:26.416299"
 }
