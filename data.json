@@ -1636,29 +1636,6 @@
       }
     },
     {
-      "id": "xhqcankao_29834",
-      "channel": "xhqcankao",
-      "text": "AI公司联合呼吁美国立法以防范生物武器顶级AI企业高管正与安全专家联手，呼吁美国国会采取行动防范AI带来的生物威胁。包括OpenAI的阿尔特曼、Anthropic的阿莫迪以及DeepMind AI实验室的德米斯·哈萨比斯这三位重量级首席执行官在内，AI行业高管们共同签署了一封信函。该信函敦促国会要求企业在订购合成DNA和RNA时采取保障措施，订购这些物质是开发特定疫苗和实现生物技术突破的关键环节。此举旨在要求销售合成核酸的公司对客户订单进行审查，以拦截任何具有潜在危险的组合，并确保下单客户的身份合法合规。信中写道：“AI系统正在迅速进步，在为科学和医学带来难以置信的益处的同时，历史上阻止不法分子获取生物武器的知识壁垒确实有可能被大幅削弱。——华尔街日报",
-      "clean_text": "AI公司联合呼吁美国立法以防范生物武器顶级AI企业高管正与安全专家联手，呼吁美国国会采取行动防范AI带来的生物威胁。包括OpenAI的阿尔特曼、Anthropic的阿莫迪以及DeepMind AI实验室的德米斯·哈萨比斯这三位重量级首席执行官在内，AI行业高管们共同签署了一封信函。该信函敦促国会要求企业在订购合成DNA和RNA时采取保障措施，订购这些物质是开发特定疫苗和实现生物技术突破的关键环节。此举旨在要求销售合成核酸的公司对客户订单进行审查，以拦截任何具有潜在危险的组合，并确保下单客户的身份合法合规。信中写道：“AI系统正在迅速进步，在为科学和医学带来难以置信的益处的同时，历史上阻止不法分子获取生物武器的知识壁垒确实有可能被大幅削弱。——华尔街日报",
-      "datetime": "2026-06-04T03:30:27+00:00",
-      "views": "1.18K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/top-ai-ceos-call-for-law-protecting-against-biological-weapons-4c44f3c8?mod=cn_hp_lead_pos6"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29834",
-      "scraped_at": "2026-06-04T12:01:06.104487",
-      "title": "AI高管呼吁立法防生物武器",
-      "title_options": {
-        "conclusion": "AI高管呼吁立法防生物武器",
-        "attractive": "AI巨头联手防生物威胁",
-        "minimal": "AI企业呼吁立法",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1721,6 +1698,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-05T15:28:08.599836"
+  "count": 65,
+  "updated_at": "2026-06-05T15:33:13.414813"
 }
