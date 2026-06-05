@@ -1743,5 +1743,24 @@
       "minimal": "SpaceX IPO 港内地禁购"
     },
     "generated_at": "2026-06-05T21:05:29.841366"
+  },
+  "zaihuapd_41792": {
+    "ai_title": "美百万富翁超2400万户",
+    "title_options": {
+      "conclusion": "美百万富翁超2400万户",
+      "attractive": "百万美元难保退休安稳",
+      "minimal": "富翁激增 财富锁定"
+    },
+    "generated_at": "2026-06-05T22:01:43.881197"
+  },
+  "xhqcankao_29884": {
+    "ai_title": "新华网投11亿开发AI推习近平思想",
+    "title_options": {
+      "conclusion": "新华网投11亿开发AI推习近平思想",
+      "attractive": "11亿AI专治引用不准",
+      "minimal": "新华网11亿AI习近平",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T22:01:44.952878"
   }
 }
