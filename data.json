@@ -1665,37 +1665,6 @@
       }
     },
     {
-      "id": "zaihuapd_41756",
-      "channel": "zaihuapd",
-      "text": "奥特曼：OpenAI 内部最高用户每月消耗约 1000 亿个 tokenSam Altman 在企业活动上说，OpenAI 内部当前最高的 token 使用者每月约消耗 1000 亿个 token，但公司发现外部还有人用得更多。他还提到，6 年半前 OpenAI 最高使用者每月消耗 10 万个 token，当时很可能已是全球领先水平，如今这大约只是全球人均水平。OpenAI 内部有鼓励高 token 使用的文化，但 AI 成本压力正在升高。Altman 说，2026 年初成本问题还很少被提起，现在已经成了“巨大问题”，公司正继续改进模型，并寻找用更低支出提供更多价值的方法。Business Insider·备用频道·",
-      "clean_text": "奥特曼：OpenAI 内部最高用户每月消耗约 1000 亿个 tokenSam Altman 在企业活动上说，OpenAI 内部当前最高的 token 使用者每月约消耗 1000 亿个 token，但公司发现外部还有人用得更多。他还提到，6 年半前 OpenAI 最高使用者每月消耗 10 万个 token，当时很可能已是全球领先水平，如今这大约只是全球人均水平。OpenAI 内部有鼓励高 token 使用的文化，但 AI 成本压力正在升高。Altman 说，2026 年初成本问题还很少被提起，现在已经成了“巨大问题”，公司正继续改进模型，并寻找用更低支出提供更多价值的方法。Business Insider·备用频道",
-      "datetime": "2026-06-04T02:31:18+00:00",
-      "views": "3.26K",
-      "source_links": [
-        {
-          "text": "Business Insider",
-          "url": "https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41756",
-      "scraped_at": "2026-06-04T11:00:17.957995",
-      "title": "OpenAI用户月耗千亿token",
-      "title_options": {
-        "conclusion": "OpenAI用户月耗千亿token",
-        "attractive": "AI成本飙升成巨大问题",
-        "minimal": "月耗千亿token",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1758,6 +1727,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-05T14:26:31.685707"
+  "count": 66,
+  "updated_at": "2026-06-05T14:31:39.752085"
 }
