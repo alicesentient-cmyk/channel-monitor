@@ -1605,37 +1605,6 @@
       }
     },
     {
-      "id": "zaihuapd_41765",
-      "channel": "zaihuapd",
-      "text": "DeepSeek 登顶美企业软件热门榜 美公司因成本转向中国 AI更多美国企业正因成本考虑转向中国 AI 公司 DeepSeek。企业支出平台 Ramp 的 6 月报告显示，DeepSeek 登上\"热门软件供应商\"榜首，部分美国公司直接向其付费，将数据往返中国服务器处理。这是继 2025 年初短暂热度后，DeepSeek 在美国企业市场的又一次明显回升。开源模型正加速追赶硅谷主流产品。DeepSeek 上周宣布旗舰模型 V4 Pro 永久降价，并因高性价比受到关注。该公司还在推进首轮融资，估值接近 600 亿美元，腾讯和宁德时代等为主要投资方。South China Morning Post·备用频道·",
-      "clean_text": "DeepSeek 登顶美企业软件热门榜 美公司因成本转向中国 AI更多美国企业正因成本考虑转向中国 AI 公司 DeepSeek。企业支出平台 Ramp 的 6 月报告显示，DeepSeek 登上\"热门软件供应商\"榜首，部分美国公司直接向其付费，将数据往返中国服务器处理。这是继 2025 年初短暂热度后，DeepSeek 在美国企业市场的又一次明显回升。开源模型正加速追赶硅谷主流产品。DeepSeek 上周宣布旗舰模型 V4 Pro 永久降价，并因高性价比受到关注。该公司还在推进首轮融资，估值接近 600 亿美元，腾讯和宁德时代等为主要投资方。South China Morning Post·备用频道",
-      "datetime": "2026-06-04T10:26:18+00:00",
-      "views": "3.7K",
-      "source_links": [
-        {
-          "text": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41765",
-      "scraped_at": "2026-06-04T19:00:52.517763",
-      "title": "DeepSeek登顶美企业软件榜",
-      "title_options": {
-        "conclusion": "DeepSeek登顶美企业软件榜",
-        "attractive": "美企因成本转向中国AI",
-        "minimal": "DeepSeek登顶美企榜",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1667,6 +1636,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-05T22:22:13.583360"
+  "count": 63,
+  "updated_at": "2026-06-05T22:27:19.902929"
 }
