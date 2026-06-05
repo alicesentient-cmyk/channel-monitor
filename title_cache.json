@@ -1636,5 +1636,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T17:05:34.518376"
+  },
+  "zaihuapd_41787": {
+    "ai_title": "笔记本内存回归8GB",
+    "title_options": {
+      "conclusion": "笔记本内存回归8GB",
+      "attractive": "AI推高成本致内存缩水",
+      "minimal": "8GB内存笔记本",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T18:01:47.819369"
+  },
+  "xhqcankao_29879": {
+    "ai_title": "日本再投1500亿日元助Rapidus",
+    "title_options": {
+      "conclusion": "日本再投1500亿日元助Rapidus",
+      "attractive": "日本砸1500亿日元造2纳米芯片",
+      "minimal": "日本追加出资1500亿日元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T18:01:49.007423"
+  },
+  "xhqcankao_29878": {
+    "ai_title": "美政府探讨入股AI公司",
+    "title_options": {
+      "conclusion": "美政府探讨入股AI公司",
+      "attractive": "政府入股AI分红利？",
+      "minimal": "美政府入股AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T18:01:50.076648"
   }
 }
