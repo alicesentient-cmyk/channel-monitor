@@ -1266,37 +1266,6 @@
       }
     },
     {
-      "id": "zaihuapd_41773",
-      "channel": "zaihuapd",
-      "text": "ChatGPT 记忆系统升级：自动学习偏好，不再过时OpenAI 开始向美国 Plus 和 Pro 用户推出全新的内存系统，基于“dreaming”后台自动整理技术。它能从多轮对话中自动抓取用户偏好、项目和上下文，无需特意说“请记住”，并会随时间自动更新记忆，例如旅行结束后不再推荐当地餐厅。这一更新解决了此前手动记忆条目容易过时、不够灵活的问题。未来几周将向更多国家和免费用户开放。OpenAI·备用频道·",
-      "clean_text": "ChatGPT 记忆系统升级：自动学习偏好，不再过时OpenAI 开始向美国 Plus 和 Pro 用户推出全新的内存系统，基于“dreaming”后台自动整理技术。它能从多轮对话中自动抓取用户偏好、项目和上下文，无需特意说“请记住”，并会随时间自动更新记忆，例如旅行结束后不再推荐当地餐厅。这一更新解决了此前手动记忆条目容易过时、不够灵活的问题。未来几周将向更多国家和免费用户开放。OpenAI·备用频道",
-      "datetime": "2026-06-04T16:22:01+00:00",
-      "views": "3.08K",
-      "source_links": [
-        {
-          "text": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-memory-dreaming/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41773",
-      "scraped_at": "2026-06-05T01:00:19.908184",
-      "title": "ChatGPT记忆系统升级",
-      "title_options": {
-        "conclusion": "ChatGPT记忆系统升级",
-        "attractive": "记忆自动更新不过时",
-        "minimal": "记忆系统升级",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1328,6 +1297,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-06-06T04:20:51.829398"
+  "count": 50,
+  "updated_at": "2026-06-06T04:25:57.742131"
 }
