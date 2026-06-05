@@ -1,6 +1,147 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41779",
+      "channel": "zaihuapd",
+      "text": "Anthropic 呼吁全球放缓前沿 AI 开发Anthropic 呼吁全球主要 AI 实验室考虑放缓前沿模型开发节奏。该公司在博客中表示，AI 进步速度极快，可能很快出现无需人类干预即可自我改进的“递归自我改进”能力，这会带来重大社会风险。公司警告，若没有全球协调机制，单方暂停只会让对手抢跑，因此提议多国主要 AI 企业同步停止并遵守可验证规则，避免单一暂停让对手趁机赶超。该提议在华盛顿和硅谷遇冷，批评者认为其夸大风险，实为借安全之名打压对手，且放缓研发恐让中国获得战略优势。Anthropic 近日刚完成近万亿美元估值的融资，并已提交 IPO 保密文件。AnthropicAI|The Wall Street Journal|Yahoo News·备用频道·",
+      "clean_text": "Anthropic 呼吁全球放缓前沿 AI 开发Anthropic 呼吁全球主要 AI 实验室考虑放缓前沿模型开发节奏。该公司在博客中表示，AI 进步速度极快，可能很快出现无需人类干预即可自我改进的“递归自我改进”能力，这会带来重大社会风险。公司警告，若没有全球协调机制，单方暂停只会让对手抢跑，因此提议多国主要 AI 企业同步停止并遵守可验证规则，避免单一暂停让对手趁机赶超。该提议在华盛顿和硅谷遇冷，批评者认为其夸大风险，实为借安全之名打压对手，且放缓研发恐让中国获得战略优势。Anthropic 近日刚完成近万亿美元估值的融资，并已提交 IPO 保密文件。AnthropicAI|The Wall Street Journal|Yahoo News·备用频道",
+      "datetime": "2026-06-05T03:00:14+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "AnthropicAI",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement"
+        },
+        {
+          "text": "The Wall Street Journal",
+          "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73"
+        },
+        {
+          "text": "Yahoo News",
+          "url": "https://www.yahoo.com/news/science/articles/anthropic-calls-pause-global-ai-223531016.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41779",
+      "scraped_at": "2026-06-05T11:00:52.020407",
+      "title": "Anthropic呼吁放缓AI开发",
+      "title_options": {
+        "conclusion": "Anthropic呼吁放缓AI开发",
+        "attractive": "AI自我改进风险引争议",
+        "minimal": "Anthropic放缓AI呼吁"
+      }
+    },
+    {
+      "id": "xhqcankao_29865",
+      "channel": "xhqcankao",
+      "text": "魏哲家：台积电目前不存在失去竞争优势的风险台积电CEO表示，该公司在下一代芯片制造领域并未落后。此举驳斥了外界疑虑。外界此前担心，竞争对手已采用极昂贵设备制造尖端芯片，使台积电处于劣势。在年度股东大会上，台积电CEO魏哲家阐明了公司对阿斯麦独家制造的设备的立场。魏哲家周四表示，事实上，公司已经购买了这类设备，而且团队正努力在做各种研发，只是目前还没有将其部署于大批量规模化生产。虽然高数值孔径极紫外光刻技术能提供无与伦比的分辨率，但也带来了巨大的商业障碍，因为每台设备的成本将比当代主流设备高得多。他对股东说，目前台积电正专注于研究如何提高这些设备的运行效率，以降低制造成本。——华尔街日报",
+      "clean_text": "魏哲家：台积电目前不存在失去竞争优势的风险台积电CEO表示，该公司在下一代芯片制造领域并未落后。此举驳斥了外界疑虑。外界此前担心，竞争对手已采用极昂贵设备制造尖端芯片，使台积电处于劣势。在年度股东大会上，台积电CEO魏哲家阐明了公司对阿斯麦独家制造的设备的立场。魏哲家周四表示，事实上，公司已经购买了这类设备，而且团队正努力在做各种研发，只是目前还没有将其部署于大批量规模化生产。虽然高数值孔径极紫外光刻技术能提供无与伦比的分辨率，但也带来了巨大的商业障碍，因为每台设备的成本将比当代主流设备高得多。他对股东说，目前台积电正专注于研究如何提高这些设备的运行效率，以降低制造成本。——华尔街日报",
+      "datetime": "2026-06-05T02:33:23+00:00",
+      "views": "1.2K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/%E9%AD%8F%E5%93%B2%E5%AE%B6-%E5%8F%B0%E7%A7%AF%E7%94%B5%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%A4%B1%E5%8E%BB%E7%AB%9E%E4%BA%89%E4%BC%98%E5%8A%BF%E7%9A%84%E9%A3%8E%E9%99%A9-83555962?mod=cn_hp_featst_pos2"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29865",
+      "scraped_at": "2026-06-05T11:00:54.701101",
+      "title": "台积电称无竞争风险",
+      "title_options": {
+        "conclusion": "台积电称无竞争风险",
+        "attractive": "台积电已购尖端设备",
+        "minimal": "台积电无风险"
+      }
+    },
+    {
+      "id": "zaihuapd_41778",
+      "channel": "zaihuapd",
+      "text": "非英语语言 token 成本：Anthropic 使用中文消耗高出 71% ，中国模型对中文更友好研究人员对比发现，不同模型的 tokenizer 对非英语文本处理效率差异明显。以《苦涩的教训》一文翻译文本为例，中文在 Anthropic 模型上的 token 消耗是 OpenAI 的 1.71 倍，印地语高达 3.24 倍，阿拉伯语为 2.86 倍。后续测试更多模型-语言对表明，Gemini 和 Qwen 的非英语额外开销最小，Anthropic 最高，Kimi 次之。中国主流模型处理中文时，甚至比处理英语更节约 token。印地语尽管使用人数众多，但在此对比中 token 效率最低。Aran Komatsuzaki(@arankomatsuzaki)(1,2)·备用频道·",
+      "clean_text": "非英语语言 token 成本：Anthropic 使用中文消耗高出 71% ，中国模型对中文更友好研究人员对比发现，不同模型的 tokenizer 对非英语文本处理效率差异明显。以《苦涩的教训》一文翻译文本为例，中文在 Anthropic 模型上的 token 消耗是 OpenAI 的 1.71 倍，印地语高达 3.24 倍，阿拉伯语为 2.86 倍。后续测试更多模型-语言对表明，Gemini 和 Qwen 的非英语额外开销最小，Anthropic 最高，Kimi 次之。中国主流模型处理中文时，甚至比处理英语更节约 token。印地语尽管使用人数众多，但在此对比中 token 效率最低。Aran Komatsuzaki(@arankomatsuzaki)(1,2)·备用频道",
+      "datetime": "2026-06-05T02:14:12+00:00",
+      "views": "4.47K",
+      "source_links": [
+        {
+          "text": "1",
+          "url": "https://x.com/arankomatsuzaki/status/2049125048792006965"
+        },
+        {
+          "text": "2",
+          "url": "https://x.com/arankomatsuzaki/status/2049177688402022730"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41778",
+      "scraped_at": "2026-06-05T11:00:52.019898",
+      "title": "中文在Anthropic消耗高71%",
+      "title_options": {
+        "conclusion": "中文在Anthropic消耗高71%",
+        "attractive": "中文token成本比英文高71%",
+        "minimal": "中文token消耗高71%",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29864",
+      "channel": "xhqcankao",
+      "text": "两名日本人在吉林省处理遗留化武受伤周四，中国外交部发言人毛宁主持例行记者会。朝日电视台记者提问：有报道称，两名日本工作人员在吉林省处理日军遗弃在华化学武器时受伤住院。中方对此有何评论？毛宁表示，5月26日，两名日方人员在吉林省处理日本遗弃在华化学武器的过程中，因日遗化武炮弹破损手臂不慎染毒。中方现场立即为两人进行诊疗并送往医院。两人在医院接受治疗之后，已于29日被送回日本。——中国外交部",
+      "clean_text": "两名日本人在吉林省处理遗留化武受伤周四，中国外交部发言人毛宁主持例行记者会。朝日电视台记者提问：有报道称，两名日本工作人员在吉林省处理日军遗弃在华化学武器时受伤住院。中方对此有何评论？毛宁表示，5月26日，两名日方人员在吉林省处理日本遗弃在华化学武器的过程中，因日遗化武炮弹破损手臂不慎染毒。中方现场立即为两人进行诊疗并送往医院。两人在医院接受治疗之后，已于29日被送回日本。——中国外交部",
+      "datetime": "2026-06-05T02:10:22+00:00",
+      "views": "2.03K",
+      "source_links": [
+        {
+          "text": "中国外交部",
+          "url": "https://www.fmprc.gov.cn/fyrbt_673021/jzhsl_673025/202606/t20260604_11937631.shtml"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29864",
+      "scraped_at": "2026-06-05T11:00:54.700706",
+      "title": "两名日本人在吉林处理化武受伤",
+      "title_options": {
+        "conclusion": "两名日本人在吉林处理化武受伤",
+        "attractive": "日方人员在华处理化武染毒",
+        "minimal": "吉林日遗化武致伤",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29863",
+      "channel": "xhqcankao",
+      "text": "杰克·多西的无接触支付公司推出支付魔杖在触碰支付时代，Block公司正试图让支付变得更有魔力一些。该公司旗下 Cash App业务周四推出了一款设备，外形看起来像一根闪闪发光的小魔杖，但其中嵌入了芯片，使顾客能够像使用塑料卡或手机一样在商店里为商品付款。这是Block公司为发展了Cash App业务所做的又一次尝试，此次使用魔杖瞄准青少年和年轻成年人。公司的抱负是利用这种“物品内置芯片”的想法，最终推出其他能够吸引不同人群的实体设备。理论上这款芯片可以被植入任何物品中，从健康追踪手环到棒球帽。Cash App是杰克·多西宏伟愿景的一部分，该愿景旨在打造一家让交易变得快速、简便并且可能很酷的公司。——彭博社",
+      "clean_text": "杰克·多西的无接触支付公司推出支付魔杖在触碰支付时代，Block公司正试图让支付变得更有魔力一些。该公司旗下 Cash App业务周四推出了一款设备，外形看起来像一根闪闪发光的小魔杖，但其中嵌入了芯片，使顾客能够像使用塑料卡或手机一样在商店里为商品付款。这是Block公司为发展了Cash App业务所做的又一次尝试，此次使用魔杖瞄准青少年和年轻成年人。公司的抱负是利用这种“物品内置芯片”的想法，最终推出其他能够吸引不同人群的实体设备。理论上这款芯片可以被植入任何物品中，从健康追踪手环到棒球帽。Cash App是杰克·多西宏伟愿景的一部分，该愿景旨在打造一家让交易变得快速、简便并且可能很酷的公司。——彭博社",
+      "datetime": "2026-06-05T02:01:49+00:00",
+      "views": "2.08K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-04/jack-dorsey-s-contactless-payments-company-introduces-a-wand"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29863",
+      "scraped_at": "2026-06-05T11:00:54.700247",
+      "title": "Block推出支付魔杖",
+      "title_options": {
+        "conclusion": "Block推出支付魔杖",
+        "attractive": "魔杖支付瞄准年轻人",
+        "minimal": "支付魔杖",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29862",
       "channel": "xhqcankao",
       "text": "Substack新功能让创作者能控制评论区回复Substack于周三宣布了一项名为“回复规则”的新功能，旨在让创作者对其受众能够回复的方式拥有更大的控制权。通过该功能，创作者可以为其帖子、动态（Notes）或聊天（Chat）中的评论制定具体准则。这些准则可能包括要求消除AI垃圾内容或脏话，或是一些搞笑的规则，比如只允许以俳句形式回复。Substack解释说，该系统会从用户的行为中学习，例如当他们隐藏某些回复时，并将自动过滤掉不符合创作者偏好的评论。创作者对这些被隐藏的回复保持可见性，并且如果他们改变主意，可以选择取消隐藏。目前，“回复规则”适用于所有英文出版物。——Techcrunch",
@@ -1555,6 +1696,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-05T10:57:17.503637"
+  "count": 65,
+  "updated_at": "2026-06-05T11:02:30.380762"
 }

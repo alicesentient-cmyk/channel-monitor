@@ -1405,5 +1405,53 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T10:01:12.549050"
+  },
+  "zaihuapd_41779": {
+    "ai_title": "Anthropic呼吁放缓AI开发",
+    "title_options": {
+      "conclusion": "Anthropic呼吁放缓AI开发",
+      "attractive": "AI自我改进风险引争议",
+      "minimal": "Anthropic放缓AI呼吁"
+    },
+    "generated_at": "2026-06-05T11:02:24.119622"
+  },
+  "xhqcankao_29865": {
+    "ai_title": "台积电称无竞争风险",
+    "title_options": {
+      "conclusion": "台积电称无竞争风险",
+      "attractive": "台积电已购尖端设备",
+      "minimal": "台积电无风险"
+    },
+    "generated_at": "2026-06-05T11:02:25.305260"
+  },
+  "zaihuapd_41778": {
+    "ai_title": "中文在Anthropic消耗高71%",
+    "title_options": {
+      "conclusion": "中文在Anthropic消耗高71%",
+      "attractive": "中文token成本比英文高71%",
+      "minimal": "中文token消耗高71%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T11:02:26.737172"
+  },
+  "xhqcankao_29864": {
+    "ai_title": "两名日本人在吉林处理化武受伤",
+    "title_options": {
+      "conclusion": "两名日本人在吉林处理化武受伤",
+      "attractive": "日方人员在华处理化武染毒",
+      "minimal": "吉林日遗化武致伤",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T11:02:28.201352"
+  },
+  "xhqcankao_29863": {
+    "ai_title": "Block推出支付魔杖",
+    "title_options": {
+      "conclusion": "Block推出支付魔杖",
+      "attractive": "魔杖支付瞄准年轻人",
+      "minimal": "支付魔杖",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T11:02:29.376402"
   }
 }
