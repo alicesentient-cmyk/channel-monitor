@@ -1510,5 +1510,43 @@
       "minimal": "Meta帐篷数据中心"
     },
     "generated_at": "2026-06-05T13:04:47.990979"
+  },
+  "zaihuapd_41783": {
+    "ai_title": "MiniMax改计费致歉",
+    "title_options": {
+      "conclusion": "MiniMax改计费致歉",
+      "attractive": "Token消耗超预期引投诉",
+      "minimal": "MiniMax致歉补偿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T14:06:03.707252"
+  },
+  "xhqcankao_29871": {
+    "ai_title": "比亚迪销量跌出全球前十",
+    "title_options": {
+      "conclusion": "比亚迪销量跌出全球前十",
+      "attractive": "比亚迪一季度销量骤降30%",
+      "minimal": "比亚迪跌至第11位"
+    },
+    "generated_at": "2026-06-05T14:06:05.145628"
+  },
+  "xhqcankao_29870": {
+    "ai_title": "追觅CEO俞浩微博被禁言",
+    "title_options": {
+      "conclusion": "追觅CEO俞浩微博被禁言",
+      "attractive": "CEO称不喜欢者是loser后禁言",
+      "minimal": "俞浩微博禁言"
+    },
+    "generated_at": "2026-06-05T14:06:06.588145"
+  },
+  "zaihuapd_41782": {
+    "ai_title": "Codex新增iOS插件",
+    "title_options": {
+      "conclusion": "Codex新增iOS插件",
+      "attractive": "iOS应用热重载预览",
+      "minimal": "Codex iOS插件",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T14:06:07.865437"
   }
 }
