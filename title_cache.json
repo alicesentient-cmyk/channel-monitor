@@ -1376,5 +1376,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T09:05:23.642054"
+  },
+  "xhqcankao_29862": {
+    "ai_title": "Substack推回复规则",
+    "title_options": {
+      "conclusion": "Substack推回复规则",
+      "attractive": "创作者可设评论规则",
+      "minimal": "回复规则控制"
+    },
+    "generated_at": "2026-06-05T10:01:09.930213"
+  },
+  "zaihuapd_41777": {
+    "ai_title": "美防部拟终止与Anthropic合作",
+    "title_options": {
+      "conclusion": "美防部拟终止与Anthropic合作",
+      "attractive": "AI军事用途分歧致合作终止",
+      "minimal": "美防部Anthropic分歧终止",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T10:01:11.215468"
+  },
+  "xhqcankao_29861": {
+    "ai_title": "亚马逊推对话式仓库机器人",
+    "title_options": {
+      "conclusion": "亚马逊推对话式仓库机器人",
+      "attractive": "仓库机器人能听懂人话了",
+      "minimal": "亚马逊 机器人 对话",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T10:01:12.549050"
   }
 }

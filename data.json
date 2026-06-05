@@ -1,6 +1,69 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29862",
+      "channel": "xhqcankao",
+      "text": "Substack新功能让创作者能控制评论区回复Substack于周三宣布了一项名为“回复规则”的新功能，旨在让创作者对其受众能够回复的方式拥有更大的控制权。通过该功能，创作者可以为其帖子、动态（Notes）或聊天（Chat）中的评论制定具体准则。这些准则可能包括要求消除AI垃圾内容或脏话，或是一些搞笑的规则，比如只允许以俳句形式回复。Substack解释说，该系统会从用户的行为中学习，例如当他们隐藏某些回复时，并将自动过滤掉不符合创作者偏好的评论。创作者对这些被隐藏的回复保持可见性，并且如果他们改变主意，可以选择取消隐藏。目前，“回复规则”适用于所有英文出版物。——Techcrunch",
+      "clean_text": "Substack新功能让创作者能控制评论区回复Substack于周三宣布了一项名为“回复规则”的新功能，旨在让创作者对其受众能够回复的方式拥有更大的控制权。通过该功能，创作者可以为其帖子、动态（Notes）或聊天（Chat）中的评论制定具体准则。这些准则可能包括要求消除AI垃圾内容或脏话，或是一些搞笑的规则，比如只允许以俳句形式回复。Substack解释说，该系统会从用户的行为中学习，例如当他们隐藏某些回复时，并将自动过滤掉不符合创作者偏好的评论。创作者对这些被隐藏的回复保持可见性，并且如果他们改变主意，可以选择取消隐藏。目前，“回复规则”适用于所有英文出版物。——Techcrunch",
+      "datetime": "2026-06-05T01:33:20+00:00",
+      "views": "1.03K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29862",
+      "scraped_at": "2026-06-05T10:01:07.811681",
+      "title": "Substack推回复规则",
+      "title_options": {
+        "conclusion": "Substack推回复规则",
+        "attractive": "创作者可设评论规则",
+        "minimal": "回复规则控制"
+      }
+    },
+    {
+      "id": "zaihuapd_41777",
+      "channel": "zaihuapd",
+      "text": "美国国防部拟终止与 Anthropic 合作，因 AI 军事用途限制产生分歧  美国国防部正考虑终止与 AI 公司 Anthropic 的合作，主因是双方在模型使用权限上存在严重分歧。Anthropic 坚持禁止将 Claude 模型用于大规模监控及全自动武器系统，而国防部要求获得包括武器研发和战场行动在内的“所有合法用途”授权。  此前，Claude 在抓捕委内瑞拉领导人马杜罗的军事行动中被使用，引发公司对技术涉及实战打击的疑虑。尽管 OpenAI 和 Google 等竞争对手已同意放宽限制，但国防部承认，Anthropic…",
+      "clean_text": "美国国防部拟终止与 Anthropic 合作，因 AI 军事用途限制产生分歧  美国国防部正考虑终止与 AI 公司 Anthropic 的合作，主因是双方在模型使用权限上存在严重分歧。Anthropic 坚持禁止将 Claude 模型用于大规模监控及全自动武器系统，而国防部要求获得包括武器研发和战场行动在内的“所有合法用途”授权。  此前，Claude 在抓捕委内瑞拉领导人马杜罗的军事行动中被使用，引发公司对技术涉及实战打击的疑虑。尽管 OpenAI 和 Google 等竞争对手已同意放宽限制，但国防部承认，Anthropic…",
+      "datetime": "2026-06-05T01:27:31+00:00",
+      "views": "3.2K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41777",
+      "scraped_at": "2026-06-05T10:01:05.597625",
+      "title": "美防部拟终止与Anthropic合作",
+      "title_options": {
+        "conclusion": "美防部拟终止与Anthropic合作",
+        "attractive": "AI军事用途分歧致合作终止",
+        "minimal": "美防部Anthropic分歧终止",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29861",
+      "channel": "xhqcankao",
+      "text": "亚马逊开发可与工人对话的仓库机器人亚马逊宣布了其全自动仓库机器人Proteus的新版本，该版本将使用语言而非代码进行交互。这些扩展的功能是该电商巨头用机器人取代其人类员工的过程中，日益转向自动化的一部分。亚马逊公司表示，这项由人工智能驱动的升级意味着其人类员工可以用与同事沟通的相同方式给机器人分配任务。此前，工人们需要使用专门的软件来指挥这些地面上的、类似乌龟的系统，这些系统设计用于在亚马逊仓库中完成重物搬运和移动大型推车。“你告诉它需要做什么。它会自己确定优先级、路线和时间安排，”亚马逊机器人部门副总裁斯科特·德雷瑟表示。——Theverge",
+      "clean_text": "亚马逊开发可与工人对话的仓库机器人亚马逊宣布了其全自动仓库机器人Proteus的新版本，该版本将使用语言而非代码进行交互。这些扩展的功能是该电商巨头用机器人取代其人类员工的过程中，日益转向自动化的一部分。亚马逊公司表示，这项由人工智能驱动的升级意味着其人类员工可以用与同事沟通的相同方式给机器人分配任务。此前，工人们需要使用专门的软件来指挥这些地面上的、类似乌龟的系统，这些系统设计用于在亚马逊仓库中完成重物搬运和移动大型推车。“你告诉它需要做什么。它会自己确定优先级、路线和时间安排，”亚马逊机器人部门副总裁斯科特·德雷瑟表示。——Theverge",
+      "datetime": "2026-06-05T01:04:41+00:00",
+      "views": "1.64K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29861",
+      "scraped_at": "2026-06-05T10:01:07.811368",
+      "title": "亚马逊推对话式仓库机器人",
+      "title_options": {
+        "conclusion": "亚马逊推对话式仓库机器人",
+        "attractive": "仓库机器人能听懂人话了",
+        "minimal": "亚马逊 机器人 对话",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41776",
       "channel": "zaihuapd",
       "text": "美国科技业 5 月裁员近 4 万创近两年新高 AI 成最常被提及原因美国科技业 5 月宣布裁员 38,242 人，为近两年单月最高，也是各行业中最多。AI 连续第三个月成为企业解释裁员时最常提到的理由。但失业金申请并未随之明显上升，5 月非农预计仍增加约 8.5 万人。与此同时，科技巨头今年资本支出合计约 7,250 亿美元，其中约四分之三投向 AI 基础设施。有分析指出，目前 AI 更多是占用了相关岗位的预算，而非真正取代这些职位本身。Tom's Hardware·备用频道·",
@@ -1461,36 +1524,6 @@
       }
     },
     {
-      "id": "zaihuapd_41720",
-      "channel": "zaihuapd",
-      "text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道·",
-      "clean_text": "OpenAI 推出 Sites：Codex 可将想法直接转为交互式应用OpenAI 宣布推出 Sites 功能。通过 Sites，Codex 能把工作内容、想法和计划变成可交互的网站或应用，团队可通过 URL 访问、使用和分享。该功能率先向 Business 和 Enterprise 用户开放，后续将扩大覆盖范围。OpenAI·备用频道",
-      "datetime": null,
-      "views": "1.57K",
-      "source_links": [
-        {
-          "text": "OpenAI",
-          "url": "https://x.com/OpenAI/status/2061845949170045346"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41720",
-      "scraped_at": "2026-06-03T02:00:09.953577",
-      "title": "OpenAI推出Sites功能",
-      "title_options": {
-        "conclusion": "OpenAI推出Sites功能",
-        "attractive": "Codex将想法变应用",
-        "minimal": "Sites：想法转应用"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1522,6 +1555,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-05T09:56:03.544968"
+  "count": 60,
+  "updated_at": "2026-06-05T10:01:12.552814"
 }
