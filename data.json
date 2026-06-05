@@ -1468,29 +1468,6 @@
       }
     },
     {
-      "id": "xhqcankao_29852",
-      "channel": "xhqcankao",
-      "text": "中国公司以“公斤计”出售隐身涂料，可使无人机对雷达几乎隐形深圳公司星航（Star-Navi）现正销售原本需有数十亿美元才能涉足的隐身无人机技术，并使用标准化的喷涂枪套装形式出售其涂料。该技术通过涂层使无人机的雷达散射截面更小，更难被现代雷达追踪。他们推出的XRAM-C系列涂层提供三种不同变体，分别针对不同的威胁雷达频率，旨在增强无人机的隐蔽性。喷涂涂层成本与F-117相比几乎可以忽略不计，能够削减雷达反射功率50%。这些涂层包括XRAM‑C105（针对X和Ku频段）、XRAM‑C112（针对S和C频段）以及XRAM‑C113B（C和X频段宽带覆盖），均以公斤计出售，并声称在250摄氏度下可耐受100小时。这使得过去被视为国家机密的技术，更容易被获取，引发了潜在的扩散担忧。——TechRadar",
-      "clean_text": "中国公司以“公斤计”出售隐身涂料，可使无人机对雷达几乎隐形深圳公司星航（Star-Navi）现正销售原本需有数十亿美元才能涉足的隐身无人机技术，并使用标准化的喷涂枪套装形式出售其涂料。该技术通过涂层使无人机的雷达散射截面更小，更难被现代雷达追踪。他们推出的XRAM-C系列涂层提供三种不同变体，分别针对不同的威胁雷达频率，旨在增强无人机的隐蔽性。喷涂涂层成本与F-117相比几乎可以忽略不计，能够削减雷达反射功率50%。这些涂层包括XRAM‑C105（针对X和Ku频段）、XRAM‑C112（针对S和C频段）以及XRAM‑C113B（C和X频段宽带覆盖），均以公斤计出售，并声称在250摄氏度下可耐受100小时。这使得过去被视为国家机密的技术，更容易被获取，引发了潜在的扩散担忧。——TechRadar",
-      "datetime": "2026-06-04T13:20:28+00:00",
-      "views": "2.01K",
-      "source_links": [
-        {
-          "text": "TechRadar",
-          "url": "https://www.techradar.com/pro/chinese-firm-selling-stealth-core-technology-by-the-kilogram-to-make-drones-almost-invisible-to-radars-spray-on-coating-is-almost-affordable-by-f-117-standards-slashes-reflected-radar-power-by-50-percent"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29852",
-      "scraped_at": "2026-06-04T22:00:44.546588",
-      "title": "中国公司公斤售隐身涂料",
-      "title_options": {
-        "conclusion": "中国公司公斤售隐身涂料",
-        "attractive": "无人机隐身涂料公斤卖",
-        "minimal": "隐身涂料公斤售",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1522,6 +1499,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-06-06T01:16:28.289951"
+  "count": 58,
+  "updated_at": "2026-06-06T01:21:33.552882"
 }
