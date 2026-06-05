@@ -1580,32 +1580,6 @@
       }
     },
     {
-      "id": "xhqcankao_29849",
-      "channel": "xhqcankao",
-      "text": "苹果将借谷歌云、英伟达芯片处理Siri查询苹果将通过谷歌云，使用英伟达Blackwell B200数据中心芯片来处理部分Siri查询。据知情人士透露，苹果此次采用的是英伟达旗舰级数据中心GPU——Blackwell B200。该芯片基于英伟达Blackwell架构，是上一代 Hopper 架构的继任者，被英伟达定位为运行和训练万亿参数级超大规模AI模型的核心平台，在推理性能、内存带宽及多GPU扩展能力上均有显著提升。值得注意的是，苹果还将启用英伟达的机密计算功能。这是一项基于硬件的安全技术，能够在GPU处理数据的同时对数据进行加密。苹果选择借力谷歌云和英伟达芯片的做法，“与其长期以来试图控制其产品所有关键要素的战略背道而驰”。——环球网、The Information",
-      "clean_text": "苹果将借谷歌云、英伟达芯片处理Siri查询苹果将通过谷歌云，使用英伟达Blackwell B200数据中心芯片来处理部分Siri查询。据知情人士透露，苹果此次采用的是英伟达旗舰级数据中心GPU——Blackwell B200。该芯片基于英伟达Blackwell架构，是上一代 Hopper 架构的继任者，被英伟达定位为运行和训练万亿参数级超大规模AI模型的核心平台，在推理性能、内存带宽及多GPU扩展能力上均有显著提升。值得注意的是，苹果还将启用英伟达的机密计算功能。这是一项基于硬件的安全技术，能够在GPU处理数据的同时对数据进行加密。苹果选择借力谷歌云和英伟达芯片的做法，“与其长期以来试图控制其产品所有关键要素的战略背道而驰”。——环球网、The Information",
-      "datetime": "2026-06-04T11:46:46+00:00",
-      "views": "769",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://tech.huanqiu.com/article/4RqDpjgz58J"
-        },
-        {
-          "text": "The Information",
-          "url": "https://www.theinformation.com/briefings/apple-launch-new-siri-september-help-google-nvidia"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29849",
-      "scraped_at": "2026-06-04T20:00:40.153633",
-      "title": "苹果借谷歌云用英伟达芯片",
-      "title_options": {
-        "conclusion": "苹果借谷歌云用英伟达芯片",
-        "attractive": "苹果Siri查询用英伟达芯片",
-        "minimal": "苹果谷歌云英伟达芯片"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1637,6 +1611,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-05T23:44:15.793395"
+  "count": 62,
+  "updated_at": "2026-06-05T23:49:22.389261"
 }
