@@ -1495,33 +1495,6 @@
       }
     },
     {
-      "id": "xhqcankao_29851",
-      "channel": "xhqcankao",
-      "text": "据称OpenAI内部有人月耗1000亿tokenOpenAI公司首席执行官山姆·奥尔特曼在一场面向企业客户的活动上，披露了一组令人咋舌的内部 token 消耗数据，也让外界得以一窥这家AI巨头真实的 “烧钱” 规模。奥尔特曼称，六年半前，OpenAI token消耗最多的用户每月使用约10万token，当时“极有可能是全世界的token消耗冠军”奥尔特曼说：“六年半后的今天，这个数字大约只是全球人均水平。而目前OpenAI公司内部的token消耗冠军，每月用量约为1000亿 token。”但即便如此，这还不是全球最高的。公司发现有外部用户的消耗量超过了这个数字。奥尔特曼说，OpenAI将继续推动模型迭代，并探索更多方式，实现花更少的钱，交付更多价值。——环球网、商业内幕",
-      "clean_text": "据称OpenAI内部有人月耗1000亿tokenOpenAI公司首席执行官山姆·奥尔特曼在一场面向企业客户的活动上，披露了一组令人咋舌的内部 token 消耗数据，也让外界得以一窥这家AI巨头真实的 “烧钱” 规模。奥尔特曼称，六年半前，OpenAI token消耗最多的用户每月使用约10万token，当时“极有可能是全世界的token消耗冠军”奥尔特曼说：“六年半后的今天，这个数字大约只是全球人均水平。而目前OpenAI公司内部的token消耗冠军，每月用量约为1000亿 token。”但即便如此，这还不是全球最高的。公司发现有外部用户的消耗量超过了这个数字。奥尔特曼说，OpenAI将继续推动模型迭代，并探索更多方式，实现花更少的钱，交付更多价值。——环球网、商业内幕",
-      "datetime": "2026-06-04T12:50:16+00:00",
-      "views": "789",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://tech.huanqiu.com/article/4RqDpAnsKIN"
-        },
-        {
-          "text": "商业内幕",
-          "url": "https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29851",
-      "scraped_at": "2026-06-04T21:00:26.060499",
-      "title": "OpenAI内部月耗1000亿token",
-      "title_options": {
-        "conclusion": "OpenAI内部月耗1000亿token",
-        "attractive": "内部用户月耗1000亿token",
-        "minimal": "OpenAI token消耗",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1553,6 +1526,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-06T00:45:40.605906"
+  "count": 59,
+  "updated_at": "2026-06-06T00:50:46.560352"
 }
