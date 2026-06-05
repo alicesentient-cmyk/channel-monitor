@@ -1576,5 +1576,25 @@
       "best": "attractive"
     },
     "generated_at": "2026-06-05T15:02:27.028287"
+  },
+  "xhqcankao_29875": {
+    "ai_title": "苹果批准Poke为iMessage A…",
+    "title_options": {
+      "conclusion": "苹果批准Poke为iMessage A…",
+      "attractive": "首个iMessage AI智能体获批",
+      "minimal": "Poke iMessage AI获批",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T16:04:04.161446"
+  },
+  "xhqcankao_29874": {
+    "ai_title": "英伟达确认三家HBM4供应商",
+    "title_options": {
+      "conclusion": "英伟达确认三家HBM4供应商",
+      "attractive": "三大存储商获供HBM4资格",
+      "minimal": "HBM4供应商认证通过",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T16:04:05.893438"
   }
 }
