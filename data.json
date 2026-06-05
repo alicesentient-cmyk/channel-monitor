@@ -1491,45 +1491,6 @@
       }
     },
     {
-      "id": "zaihuapd_41769",
-      "channel": "zaihuapd",
-      "text": "美两党推出 GUARD 法案，拟对中国等国机器人实施进口审查美国众议院中国问题特别委员会主席与两名跨党派议员提出《保护美国免受对抗性机器人主导法案》。该法案要求国家安全机构在一年内对“对抗国家”（涵盖中国、俄罗斯等）制造的人形与四足机器人及通信设备进行审查；若审查期限届满仍未完成，FCC 将自动将其列入“覆盖名单”，限制其进入美国市场。批评者指出，部分支持方与美国本土机器人产业存在直接或间接利益关联（如美国无人驾驶系统协会、美国人形机器人企业 Agility Robotics 等），其国安话语与产业政策诉求有所重叠；法案及背书方援引的“后门”“远程劫持”等描述，尚无公开证据支撑。宇树科技上市申请于 6 月 1 日上会审议，法案恰逢其在中国科创板 IPO 的关键时间节点。Select Committee on China|中国科技网|联合早报·备用频道·",
-      "clean_text": "美两党推出 GUARD 法案，拟对中国等国机器人实施进口审查美国众议院中国问题特别委员会主席与两名跨党派议员提出《保护美国免受对抗性机器人主导法案》。该法案要求国家安全机构在一年内对“对抗国家”（涵盖中国、俄罗斯等）制造的人形与四足机器人及通信设备进行审查；若审查期限届满仍未完成，FCC 将自动将其列入“覆盖名单”，限制其进入美国市场。批评者指出，部分支持方与美国本土机器人产业存在直接或间接利益关联（如美国无人驾驶系统协会、美国人形机器人企业 Agility Robotics 等），其国安话语与产业政策诉求有所重叠；法案及背书方援引的“后门”“远程劫持”等描述，尚无公开证据支撑。宇树科技上市申请于 6 月 1 日上会审议，法案恰逢其在中国科创板 IPO 的关键时间节点。Select Committee on China|中国科技网|联合早报·备用频道",
-      "datetime": "2026-06-04T13:16:10+00:00",
-      "views": "3.8K",
-      "source_links": [
-        {
-          "text": "Select Committee on China",
-          "url": "http://chinaselectcommittee.house.gov/media/press-releases/moolenaar-obernolte-mcclellan-introduce-legislation-to-ban-dangerous-chinese-robots"
-        },
-        {
-          "text": "中国科技网",
-          "url": "https://www.stdaily.com/web/gjxw/2026-03/25/content_492458.html"
-        },
-        {
-          "text": "联合早报",
-          "url": "https://www.zaobao.com/finance/china/story20260604-9152747"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41769",
-      "scraped_at": "2026-06-04T22:00:42.316589",
-      "title": "美拟审查中国机器人进口",
-      "title_options": {
-        "conclusion": "美拟审查中国机器人进口",
-        "attractive": "美法案限制中国机器人",
-        "minimal": "美机器人进口审查",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1561,6 +1522,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-06T01:11:18.671783"
+  "count": 59,
+  "updated_at": "2026-06-06T01:16:28.289951"
 }
