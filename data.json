@@ -1315,29 +1315,6 @@
       }
     },
     {
-      "id": "xhqcankao_29856",
-      "channel": "xhqcankao",
-      "text": "美国多家企业与执法部门共享情报，捣毁了一个东南亚诈骗网络Meta本周披露，上月18日，美国司法部、联邦调查局、特勤局，英国、澳大利亚、加拿大、新西兰和泰国的执法机构，以及Meta、Coinbase和星链等多家商业公司，共同参与了捣毁东南亚一个诈骗网络的行动。共有63名嫌疑人被捕，Coinbase冻结了超过300万美元的加密货币资产。Meta在Facebook和Instagram上封禁了超过140万个账户、主页和群组，微软则冻结了约2万个与该诈骗网络相关的欺诈账户。这些公司与执法部门之间共享情报，促使他们发现了“许多潜在的新诈骗中心窝点和网络”。星链也参与了此次行动，切断了数千个被认定用于非法目的的终端设备的网络连接。——TechRadar",
-      "clean_text": "美国多家企业与执法部门共享情报，捣毁了一个东南亚诈骗网络Meta本周披露，上月18日，美国司法部、联邦调查局、特勤局，英国、澳大利亚、加拿大、新西兰和泰国的执法机构，以及Meta、Coinbase和星链等多家商业公司，共同参与了捣毁东南亚一个诈骗网络的行动。共有63名嫌疑人被捕，Coinbase冻结了超过300万美元的加密货币资产。Meta在Facebook和Instagram上封禁了超过140万个账户、主页和群组，微软则冻结了约2万个与该诈骗网络相关的欺诈账户。这些公司与执法部门之间共享情报，促使他们发现了“许多潜在的新诈骗中心窝点和网络”。星链也参与了此次行动，切断了数千个被认定用于非法目的的终端设备的网络连接。——TechRadar",
-      "datetime": "2026-06-04T15:20:40+00:00",
-      "views": "1.54K",
-      "source_links": [
-        {
-          "text": "TechRadar",
-          "url": "https://www.techradar.com/pro/security/meta-starlink-and-microsoft-team-up-with-the-fbi-to-delete-over-1-4-million-accounts-and-seize-millions-in-cryptocurrency-related-to-huge-scam-networks-targeting-americans"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29856",
-      "scraped_at": "2026-06-05T00:00:28.188531",
-      "title": "多国捣毁东南亚诈骗网",
-      "title_options": {
-        "conclusion": "多国捣毁东南亚诈骗网",
-        "attractive": "美企联手执法捕63人",
-        "minimal": "东南亚诈骗网被捣毁",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1369,6 +1346,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-06-06T03:19:44.936572"
+  "count": 52,
+  "updated_at": "2026-06-06T03:24:50.991723"
 }
