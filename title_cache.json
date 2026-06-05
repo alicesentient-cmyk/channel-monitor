@@ -1762,5 +1762,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T22:01:44.952878"
+  },
+  "zaihuapd_41793": {
+    "ai_title": "纽约通过中性称谓法案",
+    "title_options": {
+      "conclusion": "纽约通过中性称谓法案",
+      "attractive": "父母称谓被中性词替代",
+      "minimal": "中性称谓法案通过",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T23:03:13.583740"
+  },
+  "xhqcankao_29885": {
+    "ai_title": "华为芯片优化DeepSeek模型",
+    "title_options": {
+      "conclusion": "华为芯片优化DeepSeek模型",
+      "attractive": "1.6万亿参数模型跑在华为芯片",
+      "minimal": "华为芯片DeepSeek突破",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T23:03:14.758059"
   }
 }
