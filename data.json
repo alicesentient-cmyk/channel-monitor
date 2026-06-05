@@ -1659,37 +1659,6 @@
       }
     },
     {
-      "id": "zaihuapd_41757",
-      "channel": "zaihuapd",
-      "text": "苹果本周在德州 App Store 实施年龄验证苹果将从 6 月 4 日起在德克萨斯州的 App Store 推行年龄验证。创建新账户的用户需通过信用卡或政府 ID 证明已满 18 岁；未满 18 岁的用户则必须加入家人共享，由家长或监护人对下载和购买行为进行同意，开发者也要为未成年用户提供适龄体验。此次调整是为遵守德州的 App Store 问责法案，该法案虽遭联邦法官暂时阻止，但上诉法院近期允许其暂时生效。苹果此前已在犹他、路易斯安那、英国等地宣布类似措施，谷歌也在调整 Play Store 并推出面向开发者的年龄检查工具。The Verge·备用频道·",
-      "clean_text": "苹果本周在德州 App Store 实施年龄验证苹果将从 6 月 4 日起在德克萨斯州的 App Store 推行年龄验证。创建新账户的用户需通过信用卡或政府 ID 证明已满 18 岁；未满 18 岁的用户则必须加入家人共享，由家长或监护人对下载和购买行为进行同意，开发者也要为未成年用户提供适龄体验。此次调整是为遵守德州的 App Store 问责法案，该法案虽遭联邦法官暂时阻止，但上诉法院近期允许其暂时生效。苹果此前已在犹他、路易斯安那、英国等地宣布类似措施，谷歌也在调整 Play Store 并推出面向开发者的年龄检查工具。The Verge·备用频道",
-      "datetime": "2026-06-04T03:26:35+00:00",
-      "views": "3.47K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41757",
-      "scraped_at": "2026-06-04T12:01:04.103270",
-      "title": "德州App Store实施年龄验证",
-      "title_options": {
-        "conclusion": "德州App Store实施年龄验证",
-        "attractive": "苹果验证年龄，家长同意",
-        "minimal": "德州年龄验证",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1752,6 +1721,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-05T15:23:01.334337"
+  "count": 66,
+  "updated_at": "2026-06-05T15:28:08.599836"
 }
