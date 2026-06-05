@@ -1641,29 +1641,6 @@
       }
     },
     {
-      "id": "xhqcankao_29838",
-      "channel": "xhqcankao",
-      "text": "Meta一再推迟向开发者发布其最新AI模型据知情人士透露，Meta公司已多次推迟向开发者发布其最新人工智能模型的计划，截至周二，该公司仍未确定发布日期。距离该公司AI负责人告诉开发者 “很快” 就会发布该模型已过去近两个月。Meta发言人在回答记者周三的提问时表示，该公司正在与合作伙伴测试模型 API ，并计划于本月发布。知情人士表示，Meta最初计划在4月份推出其最新AI模型Muse Spark时发布该API。知情人士透露，发布时间最初从4月推迟到5月，是因为测试中发现了漏洞，并且需要构建更多基础设施。随后发布时间又被推迟到了6月。——华尔街日报",
-      "clean_text": "Meta一再推迟向开发者发布其最新AI模型据知情人士透露，Meta公司已多次推迟向开发者发布其最新人工智能模型的计划，截至周二，该公司仍未确定发布日期。距离该公司AI负责人告诉开发者 “很快” 就会发布该模型已过去近两个月。Meta发言人在回答记者周三的提问时表示，该公司正在与合作伙伴测试模型 API ，并计划于本月发布。知情人士表示，Meta最初计划在4月份推出其最新AI模型Muse Spark时发布该API。知情人士透露，发布时间最初从4月推迟到5月，是因为测试中发现了漏洞，并且需要构建更多基础设施。随后发布时间又被推迟到了6月。——华尔街日报",
-      "datetime": "2026-06-04T05:32:16+00:00",
-      "views": "1.36K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-e6fbf651?mod=cn_hp_lead_pos6"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29838",
-      "scraped_at": "2026-06-04T14:00:42.094741",
-      "title": "Meta推迟发布AI模型",
-      "title_options": {
-        "conclusion": "Meta推迟发布AI模型",
-        "attractive": "Meta AI模型发布再延期",
-        "minimal": "Meta AI模型推迟",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1726,6 +1703,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-05T17:31:11.820531"
+  "count": 65,
+  "updated_at": "2026-06-05T17:36:18.317110"
 }
