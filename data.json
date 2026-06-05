@@ -1615,33 +1615,6 @@
       }
     },
     {
-      "id": "xhqcankao_29826",
-      "channel": "xhqcankao",
-      "text": "Meta为平台上的企业推出AI客服智能体Meta 推出了一款新的人工智能工具“Meta Business Agent”，企业用户将能够使用 AI 智能体来回复客户消息。周三，Meta首席执行官扎克伯格在伦敦举行的产品发布会上通过视频表示：“几年前我曾说过，每家企业都会拥有一个AI智能体，就像现在每家公司都有电子邮箱、网站和社交媒体账号一样。这一切发生的速度比我预想得更快。”这项新工具可以回答与企业业务相关的具体问题、根据企业产品目录推荐商品、预约安排并筛选潜在客户、完成销售转化等；也可以让企业决定何时由真人客服接手。——财联社、彭博社",
-      "clean_text": "Meta为平台上的企业推出AI客服智能体Meta 推出了一款新的人工智能工具“Meta Business Agent”，企业用户将能够使用 AI 智能体来回复客户消息。周三，Meta首席执行官扎克伯格在伦敦举行的产品发布会上通过视频表示：“几年前我曾说过，每家企业都会拥有一个AI智能体，就像现在每家公司都有电子邮箱、网站和社交媒体账号一样。这一切发生的速度比我预想得更快。”这项新工具可以回答与企业业务相关的具体问题、根据企业产品目录推荐商品、预约安排并筛选潜在客户、完成销售转化等；也可以让企业决定何时由真人客服接手。——财联社、彭博社",
-      "datetime": "2026-06-03T23:32:34+00:00",
-      "views": "610",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2390088?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/meta-sells-ai-agent-for-businesses-in-push-to-monetize-service"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29826",
-      "scraped_at": "2026-06-04T08:00:36.662030",
-      "title": "Meta推出AI客服智能体",
-      "title_options": {
-        "conclusion": "Meta推出AI客服智能体",
-        "attractive": "企业可用AI回复客户",
-        "minimal": "Meta AI客服",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1673,6 +1646,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-05T11:28:03.330070"
+  "count": 63,
+  "updated_at": "2026-06-05T11:33:08.169547"
 }
