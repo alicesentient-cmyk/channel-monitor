@@ -1336,5 +1336,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T08:04:34.466009"
+  },
+  "zaihuapd_41776": {
+    "ai_title": "美科技业5月裁员近4万",
+    "title_options": {
+      "conclusion": "美科技业5月裁员近4万",
+      "attractive": "AI成裁员主因，岗位未减",
+      "minimal": "裁员4万 AI主因",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T09:05:19.517744"
+  },
+  "zaihuapd_41775": {
+    "ai_title": "Cloudflare收购Vite母公司",
+    "title_options": {
+      "conclusion": "Cloudflare收购Vite母公司",
+      "attractive": "Vite周下载1.3亿次被收购",
+      "minimal": "Cloudflare收购VoidZero",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T09:05:20.767051"
+  },
+  "xhqcankao_29860": {
+    "ai_title": "Anthropic呼吁放缓AI研发",
+    "title_options": {
+      "conclusion": "Anthropic呼吁放缓AI研发",
+      "attractive": "AI自我改进风险引担忧",
+      "minimal": "Anthropic 放缓 AI 研发",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T09:05:22.257533"
+  },
+  "xhqcankao_29859": {
+    "ai_title": "苹果App Store年交易额1.4万…",
+    "title_options": {
+      "conclusion": "苹果App Store年交易额1.4万…",
+      "attractive": "App Store交易额1.4万亿，中…",
+      "minimal": "App Store 1.4万亿美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T09:05:23.642054"
   }
 }
