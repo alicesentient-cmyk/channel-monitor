@@ -1235,37 +1235,6 @@
       }
     },
     {
-      "id": "zaihuapd_41774",
-      "channel": "zaihuapd",
-      "text": "Cloudflare：AI 智能体流量首次超过人类，占比约 57.5%Cloudflare 数据显示，AI 智能体产生的网络流量已首次超过人类流量。公司 CEO Matthew Prince 表示，目前网页请求中智能体与人类的占比约为 57.5% 对 42.5%，这一转折比他此前预测的 2027 年明显提前。这些智能体不同于传统爬虫，它们会像人类一样执行比价、检索内容、处理客服等多步骤任务。不过 Cloudflare 也指出，若以使用总时长衡量，人类仍是网络的主要使用者，只是流媒体、社交应用等行为产生的页面请求量远低于自动化程序。Tom's Hardware·备用频道·",
-      "clean_text": "Cloudflare：AI 智能体流量首次超过人类，占比约 57.5%Cloudflare 数据显示，AI 智能体产生的网络流量已首次超过人类流量。公司 CEO Matthew Prince 表示，目前网页请求中智能体与人类的占比约为 57.5% 对 42.5%，这一转折比他此前预测的 2027 年明显提前。这些智能体不同于传统爬虫，它们会像人类一样执行比价、检索内容、处理客服等多步骤任务。不过 Cloudflare 也指出，若以使用总时长衡量，人类仍是网络的主要使用者，只是流媒体、社交应用等行为产生的页面请求量远低于自动化程序。Tom's Hardware·备用频道",
-      "datetime": "2026-06-04T16:49:36+00:00",
-      "views": "1.07K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41774",
-      "scraped_at": "2026-06-05T01:00:19.908674",
-      "title": "AI流量首超人类",
-      "title_options": {
-        "conclusion": "AI流量首超人类",
-        "attractive": "AI流量占比57.5%",
-        "minimal": "AI流量超人类",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1297,6 +1266,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-06-06T04:46:20.135141"
+  "count": 49,
+  "updated_at": "2026-06-06T04:51:25.300700"
 }
