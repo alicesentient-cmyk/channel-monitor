@@ -1575,37 +1575,6 @@
       }
     },
     {
-      "id": "zaihuapd_41759",
-      "channel": "zaihuapd",
-      "text": "微信正与手机厂商合作推出 Agent-to-Agent 助手能力微信正在与华为、荣耀、小米、OPPO、vivo 等手机厂商合作推出 A2A（Agent-to-Agent）助手能力，可通过手机语音助理发起微信的音视频通话，或向好友发送消息。目前，荣耀部分机型已经支持该功能，把 YOYO 智能体和微信更新到最新版本，即可唤醒 YOYO 直接语音下达指令，比如语音发微信消息、拨打微信语音、视频通话。财联社·备用频道·",
-      "clean_text": "微信正与手机厂商合作推出 Agent-to-Agent 助手能力微信正在与华为、荣耀、小米、OPPO、vivo 等手机厂商合作推出 A2A（Agent-to-Agent）助手能力，可通过手机语音助理发起微信的音视频通话，或向好友发送消息。目前，荣耀部分机型已经支持该功能，把 YOYO 智能体和微信更新到最新版本，即可唤醒 YOYO 直接语音下达指令，比如语音发微信消息、拨打微信语音、视频通话。财联社·备用频道",
-      "datetime": "2026-06-04T04:53:39+00:00",
-      "views": "1.16K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://36kr.com/newsflashes/3838138218662404"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41759",
-      "scraped_at": "2026-06-04T13:00:41.018369",
-      "title": "微信与手机厂商推A2A助手",
-      "title_options": {
-        "conclusion": "微信与手机厂商推A2A助手",
-        "attractive": "手机语音可发微信消息",
-        "minimal": "微信A2A助手合作",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1668,6 +1637,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-05T16:50:10.489266"
+  "count": 63,
+  "updated_at": "2026-06-05T16:55:15.673921"
 }
