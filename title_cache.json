@@ -1715,5 +1715,33 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T20:03:58.293052"
+  },
+  "zaihuapd_41791": {
+    "ai_title": "银行可提高企业美元存款利率",
+    "title_options": {
+      "conclusion": "银行可提高企业美元存款利率",
+      "attractive": "企业美元存款利率上限放松",
+      "minimal": "美元存款利率上调"
+    },
+    "generated_at": "2026-06-05T21:05:27.842860"
+  },
+  "xhqcankao_29883": {
+    "ai_title": "纽约州禁建数据中心一年",
+    "title_options": {
+      "conclusion": "纽约州禁建数据中心一年",
+      "attractive": "全美首个数据中心禁令",
+      "minimal": "纽约州数据中心禁令",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T21:05:28.652245"
+  },
+  "xhqcankao_29882": {
+    "ai_title": "SpaceX禁止港内地投资者认购",
+    "title_options": {
+      "conclusion": "SpaceX禁止港内地投资者认购",
+      "attractive": "SpaceX IPO拒收港内地订单",
+      "minimal": "SpaceX IPO 港内地禁购"
+    },
+    "generated_at": "2026-06-05T21:05:29.841366"
   }
 }
