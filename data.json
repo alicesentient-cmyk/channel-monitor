@@ -1675,29 +1675,6 @@
       }
     },
     {
-      "id": "xhqcankao_29830",
-      "channel": "xhqcankao",
-      "text": "千问宣布向第三方Agent、Skill全面开放千问APP宣布将向第三方Agent、Skill全面开放，未来所有企业不仅可以接入Skill，也可在千问上运营自己的品牌Agent。目前，瑞幸、肯德基、东方航空等首批企业已在千问上通过Skill提供服务，用户可在千问上体验瑞幸、肯德基的到店自取服务。同时，上述企业也同步在进行Agent接入测试，计划于近期上线Agent和Skill接入平台。未来企业不仅仅可以接入Skill，还可以在千问应用程序中运营自己的Agent，自定义Agent人设与具体服务，以对话的形式为用户提供各种形式的产品服务。同时，Agent具备记忆与主动规划能力，可在特定场景下主动提供服务，如行程提醒、权益到期、复购推荐等。——环球网",
-      "clean_text": "千问宣布向第三方Agent、Skill全面开放千问APP宣布将向第三方Agent、Skill全面开放，未来所有企业不仅可以接入Skill，也可在千问上运营自己的品牌Agent。目前，瑞幸、肯德基、东方航空等首批企业已在千问上通过Skill提供服务，用户可在千问上体验瑞幸、肯德基的到店自取服务。同时，上述企业也同步在进行Agent接入测试，计划于近期上线Agent和Skill接入平台。未来企业不仅仅可以接入Skill，还可以在千问应用程序中运营自己的Agent，自定义Agent人设与具体服务，以对话的形式为用户提供各种形式的产品服务。同时，Agent具备记忆与主动规划能力，可在特定场景下主动提供服务，如行程提醒、权益到期、复购推荐等。——环球网",
-      "datetime": "2026-06-04T01:30:34+00:00",
-      "views": "1.25K",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://tech.huanqiu.com/article/4RpRhbDTuwS"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29830",
-      "scraped_at": "2026-06-04T10:00:37.918316",
-      "title": "千问向第三方全面开放",
-      "title_options": {
-        "conclusion": "千问向第三方全面开放",
-        "attractive": "瑞幸肯德基接入千问",
-        "minimal": "千问开放Agent",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1729,6 +1706,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-05T13:30:20.082554"
+  "count": 65,
+  "updated_at": "2026-06-05T13:35:24.855488"
 }
