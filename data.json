@@ -1553,33 +1553,6 @@
       }
     },
     {
-      "id": "xhqcankao_29850",
-      "channel": "xhqcankao",
-      "text": "奥尔特曼：不准备为今年中期选举捐款OpenAI CEO山姆·奥尔特曼最新表态，他不打算为今年的美国的中期选举提供任何资金支持。周三奥尔特曼在国会山与佛蒙特州独立参议员Bernie Sanders举行会晤后说，他本人不打算为今年美国中期选举提供任何资金支持，但他理解其他硅谷亿万富翁投入巨资的做法，因为人工智能行业正面临越来越多的反对声音。新的民调显示，美国人对AI越来越持怀疑态度，因担心其对就业和环境的影响。奥尔特曼称，“我很希望看到金钱不再介入政治。我认为这是一件非常好的事情。”奥尔特曼访问国会山之际，OpenAI正在为今年晚些时候的首次公开募股做准备。——财联社、彭博社",
-      "clean_text": "奥尔特曼：不准备为今年中期选举捐款OpenAI CEO山姆·奥尔特曼最新表态，他不打算为今年的美国的中期选举提供任何资金支持。周三奥尔特曼在国会山与佛蒙特州独立参议员Bernie Sanders举行会晤后说，他本人不打算为今年美国中期选举提供任何资金支持，但他理解其他硅谷亿万富翁投入巨资的做法，因为人工智能行业正面临越来越多的反对声音。新的民调显示，美国人对AI越来越持怀疑态度，因担心其对就业和环境的影响。奥尔特曼称，“我很希望看到金钱不再介入政治。我认为这是一件非常好的事情。”奥尔特曼访问国会山之际，OpenAI正在为今年晚些时候的首次公开募股做准备。——财联社、彭博社",
-      "datetime": "2026-06-04T12:20:16+00:00",
-      "views": "1.82K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2390666?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/sam-altman-says-he-doesn-t-plan-to-put-money-into-2026-elections"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29850",
-      "scraped_at": "2026-06-04T21:00:26.060096",
-      "title": "奥尔特曼不为中期选举捐款",
-      "title_options": {
-        "conclusion": "奥尔特曼不为中期选举捐款",
-        "attractive": "AI大佬拒捐中期选举",
-        "minimal": "奥尔特曼 不捐款 中期选举",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1611,6 +1584,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-06-06T00:20:05.392075"
+  "count": 61,
+  "updated_at": "2026-06-06T00:25:13.398640"
 }
