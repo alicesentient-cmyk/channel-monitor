@@ -1644,37 +1644,6 @@
       }
     },
     {
-      "id": "zaihuapd_41755",
-      "channel": "zaihuapd",
-      "text": "Google 发布 Gemma 4 12B 模型，16 GB 内存笔记本即可本地运行Google 新推出 Gemma 4 12B 开源模型，定位介于现有的移动端轻量版与大型专业版之间。该模型只需 16 GB 系统内存或显存即可在普通笔记本上本地运行，内存占用约为同系列 26B MoE 模型的一半。Google 称其在基准测试中的表现接近 26B MoE 版本。今年 4 月，Gemma 4 系列已发布四款模型并改用 Apache 2.0 许可证，此次 12B 版本填补了中端设备的空白。Ars Technica·备用频道·",
-      "clean_text": "Google 发布 Gemma 4 12B 模型，16 GB 内存笔记本即可本地运行Google 新推出 Gemma 4 12B 开源模型，定位介于现有的移动端轻量版与大型专业版之间。该模型只需 16 GB 系统内存或显存即可在普通笔记本上本地运行，内存占用约为同系列 26B MoE 模型的一半。Google 称其在基准测试中的表现接近 26B MoE 版本。今年 4 月，Gemma 4 系列已发布四款模型并改用 Apache 2.0 许可证，此次 12B 版本填补了中端设备的空白。Ars Technica·备用频道",
-      "datetime": "2026-06-04T01:46:54+00:00",
-      "views": "1.85K",
-      "source_links": [
-        {
-          "text": "Ars Technica",
-          "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41755",
-      "scraped_at": "2026-06-04T10:00:36.546823",
-      "title": "谷歌发布Gemma 4 12B模型",
-      "title_options": {
-        "conclusion": "谷歌发布Gemma 4 12B模型",
-        "attractive": "16GB内存笔记本可运行",
-        "minimal": "Gemma 4 12B 本地运行",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1706,6 +1675,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-05T13:45:38.282998"
+  "count": 64,
+  "updated_at": "2026-06-05T13:50:43.550786"
 }
