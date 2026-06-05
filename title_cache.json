@@ -1453,5 +1453,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-05T11:02:29.376402"
+  },
+  "zaihuapd_41780": {
+    "ai_title": "富途6月12日暂停内地买入",
+    "title_options": {
+      "conclusion": "富途6月12日暂停内地买入",
+      "attractive": "富途内地账户买入暂停",
+      "minimal": "富途暂停内地买入",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T12:03:46.580888"
+  },
+  "xhqcankao_29867": {
+    "ai_title": "爱彼迎CEO创办AI公司",
+    "title_options": {
+      "conclusion": "爱彼迎CEO创办AI公司",
+      "attractive": "爱彼迎CEO首战AI",
+      "minimal": "CEO创办AI实验室"
+    },
+    "generated_at": "2026-06-05T12:03:47.575913"
+  },
+  "xhqcankao_29866": {
+    "ai_title": "富士康英特尔联手开发AI基础设施",
+    "title_options": {
+      "conclusion": "富士康英特尔联手开发AI基础设施",
+      "attractive": "富士康英特尔合作打造AI机架系统",
+      "minimal": "富士康英特尔AI基础设施",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-05T12:03:48.707807"
   }
 }
