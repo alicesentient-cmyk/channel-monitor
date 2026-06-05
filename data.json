@@ -1642,29 +1642,6 @@
       }
     },
     {
-      "id": "xhqcankao_29832",
-      "channel": "xhqcankao",
-      "text": "苹果本周将在得州推出年龄验证功能苹果公司今天表示，由于SB 2420法案的实施，得克萨斯州的 App Store 规则正在发生变化，这项法律为应用市场和应用开发者增加了年龄保证要求。位于得州的苹果用户在创建Apple账户时，很快将被要求确认他们是否已年满18岁。未满18岁用户的Apple帐户必须加入“家人共享”群组，并且所有 App Store 下载、应用内购和应用内交易都需要获得家长的同意。开发者需要采用Declared Age Range API来为在得克萨斯州的新账户用户提供所需的年龄类别，并且有责任实施正确的年龄限制。开发人员必须获得父母的同意才能让未成年人下载应用，如果应用发生“重大改变”，则被要求重新获得同意。——Theverge",
-      "clean_text": "苹果本周将在得州推出年龄验证功能苹果公司今天表示，由于SB 2420法案的实施，得克萨斯州的 App Store 规则正在发生变化，这项法律为应用市场和应用开发者增加了年龄保证要求。位于得州的苹果用户在创建Apple账户时，很快将被要求确认他们是否已年满18岁。未满18岁用户的Apple帐户必须加入“家人共享”群组，并且所有 App Store 下载、应用内购和应用内交易都需要获得家长的同意。开发者需要采用Declared Age Range API来为在得克萨斯州的新账户用户提供所需的年龄类别，并且有责任实施正确的年龄限制。开发人员必须获得父母的同意才能让未成年人下载应用，如果应用发生“重大改变”，则被要求重新获得同意。——Theverge",
-      "datetime": "2026-06-04T02:31:41+00:00",
-      "views": "1.37K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29832",
-      "scraped_at": "2026-06-04T11:00:20.816538",
-      "title": "苹果在得州推年龄验证",
-      "title_options": {
-        "conclusion": "苹果在得州推年龄验证",
-        "attractive": "得州苹果账户需确认年龄",
-        "minimal": "苹果得州年龄验证",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41734",
       "channel": "zaihuapd",
       "text": "Quick Share 兼容 AirDrop 新增支持多款安卓机型谷歌宣布，Quick Share 的 AirDrop 兼容将覆盖更多安卓机型，新增支持一加 15、小米 17T Pro、vivo X300 系列、OPPO Find X9 系列、荣耀 Magic V6 和三星 S26 系列。小白测评·备用频道·",
@@ -1727,6 +1704,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-05T14:31:39.752085"
+  "count": 65,
+  "updated_at": "2026-06-05T14:36:45.818232"
 }
