@@ -1445,29 +1445,6 @@
       }
     },
     {
-      "id": "xhqcankao_29853",
-      "channel": "xhqcankao",
-      "text": "数学家就人工智能迅速发展发出警告随着人工智能（AI）迅速进入各个领域，数学家们感受到巨大压力。今天，16位数学专家发布了长达11页的《关于人工智能与数学的莱顿宣言》，警告称不受约束的自动化不仅威胁着数学实践，也威胁着该学科的价值观。宣言提出了支持而非侵蚀该领域使用AI的原则，并强调数学是基于创造力、理解和协作的深度人类 endeavor。作者警告，AI生成的论文可能以低质量工作淹没同行评审系统，并使发现归属变得困难。该宣言已获得国际数学联盟的认可，并向全球个人和组织开放签署。——科学",
-      "clean_text": "数学家就人工智能迅速发展发出警告随着人工智能（AI）迅速进入各个领域，数学家们感受到巨大压力。今天，16位数学专家发布了长达11页的《关于人工智能与数学的莱顿宣言》，警告称不受约束的自动化不仅威胁着数学实践，也威胁着该学科的价值观。宣言提出了支持而非侵蚀该领域使用AI的原则，并强调数学是基于创造力、理解和协作的深度人类 endeavor。作者警告，AI生成的论文可能以低质量工作淹没同行评审系统，并使发现归属变得困难。该宣言已获得国际数学联盟的认可，并向全球个人和组织开放签署。——科学",
-      "datetime": "2026-06-04T13:55:38+00:00",
-      "views": "425",
-      "source_links": [
-        {
-          "text": "科学",
-          "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29853",
-      "scraped_at": "2026-06-04T22:00:44.546985",
-      "title": "16位专家警告AI威胁数学",
-      "title_options": {
-        "conclusion": "16位专家警告AI威胁数学",
-        "attractive": "AI论文将淹没同行评审",
-        "minimal": "数学家警告AI",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1499,6 +1476,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-06T01:52:14.346461"
+  "count": 57,
+  "updated_at": "2026-06-06T01:57:20.078313"
 }
