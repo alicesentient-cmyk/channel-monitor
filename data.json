@@ -1606,37 +1606,6 @@
       }
     },
     {
-      "id": "zaihuapd_41766",
-      "channel": "zaihuapd",
-      "text": "苹果新版 Siri 被曝将采用谷歌 Nvidia 芯片处理云端请求苹果计划在今年 9 月推出的新版 Siri，将把需要云端处理的 AI 查询交给 Google 数据中心，使用 Nvidia Blackwell B200 芯片运算，并通过 Nvidia 硬件加密保护用户数据。这与苹果一贯自研核心部件的做法不同，据称是因为其自研服务器运行 Gemini 模型的速度过慢。下周 WWDC 上，苹果将重点强调设备端 AI 能力，并有望重新介绍多次延迟的 Siri 个性化功能。Apple Intelligence 自 2024 年发布以来反响平淡，此次大会被视为苹果重塑 AI 叙事的关键机会。MacRumors·备用频道·",
-      "clean_text": "苹果新版 Siri 被曝将采用谷歌 Nvidia 芯片处理云端请求苹果计划在今年 9 月推出的新版 Siri，将把需要云端处理的 AI 查询交给 Google 数据中心，使用 Nvidia Blackwell B200 芯片运算，并通过 Nvidia 硬件加密保护用户数据。这与苹果一贯自研核心部件的做法不同，据称是因为其自研服务器运行 Gemini 模型的速度过慢。下周 WWDC 上，苹果将重点强调设备端 AI 能力，并有望重新介绍多次延迟的 Siri 个性化功能。Apple Intelligence 自 2024 年发布以来反响平淡，此次大会被视为苹果重塑 AI 叙事的关键机会。MacRumors·备用频道",
-      "datetime": "2026-06-04T11:37:16+00:00",
-      "views": "2.67K",
-      "source_links": [
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41766",
-      "scraped_at": "2026-06-04T20:00:37.941822",
-      "title": "苹果Siri用谷歌Nvidia芯片",
-      "title_options": {
-        "conclusion": "苹果Siri用谷歌Nvidia芯片",
-        "attractive": "苹果Siri弃自研用谷歌",
-        "minimal": "Siri谷歌Nvidia芯片",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1668,6 +1637,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-05T23:34:01.630062"
+  "count": 63,
+  "updated_at": "2026-06-05T23:39:08.399869"
 }
