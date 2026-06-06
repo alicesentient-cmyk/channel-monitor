@@ -868,29 +868,6 @@
       }
     },
     {
-      "id": "xhqcankao_29881",
-      "channel": "xhqcankao",
-      "text": "美国国家安全局使用Anthropic的Mythos开展进攻性网络行Anthropic公司正在帮助美国国家安全局部署其强大的 Mythos AI 模型，用于进攻性网络行动，其已将工程师派驻到该机构内部。两名了解相关安排的人士表示，这家总部位于旧金山的公司已在NSA内部部署了约六名员工，担任所谓 “前沿部署工程师”，以指导该技术的使用，并针对特定应用定制模型。目前尚不清楚 Anthropic 的工程师是否正在协助NSA开展实际行动。不过，一名接近相关情况的人士说，Mythos将有助于渗透中国或伊朗等国家的网络。一名接近 Anthropic 的人士表示：“建立良好防御的最佳方式，就是建立强有力的进攻。”这名人士认为，对手很可能也在研发由AI驱动的进攻性科技。——英国金融时报",
-      "clean_text": "美国国家安全局使用Anthropic的Mythos开展进攻性网络行Anthropic公司正在帮助美国国家安全局部署其强大的 Mythos AI 模型，用于进攻性网络行动，其已将工程师派驻到该机构内部。两名了解相关安排的人士表示，这家总部位于旧金山的公司已在NSA内部部署了约六名员工，担任所谓 “前沿部署工程师”，以指导该技术的使用，并针对特定应用定制模型。目前尚不清楚 Anthropic 的工程师是否正在协助NSA开展实际行动。不过，一名接近相关情况的人士说，Mythos将有助于渗透中国或伊朗等国家的网络。一名接近 Anthropic 的人士表示：“建立良好防御的最佳方式，就是建立强有力的进攻。”这名人士认为，对手很可能也在研发由AI驱动的进攻性科技。——英国金融时报",
-      "datetime": "2026-06-05T10:53:56+00:00",
-      "views": "488",
-      "source_links": [
-        {
-          "text": "英国金融时报",
-          "url": "https://www.ftchinese.com/interactive/282207"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29881",
-      "scraped_at": "2026-06-05T19:01:06.386618",
-      "title": "NSA用AnthropicAI进攻",
-      "title_options": {
-        "conclusion": "NSA用AnthropicAI进攻",
-        "attractive": "Anthropic助NSA渗透中伊",
-        "minimal": "NSA Anthropic 网络攻击",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -922,6 +899,6 @@
       }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-06-06T22:49:20.424381"
+  "count": 33,
+  "updated_at": "2026-06-06T22:54:25.540531"
 }
