@@ -856,41 +856,6 @@
       }
     },
     {
-      "id": "zaihuapd_41789",
-      "channel": "zaihuapd",
-      "text": "SpaceX IPO 不向中国内地和香港投资者开放SpaceX 规模 750 亿美元的 IPO 已通知承销团，不接受来自中国内地和香港投资者的认购单，包括私人银行客户。限制理由是美国对关键技术出口的限制，以及相关合规和监管风险。SpaceX 本周已启动路演，交易由多家华尔街大行牵头，定价预计在 6 月 11 日，次日登陆纳斯达克。与此同时，SpaceX 官网和 IPO 材料在中国内地和香港也无法访问。此次发行计划募资约 750 亿美元，对应估值约 1.75 万亿美元。Bloomberg|Reuters·备用频道·",
-      "clean_text": "SpaceX IPO 不向中国内地和香港投资者开放SpaceX 规模 750 亿美元的 IPO 已通知承销团，不接受来自中国内地和香港投资者的认购单，包括私人银行客户。限制理由是美国对关键技术出口的限制，以及相关合规和监管风险。SpaceX 本周已启动路演，交易由多家华尔街大行牵头，定价预计在 6 月 11 日，次日登陆纳斯达克。与此同时，SpaceX 官网和 IPO 材料在中国内地和香港也无法访问。此次发行计划募资约 750 亿美元，对应估值约 1.75 万亿美元。Bloomberg|Reuters·备用频道",
-      "datetime": "2026-06-05T11:14:36+00:00",
-      "views": "4.24K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-05/chinese-hk-investors-banned-from-spacex-ipo-on-security-grounds"
-        },
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/legal/transactional/china-hong-kong-users-unable-access-spacex-website-ipo-documents-2026-06-05/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41789",
-      "scraped_at": "2026-06-05T20:00:47.921079",
-      "title": "SpaceX IPO排除中国投资者",
-      "title_options": {
-        "conclusion": "SpaceX IPO排除中国投资者",
-        "attractive": "中国投资者无缘SpaceX IPO",
-        "minimal": "SpaceX IPO 中国禁购",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -922,6 +887,6 @@
       }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-06-06T23:10:29.619789"
+  "count": 33,
+  "updated_at": "2026-06-06T23:14:54.958473"
 }
