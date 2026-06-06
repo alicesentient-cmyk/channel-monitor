@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41804",
+      "channel": "zaihuapd",
+      "text": "网易 MuMu 模拟器开启 6.0 版本内测，基于 Android 15网易 MuMu 模拟器近期正式开启 6.0 版本的内部测试，此次更新最大亮点是将底层版本升级至 Android 15，是继 MuMu 模拟器 12（Android 12）之后的又一次重大系统跨越。下载地址注意：该版本为测试版，可能不够稳定，建议在非主力环境下体验。·备用频道·",
+      "clean_text": "网易 MuMu 模拟器开启 6.0 版本内测，基于 Android 15网易 MuMu 模拟器近期正式开启 6.0 版本的内部测试，此次更新最大亮点是将底层版本升级至 Android 15，是继 MuMu 模拟器 12（Android 12）之后的又一次重大系统跨越。下载地址注意：该版本为测试版，可能不够稳定，建议在非主力环境下体验。·备用频道",
+      "datetime": "2026-06-06T08:18:16+00:00",
+      "views": "3.85K",
+      "source_links": [
+        {
+          "text": "下载地址",
+          "url": "https://adl.netease.com/d/g/a11/c/mumu6beta"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41804",
+      "scraped_at": "2026-06-06T17:01:15.986318",
+      "title": "MuMu模拟器6.0内测",
+      "title_options": {
+        "conclusion": "MuMu模拟器6.0内测",
+        "attractive": "Android15模拟器内测",
+        "minimal": "MuMu6.0内测",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29890",
       "channel": "xhqcankao",
       "text": "12人卖出1.8亿单 国内最大的Steam黑产窝点被捣毁前不久，浙江桐乡警方通报了一起特大跨全国侵犯游戏著作权案。国内一个规模巨大的Steam游戏账号非法交易窝点已被成功捣毁。该网络犯罪团伙涉及人员数量不少于12人，长期在电商平台非法提供所谓“假入库”服务，只需花几块钱，就能把价值上百元的大作塞进你的Steam库，其销售的账号订单量高达1.8亿单。哪怕按一单只赚1块钱计算，流水也直逼2亿；而现实中，淘宝等平台上这类服务常常标价几元到十几元不等，真实涉案金额只高不低。假入库利用授权能共享的漏洞，用工具本地模拟Steam验证行为，进而让Steam误以为用户已经获得了授权。——游民星空",
@@ -1115,6 +1146,6 @@
       }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-06-06T16:56:14.158502"
+  "count": 43,
+  "updated_at": "2026-06-06T17:01:21.215065"
 }
