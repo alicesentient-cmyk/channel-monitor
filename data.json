@@ -1,6 +1,68 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41798",
+      "channel": "zaihuapd",
+      "text": "NASA 指令宇航员暂避 SpaceX 飞船，因国际空间站俄罗斯舱段泄漏俄罗斯航天局发现国际空间站俄罗斯服务舱出现新泄漏，正展开大规模维修。NASA 出于谨慎，指令站上 5 名宇航员暂时进入对接的 SpaceX Crew Dragon 飞船避险。该俄罗斯服务舱的裂缝和泄漏问题已持续一段时间。目前尚不清楚宇航员需在飞船内停留多久。此事也正值国际空间站老化、NASA 推动以商业模块替代之际。TechCrunch·备用频道·",
+      "clean_text": "NASA 指令宇航员暂避 SpaceX 飞船，因国际空间站俄罗斯舱段泄漏俄罗斯航天局发现国际空间站俄罗斯服务舱出现新泄漏，正展开大规模维修。NASA 出于谨慎，指令站上 5 名宇航员暂时进入对接的 SpaceX Crew Dragon 飞船避险。该俄罗斯服务舱的裂缝和泄漏问题已持续一段时间。目前尚不清楚宇航员需在飞船内停留多久。此事也正值国际空间站老化、NASA 推动以商业模块替代之际。TechCrunch·备用频道",
+      "datetime": "2026-06-06T02:00:23+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/05/nasa-tells-astronauts-to-shelter-in-spacex-dragon-due-to-new-leaks-on-the-iss/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41798",
+      "scraped_at": "2026-06-06T10:00:58.243313",
+      "title": "俄舱段泄漏，宇航员避险",
+      "title_options": {
+        "conclusion": "俄舱段泄漏，宇航员避险",
+        "attractive": "宇航员躲进SpaceX飞船",
+        "minimal": "俄舱泄漏，宇航员避险",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41797",
+      "channel": "zaihuapd",
+      "text": "Starlink 用户突破 1200 万，SpaceX 计划用 V3 卫星将带宽提升百倍SpaceX 宣布 Starlink 活跃用户已突破 1200 万，覆盖 160 多个国家和地区。马斯克称，V3 卫星带宽将是前代的 10 倍以上，发射速率也提高 10 倍，总体可用带宽可增加至目前的 100 倍以上。同时，新卫星轨道高度将从 550 公里降至 350 公里，有望将延迟降低一半。SpaceX 本周将 IPO 定价为每股 135 美元，公司估值达 1.76 万亿美元，若成功将成为史上最大 IPO。2025 年 Starlink 收入占 SpaceX 总营收 187 亿美元的 60%，是本次上市的核心业务支柱。TechSpot·备用频道·",
+      "clean_text": "Starlink 用户突破 1200 万，SpaceX 计划用 V3 卫星将带宽提升百倍SpaceX 宣布 Starlink 活跃用户已突破 1200 万，覆盖 160 多个国家和地区。马斯克称，V3 卫星带宽将是前代的 10 倍以上，发射速率也提高 10 倍，总体可用带宽可增加至目前的 100 倍以上。同时，新卫星轨道高度将从 550 公里降至 350 公里，有望将延迟降低一半。SpaceX 本周将 IPO 定价为每股 135 美元，公司估值达 1.76 万亿美元，若成功将成为史上最大 IPO。2025 年 Starlink 收入占 SpaceX 总营收 187 亿美元的 60%，是本次上市的核心业务支柱。TechSpot·备用频道",
+      "datetime": "2026-06-06T01:14:59+00:00",
+      "views": "3.06K",
+      "source_links": [
+        {
+          "text": "TechSpot",
+          "url": "https://www.techspot.com/news/112669-starlink-crosses-12-million-active-users-spacex-outlines.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41797",
+      "scraped_at": "2026-06-06T10:00:58.242869",
+      "title": "星链用户破1200万",
+      "title_options": {
+        "conclusion": "星链用户破1200万",
+        "attractive": "带宽提升百倍延迟减半",
+        "minimal": "星链1200万用户V3卫星",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41796",
       "channel": "zaihuapd",
       "text": "用户反馈称更新到 ColorOS  16 “金标系统”后，AI 字幕功能每月仅可使用两小时近日，有用户反馈称，升级到 ColorOS“金标系统”后，AI 字幕功能在右下部分显示有限可用时长，点击详情提示“每月可用 120 分钟，次月 1 日 0 点自动刷新”。语音转文字字幕已经是较成熟的终端能力，Windows 11、华为、小米等都已提供类似功能，而 ColorOS AI 字幕每月 2 小时限制大致只够一部电影或一两场会议，整体上仍显得偏少。via 群友卸载“AI 语音摘记”的更新可临时绕过此限制，出现相关情况的版本可能是 16.1.40；除此以外，图片智能消除仅可“限免使用一次”。·备用频道·",
@@ -1370,6 +1432,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-06-06T09:56:59.046715"
+  "count": 55,
+  "updated_at": "2026-06-06T10:02:06.883766"
 }

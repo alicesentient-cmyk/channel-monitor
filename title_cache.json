@@ -1832,5 +1832,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-06T09:05:59.715941"
+  },
+  "zaihuapd_41798": {
+    "ai_title": "俄舱段泄漏，宇航员避险",
+    "title_options": {
+      "conclusion": "俄舱段泄漏，宇航员避险",
+      "attractive": "宇航员躲进SpaceX飞船",
+      "minimal": "俄舱泄漏，宇航员避险",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-06T10:02:05.873764"
+  },
+  "zaihuapd_41797": {
+    "ai_title": "星链用户破1200万",
+    "title_options": {
+      "conclusion": "星链用户破1200万",
+      "attractive": "带宽提升百倍延迟减半",
+      "minimal": "星链1200万用户V3卫星",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-06T10:02:06.878887"
   }
 }
