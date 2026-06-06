@@ -763,36 +763,6 @@
       }
     },
     {
-      "id": "zaihuapd_41791",
-      "channel": "zaihuapd",
-      "text": "部分中国银行可提高企业美元存款利率部分中国银行被告知，可对境内企业美元存款给出高于 SOFR 的利率；SOFR 约为 3.61%。至少 3 家银行近日收到相关指导，但尚未采取行动。这一做法放松了 2023 年形成的实际利率上限，可能让企业更愿意持有美元、放慢结汇。境内人民币今年兑美元已上涨逾 3%，周五报 6.77。Bloomberg·备用频道·",
-      "clean_text": "部分中国银行可提高企业美元存款利率部分中国银行被告知，可对境内企业美元存款给出高于 SOFR 的利率；SOFR 约为 3.61%。至少 3 家银行近日收到相关指导，但尚未采取行动。这一做法放松了 2023 年形成的实际利率上限，可能让企业更愿意持有美元、放慢结汇。境内人民币今年兑美元已上涨逾 3%，周五报 6.77。Bloomberg·备用频道",
-      "datetime": "2026-06-05T12:42:00+00:00",
-      "views": "2.27K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-05/china-allows-some-banks-to-offer-higher-rates-on-dollar-deposits"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41791",
-      "scraped_at": "2026-06-05T21:00:32.620159",
-      "title": "银行可提高企业美元存款利率",
-      "title_options": {
-        "conclusion": "银行可提高企业美元存款利率",
-        "attractive": "企业美元存款利率上限放松",
-        "minimal": "美元存款利率上调"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -824,6 +794,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-06-07T00:41:42.959412"
+  "count": 29,
+  "updated_at": "2026-06-07T00:46:47.722427"
 }
