@@ -1328,37 +1328,6 @@
       }
     },
     {
-      "id": "zaihuapd_41775",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 收购 Vite 母公司 VoidZero，将前端工具链深度集成进 Workers 平台Cloudflare 于 6 月 4 日宣布收购 VoidZero，后者是 Vite、Vitest 等下一代 JavaScript 工具链背后的开源公司。收购后，这套工具将直接集成到 Cloudflare 的 Workers 开发者平台，为开发者提供从本地代码到全球网络的一键部署能力。这项整合主要面向 AI 编程代理崛起的趋势，Vite 当前每周下载量已超过 1.3 亿次，其中 Cloudflare Vite 插件周下载量达 1390 万次，占比超 10%。VoidZero 团队将整体加入 Cloudflare，继续推进开源路线图。Cloudflare 承诺投入 100 万美元设立独立的 Vite 生态基金，支持社区贡献者，并承诺 Vite、Rolldown、Oxc、Vitest 等工具继续保持 MIT 开源许可与厂商中立。Cloudflare·备用频道·",
-      "clean_text": "Cloudflare 收购 Vite 母公司 VoidZero，将前端工具链深度集成进 Workers 平台Cloudflare 于 6 月 4 日宣布收购 VoidZero，后者是 Vite、Vitest 等下一代 JavaScript 工具链背后的开源公司。收购后，这套工具将直接集成到 Cloudflare 的 Workers 开发者平台，为开发者提供从本地代码到全球网络的一键部署能力。这项整合主要面向 AI 编程代理崛起的趋势，Vite 当前每周下载量已超过 1.3 亿次，其中 Cloudflare Vite 插件周下载量达 1390 万次，占比超 10%。VoidZero 团队将整体加入 Cloudflare，继续推进开源路线图。Cloudflare 承诺投入 100 万美元设立独立的 Vite 生态基金，支持社区贡献者，并承诺 Vite、Rolldown、Oxc、Vitest 等工具继续保持 MIT 开源许可与厂商中立。Cloudflare·备用频道",
-      "datetime": "2026-06-05T00:39:06+00:00",
-      "views": "1.96K",
-      "source_links": [
-        {
-          "text": "Cloudflare",
-          "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-acquires-voidzero-to-build-the-future-of-the-ai-native-web/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41775",
-      "scraped_at": "2026-06-05T09:00:22.985601",
-      "title": "Cloudflare收购Vite母公司",
-      "title_options": {
-        "conclusion": "Cloudflare收购Vite母公司",
-        "attractive": "Vite周下载1.3亿次被收购",
-        "minimal": "Cloudflare收购VoidZero",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1390,6 +1359,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-06-06T12:35:23.940276"
+  "count": 52,
+  "updated_at": "2026-06-06T12:40:31.306402"
 }
