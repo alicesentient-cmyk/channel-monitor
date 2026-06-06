@@ -1269,28 +1269,6 @@
       }
     },
     {
-      "id": "xhqcankao_29862",
-      "channel": "xhqcankao",
-      "text": "Substack新功能让创作者能控制评论区回复Substack于周三宣布了一项名为“回复规则”的新功能，旨在让创作者对其受众能够回复的方式拥有更大的控制权。通过该功能，创作者可以为其帖子、动态（Notes）或聊天（Chat）中的评论制定具体准则。这些准则可能包括要求消除AI垃圾内容或脏话，或是一些搞笑的规则，比如只允许以俳句形式回复。Substack解释说，该系统会从用户的行为中学习，例如当他们隐藏某些回复时，并将自动过滤掉不符合创作者偏好的评论。创作者对这些被隐藏的回复保持可见性，并且如果他们改变主意，可以选择取消隐藏。目前，“回复规则”适用于所有英文出版物。——Techcrunch",
-      "clean_text": "Substack新功能让创作者能控制评论区回复Substack于周三宣布了一项名为“回复规则”的新功能，旨在让创作者对其受众能够回复的方式拥有更大的控制权。通过该功能，创作者可以为其帖子、动态（Notes）或聊天（Chat）中的评论制定具体准则。这些准则可能包括要求消除AI垃圾内容或脏话，或是一些搞笑的规则，比如只允许以俳句形式回复。Substack解释说，该系统会从用户的行为中学习，例如当他们隐藏某些回复时，并将自动过滤掉不符合创作者偏好的评论。创作者对这些被隐藏的回复保持可见性，并且如果他们改变主意，可以选择取消隐藏。目前，“回复规则”适用于所有英文出版物。——Techcrunch",
-      "datetime": "2026-06-05T01:33:20+00:00",
-      "views": "1.03K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29862",
-      "scraped_at": "2026-06-05T10:01:07.811681",
-      "title": "Substack推回复规则",
-      "title_options": {
-        "conclusion": "Substack推回复规则",
-        "attractive": "创作者可设评论规则",
-        "minimal": "回复规则控制"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1322,6 +1300,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-06-06T13:31:39.225824"
+  "count": 49,
+  "updated_at": "2026-06-06T13:36:44.810999"
 }
