@@ -933,29 +933,6 @@
       }
     },
     {
-      "id": "xhqcankao_29877",
-      "channel": "xhqcankao",
-      "text": "Valve称已准备好今年夏天发售Steam主机Valve现在表示，延期的Steam Machine PC主机和Steam Frame VR头显定于今年夏天的某个时候发售。Valve 在周四发布的一篇博客文章中详细介绍了其针对这两款硬件的认证计划，并在文章结尾说：“我们非常期待玩家们在今年夏天新Steam硬件发售后，能够在这些硬件上体验你们的游戏。”该公司去年底首次宣布 Machine 和 Frame 以及新款 Steam 控制器时表示，将于 2026 年初开始发货。但在今年二月份，该公司宣布持续的内存和存储短缺迫使其重新审视定价和发货计划。而在三月份，Valve 在一篇博客文章中表示将今年发货所有三款产品。——Theverge",
-      "clean_text": "Valve称已准备好今年夏天发售Steam主机Valve现在表示，延期的Steam Machine PC主机和Steam Frame VR头显定于今年夏天的某个时候发售。Valve 在周四发布的一篇博客文章中详细介绍了其针对这两款硬件的认证计划，并在文章结尾说：“我们非常期待玩家们在今年夏天新Steam硬件发售后，能够在这些硬件上体验你们的游戏。”该公司去年底首次宣布 Machine 和 Frame 以及新款 Steam 控制器时表示，将于 2026 年初开始发货。但在今年二月份，该公司宣布持续的内存和存储短缺迫使其重新审视定价和发货计划。而在三月份，Valve 在一篇博客文章中表示将今年发货所有三款产品。——Theverge",
-      "datetime": "2026-06-05T08:31:28+00:00",
-      "views": "1.31K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29877",
-      "scraped_at": "2026-06-05T17:00:33.718675",
-      "title": "Valve今夏发售Steam主机",
-      "title_options": {
-        "conclusion": "Valve今夏发售Steam主机",
-        "attractive": "Steam主机今夏发售",
-        "minimal": "Steam主机今夏发售",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -987,6 +964,6 @@
       }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-06-06T20:26:22.529762"
+  "count": 36,
+  "updated_at": "2026-06-06T20:31:29.712226"
 }
