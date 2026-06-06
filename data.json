@@ -1026,28 +1026,6 @@
       }
     },
     {
-      "id": "xhqcankao_29873",
-      "channel": "xhqcankao",
-      "text": "Meta在Facebook上推出新的AI创作者助手Meta在周四宣布，正在Facebook上推出一款新的AI创作者助手，该助手将根据创作者的内容风格、表现、社群和目标，为他们提供个性化推荐。创作者通常需要仔细分析图表和仪表板来了解他们的表现，但有了新的AI助手，他们可以快速得到诸如“我应该在什么时候发布？”以及“人们在评论区说了什么？”等问题的答案。由于AI助手是对话式的，他们可以追问后续问题并深入探究某个话题，例如其受众随着时间的推移发生了怎样的变化。他们收到的答案将基于他们自身的存在以及他们可以采取哪些不同的做法来提升表现。除了表现方面，AI助手还可以利用热门趋势来帮助头脑风暴新的内容创意。——Techcrunch",
-      "clean_text": "Meta在Facebook上推出新的AI创作者助手Meta在周四宣布，正在Facebook上推出一款新的AI创作者助手，该助手将根据创作者的内容风格、表现、社群和目标，为他们提供个性化推荐。创作者通常需要仔细分析图表和仪表板来了解他们的表现，但有了新的AI助手，他们可以快速得到诸如“我应该在什么时候发布？”以及“人们在评论区说了什么？”等问题的答案。由于AI助手是对话式的，他们可以追问后续问题并深入探究某个话题，例如其受众随着时间的推移发生了怎样的变化。他们收到的答案将基于他们自身的存在以及他们可以采取哪些不同的做法来提升表现。除了表现方面，AI助手还可以利用热门趋势来帮助头脑风暴新的内容创意。——Techcrunch",
-      "datetime": "2026-06-05T06:30:56+00:00",
-      "views": "1.12K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29873",
-      "scraped_at": "2026-06-05T15:00:50.222933",
-      "title": "Meta推AI助手助创作者",
-      "title_options": {
-        "conclusion": "Meta推AI助手助创作者",
-        "attractive": "AI帮你何时发帖？",
-        "minimal": "Meta AI创作者助手"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1079,6 +1057,6 @@
       }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-06-06T18:29:34.936317"
+  "count": 39,
+  "updated_at": "2026-06-06T18:34:39.651593"
 }
