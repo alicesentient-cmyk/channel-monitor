@@ -1291,24 +1291,6 @@
       }
     },
     {
-      "id": "zaihuapd_41777",
-      "channel": "zaihuapd",
-      "text": "美国国防部拟终止与 Anthropic 合作，因 AI 军事用途限制产生分歧  美国国防部正考虑终止与 AI 公司 Anthropic 的合作，主因是双方在模型使用权限上存在严重分歧。Anthropic 坚持禁止将 Claude 模型用于大规模监控及全自动武器系统，而国防部要求获得包括武器研发和战场行动在内的“所有合法用途”授权。  此前，Claude 在抓捕委内瑞拉领导人马杜罗的军事行动中被使用，引发公司对技术涉及实战打击的疑虑。尽管 OpenAI 和 Google 等竞争对手已同意放宽限制，但国防部承认，Anthropic…",
-      "clean_text": "美国国防部拟终止与 Anthropic 合作，因 AI 军事用途限制产生分歧  美国国防部正考虑终止与 AI 公司 Anthropic 的合作，主因是双方在模型使用权限上存在严重分歧。Anthropic 坚持禁止将 Claude 模型用于大规模监控及全自动武器系统，而国防部要求获得包括武器研发和战场行动在内的“所有合法用途”授权。  此前，Claude 在抓捕委内瑞拉领导人马杜罗的军事行动中被使用，引发公司对技术涉及实战打击的疑虑。尽管 OpenAI 和 Google 等竞争对手已同意放宽限制，但国防部承认，Anthropic…",
-      "datetime": "2026-06-05T01:27:31+00:00",
-      "views": "3.2K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41777",
-      "scraped_at": "2026-06-05T10:01:05.597625",
-      "title": "美防部拟终止与Anthropic合作",
-      "title_options": {
-        "conclusion": "美防部拟终止与Anthropic合作",
-        "attractive": "AI军事用途分歧致合作终止",
-        "minimal": "美防部Anthropic分歧终止",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1340,6 +1322,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-06-06T13:26:33.833031"
+  "count": 50,
+  "updated_at": "2026-06-06T13:31:39.225824"
 }
