@@ -902,37 +902,6 @@
       }
     },
     {
-      "id": "zaihuapd_41786",
-      "channel": "zaihuapd",
-      "text": "黄仁勋抵韩：会面 Faker 并与财阀探讨 AI 合作英伟达 CEO 黄仁勋于 6 月 5 日抵达韩国。他抵韩后的第一站前往了 T1 电竞俱乐部运营的“T1 Base Camp”网吧，与包括传奇选手 Faker 在内的《英雄联盟》战队五人成员正式会面。黄仁勋多次公开表达对韩国游戏文化的认可，并强调韩国的电竞网吧和 PC 游戏生态对英伟达图形芯片帝国的崛起至关重要。当晚，黄仁勋将开启“财阀饭局”，赴烤肉店与多位韩国商业巨头共进晚餐。受邀出席的重磅嘉宾包括 SK 集团会长崔泰源、现代汽车会长郑义宣、LG 集团会长具光谟以及 Naver 创始人李海珍。这顿晚餐的核心目的在于推动技术结盟。各方将共同围绕 AI 半导体、机器人、具身智能以及 AI 数据中心基础设施等核心前沿领域，深度探讨未来的全面合作事宜。红星新闻·备用频道·",
-      "clean_text": "黄仁勋抵韩：会面 Faker 并与财阀探讨 AI 合作英伟达 CEO 黄仁勋于 6 月 5 日抵达韩国。他抵韩后的第一站前往了 T1 电竞俱乐部运营的“T1 Base Camp”网吧，与包括传奇选手 Faker 在内的《英雄联盟》战队五人成员正式会面。黄仁勋多次公开表达对韩国游戏文化的认可，并强调韩国的电竞网吧和 PC 游戏生态对英伟达图形芯片帝国的崛起至关重要。当晚，黄仁勋将开启“财阀饭局”，赴烤肉店与多位韩国商业巨头共进晚餐。受邀出席的重磅嘉宾包括 SK 集团会长崔泰源、现代汽车会长郑义宣、LG 集团会长具光谟以及 Naver 创始人李海珍。这顿晚餐的核心目的在于推动技术结盟。各方将共同围绕 AI 半导体、机器人、具身智能以及 AI 数据中心基础设施等核心前沿领域，深度探讨未来的全面合作事宜。红星新闻·备用频道",
-      "datetime": "2026-06-05T08:48:00+00:00",
-      "views": "2.1K",
-      "source_links": [
-        {
-          "text": "红星新闻",
-          "url": "https://mp.weixin.qq.com/s/VxDqKCzusGZCsIILCf-kOQ"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41786",
-      "scraped_at": "2026-06-05T17:00:30.349776",
-      "title": "黄仁勋抵韩会Faker",
-      "title_options": {
-        "conclusion": "黄仁勋抵韩会Faker",
-        "attractive": "英伟达CEO与Faker会面",
-        "minimal": "黄仁勋Faker会面",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -964,6 +933,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-06-06T20:46:46.541979"
+  "count": 35,
+  "updated_at": "2026-06-06T20:51:51.959587"
 }
