@@ -891,24 +891,6 @@
       }
     },
     {
-      "id": "zaihuapd_41788",
-      "channel": "zaihuapd",
-      "text": "英特尔发布 Arc Pro B 系列显卡及“Project Battlematrix”Linux 软件改进  英特尔在 Computex 2025 上推出了 Arc Pro B 系列专业显卡，包括 Arc Pro B50（16GB 显存，70W TBP，售价 299 美元）和 Arc Pro B60（24GB 显存，120-200W TBP），将于第三季度上市，主要面向专业应用、AI 推理工作站和边缘计算。  同时，英特尔宣布了“Project Battlematrix”计划，旨在通过 Linux 优化的软件栈（包含…",
-      "clean_text": "英特尔发布 Arc Pro B 系列显卡及“Project Battlematrix”Linux 软件改进  英特尔在 Computex 2025 上推出了 Arc Pro B 系列专业显卡，包括 Arc Pro B50（16GB 显存，70W TBP，售价 299 美元）和 Arc Pro B60（24GB 显存，120-200W TBP），将于第三季度上市，主要面向专业应用、AI 推理工作站和边缘计算。  同时，英特尔宣布了“Project Battlematrix”计划，旨在通过 Linux 优化的软件栈（包含…",
-      "datetime": "2026-06-05T10:35:12+00:00",
-      "views": "2.59K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41788",
-      "scraped_at": "2026-06-05T19:01:03.604216",
-      "title": "英特尔推Arc Pro B系列显卡",
-      "title_options": {
-        "conclusion": "英特尔推Arc Pro B系列显卡",
-        "attractive": "299美元起专业显卡发布",
-        "minimal": "Arc Pro B系列显卡",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -940,6 +922,6 @@
       }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-06-06T22:34:01.544784"
+  "count": 34,
+  "updated_at": "2026-06-06T22:39:08.780444"
 }
