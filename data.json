@@ -1241,41 +1241,6 @@
       }
     },
     {
-      "id": "zaihuapd_41778",
-      "channel": "zaihuapd",
-      "text": "非英语语言 token 成本：Anthropic 使用中文消耗高出 71% ，中国模型对中文更友好研究人员对比发现，不同模型的 tokenizer 对非英语文本处理效率差异明显。以《苦涩的教训》一文翻译文本为例，中文在 Anthropic 模型上的 token 消耗是 OpenAI 的 1.71 倍，印地语高达 3.24 倍，阿拉伯语为 2.86 倍。后续测试更多模型-语言对表明，Gemini 和 Qwen 的非英语额外开销最小，Anthropic 最高，Kimi 次之。中国主流模型处理中文时，甚至比处理英语更节约 token。印地语尽管使用人数众多，但在此对比中 token 效率最低。Aran Komatsuzaki(@arankomatsuzaki)(1,2)·备用频道·",
-      "clean_text": "非英语语言 token 成本：Anthropic 使用中文消耗高出 71% ，中国模型对中文更友好研究人员对比发现，不同模型的 tokenizer 对非英语文本处理效率差异明显。以《苦涩的教训》一文翻译文本为例，中文在 Anthropic 模型上的 token 消耗是 OpenAI 的 1.71 倍，印地语高达 3.24 倍，阿拉伯语为 2.86 倍。后续测试更多模型-语言对表明，Gemini 和 Qwen 的非英语额外开销最小，Anthropic 最高，Kimi 次之。中国主流模型处理中文时，甚至比处理英语更节约 token。印地语尽管使用人数众多，但在此对比中 token 效率最低。Aran Komatsuzaki(@arankomatsuzaki)(1,2)·备用频道",
-      "datetime": "2026-06-05T02:14:12+00:00",
-      "views": "4.47K",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://x.com/arankomatsuzaki/status/2049125048792006965"
-        },
-        {
-          "text": "2",
-          "url": "https://x.com/arankomatsuzaki/status/2049177688402022730"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41778",
-      "scraped_at": "2026-06-05T11:00:52.019898",
-      "title": "中文在Anthropic消耗高71%",
-      "title_options": {
-        "conclusion": "中文在Anthropic消耗高71%",
-        "attractive": "中文token成本比英文高71%",
-        "minimal": "中文token消耗高71%",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1307,6 +1272,6 @@
       }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-06-06T14:12:36.845260"
+  "count": 48,
+  "updated_at": "2026-06-06T14:17:42.121550"
 }
