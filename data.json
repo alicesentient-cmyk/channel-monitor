@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41801",
+      "channel": "zaihuapd",
+      "text": "谷歌每月支付 9.2 亿美元租用 SpaceX AI 算力，协议持续至 2029 年SpaceX 在 IPO 前夕与谷歌签署协议，谷歌将每月支付 9.2 亿美元，使用约 11 万块英伟达 GPU 及配套组件，这些设备部署在 SpaceX 的数据中心内。协议从今年 10 月持续至 2029 年 6 月，且若 SpaceX 未能在 9 月 30 日前交付承诺数量的 GPU，谷歌可终止协议。谷歌称这笔交易是为了满足其企业代理平台 Gemini Enterprise 超预期的算力需求。这是 SpaceX 自 2 月与 xAI 合并后宣布的第二项重大基础设施交易，此前 Anthropic 已租用其孟菲斯数据中心的全部算力。SpaceX 正试图在上市前展示 AI 基础设施投资的回报，其第一季度资本支出达 101 亿美元，大部分投向 AI 领域，但 AI 业务当季仍录得 25 亿美元运营亏损。CNBC|财联社·备用频道·",
+      "clean_text": "谷歌每月支付 9.2 亿美元租用 SpaceX AI 算力，协议持续至 2029 年SpaceX 在 IPO 前夕与谷歌签署协议，谷歌将每月支付 9.2 亿美元，使用约 11 万块英伟达 GPU 及配套组件，这些设备部署在 SpaceX 的数据中心内。协议从今年 10 月持续至 2029 年 6 月，且若 SpaceX 未能在 9 月 30 日前交付承诺数量的 GPU，谷歌可终止协议。谷歌称这笔交易是为了满足其企业代理平台 Gemini Enterprise 超预期的算力需求。这是 SpaceX 自 2 月与 xAI 合并后宣布的第二项重大基础设施交易，此前 Anthropic 已租用其孟菲斯数据中心的全部算力。SpaceX 正试图在上市前展示 AI 基础设施投资的回报，其第一季度资本支出达 101 亿美元，大部分投向 AI 领域，但 AI 业务当季仍录得 25 亿美元运营亏损。CNBC|财联社·备用频道",
+      "datetime": "2026-06-06T04:15:23+00:00",
+      "views": "3.51K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
+        },
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2392502?sv=8.7.7&amp;app=cailianpress"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41801",
+      "scraped_at": "2026-06-06T13:00:43.939822",
+      "title": "谷歌月付9.2亿租SpaceX算力",
+      "title_options": {
+        "conclusion": "谷歌月付9.2亿租SpaceX算力",
+        "attractive": "谷歌9.2亿买SpaceX算力",
+        "minimal": "谷歌租SpaceX算力",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41800",
       "channel": "zaihuapd",
       "text": "iOS 27 通知改为从左侧滑入iOS 27 将调整通知显示方式，新通知从屏幕左侧滑入，不再从顶部弹出。打开通知中心的手势也改为从左上角向下滑动。若从灵动岛区域下滑，则会唤出新版 Siri 的“Search or Ask”界面。该变化可能仅限 iPhone 15 Pro 及更新机型。苹果将在 WWDC 2026 主题演讲上发布 iOS 27，首个开发者测试版当天推出，正式版预计 9 月推送。MacRumors·备用频道·",
@@ -1297,37 +1332,6 @@
       }
     },
     {
-      "id": "zaihuapd_41776",
-      "channel": "zaihuapd",
-      "text": "美国科技业 5 月裁员近 4 万创近两年新高 AI 成最常被提及原因美国科技业 5 月宣布裁员 38,242 人，为近两年单月最高，也是各行业中最多。AI 连续第三个月成为企业解释裁员时最常提到的理由。但失业金申请并未随之明显上升，5 月非农预计仍增加约 8.5 万人。与此同时，科技巨头今年资本支出合计约 7,250 亿美元，其中约四分之三投向 AI 基础设施。有分析指出，目前 AI 更多是占用了相关岗位的预算，而非真正取代这些职位本身。Tom's Hardware·备用频道·",
-      "clean_text": "美国科技业 5 月裁员近 4 万创近两年新高 AI 成最常被提及原因美国科技业 5 月宣布裁员 38,242 人，为近两年单月最高，也是各行业中最多。AI 连续第三个月成为企业解释裁员时最常提到的理由。但失业金申请并未随之明显上升，5 月非农预计仍增加约 8.5 万人。与此同时，科技巨头今年资本支出合计约 7,250 亿美元，其中约四分之三投向 AI 基础设施。有分析指出，目前 AI 更多是占用了相关岗位的预算，而非真正取代这些职位本身。Tom's Hardware·备用频道",
-      "datetime": "2026-06-05T01:00:14+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41776",
-      "scraped_at": "2026-06-05T09:00:22.986028",
-      "title": "美科技业5月裁员近4万",
-      "title_options": {
-        "conclusion": "美科技业5月裁员近4万",
-        "attractive": "AI成裁员主因，岗位未减",
-        "minimal": "裁员4万 AI主因",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1360,5 +1364,5 @@
     }
   ],
   "count": 52,
-  "updated_at": "2026-06-06T12:55:51.422228"
+  "updated_at": "2026-06-06T13:00:58.227199"
 }
