@@ -1812,5 +1812,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-06T08:04:53.135302"
+  },
+  "zaihuapd_41796": {
+    "ai_title": "ColorOS 16限制AI字幕每月2…",
+    "title_options": {
+      "conclusion": "ColorOS 16限制AI字幕每月2…",
+      "attractive": "ColorOS 16 AI字幕每月仅2…",
+      "minimal": "ColorOS 16 AI字幕限制",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-06T09:05:58.754146"
+  },
+  "xhqcankao_29888": {
+    "ai_title": "谷歌月付9.2亿租SpaceX算力",
+    "title_options": {
+      "conclusion": "谷歌月付9.2亿租SpaceX算力",
+      "attractive": "谷歌月付9.2亿租GPU",
+      "minimal": "谷歌SpaceX算力租约",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-06T09:05:59.715941"
   }
 }
