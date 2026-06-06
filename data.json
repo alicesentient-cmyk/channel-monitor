@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41805",
+      "channel": "zaihuapd",
+      "text": "AMD：AM5 支撑到 2029 年，新插槽等 DDR6/PCIe 6.0 普及再说AMD 在台北电脑展 2026 期间表示，AM5 平台将至少延续到 2029 年，未来几年还会推出基于全新 Zen 架构的产品。公司不急于更换插槽，下一代 CPU 接口只会在 DDR6 和 PCIe 6.0 等标准真正普及后发布。副总裁迈克菲解释，AM4 和 AM5 对玩家和 DIY 市场仍有价值，频繁换插槽会让用户和合作伙伴过于痛苦。PC 行业当前受内存涨价拖累，换机成本高，而 DDR6 并未像预想那样在 2027‐2028 年到来。AMD 认为只有当用户端的实在需求发生重大变化——比如需要更多 NVMe 盘位、更高供电能力——才会推出新平台，而不只是单纯跟随技术标准的升级。IT之家·备用频道·",
+      "clean_text": "AMD：AM5 支撑到 2029 年，新插槽等 DDR6/PCIe 6.0 普及再说AMD 在台北电脑展 2026 期间表示，AM5 平台将至少延续到 2029 年，未来几年还会推出基于全新 Zen 架构的产品。公司不急于更换插槽，下一代 CPU 接口只会在 DDR6 和 PCIe 6.0 等标准真正普及后发布。副总裁迈克菲解释，AM4 和 AM5 对玩家和 DIY 市场仍有价值，频繁换插槽会让用户和合作伙伴过于痛苦。PC 行业当前受内存涨价拖累，换机成本高，而 DDR6 并未像预想那样在 2027‐2028 年到来。AMD 认为只有当用户端的实在需求发生重大变化——比如需要更多 NVMe 盘位、更高供电能力——才会推出新平台，而不只是单纯跟随技术标准的升级。IT之家·备用频道",
+      "datetime": "2026-06-06T09:15:27+00:00",
+      "views": "3.79K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/960/869.htm"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41805",
+      "scraped_at": "2026-06-06T18:01:21.926895",
+      "title": "AM5平台支持至2029年",
+      "title_options": {
+        "conclusion": "AM5平台支持至2029年",
+        "attractive": "AM5插槽用到2029年",
+        "minimal": "AM5 2029",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41804",
       "channel": "zaihuapd",
       "text": "网易 MuMu 模拟器开启 6.0 版本内测，基于 Android 15网易 MuMu 模拟器近期正式开启 6.0 版本的内部测试，此次更新最大亮点是将底层版本升级至 Android 15，是继 MuMu 模拟器 12（Android 12）之后的又一次重大系统跨越。下载地址注意：该版本为测试版，可能不够稳定，建议在非主力环境下体验。·备用频道·",
@@ -1017,60 +1048,6 @@
       }
     },
     {
-      "id": "xhqcankao_29872",
-      "channel": "xhqcankao",
-      "text": "谷歌允许社媒明星自定义其搜索结果页面谷歌现在允许美国的知名创作者和出版商在搜索中认领专用资料页面，以突出显示诸如视频、文章以及他们在网上的其他个人资料等内容。但这一功能将不会对大多数人或组织开放；谷歌将其限制在拥有10万YouTube订阅者、10万Instagram或X粉丝、或30万TikTok粉丝的人群。你需要满足其中一个平台的最低要求，并且年满18岁，才能创建搜索资料页面。在演示视频中，谷歌展示了搜索资料页面如何能够包含指向网站和其他平台的链接、关于个人或品牌的简短摘要、来自TikTok和Instagram等社交平台的置顶媒体，以及聚合多个平台帖子的信息流。——Theverge",
-      "clean_text": "谷歌允许社媒明星自定义其搜索结果页面谷歌现在允许美国的知名创作者和出版商在搜索中认领专用资料页面，以突出显示诸如视频、文章以及他们在网上的其他个人资料等内容。但这一功能将不会对大多数人或组织开放；谷歌将其限制在拥有10万YouTube订阅者、10万Instagram或X粉丝、或30万TikTok粉丝的人群。你需要满足其中一个平台的最低要求，并且年满18岁，才能创建搜索资料页面。在演示视频中，谷歌展示了搜索资料页面如何能够包含指向网站和其他平台的链接、关于个人或品牌的简短摘要、来自TikTok和Instagram等社交平台的置顶媒体，以及聚合多个平台帖子的信息流。——Theverge",
-      "datetime": "2026-06-05T06:03:04+00:00",
-      "views": "1.91K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29872",
-      "scraped_at": "2026-06-05T15:00:50.222570",
-      "title": "十万粉才能自定义搜索",
-      "title_options": {
-        "conclusion": "谷歌为网红定制搜索结果",
-        "attractive": "十万粉才能自定义搜索",
-        "minimal": "谷歌网红搜索页",
-        "best": "attractive"
-      }
-    },
-    {
-      "id": "zaihuapd_41783",
-      "channel": "zaihuapd",
-      "text": "MiniMax 改用 Token 计费引用户投诉后致歉并补偿MiniMax 近日将计费模式从按次计费改为按 Token 计费，因未提前充分沟通，且新模型 M3 的 Token 消耗远超预期，引发用户集中投诉。公司致歉承认工作不到位，在老用户周限额等问题的处理上欠妥。MiniMax 解释，M3 是尺寸更大、支持多模态和 1M 上下文的新模型，需要更多算力，因此改用行业统一的按量计费。为补偿订阅用户，公司将为 3 月 22 日前购买的老用户保留无周限额；为此前购买 Token Plan 的用户永久加赠 M3 周限额 50%；并在 6 月 1 日至 7 日期间将所有订阅用户的周使用额度翻倍。新浪财经·备用频道·",
-      "clean_text": "MiniMax 改用 Token 计费引用户投诉后致歉并补偿MiniMax 近日将计费模式从按次计费改为按 Token 计费，因未提前充分沟通，且新模型 M3 的 Token 消耗远超预期，引发用户集中投诉。公司致歉承认工作不到位，在老用户周限额等问题的处理上欠妥。MiniMax 解释，M3 是尺寸更大、支持多模态和 1M 上下文的新模型，需要更多算力，因此改用行业统一的按量计费。为补偿订阅用户，公司将为 3 月 22 日前购买的老用户保留无周限额；为此前购买 Token Plan 的用户永久加赠 M3 周限额 50%；并在 6 月 1 日至 7 日期间将所有订阅用户的周使用额度翻倍。新浪财经·备用频道",
-      "datetime": "2026-06-05T06:00:05+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://finance.sina.com.cn/tech/shenji/2026-06-05/doc-iniaiust1714639.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41783",
-      "scraped_at": "2026-06-05T14:01:11.792498",
-      "title": "MiniMax改计费致歉",
-      "title_options": {
-        "conclusion": "MiniMax改计费致歉",
-        "attractive": "Token消耗超预期引投诉",
-        "minimal": "MiniMax致歉补偿",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1102,6 +1079,6 @@
       }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-06-06T17:58:59.242197"
+  "count": 40,
+  "updated_at": "2026-06-06T18:04:05.291788"
 }
