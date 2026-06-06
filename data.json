@@ -1181,44 +1181,6 @@
       }
     },
     {
-      "id": "zaihuapd_41779",
-      "channel": "zaihuapd",
-      "text": "Anthropic 呼吁全球放缓前沿 AI 开发Anthropic 呼吁全球主要 AI 实验室考虑放缓前沿模型开发节奏。该公司在博客中表示，AI 进步速度极快，可能很快出现无需人类干预即可自我改进的“递归自我改进”能力，这会带来重大社会风险。公司警告，若没有全球协调机制，单方暂停只会让对手抢跑，因此提议多国主要 AI 企业同步停止并遵守可验证规则，避免单一暂停让对手趁机赶超。该提议在华盛顿和硅谷遇冷，批评者认为其夸大风险，实为借安全之名打压对手，且放缓研发恐让中国获得战略优势。Anthropic 近日刚完成近万亿美元估值的融资，并已提交 IPO 保密文件。AnthropicAI|The Wall Street Journal|Yahoo News·备用频道·",
-      "clean_text": "Anthropic 呼吁全球放缓前沿 AI 开发Anthropic 呼吁全球主要 AI 实验室考虑放缓前沿模型开发节奏。该公司在博客中表示，AI 进步速度极快，可能很快出现无需人类干预即可自我改进的“递归自我改进”能力，这会带来重大社会风险。公司警告，若没有全球协调机制，单方暂停只会让对手抢跑，因此提议多国主要 AI 企业同步停止并遵守可验证规则，避免单一暂停让对手趁机赶超。该提议在华盛顿和硅谷遇冷，批评者认为其夸大风险，实为借安全之名打压对手，且放缓研发恐让中国获得战略优势。Anthropic 近日刚完成近万亿美元估值的融资，并已提交 IPO 保密文件。AnthropicAI|The Wall Street Journal|Yahoo News·备用频道",
-      "datetime": "2026-06-05T03:00:14+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "AnthropicAI",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement"
-        },
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73"
-        },
-        {
-          "text": "Yahoo News",
-          "url": "https://www.yahoo.com/news/science/articles/anthropic-calls-pause-global-ai-223531016.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41779",
-      "scraped_at": "2026-06-05T11:00:52.020407",
-      "title": "Anthropic呼吁放缓AI开发",
-      "title_options": {
-        "conclusion": "Anthropic呼吁放缓AI开发",
-        "attractive": "AI自我改进风险引争议",
-        "minimal": "Anthropic放缓AI呼吁"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1250,6 +1212,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-06-06T14:58:31.711128"
+  "count": 46,
+  "updated_at": "2026-06-06T15:03:36.644852"
 }
