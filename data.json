@@ -816,28 +816,6 @@
       }
     },
     {
-      "id": "xhqcankao_29882",
-      "channel": "xhqcankao",
-      "text": "香港和内地投资者被禁止参与SpaceX的IPO据知情人士透露，SpaceX公司750亿美元首次公开募股的承销商已被告知不得接受来自香港和内地投资者的认购订单，理由是美国对关键技术出口的限制。负责此次交易的牵头银行已告知承销团的其他银行，由于存在监管和合规风险，不得允许香港和中国的客户(包括私人银行客户)认购此次股票。银行被告知，这一决定是基于与美国《国际武器贸易条例》(ITAR)相关的内部指导意见。该条例对国防相关技术和技术数据的出口进行管制。目前 SpaceX 官网在香港和上海均无法访问，尝试访问时会显示错误信息，称公司已禁止来自这些地区的互联网地址访问。——彭博社",
-      "clean_text": "香港和内地投资者被禁止参与SpaceX的IPO据知情人士透露，SpaceX公司750亿美元首次公开募股的承销商已被告知不得接受来自香港和内地投资者的认购订单，理由是美国对关键技术出口的限制。负责此次交易的牵头银行已告知承销团的其他银行，由于存在监管和合规风险，不得允许香港和中国的客户(包括私人银行客户)认购此次股票。银行被告知，这一决定是基于与美国《国际武器贸易条例》(ITAR)相关的内部指导意见。该条例对国防相关技术和技术数据的出口进行管制。目前 SpaceX 官网在香港和上海均无法访问，尝试访问时会显示错误信息，称公司已禁止来自这些地区的互联网地址访问。——彭博社",
-      "datetime": "2026-06-05T12:02:41+00:00",
-      "views": "2.18K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-05/chinese-hk-investors-banned-from-spacex-ipo-on-security-grounds"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29882",
-      "scraped_at": "2026-06-05T21:00:36.205816",
-      "title": "SpaceX禁止港内地投资者认购",
-      "title_options": {
-        "conclusion": "SpaceX禁止港内地投资者认购",
-        "attractive": "SpaceX IPO拒收港内地订单",
-        "minimal": "SpaceX IPO 港内地禁购"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -869,6 +847,6 @@
       }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-06-07T00:00:46.465353"
+  "count": 31,
+  "updated_at": "2026-06-07T00:05:53.754834"
 }
