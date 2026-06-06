@@ -1901,5 +1901,25 @@
       "minimal": "高考加油"
     },
     "generated_at": "2026-06-06T14:02:20.111342"
+  },
+  "xhqcankao_29890": {
+    "ai_title": "12人卖出1.8亿单",
+    "title_options": {
+      "conclusion": "12人卖出1.8亿单",
+      "attractive": "几块钱买百元游戏？",
+      "minimal": "Steam黑产窝点被捣毁",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-06T16:05:00.658295"
+  },
+  "zaihuapd_41803": {
+    "ai_title": "脑机接口助失明20年患者复明",
+    "title_options": {
+      "conclusion": "脑机接口助失明20年患者复明",
+      "attractive": "256通道电极让盲人重见光明",
+      "minimal": "脑机接口 失明 复明 0.03",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-06T16:05:02.411872"
   }
 }
