@@ -692,29 +692,6 @@
       }
     },
     {
-      "id": "xhqcankao_29885",
-      "channel": "xhqcankao",
-      "text": "华为芯片优化DeepSeek模型，中国AI自主研发取得重大突破一个由华为技术有限公司参与的研究团队表示，已成功利用该公司的昇腾910C芯片完成了DeepSeek-V4-Pro模型的后训练，这标志着中国半导体产业在美方制裁日益收紧的背景下，正试图从支持基础AI推理向更复杂的模型训练领域实现跨越，迈出了重要一步。据深圳市人民政府周五发布的社交媒体帖子称，为实现这一目标，研究人员在由至少1000颗华为芯片驱动的计算集群上，运行了DeepSeek迄今为止规模最大的模型——该模型拥有1.6万亿个参数。这项由华为、深圳市环区研究所、哈尔滨工业大学深圳校区及深圳市大数据研究院共同开展的探索，“将有助于提升中国AI产业链的自主可控能力”。——南华早报",
-      "clean_text": "华为芯片优化DeepSeek模型，中国AI自主研发取得重大突破一个由华为技术有限公司参与的研究团队表示，已成功利用该公司的昇腾910C芯片完成了DeepSeek-V4-Pro模型的后训练，这标志着中国半导体产业在美方制裁日益收紧的背景下，正试图从支持基础AI推理向更复杂的模型训练领域实现跨越，迈出了重要一步。据深圳市人民政府周五发布的社交媒体帖子称，为实现这一目标，研究人员在由至少1000颗华为芯片驱动的计算集群上，运行了DeepSeek迄今为止规模最大的模型——该模型拥有1.6万亿个参数。这项由华为、深圳市环区研究所、哈尔滨工业大学深圳校区及深圳市大数据研究院共同开展的探索，“将有助于提升中国AI产业链的自主可控能力”。——南华早报",
-      "datetime": "2026-06-05T14:37:34+00:00",
-      "views": "1.36K",
-      "source_links": [
-        {
-          "text": "南华早报",
-          "url": "https://www.scmp.com/tech/article/3356117/huawei-chips-refine-deepseek-model-major-leap-chinas-ai-self-reliance?utm_source=rss_feed"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29885",
-      "scraped_at": "2026-06-05T23:01:06.198504",
-      "title": "华为芯片优化DeepSeek模型",
-      "title_options": {
-        "conclusion": "华为芯片优化DeepSeek模型",
-        "attractive": "1.6万亿参数模型跑在华为芯片",
-        "minimal": "华为芯片DeepSeek突破",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -746,6 +723,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-06-07T02:33:45.641413"
+  "count": 26,
+  "updated_at": "2026-06-07T02:38:48.722091"
 }
