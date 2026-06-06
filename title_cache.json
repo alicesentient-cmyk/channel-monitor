@@ -1981,5 +1981,33 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-06T21:02:06.578866"
+  },
+  "xhqcankao_29894": {
+    "ai_title": "美将以色列间谍威胁升至最高",
+    "title_options": {
+      "conclusion": "美将以色列间谍威胁升至最高",
+      "attractive": "盟友变威胁？美提升以间谍级别",
+      "minimal": "美以间谍威胁升级"
+    },
+    "generated_at": "2026-06-06T22:03:22.425544"
+  },
+  "zaihuapd_41808": {
+    "ai_title": "长鑫DDR5采购价与三星持平",
+    "title_options": {
+      "conclusion": "长鑫DDR5采购价与三星持平",
+      "attractive": "长鑫DDR5供货能力更强",
+      "minimal": "长鑫DDR5价格供货"
+    },
+    "generated_at": "2026-06-06T22:03:23.651021"
+  },
+  "xhqcankao_29893": {
+    "ai_title": "美加速AI用于情报作战",
+    "title_options": {
+      "conclusion": "美加速AI用于情报作战",
+      "attractive": "AI不用于言论审查",
+      "minimal": "美国AI情报作战",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-06T22:03:24.986838"
   }
 }
