@@ -661,37 +661,6 @@
       }
     },
     {
-      "id": "zaihuapd_41793",
-      "channel": "zaihuapd",
-      "text": "纽约州议会通过法案，监护权法律将用中性称谓替代“母亲”“父亲”等用语纽约州议会本周通过一项法案，将家庭法院等监护权法律中的“母亲”“父亲”“亲子关系”等用语，替换为“亲子权”“妊娠家长”和“非妊娠家长”。法案旨在保护 LGBTQ+ 家庭以及通过辅助生殖或代孕生育的父母，确保所有合法父母享有同等权利，不论其性别或是否生育。州长办公室回应称，“母亲就是母亲，父亲就是父亲”，该法案是在处理与代孕和亲子关系有关的技术性法律问题。共和党议员则表示，这不是纽约家庭需要的改革。CBS·备用频道·",
-      "clean_text": "纽约州议会通过法案，监护权法律将用中性称谓替代“母亲”“父亲”等用语纽约州议会本周通过一项法案，将家庭法院等监护权法律中的“母亲”“父亲”“亲子关系”等用语，替换为“亲子权”“妊娠家长”和“非妊娠家长”。法案旨在保护 LGBTQ+ 家庭以及通过辅助生殖或代孕生育的父母，确保所有合法父母享有同等权利，不论其性别或是否生育。州长办公室回应称，“母亲就是母亲，父亲就是父亲”，该法案是在处理与代孕和亲子关系有关的技术性法律问题。共和党议员则表示，这不是纽约家庭需要的改革。CBS·备用频道",
-      "datetime": "2026-06-05T14:57:24+00:00",
-      "views": "602",
-      "source_links": [
-        {
-          "text": "CBS",
-          "url": "https://cbs6albany.com/news/local/new-york-state-legislature-passes-bill-removing-gender-specific-terms-from-custody-laws-mother-father-paternity-parentage-gestating-parent-non-gestating-parent-lgbtq-assisted-reproduction-surrogacy-wrgb"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41793",
-      "scraped_at": "2026-06-05T23:01:03.579765",
-      "title": "纽约通过中性称谓法案",
-      "title_options": {
-        "conclusion": "纽约通过中性称谓法案",
-        "attractive": "父母称谓被中性词替代",
-        "minimal": "中性称谓法案通过",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -723,6 +692,6 @@
       }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-06-07T02:53:57.764521"
+  "count": 25,
+  "updated_at": "2026-06-07T02:59:00.764894"
 }
