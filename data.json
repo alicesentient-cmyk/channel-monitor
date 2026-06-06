@@ -991,29 +991,6 @@
       }
     },
     {
-      "id": "xhqcankao_29875",
-      "channel": "xhqcankao",
-      "text": "苹果批准Poke成为首个iMessage AI智能体Poke已成为首个获准在苹果“Messages for Business” 平台上运行的AI智能体。此前该平台专为航空公司、零售商、连锁酒店等企业通过 iMe​​ssage 与其客户沟通而设计，提供了一个支持自动聊天和人工客服的标准化界面。三月推出的 Poke 是首批面向普通用户的AI智能体之一，这些用户不具备使用命令行工具或更复杂智能体系统所需的技术技能组合或倾向。如今，Poke可以帮助处理常见活动，例如日常规划、管理您的日历、跟踪您的健康与健身、控制您的智能家居及编辑您的照片，所有这些都通过短信完成。——Techcrunch",
-      "clean_text": "苹果批准Poke成为首个iMessage AI智能体Poke已成为首个获准在苹果“Messages for Business” 平台上运行的AI智能体。此前该平台专为航空公司、零售商、连锁酒店等企业通过 iMe​​ssage 与其客户沟通而设计，提供了一个支持自动聊天和人工客服的标准化界面。三月推出的 Poke 是首批面向普通用户的AI智能体之一，这些用户不具备使用命令行工具或更复杂智能体系统所需的技术技能组合或倾向。如今，Poke可以帮助处理常见活动，例如日常规划、管理您的日历、跟踪您的健康与健身、控制您的智能家居及编辑您的照片，所有这些都通过短信完成。——Techcrunch",
-      "datetime": "2026-06-05T07:35:04+00:00",
-      "views": "1.22K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29875",
-      "scraped_at": "2026-06-05T16:00:38.403796",
-      "title": "苹果批准Poke为iMessage A…",
-      "title_options": {
-        "conclusion": "苹果批准Poke为iMessage A…",
-        "attractive": "首个iMessage AI智能体获批",
-        "minimal": "Poke iMessage AI获批",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1045,6 +1022,6 @@
       }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-06-06T19:30:17.786515"
+  "count": 38,
+  "updated_at": "2026-06-06T19:35:22.534900"
 }
