@@ -1359,33 +1359,6 @@
       }
     },
     {
-      "id": "xhqcankao_29860",
-      "channel": "xhqcankao",
-      "text": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险Anthropic呼吁全球顶级AI实验室考虑放缓开发步伐，理由是AI系统正以如此迅猛的速度进步，以至于它们可能很快能够在无需人工干预的情况下自我改进，从而对社会构成重大风险。该公司周四在博文中披露了内部关于模型能力提升速度的数据，并表示，能够放缓全球AI开发速度\"可能是一件有利于全世界的事情\"。当前AI模型进步似乎正朝着 \"递归式自我改进\" 的方向发展。\"我们认为，世界若能拥有放缓或暂时暂停前沿AI开发的选项，以使社会结构和一致性研究跟上技术进步的步伐，这将是一件好事。\"文章还提议就如何潜在地放缓开发达成全球协议，并建立一个核查竞争对手是否遵守协议的机制。——财联社、华尔街日报",
-      "clean_text": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险Anthropic呼吁全球顶级AI实验室考虑放缓开发步伐，理由是AI系统正以如此迅猛的速度进步，以至于它们可能很快能够在无需人工干预的情况下自我改进，从而对社会构成重大风险。该公司周四在博文中披露了内部关于模型能力提升速度的数据，并表示，能够放缓全球AI开发速度\"可能是一件有利于全世界的事情\"。当前AI模型进步似乎正朝着 \"递归式自我改进\" 的方向发展。\"我们认为，世界若能拥有放缓或暂时暂停前沿AI开发的选项，以使社会结构和一致性研究跟上技术进步的步伐，这将是一件好事。\"文章还提议就如何潜在地放缓开发达成全球协议，并建立一个核查竞争对手是否遵守协议的机制。——财联社、华尔街日报",
-      "datetime": "2026-06-05T00:34:42+00:00",
-      "views": "1.04K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2391250?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "华尔街日报",
-          "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29860",
-      "scraped_at": "2026-06-05T09:00:24.245164",
-      "title": "Anthropic呼吁放缓AI研发",
-      "title_options": {
-        "conclusion": "Anthropic呼吁放缓AI研发",
-        "attractive": "AI自我改进风险引担忧",
-        "minimal": "Anthropic 放缓 AI 研发",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1417,6 +1390,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-06T12:30:18.381730"
+  "count": 53,
+  "updated_at": "2026-06-06T12:35:23.940276"
 }
