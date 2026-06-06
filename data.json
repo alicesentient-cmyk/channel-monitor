@@ -1136,28 +1136,6 @@
       }
     },
     {
-      "id": "xhqcankao_29867",
-      "channel": "xhqcankao",
-      "text": "爱彼迎CEO计划创办一家新的AI公司据多位知情人士透露，爱彼迎公司首席执行官布莱恩·切斯基正在创办一个新的 AI 实验室，这标志着他首次涉足全球AI竞赛。知情人士表示，切斯基计划创办一家人工智能企业来开发AI模型，并正在考虑专注于用户交互和设计。其中一人表示，他正处于为该实验室筹措资金的早期阶段，具体细节可能会有变化。多人表示，切斯基将继续担任爱彼迎的首席执行官。其中一人表示，他将不会担任新实验室的首席执行官。切斯基于近20年前共同创立了爱彼迎。近年来，他经常表示，面向旅行和电子商务的AI应用需要丰富的用户界面，而非OpenAI和Anthropic PBC推广的那种基于文本的聊天机器人。——彭博社",
-      "clean_text": "爱彼迎CEO计划创办一家新的AI公司据多位知情人士透露，爱彼迎公司首席执行官布莱恩·切斯基正在创办一个新的 AI 实验室，这标志着他首次涉足全球AI竞赛。知情人士表示，切斯基计划创办一家人工智能企业来开发AI模型，并正在考虑专注于用户交互和设计。其中一人表示，他正处于为该实验室筹措资金的早期阶段，具体细节可能会有变化。多人表示，切斯基将继续担任爱彼迎的首席执行官。其中一人表示，他将不会担任新实验室的首席执行官。切斯基于近20年前共同创立了爱彼迎。近年来，他经常表示，面向旅行和电子商务的AI应用需要丰富的用户界面，而非OpenAI和Anthropic PBC推广的那种基于文本的聊天机器人。——彭博社",
-      "datetime": "2026-06-05T03:32:54+00:00",
-      "views": "1.07K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-04/airbnb-ceo-brian-chesky-plans-to-start-a-new-ai-company"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29867",
-      "scraped_at": "2026-06-05T12:00:44.059553",
-      "title": "爱彼迎CEO创办AI公司",
-      "title_options": {
-        "conclusion": "爱彼迎CEO创办AI公司",
-        "attractive": "爱彼迎CEO首战AI",
-        "minimal": "CEO创办AI实验室"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1189,6 +1167,6 @@
       }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-06-06T15:29:07.842489"
+  "count": 44,
+  "updated_at": "2026-06-06T15:34:21.288638"
 }
