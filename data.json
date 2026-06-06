@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41800",
+      "channel": "zaihuapd",
+      "text": "iOS 27 通知改为从左侧滑入iOS 27 将调整通知显示方式，新通知从屏幕左侧滑入，不再从顶部弹出。打开通知中心的手势也改为从左上角向下滑动。若从灵动岛区域下滑，则会唤出新版 Siri 的“Search or Ask”界面。该变化可能仅限 iPhone 15 Pro 及更新机型。苹果将在 WWDC 2026 主题演讲上发布 iOS 27，首个开发者测试版当天推出，正式版预计 9 月推送。MacRumors·备用频道·",
+      "clean_text": "iOS 27 通知改为从左侧滑入iOS 27 将调整通知显示方式，新通知从屏幕左侧滑入，不再从顶部弹出。打开通知中心的手势也改为从左上角向下滑动。若从灵动岛区域下滑，则会唤出新版 Siri 的“Search or Ask”界面。该变化可能仅限 iPhone 15 Pro 及更新机型。苹果将在 WWDC 2026 主题演讲上发布 iOS 27，首个开发者测试版当天推出，正式版预计 9 月推送。MacRumors·备用频道",
+      "datetime": "2026-06-06T03:30:23+00:00",
+      "views": "3.14K",
+      "source_links": [
+        {
+          "text": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/05/ios-27-notifications-slide-in-from-left/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41800",
+      "scraped_at": "2026-06-06T12:00:54.919065",
+      "title": "iOS 27通知左侧滑入",
+      "title_options": {
+        "conclusion": "iOS 27通知左侧滑入",
+        "attractive": "iPhone通知不再顶部弹出",
+        "minimal": "iOS 27 通知 左侧滑入",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41799",
       "channel": "zaihuapd",
       "text": "Steam 年底前停售实体礼品卡，充值码仅限游戏消费Valve 宣布将停售 Steam 实体礼品卡，现有库存售罄后不再补货，预计 2026 年底各零售渠道清空。同时官方强调，Steam 钱包充值码只能用于 Steam 平台购买游戏、软件、硬件及游戏内物品，不能用于现实世界的支付。这一调整是打击利用礼品卡诈骗的持续措施之一。诈骗者常冒充机构要求受害者购买并提供充值码，导致资金难以追回。此前 Steam 已限制跨区兑换，未来数字礼品卡仍可购买但限制将不断加强。官方提醒用户勿向他人透露卡密。IT之家·备用频道·",
@@ -1355,33 +1386,6 @@
       }
     },
     {
-      "id": "xhqcankao_29859",
-      "channel": "xhqcankao",
-      "text": "苹果App Store去年促成1.4万亿美元交易额根据咨询机构Analysis Group发布的一项研究，苹果App Store在2025年促成了高达1.4万亿美元的销售额。研究显示，自2019年以来，App Store所带动的经济活动规模已增长超过一倍。其中，数字商品和服务交易额增长2.4倍，实体商品和服务增长2.8倍，应用内广告收入增长2.9倍。据机构估算，在App Store带动的1.4万亿美元交易额中，约1490亿美元来自数字商品和服务，约1.1万亿美元来自实体商品和服务。若按地区划分，中国贡献了最大的账单和销售规模，达到5620亿美元；美国以4530亿美元位居第二；欧洲为1840亿美元；日本为520亿美元。——财联社、Techcrunch",
-      "clean_text": "苹果App Store去年促成1.4万亿美元交易额根据咨询机构Analysis Group发布的一项研究，苹果App Store在2025年促成了高达1.4万亿美元的销售额。研究显示，自2019年以来，App Store所带动的经济活动规模已增长超过一倍。其中，数字商品和服务交易额增长2.4倍，实体商品和服务增长2.8倍，应用内广告收入增长2.9倍。据机构估算，在App Store带动的1.4万亿美元交易额中，约1490亿美元来自数字商品和服务，约1.1万亿美元来自实体商品和服务。若按地区划分，中国贡献了最大的账单和销售规模，达到5620亿美元；美国以4530亿美元位居第二；欧洲为1840亿美元；日本为520亿美元。——财联社、Techcrunch",
-      "datetime": "2026-06-05T00:01:57+00:00",
-      "views": "1.62K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2391160?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29859",
-      "scraped_at": "2026-06-05T09:00:24.244767",
-      "title": "苹果App Store年交易额1.4万…",
-      "title_options": {
-        "conclusion": "苹果App Store年交易额1.4万…",
-        "attractive": "App Store交易额1.4万亿，中…",
-        "minimal": "App Store 1.4万亿美元",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -1414,5 +1418,5 @@
     }
   ],
   "count": 54,
-  "updated_at": "2026-06-06T11:59:40.036464"
+  "updated_at": "2026-06-06T12:04:47.340459"
 }
