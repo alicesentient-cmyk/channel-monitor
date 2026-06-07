@@ -760,33 +760,6 @@
       }
     },
     {
-      "id": "zaihuapd_41796",
-      "channel": "zaihuapd",
-      "text": "用户反馈称更新到 ColorOS  16 “金标系统”后，AI 字幕功能每月仅可使用两小时近日，有用户反馈称，升级到 ColorOS“金标系统”后，AI 字幕功能在右下部分显示有限可用时长，点击详情提示“每月可用 120 分钟，次月 1 日 0 点自动刷新”。语音转文字字幕已经是较成熟的终端能力，Windows 11、华为、小米等都已提供类似功能，而 ColorOS AI 字幕每月 2 小时限制大致只够一部电影或一两场会议，整体上仍显得偏少。via 群友卸载“AI 语音摘记”的更新可临时绕过此限制，出现相关情况的版本可能是 16.1.40；除此以外，图片智能消除仅可“限免使用一次”。·备用频道·",
-      "clean_text": "用户反馈称更新到 ColorOS  16 “金标系统”后，AI 字幕功能每月仅可使用两小时近日，有用户反馈称，升级到 ColorOS“金标系统”后，AI 字幕功能在右下部分显示有限可用时长，点击详情提示“每月可用 120 分钟，次月 1 日 0 点自动刷新”。语音转文字字幕已经是较成熟的终端能力，Windows 11、华为、小米等都已提供类似功能，而 ColorOS AI 字幕每月 2 小时限制大致只够一部电影或一两场会议，整体上仍显得偏少。via 群友卸载“AI 语音摘记”的更新可临时绕过此限制，出现相关情况的版本可能是 16.1.40；除此以外，图片智能消除仅可“限免使用一次”。·备用频道",
-      "datetime": "2026-06-06T00:13:58+00:00",
-      "views": "2.84K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41796",
-      "scraped_at": "2026-06-06T09:00:53.769682",
-      "title": "ColorOS 16限制AI字幕每月2…",
-      "title_options": {
-        "conclusion": "ColorOS 16限制AI字幕每月2…",
-        "attractive": "ColorOS 16 AI字幕每月仅2…",
-        "minimal": "ColorOS 16 AI字幕限制",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -818,6 +791,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-06-07T12:10:42.869072"
+  "count": 29,
+  "updated_at": "2026-06-07T12:15:23.084599"
 }
