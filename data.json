@@ -643,37 +643,6 @@
       }
     },
     {
-      "id": "zaihuapd_41805",
-      "channel": "zaihuapd",
-      "text": "AMD：AM5 支撑到 2029 年，新插槽等 DDR6/PCIe 6.0 普及再说AMD 在台北电脑展 2026 期间表示，AM5 平台将至少延续到 2029 年，未来几年还会推出基于全新 Zen 架构的产品。公司不急于更换插槽，下一代 CPU 接口只会在 DDR6 和 PCIe 6.0 等标准真正普及后发布。副总裁迈克菲解释，AM4 和 AM5 对玩家和 DIY 市场仍有价值，频繁换插槽会让用户和合作伙伴过于痛苦。PC 行业当前受内存涨价拖累，换机成本高，而 DDR6 并未像预想那样在 2027‐2028 年到来。AMD 认为只有当用户端的实在需求发生重大变化——比如需要更多 NVMe 盘位、更高供电能力——才会推出新平台，而不只是单纯跟随技术标准的升级。IT之家·备用频道·",
-      "clean_text": "AMD：AM5 支撑到 2029 年，新插槽等 DDR6/PCIe 6.0 普及再说AMD 在台北电脑展 2026 期间表示，AM5 平台将至少延续到 2029 年，未来几年还会推出基于全新 Zen 架构的产品。公司不急于更换插槽，下一代 CPU 接口只会在 DDR6 和 PCIe 6.0 等标准真正普及后发布。副总裁迈克菲解释，AM4 和 AM5 对玩家和 DIY 市场仍有价值，频繁换插槽会让用户和合作伙伴过于痛苦。PC 行业当前受内存涨价拖累，换机成本高，而 DDR6 并未像预想那样在 2027‐2028 年到来。AMD 认为只有当用户端的实在需求发生重大变化——比如需要更多 NVMe 盘位、更高供电能力——才会推出新平台，而不只是单纯跟随技术标准的升级。IT之家·备用频道",
-      "datetime": "2026-06-06T09:15:27+00:00",
-      "views": "3.79K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/960/869.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41805",
-      "scraped_at": "2026-06-06T18:01:21.926895",
-      "title": "AM5平台支持至2029年",
-      "title_options": {
-        "conclusion": "AM5平台支持至2029年",
-        "attractive": "AM5插槽用到2029年",
-        "minimal": "AM5 2029",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -705,6 +674,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-06-07T21:10:22.828024"
+  "count": 26,
+  "updated_at": "2026-06-07T21:15:31.623706"
 }
