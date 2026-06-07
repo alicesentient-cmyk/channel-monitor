@@ -2019,5 +2019,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-06T23:04:43.841549"
+  },
+  "xhqcankao_29898": {
+    "ai_title": "特朗普称与马斯克和好",
+    "title_options": {
+      "conclusion": "特朗普称与马斯克和好",
+      "attractive": "特朗普马斯克又成朋友",
+      "minimal": "特朗普马斯克和好",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T08:02:07.360769"
+  },
+  "xhqcankao_29897": {
+    "ai_title": "白宫AI顾问六月底离任",
+    "title_options": {
+      "conclusion": "白宫AI顾问六月底离任",
+      "attractive": "白宫AI顾问离职创业",
+      "minimal": "AI顾问离任",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T08:02:08.200125"
+  },
+  "xhqcankao_29896": {
+    "ai_title": "霍夫曼将退出微软董事会",
+    "title_options": {
+      "conclusion": "霍夫曼将退出微软董事会",
+      "attractive": "领英创始人退出微软董事会",
+      "minimal": "霍夫曼退出微软董事会",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T08:02:09.092912"
   }
 }
