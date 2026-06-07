@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29902",
+      "channel": "xhqcankao",
+      "text": "市场疑虑AI技术能否带来回报，芯片股暴跌拖累美股周五，对利率上升的担忧和对人工智能(AI)支出的疑虑在华尔街交织，给持续数周的涨势画上了突兀而痛苦的句号，纳斯达克综合指数也创下一年多来最差单日表现。推动股市迭创新高的芯片巨头股价暴跌，原因是市场新添一重担忧，担心投入AI技术的数万亿美元资金将无法带来预期的丰厚回报。在一份强劲的非农就业报告出炉后，跌势加剧，该报告引发了新的忧虑，即美联储今年晚些时候可能需要加息以对抗通胀。——华尔街日报",
+      "clean_text": "市场疑虑AI技术能否带来回报，芯片股暴跌拖累美股周五，对利率上升的担忧和对人工智能(AI)支出的疑虑在华尔街交织，给持续数周的涨势画上了突兀而痛苦的句号，纳斯达克综合指数也创下一年多来最差单日表现。推动股市迭创新高的芯片巨头股价暴跌，原因是市场新添一重担忧，担心投入AI技术的数万亿美元资金将无法带来预期的丰厚回报。在一份强劲的非农就业报告出炉后，跌势加剧，该报告引发了新的忧虑，即美联储今年晚些时候可能需要加息以对抗通胀。——华尔街日报",
+      "datetime": "2026-06-07T07:58:21+00:00",
+      "views": "223",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/carnage-in-chip-stocks-hits-extra-hard-in-top-heavy-market-39029a46?mod=cn_hp_lead_pos1"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29902",
+      "scraped_at": "2026-06-07T16:00:57.768136",
+      "title": "芯片股暴跌拖累美股",
+      "title_options": {
+        "conclusion": "芯片股暴跌拖累美股",
+        "attractive": "AI投资回报疑虑引发暴跌",
+        "minimal": "芯片股暴跌美股",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41815",
+      "channel": "zaihuapd",
+      "text": "AMD 在 Steam CPU 份额接近 45%2026 年 5 月 Steam 硬件调查显示，AMD CPU 份额升至 44.97%，高于 3 月和 4 月的 44%，接近 50%。Intel 仍为 55%。Ryzen X3D 系列是 AMD 近年增长的重要因素。Ryzen 7 9800X3D 等新品，以及面向旧平台的 X3D 芯片，继续支撑其 CPU 销售表现。Wccftech·备用频道·",
+      "clean_text": "AMD 在 Steam CPU 份额接近 45%2026 年 5 月 Steam 硬件调查显示，AMD CPU 份额升至 44.97%，高于 3 月和 4 月的 44%，接近 50%。Intel 仍为 55%。Ryzen X3D 系列是 AMD 近年增长的重要因素。Ryzen 7 9800X3D 等新品，以及面向旧平台的 X3D 芯片，继续支撑其 CPU 销售表现。Wccftech·备用频道",
+      "datetime": "2026-06-07T07:19:13+00:00",
+      "views": "3.27K",
+      "source_links": [
+        {
+          "text": "Wccftech",
+          "url": "https://wccftech.com/amd-boasts-about-hitting-45-cpu-share-according-to-the-latest-steam-hardware-survey/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41815",
+      "scraped_at": "2026-06-07T16:00:54.471207",
+      "title": "AMD CPU份额达44.97%",
+      "title_options": {
+        "conclusion": "AMD CPU份额达44.97%",
+        "attractive": "AMD逼近50%份额",
+        "minimal": "AMD份额44.97%",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29901",
       "channel": "xhqcankao",
       "text": "IBM被曝曾掩盖多起数据泄露事件一位前IBM网络安全高管指控该公司在过去十年中被外国政府三次入侵，并掩盖了这些漏洞。William Barlow在2020年提起的一项诉讼中称，IBM的内部调查发现中国黑客在2013年至2016年期间入侵了其核心网络，但该公司随后掩盖了这些漏洞，从未披露。巴洛还表示，至少有两个IBM子公司也遭到入侵，IBM也掩盖了这些漏洞。IBM是美国联邦政府主要的网络安全供应商，这使得所谓的隐瞒尤为重要。根据诉讼，调查结论是APT 10可能在2013年至2016年期间入侵了IBM网络超过56,000次。IBM随后据称未能通知任何当局或美国政府。巴洛表示，他还知道其他漏洞影响了Trusteer和Truven，IBM均未能正确调查和披露。——TechCrunch",
@@ -721,6 +775,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-06-07T15:59:19.167741"
+  "count": 29,
+  "updated_at": "2026-06-07T16:04:25.958095"
 }

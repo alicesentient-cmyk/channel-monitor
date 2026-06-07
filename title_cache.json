@@ -2129,5 +2129,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-07T15:03:10.122326"
+  },
+  "xhqcankao_29902": {
+    "ai_title": "芯片股暴跌拖累美股",
+    "title_options": {
+      "conclusion": "芯片股暴跌拖累美股",
+      "attractive": "AI投资回报疑虑引发暴跌",
+      "minimal": "芯片股暴跌美股",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T16:04:25.092899"
+  },
+  "zaihuapd_41815": {
+    "ai_title": "AMD CPU份额达44.97%",
+    "title_options": {
+      "conclusion": "AMD CPU份额达44.97%",
+      "attractive": "AMD逼近50%份额",
+      "minimal": "AMD份额44.97%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T16:04:25.952975"
   }
 }
