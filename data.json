@@ -729,37 +729,6 @@
       }
     },
     {
-      "id": "zaihuapd_41797",
-      "channel": "zaihuapd",
-      "text": "Starlink 用户突破 1200 万，SpaceX 计划用 V3 卫星将带宽提升百倍SpaceX 宣布 Starlink 活跃用户已突破 1200 万，覆盖 160 多个国家和地区。马斯克称，V3 卫星带宽将是前代的 10 倍以上，发射速率也提高 10 倍，总体可用带宽可增加至目前的 100 倍以上。同时，新卫星轨道高度将从 550 公里降至 350 公里，有望将延迟降低一半。SpaceX 本周将 IPO 定价为每股 135 美元，公司估值达 1.76 万亿美元，若成功将成为史上最大 IPO。2025 年 Starlink 收入占 SpaceX 总营收 187 亿美元的 60%，是本次上市的核心业务支柱。TechSpot·备用频道·",
-      "clean_text": "Starlink 用户突破 1200 万，SpaceX 计划用 V3 卫星将带宽提升百倍SpaceX 宣布 Starlink 活跃用户已突破 1200 万，覆盖 160 多个国家和地区。马斯克称，V3 卫星带宽将是前代的 10 倍以上，发射速率也提高 10 倍，总体可用带宽可增加至目前的 100 倍以上。同时，新卫星轨道高度将从 550 公里降至 350 公里，有望将延迟降低一半。SpaceX 本周将 IPO 定价为每股 135 美元，公司估值达 1.76 万亿美元，若成功将成为史上最大 IPO。2025 年 Starlink 收入占 SpaceX 总营收 187 亿美元的 60%，是本次上市的核心业务支柱。TechSpot·备用频道",
-      "datetime": "2026-06-06T01:14:59+00:00",
-      "views": "3.06K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/112669-starlink-crosses-12-million-active-users-spacex-outlines.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41797",
-      "scraped_at": "2026-06-06T10:00:58.242869",
-      "title": "星链用户破1200万",
-      "title_options": {
-        "conclusion": "星链用户破1200万",
-        "attractive": "带宽提升百倍延迟减半",
-        "minimal": "星链1200万用户V3卫星",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -791,6 +760,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-06-07T13:11:10.862942"
+  "count": 28,
+  "updated_at": "2026-06-07T13:16:15.805115"
 }
