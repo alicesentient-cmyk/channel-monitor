@@ -732,32 +732,6 @@
       }
     },
     {
-      "id": "zaihuapd_41802",
-      "channel": "zaihuapd",
-      "text": "愿不负寒窗，不负热爱；笔锋所至，梦想开花。祝所有考生：旗开得胜，金榜题名！·备用频道·",
-      "clean_text": "愿不负寒窗，不负热爱；笔锋所至，梦想开花。祝所有考生：旗开得胜，金榜题名！·备用频道",
-      "datetime": "2026-06-06T05:07:50+00:00",
-      "views": "5.23K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41802",
-      "scraped_at": "2026-06-06T14:00:27.809755",
-      "title": "高考祝福：旗开得胜",
-      "title_options": {
-        "conclusion": "高考祝福：旗开得胜",
-        "attractive": "笔锋所至梦想开花",
-        "minimal": "高考加油"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -789,6 +763,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-06-07T17:05:41.200825"
+  "count": 29,
+  "updated_at": "2026-06-07T17:10:27.253895"
 }
