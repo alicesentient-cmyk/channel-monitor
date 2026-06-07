@@ -1,6 +1,55 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41817",
+      "channel": "zaihuapd",
+      "text": "目前大家日常使用最多的 AI 是哪家？",
+      "clean_text": "目前大家日常使用最多的 AI 是哪家？🐊",
+      "datetime": "2026-06-07T08:50:43+00:00",
+      "views": "1.46K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41817",
+      "scraped_at": "2026-06-07T17:00:40.258068",
+      "title": "AI使用率最高",
+      "title_options": {
+        "conclusion": "AI使用率最高",
+        "attractive": "你常用哪家AI？",
+        "minimal": "AI使用排行",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41816",
+      "channel": "zaihuapd",
+      "text": "AMD 称统一内存架构良机无限，正开发最高 192 GB 新平台AMD 高级副总裁 David McAfee 表示，统一内存架构正迅速崛起，公司将重点投入。正在开发的新一代锐龙 AI MAX 400 Series 芯片最高支持 192 GB 统一内存，其中 GPU 可用 160 GB，能本地运行 300B+ 参数的大语言模型。英伟达 RTX Spark 也采用类似动态内存分配思路，McAfee 评价很高，认为这实际认可了 AMD 的理念。他判断未来几年业界将高度关注 UMA 技术，但目前尚不确定是否用于锐龙游戏处理器。IT之家·备用频道·",
+      "clean_text": "AMD 称统一内存架构良机无限，正开发最高 192 GB 新平台AMD 高级副总裁 David McAfee 表示，统一内存架构正迅速崛起，公司将重点投入。正在开发的新一代锐龙 AI MAX 400 Series 芯片最高支持 192 GB 统一内存，其中 GPU 可用 160 GB，能本地运行 300B+ 参数的大语言模型。英伟达 RTX Spark 也采用类似动态内存分配思路，McAfee 评价很高，认为这实际认可了 AMD 的理念。他判断未来几年业界将高度关注 UMA 技术，但目前尚不确定是否用于锐龙游戏处理器。IT之家·备用频道",
+      "datetime": "2026-06-07T08:32:59+00:00",
+      "views": "3.01K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/961/102.htm"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41816",
+      "scraped_at": "2026-06-07T17:00:40.257672",
+      "title": "192GB内存跑300B模型",
+      "title_options": {
+        "conclusion": "AMD推192GB统一内存",
+        "attractive": "192GB内存跑300B模型",
+        "minimal": "AMD 192GB UMA",
+        "best": "attractive"
+      }
+    },
+    {
       "id": "xhqcankao_29902",
       "channel": "xhqcankao",
       "text": "市场疑虑AI技术能否带来回报，芯片股暴跌拖累美股周五，对利率上升的担忧和对人工智能(AI)支出的疑虑在华尔街交织，给持续数周的涨势画上了突兀而痛苦的句号，纳斯达克综合指数也创下一年多来最差单日表现。推动股市迭创新高的芯片巨头股价暴跌，原因是市场新添一重担忧，担心投入AI技术的数万亿美元资金将无法带来预期的丰厚回报。在一份强劲的非农就业报告出炉后，跌势加剧，该报告引发了新的忧虑，即美联储今年晚些时候可能需要加息以对抗通胀。——华尔街日报",
@@ -740,6 +789,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-07T17:00:32.514096"
+  "count": 30,
+  "updated_at": "2026-06-07T17:05:41.200825"
 }

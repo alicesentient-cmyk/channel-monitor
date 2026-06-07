@@ -2149,5 +2149,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-07T16:04:25.952975"
+  },
+  "zaihuapd_41817": {
+    "ai_title": "AI使用率最高",
+    "title_options": {
+      "conclusion": "AI使用率最高",
+      "attractive": "你常用哪家AI？",
+      "minimal": "AI使用排行",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T17:05:40.214727"
+  },
+  "zaihuapd_41816": {
+    "ai_title": "192GB内存跑300B模型",
+    "title_options": {
+      "conclusion": "AMD推192GB统一内存",
+      "attractive": "192GB内存跑300B模型",
+      "minimal": "AMD 192GB UMA",
+      "best": "attractive"
+    },
+    "generated_at": "2026-06-07T17:05:41.194901"
   }
 }
