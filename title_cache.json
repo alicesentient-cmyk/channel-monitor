@@ -2049,5 +2049,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-07T08:02:09.092912"
+  },
+  "zaihuapd_41809": {
+    "ai_title": "印度生育率降至1.9",
+    "title_options": {
+      "conclusion": "印度生育率降至1.9",
+      "attractive": "印度人口将提前下降",
+      "minimal": "印度生育率下降",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T09:02:51.493808"
+  },
+  "xhqcankao_29899": {
+    "ai_title": "OpenAI推出锁定模式",
+    "title_options": {
+      "conclusion": "OpenAI推出锁定模式",
+      "attractive": "锁定模式降低数据泄露",
+      "minimal": "OpenAI锁定模式",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T09:02:52.260425"
   }
 }
