@@ -2119,5 +2119,15 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-07T14:02:03.849675"
+  },
+  "xhqcankao_29901": {
+    "ai_title": "IBM被指掩盖数据泄露",
+    "title_options": {
+      "conclusion": "IBM被指掩盖数据泄露",
+      "attractive": "IBM隐瞒中国黑客入侵",
+      "minimal": "IBM掩盖入侵",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T15:03:10.122326"
   }
 }

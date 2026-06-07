@@ -1,6 +1,29 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29901",
+      "channel": "xhqcankao",
+      "text": "IBM被曝曾掩盖多起数据泄露事件一位前IBM网络安全高管指控该公司在过去十年中被外国政府三次入侵，并掩盖了这些漏洞。William Barlow在2020年提起的一项诉讼中称，IBM的内部调查发现中国黑客在2013年至2016年期间入侵了其核心网络，但该公司随后掩盖了这些漏洞，从未披露。巴洛还表示，至少有两个IBM子公司也遭到入侵，IBM也掩盖了这些漏洞。IBM是美国联邦政府主要的网络安全供应商，这使得所谓的隐瞒尤为重要。根据诉讼，调查结论是APT 10可能在2013年至2016年期间入侵了IBM网络超过56,000次。IBM随后据称未能通知任何当局或美国政府。巴洛表示，他还知道其他漏洞影响了Trusteer和Truven，IBM均未能正确调查和披露。——TechCrunch",
+      "clean_text": "IBM被曝曾掩盖多起数据泄露事件一位前IBM网络安全高管指控该公司在过去十年中被外国政府三次入侵，并掩盖了这些漏洞。William Barlow在2020年提起的一项诉讼中称，IBM的内部调查发现中国黑客在2013年至2016年期间入侵了其核心网络，但该公司随后掩盖了这些漏洞，从未披露。巴洛还表示，至少有两个IBM子公司也遭到入侵，IBM也掩盖了这些漏洞。IBM是美国联邦政府主要的网络安全供应商，这使得所谓的隐瞒尤为重要。根据诉讼，调查结论是APT 10可能在2013年至2016年期间入侵了IBM网络超过56,000次。IBM随后据称未能通知任何当局或美国政府。巴洛表示，他还知道其他漏洞影响了Trusteer和Truven，IBM均未能正确调查和披露。——TechCrunch",
+      "datetime": "2026-06-07T06:11:42+00:00",
+      "views": "1.74K",
+      "source_links": [
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29901",
+      "scraped_at": "2026-06-07T15:00:34.299673",
+      "title": "IBM被指掩盖数据泄露",
+      "title_options": {
+        "conclusion": "IBM被指掩盖数据泄露",
+        "attractive": "IBM隐瞒中国黑客入侵",
+        "minimal": "IBM掩盖入侵",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41814",
       "channel": "zaihuapd",
       "text": "OpenAI 拟对 ChatGPT 进行最大规模改版，打造“超级应用”OpenAI 计划对 ChatGPT 进行全面翻修，将其重塑为一款“超级应用”。此举旨在 IPO 前夕全力提升公司营收，并迎击来自谷歌及 Anthropic 的激烈竞争。为了牢牢锁定高价值的企业客户，OpenAI 正将资源激进地向高生产力场景倾斜。该项目计划将核心产品 ChatGPT、编程辅助工具 Codex 以及浏览器产品 Atlas 整合进统一的桌面应用程序中，允许用户无需切换即可在一个界面内完成搜索、写代码与 AI 交互，同时削减多项边缘业务。高管直言“聊天已死”，认为能执行任务的代理比聊天更有商业价值。​为支撑这场野心勃勃的重组并为今年内可能进行的股票上市铺路，OpenAI 正大举扩张团队，预计年底员工规模将从 4500 人暴增至 8000 人，加速向 AI 基础设施商转型。Financial Times·备用频道·",
@@ -729,6 +752,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-06-07T14:58:01.995634"
+  "count": 28,
+  "updated_at": "2026-06-07T15:03:10.127088"
 }
