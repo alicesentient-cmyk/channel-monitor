@@ -526,40 +526,6 @@
       }
     },
     {
-      "id": "zaihuapd_41808",
-      "channel": "zaihuapd",
-      "text": "“廉价”只是传闻长鑫 DDR5 采购价与三星等相当，但供货能力更强在 Computex 2026 期间，多家内存模组厂商反映，长鑫存储 DDR5 颗粒的采购价与三星、SK 海力士和美光同类产品相差无几，并无外界预想的明显价格优势。不过，由于长鑫未大量承接 AI 相关产能，其对传统 DRAM 市场的供应能力更强，这也是它目前最主要的竞争力。长鑫 DDR5 产品初期主要面向入门级市场和中国市场，后续有望逐步进入全球供应。在商务上，长鑫不要求客户提前付款以确保供货额度，相比部分国际厂商更为灵活。此外，海盗船最新批次的 Vengeance DDR5 内存已确认采用长鑫颗粒，规格为 DDR5-6000 CL36。IT之家|Wccftech·备用频道·",
-      "clean_text": "“廉价”只是传闻长鑫 DDR5 采购价与三星等相当，但供货能力更强在 Computex 2026 期间，多家内存模组厂商反映，长鑫存储 DDR5 颗粒的采购价与三星、SK 海力士和美光同类产品相差无几，并无外界预想的明显价格优势。不过，由于长鑫未大量承接 AI 相关产能，其对传统 DRAM 市场的供应能力更强，这也是它目前最主要的竞争力。长鑫 DDR5 产品初期主要面向入门级市场和中国市场，后续有望逐步进入全球供应。在商务上，长鑫不要求客户提前付款以确保供货额度，相比部分国际厂商更为灵活。此外，海盗船最新批次的 Vengeance DDR5 内存已确认采用长鑫颗粒，规格为 DDR5-6000 CL36。IT之家|Wccftech·备用频道",
-      "datetime": "2026-06-06T13:27:39+00:00",
-      "views": "3.42K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/960/963.htm"
-        },
-        {
-          "text": "Wccftech",
-          "url": "https://wccftech.com/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41808",
-      "scraped_at": "2026-06-06T22:01:09.280717",
-      "title": "长鑫DDR5采购价与三星持平",
-      "title_options": {
-        "conclusion": "长鑫DDR5采购价与三星持平",
-        "attractive": "长鑫DDR5供货能力更强",
-        "minimal": "长鑫DDR5价格供货"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -591,6 +557,6 @@
       }
     }
   ],
-  "count": 22,
-  "updated_at": "2026-06-08T01:25:44.843262"
+  "count": 21,
+  "updated_at": "2026-06-08T01:30:50.448889"
 }
