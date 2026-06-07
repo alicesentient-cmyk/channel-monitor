@@ -698,37 +698,6 @@
       }
     },
     {
-      "id": "zaihuapd_41799",
-      "channel": "zaihuapd",
-      "text": "Steam 年底前停售实体礼品卡，充值码仅限游戏消费Valve 宣布将停售 Steam 实体礼品卡，现有库存售罄后不再补货，预计 2026 年底各零售渠道清空。同时官方强调，Steam 钱包充值码只能用于 Steam 平台购买游戏、软件、硬件及游戏内物品，不能用于现实世界的支付。这一调整是打击利用礼品卡诈骗的持续措施之一。诈骗者常冒充机构要求受害者购买并提供充值码，导致资金难以追回。此前 Steam 已限制跨区兑换，未来数字礼品卡仍可购买但限制将不断加强。官方提醒用户勿向他人透露卡密。IT之家·备用频道·",
-      "clean_text": "Steam 年底前停售实体礼品卡，充值码仅限游戏消费Valve 宣布将停售 Steam 实体礼品卡，现有库存售罄后不再补货，预计 2026 年底各零售渠道清空。同时官方强调，Steam 钱包充值码只能用于 Steam 平台购买游戏、软件、硬件及游戏内物品，不能用于现实世界的支付。这一调整是打击利用礼品卡诈骗的持续措施之一。诈骗者常冒充机构要求受害者购买并提供充值码，导致资金难以追回。此前 Steam 已限制跨区兑换，未来数字礼品卡仍可购买但限制将不断加强。官方提醒用户勿向他人透露卡密。IT之家·备用频道",
-      "datetime": "2026-06-06T02:45:23+00:00",
-      "views": "1.69K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/960/748.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41799",
-      "scraped_at": "2026-06-06T11:00:53.466505",
-      "title": "Steam停售实体礼品卡",
-      "title_options": {
-        "conclusion": "Steam停售实体礼品卡",
-        "attractive": "充值码仅限游戏消费",
-        "minimal": "Steam礼品卡停售",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -760,6 +729,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-07T14:42:52.131086"
+  "count": 27,
+  "updated_at": "2026-06-07T14:47:55.095209"
 }
