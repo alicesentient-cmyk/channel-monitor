@@ -709,41 +709,6 @@
       }
     },
     {
-      "id": "zaihuapd_41801",
-      "channel": "zaihuapd",
-      "text": "谷歌每月支付 9.2 亿美元租用 SpaceX AI 算力，协议持续至 2029 年SpaceX 在 IPO 前夕与谷歌签署协议，谷歌将每月支付 9.2 亿美元，使用约 11 万块英伟达 GPU 及配套组件，这些设备部署在 SpaceX 的数据中心内。协议从今年 10 月持续至 2029 年 6 月，且若 SpaceX 未能在 9 月 30 日前交付承诺数量的 GPU，谷歌可终止协议。谷歌称这笔交易是为了满足其企业代理平台 Gemini Enterprise 超预期的算力需求。这是 SpaceX 自 2 月与 xAI 合并后宣布的第二项重大基础设施交易，此前 Anthropic 已租用其孟菲斯数据中心的全部算力。SpaceX 正试图在上市前展示 AI 基础设施投资的回报，其第一季度资本支出达 101 亿美元，大部分投向 AI 领域，但 AI 业务当季仍录得 25 亿美元运营亏损。CNBC|财联社·备用频道·",
-      "clean_text": "谷歌每月支付 9.2 亿美元租用 SpaceX AI 算力，协议持续至 2029 年SpaceX 在 IPO 前夕与谷歌签署协议，谷歌将每月支付 9.2 亿美元，使用约 11 万块英伟达 GPU 及配套组件，这些设备部署在 SpaceX 的数据中心内。协议从今年 10 月持续至 2029 年 6 月，且若 SpaceX 未能在 9 月 30 日前交付承诺数量的 GPU，谷歌可终止协议。谷歌称这笔交易是为了满足其企业代理平台 Gemini Enterprise 超预期的算力需求。这是 SpaceX 自 2 月与 xAI 合并后宣布的第二项重大基础设施交易，此前 Anthropic 已租用其孟菲斯数据中心的全部算力。SpaceX 正试图在上市前展示 AI 基础设施投资的回报，其第一季度资本支出达 101 亿美元，大部分投向 AI 领域，但 AI 业务当季仍录得 25 亿美元运营亏损。CNBC|财联社·备用频道",
-      "datetime": "2026-06-06T04:15:23+00:00",
-      "views": "3.51K",
-      "source_links": [
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
-        },
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2392502?sv=8.7.7&amp;app=cailianpress"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41801",
-      "scraped_at": "2026-06-06T13:00:43.939822",
-      "title": "谷歌月付9.2亿租SpaceX算力",
-      "title_options": {
-        "conclusion": "谷歌月付9.2亿租SpaceX算力",
-        "attractive": "谷歌9.2亿买SpaceX算力",
-        "minimal": "谷歌租SpaceX算力",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -775,6 +740,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-06-07T16:14:39.329980"
+  "count": 28,
+  "updated_at": "2026-06-07T16:19:45.228025"
 }
