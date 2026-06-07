@@ -2069,5 +2069,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-07T09:02:52.260425"
+  },
+  "xhqcankao_29900": {
+    "ai_title": "荷兰警方锁定8名迷奸嫌疑人",
+    "title_options": {
+      "conclusion": "荷兰警方锁定8名迷奸嫌疑人",
+      "attractive": "欧洲再曝迷奸网络，8人涉案",
+      "minimal": "荷兰迷奸案8嫌疑人",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T10:03:34.766900"
+  },
+  "zaihuapd_41810": {
+    "ai_title": "技嘉联手海盗船刷新DDR5超频纪录",
+    "title_options": {
+      "conclusion": "技嘉联手海盗船刷新DDR5超频纪录",
+      "attractive": "DDR5超频世界纪录达13556",
+      "minimal": "技嘉海盗船DDR5超频纪录",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-07T10:03:35.737101"
   }
 }
