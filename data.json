@@ -788,33 +788,6 @@
       }
     },
     {
-      "id": "xhqcankao_29886",
-      "channel": "xhqcankao",
-      "text": "孙正义：AI正在设计OpenAI下一个模型软银CEO孙正义表示，OpenAI的下一个模型正在由另一个模型设计，这是AI正在接近 “超级智能” 的一个迹象。孙正义周一在接受采访时表示，他曾与OpenAI CEO萨姆·奥尔特曼以及该公司的工程师们交流。他们告诉孙正义，“一个AI模型正在设计一个未来的模型”。“所以这也将发生在所有其他主要模型身上，”孙正义说，工程师的聪明程度将不足以设计下一个模型，“一旦这种情况发生，模型生成下一个模型……它的智能将呈指数级地超越我们所有人。这就是超级智能。”2024年，孙正义曾将超级人工智能(ASI)描述为比人类聪明一万倍的AI。当时，孙正义表示ASI将在10年内到来。孙正义周一表示：“在我心里，我当时认为它会在四年内到来，而不是十年。现在我认为它将在未来两年内到来。”——凤凰网科技、CNBC",
-      "clean_text": "孙正义：AI正在设计OpenAI下一个模型软银CEO孙正义表示，OpenAI的下一个模型正在由另一个模型设计，这是AI正在接近 “超级智能” 的一个迹象。孙正义周一在接受采访时表示，他曾与OpenAI CEO萨姆·奥尔特曼以及该公司的工程师们交流。他们告诉孙正义，“一个AI模型正在设计一个未来的模型”。“所以这也将发生在所有其他主要模型身上，”孙正义说，工程师的聪明程度将不足以设计下一个模型，“一旦这种情况发生，模型生成下一个模型……它的智能将呈指数级地超越我们所有人。这就是超级智能。”2024年，孙正义曾将超级人工智能(ASI)描述为比人类聪明一万倍的AI。当时，孙正义表示ASI将在10年内到来。孙正义周一表示：“在我心里，我当时认为它会在四年内到来，而不是十年。现在我认为它将在未来两年内到来。”——凤凰网科技、CNBC",
-      "datetime": "2026-06-05T22:55:38+00:00",
-      "views": "142",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006EmXEz598kqq-_lAg62LfnfGWw6FnYuyrGsCdX3Aa--ojeuE--vsODJ2qg75GmQ0wI4Y"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29886",
-      "scraped_at": "2026-06-06T07:01:10.818383",
-      "title": "AI正设计OpenAI新模型",
-      "title_options": {
-        "conclusion": "AI正设计OpenAI新模型",
-        "attractive": "AI设计AI，超级智能近了",
-        "minimal": "AI设计模型",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -846,6 +819,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-06-07T10:54:09.198949"
+  "count": 30,
+  "updated_at": "2026-06-07T10:59:12.277549"
 }
