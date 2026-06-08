@@ -582,37 +582,6 @@
       }
     },
     {
-      "id": "zaihuapd_41811",
-      "channel": "zaihuapd",
-      "text": "英国警方被叫停使用 AI 撰写法庭陈述英国英格兰和威尔士地区部分警队被叫停用人工智能撰写法庭陈述及处理部分刑事司法工作。Police.AI 中心负责人 Alex Murray 表示，已干预部分未经充分评估就部署商用 AI 工具的警队，要求暂停使用。他强调，刑事司法系统使用的技术准确度必须达到“排除合理怀疑”的标准。此前，西米德兰兹警队曾使用微软 Copilot 生成包含虚假信息的材料，引发对 AI 幻觉的担忧。Murray 指出，AI 在分析监控录像、处理数字证据等方面有应用潜力，但必须先完成检查和保障措施，再考虑广泛采用。Financial Times·备用频道·",
-      "clean_text": "英国警方被叫停使用 AI 撰写法庭陈述英国英格兰和威尔士地区部分警队被叫停用人工智能撰写法庭陈述及处理部分刑事司法工作。Police.AI 中心负责人 Alex Murray 表示，已干预部分未经充分评估就部署商用 AI 工具的警队，要求暂停使用。他强调，刑事司法系统使用的技术准确度必须达到“排除合理怀疑”的标准。此前，西米德兰兹警队曾使用微软 Copilot 生成包含虚假信息的材料，引发对 AI 幻觉的担忧。Murray 指出，AI 在分析监控录像、处理数字证据等方面有应用潜力，但必须先完成检查和保障措施，再考虑广泛采用。Financial Times·备用频道",
-      "datetime": "2026-06-07T02:56:06+00:00",
-      "views": "636",
-      "source_links": [
-        {
-          "text": "Financial Times",
-          "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241?syn-25a6b1a6=1"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41811",
-      "scraped_at": "2026-06-07T11:00:36.256220",
-      "title": "英国警方被叫停用AI写陈述",
-      "title_options": {
-        "conclusion": "英国警方被叫停用AI写陈述",
-        "attractive": "AI写假材料，英国警队被叫停",
-        "minimal": "英国警队AI被叫停",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -644,6 +613,6 @@
       }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-06-08T14:51:36.964935"
+  "count": 24,
+  "updated_at": "2026-06-08T14:56:42.437197"
 }
