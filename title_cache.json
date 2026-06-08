@@ -2475,5 +2475,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-08T22:05:04.882202"
+  },
+  "xhqcankao_29923": {
+    "ai_title": "Prada为NASA设计登月宇航服",
+    "title_options": {
+      "conclusion": "Prada为NASA设计登月宇航服",
+      "attractive": "Prada进军航天业",
+      "minimal": "Prada NASA 宇航服",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T23:01:20.047585"
+  },
+  "xhqcankao_29922": {
+    "ai_title": "谷歌向英特尔下单300万TPU",
+    "title_options": {
+      "conclusion": "谷歌向英特尔下单300万TPU",
+      "attractive": "英特尔获谷歌300万TPU订单",
+      "minimal": "谷歌英特尔TPU订单",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T23:01:21.087826"
   }
 }
