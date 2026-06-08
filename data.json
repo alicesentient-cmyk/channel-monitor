@@ -634,29 +634,6 @@
       }
     },
     {
-      "id": "xhqcankao_29899",
-      "channel": "xhqcankao",
-      "text": "OpenAI推出锁定模式 可降低数据泄露风险OpenAI公司宣布了一项新功能，据称该功能将针对提示词注入攻击提供额外的保护，这种攻击会将恶意聊天机器人指令隐藏在网页和其他内容源中。其中，锁定模式将禁用实时网页浏览、从网页检索和显示图像、深度研究以及智能体模式。该公司表示，即使开启锁定模式，ChatGPT仍可能易受提示注入攻击 —— 例如，这些攻击可能“出现在缓存的网页内容或上传的文件中，并且仍可能影响回复的行为或准确性。”但其目标是减少在此过程中敏感数据被共享的可能性。该公司表示，目前正在向自服务的ChatGPT商业账户以及符合条件的个人账户推出锁定模式。——Techcrunch",
-      "clean_text": "OpenAI推出锁定模式 可降低数据泄露风险OpenAI公司宣布了一项新功能，据称该功能将针对提示词注入攻击提供额外的保护，这种攻击会将恶意聊天机器人指令隐藏在网页和其他内容源中。其中，锁定模式将禁用实时网页浏览、从网页检索和显示图像、深度研究以及智能体模式。该公司表示，即使开启锁定模式，ChatGPT仍可能易受提示注入攻击 —— 例如，这些攻击可能“出现在缓存的网页内容或上传的文件中，并且仍可能影响回复的行为或准确性。”但其目标是减少在此过程中敏感数据被共享的可能性。该公司表示，目前正在向自服务的ChatGPT商业账户以及符合条件的个人账户推出锁定模式。——Techcrunch",
-      "datetime": "2026-06-07T00:30:55+00:00",
-      "views": "764",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29899",
-      "scraped_at": "2026-06-07T09:00:14.056501",
-      "title": "OpenAI推出锁定模式",
-      "title_options": {
-        "conclusion": "OpenAI推出锁定模式",
-        "attractive": "锁定模式降低数据泄露",
-        "minimal": "OpenAI锁定模式",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -688,6 +665,6 @@
       }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-06-08T12:28:58.176280"
+  "count": 25,
+  "updated_at": "2026-06-08T12:34:01.098231"
 }
