@@ -591,37 +591,6 @@
       }
     },
     {
-      "id": "zaihuapd_41810",
-      "channel": "zaihuapd",
-      "text": "技嘉联手海盗船刷新 DDR5 内存超频世界纪录至 13556 MT/s在 2026 台北电脑展上，技嘉超频团队使用海盗船 DDR5 内存冲击至 13556 MT/s，刷新世界纪录。此次超频基于技嘉 Z890 AORUS TACHYON DUO X ICE 主板，并借助液氮等极端散热手段达成。同一团队此前曾在该主板上达成 12917 MT/s 的风冷纪录，后借助液氮进一步推至 13407.8 MT/s。在本次芝奇超频大赛中，他们另用 AMD 平台拿下 10 项全球第一。这些极限成绩主要展示硬件工程极限，不代表普通用户的日常体验。IT之家·备用频道·",
-      "clean_text": "技嘉联手海盗船刷新 DDR5 内存超频世界纪录至 13556 MT/s在 2026 台北电脑展上，技嘉超频团队使用海盗船 DDR5 内存冲击至 13556 MT/s，刷新世界纪录。此次超频基于技嘉 Z890 AORUS TACHYON DUO X ICE 主板，并借助液氮等极端散热手段达成。同一团队此前曾在该主板上达成 12917 MT/s 的风冷纪录，后借助液氮进一步推至 13407.8 MT/s。在本次芝奇超频大赛中，他们另用 AMD 平台拿下 10 项全球第一。这些极限成绩主要展示硬件工程极限，不代表普通用户的日常体验。IT之家·备用频道",
-      "datetime": "2026-06-07T01:20:01+00:00",
-      "views": "2.67K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/960/986.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41810",
-      "scraped_at": "2026-06-07T10:00:58.181884",
-      "title": "技嘉联手海盗船刷新DDR5超频纪录",
-      "title_options": {
-        "conclusion": "技嘉联手海盗船刷新DDR5超频纪录",
-        "attractive": "DDR5超频世界纪录达13556",
-        "minimal": "技嘉海盗船DDR5超频纪录",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -653,6 +622,6 @@
       }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-06-08T13:19:48.940339"
+  "count": 24,
+  "updated_at": "2026-06-08T13:24:54.720864"
 }
