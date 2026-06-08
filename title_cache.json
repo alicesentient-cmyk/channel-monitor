@@ -2249,5 +2249,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-08T09:00:59.839924"
+  },
+  "zaihuapd_41821": {
+    "ai_title": "韩股开盘跌8.4%停交易",
+    "title_options": {
+      "conclusion": "韩股开盘跌8.4%停交易",
+      "attractive": "韩股暴跌8.4%触发熔断",
+      "minimal": "韩股开盘跌8.4%停",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T10:01:44.176955"
+  },
+  "zaihuapd_41820": {
+    "ai_title": "网络测评新规发布",
+    "title_options": {
+      "conclusion": "网络测评新规发布",
+      "attractive": "测评需资质，主观评价须标注",
+      "minimal": "测评新规",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T10:01:45.136870"
   }
 }
