@@ -2368,5 +2368,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-08T16:03:14.524778"
+  },
+  "zaihuapd_41827": {
+    "ai_title": "不接入AI将无法被调用",
+    "title_options": {
+      "conclusion": "微信小程序可接入AI",
+      "attractive": "不接入AI将无法被调用",
+      "minimal": "小程序AI接入",
+      "best": "attractive"
+    },
+    "generated_at": "2026-06-08T17:04:26.413657"
+  },
+  "xhqcankao_29915": {
+    "ai_title": "AI中转站存隐私泄露风险",
+    "title_options": {
+      "conclusion": "AI中转站存隐私泄露风险",
+      "attractive": "你的数据被AI中转站倒卖",
+      "minimal": "AI中转站 风险 提示",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T17:04:27.884481"
   }
 }
