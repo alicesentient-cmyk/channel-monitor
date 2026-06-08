@@ -724,29 +724,6 @@
       }
     },
     {
-      "id": "xhqcankao_29901",
-      "channel": "xhqcankao",
-      "text": "IBM被曝曾掩盖多起数据泄露事件一位前IBM网络安全高管指控该公司在过去十年中被外国政府三次入侵，并掩盖了这些漏洞。William Barlow在2020年提起的一项诉讼中称，IBM的内部调查发现中国黑客在2013年至2016年期间入侵了其核心网络，但该公司随后掩盖了这些漏洞，从未披露。巴洛还表示，至少有两个IBM子公司也遭到入侵，IBM也掩盖了这些漏洞。IBM是美国联邦政府主要的网络安全供应商，这使得所谓的隐瞒尤为重要。根据诉讼，调查结论是APT 10可能在2013年至2016年期间入侵了IBM网络超过56,000次。IBM随后据称未能通知任何当局或美国政府。巴洛表示，他还知道其他漏洞影响了Trusteer和Truven，IBM均未能正确调查和披露。——TechCrunch",
-      "clean_text": "IBM被曝曾掩盖多起数据泄露事件一位前IBM网络安全高管指控该公司在过去十年中被外国政府三次入侵，并掩盖了这些漏洞。William Barlow在2020年提起的一项诉讼中称，IBM的内部调查发现中国黑客在2013年至2016年期间入侵了其核心网络，但该公司随后掩盖了这些漏洞，从未披露。巴洛还表示，至少有两个IBM子公司也遭到入侵，IBM也掩盖了这些漏洞。IBM是美国联邦政府主要的网络安全供应商，这使得所谓的隐瞒尤为重要。根据诉讼，调查结论是APT 10可能在2013年至2016年期间入侵了IBM网络超过56,000次。IBM随后据称未能通知任何当局或美国政府。巴洛表示，他还知道其他漏洞影响了Trusteer和Truven，IBM均未能正确调查和披露。——TechCrunch",
-      "datetime": "2026-06-07T06:11:42+00:00",
-      "views": "1.74K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29901",
-      "scraped_at": "2026-06-07T15:00:34.299673",
-      "title": "IBM被指掩盖数据泄露",
-      "title_options": {
-        "conclusion": "IBM被指掩盖数据泄露",
-        "attractive": "IBM隐瞒中国黑客入侵",
-        "minimal": "IBM掩盖入侵",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -778,6 +755,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-06-08T18:11:04.933142"
+  "count": 29,
+  "updated_at": "2026-06-08T18:15:55.460917"
 }
