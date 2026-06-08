@@ -2219,5 +2219,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-08T08:05:19.822247"
+  },
+  "xhqcankao_29908": {
+    "ai_title": "英伟达与韩企合作建AI数据中心",
+    "title_options": {
+      "conclusion": "英伟达与韩企合作建AI数据中心",
+      "attractive": "英伟达联手韩企建AI数据中心",
+      "minimal": "英伟达韩企AI合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T09:00:56.895778"
+  },
+  "xhqcankao_29907": {
+    "ai_title": "IAEA无法确认伊朗高浓缩铀存量",
+    "title_options": {
+      "conclusion": "IAEA无法确认伊朗高浓缩铀存量",
+      "attractive": "伊朗高浓缩铀存量成谜",
+      "minimal": "IAEA伊朗铀存量",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T09:00:58.295107"
+  },
+  "xhqcankao_29906": {
+    "ai_title": "京东腾讯合作AI Agent",
+    "title_options": {
+      "conclusion": "京东腾讯合作AI Agent",
+      "attractive": "京东腾讯共推AI Agent",
+      "minimal": "京东腾讯AI合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T09:00:59.839924"
   }
 }
