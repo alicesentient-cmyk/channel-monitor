@@ -652,24 +652,6 @@
       }
     },
     {
-      "id": "zaihuapd_41817",
-      "channel": "zaihuapd",
-      "text": "目前大家日常使用最多的 AI 是哪家？",
-      "clean_text": "目前大家日常使用最多的 AI 是哪家？🐊",
-      "datetime": "2026-06-07T08:50:43+00:00",
-      "views": "1.46K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41817",
-      "scraped_at": "2026-06-07T17:00:40.258068",
-      "title": "AI使用率最高",
-      "title_options": {
-        "conclusion": "AI使用率最高",
-        "attractive": "你常用哪家AI？",
-        "minimal": "AI使用排行",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -701,6 +683,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-06-08T20:48:25.023566"
+  "count": 26,
+  "updated_at": "2026-06-08T20:53:30.829358"
 }
