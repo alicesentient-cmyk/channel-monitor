@@ -2388,5 +2388,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-08T17:04:27.884481"
+  },
+  "zaihuapd_41828": {
+    "ai_title": "余承东：运存不足致手机卡顿",
+    "title_options": {
+      "conclusion": "余承东：运存不足致手机卡顿",
+      "attractive": "16GB运存可当20GB用",
+      "minimal": "运存不足 卡顿 华为技术"
+    },
+    "generated_at": "2026-06-08T18:00:38.235470"
+  },
+  "xhqcankao_29916": {
+    "ai_title": "微信开放AI生态接入指引",
+    "title_options": {
+      "conclusion": "微信开放AI生态接入指引",
+      "attractive": "开发者可自主决定接入AI",
+      "minimal": "微信AI生态接入",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T18:00:39.651705"
   }
 }
