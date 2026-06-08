@@ -2329,5 +2329,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-08T14:00:37.469814"
+  },
+  "xhqcankao_29914": {
+    "ai_title": "墨西哥总统公布经济型EV原型",
+    "title_options": {
+      "conclusion": "墨西哥总统公布经济型EV原型",
+      "attractive": "墨西哥首款国产电动车亮相",
+      "minimal": "墨西哥EV原型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T15:01:49.658224"
+  },
+  "zaihuapd_41825": {
+    "ai_title": "男子记助记词盗107比特币获刑",
+    "title_options": {
+      "conclusion": "男子记助记词盗107比特币获刑",
+      "attractive": "记下11个单词盗走107比特币",
+      "minimal": "助记词盗窃比特币判刑"
+    },
+    "generated_at": "2026-06-08T15:01:51.056132"
+  },
+  "xhqcankao_29913": {
+    "ai_title": "全球核弹头连续4年增长",
+    "title_options": {
+      "conclusion": "全球核弹头连续4年增长",
+      "attractive": "中国核弹头增速全球最快",
+      "minimal": "中朝拉动核弹头增长",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-08T15:01:52.667604"
   }
 }
