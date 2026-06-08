@@ -670,37 +670,6 @@
       }
     },
     {
-      "id": "zaihuapd_41816",
-      "channel": "zaihuapd",
-      "text": "AMD 称统一内存架构良机无限，正开发最高 192 GB 新平台AMD 高级副总裁 David McAfee 表示，统一内存架构正迅速崛起，公司将重点投入。正在开发的新一代锐龙 AI MAX 400 Series 芯片最高支持 192 GB 统一内存，其中 GPU 可用 160 GB，能本地运行 300B+ 参数的大语言模型。英伟达 RTX Spark 也采用类似动态内存分配思路，McAfee 评价很高，认为这实际认可了 AMD 的理念。他判断未来几年业界将高度关注 UMA 技术，但目前尚不确定是否用于锐龙游戏处理器。IT之家·备用频道·",
-      "clean_text": "AMD 称统一内存架构良机无限，正开发最高 192 GB 新平台AMD 高级副总裁 David McAfee 表示，统一内存架构正迅速崛起，公司将重点投入。正在开发的新一代锐龙 AI MAX 400 Series 芯片最高支持 192 GB 统一内存，其中 GPU 可用 160 GB，能本地运行 300B+ 参数的大语言模型。英伟达 RTX Spark 也采用类似动态内存分配思路，McAfee 评价很高，认为这实际认可了 AMD 的理念。他判断未来几年业界将高度关注 UMA 技术，但目前尚不确定是否用于锐龙游戏处理器。IT之家·备用频道",
-      "datetime": "2026-06-07T08:32:59+00:00",
-      "views": "3.01K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/961/102.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41816",
-      "scraped_at": "2026-06-07T17:00:40.257672",
-      "title": "192GB内存跑300B模型",
-      "title_options": {
-        "conclusion": "AMD推192GB统一内存",
-        "attractive": "192GB内存跑300B模型",
-        "minimal": "AMD 192GB UMA",
-        "best": "attractive"
-      }
-    },
-    {
       "id": "zaihuapd_41782",
       "channel": "zaihuapd",
       "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
@@ -732,6 +701,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-08T20:28:03.991870"
+  "count": 27,
+  "updated_at": "2026-06-08T20:33:08.811001"
 }
