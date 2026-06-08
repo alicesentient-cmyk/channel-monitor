@@ -2525,5 +2525,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-09T03:01:01.737775"
+  },
+  "xhqcankao_29925": {
+    "ai_title": "苹果发布儿童安全新功能",
+    "title_options": {
+      "conclusion": "苹果发布儿童安全新功能",
+      "attractive": "家长可管控孩子应用下载",
+      "minimal": "苹果儿童安全功能",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T07:03:50.696011"
+  },
+  "xhqcankao_29924": {
+    "ai_title": "苹果推出Siri AI新功能",
+    "title_options": {
+      "conclusion": "苹果推出Siri AI新功能",
+      "attractive": "Siri AI可跨应用搜索",
+      "minimal": "苹果智能 Siri AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T07:03:51.925408"
   }
 }
