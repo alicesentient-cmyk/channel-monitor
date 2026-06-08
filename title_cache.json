@@ -2495,5 +2495,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-08T23:01:21.087826"
+  },
+  "zaihuapd_41837": {
+    "ai_title": "苹果推出Siri AI",
+    "title_options": {
+      "conclusion": "苹果推出Siri AI",
+      "attractive": "Siri AI正式上线",
+      "minimal": "苹果Siri AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T02:05:12.565860"
+  },
+  "zaihuapd_41836": {
+    "ai_title": "iOS27兼容型号公布",
+    "title_options": {
+      "conclusion": "iOS27兼容型号公布",
+      "attractive": "你的iPhone能升iOS27吗",
+      "minimal": "iOS27 兼容 型号",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T02:05:13.995934"
   }
 }

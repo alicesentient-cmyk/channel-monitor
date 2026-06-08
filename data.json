@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41837",
+      "channel": "zaihuapd",
+      "text": "苹果推出 Siri AI·备用频道·",
+      "clean_text": "苹果推出 Siri AI·备用频道",
+      "datetime": "2026-06-08T17:36:35+00:00",
+      "views": "1.76K",
+      "source_links": [
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41837",
+      "scraped_at": "2026-06-09T02:00:25.572456",
+      "title": "苹果推出Siri AI",
+      "title_options": {
+        "conclusion": "苹果推出Siri AI",
+        "attractive": "Siri AI正式上线",
+        "minimal": "苹果Siri AI",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41836",
+      "channel": "zaihuapd",
+      "text": "iOS 27 兼容的iPhone型号·备用频道·",
+      "clean_text": "iOS 27 兼容的iPhone型号·备用频道",
+      "datetime": "2026-06-08T17:21:34+00:00",
+      "views": "2.72K",
+      "source_links": [
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41836",
+      "scraped_at": "2026-06-09T02:00:25.571980",
+      "title": "iOS27兼容型号公布",
+      "title_options": {
+        "conclusion": "iOS27兼容型号公布",
+        "attractive": "你的iPhone能升iOS27吗",
+        "minimal": "iOS27 兼容 型号",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29923",
       "channel": "xhqcankao",
       "text": "Prada进军航天业 为NASA提供登月宇航服当地时间6月7日，意大利奢侈品牌Prada于周日公布了一款新服饰，即专为美国国家航空航天局（NASA）中执行登月任务的宇航员设计的内层服装。此举显示了该品牌致力于成为首个进军航天领域的奢侈品巨头的决心。这款服装由Prada与美国航天基础设施开发商Axiom Space合作打造，其特色是在面料中织入了通风管道，从而为宇航员提供更加凉爽舒适的体感。该宇航服预计将用于NASA计划在2028年进行的阿耳忒弥斯4号登月任务。此外不少服装品牌纷纷与商业航天公司合作共同研发航天服饰与专用面料。——财联社",
@@ -759,39 +813,8 @@
         "minimal": "ChatGPT改版升级",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41782",
-      "channel": "zaihuapd",
-      "text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道·",
-      "clean_text": "Codex 新增 iOS 应用构建插件，支持预览与热重载OpenAI 为 Codex 推出了 Build iOS Apps 插件，开发者现在可以直接在 Codex 的应用内浏览器中查看和测试 iOS 应用、打开 SwiftUI 预览，并支持热重载功能，无需离开开发环境。OpenAI Developers(@OpenAIDevs)·备用频道",
-      "datetime": null,
-      "views": "4.22K",
-      "source_links": [
-        {
-          "text": "OpenAI Developers(@OpenAIDevs)",
-          "url": "https://x.com/OpenAIDevs/status/2062599291479478275"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41782",
-      "scraped_at": "2026-06-05T14:01:11.792001",
-      "title": "Codex新增iOS插件",
-      "title_options": {
-        "conclusion": "Codex新增iOS插件",
-        "attractive": "iOS应用热重载预览",
-        "minimal": "Codex iOS插件",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-06-09T02:00:05.529807"
+  "count": 32,
+  "updated_at": "2026-06-09T02:05:14.000319"
 }
