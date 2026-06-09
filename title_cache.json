@@ -2584,5 +2584,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-09T09:05:16.798573"
+  },
+  "xhqcankao_29931": {
+    "ai_title": "OpenAI递交IPO申请",
+    "title_options": {
+      "conclusion": "OpenAI递交IPO申请",
+      "attractive": "OpenAI秘密申请上市",
+      "minimal": "OpenAI IPO申请",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T10:06:08.291280"
+  },
+  "xhqcankao_29930": {
+    "ai_title": "优步在英推Wayve Robotaxi…",
+    "title_options": {
+      "conclusion": "优步在英推Wayve Robotaxi…",
+      "attractive": "伦敦无人出租车候补名单开放",
+      "minimal": "优步Wayve自动驾驶候补"
+    },
+    "generated_at": "2026-06-09T10:06:09.917238"
+  },
+  "zaihuapd_41843": {
+    "ai_title": "Anthropic秘密提交IPO草案",
+    "title_options": {
+      "conclusion": "Anthropic秘密提交IPO草案",
+      "attractive": "Anthropic估值9650亿拟上市",
+      "minimal": "Anthropic提交IPO",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T10:06:11.356479"
+  },
+  "xhqcankao_29929": {
+    "ai_title": "美公布涉军中企新名单",
+    "title_options": {
+      "conclusion": "美公布涉军中企新名单",
+      "attractive": "阿里百度比亚迪入黑名单",
+      "minimal": "阿里百度比亚迪入列",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T10:06:12.603548"
   }
 }
