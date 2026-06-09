@@ -1459,31 +1459,8 @@
         "minimal": "亚马逊康宁光纤协议",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29919",
-      "channel": "xhqcankao",
-      "text": "Cloudflare：全球60%的流量已来自AI和机器人云服务提供商 Cloudflare 发布的一份报告指出，估计全球近60%的互联网流量是由自动化脚本产生的，包括传统的爬虫、恶意软件机器人，以及现在的AI “代理”。Cloudflare公司的首席执行官 Matthew Prince 上周表示，这比他预想的要快得多。他曾设想这一情况发生在2027年末，后来他又认为可能提早至2027年初，但没想到 “代理” 流量增长如此之快，以至于机器人流量首次超过了人类流量。而谷歌、Claude、Meta、GPT和字节跳动的AI机器人是前五大最活跃的机器人。爬取目的主要为训练，占比超过50%。——财联社",
-      "clean_text": "Cloudflare：全球60%的流量已来自AI和机器人云服务提供商 Cloudflare 发布的一份报告指出，估计全球近60%的互联网流量是由自动化脚本产生的，包括传统的爬虫、恶意软件机器人，以及现在的AI “代理”。Cloudflare公司的首席执行官 Matthew Prince 上周表示，这比他预想的要快得多。他曾设想这一情况发生在2027年末，后来他又认为可能提早至2027年初，但没想到 “代理” 流量增长如此之快，以至于机器人流量首次超过了人类流量。而谷歌、Claude、Meta、GPT和字节跳动的AI机器人是前五大最活跃的机器人。爬取目的主要为训练，占比超过50%。——财联社",
-      "datetime": "2026-06-08T12:54:35+00:00",
-      "views": "575",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2393464?sv=8.5.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29919",
-      "scraped_at": "2026-06-08T21:00:35.501173",
-      "title": "AI机器人流量占全球60%",
-      "title_options": {
-        "conclusion": "AI机器人流量占全球60%",
-        "attractive": "机器人流量首超人类",
-        "minimal": "AI流量60%",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-10T00:54:30.237478"
+  "count": 59,
+  "updated_at": "2026-06-10T00:59:38.175739"
 }
