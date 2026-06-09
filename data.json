@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41860",
+      "channel": "zaihuapd",
+      "text": "Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有全球最强的网络安全能力。生物医学研究者也可通过信任计划在解除防护后使用。两款模型定价均为每百万输入 token 10 美元、输出 token 50 美元，不到 Mythos Preview 的一半。Fable 5 即日起全面上线，6 月 23 日前 Fable 5 将包含在 Pro、Max、Team 和企业版套餐中，无需额外付费，之后需凭积分或等候回归标准套餐。AnthropicAI·备用频道·",
+      "clean_text": "🤖Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有全球最强的网络安全能力。生物医学研究者也可通过信任计划在解除防护后使用。两款模型定价均为每百万输入 token 10 美元、输出 token 50 美元，不到 Mythos Preview 的一半。Fable 5 即日起全面上线，6 月 23 日前 Fable 5 将包含在 Pro、Max、Team 和企业版套餐中，无需额外付费，之后需凭积分或等候回归标准套餐。AnthropicAI·备用频道",
+      "datetime": "2026-06-09T17:07:39+00:00",
+      "views": "3.03K",
+      "source_links": [
+        {
+          "text": "AnthropicAI",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41860",
+      "scraped_at": "2026-06-10T02:00:48.959449",
+      "title": "Anthropic发布Claude F…",
+      "title_options": {
+        "conclusion": "Anthropic发布Claude F…",
+        "attractive": "新模型价格减半性能顶尖",
+        "minimal": "Claude Fable 5与Myth…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41857",
       "channel": "zaihuapd",
       "text": "国家互联网应急中心提醒：部分智能体技能包（Skills）存在越狱和挖矿风险据国家互联网应急中心消息，近期，国家互联网应急中心（CNCERT）综合研判发现，部分智能体技能包（Skills）以“大模型越狱”、“挖矿赚钱”等名义公开传播，诱导用户突破大模型安全限制或占用设备资源进行非法挖矿。此类恶意 Skills 可能导致模型生成违法信息、用户账号被依法封禁、设备性能下降，甚至使用户被动卷入洗钱等违法犯罪活动，严重侵害个人合法权益，危害网络安全。CNCERT 提醒广大用户和相关运营单位提高警惕，加强 Skills 来源审查与行为监控，及时清除可疑组件，防范由此引发的安全风险。第一财经·备用频道·",
@@ -1500,6 +1531,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-10T01:55:45.784354"
+  "count": 61,
+  "updated_at": "2026-06-10T02:00:52.039101"
 }
