@@ -2961,5 +2961,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-09T21:04:08.659015"
+  },
+  "xhqcankao_29956": {
+    "ai_title": "塔塔用奇瑞技术造电动车",
+    "title_options": {
+      "conclusion": "塔塔用奇瑞技术造电动车",
+      "attractive": "塔塔借奇瑞技术推高端车",
+      "minimal": "塔塔奇瑞合作电动车"
+    },
+    "generated_at": "2026-06-09T22:05:42.296823"
+  },
+  "xhqcankao_29955": {
+    "ai_title": "黄仁勋拒绝参议院作证",
+    "title_options": {
+      "conclusion": "黄仁勋拒绝参议院作证",
+      "attractive": "英伟达CEO拒答AI中国问题",
+      "minimal": "黄仁勋拒证",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T22:05:43.323942"
   }
 }
