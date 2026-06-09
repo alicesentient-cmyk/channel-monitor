@@ -2941,5 +2941,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-09T20:02:50.278329"
+  },
+  "xhqcankao_29954": {
+    "ai_title": "中国两万亿计划建设AI数据中心",
+    "title_options": {
+      "conclusion": "中国两万亿计划建设AI数据中心",
+      "attractive": "两万亿砸向AI，英伟达被挤出",
+      "minimal": "两万亿AI数据中心",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T21:04:07.315829"
+  },
+  "xhqcankao_29953": {
+    "ai_title": "Z-Library推白标镜像站",
+    "title_options": {
+      "conclusion": "Z-Library推白标镜像站",
+      "attractive": "镜像站运营获20%报酬",
+      "minimal": "白标镜像站风险",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T21:04:08.659015"
   }
 }
