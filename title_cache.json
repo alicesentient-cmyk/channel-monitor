@@ -2980,5 +2980,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-09T22:05:43.323942"
+  },
+  "xhqcankao_29958": {
+    "ai_title": "比亚迪：竞争转向辅助驾驶",
+    "title_options": {
+      "conclusion": "比亚迪：竞争转向辅助驾驶",
+      "attractive": "辅助驾驶使用率将达95%",
+      "minimal": "比亚迪 辅助驾驶 竞争",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T23:01:56.024852"
+  },
+  "zaihuapd_41855": {
+    "ai_title": "朱雀二号成功发射双星",
+    "title_options": {
+      "conclusion": "朱雀二号成功发射双星",
+      "attractive": "手机直连卫星试验启动",
+      "minimal": "朱雀二号 双星 发射",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T23:01:57.268087"
+  },
+  "xhqcankao_29957": {
+    "ai_title": "iOS 27适配折叠机",
+    "title_options": {
+      "conclusion": "iOS 27适配折叠机",
+      "attractive": "折叠机代码首现",
+      "minimal": "iOS 27折叠机",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T23:01:58.561301"
   }
 }
