@@ -1479,35 +1479,8 @@
         "minimal": "苹果Siri AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41836",
-      "channel": "zaihuapd",
-      "text": "iOS 27 兼容的iPhone型号·备用频道·",
-      "clean_text": "iOS 27 兼容的iPhone型号·备用频道",
-      "datetime": "2026-06-08T17:21:34+00:00",
-      "views": "2.72K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41836",
-      "scraped_at": "2026-06-09T02:00:25.571980",
-      "title": "iOS27兼容型号公布",
-      "title_options": {
-        "conclusion": "iOS27兼容型号公布",
-        "attractive": "你的iPhone能升iOS27吗",
-        "minimal": "iOS27 兼容 型号",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-10T05:18:17.143417"
+  "count": 59,
+  "updated_at": "2026-06-10T05:23:20.265000"
 }
