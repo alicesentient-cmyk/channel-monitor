@@ -1452,35 +1452,8 @@
         "minimal": "苹果Siri AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41837",
-      "channel": "zaihuapd",
-      "text": "苹果推出 Siri AI·备用频道·",
-      "clean_text": "苹果推出 Siri AI·备用频道",
-      "datetime": "2026-06-08T17:36:35+00:00",
-      "views": "1.76K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41837",
-      "scraped_at": "2026-06-09T02:00:25.572456",
-      "title": "苹果推出Siri AI",
-      "title_options": {
-        "conclusion": "苹果推出Siri AI",
-        "attractive": "Siri AI正式上线",
-        "minimal": "苹果Siri AI",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-06-10T05:33:26.699301"
+  "count": 58,
+  "updated_at": "2026-06-10T05:38:30.082307"
 }
