@@ -2545,5 +2545,15 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-09T07:03:51.925408"
+  },
+  "xhqcankao_29926": {
+    "ai_title": "微信灰度测试朋友圈搜索",
+    "title_options": {
+      "conclusion": "微信灰度测试朋友圈搜索",
+      "attractive": "朋友圈搜索入口升级",
+      "minimal": "朋友圈搜索",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T08:04:30.856491"
   }
 }
