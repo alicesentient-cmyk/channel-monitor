@@ -3040,5 +3040,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T00:03:25.107640"
+  },
+  "zaihuapd_41857": {
+    "ai_title": "智能体技能包存越狱挖矿风险",
+    "title_options": {
+      "conclusion": "智能体技能包存越狱挖矿风险",
+      "attractive": "你的智能体可能正在挖矿",
+      "minimal": "智能体技能包风险",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T01:04:47.440203"
+  },
+  "xhqcankao_29962": {
+    "ai_title": "iOS 27支持iPhone 11",
+    "title_options": {
+      "conclusion": "iOS 27支持iPhone 11",
+      "attractive": "iPhone 11获七年更新",
+      "minimal": "iOS 27 iPhone 11",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T01:04:48.376626"
+  },
+  "zaihuapd_41856": {
+    "ai_title": "发薪延迟增家暴风险",
+    "title_options": {
+      "conclusion": "发薪延迟增家暴风险",
+      "attractive": "发薪晚一天家暴升20%",
+      "minimal": "发薪延迟家暴风险",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T01:04:49.482710"
   }
 }
