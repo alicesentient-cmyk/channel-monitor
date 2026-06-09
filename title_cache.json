@@ -2901,5 +2901,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-09T19:06:34.920765"
+  },
+  "zaihuapd_41854": {
+    "ai_title": "特朗普37次称伊朗协议将达成",
+    "title_options": {
+      "conclusion": "特朗普37次称伊朗协议将达成",
+      "attractive": "特朗普37次承诺伊朗协议未兑现",
+      "minimal": "特朗普37次伊朗协议",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T20:02:46.976773"
+  },
+  "xhqcankao_29952": {
+    "ai_title": "阿里接洽核电央企",
+    "title_options": {
+      "conclusion": "阿里接洽核电央企",
+      "attractive": "阿里找核电为AI供电",
+      "minimal": "阿里核电洽谈",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T20:02:47.884986"
+  },
+  "zaihuapd_41853": {
+    "ai_title": "小红书获2026世界杯转播权",
+    "title_options": {
+      "conclusion": "小红书获2026世界杯转播权",
+      "attractive": "抖音未竞标世界杯版权",
+      "minimal": "小红书世界杯转播",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T20:02:49.076057"
+  },
+  "xhqcankao_29951": {
+    "ai_title": "日本百年企业丢失千万用户信息",
+    "title_options": {
+      "conclusion": "日本百年企业丢失千万用户信息",
+      "attractive": "千万用户数据可被随意读取",
+      "minimal": "日本企业丢失千万用户信息",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-09T20:02:50.278329"
   }
 }
