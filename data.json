@@ -1,6 +1,82 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29928",
+      "channel": "xhqcankao",
+      "text": "WhatsApp称阻止了与NSO有关的黑客攻击WhatsApp表示其阻止了一个与 NSO Group 有关的新黑客活动，NSO Group 是一家间谍软件开发商，已被卷入全球无数起滥用案件中。这款即时通讯应开发商指责NSO违反了先前的一项法院命令，该命令禁止该公司用其间谍软件针对 WhatsApp 及其用户，并正寻求以蔑视法庭罪追究NSO的责任。这家Meta平台公司旗下的聊天应用周一宣布，在用户报告引发的调查之后，其发现并阻止了与 NSO 有关的鱼叉式网络钓鱼尝试。“他们试图诱骗人们点击恶意链接，以将他们引导到 WhatsApp之外的外部网站，”Meta公司写道。“我们还发现他们在 WhatsApp 上创建测试账户和群组，我们已将其删除。”——Techcrunch",
+      "clean_text": "WhatsApp称阻止了与NSO有关的黑客攻击WhatsApp表示其阻止了一个与 NSO Group 有关的新黑客活动，NSO Group 是一家间谍软件开发商，已被卷入全球无数起滥用案件中。这款即时通讯应开发商指责NSO违反了先前的一项法院命令，该命令禁止该公司用其间谍软件针对 WhatsApp 及其用户，并正寻求以蔑视法庭罪追究NSO的责任。这家Meta平台公司旗下的聊天应用周一宣布，在用户报告引发的调查之后，其发现并阻止了与 NSO 有关的鱼叉式网络钓鱼尝试。“他们试图诱骗人们点击恶意链接，以将他们引导到 WhatsApp之外的外部网站，”Meta公司写道。“我们还发现他们在 WhatsApp 上创建测试账户和群组，我们已将其删除。”——Techcrunch",
+      "datetime": "2026-06-09T00:34:54+00:00",
+      "views": "961",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29928",
+      "scraped_at": "2026-06-09T09:00:29.739582",
+      "title": "WhatsApp阻止NSO黑客攻击",
+      "title_options": {
+        "conclusion": "WhatsApp阻止NSO黑客攻击",
+        "attractive": "NSO再被曝攻击WhatsApp",
+        "minimal": "WhatsApp NSO 黑客"
+      }
+    },
+    {
+      "id": "zaihuapd_41842",
+      "channel": "zaihuapd",
+      "text": "美国德州农民捐地约定建公园，被当地政府千万美元转卖建数据中心1999 年，美国德州泰勒市一位农民以 10 美元将 87 英亩（39.25 公顷）土地捐给公共机构，地契明确要求留作公园用地。此后土地几经易手，最终于 2025 年被当地经济发展公司以 1000 万美元卖给数据中心开发商，附近居民直到计划公布才知情。居民以原始地契条款为由反对建设，担心环境、噪音及房价受影响，并已提起法律诉讼。前期诉讼开发商获胜，居民正筹备向第三上诉法院上诉。市政府称该地块属于就业中心分区，难以阻止开发，但预计十年内可为地方带来约 3000 万美元税收。Tom's Hardware·备用频道·",
+      "clean_text": "美国德州农民捐地约定建公园，被当地政府千万美元转卖建数据中心1999 年，美国德州泰勒市一位农民以 10 美元将 87 英亩（39.25 公顷）土地捐给公共机构，地契明确要求留作公园用地。此后土地几经易手，最终于 2025 年被当地经济发展公司以 1000 万美元卖给数据中心开发商，附近居民直到计划公布才知情。居民以原始地契条款为由反对建设，担心环境、噪音及房价受影响，并已提起法律诉讼。前期诉讼开发商获胜，居民正筹备向第三上诉法院上诉。市政府称该地块属于就业中心分区，难以阻止开发，但预计十年内可为地方带来约 3000 万美元税收。Tom's Hardware·备用频道",
+      "datetime": "2026-06-09T00:17:08+00:00",
+      "views": "3.24K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41842",
+      "scraped_at": "2026-06-09T09:00:28.177228",
+      "title": "德州捐地建公园被转卖",
+      "title_options": {
+        "conclusion": "德州捐地建公园被转卖",
+        "attractive": "捐地建公园被卖千万",
+        "minimal": "捐地转卖建数据中心",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29927",
+      "channel": "xhqcankao",
+      "text": "马萨诸塞州新法案禁止出售精确位置数据马萨诸塞州的议员们已投票通过隐私保护法案，赋予该州居民关于访问和删除大型科技巨头持有的其数据的新权利。该法案还禁止公司出售其用户的精确位置数据。马萨诸塞州众议院的议员以146比0的一致投票通过了该州的《消费者数据隐私法案》。在这几个月前，参议院所有40名议员已全票投票支持推进其自身的法案。现在，这些法案将在参议院合并，并送交州长办公室，预计在那里将被签署成为法律。该法律将阻止未经用户明确同意而共享或出售敏感信息。这些数据包括生物识别信息（例如健康数据、基因信息和指纹）、其精确的地理位置数据，及关于其宗教、移民身份和性取向的其他标记。——Techcrunch",
+      "clean_text": "马萨诸塞州新法案禁止出售精确位置数据马萨诸塞州的议员们已投票通过隐私保护法案，赋予该州居民关于访问和删除大型科技巨头持有的其数据的新权利。该法案还禁止公司出售其用户的精确位置数据。马萨诸塞州众议院的议员以146比0的一致投票通过了该州的《消费者数据隐私法案》。在这几个月前，参议院所有40名议员已全票投票支持推进其自身的法案。现在，这些法案将在参议院合并，并送交州长办公室，预计在那里将被签署成为法律。该法律将阻止未经用户明确同意而共享或出售敏感信息。这些数据包括生物识别信息（例如健康数据、基因信息和指纹）、其精确的地理位置数据，及关于其宗教、移民身份和性取向的其他标记。——Techcrunch",
+      "datetime": "2026-06-09T00:03:48+00:00",
+      "views": "1.55K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29927",
+      "scraped_at": "2026-06-09T09:00:29.739251",
+      "title": "马州禁售精确位置数据",
+      "title_options": {
+        "conclusion": "马州禁售精确位置数据",
+        "attractive": "你的位置数据被禁售",
+        "minimal": "马州数据隐私法",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29926",
       "channel": "xhqcankao",
       "text": "微信新功能：朋友圈能搜索了记者周一获悉，微信面向部分 iOS 和安卓用户灰度测试朋友圈搜索功能。腾讯客服告诉记者，微信在轻触“我”->“朋友圈”页面后，右上角的“放大镜”图标已升级为“我的朋友圈搜索”入口，可通过该入口输入关键词实时搜索历史朋友圈内容。朋友圈搜索入口直接嵌入朋友圈主页，无需跳转外部页面，用户可以在浏览动态的同时，随时调用搜索功能，交互路径较短。该功能是微信近期在版本更新中逐步开放的部分，目前iOS 和 Android 客户端的灰度测试仍在持续进行中。对于朋友圈搜索的范围，腾讯客服表示，该功能可以搜索用户自己和好友发布的朋友圈。——财联社",
@@ -902,6 +978,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-06-09T09:00:08.417551"
+  "count": 39,
+  "updated_at": "2026-06-09T09:05:16.803704"
 }
