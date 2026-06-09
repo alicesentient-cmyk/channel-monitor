@@ -1434,26 +1434,8 @@
         "minimal": "苹果智能 Siri AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41839",
-      "channel": "zaihuapd",
-      "text": "苹果推出 Siri AI · 备用频道 ·",
-      "clean_text": "🔮苹果推出 Siri AI · 备用频道 · 投稿通道",
-      "datetime": "2026-06-08T18:23:45+00:00",
-      "views": "1.96K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41839",
-      "scraped_at": "2026-06-09T03:00:57.539188",
-      "title": "苹果推出Siri AI",
-      "title_options": {
-        "conclusion": "苹果推出Siri AI",
-        "attractive": "Siri AI来了",
-        "minimal": "苹果Siri AI",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-10T06:19:05.570628"
+  "count": 57,
+  "updated_at": "2026-06-10T06:24:09.600755"
 }
