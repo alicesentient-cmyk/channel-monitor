@@ -1506,31 +1506,8 @@
         "minimal": "iOS27 兼容 型号",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29923",
-      "channel": "xhqcankao",
-      "text": "Prada进军航天业 为NASA提供登月宇航服当地时间6月7日，意大利奢侈品牌Prada于周日公布了一款新服饰，即专为美国国家航空航天局（NASA）中执行登月任务的宇航员设计的内层服装。此举显示了该品牌致力于成为首个进军航天领域的奢侈品巨头的决心。这款服装由Prada与美国航天基础设施开发商Axiom Space合作打造，其特色是在面料中织入了通风管道，从而为宇航员提供更加凉爽舒适的体感。该宇航服预计将用于NASA计划在2028年进行的阿耳忒弥斯4号登月任务。此外不少服装品牌纷纷与商业航天公司合作共同研发航天服饰与专用面料。——财联社",
-      "clean_text": "Prada进军航天业 为NASA提供登月宇航服当地时间6月7日，意大利奢侈品牌Prada于周日公布了一款新服饰，即专为美国国家航空航天局（NASA）中执行登月任务的宇航员设计的内层服装。此举显示了该品牌致力于成为首个进军航天领域的奢侈品巨头的决心。这款服装由Prada与美国航天基础设施开发商Axiom Space合作打造，其特色是在面料中织入了通风管道，从而为宇航员提供更加凉爽舒适的体感。该宇航服预计将用于NASA计划在2028年进行的阿耳忒弥斯4号登月任务。此外不少服装品牌纷纷与商业航天公司合作共同研发航天服饰与专用面料。——财联社",
-      "datetime": "2026-06-08T14:37:49+00:00",
-      "views": "1.12K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2393277?sv=8.5.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29923",
-      "scraped_at": "2026-06-08T23:00:35.457360",
-      "title": "Prada为NASA设计登月宇航服",
-      "title_options": {
-        "conclusion": "Prada为NASA设计登月宇航服",
-        "attractive": "Prada进军航天业",
-        "minimal": "Prada NASA 宇航服",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-10T02:36:21.855654"
+  "count": 60,
+  "updated_at": "2026-06-10T02:41:25.382035"
 }
