@@ -1482,38 +1482,8 @@
         "minimal": "AI流量60%",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41830",
-      "channel": "zaihuapd",
-      "text": "世界杯每有进球 Kimi 将捐赠 10 亿 Token 支持中国足球2026 年世界杯期间，Kimi 推出中国足球公益支持计划：比赛每进一球，Kimi 就向中国足球事业捐赠 10 亿 Token，定向用于基层项目、校园足球、青训教练和公益组织使用 Kimi 服务。有需要的项目可在 2026 年 6 月 11 日至 7 月 31 日期间提交申请，Kimi 将根据项目规模和影响力评估发放会员权益或 Token 额度。Kimi·备用频道·",
-      "clean_text": "世界杯每有进球 Kimi 将捐赠 10 亿 Token 支持中国足球2026 年世界杯期间，Kimi 推出中国足球公益支持计划：比赛每进一球，Kimi 就向中国足球事业捐赠 10 亿 Token，定向用于基层项目、校园足球、青训教练和公益组织使用 Kimi 服务。有需要的项目可在 2026 年 6 月 11 日至 7 月 31 日期间提交申请，Kimi 将根据项目规模和影响力评估发放会员权益或 Token 额度。Kimi·备用频道",
-      "datetime": "2026-06-08T12:24:35+00:00",
-      "views": "4.42K",
-      "source_links": [
-        {
-          "text": "Kimi",
-          "url": "https://football.kimi.site/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41830",
-      "scraped_at": "2026-06-08T21:00:31.577456",
-      "title": "世界杯每进球捐10亿Token",
-      "title_options": {
-        "conclusion": "世界杯每进球捐10亿Token",
-        "attractive": "每进一球捐10亿Token",
-        "minimal": "世界杯进球捐Token"
-      }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-10T00:23:52.883705"
+  "count": 60,
+  "updated_at": "2026-06-10T00:28:59.925908"
 }
