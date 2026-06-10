@@ -1616,30 +1616,8 @@
         "minimal": "OpenAI IPO申请",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29930",
-      "channel": "xhqcankao",
-      "text": "优步在英国推出Wayve Robotaxi等候名单网约车巨头优步公司的英国用户现在可以加入一个等候名单，以增加他们与Wayve自动驾驶车辆匹配成功的几率 —— 这是两家公司正准备在伦敦推出无人驾驶出租车服务的另一个迹象。优步公司本周一在伦敦宣布了该等候名单，同时展示了一辆配备有Wayve自动驾驶系统、带有品牌标识的黑色福特野马 Mach-E。Wayve负责自动驾驶技术，而优步则负责车内所有设计，包括乘客如何通过支持六十四种语言的交互式触摸屏与车辆互动。优步已预告了即将推出的自动驾驶出租车服务，但尚未提供正式日期，仅表示将在未来几个月内推出，尚待监管批准。——Techcrunch",
-      "clean_text": "优步在英国推出Wayve Robotaxi等候名单网约车巨头优步公司的英国用户现在可以加入一个等候名单，以增加他们与Wayve自动驾驶车辆匹配成功的几率 —— 这是两家公司正准备在伦敦推出无人驾驶出租车服务的另一个迹象。优步公司本周一在伦敦宣布了该等候名单，同时展示了一辆配备有Wayve自动驾驶系统、带有品牌标识的黑色福特野马 Mach-E。Wayve负责自动驾驶技术，而优步则负责车内所有设计，包括乘客如何通过支持六十四种语言的交互式触摸屏与车辆互动。优步已预告了即将推出的自动驾驶出租车服务，但尚未提供正式日期，仅表示将在未来几个月内推出，尚待监管批准。——Techcrunch",
-      "datetime": "2026-06-09T01:31:08+00:00",
-      "views": "1.11K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29930",
-      "scraped_at": "2026-06-09T10:01:06.272742",
-      "title": "优步在英推Wayve Robotaxi…",
-      "title_options": {
-        "conclusion": "优步在英推Wayve Robotaxi…",
-        "attractive": "伦敦无人出租车候补名单开放",
-        "minimal": "优步Wayve自动驾驶候补"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-10T13:26:04.933119"
+  "count": 65,
+  "updated_at": "2026-06-10T13:31:13.625842"
 }
