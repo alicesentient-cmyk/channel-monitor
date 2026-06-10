@@ -3259,5 +3259,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T13:05:40.320718"
+  },
+  "zaihuapd_41869": {
+    "ai_title": "邀请好友重置速率限制",
+    "title_options": {
+      "conclusion": "邀请好友重置速率限制",
+      "attractive": "邀请好友解限",
+      "minimal": "Codex邀请重置",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T14:01:59.968442"
+  },
+  "xhqcankao_29977": {
+    "ai_title": "马总理忧AI加剧不平等",
+    "title_options": {
+      "conclusion": "马总理忧AI加剧不平等",
+      "attractive": "AI仅少数国家掌控引忧",
+      "minimal": "AI不平等担忧",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T14:02:01.194632"
+  },
+  "xhqcankao_29976": {
+    "ai_title": "联想7月全品类涨价",
+    "title_options": {
+      "conclusion": "联想7月全品类涨价",
+      "attractive": "经销商接备货通知",
+      "minimal": "联想涨价7月",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T14:02:02.782174"
   }
 }
