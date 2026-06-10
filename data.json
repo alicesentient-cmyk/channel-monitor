@@ -1621,31 +1621,8 @@
         "minimal": "两万亿AI数据中心",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29953",
-      "channel": "xhqcankao",
-      "text": "Z-Library启动白标镜像站任何人都可以用自己的域名运营镜像站并获得20%的报酬被称为电子图书馆的Z-Library 日前宣布对其镜像网站基础设施进行升级，现在任何人都可以基于Z-Library 创建自定义品牌、仅限登录访问的镜像站，镜像站托管的数据仍然从主站获取并最新书籍数据库，作为回报，如果用户通过镜像站捐赠加密货币，Z-Library 会向镜像站提供20% 的捐赠报酬。然而，搭建白标镜像站将存在明确的法律风险，用户使用自己的身份信息注册域名和购买服务器搭建白标镜像站，都意味着网站上的任何内容都由运营者负责，因此产生的任何法律风险都由其负责，因此对于大部分用户来说搭建这种白标镜像站都是不合适的。——蓝点网",
-      "clean_text": "Z-Library启动白标镜像站任何人都可以用自己的域名运营镜像站并获得20%的报酬被称为电子图书馆的Z-Library 日前宣布对其镜像网站基础设施进行升级，现在任何人都可以基于Z-Library 创建自定义品牌、仅限登录访问的镜像站，镜像站托管的数据仍然从主站获取并最新书籍数据库，作为回报，如果用户通过镜像站捐赠加密货币，Z-Library 会向镜像站提供20% 的捐赠报酬。然而，搭建白标镜像站将存在明确的法律风险，用户使用自己的身份信息注册域名和购买服务器搭建白标镜像站，都意味着网站上的任何内容都由运营者负责，因此产生的任何法律风险都由其负责，因此对于大部分用户来说搭建这种白标镜像站都是不合适的。——蓝点网",
-      "datetime": "2026-06-09T12:04:23+00:00",
-      "views": "2.31K",
-      "source_links": [
-        {
-          "text": "蓝点网",
-          "url": "https://www.landian.news/archives/113336.html?utm_source=x.com&amp;utm_medium=social&amp;utm_campaign=share&amp;utm_content=landiantech&amp;utm_term=Z-Library%E5%90%AF%E5%8A%A8%E7%99%BD%E6%A0%87%E9%95%9C%E5%83%8F%E7%AB%99+%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E5%8F%AF%E4%BB%A5%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9F%9F%E5%90%8D%E8%BF%90%E8%90%A5%E9%95%9C%E5%83%8F%E7%AB%99%E5%B9%B6%E8%8E%B7%E5%BE%9720%25%E7%9A%84%E6%8A%A5%E9%85%AC"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29953",
-      "scraped_at": "2026-06-09T21:00:32.337912",
-      "title": "Z-Library推白标镜像站",
-      "title_options": {
-        "conclusion": "Z-Library推白标镜像站",
-        "attractive": "镜像站运营获20%报酬",
-        "minimal": "白标镜像站风险",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-11T00:01:22.152973"
+  "count": 65,
+  "updated_at": "2026-06-11T00:06:32.761922"
 }
