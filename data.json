@@ -1648,31 +1648,8 @@
         "minimal": "快捷指令AI更新",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29943",
-      "channel": "xhqcankao",
-      "text": "苹果公司为 Siri 开发了一款专属应用在周一举行的 WWDC 2026 上，苹果公司发布了全新的人工智能版 Siri —— 这一变化被称为该助手在苹果公司历史上最大、最戏剧性的转型。除了发布新的 Siri AI系统外，这款个人助手现在拥有了自己的独立应用。该应用旨在作为用户与 Siri 助手过往对话的存档库。类似于ChatGPT 或 Claude等聊天机器人的功能，用户可以滚动浏览所有历史对话并重新访问特定对话。当用户打开某次历史对话时，这款应用会提供对话概要，无需阅读整篇文字记录。用户还可以通过这款应用发起与该助手的新对话。——Techcrunch",
-      "clean_text": "苹果公司为 Siri 开发了一款专属应用在周一举行的 WWDC 2026 上，苹果公司发布了全新的人工智能版 Siri —— 这一变化被称为该助手在苹果公司历史上最大、最戏剧性的转型。除了发布新的 Siri AI系统外，这款个人助手现在拥有了自己的独立应用。该应用旨在作为用户与 Siri 助手过往对话的存档库。类似于ChatGPT 或 Claude等聊天机器人的功能，用户可以滚动浏览所有历史对话并重新访问特定对话。当用户打开某次历史对话时，这款应用会提供对话概要，无需阅读整篇文字记录。用户还可以通过这款应用发起与该助手的新对话。——Techcrunch",
-      "datetime": "2026-06-09T07:32:42+00:00",
-      "views": "4.27K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29943",
-      "scraped_at": "2026-06-09T19:01:03.071485",
-      "title": "苹果发布Siri独立应用",
-      "title_options": {
-        "conclusion": "苹果发布Siri独立应用",
-        "attractive": "Siri终于有了专属应用",
-        "minimal": "Siri独立应用发布",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-10T19:29:32.481799"
+  "count": 66,
+  "updated_at": "2026-06-10T19:34:37.198912"
 }
