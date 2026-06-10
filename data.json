@@ -1372,35 +1372,8 @@
         "minimal": "智能体技能包风险",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29962",
-      "channel": "xhqcankao",
-      "text": "苹果确认iOS 27更新将支持iPhone 11系列在 WWDC 2026上，苹果公司刚刚宣布了其产品生态系统的下一代操作系统更新。这些更新中主要的是iOS 27，即 iOS 的下一个版本，苹果已确认它将适用于像 iPhone 11 一样旧的 iPhone！随着 iOS 27 操作系统的到来，iPhone 11 系列有望获得七年的主要平台更新，与较新的安卓旗舰机的更新承诺相媲美。如果你在2019年买了一部 iPhone 11 并且还在持有它，理论上你可以更换电池并从中再获得几年的使用时间。此外，iOS 27 操作系统为闹钟和计时器、通知和系统声音添加了独立的音量设置。如果用户乐意使用单个音量滑块来控制所有音量，他们还可以启用“匹配铃声音量”选项。——Androidauthority、Androidauthority",
-      "clean_text": "苹果确认iOS 27更新将支持iPhone 11系列在 WWDC 2026上，苹果公司刚刚宣布了其产品生态系统的下一代操作系统更新。这些更新中主要的是iOS 27，即 iOS 的下一个版本，苹果已确认它将适用于像 iPhone 11 一样旧的 iPhone！随着 iOS 27 操作系统的到来，iPhone 11 系列有望获得七年的主要平台更新，与较新的安卓旗舰机的更新承诺相媲美。如果你在2019年买了一部 iPhone 11 并且还在持有它，理论上你可以更换电池并从中再获得几年的使用时间。此外，iOS 27 操作系统为闹钟和计时器、通知和系统声音添加了独立的音量设置。如果用户乐意使用单个音量滑块来控制所有音量，他们还可以启用“匹配铃声音量”选项。——Androidauthority、Androidauthority",
-      "datetime": "2026-06-09T16:33:01+00:00",
-      "views": "1.05K",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/apple-ios-27-iphone-11-support-3675625/"
-        },
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/ios-27-independent-volume-controls-3675772/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29962",
-      "scraped_at": "2026-06-10T01:01:12.020429",
-      "title": "iOS 27支持iPhone 11",
-      "title_options": {
-        "conclusion": "iOS 27支持iPhone 11",
-        "attractive": "iPhone 11获七年更新",
-        "minimal": "iOS 27 iPhone 11",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-11T04:30:59.799121"
+  "count": 55,
+  "updated_at": "2026-06-11T04:36:03.058196"
 }
