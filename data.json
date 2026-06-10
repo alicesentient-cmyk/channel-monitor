@@ -1,6 +1,70 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29987",
+      "channel": "xhqcankao",
+      "text": "聊天机器人ChatGPT的植入广告22日上线OpenAI旗下聊天机器人ChatGPT近日宣布更新隐私政策，新规将于2026年6月22日正式生效。此次调整核心在于引入广告机制：面向Free和Go套餐用户，在使用过程中可能看到广告；Plus、Pro、Enterprise、Business 以及教育套餐用户则不受影响，无广告且回答质量不变。根据官方说明，广告将明确标注为 “赞助内容”，并且与普通回答在视觉上区分。平台会基于用户在ChatGPT上的操作（如点击的广告或聊天上下文）提供个性化广告，用户可随时在 “设置” 中管理广告个性化。隐私方面，用户的个人信息及对话内容均保持非公开，不会与广告主共享。——凤凰网科技",
+      "clean_text": "聊天机器人ChatGPT的植入广告22日上线OpenAI旗下聊天机器人ChatGPT近日宣布更新隐私政策，新规将于2026年6月22日正式生效。此次调整核心在于引入广告机制：面向Free和Go套餐用户，在使用过程中可能看到广告；Plus、Pro、Enterprise、Business 以及教育套餐用户则不受影响，无广告且回答质量不变。根据官方说明，广告将明确标注为 “赞助内容”，并且与普通回答在视觉上区分。平台会基于用户在ChatGPT上的操作（如点击的广告或聊天上下文）提供个性化广告，用户可随时在 “设置” 中管理广告个性化。隐私方面，用户的个人信息及对话内容均保持非公开，不会与广告主共享。——凤凰网科技",
+      "datetime": "2026-06-10T10:34:11+00:00",
+      "views": "1.22K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006B6sf--3cTMsNbNB8SX7cQcW0r2DtfKf-_v0UACLBc63cN3rpVbcMXFE7-_--ZWXyonDY"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29987",
+      "scraped_at": "2026-06-10T19:00:37.372451",
+      "title": "ChatGPT将植入广告",
+      "title_options": {
+        "conclusion": "ChatGPT将植入广告",
+        "attractive": "免费用户将看到广告",
+        "minimal": "ChatGPT广告上线",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41875",
+      "channel": "zaihuapd",
+      "text": "韩国股市开盘下跌 8.4% 后暂停交易 · 备用频道 ·",
+      "clean_text": "韩国股市开盘下跌 8.4% 后暂停交易 · 备用频道 · 投稿通道",
+      "datetime": "2026-06-10T10:31:47+00:00",
+      "views": "2.9K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41875",
+      "scraped_at": "2026-06-10T19:00:34.191220",
+      "title": "韩股开盘跌8.4%停交易",
+      "title_options": {
+        "conclusion": "韩股开盘跌8.4%停交易",
+        "attractive": "韩股暴跌8.4%触发熔断",
+        "minimal": "韩股开盘跌停",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29986",
+      "channel": "xhqcankao",
+      "text": "网安公司：中国正加大AI领域的间谍活动总部位于美国的网络安全巨头CrowdStrike周二警告称，来自中国实体的网络攻击正在增加，这些攻击旨在窃取人工智能以缩小与美国的科技差距。CrowdStrike 在一份报告中表示，中国实体占针对科技公司、尤其是其人工智能资产的、由国家支持的有针对性网络攻击的 58%以上。CrowdStrike在一份声明中表示：“ 与中国有关联的对手正在升级针对科技组织的间谍活动，以窃取他们无法足够快自行构建的人工智能能力和知识产权。”CrowdStrike称，与中国有关联的网络攻击针对东南亚的政府通信，并通过利用漏洞“维持对北美科技组织的持续访问”。——CNBC",
+      "clean_text": "网安公司：中国正加大AI领域的间谍活动总部位于美国的网络安全巨头CrowdStrike周二警告称，来自中国实体的网络攻击正在增加，这些攻击旨在窃取人工智能以缩小与美国的科技差距。CrowdStrike 在一份报告中表示，中国实体占针对科技公司、尤其是其人工智能资产的、由国家支持的有针对性网络攻击的 58%以上。CrowdStrike在一份声明中表示：“ 与中国有关联的对手正在升级针对科技组织的间谍活动，以窃取他们无法足够快自行构建的人工智能能力和知识产权。”CrowdStrike称，与中国有关联的网络攻击针对东南亚的政府通信，并通过利用漏洞“维持对北美科技组织的持续访问”。——CNBC",
+      "datetime": "2026-06-10T10:04:48+00:00",
+      "views": "2.04K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29986",
+      "scraped_at": "2026-06-10T19:00:37.372064",
+      "title": "中国AI间谍活动增加",
+      "title_options": {
+        "conclusion": "中国AI间谍活动增加",
+        "attractive": "58%攻击瞄准AI",
+        "minimal": "中国AI间谍攻击",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41874",
       "channel": "zaihuapd",
       "text": "香港金管局对内地投资者投资账户新增三项监管，开户核查倒查至 2023 年  香港金管局 5 月 27 日回应财联社记者，已于 5 月 22 日向所有认可机构发出通知，要求对内地投资者的投资账户采取三项额外监管措施。一、关闭使用可疑或伪造文件（含身份证明）开立的账户，并识别自 2023 年 1 月或金管局指定时段内的相关账户；二、关闭零结余且在过去 12 个月内无客户活动的不动账户，参考日期为 2026 年 5 月 22 日；三、新开立投资账户时，须取得内地投资者书面声明，确认投资及结算资金均来自中国内地以外的合法来源。…",
@@ -1666,6 +1730,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-10T18:58:53.951094"
+  "count": 69,
+  "updated_at": "2026-06-10T19:04:02.743359"
 }

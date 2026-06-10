@@ -3419,5 +3419,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T18:02:51.834129"
+  },
+  "xhqcankao_29987": {
+    "ai_title": "ChatGPT将植入广告",
+    "title_options": {
+      "conclusion": "ChatGPT将植入广告",
+      "attractive": "免费用户将看到广告",
+      "minimal": "ChatGPT广告上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T19:04:00.285870"
+  },
+  "zaihuapd_41875": {
+    "ai_title": "韩股开盘跌8.4%停交易",
+    "title_options": {
+      "conclusion": "韩股开盘跌8.4%停交易",
+      "attractive": "韩股暴跌8.4%触发熔断",
+      "minimal": "韩股开盘跌停",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T19:04:01.548621"
+  },
+  "xhqcankao_29986": {
+    "ai_title": "中国AI间谍活动增加",
+    "title_options": {
+      "conclusion": "中国AI间谍活动增加",
+      "attractive": "58%攻击瞄准AI",
+      "minimal": "中国AI间谍攻击",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T19:04:02.736214"
   }
 }
