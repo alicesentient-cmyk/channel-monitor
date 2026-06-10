@@ -1,6 +1,55 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29965",
+      "channel": "xhqcankao",
+      "text": "星链印度业务启动遭遇安全审查阻碍据知情人士透露，由于担忧星链卫星终端在伊朗战争中的使用情况，印度实际上已冻结了马斯克旗下卫星互联网服务星链在该国启动商业运营所需的审批。印度内政部下属安全机构尚未给予星链开展业务所需的最终许可。知情人士说，有报道称，尽管星链尚未获得伊朗运营许可，但其终端设备在中东冲突期间仍被使用，这加剧了新德里的这样一种担忧：在地缘政治紧张局势下，印度是否有能力有效约束一家总部位于美国的运营商。——彭博社、华尔街见闻",
+      "clean_text": "星链印度业务启动遭遇安全审查阻碍据知情人士透露，由于担忧星链卫星终端在伊朗战争中的使用情况，印度实际上已冻结了马斯克旗下卫星互联网服务星链在该国启动商业运营所需的审批。印度内政部下属安全机构尚未给予星链开展业务所需的最终许可。知情人士说，有报道称，尽管星链尚未获得伊朗运营许可，但其终端设备在中东冲突期间仍被使用，这加剧了新德里的这样一种担忧：在地缘政治紧张局势下，印度是否有能力有效约束一家总部位于美国的运营商。——彭博社、华尔街见闻",
+      "datetime": "2026-06-09T23:31:58+00:00",
+      "views": "725",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-09/starlink-india-launch-hits-security-roadblock-before-spacex-ipo"
+        },
+        {
+          "text": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3116870"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29965",
+      "scraped_at": "2026-06-10T08:00:21.121427",
+      "title": "星链印度业务遭安全审查",
+      "title_options": {
+        "conclusion": "星链印度业务遭安全审查",
+        "attractive": "星链终端涉伊朗战争",
+        "minimal": "星链印度审批受阻",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29964",
+      "channel": "xhqcankao",
+      "text": "Anthropic公司发布Mythos系列新模型Anthropic最新推出了一款新模型“Claude Fable 5”，作为“神话级”（Mythos-class）的一员，公司将其设计为可安全用于一般用途的模型。新闻稿写道，Fable 5的性能超越了公司以往所有公开发布的模型，在几乎所有AI性能基准测试中都处于领先水平，在软件工程、知识工作、视觉、科学研究以及许多其他领域都展现出卓越的性能。Anthropic指出，任务越长、越复杂，Fable 5模型相对于公司其他模型的优势就越明显。新闻稿援引Stripe的报告称，在早期测试中，Fable 5将数月的工程量压缩到了几天之内。——财联社",
+      "clean_text": "Anthropic公司发布Mythos系列新模型Anthropic最新推出了一款新模型“Claude Fable 5”，作为“神话级”（Mythos-class）的一员，公司将其设计为可安全用于一般用途的模型。新闻稿写道，Fable 5的性能超越了公司以往所有公开发布的模型，在几乎所有AI性能基准测试中都处于领先水平，在软件工程、知识工作、视觉、科学研究以及许多其他领域都展现出卓越的性能。Anthropic指出，任务越长、越复杂，Fable 5模型相对于公司其他模型的优势就越明显。新闻稿援引Stripe的报告称，在早期测试中，Fable 5将数月的工程量压缩到了几天之内。——财联社",
+      "datetime": "2026-06-09T23:04:02+00:00",
+      "views": "1.18K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2395360?sv=8.7.9&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29964",
+      "scraped_at": "2026-06-10T08:00:21.121031",
+      "title": "Anthropic发布Claude F…",
+      "title_options": {
+        "conclusion": "Anthropic发布Claude F…",
+        "attractive": "数月工程压缩至几天",
+        "minimal": "Claude Fable 5发布"
+      }
+    },
+    {
       "id": "zaihuapd_41860",
       "channel": "zaihuapd",
       "text": "Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有全球最强的网络安全能力。生物医学研究者也可通过信任计划在解除防护后使用。两款模型定价均为每百万输入 token 10 美元、输出 token 50 美元，不到 Mythos Preview 的一半。Fable 5 即日起全面上线，6 月 23 日前 Fable 5 将包含在 Pro、Max、Team 和企业版套餐中，无需额外付费，之后需凭积分或等候回归标准套餐。AnthropicAI·备用频道·",
@@ -1436,6 +1485,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-10T08:00:12.766411"
+  "count": 59,
+  "updated_at": "2026-06-10T08:05:17.602875"
 }
