@@ -3109,5 +3109,35 @@
       "minimal": "Claude Fable 5发布"
     },
     "generated_at": "2026-06-10T08:05:17.596180"
+  },
+  "zaihuapd_41863": {
+    "ai_title": "特朗普加密货币获利5740万",
+    "title_options": {
+      "conclusion": "特朗普加密货币获利5740万",
+      "attractive": "特朗普靠加密货币赚5740万",
+      "minimal": "特朗普 加密货币 5740万",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T09:05:58.870761"
+  },
+  "xhqcankao_29967": {
+    "ai_title": "摩根大通将部署长时AI智能体",
+    "title_options": {
+      "conclusion": "摩根大通将部署长时AI智能体",
+      "attractive": "AI智能体可自主运行数小时",
+      "minimal": "摩根大通AI智能体",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T09:06:00.182765"
+  },
+  "xhqcankao_29966": {
+    "ai_title": "通用汽车进军储能赛道",
+    "title_options": {
+      "conclusion": "通用汽车进军储能赛道",
+      "attractive": "通用联手黑马研发钠电池",
+      "minimal": "通用储能合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T09:06:01.282171"
   }
 }
