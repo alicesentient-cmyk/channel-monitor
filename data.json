@@ -1287,39 +1287,8 @@
         "attractive": "数月工程压缩至几天",
         "minimal": "Claude Fable 5发布"
       }
-    },
-    {
-      "id": "zaihuapd_41860",
-      "channel": "zaihuapd",
-      "text": "Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有全球最强的网络安全能力。生物医学研究者也可通过信任计划在解除防护后使用。两款模型定价均为每百万输入 token 10 美元、输出 token 50 美元，不到 Mythos Preview 的一半。Fable 5 即日起全面上线，6 月 23 日前 Fable 5 将包含在 Pro、Max、Team 和企业版套餐中，无需额外付费，之后需凭积分或等候回归标准套餐。AnthropicAI·备用频道·",
-      "clean_text": "🤖Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有全球最强的网络安全能力。生物医学研究者也可通过信任计划在解除防护后使用。两款模型定价均为每百万输入 token 10 美元、输出 token 50 美元，不到 Mythos Preview 的一半。Fable 5 即日起全面上线，6 月 23 日前 Fable 5 将包含在 Pro、Max、Team 和企业版套餐中，无需额外付费，之后需凭积分或等候回归标准套餐。AnthropicAI·备用频道",
-      "datetime": "2026-06-09T17:07:39+00:00",
-      "views": "3.03K",
-      "source_links": [
-        {
-          "text": "AnthropicAI",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41860",
-      "scraped_at": "2026-06-10T02:00:48.959449",
-      "title": "Anthropic发布Claude F…",
-      "title_options": {
-        "conclusion": "Anthropic发布Claude F…",
-        "attractive": "新模型价格减半性能顶尖",
-        "minimal": "Claude Fable 5与Myth…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-06-11T05:06:24.891211"
+  "count": 52,
+  "updated_at": "2026-06-11T05:10:18.273084"
 }
