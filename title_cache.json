@@ -3499,5 +3499,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T21:01:48.109809"
+  },
+  "xhqcankao_29994": {
+    "ai_title": "盖茨就爱泼斯坦案受质询",
+    "title_options": {
+      "conclusion": "盖茨就爱泼斯坦案受质询",
+      "attractive": "盖茨周三接受国会问询",
+      "minimal": "盖茨爱泼斯坦质询",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T22:03:15.488400"
+  },
+  "zaihuapd_41877": {
+    "ai_title": "豆包推专业版，日常免费",
+    "title_options": {
+      "conclusion": "豆包推专业版，日常免费",
+      "attractive": "专业版收费？日常免费",
+      "minimal": "豆包专业版",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T22:03:16.944057"
+  },
+  "xhqcankao_29993": {
+    "ai_title": "三星拟建光州封装厂",
+    "title_options": {
+      "conclusion": "三星拟建光州封装厂",
+      "attractive": "AI芯片需求催生新厂",
+      "minimal": "三星光州封装厂",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T22:03:18.278451"
+  },
+  "xhqcankao_29992": {
+    "ai_title": "比亚迪投20亿欧元建欧洲闪充网",
+    "title_options": {
+      "conclusion": "比亚迪投20亿欧元建欧洲闪充网",
+      "attractive": "5分钟闪充欧洲铺开需投20亿",
+      "minimal": "比亚迪欧洲闪充20亿欧元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T22:03:19.994829"
   }
 }
