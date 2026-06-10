@@ -3469,5 +3469,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T20:05:20.139482"
+  },
+  "zaihuapd_41876": {
+    "ai_title": "CS饰品交易征税引争议",
+    "title_options": {
+      "conclusion": "CS饰品交易征税引争议",
+      "attractive": "亏损不能抵扣仍需缴税",
+      "minimal": "CS饰品征税争议",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T21:01:45.182536"
+  },
+  "xhqcankao_29991": {
+    "ai_title": "美公布登月任务4名宇航员",
+    "title_options": {
+      "conclusion": "美公布登月任务4名宇航员",
+      "attractive": "意大利宇航员将登月",
+      "minimal": "阿耳忒弥斯3号宇航员",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T21:01:46.640412"
+  },
+  "xhqcankao_29990": {
+    "ai_title": "日本三大银行2026年发行稳定币",
+    "title_options": {
+      "conclusion": "日本三大银行2026年发行稳定币",
+      "attractive": "日本三大银行将共推稳定币",
+      "minimal": "日本三大银行发行稳定币",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T21:01:48.109809"
   }
 }
