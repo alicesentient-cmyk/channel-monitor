@@ -3319,5 +3319,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T15:03:34.004323"
+  },
+  "xhqcankao_29981": {
+    "ai_title": "JR东日本2027年停用磁条车票",
+    "title_options": {
+      "conclusion": "JR东日本2027年停用磁条车票",
+      "attractive": "二维码车票取代磁条车票",
+      "minimal": "JR东日本二维码车票",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T16:05:15.369408"
+  },
+  "zaihuapd_41871": {
+    "ai_title": "联想7月起全品类涨价",
+    "title_options": {
+      "conclusion": "联想7月起全品类涨价",
+      "attractive": "618后联想涨价，幅度持平",
+      "minimal": "联想7月涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T16:05:16.979114"
+  },
+  "xhqcankao_29980": {
+    "ai_title": "阿里批评钉钉管理方式",
+    "title_options": {
+      "conclusion": "阿里批评钉钉管理方式",
+      "attractive": "钉钉管理被批非阿里文化",
+      "minimal": "阿里批评钉钉管理",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T16:05:18.492139"
   }
 }
