@@ -1615,30 +1615,8 @@
         "minimal": "阿里百度比亚迪入列",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29928",
-      "channel": "xhqcankao",
-      "text": "WhatsApp称阻止了与NSO有关的黑客攻击WhatsApp表示其阻止了一个与 NSO Group 有关的新黑客活动，NSO Group 是一家间谍软件开发商，已被卷入全球无数起滥用案件中。这款即时通讯应开发商指责NSO违反了先前的一项法院命令，该命令禁止该公司用其间谍软件针对 WhatsApp 及其用户，并正寻求以蔑视法庭罪追究NSO的责任。这家Meta平台公司旗下的聊天应用周一宣布，在用户报告引发的调查之后，其发现并阻止了与 NSO 有关的鱼叉式网络钓鱼尝试。“他们试图诱骗人们点击恶意链接，以将他们引导到 WhatsApp之外的外部网站，”Meta公司写道。“我们还发现他们在 WhatsApp 上创建测试账户和群组，我们已将其删除。”——Techcrunch",
-      "clean_text": "WhatsApp称阻止了与NSO有关的黑客攻击WhatsApp表示其阻止了一个与 NSO Group 有关的新黑客活动，NSO Group 是一家间谍软件开发商，已被卷入全球无数起滥用案件中。这款即时通讯应开发商指责NSO违反了先前的一项法院命令，该命令禁止该公司用其间谍软件针对 WhatsApp 及其用户，并正寻求以蔑视法庭罪追究NSO的责任。这家Meta平台公司旗下的聊天应用周一宣布，在用户报告引发的调查之后，其发现并阻止了与 NSO 有关的鱼叉式网络钓鱼尝试。“他们试图诱骗人们点击恶意链接，以将他们引导到 WhatsApp之外的外部网站，”Meta公司写道。“我们还发现他们在 WhatsApp 上创建测试账户和群组，我们已将其删除。”——Techcrunch",
-      "datetime": "2026-06-09T00:34:54+00:00",
-      "views": "961",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29928",
-      "scraped_at": "2026-06-09T09:00:29.739582",
-      "title": "WhatsApp阻止NSO黑客攻击",
-      "title_options": {
-        "conclusion": "WhatsApp阻止NSO黑客攻击",
-        "attractive": "NSO再被曝攻击WhatsApp",
-        "minimal": "WhatsApp NSO 黑客"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-10T12:29:51.031811"
+  "count": 65,
+  "updated_at": "2026-06-10T12:34:54.725363"
 }
