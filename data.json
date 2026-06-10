@@ -1664,31 +1664,8 @@
         "attractive": "笔记工具能运行代码了",
         "minimal": "NotebookLM接入智能体"
       }
-    },
-    {
-      "id": "xhqcankao_29941",
-      "channel": "xhqcankao",
-      "text": "亚马逊允许用户使用 AI 设计定制商品周一，亚马逊公司推出了一项新功能，允许用户使用AI设计商品。该公司宣布，人们现在可以通过其购物应用中的 Alexa 功能，利用AI提示创建新产品。通过此举，任何人都可以将自己的创意转化为设计，并将其印制在从服装到马克杯等各种商品上，这些商品均可通过亚马逊的按需印刷服务 Merch on Demand 购买。亚马逊公司还表示，该服务适用于打印一次性设计，例如家庭聚会的 T 恤、个性化礼物，或制作以你爱犬肖像为特色的产品。该公司表示，在通过提示创建设计后，亚马逊将负责商品的生产和配送，并通过 Prime 会员服务进行配送。——Techcrunch",
-      "clean_text": "亚马逊允许用户使用 AI 设计定制商品周一，亚马逊公司推出了一项新功能，允许用户使用AI设计商品。该公司宣布，人们现在可以通过其购物应用中的 Alexa 功能，利用AI提示创建新产品。通过此举，任何人都可以将自己的创意转化为设计，并将其印制在从服装到马克杯等各种商品上，这些商品均可通过亚马逊的按需印刷服务 Merch on Demand 购买。亚马逊公司还表示，该服务适用于打印一次性设计，例如家庭聚会的 T 恤、个性化礼物，或制作以你爱犬肖像为特色的产品。该公司表示，在通过提示创建设计后，亚马逊将负责商品的生产和配送，并通过 Prime 会员服务进行配送。——Techcrunch",
-      "datetime": "2026-06-09T06:33:18+00:00",
-      "views": "4.57K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29941",
-      "scraped_at": "2026-06-09T19:01:03.070731",
-      "title": "亚马逊推AI设计商品",
-      "title_options": {
-        "conclusion": "亚马逊推AI设计商品",
-        "attractive": "用AI设计T恤马克杯",
-        "minimal": "AI设计商品",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-10T18:28:21.905020"
+  "count": 66,
+  "updated_at": "2026-06-10T18:33:27.442339"
 }
