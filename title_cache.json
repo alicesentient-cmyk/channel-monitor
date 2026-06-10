@@ -3229,5 +3229,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T12:04:20.611194"
+  },
+  "xhqcankao_29975": {
+    "ai_title": "台积电CFO称可能调涨芯片价",
+    "title_options": {
+      "conclusion": "台积电CFO称可能调涨芯片价",
+      "attractive": "芯片涨价或波及AI成本",
+      "minimal": "台积电 涨价 可能",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T13:05:38.272085"
+  },
+  "zaihuapd_41867": {
+    "ai_title": "Siri AI暂不登陆中欧",
+    "title_options": {
+      "conclusion": "Siri AI暂不登陆中欧",
+      "attractive": "苹果AI功能受限中欧",
+      "minimal": "Siri AI中欧缺席",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T13:05:39.322993"
+  },
+  "xhqcankao_29974": {
+    "ai_title": "Meta用商家数据个性化内容",
+    "title_options": {
+      "conclusion": "Meta用商家数据个性化内容",
+      "attractive": "你的购物数据正被Meta利用",
+      "minimal": "Meta数据个性化",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T13:05:40.320718"
   }
 }
