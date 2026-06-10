@@ -1702,34 +1702,8 @@
         "minimal": "APP跳转整治",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29942",
-      "channel": "xhqcankao",
-      "text": "NotebookLM接入Gemini 3.5和智能体谷歌为AI笔记与研究工具NotebookLM推送升级：底层模型更换为Gemini 3.5，并接入智能体Antigravity，使其能在笔记中运行代码、分析数据、生成图表和文件。这批功能目前先向谷歌AI Ultra用户和部分Workspace客户开放。NotebookLM应用原本最清晰的定位，是围绕用户上传或加入的资料回答问题、整理内容。它与通用聊天机器人最大的区别，是回答会尽量绑定到用户选定的来源上，适合拿来读报告、拆文档、整理采访材料或做研究笔记。这次升级后，不只能\"读懂材料\"。每个笔记本现在都配有一个安全的云端计算环境，可以编写和运行代码，用于完成更复杂的数据处理和研究分析。——新浪财经、Techcrunch",
-      "clean_text": "NotebookLM接入Gemini 3.5和智能体谷歌为AI笔记与研究工具NotebookLM推送升级：底层模型更换为Gemini 3.5，并接入智能体Antigravity，使其能在笔记中运行代码、分析数据、生成图表和文件。这批功能目前先向谷歌AI Ultra用户和部分Workspace客户开放。NotebookLM应用原本最清晰的定位，是围绕用户上传或加入的资料回答问题、整理内容。它与通用聊天机器人最大的区别，是回答会尽量绑定到用户选定的来源上，适合拿来读报告、拆文档、整理采访材料或做研究笔记。这次升级后，不只能\"读懂材料\"。每个笔记本现在都配有一个安全的云端计算环境，可以编写和运行代码，用于完成更复杂的数据处理和研究分析。——新浪财经、Techcrunch",
-      "datetime": "2026-06-09T07:04:12+00:00",
-      "views": "4.49K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://finance.sina.cn/stock/jdts/2026-06-09/detail-iniauefc5311198.d.html?vt=4&amp;cid=76993&amp;node_id=76993"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29942",
-      "scraped_at": "2026-06-09T19:01:03.071127",
-      "title": "NotebookLM升级Gemini …",
-      "title_options": {
-        "conclusion": "NotebookLM升级Gemini …",
-        "attractive": "笔记工具能运行代码了",
-        "minimal": "NotebookLM接入智能体"
-      }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-10T19:04:02.743359"
+  "count": 68,
+  "updated_at": "2026-06-10T19:09:10.406348"
 }
