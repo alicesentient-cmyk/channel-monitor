@@ -3139,5 +3139,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T09:06:01.282171"
+  },
+  "zaihuapd_41864": {
+    "ai_title": "SpaceX 135美元定价IPO",
+    "title_options": {
+      "conclusion": "SpaceX 135美元定价IPO",
+      "attractive": "史上最大IPO筹资750亿",
+      "minimal": "SpaceX IPO 135美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T10:01:58.022439"
+  },
+  "xhqcankao_29969": {
+    "ai_title": "小马智行卢森堡测试",
+    "title_options": {
+      "conclusion": "小马智行卢森堡测试",
+      "attractive": "Robotaxi欧洲首测",
+      "minimal": "小马智行卢森堡",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T10:01:59.090112"
+  },
+  "xhqcankao_29968": {
+    "ai_title": "Telegram推出原生Apple W…",
+    "title_options": {
+      "conclusion": "Telegram推出原生Apple W…",
+      "attractive": "Apple Watch可回复Teleg…",
+      "minimal": "Telegram Apple Watc…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T10:02:00.242558"
   }
 }
