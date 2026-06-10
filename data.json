@@ -1318,31 +1318,8 @@
         "minimal": "Claude Fable 5与Myth…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29963",
-      "channel": "xhqcankao",
-      "text": "xAI聘请Starlink高管来管理Grok训练团队根据彭博新闻社看到的一份内部通知，埃隆·马斯克旗下的xAI已从SpaceX的Starlink卫星互联网服务调来一位高管，来管理训练其Grok聊天机器人的团队，替换了工程师迭戈·帕西尼。这份周一的通知称，自2021年起在SpaceX工作的Starlink工程师杰克·加拉贝迪安将接管xAI的人力数据团队，该团队包括数百名在从金融到科学等各种学科上训练Grok的专家。他将接替帕西尼，帕西尼已在xAI工作了一年半，他的领英个人资料显示，他的教育背景是宾夕法尼亚大学。自SpaceX收购该公司以来，马斯克的人工智能初创公司过去几个月一直面临人员离职和管理层变动。——彭博社",
-      "clean_text": "xAI聘请Starlink高管来管理Grok训练团队根据彭博新闻社看到的一份内部通知，埃隆·马斯克旗下的xAI已从SpaceX的Starlink卫星互联网服务调来一位高管，来管理训练其Grok聊天机器人的团队，替换了工程师迭戈·帕西尼。这份周一的通知称，自2021年起在SpaceX工作的Starlink工程师杰克·加拉贝迪安将接管xAI的人力数据团队，该团队包括数百名在从金融到科学等各种学科上训练Grok的专家。他将接替帕西尼，帕西尼已在xAI工作了一年半，他的领英个人资料显示，他的教育背景是宾夕法尼亚大学。自SpaceX收购该公司以来，马斯克的人工智能初创公司过去几个月一直面临人员离职和管理层变动。——彭博社",
-      "datetime": "2026-06-09T17:01:48+00:00",
-      "views": "1.11K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/musk-s-xai-taps-starlink-staffer-to-run-grok-training-team"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29963",
-      "scraped_at": "2026-06-10T02:00:51.031481",
-      "title": "xAI换帅，Starlink高管接管G…",
-      "title_options": {
-        "conclusion": "xAI换帅，Starlink高管接管G…",
-        "attractive": "Starlink高管空降xAI，Gro…",
-        "minimal": "xAI Starlink高管 Grok…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-11T05:01:21.167434"
+  "count": 53,
+  "updated_at": "2026-06-11T05:06:24.891211"
 }
