@@ -1618,31 +1618,8 @@
         "minimal": "奥尔特曼裁员",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29935",
-      "channel": "xhqcankao",
-      "text": "微软公司的开源工具被植入恶意窃密代码微软已经切断了对其托管在GitHub上的数十个开源项目的访问，因为公司正在调查黑客是如何明显入侵这些项目并将窃取密码的恶意软件注入代码中的。许多受影响的项目涉及微软云服务 Azure 及开发者配合 Claude Code、Gemini的命令行界面以及VS Code 等AI开发应用进行编程所使用的其他工具相关。根据安全公司Cloudsmith和恶意软件分析网站 OpenSourceMalware，当用户在AI编程应用中打开被入侵的工具时，该恶意软件使黑客能够窃取用户的密码和其他敏感凭证。目前尚不清楚有多少人下载了受影响的工具。微软确认已撤下这些仓库。——Techcrunch",
-      "clean_text": "微软公司的开源工具被植入恶意窃密代码微软已经切断了对其托管在GitHub上的数十个开源项目的访问，因为公司正在调查黑客是如何明显入侵这些项目并将窃取密码的恶意软件注入代码中的。许多受影响的项目涉及微软云服务 Azure 及开发者配合 Claude Code、Gemini的命令行界面以及VS Code 等AI开发应用进行编程所使用的其他工具相关。根据安全公司Cloudsmith和恶意软件分析网站 OpenSourceMalware，当用户在AI编程应用中打开被入侵的工具时，该恶意软件使黑客能够窃取用户的密码和其他敏感凭证。目前尚不清楚有多少人下载了受影响的工具。微软确认已撤下这些仓库。——Techcrunch",
-      "datetime": "2026-06-09T03:32:07+00:00",
-      "views": "5.89K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29935",
-      "scraped_at": "2026-06-09T19:01:03.068290",
-      "title": "微软开源工具被植入窃密代码",
-      "title_options": {
-        "conclusion": "微软开源工具被植入窃密代码",
-        "attractive": "AI编程工具暗藏密码窃取",
-        "minimal": "微软开源工具遭入侵",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-10T15:29:11.851776"
+  "count": 64,
+  "updated_at": "2026-06-10T15:34:19.062803"
 }
