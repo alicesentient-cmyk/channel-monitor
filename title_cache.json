@@ -3349,5 +3349,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T16:05:18.492139"
+  },
+  "zaihuapd_41873": {
+    "ai_title": "前5月个税收入增12%",
+    "title_options": {
+      "conclusion": "前5月个税收入增12%",
+      "attractive": "境外补税超130亿",
+      "minimal": "个税增12% 境外补税130亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T17:01:38.778412"
+  },
+  "xhqcankao_29983": {
+    "ai_title": "全球核弹头12187枚",
+    "title_options": {
+      "conclusion": "全球核弹头12187枚",
+      "attractive": "现役核弹头增130枚",
+      "minimal": "核弹头12187枚",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T17:01:39.811797"
+  },
+  "zaihuapd_41872": {
+    "ai_title": "MacBook Neo 2内存升至12…",
+    "title_options": {
+      "conclusion": "MacBook Neo 2内存升至12…",
+      "attractive": "12GB内存可运行最强AI",
+      "minimal": "MacBook Neo 2 12GB",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T17:01:41.046043"
+  },
+  "xhqcankao_29982": {
+    "ai_title": "小鹏进军游艇领域",
+    "title_options": {
+      "conclusion": "小鹏进军游艇领域",
+      "attractive": "小鹏造游艇，底盘算法",
+      "minimal": "小鹏游艇研发",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T17:01:42.411372"
   }
 }
