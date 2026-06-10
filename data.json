@@ -1641,43 +1641,8 @@
         "minimal": "微软开源工具遭入侵",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41845",
-      "channel": "zaihuapd",
-      "text": "小米发布 1T 参数 MiMo-V2.5-Pro-UltraSpeed，推理速度达 1000 tokens/s小米发布 MiMo-V2.5-Pro-UltraSpeed，在 1T 参数规模下首次实现 1000 tokens/s 的推理速度。该版本与 TileRT 深度合作，通过 FP4 混合精度量化和 DFlash 推测解码等技术在通用 GPU 上达成超高吞吐量；API 限时试用价约为标准版 MiMo-V2.5-Pro 的 3 倍，速度提升约 10 倍。限时试用期为 6 月 9 日至 23 日，采用申请审批制，每日限排队 10 次、单次最多 30 分钟，优先面向企业用户开放。小米指出，这一速度让万亿参数模型能够进入量化交易、实时风控等对延迟极度敏感的决策场景。platform.xiaomimimo.com|mimo.xiaomi.com·备用频道·",
-      "clean_text": "小米发布 1T 参数 MiMo-V2.5-Pro-UltraSpeed，推理速度达 1000 tokens/s小米发布 MiMo-V2.5-Pro-UltraSpeed，在 1T 参数规模下首次实现 1000 tokens/s 的推理速度。该版本与 TileRT 深度合作，通过 FP4 混合精度量化和 DFlash 推测解码等技术在通用 GPU 上达成超高吞吐量；API 限时试用价约为标准版 MiMo-V2.5-Pro 的 3 倍，速度提升约 10 倍。限时试用期为 6 月 9 日至 23 日，采用申请审批制，每日限排队 10 次、单次最多 30 分钟，优先面向企业用户开放。小米指出，这一速度让万亿参数模型能够进入量化交易、实时风控等对延迟极度敏感的决策场景。platform.xiaomimimo.com|mimo.xiaomi.com·备用频道",
-      "datetime": "2026-06-09T03:26:34+00:00",
-      "views": "15.4K",
-      "source_links": [
-        {
-          "text": "platform.xiaomimimo.com",
-          "url": "https://platform.xiaomimimo.com/docs/en-US/model-intro/mimo-v2.5-pro-ultraspeed"
-        },
-        {
-          "text": "mimo.xiaomi.com",
-          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41845",
-      "scraped_at": "2026-06-09T19:01:01.815188",
-      "title": "小米1T模型推理达1000t/s",
-      "title_options": {
-        "conclusion": "小米1T模型推理达1000t/s",
-        "attractive": "推理快10倍，价格贵3倍",
-        "minimal": "MiMo-V2.5 1T 1000t/s",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-10T15:24:03.394318"
+  "count": 65,
+  "updated_at": "2026-06-10T15:29:11.851776"
 }
