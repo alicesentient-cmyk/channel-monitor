@@ -3389,5 +3389,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T17:01:42.411372"
+  },
+  "zaihuapd_41874": {
+    "ai_title": "港金管局新增三项监管",
+    "title_options": {
+      "conclusion": "港金管局新增三项监管",
+      "attractive": "开户核查倒查至2023年",
+      "minimal": "港金管局监管新增",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T18:02:49.492147"
+  },
+  "xhqcankao_29985": {
+    "ai_title": "阿斯麦CEO警告欧盟勿干预芯片供应",
+    "title_options": {
+      "conclusion": "阿斯麦CEO警告欧盟勿干预芯片供应",
+      "attractive": "阿斯麦亚洲销售占八成，欧盟干预难",
+      "minimal": "阿斯麦CEO警告欧盟",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T18:02:50.684603"
+  },
+  "xhqcankao_29984": {
+    "ai_title": "欧盟令Meta开放WhatsApp",
+    "title_options": {
+      "conclusion": "欧盟令Meta开放WhatsApp",
+      "attractive": "WhatsApp被迫开放AI竞争",
+      "minimal": "欧盟 Meta WhatsApp 开放",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T18:02:51.834129"
   }
 }
