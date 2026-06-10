@@ -1637,39 +1637,8 @@
         "attractive": "NSO再被曝攻击WhatsApp",
         "minimal": "WhatsApp NSO 黑客"
       }
-    },
-    {
-      "id": "zaihuapd_41842",
-      "channel": "zaihuapd",
-      "text": "美国德州农民捐地约定建公园，被当地政府千万美元转卖建数据中心1999 年，美国德州泰勒市一位农民以 10 美元将 87 英亩（39.25 公顷）土地捐给公共机构，地契明确要求留作公园用地。此后土地几经易手，最终于 2025 年被当地经济发展公司以 1000 万美元卖给数据中心开发商，附近居民直到计划公布才知情。居民以原始地契条款为由反对建设，担心环境、噪音及房价受影响，并已提起法律诉讼。前期诉讼开发商获胜，居民正筹备向第三上诉法院上诉。市政府称该地块属于就业中心分区，难以阻止开发，但预计十年内可为地方带来约 3000 万美元税收。Tom's Hardware·备用频道·",
-      "clean_text": "美国德州农民捐地约定建公园，被当地政府千万美元转卖建数据中心1999 年，美国德州泰勒市一位农民以 10 美元将 87 英亩（39.25 公顷）土地捐给公共机构，地契明确要求留作公园用地。此后土地几经易手，最终于 2025 年被当地经济发展公司以 1000 万美元卖给数据中心开发商，附近居民直到计划公布才知情。居民以原始地契条款为由反对建设，担心环境、噪音及房价受影响，并已提起法律诉讼。前期诉讼开发商获胜，居民正筹备向第三上诉法院上诉。市政府称该地块属于就业中心分区，难以阻止开发，但预计十年内可为地方带来约 3000 万美元税收。Tom's Hardware·备用频道",
-      "datetime": "2026-06-09T00:17:08+00:00",
-      "views": "3.24K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41842",
-      "scraped_at": "2026-06-09T09:00:28.177228",
-      "title": "德州捐地建公园被转卖",
-      "title_options": {
-        "conclusion": "德州捐地建公园被转卖",
-        "attractive": "捐地建公园被卖千万",
-        "minimal": "捐地转卖建数据中心",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-10T12:14:33.499022"
+  "count": 66,
+  "updated_at": "2026-06-10T12:19:38.922819"
 }
