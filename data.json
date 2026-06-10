@@ -1561,31 +1561,8 @@
         "minimal": "朱雀二号 双星 发射",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29957",
-      "channel": "xhqcankao",
-      "text": "苹果iOS 27暗藏玄机？适配折叠机代码首现苹果在WWDC2026全球开发者大会上正式推送iOS 27首个开发者测试版及配套软件更新。新版系统底层代码与开发规则中，暗藏苹果折叠机线索。软件开发者在系统的隐藏文件中，发现了可判定设备处于折叠或展开状态的代码——iOS 27框架中首次出现fold State（折叠状态）、mechanical Angle Degrees（机械角度）、angle Degrees (角度）等专属代码字段，显示新系统可实时识别设备闭合、完全展开、半折叠等形态，意味着这一新系统可适配折叠形态设备。同时新系统出现了iPhone屏幕维修工具的新版相关标识。该工具提及第二块屏幕、第二层保护玻璃以及两枚额外的光线传感器。——财联社",
-      "clean_text": "苹果iOS 27暗藏玄机？适配折叠机代码首现苹果在WWDC2026全球开发者大会上正式推送iOS 27首个开发者测试版及配套软件更新。新版系统底层代码与开发规则中，暗藏苹果折叠机线索。软件开发者在系统的隐藏文件中，发现了可判定设备处于折叠或展开状态的代码——iOS 27框架中首次出现fold State（折叠状态）、mechanical Angle Degrees（机械角度）、angle Degrees (角度）等专属代码字段，显示新系统可实时识别设备闭合、完全展开、半折叠等形态，意味着这一新系统可适配折叠形态设备。同时新系统出现了iPhone屏幕维修工具的新版相关标识。该工具提及第二块屏幕、第二层保护玻璃以及两枚额外的光线传感器。——财联社",
-      "datetime": "2026-06-09T14:02:50+00:00",
-      "views": "2.49K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2394830?sv=8.5.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29957",
-      "scraped_at": "2026-06-09T23:00:42.268718",
-      "title": "iOS 27适配折叠机",
-      "title_options": {
-        "conclusion": "iOS 27适配折叠机",
-        "attractive": "折叠机代码首现",
-        "minimal": "iOS 27折叠机",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-11T01:58:58.285311"
+  "count": 62,
+  "updated_at": "2026-06-11T02:04:03.182478"
 }
