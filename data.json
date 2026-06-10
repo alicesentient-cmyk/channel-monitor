@@ -1623,43 +1623,8 @@
         "minimal": "斯里兰卡诈骗据点",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41851",
-      "channel": "zaihuapd",
-      "text": "中国拟五年投入 2 万亿元建设全国算力网络中国正计划未来五年投入约 2 万亿元（2950 亿美元），在全国建设互联数据中心网络，由国有电信企业运营主要设施。该计划拟优先采用华为等本土供应商的 AI 芯片与技术，占比至少八成，以减少对英伟达、AMD 等美企的依赖。这是北京\"六网\"基础设施计划的关键一环，旨在将分散的区域算力资源整合为统一网络，让企业和公共部门更易获得高性能计算。目前中国电信、联通等已推出 token 套餐，把算力像移动数据一样打包销售，为大规模 AI 应用铺路。South China Morning Post|Bloomberg·备用频道·",
-      "clean_text": "中国拟五年投入 2 万亿元建设全国算力网络中国正计划未来五年投入约 2 万亿元（2950 亿美元），在全国建设互联数据中心网络，由国有电信企业运营主要设施。该计划拟优先采用华为等本土供应商的 AI 芯片与技术，占比至少八成，以减少对英伟达、AMD 等美企的依赖。这是北京\"六网\"基础设施计划的关键一环，旨在将分散的区域算力资源整合为统一网络，让企业和公共部门更易获得高性能计算。目前中国电信、联通等已推出 token 套餐，把算力像移动数据一样打包销售，为大规模 AI 应用铺路。South China Morning Post|Bloomberg·备用频道",
-      "datetime": "2026-06-09T10:09:21+00:00",
-      "views": "4.7K",
-      "source_links": [
-        {
-          "text": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/big-tech/article/3353891/china-ramps-building-national-computing-power-network-ai-token-demand-surges"
-        },
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41851",
-      "scraped_at": "2026-06-09T19:01:01.818521",
-      "title": "中国拟投2万亿建算力网",
-      "title_options": {
-        "conclusion": "中国拟投2万亿建算力网",
-        "attractive": "算力像流量一样卖",
-        "minimal": "2万亿算力网络",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-10T22:08:30.101815"
+  "count": 66,
+  "updated_at": "2026-06-10T22:10:52.169927"
 }
