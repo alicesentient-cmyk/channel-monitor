@@ -3199,5 +3199,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T11:03:06.296467"
+  },
+  "xhqcankao_29973": {
+    "ai_title": "白宫收紧AI测试管制",
+    "title_options": {
+      "conclusion": "白宫收紧AI测试管制",
+      "attractive": "AI报告被叫停",
+      "minimal": "白宫AI测试管制",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T12:04:18.051584"
+  },
+  "zaihuapd_41866": {
+    "ai_title": "Codex每日选用户赠10倍额度",
+    "title_options": {
+      "conclusion": "Codex每日选用户赠10倍额度",
+      "attractive": "10倍额度连送100天",
+      "minimal": "Codex 100天赠额度",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T12:04:19.163038"
+  },
+  "xhqcankao_29972": {
+    "ai_title": "CISA限令修补漏洞",
+    "title_options": {
+      "conclusion": "CISA限令修补漏洞",
+      "attractive": "勒索软件利用安全漏洞",
+      "minimal": "CISA漏洞修补令",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T12:04:20.611194"
   }
 }
