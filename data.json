@@ -1646,38 +1646,8 @@
         "minimal": "Meta劳动力学院",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41847",
-      "channel": "zaihuapd",
-      "text": "Z-Library 推出白标镜像功能，用户可自建品牌化登录分站Z-Library 推出白标镜像功能，允许用户自建带独立品牌的分站，并可设为仅限登录访问。这类镜像不显示 Z-Library 标识，配合密码保护后更难被版权方识别和封锁。镜像运营者可获得 20% 的捐赠分成，以加密货币支付。同时 Z-Library 还提供离线域名列表文件，让用户在本地保存所有访问入口，以应对可能的全面封禁。目前美国针对两名运营者的刑事诉讼已停滞超过两年，两人自 2024 年逃离软禁后仍下落不明。Torrentfreak·备用频道·",
-      "clean_text": "Z-Library 推出白标镜像功能，用户可自建品牌化登录分站Z-Library 推出白标镜像功能，允许用户自建带独立品牌的分站，并可设为仅限登录访问。这类镜像不显示 Z-Library 标识，配合密码保护后更难被版权方识别和封锁。镜像运营者可获得 20% 的捐赠分成，以加密货币支付。同时 Z-Library 还提供离线域名列表文件，让用户在本地保存所有访问入口，以应对可能的全面封禁。目前美国针对两名运营者的刑事诉讼已停滞超过两年，两人自 2024 年逃离软禁后仍下落不明。Torrentfreak·备用频道",
-      "datetime": "2026-06-09T05:55:47+00:00",
-      "views": "13.1K",
-      "source_links": [
-        {
-          "text": "Torrentfreak",
-          "url": "https://torrentfreak.com/z-library-lets-people-run-white-label-login-only-pirate-mirrors/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41847",
-      "scraped_at": "2026-06-09T19:01:01.816329",
-      "title": "Z-Library推白标镜像",
-      "title_options": {
-        "conclusion": "Z-Library推白标镜像",
-        "attractive": "自建分站获20%分成",
-        "minimal": "白标镜像 自建分站"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-10T17:52:37.580330"
+  "count": 65,
+  "updated_at": "2026-06-10T17:57:43.104849"
 }
