@@ -1617,43 +1617,8 @@
         "minimal": "摇一摇误导跳转整顿",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41849",
-      "channel": "zaihuapd",
-      "text": "小鹏被曝正与大众洽谈收购欧洲工厂小鹏汽车正在与大众汽车等车企洽谈，欲在欧洲收购一座工厂以扩大本地生产。小鹏汽车欧洲区总经理透露，公司也在考虑自建新厂，因为现有部分工厂较旧，未必能满足其最新及未来产品的要求。大众正因欧洲市场需求疲软而着手削减过剩产能，其 CEO 此前曾表示，可让中国合作伙伴利用这些闲置产能。小鹏目前在奥地利由麦格纳斯太尔代工，但产线已接近饱和。公司发言人称，欧洲制造计划尚未正式敲定。Financial Times|Reuters·备用频道·",
-      "clean_text": "小鹏被曝正与大众洽谈收购欧洲工厂小鹏汽车正在与大众汽车等车企洽谈，欲在欧洲收购一座工厂以扩大本地生产。小鹏汽车欧洲区总经理透露，公司也在考虑自建新厂，因为现有部分工厂较旧，未必能满足其最新及未来产品的要求。大众正因欧洲市场需求疲软而着手削减过剩产能，其 CEO 此前曾表示，可让中国合作伙伴利用这些闲置产能。小鹏目前在奥地利由麦格纳斯太尔代工，但产线已接近饱和。公司发言人称，欧洲制造计划尚未正式敲定。Financial Times|Reuters·备用频道",
-      "datetime": "2026-06-09T08:33:03+00:00",
-      "views": "9.21K",
-      "source_links": [
-        {
-          "text": "Financial Times",
-          "url": "https://www.ft.com/content/c2586266-b18d-49c2-99b6-e151eec312f1?syn-25a6b1a6=1"
-        },
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/world/china/chinese-ev-startup-xpeng-talks-with-volkswagen-buy-european-factory-ft-reports-2026-05-13/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41849",
-      "scraped_at": "2026-06-09T19:01:01.817452",
-      "title": "小鹏洽谈收购大众欧洲工厂",
-      "title_options": {
-        "conclusion": "小鹏洽谈收购大众欧洲工厂",
-        "attractive": "小鹏或接手大众欧洲闲置产能",
-        "minimal": "小鹏大众欧洲工厂收购",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-10T20:30:56.234243"
+  "count": 65,
+  "updated_at": "2026-06-10T20:36:05.602219"
 }
