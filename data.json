@@ -1638,26 +1638,8 @@
         "attractive": "伦敦无人出租车候补名单开放",
         "minimal": "优步Wayve自动驾驶候补"
       }
-    },
-    {
-      "id": "zaihuapd_41843",
-      "channel": "zaihuapd",
-      "text": "Anthropic 向 SEC 秘密提交 IPO 草案  Anthropic 已向美国证券交易委员会秘密提交 S-1 注册草案，为可能的首次公开募股做准备。公司表示，最终是否上市将取决于市场状况等因素，目前发行股数与价格均未确定。  这家 AI 公司近期刚完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元，并推出了 Claude Opus 4.8 模型，业务持续扩张。  Anthropic · 备用频道 ·",
-      "clean_text": "Anthropic 向 SEC 秘密提交 IPO 草案  Anthropic 已向美国证券交易委员会秘密提交 S-1 注册草案，为可能的首次公开募股做准备。公司表示，最终是否上市将取决于市场状况等因素，目前发行股数与价格均未确定。  这家 AI 公司近期刚完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元，并推出了 Claude Opus 4.8 模型，业务持续扩张。  Anthropic · 备用频道 · 投稿通道",
-      "datetime": "2026-06-09T01:10:51+00:00",
-      "views": "4.13K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41843",
-      "scraped_at": "2026-06-09T10:01:04.005465",
-      "title": "Anthropic秘密提交IPO草案",
-      "title_options": {
-        "conclusion": "Anthropic秘密提交IPO草案",
-        "attractive": "Anthropic估值9650亿拟上市",
-        "minimal": "Anthropic提交IPO",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-10T13:10:49.140293"
+  "count": 66,
+  "updated_at": "2026-06-10T13:15:53.958293"
 }
