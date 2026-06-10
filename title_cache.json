@@ -3289,5 +3289,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-10T14:02:02.782174"
+  },
+  "xhqcankao_29979": {
+    "ai_title": "美拟禁联通恐扰全球通信",
+    "title_options": {
+      "conclusion": "美拟禁联通恐扰全球通信",
+      "attractive": "禁令或割裂全球通信网",
+      "minimal": "美禁令 联通警告",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T15:03:31.417061"
+  },
+  "zaihuapd_41870": {
+    "ai_title": "Siri提示词泄露超1300行",
+    "title_options": {
+      "conclusion": "Siri提示词泄露超1300行",
+      "attractive": "Siri指令泄露22000Token",
+      "minimal": "Siri提示词泄露",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T15:03:32.699240"
+  },
+  "xhqcankao_29978": {
+    "ai_title": "谷歌发布Gemini 3.5实时翻译",
+    "title_options": {
+      "conclusion": "谷歌发布Gemini 3.5实时翻译",
+      "attractive": "谷歌翻译免费升级70种语言",
+      "minimal": "Gemini 3.5语音翻译上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-10T15:03:34.004323"
   }
 }

@@ -1,6 +1,99 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_29979",
+      "channel": "xhqcankao",
+      "text": "美拟议电信禁令 中国联通警告恐扰乱全球通信中国联通美国分公司警告称，美国政府拟禁止美国电信运营商与被视为 “国家安全风险” 的中国电信企业互联互通，此项提议恐将对全球通信网络造成严重破坏。中国联通周二提交美国联邦通讯委员会FCC的一份文件中表示，该禁令将“对在中国拥有重大商业和供应链利益的美国公司造成伤害”。FCC此前提议以国家安全风险为由，禁止美国本土及其他在美运营的电信企业与中国联通、中国移动、中国电信等中资公司进行互联。中国联通对此表示，中资电信运营商共同构成了中美这两个全球最大经济体之间通讯流量的主要网关。全面切断与这些实体的互联，将从根本上割裂全球通信网络的关键一环。—— 台湾工商时报、路透社",
+      "clean_text": "美拟议电信禁令 中国联通警告恐扰乱全球通信中国联通美国分公司警告称，美国政府拟禁止美国电信运营商与被视为 “国家安全风险” 的中国电信企业互联互通，此项提议恐将对全球通信网络造成严重破坏。中国联通周二提交美国联邦通讯委员会FCC的一份文件中表示，该禁令将“对在中国拥有重大商业和供应链利益的美国公司造成伤害”。FCC此前提议以国家安全风险为由，禁止美国本土及其他在美运营的电信企业与中国联通、中国移动、中国电信等中资公司进行互联。中国联通对此表示，中资电信运营商共同构成了中美这两个全球最大经济体之间通讯流量的主要网关。全面切断与这些实体的互联，将从根本上割裂全球通信网络的关键一环。—— 台湾工商时报、路透社",
+      "datetime": "2026-06-10T06:31:46+00:00",
+      "views": "1.48K",
+      "source_links": [
+        {
+          "text": "工商时报",
+          "url": "https://www.ctee.com.tw/news/20260610700783-430701"
+        },
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/business/media-telecom/china-unicom-warns-planned-us-crackdown-could-disrupt-global-communications-2026-06-09/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29979",
+      "scraped_at": "2026-06-10T15:01:15.128016",
+      "title": "美拟禁联通恐扰全球通信",
+      "title_options": {
+        "conclusion": "美拟禁联通恐扰全球通信",
+        "attractive": "禁令或割裂全球通信网",
+        "minimal": "美禁令 联通警告",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41870",
+      "channel": "zaihuapd",
+      "text": "iOS 27 测试版中的 Siri AI 系统提示词泄露，超过 1300 行iOS 27 开发者预览版中，有用户在 Siri 反馈错误报告的诊断文件里发现完整 LLM 指令。相关内容随后被整理到 Gist，提示词超过 1300 行，约 22000 个 Token。这些指令把 Siri 定义为苹果设计的智能助手，要求它先思考再调用工具，优先使用设备和搜索返回的结构化信息；遇到缺失信息、歧义或无法完成的任务时，要询问用户或明确说明，不能自行编造。reddit|Gist（提示词全文）|蓝点网·备用频道·",
+      "clean_text": "iOS 27 测试版中的 Siri AI 系统提示词泄露，超过 1300 行iOS 27 开发者预览版中，有用户在 Siri 反馈错误报告的诊断文件里发现完整 LLM 指令。相关内容随后被整理到 Gist，提示词超过 1300 行，约 22000 个 Token。这些指令把 Siri 定义为苹果设计的智能助手，要求它先思考再调用工具，优先使用设备和搜索返回的结构化信息；遇到缺失信息、歧义或无法完成的任务时，要询问用户或明确说明，不能自行编造。reddit|Gist（提示词全文）|蓝点网·备用频道",
+      "datetime": "2026-06-10T06:30:00+00:00",
+      "views": "3.91K",
+      "source_links": [
+        {
+          "text": "reddit",
+          "url": "https://www.reddit.com/r/iOSBeta/comments/1u0kn3h/ios_27_db_1_siris_feedback_error_reporting_gives/"
+        },
+        {
+          "text": "Gist（提示词全文）",
+          "url": "https://gist.github.com/julianschiavo/2da270868175f0a52e423340c30a30b6"
+        },
+        {
+          "text": "蓝点网",
+          "url": "https://www.landian.news/archives/113383.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41870",
+      "scraped_at": "2026-06-10T15:01:12.992756",
+      "title": "Siri提示词泄露超1300行",
+      "title_options": {
+        "conclusion": "Siri提示词泄露超1300行",
+        "attractive": "Siri指令泄露22000Token",
+        "minimal": "Siri提示词泄露",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_29978",
+      "channel": "xhqcankao",
+      "text": "谷歌发布Gemini 3.5实时语音翻译模型谷歌人工智能团队日前发布Gemini 3.5 Live Translate实时翻译模型，这是谷歌最新的实时语音翻译模型，该模型支持超过70种语言并可以生成流畅自然的翻译语音，翻译时还会保留说话者的语调、语速和音高，尽可能让对话者体验到非常自然的多语言实时语音翻译。这个实时语音翻译模型还能持续生成语音，在等待上下文信息提升翻译质量和立即翻译之间保持平衡，实现流畅的音频输出避免尴尬的停顿。谷歌翻译 iOS 版和安卓版立即上线Gemini 3.5实时语音翻译模型，用户可以在谷歌翻译里免费使用。开发者可以通过 Gemini Live API 和 Google AI Studio 调用该模型进行体验。——蓝点网、Androidauthority",
+      "clean_text": "谷歌发布Gemini 3.5实时语音翻译模型谷歌人工智能团队日前发布Gemini 3.5 Live Translate实时翻译模型，这是谷歌最新的实时语音翻译模型，该模型支持超过70种语言并可以生成流畅自然的翻译语音，翻译时还会保留说话者的语调、语速和音高，尽可能让对话者体验到非常自然的多语言实时语音翻译。这个实时语音翻译模型还能持续生成语音，在等待上下文信息提升翻译质量和立即翻译之间保持平衡，实现流畅的音频输出避免尴尬的停顿。谷歌翻译 iOS 版和安卓版立即上线Gemini 3.5实时语音翻译模型，用户可以在谷歌翻译里免费使用。开发者可以通过 Gemini Live API 和 Google AI Studio 调用该模型进行体验。——蓝点网、Androidauthority",
+      "datetime": "2026-06-10T06:03:43+00:00",
+      "views": "2.37K",
+      "source_links": [
+        {
+          "text": "蓝点网",
+          "url": "https://www.landian.news/archives/113384.html?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=share&amp;utm_content=landiansub&amp;utm_term=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini+3.5%E5%AE%9E%E6%97%B6%E8%AF%AD%E9%9F%B3%E7%BF%BB%E8%AF%91%E6%A8%A1%E5%9E%8B+%E5%B7%B2%E5%9C%A8%E5%AE%89%E5%8D%93%E5%92%8CiOS%E7%89%88%E8%B0%B7%E6%AD%8C%E7%BF%BB%E8%AF%91%E4%B8%AD%E4%B8%8A%E7%BA%BF+%E4%B9%9F%E6%8F%90%E4%BE%9BAPI#google_vignette"
+        },
+        {
+          "text": "Androidauthority",
+          "url": "https://www.androidauthority.com/google-translate-meet-live-translation-3676026/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/29978",
+      "scraped_at": "2026-06-10T15:01:15.127594",
+      "title": "谷歌发布Gemini 3.5实时翻译",
+      "title_options": {
+        "conclusion": "谷歌发布Gemini 3.5实时翻译",
+        "attractive": "谷歌翻译免费升级70种语言",
+        "minimal": "Gemini 3.5语音翻译上线",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41869",
       "channel": "zaihuapd",
       "text": "Codex 现已支持邀请好友重置速率限制Codex 用户发现，邀请朋友加入 Codex 即可获得速率限制重置。Sotiris Kaniras(@CastAsHuman)·备用频道·",
@@ -1583,31 +1676,8 @@
         "minimal": "MiMo-V2.5 1T 1000t/s",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29934",
-      "channel": "xhqcankao",
-      "text": "谷歌Waymo收购原苹果自动驾驶测试场自动驾驶企业 Waymo 近日完成一笔重要资产收购。根据公开文件显示，Waymo以2.2亿美元收购了位于美国亚利桑那州的一处大型自动驾驶测试场地，而这块资产此前归属于与苹果公司相关的投资实体。相关交易已于6月5日完成登记，谷歌 Waymo 方面也确认了此次收购消息。资料显示，这座测试基地占地约 5,500 英亩，是美国规模最大的自动驾驶测试场之一。园区内拥有约 115英亩的模拟城市道路区域、35英亩车辆动态测试区、四英里高速环形跑道以及专门为自动驾驶系统开发设计的高速公路测试路线，可覆盖多种复杂场景验证需求。——CNMO科技",
-      "clean_text": "谷歌Waymo收购原苹果自动驾驶测试场自动驾驶企业 Waymo 近日完成一笔重要资产收购。根据公开文件显示，Waymo以2.2亿美元收购了位于美国亚利桑那州的一处大型自动驾驶测试场地，而这块资产此前归属于与苹果公司相关的投资实体。相关交易已于6月5日完成登记，谷歌 Waymo 方面也确认了此次收购消息。资料显示，这座测试基地占地约 5,500 英亩，是美国规模最大的自动驾驶测试场之一。园区内拥有约 115英亩的模拟城市道路区域、35英亩车辆动态测试区、四英里高速环形跑道以及专门为自动驾驶系统开发设计的高速公路测试路线，可覆盖多种复杂场景验证需求。——CNMO科技",
-      "datetime": "2026-06-09T03:00:29+00:00",
-      "views": "5.85K",
-      "source_links": [
-        {
-          "text": "CNMO科技",
-          "url": "https://m.sohu.com/a/1034035867_115831?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29934",
-      "scraped_at": "2026-06-09T19:01:03.067843",
-      "title": "Waymo2.2亿美元收购苹果测试场",
-      "title_options": {
-        "conclusion": "Waymo2.2亿美元收购苹果测试场",
-        "attractive": "苹果测试场被谷歌Waymo买下",
-        "minimal": "Waymo收购苹果测试场",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-10T14:58:20.757016"
+  "count": 66,
+  "updated_at": "2026-06-10T15:03:34.010735"
 }
