@@ -1,6 +1,74 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41892",
+      "channel": "zaihuapd",
+      "text": "Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升  Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。  同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有…",
+      "clean_text": "🤖Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升  Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。  同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有…",
+      "datetime": "2026-06-11T07:45:00+00:00",
+      "views": "2.57K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41892",
+      "scraped_at": "2026-06-11T16:00:41.407822",
+      "title": "Anthropic发布Claude F…",
+      "title_options": {
+        "conclusion": "Anthropic发布Claude F…",
+        "attractive": "性能跃升价格减半",
+        "minimal": "Claude Fable 5发布",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30015",
+      "channel": "xhqcankao",
+      "text": "Steam因诈骗猖獗停止发行实体版礼品卡Steam将停止在商店销售实体礼品卡。在支持页面中，V 社表示一旦其礼品卡售罄，将不再补货，理由是诈骗者持续对Steam用户及其他毫无防备个人造成影响。 Valve 在其公告中引用了美国联邦贸易委员会的一篇文章，该文章概述了礼品卡诈骗者如何试图说服受害者在商店购买礼品卡，并将代码交给诈骗者。 Valve 表示，公司已通过与执法部门合作、在礼品卡上添加警告，以及限制其在商店的供应来应对这些诈骗，但诈骗者已经找到了应对之策。​“虽然我们将不再销售实体礼品卡，但您仍然可以随时在Steam上使用您现有的礼品卡，”Valve表示。——Theverge",
+      "clean_text": "Steam因诈骗猖獗停止发行实体版礼品卡Steam将停止在商店销售实体礼品卡。在支持页面中，V 社表示一旦其礼品卡售罄，将不再补货，理由是诈骗者持续对Steam用户及其他毫无防备个人造成影响。 Valve 在其公告中引用了美国联邦贸易委员会的一篇文章，该文章概述了礼品卡诈骗者如何试图说服受害者在商店购买礼品卡，并将代码交给诈骗者。 Valve 表示，公司已通过与执法部门合作、在礼品卡上添加警告，以及限制其在商店的供应来应对这些诈骗，但诈骗者已经找到了应对之策。​“虽然我们将不再销售实体礼品卡，但您仍然可以随时在Steam上使用您现有的礼品卡，”Valve表示。——Theverge",
+      "datetime": "2026-06-11T07:30:45+00:00",
+      "views": "1.53K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30015",
+      "scraped_at": "2026-06-11T16:00:48.929141",
+      "title": "Steam停售实体礼品卡",
+      "title_options": {
+        "conclusion": "Steam停售实体礼品卡",
+        "attractive": "诈骗猖獗，Steam停售实体卡",
+        "minimal": "Steam实体卡停售",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30014",
+      "channel": "xhqcankao",
+      "text": "OpenAI拟大幅降低AI使用费以争夺用户OpenAI公司正在考虑大幅降低面向用户收取的费用，以便从头号竞争对手 Anthropic 公司手中争夺客户。据知情人士透露，该公司正在考虑大幅下调 Token 收费标准。知情人士表示，此举一定程度上是因为OpenAI公司预计 Anthropic 公司也将采取的类似降价措施。企业高管们已经开始对AI使用成本过高表示不满。OpenAI CEO 奥尔特曼在近期的一次活动中表示，成本已经成为了“一个巨大问题”。“我认为我们会找到很多办法，帮助用户以更低的支出获得更多价值。”大幅降价可能会削弱这两家公司的利润率。由于AI系统处理查询和执行任务所需的计算资源成本巨大，这两家公司已经亏损了数十亿美元。——凤凰网科技、华尔街日报",
+      "clean_text": "OpenAI拟大幅降低AI使用费以争夺用户OpenAI公司正在考虑大幅降低面向用户收取的费用，以便从头号竞争对手 Anthropic 公司手中争夺客户。据知情人士透露，该公司正在考虑大幅下调 Token 收费标准。知情人士表示，此举一定程度上是因为OpenAI公司预计 Anthropic 公司也将采取的类似降价措施。企业高管们已经开始对AI使用成本过高表示不满。OpenAI CEO 奥尔特曼在近期的一次活动中表示，成本已经成为了“一个巨大问题”。“我认为我们会找到很多办法，帮助用户以更低的支出获得更多价值。”大幅降价可能会削弱这两家公司的利润率。由于AI系统处理查询和执行任务所需的计算资源成本巨大，这两家公司已经亏损了数十亿美元。——凤凰网科技、华尔街日报",
+      "datetime": "2026-06-11T07:02:53+00:00",
+      "views": "2.5K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006cXAeIighVH-_Whc7eTsdNJgAUbH3OF95LlGNjWqbp7t5Arxx9J4B5Q55uFWOMrMfT"
+        },
+        {
+          "text": "华尔街日报",
+          "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?mod=rss_Technology"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30014",
+      "scraped_at": "2026-06-11T16:00:48.928761",
+      "title": "OpenAI拟大幅降低AI使用费",
+      "title_options": {
+        "conclusion": "OpenAI拟大幅降低AI使用费",
+        "attractive": "AI使用费太高？OpenAI降价",
+        "minimal": "OpenAI降价争夺用户",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41891",
       "channel": "zaihuapd",
       "text": "字节跳动拟于 2026 年 Q2 发布豆包二代手机，并推进 AI 硬件全生态布局  字节跳动计划于 2026 年第二季度发布豆包二代手机，继续由中兴努比亚负责硬件。针对首代机型曾遭遇的互联网厂商封锁，豆包团队正与美团、微信等厂商谈判权限，并尝试在传音、魅族等手机中内置 AI 入口。除手机外，字节拟于 2026 年第一季度和第四季度分别发布非显示类及带显示功能的 AI 眼镜，并同步开发 AI 耳机。  36kr投稿",
@@ -1572,31 +1640,8 @@
         "minimal": "Siri AI中欧缺席",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29974",
-      "channel": "xhqcankao",
-      "text": "Meta将利用企业数据进一步实现内容个性化Meta平台公司计划利用其从商家处收集的数据，来进一步个性化用户在其社交媒体平台上看到的内容。Meta周二表示，将利用商家已发送给它的数据，例如用户玩的游戏或在其他网站上进行的购买，来个性化用户在社交媒体信息流中看到的内容以及由人工智能生成的回应。例如，一位最近在网上购买了帐篷的用户，可能会看到更多关于露营的短视频。这家长期以来一直利用其他商家数据投放定向广告的公司表示，此次更新不会收集任何新的数据。该公司在一篇博客文章中表示：“此举旨在利用商家已发送给我们的信息，进一步改善您的体验。”——新浪财经",
-      "clean_text": "Meta将利用企业数据进一步实现内容个性化Meta平台公司计划利用其从商家处收集的数据，来进一步个性化用户在其社交媒体平台上看到的内容。Meta周二表示，将利用商家已发送给它的数据，例如用户玩的游戏或在其他网站上进行的购买，来个性化用户在社交媒体信息流中看到的内容以及由人工智能生成的回应。例如，一位最近在网上购买了帐篷的用户，可能会看到更多关于露营的短视频。这家长期以来一直利用其他商家数据投放定向广告的公司表示，此次更新不会收集任何新的数据。该公司在一篇博客文章中表示：“此举旨在利用商家已发送给我们的信息，进一步改善您的体验。”——新浪财经",
-      "datetime": "2026-06-10T04:02:12+00:00",
-      "views": "1.79K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqe6179670.shtml"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29974",
-      "scraped_at": "2026-06-10T13:00:32.836827",
-      "title": "Meta用商家数据个性化内容",
-      "title_options": {
-        "conclusion": "Meta用商家数据个性化内容",
-        "attractive": "你的购物数据正被Meta利用",
-        "minimal": "Meta数据个性化",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-11T15:57:53.369974"
+  "count": 65,
+  "updated_at": "2026-06-11T16:03:06.935278"
 }

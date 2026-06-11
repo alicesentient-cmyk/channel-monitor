@@ -3856,5 +3856,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T15:06:35.239298"
+  },
+  "zaihuapd_41892": {
+    "ai_title": "Anthropic发布Claude F…",
+    "title_options": {
+      "conclusion": "Anthropic发布Claude F…",
+      "attractive": "性能跃升价格减半",
+      "minimal": "Claude Fable 5发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T16:03:04.585004"
+  },
+  "xhqcankao_30015": {
+    "ai_title": "Steam停售实体礼品卡",
+    "title_options": {
+      "conclusion": "Steam停售实体礼品卡",
+      "attractive": "诈骗猖獗，Steam停售实体卡",
+      "minimal": "Steam实体卡停售",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T16:03:05.736562"
+  },
+  "xhqcankao_30014": {
+    "ai_title": "OpenAI拟大幅降低AI使用费",
+    "title_options": {
+      "conclusion": "OpenAI拟大幅降低AI使用费",
+      "attractive": "AI使用费太高？OpenAI降价",
+      "minimal": "OpenAI降价争夺用户",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T16:03:06.928441"
   }
 }
