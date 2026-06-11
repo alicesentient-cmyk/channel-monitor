@@ -1654,39 +1654,8 @@
         "minimal": "红筹架构拆除",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41879",
-      "channel": "zaihuapd",
-      "text": "Google 为 2026 世界杯免费开放 AI Mode Pro 视觉功能Google 宣布在 2026 年足球世界杯期间，将向所有用户免费开放 AI Mode Pro 的交互式视觉功能。该功能此前仅面向 Pro 和 Ultra 订阅者，今夏用户可以在搜索中免费使用它，生成回答战术提问的定制化图解。免费期限可能仅限于世界杯期间，具体时长尚未明确。此外，Google 搜索的体育赛况页将小幅改版，增加可切换查看多场比赛的 FIFA 品牌栏，并标明转播服务商（Fox）。比赛中还会展示进球、庆祝和红牌等实时动画。Gemini 应用也会整合实时比分与榜单，用图表、图片和视频呈现赛况，同时推出世界杯主题的 Nano Banana 模板，让用户把自己的形象变成支持球队的球员。9To5Google",
-      "clean_text": "Google 为 2026 世界杯免费开放 AI Mode Pro 视觉功能Google 宣布在 2026 年足球世界杯期间，将向所有用户免费开放 AI Mode Pro 的交互式视觉功能。该功能此前仅面向 Pro 和 Ultra 订阅者，今夏用户可以在搜索中免费使用它，生成回答战术提问的定制化图解。免费期限可能仅限于世界杯期间，具体时长尚未明确。此外，Google 搜索的体育赛况页将小幅改版，增加可切换查看多场比赛的 FIFA 品牌栏，并标明转播服务商（Fox）。比赛中还会展示进球、庆祝和红牌等实时动画。Gemini 应用也会整合实时比分与榜单，用图表、图片和视频呈现赛况，同时推出世界杯主题的 Nano Banana 模板，让用户把自己的形象变成支持球队的球员。9To5Google·备用频道",
-      "datetime": "2026-06-10T14:54:59+00:00",
-      "views": "1.11K",
-      "source_links": [
-        {
-          "text": "9To5Google",
-          "url": "https://9to5google.com/2026/06/09/google-ai-mode-pro-visuals-free-during-2026-world-cup/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41879",
-      "scraped_at": "2026-06-10T23:00:23.738156",
-      "title": "Google免费开放AI视觉功能",
-      "title_options": {
-        "conclusion": "Google免费开放AI视觉功能",
-        "attractive": "世界杯期间AI图解免费",
-        "minimal": "AI视觉世界杯免费",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-12T02:50:32.564941"
+  "count": 64,
+  "updated_at": "2026-06-12T02:55:37.292682"
 }
