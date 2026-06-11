@@ -1714,35 +1714,8 @@
         "minimal": "手机实名制新规",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29988",
-      "channel": "xhqcankao",
-      "text": "Meta与信实工业合作在印度建设AI数据中心据Meta官网消息，当地时间6月9日，Meta平台公司宣布已与信实工业达成协议，将在印度建设一座人工智能数据中心。作为协议的一部分，信实工业将建设一座 168兆瓦规模的数据中心，Meta将租用该数据中心，并拥有未来扩展容量的选择权。 Meta 首席执行官扎克伯格在声明中表示：“位于贾姆讷格尔的这座世界级设施将帮助我们在全球范围内扩展人工智能基础设施，同时深化我们对印度经济的长期投资。”印度正吸引着来自大型科​​技公司的日益增长的投资，这凸显了该国作为关键增长市场地位的不断提升。",
-      "clean_text": "Meta与信实工业合作在印度建设AI数据中心据Meta官网消息，当地时间6月9日，Meta平台公司宣布已与信实工业达成协议，将在印度建设一座人工智能数据中心。作为协议的一部分，信实工业将建设一座 168兆瓦规模的数据中心，Meta将租用该数据中心，并拥有未来扩展容量的选择权。 Meta 首席执行官扎克伯格在声明中表示：“位于贾姆讷格尔的这座世界级设施将帮助我们在全球范围内扩展人工智能基础设施，同时深化我们对印度经济的长期投资。”印度正吸引着来自大型科​​技公司的日益增长的投资，这凸显了该国作为关键增长市场地位的不断提升。——第一财经、彭博社",
-      "datetime": "2026-06-10T11:03:51+00:00",
-      "views": "1.99K",
-      "source_links": [
-        {
-          "text": "第一财经",
-          "url": "https://m.yicai.com/brief/103223349.html"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-10/meta-partners-with-reliance-on-its-first-ai-data-center-in-india"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29988",
-      "scraped_at": "2026-06-10T20:00:24.263440",
-      "title": "Meta在印度建AI数据中心",
-      "title_options": {
-        "conclusion": "Meta在印度建AI数据中心",
-        "attractive": "Meta租用168兆瓦数据中心",
-        "minimal": "Meta信实AI数据中心",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-11T23:01:08.591829"
+  "count": 67,
+  "updated_at": "2026-06-11T23:06:14.690768"
 }
