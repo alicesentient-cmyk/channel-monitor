@@ -3758,5 +3758,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T12:02:37.184863"
+  },
+  "zaihuapd_41888": {
+    "ai_title": "Anthropic估值或达400亿美元",
+    "title_options": {
+      "conclusion": "Anthropic估值或达400亿美元",
+      "attractive": "Claude估值翻倍至400亿",
+      "minimal": "Anthropic融资Claude估值"
+    },
+    "generated_at": "2026-06-11T13:03:47.739724"
+  },
+  "xhqcankao_30009": {
+    "ai_title": "盖茨称婚外情与爱泼斯坦无关",
+    "title_options": {
+      "conclusion": "盖茨称婚外情与爱泼斯坦无关",
+      "attractive": "盖茨承认与三名女性有染",
+      "minimal": "盖茨婚外情爱泼斯坦",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T13:03:48.808309"
+  },
+  "xhqcankao_30008": {
+    "ai_title": "Fable拒答网络安全请求",
+    "title_options": {
+      "conclusion": "研究员不满Anthropic新模型",
+      "attractive": "Fable拒答网络安全请求",
+      "minimal": "Anthropic Fable 护栏",
+      "best": "attractive"
+    },
+    "generated_at": "2026-06-11T13:03:50.121986"
   }
 }

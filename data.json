@@ -1,6 +1,69 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41888",
+      "channel": "zaihuapd",
+      "text": "Anthropic寻求新一轮融资，凭借Claude估值或达400亿美元  OpenAI 的主要竞争对手之一的 Anthropic 正在探讨新一轮融资计划。据一位与公司领导层沟通的现有投资者透露，Anthropic 正与投资者接洽，预计融资后公司估值可能达到300亿至400亿美元，较今年初完成的上一轮融资估值翻了一番。该公司主要通过提供其对话型人工智能 Claude 的访问权限来创收。  与此同时，OpenAI 也在筹集50亿至70亿美元的资金，估值预期将接近1500亿美元，几乎是年初的两倍。  The Information…",
+      "clean_text": "Anthropic寻求新一轮融资，凭借Claude估值或达400亿美元  OpenAI 的主要竞争对手之一的 Anthropic 正在探讨新一轮融资计划。据一位与公司领导层沟通的现有投资者透露，Anthropic 正与投资者接洽，预计融资后公司估值可能达到300亿至400亿美元，较今年初完成的上一轮融资估值翻了一番。该公司主要通过提供其对话型人工智能 Claude 的访问权限来创收。  与此同时，OpenAI 也在筹集50亿至70亿美元的资金，估值预期将接近1500亿美元，几乎是年初的两倍。  The Information…",
+      "datetime": "2026-06-11T04:45:00+00:00",
+      "views": "2.32K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41888",
+      "scraped_at": "2026-06-11T13:00:32.213878",
+      "title": "Anthropic估值或达400亿美元",
+      "title_options": {
+        "conclusion": "Anthropic估值或达400亿美元",
+        "attractive": "Claude估值翻倍至400亿",
+        "minimal": "Anthropic融资Claude估值"
+      }
+    },
+    {
+      "id": "xhqcankao_30009",
+      "channel": "xhqcankao",
+      "text": "比尔·盖茨对国会称其婚外情与爱泼斯坦无关比尔·盖茨向美国国会作证称，杰弗里·爱泼斯坦曾发现他有过婚外情，并试图以此为把柄要挟自己。“这些婚外情与我和爱泼斯坦的交往毫无关系，但确实给我的家人带来了痛苦，”这位微软联合创始人在向调查爱泼斯坦案的众议院委员会提交的书面证词中说。知情人士称，在周三的闭门质询中，盖茨向议员承认自己曾与三名女性发生过性接触，其中包括两名俄罗斯女性和一名女医生，盖茨与爱泼斯坦的一名共同联系人知道此事。盖茨此次是自愿前往国会山接受众议院监督委员会的取证。媒体此前报道称，盖茨在2011年至2014年间多次与爱泼斯坦会面。——华尔街日报",
+      "clean_text": "比尔·盖茨对国会称其婚外情与爱泼斯坦无关比尔·盖茨向美国国会作证称，杰弗里·爱泼斯坦曾发现他有过婚外情，并试图以此为把柄要挟自己。“这些婚外情与我和爱泼斯坦的交往毫无关系，但确实给我的家人带来了痛苦，”这位微软联合创始人在向调查爱泼斯坦案的众议院委员会提交的书面证词中说。知情人士称，在周三的闭门质询中，盖茨向议员承认自己曾与三名女性发生过性接触，其中包括两名俄罗斯女性和一名女医生，盖茨与爱泼斯坦的一名共同联系人知道此事。盖茨此次是自愿前往国会山接受众议院监督委员会的取证。媒体此前报道称，盖茨在2011年至2014年间多次与爱泼斯坦会面。——华尔街日报",
+      "datetime": "2026-06-11T04:31:56+00:00",
+      "views": "1.22K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/bill-gates-epstein-hearing-house-oversight-committee-9244209b?mod=cn_hp_lead_pos5"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30009",
+      "scraped_at": "2026-06-11T13:00:34.654485",
+      "title": "盖茨称婚外情与爱泼斯坦无关",
+      "title_options": {
+        "conclusion": "盖茨称婚外情与爱泼斯坦无关",
+        "attractive": "盖茨承认与三名女性有染",
+        "minimal": "盖茨婚外情爱泼斯坦",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30008",
+      "channel": "xhqcankao",
+      "text": "研究员对Anthropic新模型的防护栏不满人工智能公司 Anthropic 周二发布了其最新模型 Fable，将其宣传为公司功能强大的网络安全模型 Mythos的公开且受限版本。但并非所有人都对这些限制感到满意，一些网络安全研究人员和专业人士在网上表达了抱怨。“Fable拒绝任何可能与网络安全相关的请求。即使是像阅读博客文章这样无害的任务，”知名安全研究员 Chompie 说。当提示词触发其防护栏时，Fable会暂停聊天并说其“安全措施将此消息标记为涉及网络安全或生物主题。”设置防护栏是为了限制Fable可能被用于开发恶意软件或破坏软件的风险。尽管出发点是好的，但许多网络安全专家仍然对这些限制措施的随意性感到不满。——Techcrunch",
+      "clean_text": "研究员对Anthropic新模型的防护栏不满人工智能公司 Anthropic 周二发布了其最新模型 Fable，将其宣传为公司功能强大的网络安全模型 Mythos的公开且受限版本。但并非所有人都对这些限制感到满意，一些网络安全研究人员和专业人士在网上表达了抱怨。“Fable拒绝任何可能与网络安全相关的请求。即使是像阅读博客文章这样无害的任务，”知名安全研究员 Chompie 说。当提示词触发其防护栏时，Fable会暂停聊天并说其“安全措施将此消息标记为涉及网络安全或生物主题。”设置防护栏是为了限制Fable可能被用于开发恶意软件或破坏软件的风险。尽管出发点是好的，但许多网络安全专家仍然对这些限制措施的随意性感到不满。——Techcrunch",
+      "datetime": "2026-06-11T04:01:07+00:00",
+      "views": "2.13K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30008",
+      "scraped_at": "2026-06-11T13:00:34.654090",
+      "title": "Fable拒答网络安全请求",
+      "title_options": {
+        "conclusion": "研究员不满Anthropic新模型",
+        "attractive": "Fable拒答网络安全请求",
+        "minimal": "Anthropic Fable 护栏",
+        "best": "attractive"
+      }
+    },
+    {
       "id": "zaihuapd_41887",
       "channel": "zaihuapd",
       "text": "百亿补贴”宣传不实：北京市市监局约谈五大电商6 月 11 日，北京市市场监督管理局约谈了淘宝（天猫）、京东、拼多多、抖音、小红书五家平台，通报其“6·18”大促存在“百亿补贴”虚假宣传等问题。平台声称的“百亿补贴”实为长期营销活动，并非本次大促投入的百亿资金。且各平台无法提供实际补贴金额和出资比例的证明。市监局还指出拼多多单方面免除平台法定责任、小红书抽奖信息不完整等违规行为。市监局要求平台转向比创新、比服务，立即组织自查整改。北京市场监管·备用频道·",
@@ -1543,31 +1606,8 @@
         "minimal": "小马智行卢森堡",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29968",
-      "channel": "xhqcankao",
-      "text": "Telegram 获得原生 Apple Watch 应用即时通讯应用Telegram现在拥有了一款原生 Apple Watch 应用。该应用支持从手腕上查看和回复Telegram消息。像贴纸、语音消息和位置信息这样的功能都可以从这款 Apple Watch 应用中进行分享。Telegram在2015年就曾有一款Apple Watch 应用，但这款应用在几年前被停止使用并从苹果 App Store 中下架了。此前一直有适用于苹果手表的第三方Telegram应用，但现在用户可以再次使用第一方解决方案。——Macrumors",
-      "clean_text": "Telegram 获得原生 Apple Watch 应用即时通讯应用Telegram现在拥有了一款原生 Apple Watch 应用。该应用支持从手腕上查看和回复Telegram消息。像贴纸、语音消息和位置信息这样的功能都可以从这款 Apple Watch 应用中进行分享。Telegram在2015年就曾有一款Apple Watch 应用，但这款应用在几年前被停止使用并从苹果 App Store 中下架了。此前一直有适用于苹果手表的第三方Telegram应用，但现在用户可以再次使用第一方解决方案。——Macrumors",
-      "datetime": "2026-06-10T01:01:29+00:00",
-      "views": "1.93K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/09/telegram-apple-watch-app/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29968",
-      "scraped_at": "2026-06-10T10:01:18.374925",
-      "title": "Telegram推出原生Apple W…",
-      "title_options": {
-        "conclusion": "Telegram推出原生Apple W…",
-        "attractive": "Apple Watch可回复Teleg…",
-        "minimal": "Telegram Apple Watc…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-06-11T12:58:41.237490"
+  "count": 64,
+  "updated_at": "2026-06-11T13:03:50.130298"
 }
