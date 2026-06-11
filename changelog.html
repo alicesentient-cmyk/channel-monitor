@@ -157,9 +157,35 @@ body {
 
 <div class="version current">
   <div class="version-header">
+    <span class="version-tag">v0.0010</span>
+    <span class="version-date">2026-06-11</span>
+    <span class="version-badge">当前版本</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type optimize">优化</span> API 标题生成改为 ThreadPoolExecutor 并发（3 workers + 限流）</li>
+    <li><span class="change-type optimize">优化</span> 前端数据加载改为 fetch('data.json')，HTML 从 221KB 降至 35KB</li>
+    <li><span class="change-type fix">修复</span> 去掉 base64 内嵌数据，data.json 独立可缓存</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
+    <span class="version-tag">v0.0009</span>
+    <span class="version-date">2026-06-11</span>
+  </div>
+  <ul class="changes">
+    <li><span class="change-type fix">修复</span> Git 操作从 os.system 改为 subprocess.run，增加错误处理和超时保护</li>
+    <li><span class="change-type fix">修复</span> API Key 解析改为三级降级：环境变量 → YAML 解析 → 正则兜底</li>
+    <li><span class="change-type fix">修复</span> 裸 except 改为具体异常类型（JSONDecodeError / ValueError 等）</li>
+    <li><span class="change-type fix">修复</span> 清理消息尾部来源归属（·备用频道·、——来源、via 作者、来源投稿）</li>
+    <li><span class="change-type feat">新增</span> __main__ 顶层异常捕获，带 exit code</li>
+  </ul>
+</div>
+
+<div class="version">
+  <div class="version-header">
     <span class="version-tag">v0.0008</span>
     <span class="version-date">2026-06-03</span>
-    <span class="version-badge">当前版本</span>
   </div>
   <ul class="changes">
     <li><span class="change-type optimize">优化</span> 生图 Prompt 改回中文（基于 v0.0006 代码）</li>

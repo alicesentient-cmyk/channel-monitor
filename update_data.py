@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
-"""数据更新脚本 - 将本地抓取数据同步到频道监控仓库 (v0.0006 - AI标题生成)"""
+"""数据更新脚本 - 将本地抓取数据同步到频道监控仓库 (v0.0010 - Performance优化)"""
 
 import json
 import os
-import base64
 import re
+import subprocess
+import sys
 import time
 from datetime import datetime, timedelta
+
+try:
+    import yaml as _yaml
+except ImportError:
+    _yaml = None
 
 # 路径配置 - 全部硬编码绝对路径，彻底避免 expanduser 路径陷阱
 SOURCE_DIR = '/Users/mybot/channel_data'
@@ -20,26 +26,46 @@ DEEPSEEK_BASE_URL = 'https://api.deepseek.com/v1/chat/completions'
 DEEPSEEK_MODEL = 'deepseek-chat'
 
 def get_deepseek_api_key():
-    """从配置文件读取 DeepSeek API Key"""
+    """读取 DeepSeek API Key（优先级：环境变量 > YAML解析 > 正则兜底）"""
+    # 1. 环境变量优先
+    env_key = os.environ.get('DEEPSEEK_API_KEY', '')
+    if env_key.startswith('sk-'):
+        return env_key
+
     config_path = '/Users/mybot/.hermes/config.yaml'
     try:
         with open(config_path, 'r') as f:
             content = f.read()
-        
-        # 从 custom_providers 部分查找 Api.deepseek.com 的 key
-        import re
-        match = re.search(r'Api\.deepseek\.com.*?api_key:\s*(sk-[a-zA-Z0-9]+)', content, re.DOTALL)
-        if match:
-            return match.group(1)
-        
-        # 从 providers 部分查找 deepseek 的 key
-        match = re.search(r'deepseek:\s*\n.*?api_key:\s*(sk-[a-zA-Z0-9]+)', content, re.DOTALL)
-        if match:
-            return match.group(1)
-    except Exception as e:
+    except IOError as e:
         print(f"⚠️ 读取配置文件失败: {e}")
-    
-    return os.environ.get('DEEPSEEK_API_KEY', '')
+        return env_key
+
+    # 2. 尝试 YAML 解析（如果安装了 PyYAML）
+    if _yaml is not None:
+        try:
+            cfg = _yaml.safe_load(content)
+            # 遍历 custom_providers 找 deepseek
+            for provider in (cfg.get('custom_providers') or []):
+                if 'deepseek' in str(provider.get('name', '')).lower() or \
+                   'deepseek' in str(provider.get('base_url', '')).lower():
+                    key = provider.get('api_key', '')
+                    if key.startswith('sk-'):
+                        return key
+            # 遍历 providers 找 deepseek
+            providers = cfg.get('providers') or {}
+            ds = providers.get('deepseek') or {}
+            key = ds.get('api_key', '')
+            if key.startswith('sk-'):
+                return key
+        except Exception as e:
+            print(f"⚠️ YAML解析失败，回退到正则: {e}")
+
+    # 3. 正则兜底
+    match = re.search(r'deepseek.*?api_key:\s*(sk-[a-zA-Z0-9]+)', content, re.DOTALL | re.IGNORECASE)
+    if match:
+        return match.group(1)
+
+    return env_key
 
 def load_title_cache():
     """加载标题缓存，避免重复调用API"""
@@ -47,8 +73,8 @@ def load_title_cache():
         try:
             with open(CACHE_FILE, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        except:
-            pass
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"⚠️ 标题缓存读取失败，将重建: {e}")
     return {}
 
 def save_title_cache(cache):
@@ -178,7 +204,8 @@ def strip_emoji(text):
     return emoji_pattern.sub('', text).strip()
 
 def strip_channel_info(text):
-    """去除频道信息和无关内容"""
+    """去除频道信息、来源归属等无关内容"""
+    # 1. 频道品牌信息
     patterns = [
         r'在花频道\s*[·•]\s*茶馆[聊天讨论]*\s*[·•]\s*投稿通道',
         r'在花频道',
@@ -191,6 +218,14 @@ def strip_channel_info(text):
     ]
     for p in patterns:
         text = re.sub(p, '', text)
+
+    # 2. 尾部来源归属："来源via 作者·备用频道·"
+    text = re.sub(r'(?:via\s+\S+)?\s*[·•]\s*备用频道\s*[·•]?\s*$', '', text)
+    # 3. 尾部来源归属："——来源"（最后一个——到行尾）
+    text = re.sub(r'——\s*\S+(?:\s*[、|]\s*\S+)*\s*$', '', text)
+    # 4. 尾部 "来源投稿"
+    text = re.sub(r'\S+投稿\s*$', '', text)
+
     return text.strip()
 
 def is_news_content(text):
@@ -239,7 +274,8 @@ def clean_old_messages(messages):
             dt = datetime.fromisoformat(m.get('datetime', '').replace('Z', '+00:00'))
             if dt.replace(tzinfo=None) >= cutoff:
                 filtered.append(m)
-        except:
+        except (ValueError, TypeError):
+            # 无法解析时间的消息保留（宁可多留不可误删）
             filtered.append(m)
     
     removed = len(messages) - len(filtered)
@@ -291,67 +327,103 @@ def load_channel_data():
     
     return cleaned
 
+def _generate_one_title(text, api_key):
+    """为单条消息生成AI标题（线程安全，不依赖共享状态）"""
+    titles = generate_titles_with_ai(text)
+    if titles:
+        best_key = titles.get('best', 'conclusion')
+        best_title = titles.get(best_key, titles.get('conclusion', ''))
+        if len(best_title) > 20:
+            best_title = best_title[:19] + '…'
+        return best_title, titles
+    else:
+        fallback = generate_fallback_title(text)
+        return fallback, {'conclusion': fallback, 'attractive': fallback, 'minimal': fallback, 'best': 'conclusion'}
+
 def generate_titles_for_messages(messages):
-    """为消息生成AI标题"""
+    """为消息生成AI标题（并发版，ThreadPoolExecutor + 限流）"""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    import threading
+
     cache = load_title_cache()
-    updated = 0
-    api_calls = 0
-    
-    for m in messages:
+    api_key = get_deepseek_api_key()
+
+    # 分离：已缓存 vs 需要生成
+    to_generate = []  # (index, msg_id, text)
+    for i, m in enumerate(messages):
         msg_id = m.get('id', '')
-        text = m.get('text', '')
-        
-        # 如果已有缓存的AI标题，直接使用
         if msg_id in cache and 'ai_title' in cache[msg_id]:
             m['title'] = cache[msg_id]['ai_title']
             m['title_options'] = cache[msg_id].get('title_options', {})
-            continue
-        
-        # 生成AI标题
-        titles = generate_titles_with_ai(text)
-        api_calls += 1
-        
-        if titles:
-            # 使用AI选择的最佳标题
-            best_key = titles.get('best', 'conclusion')
-            best_title = titles.get(best_key, titles.get('conclusion', ''))
-            
-            # 确保不超过20字符
-            if len(best_title) > 20:
-                best_title = best_title[:19] + '…'
-            
-            m['title'] = best_title
-            m['title_options'] = titles
-            
-            # 缓存结果
-            cache[msg_id] = {
-                'ai_title': best_title,
-                'title_options': titles,
-                'generated_at': datetime.now().isoformat()
-            }
-            updated += 1
         else:
-            # 使用规则引擎生成备用标题
+            to_generate.append((i, msg_id, m.get('text', '')))
+
+    if not to_generate:
+        return messages
+
+    if not api_key:
+        print("⚠️ 未找到 DeepSeek API Key，使用规则引擎生成标题")
+        for i, msg_id, text in to_generate:
             fallback = generate_fallback_title(text)
-            m['title'] = fallback
-            cache[msg_id] = {
-                'ai_title': fallback,
-                'title_options': {'conclusion': fallback, 'attractive': fallback, 'minimal': fallback, 'best': 'conclusion'},
-                'generated_at': datetime.now().isoformat(),
-                'fallback': True
-            }
-            updated += 1
-        
-        # API限流：每秒最多5次调用
-        if api_calls % 5 == 0:
-            time.sleep(1)
-    
-    # 保存缓存
+            messages[i]['title'] = fallback
+            messages[i]['title_options'] = {'conclusion': fallback, 'attractive': fallback, 'minimal': fallback, 'best': 'conclusion'}
+            cache[msg_id] = {'ai_title': fallback, 'title_options': messages[i]['title_options'], 'generated_at': datetime.now().isoformat(), 'fallback': True}
+        save_title_cache(cache)
+        return messages
+
+    # 限流器：控制API并发速率
+    rate_lock = threading.Lock()
+    call_times = []
+
+    def rate_limited_generate(idx, msg_id, text):
+        with rate_lock:
+            now = time.time()
+            # 清理1秒前的记录
+            while call_times and call_times[0] < now - 1.0:
+                call_times.pop(0)
+            # 如果1秒内已达3次，等待
+            if len(call_times) >= 3:
+                wait = 1.0 - (now - call_times[0])
+                if wait > 0:
+                    time.sleep(wait)
+            call_times.append(time.time())
+
+        title, options = _generate_one_title(text, api_key)
+        return idx, msg_id, title, options
+
+    # 并发执行
+    updated = 0
+    api_calls = len(to_generate)
+    max_workers = min(3, api_calls)
+
+    print(f"🤖 并发生成 {api_calls} 条AI标题 (workers={max_workers})...")
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {
+            executor.submit(rate_limited_generate, idx, msg_id, text): (idx, msg_id)
+            for idx, msg_id, text in to_generate
+        }
+        for future in as_completed(futures):
+            try:
+                idx, msg_id, title, options = future.result()
+                messages[idx]['title'] = title
+                messages[idx]['title_options'] = options
+                cache[msg_id] = {
+                    'ai_title': title,
+                    'title_options': options,
+                    'generated_at': datetime.now().isoformat()
+                }
+                updated += 1
+            except Exception as e:
+                idx, msg_id = futures[future]
+                fallback = generate_fallback_title(messages[idx].get('text', ''))
+                messages[idx]['title'] = fallback
+                messages[idx]['title_options'] = {'conclusion': fallback, 'best': 'conclusion'}
+                cache[msg_id] = {'ai_title': fallback, 'generated_at': datetime.now().isoformat(), 'fallback': True, 'error': str(e)}
+                updated += 1
+
     save_title_cache(cache)
-    
-    if updated > 0:
-        print(f"🤖 生成 {updated} 条AI标题 (API调用: {api_calls}次)")
-    
+    print(f"🤖 完成 {updated} 条AI标题 (API调用: {api_calls}次)")
     return messages
 
 def update_data():
@@ -375,51 +447,66 @@ def update_data():
     print(f"✅ 已更新 {len(messages)} 条消息到 data.json")
     return data
 
-def update_index(data):
-    """更新 index.html 中的数据"""
-    json_str = json.dumps(data, ensure_ascii=False)
-    b64_data = base64.b64encode(json_str.encode('utf-8')).decode('utf-8')
-    
-    with open(INDEX_FILE, 'r', encoding='utf-8') as f:
-        html = f.read()
-    
-    start_marker = 'const _d = "'
-    start = html.find(start_marker)
-    if start == -1:
-        print("❌ 未找到 _d 变量")
+def update_index():
+    """更新 index.html（不再内嵌数据，仅确保文件存在）"""
+    if not os.path.exists(INDEX_FILE):
+        print("❌ index.html 不存在")
         return False
-    
-    start += len(start_marker)
-    end = html.find('"', start)
-    if end == -1:
-        print("❌ _d 变量格式错误")
-        return False
-    
-    new_html = html[:start] + b64_data + html[end:]
-    
-    with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-        f.write(new_html)
-        f.flush()
-        os.fsync(f.fileno())
-    
-    print(f"✅ 已更新 index.html")
+    print("✅ index.html 已就绪（数据通过 fetch 加载）")
     return True
 
+def _run_git(args, check=True):
+    """执行 git 命令，返回 CompletedResult。失败时打印错误并抛出异常。"""
+    result = subprocess.run(
+        ['git'] + args,
+        cwd=DEST_DIR,
+        capture_output=True,
+        text=True,
+        timeout=60
+    )
+    if result.returncode != 0:
+        print(f"❌ git {' '.join(args)} 失败 (exit {result.returncode})")
+        if result.stderr:
+            print(f"   stderr: {result.stderr.strip()}")
+        if check:
+            raise subprocess.CalledProcessError(result.returncode, ['git'] + args, result.stdout, result.stderr)
+    return result
+
 def git_push():
-    """推送到GitHub"""
-    os.chdir(DEST_DIR)
-    os.system('git add data.json index.html title_cache.json')
+    """推送到GitHub（subprocess + 逐步错误处理）"""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
-    os.system(f'git commit -m "update: {timestamp}"')
-    os.system('git stash')
-    os.system('git pull origin main')
-    os.system('git stash pop 2>/dev/null || true')
-    os.system('git push origin main')
+
+    # 1. stage 文件
+    _run_git(['add', 'data.json', 'index.html', 'title_cache.json'])
+
+    # 2. commit（允许空提交不报错）
+    _run_git(['commit', '-m', f'update: {timestamp}'], check=False)
+
+    # 3. stash → pull → pop（处理远端有新提交的情况）
+    _run_git(['stash'], check=False)
+    pull_result = _run_git(['pull', 'origin', 'main'], check=False)
+    if pull_result.returncode != 0:
+        print(f"⚠️ git pull 失败，尝试继续推送: {pull_result.stderr.strip()}")
+    _run_git(['stash', 'pop'], check=False)
+
+    # 4. push
+    _run_git(['push', 'origin', 'main'])
     print("✅ 已推送到GitHub")
 
 if __name__ == '__main__':
-    data = update_data()
-    if update_index(data):
-        git_push()
-    else:
-        print("❌ 更新失败，未推送")
+    try:
+        data = update_data()
+        if update_index():
+            git_push()
+        else:
+            print("❌ 更新失败，未推送")
+            sys.exit(1)
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Git操作失败: {e}")
+        sys.exit(1)
+    except KeyboardInterrupt:
+        print("\n⚠️ 用户中断")
+        sys.exit(130)
+    except Exception as e:
+        print(f"❌ 未预期错误: {type(e).__name__}: {e}")
+        sys.exit(1)
