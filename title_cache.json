@@ -4185,5 +4185,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T01:03:43.672539"
+  },
+  "xhqcankao_30035": {
+    "ai_title": "美议员要求披露AI风险",
+    "title_options": {
+      "conclusion": "美议员要求披露AI风险",
+      "attractive": "AI融资或引发金融危机",
+      "minimal": "AI风险披露法案",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T02:04:48.915636"
+  },
+  "xhqcankao_30036": {
+    "ai_title": "Deezer推AI音乐检测器",
+    "title_options": {
+      "conclusion": "Deezer推AI音乐检测器",
+      "attractive": "AI曲目占平台39%",
+      "minimal": "AI音乐检测",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T02:04:49.083038"
   }
 }
