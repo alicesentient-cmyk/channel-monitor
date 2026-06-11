@@ -1549,30 +1549,8 @@
         "minimal": "星链印度审批受阻",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29964",
-      "channel": "xhqcankao",
-      "text": "Anthropic公司发布Mythos系列新模型Anthropic最新推出了一款新模型“Claude Fable 5”，作为“神话级”（Mythos-class）的一员，公司将其设计为可安全用于一般用途的模型。新闻稿写道，Fable 5的性能超越了公司以往所有公开发布的模型，在几乎所有AI性能基准测试中都处于领先水平，在软件工程、知识工作、视觉、科学研究以及许多其他领域都展现出卓越的性能。Anthropic指出，任务越长、越复杂，Fable 5模型相对于公司其他模型的优势就越明显。新闻稿援引Stripe的报告称，在早期测试中，Fable 5将数月的工程量压缩到了几天之内。——财联社",
-      "clean_text": "Anthropic公司发布Mythos系列新模型Anthropic最新推出了一款新模型“Claude Fable 5”，作为“神话级”（Mythos-class）的一员，公司将其设计为可安全用于一般用途的模型。新闻稿写道，Fable 5的性能超越了公司以往所有公开发布的模型，在几乎所有AI性能基准测试中都处于领先水平，在软件工程、知识工作、视觉、科学研究以及许多其他领域都展现出卓越的性能。Anthropic指出，任务越长、越复杂，Fable 5模型相对于公司其他模型的优势就越明显。新闻稿援引Stripe的报告称，在早期测试中，Fable 5将数月的工程量压缩到了几天之内。——财联社",
-      "datetime": "2026-06-09T23:04:02+00:00",
-      "views": "1.18K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2395360?sv=8.7.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29964",
-      "scraped_at": "2026-06-10T08:00:21.121031",
-      "title": "Anthropic发布Claude F…",
-      "title_options": {
-        "conclusion": "Anthropic发布Claude F…",
-        "attractive": "数月工程压缩至几天",
-        "minimal": "Claude Fable 5发布"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-11T11:01:19.801236"
+  "count": 62,
+  "updated_at": "2026-06-11T11:06:26.703164"
 }
