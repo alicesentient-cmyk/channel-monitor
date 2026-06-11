@@ -1691,49 +1691,8 @@
         "minimal": "Meta信实AI数据中心",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29987",
-      "channel": "xhqcankao",
-      "text": "聊天机器人ChatGPT的植入广告22日上线OpenAI旗下聊天机器人ChatGPT近日宣布更新隐私政策，新规将于2026年6月22日正式生效。此次调整核心在于引入广告机制：面向Free和Go套餐用户，在使用过程中可能看到广告；Plus、Pro、Enterprise、Business 以及教育套餐用户则不受影响，无广告且回答质量不变。根据官方说明，广告将明确标注为 “赞助内容”，并且与普通回答在视觉上区分。平台会基于用户在ChatGPT上的操作（如点击的广告或聊天上下文）提供个性化广告，用户可随时在 “设置” 中管理广告个性化。隐私方面，用户的个人信息及对话内容均保持非公开，不会与广告主共享。",
-      "clean_text": "聊天机器人ChatGPT的植入广告22日上线OpenAI旗下聊天机器人ChatGPT近日宣布更新隐私政策，新规将于2026年6月22日正式生效。此次调整核心在于引入广告机制：面向Free和Go套餐用户，在使用过程中可能看到广告；Plus、Pro、Enterprise、Business 以及教育套餐用户则不受影响，无广告且回答质量不变。根据官方说明，广告将明确标注为 “赞助内容”，并且与普通回答在视觉上区分。平台会基于用户在ChatGPT上的操作（如点击的广告或聊天上下文）提供个性化广告，用户可随时在 “设置” 中管理广告个性化。隐私方面，用户的个人信息及对话内容均保持非公开，不会与广告主共享。——凤凰网科技",
-      "datetime": "2026-06-10T10:34:11+00:00",
-      "views": "1.22K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006B6sf--3cTMsNbNB8SX7cQcW0r2DtfKf-_v0UACLBc63cN3rpVbcMXFE7-_--ZWXyonDY"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29987",
-      "scraped_at": "2026-06-10T19:00:37.372451",
-      "title": "ChatGPT将植入广告",
-      "title_options": {
-        "conclusion": "ChatGPT将植入广告",
-        "attractive": "免费用户将看到广告",
-        "minimal": "ChatGPT广告上线",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41875",
-      "channel": "zaihuapd",
-      "text": "韩国股市开盘下跌 8.4% 后暂停交易",
-      "clean_text": "韩国股市开盘下跌 8.4% 后暂停交易 · 备用频道 · 投稿通道",
-      "datetime": "2026-06-10T10:31:47+00:00",
-      "views": "2.9K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41875",
-      "scraped_at": "2026-06-10T19:00:34.191220",
-      "title": "韩股开盘跌8.4%停交易",
-      "title_options": {
-        "conclusion": "韩股开盘跌8.4%停交易",
-        "attractive": "韩股暴跌8.4%触发熔断",
-        "minimal": "韩股开盘跌停",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-11T22:30:31.927630"
+  "count": 66,
+  "updated_at": "2026-06-11T22:35:38.501413"
 }
