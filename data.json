@@ -1565,26 +1565,8 @@
         "minimal": "马斯克诉讼噪音",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41864",
-      "channel": "zaihuapd",
-      "text": "SpaceX 拟以 135 美元固定价 IPO，筹资 750 亿美元  SpaceX 计划以每股 135 美元固定价发行 5.556 亿股，筹资 750 亿美元，对应估值 1.75 万亿美元。在路演前就锁定发行价的做法极为罕见。周四启动的路演上，细节仍可能调整。  若成功，这将是史上最大 IPO。募资将用于扩展 AI 计算和星链网络。去年营收 187 亿美元但净亏 49 亿，仅星链盈利。公司预计 6 月 12 日在纳斯达克交易，代码 SPCX。此次上市可能掀起巨型 IPO 潮，AI 公司 OpenAI 和…",
-      "clean_text": "SpaceX 拟以 135 美元固定价 IPO，筹资 750 亿美元  SpaceX 计划以每股 135 美元固定价发行 5.556 亿股，筹资 750 亿美元，对应估值 1.75 万亿美元。在路演前就锁定发行价的做法极为罕见。周四启动的路演上，细节仍可能调整。  若成功，这将是史上最大 IPO。募资将用于扩展 AI 计算和星链网络。去年营收 187 亿美元但净亏 49 亿，仅星链盈利。公司预计 6 月 12 日在纳斯达克交易，代码 SPCX。此次上市可能掀起巨型 IPO 潮，AI 公司 OpenAI 和…",
-      "datetime": "2026-06-10T01:50:06+00:00",
-      "views": "1.54K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41864",
-      "scraped_at": "2026-06-10T10:01:16.289962",
-      "title": "SpaceX 135美元定价IPO",
-      "title_options": {
-        "conclusion": "SpaceX 135美元定价IPO",
-        "attractive": "史上最大IPO筹资750亿",
-        "minimal": "SpaceX IPO 135美元",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-11T13:49:42.447891"
+  "count": 62,
+  "updated_at": "2026-06-11T13:54:48.318867"
 }
