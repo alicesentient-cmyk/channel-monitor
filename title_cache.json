@@ -3787,5 +3787,34 @@
       "best": "attractive"
     },
     "generated_at": "2026-06-11T13:03:50.121986"
+  },
+  "xhqcankao_30011": {
+    "ai_title": "朝鲜铀浓缩能力或扩大75%",
+    "title_options": {
+      "conclusion": "朝鲜铀浓缩能力或扩大75%",
+      "attractive": "朝鲜核武库材料已够用",
+      "minimal": "铀浓缩 扩大75%"
+    },
+    "generated_at": "2026-06-11T14:05:00.350998"
+  },
+  "zaihuapd_41889": {
+    "ai_title": "Android 17限制app内存",
+    "title_options": {
+      "conclusion": "Android 17限制app内存",
+      "attractive": "超限直接终止不留痕迹",
+      "minimal": "Android 17内存限制",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T14:05:01.371821"
+  },
+  "xhqcankao_30010": {
+    "ai_title": "华纳收购AI公司Sureel",
+    "title_options": {
+      "conclusion": "华纳收购AI公司Sureel",
+      "attractive": "AI追踪艺人声音版权",
+      "minimal": "华纳收购Sureel AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T14:05:02.812794"
   }
 }
