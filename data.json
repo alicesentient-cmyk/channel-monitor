@@ -1,6 +1,118 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41887",
+      "channel": "zaihuapd",
+      "text": "百亿补贴”宣传不实：北京市市监局约谈五大电商6 月 11 日，北京市市场监督管理局约谈了淘宝（天猫）、京东、拼多多、抖音、小红书五家平台，通报其“6·18”大促存在“百亿补贴”虚假宣传等问题。平台声称的“百亿补贴”实为长期营销活动，并非本次大促投入的百亿资金。且各平台无法提供实际补贴金额和出资比例的证明。市监局还指出拼多多单方面免除平台法定责任、小红书抽奖信息不完整等违规行为。市监局要求平台转向比创新、比服务，立即组织自查整改。北京市场监管·备用频道·",
+      "clean_text": "百亿补贴”宣传不实：北京市市监局约谈五大电商6 月 11 日，北京市市场监督管理局约谈了淘宝（天猫）、京东、拼多多、抖音、小红书五家平台，通报其“6·18”大促存在“百亿补贴”虚假宣传等问题。平台声称的“百亿补贴”实为长期营销活动，并非本次大促投入的百亿资金。且各平台无法提供实际补贴金额和出资比例的证明。市监局还指出拼多多单方面免除平台法定责任、小红书抽奖信息不完整等违规行为。市监局要求平台转向比创新、比服务，立即组织自查整改。北京市场监管·备用频道",
+      "datetime": "2026-06-11T03:50:36+00:00",
+      "views": "1.72K",
+      "source_links": [
+        {
+          "text": "北京市场监管",
+          "url": "https://mp.weixin.qq.com/s/WDtZxIdnYvwNeFsIMfBJHg"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41887",
+      "scraped_at": "2026-06-11T12:00:40.067806",
+      "title": "北京约谈五大电商",
+      "title_options": {
+        "conclusion": "北京约谈五大电商",
+        "attractive": "百亿补贴宣传不实",
+        "minimal": "电商约谈补贴",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30007",
+      "channel": "xhqcankao",
+      "text": "谷歌推出DiffusionGemma开源模型谷歌当地时间6月10日发布实验性开源模型DiffusionGemma，采用文本扩散架构，在专用GPU上文本生成速度较传统自回归大语言模型最高提升4倍，模型以Apache 2.0许可证发布。谷歌称，DiffusionGemma定位为面向研究者和开发者的实验性模型，整体输出质量低于标准 Gemma 4，生产环境仍建议使用后者。该模型的速度优势主要体现于本地及低并发推理场景，在高并发云端部署中优势有限。文本扩散技术本身并非新概念，AI研究界已探索多年，但将其应用于大规模模型长期面临挑战。DiffusionGemma的发布标志着谷歌在将这一研究方向推向实用化方面迈出了可量化的一步。——界面新闻、谷歌博客",
+      "clean_text": "谷歌推出DiffusionGemma开源模型谷歌当地时间6月10日发布实验性开源模型DiffusionGemma，采用文本扩散架构，在专用GPU上文本生成速度较传统自回归大语言模型最高提升4倍，模型以Apache 2.0许可证发布。谷歌称，DiffusionGemma定位为面向研究者和开发者的实验性模型，整体输出质量低于标准 Gemma 4，生产环境仍建议使用后者。该模型的速度优势主要体现于本地及低并发推理场景，在高并发云端部署中优势有限。文本扩散技术本身并非新概念，AI研究界已探索多年，但将其应用于大规模模型长期面临挑战。DiffusionGemma的发布标志着谷歌在将这一研究方向推向实用化方面迈出了可量化的一步。——界面新闻、谷歌博客",
+      "datetime": "2026-06-11T03:32:57+00:00",
+      "views": "1.24K",
+      "source_links": [
+        {
+          "text": "界面新闻",
+          "url": "https://www.jiemian.com/article/14568853.html"
+        },
+        {
+          "text": "谷歌博客",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30007",
+      "scraped_at": "2026-06-11T12:00:42.036042",
+      "title": "谷歌开源DiffusionGemma",
+      "title_options": {
+        "conclusion": "谷歌开源DiffusionGemma",
+        "attractive": "文本生成速度提升4倍",
+        "minimal": "DiffusionGemma开源",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41886",
+      "channel": "zaihuapd",
+      "text": "5 月 38 家中国手游厂商进入全球收入百强Sensor Tower Store Intelligence 统计，2026 年 5 月有 38 家中国厂商进入全球手游发行商收入百强，合计收入 22.9 亿美元，占百强总收入的 42.8%。腾讯、点点互动、柠檬微趣、网易和米哈游继续位列中国厂商收入榜前五。腾讯旗下《Honor of Kings》《PUBG Mobile》和《Delta Force》带动其保持全球手游发行商收入第一。《Honor of Kings》520 主题活动推动收入增长 9%，点点互动的《Kingshot》和《Tasty Travels: Merge Game》月收入也创新高。Moomoo News·备用频道·",
+      "clean_text": "5 月 38 家中国手游厂商进入全球收入百强Sensor Tower Store Intelligence 统计，2026 年 5 月有 38 家中国厂商进入全球手游发行商收入百强，合计收入 22.9 亿美元，占百强总收入的 42.8%。腾讯、点点互动、柠檬微趣、网易和米哈游继续位列中国厂商收入榜前五。腾讯旗下《Honor of Kings》《PUBG Mobile》和《Delta Force》带动其保持全球手游发行商收入第一。《Honor of Kings》520 主题活动推动收入增长 9%，点点互动的《Kingshot》和《Tasty Travels: Merge Game》月收入也创新高。Moomoo News·备用频道",
+      "datetime": "2026-06-11T03:15:00+00:00",
+      "views": "4.57K",
+      "source_links": [
+        {
+          "text": "Moomoo News",
+          "url": "https://www.moomoo.com/news/post/71300638/sensor-tower-in-may-a-total-of-38-chinese-publishers"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41886",
+      "scraped_at": "2026-06-11T12:00:40.067281",
+      "title": "38家中国厂商5月全球收入22.9亿美元",
+      "title_options": {
+        "conclusion": "38家中国厂商5月全球收入22.9亿美元",
+        "attractive": "腾讯三款游戏带动收入第一",
+        "minimal": "38家中国厂商百强收入22.9亿",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30006",
+      "channel": "xhqcankao",
+      "text": "加拿大提议禁止16岁以下儿童使用社媒加拿大政府周三提议，禁止16岁以下儿童使用Snapchat和Instagram等社交平台，至少是暂时禁止。安全社交媒体法案仍需议会批准。根据该法案，大多数社交媒体平台可以获得豁免，前提是满足特定的安全要求，这些要求将由该法案新设立的一个监管机构来制定。成人色情平台不能申请豁免，且该年龄限制不适用于AI聊天机器人或Roblox等游戏平台。加拿大总理马克·卡尼周三在社交媒体上发帖称：“越来越多的孩子正遭受焦虑、抑郁、自残和剥削的折磨。为了保护孩子们的安全，我们必须确保我们的法律跟上技术的步伐。”未能遵守规定的公司将面临最高相当于其全球收入3%或1,000万加元的罚款。——华尔街日报",
+      "clean_text": "加拿大提议禁止16岁以下儿童使用社媒加拿大政府周三提议，禁止16岁以下儿童使用Snapchat和Instagram等社交平台，至少是暂时禁止。安全社交媒体法案仍需议会批准。根据该法案，大多数社交媒体平台可以获得豁免，前提是满足特定的安全要求，这些要求将由该法案新设立的一个监管机构来制定。成人色情平台不能申请豁免，且该年龄限制不适用于AI聊天机器人或Roblox等游戏平台。加拿大总理马克·卡尼周三在社交媒体上发帖称：“越来越多的孩子正遭受焦虑、抑郁、自残和剥削的折磨。为了保护孩子们的安全，我们必须确保我们的法律跟上技术的步伐。”未能遵守规定的公司将面临最高相当于其全球收入3%或1,000万加元的罚款。——华尔街日报",
+      "datetime": "2026-06-11T03:03:33+00:00",
+      "views": "1.98K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/canada-proposes-social-media-ban-for-children-under-16-a29118fb?mod=cn_hp_featst_pos2"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30006",
+      "scraped_at": "2026-06-11T12:00:42.035677",
+      "title": "加拿大禁16岁以下用社媒",
+      "title_options": {
+        "conclusion": "加拿大禁16岁以下用社媒",
+        "attractive": "儿童社媒禁令最高罚千万",
+        "minimal": "加拿大 儿童 社媒 禁令",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30005",
       "channel": "xhqcankao",
       "text": "xAI前工程师因提出AI安全担忧被解雇xAI 公司的一名前工程师已对该公司及其母公司SpaceX提起诉讼，声称自己因提出AI安全方面的担忧而被解雇。该工程师名为德文·金，他在2025年9月离开xAI。周二，他在加州法院提起了诉讼。诉状显示，德文·金在参与开发 xAI 聊天机器人Grok期间，成为公司内部推动AI安全的重要声音。他多次批评xAI公司未能在Grok开发过程中优先考虑安全问题。Grok此后也因一系列安全和行为问题遭到外界批评。德文·金尤其担心Grok可能煽动歧视，并助长大规模杀伤性武器相关信息的传播。“事实证明Grok的表现印证了德文·金担忧。该模型在网络上表现出极端仇恨和恶毒言论，甚至将自己比作希特勒，”诉状称。——凤凰网科技、TechCrunch",
@@ -1499,31 +1611,8 @@
         "minimal": "摩根大通AI智能体",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29966",
-      "channel": "xhqcankao",
-      "text": "通用汽车高调进军数据中心储能赛道通用汽车目前正与储能黑马初创公司Peak Energy Technologies达成深度战略合作，共同开发固态全场景储能电池系统，以此全力切入由AI爆发所引爆的庞大新型电力储能市场。根据通用汽车的宏伟蓝图，双方将联手研发能够在大盘用电低谷期为公共电网锁存电能的工业级大电池；同时，公司正加速推进V2G技术，让车主在住宅充电时，能通过电动汽车充当微型储能站向电网反向输电。尽管通用汽车目前在电力储能板块的初始投资规模仍逊于宿敌福特，但其未来成长弹性巨大。据悉，通用汽车不仅对 Peak Energy 进行了直接股权投资，双方更将战略核心聚焦于新一代钠离子电池的颠覆性研发上。——华尔街见闻",
-      "clean_text": "通用汽车高调进军数据中心储能赛道通用汽车目前正与储能黑马初创公司Peak Energy Technologies达成深度战略合作，共同开发固态全场景储能电池系统，以此全力切入由AI爆发所引爆的庞大新型电力储能市场。根据通用汽车的宏伟蓝图，双方将联手研发能够在大盘用电低谷期为公共电网锁存电能的工业级大电池；同时，公司正加速推进V2G技术，让车主在住宅充电时，能通过电动汽车充当微型储能站向电网反向输电。尽管通用汽车目前在电力储能板块的初始投资规模仍逊于宿敌福特，但其未来成长弹性巨大。据悉，通用汽车不仅对 Peak Energy 进行了直接股权投资，双方更将战略核心聚焦于新一代钠离子电池的颠覆性研发上。——华尔街见闻",
-      "datetime": "2026-06-10T00:01:07+00:00",
-      "views": "1.51K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3117027"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29966",
-      "scraped_at": "2026-06-10T09:01:10.727811",
-      "title": "通用汽车进军储能赛道",
-      "title_options": {
-        "conclusion": "通用汽车进军储能赛道",
-        "attractive": "通用联手黑马研发钠电池",
-        "minimal": "通用储能合作",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-11T11:57:27.280845"
+  "count": 64,
+  "updated_at": "2026-06-11T12:02:37.191892"
 }

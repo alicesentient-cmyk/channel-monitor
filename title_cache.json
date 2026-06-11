@@ -3718,5 +3718,45 @@
       "minimal": "CEO、下属、妹妹"
     },
     "generated_at": "2026-06-11T11:01:19.793513"
+  },
+  "zaihuapd_41887": {
+    "ai_title": "北京约谈五大电商",
+    "title_options": {
+      "conclusion": "北京约谈五大电商",
+      "attractive": "百亿补贴宣传不实",
+      "minimal": "电商约谈补贴",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T12:02:33.262197"
+  },
+  "xhqcankao_30007": {
+    "ai_title": "谷歌开源DiffusionGemma",
+    "title_options": {
+      "conclusion": "谷歌开源DiffusionGemma",
+      "attractive": "文本生成速度提升4倍",
+      "minimal": "DiffusionGemma开源",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T12:02:34.696674"
+  },
+  "zaihuapd_41886": {
+    "ai_title": "38家中国厂商5月全球收入22.9亿美元",
+    "title_options": {
+      "conclusion": "38家中国厂商5月全球收入22.9亿美元",
+      "attractive": "腾讯三款游戏带动收入第一",
+      "minimal": "38家中国厂商百强收入22.9亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T12:02:35.872506"
+  },
+  "xhqcankao_30006": {
+    "ai_title": "加拿大禁16岁以下用社媒",
+    "title_options": {
+      "conclusion": "加拿大禁16岁以下用社媒",
+      "attractive": "儿童社媒禁令最高罚千万",
+      "minimal": "加拿大 儿童 社媒 禁令",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T12:02:37.184863"
   }
 }
