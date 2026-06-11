@@ -4125,5 +4125,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T23:01:08.584289"
+  },
+  "zaihuapd_41902": {
+    "ai_title": "IGXE税收清缴已结束",
+    "title_options": {
+      "conclusion": "IGXE税收清缴已结束",
+      "attractive": "警惕假借报税收费",
+      "minimal": "IGXE 税收清缴",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T00:02:26.279995"
+  },
+  "zaihuapd_41903": {
+    "ai_title": "iOS 27升级通话框架",
+    "title_options": {
+      "conclusion": "iOS 27升级通话框架",
+      "attractive": "微信未适配iOS 27通话",
+      "minimal": "iOS 27通话框架",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T00:02:26.341596"
+  },
+  "xhqcankao_30032": {
+    "ai_title": "美查封13个涉华间谍域名",
+    "title_options": {
+      "conclusion": "美查封13个涉华间谍域名",
+      "attractive": "警惕虚假招聘窃取情报",
+      "minimal": "美查封13域名涉间谍",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T00:02:26.347924"
+  },
+  "xhqcankao_30031": {
+    "ai_title": "Meta撤销收购Manus",
+    "title_options": {
+      "conclusion": "Meta撤销收购Manus",
+      "attractive": "Meta与Manus业务分离",
+      "minimal": "Meta Manus分离",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T00:02:27.542638"
   }
 }
