@@ -1622,26 +1622,8 @@
         "minimal": "台积电 涨价 可能",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41867",
-      "channel": "zaihuapd",
-      "text": "新版 Siri AI 功能初期不会在欧盟和中国上线  苹果在 WWDC 2026 上公布的新版 Siri AI 功能，将于今年晚些时候随新系统发布测试版，但不会在欧盟和中国推出。苹果称，Siri AI 将免费提供，但在获得监管批准之前，欧盟的 iOS 和 iPadOS 用户暂无法使用；中国市场也需等待监管审批通过。  MacRumors · 备用频道 ·",
-      "clean_text": "🔮新版 Siri AI 功能初期不会在欧盟和中国上线  苹果在 WWDC 2026 上公布的新版 Siri AI 功能，将于今年晚些时候随新系统发布测试版，但不会在欧盟和中国推出。苹果称，Siri AI 将免费提供，但在获得监管批准之前，欧盟的 iOS 和 iPadOS 用户暂无法使用；中国市场也需等待监管审批通过。  MacRumors · 备用频道 · 投稿通道",
-      "datetime": "2026-06-10T04:10:00+00:00",
-      "views": "4.47K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41867",
-      "scraped_at": "2026-06-10T13:00:29.889959",
-      "title": "Siri AI暂不登陆中欧",
-      "title_options": {
-        "conclusion": "Siri AI暂不登陆中欧",
-        "attractive": "苹果AI功能受限中欧",
-        "minimal": "Siri AI中欧缺席",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-11T16:08:14.667390"
+  "count": 64,
+  "updated_at": "2026-06-11T16:10:56.591314"
 }
