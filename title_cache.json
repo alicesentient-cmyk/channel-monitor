@@ -4105,5 +4105,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T22:04:58.123952"
+  },
+  "xhqcankao_30030": {
+    "ai_title": "七家第三方平台被约谈",
+    "title_options": {
+      "conclusion": "七家第三方平台被约谈",
+      "attractive": "买长乘短被禁",
+      "minimal": "约谈七平台",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T23:01:08.570326"
+  },
+  "xhqcankao_30029": {
+    "ai_title": "OpenAI预计一年内IPO",
+    "title_options": {
+      "conclusion": "OpenAI预计一年内IPO",
+      "attractive": "OpenAI一年内上市？",
+      "minimal": "OpenAI一年内IPO",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T23:01:08.584289"
   }
 }
