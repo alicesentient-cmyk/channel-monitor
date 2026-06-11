@@ -3629,5 +3629,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T08:03:29.620796"
+  },
+  "xhqcankao_30001": {
+    "ai_title": "Anthropic呼吁国会监管AI",
+    "title_options": {
+      "conclusion": "Anthropic呼吁国会监管AI",
+      "attractive": "AI公司呼吁联邦严格监管",
+      "minimal": "Anthropic AI监管建议",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T09:04:14.665093"
+  },
+  "xhqcankao_30000": {
+    "ai_title": "OpenAI称中国账号阻挠美数据中心",
+    "title_options": {
+      "conclusion": "OpenAI称中国账号阻挠美数据中心",
+      "attractive": "中国账号煽动反对美数据中心",
+      "minimal": "中国账号阻挠美数据中心",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T09:04:15.995620"
   }
 }

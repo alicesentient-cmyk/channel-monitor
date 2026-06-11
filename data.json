@@ -1,6 +1,56 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30001",
+      "channel": "xhqcankao",
+      "text": "Anthropic呼吁强力监管AI 不应限制州立法权Anthropic周三发表声明，就人工智能监管提出一揽子建议。该公司呼吁美国国会不要阻止各州制定AI监管法规，除非国会议员能够通过一项应对“灾难性AI风险”的“严格”联邦法律。在此之前，美国总统特朗普曾敦促国会通过立法，以联邦法规取代各州的AI监管规则。Anthropic在周三就此话题发表了看法，并表示国会应要求AI公司对其最强大的模型进行独立安全测试。Anthropic CEO阿莫代伊表示，政府应有权阻止AI开发者部署存在特定风险的新型AI模型。他在周三发表的长文中说，AI模型应接受第三方强制测试，以评估其在多个领域可能带来的风险，包括助长网络安全威胁和生物武器的能力。——凤凰网科技、路透社",
+      "clean_text": "Anthropic呼吁强力监管AI 不应限制州立法权Anthropic周三发表声明，就人工智能监管提出一揽子建议。该公司呼吁美国国会不要阻止各州制定AI监管法规，除非国会议员能够通过一项应对“灾难性AI风险”的“严格”联邦法律。在此之前，美国总统特朗普曾敦促国会通过立法，以联邦法规取代各州的AI监管规则。Anthropic在周三就此话题发表了看法，并表示国会应要求AI公司对其最强大的模型进行独立安全测试。Anthropic CEO阿莫代伊表示，政府应有权阻止AI开发者部署存在特定风险的新型AI模型。他在周三发表的长文中说，AI模型应接受第三方强制测试，以评估其在多个领域可能带来的风险，包括助长网络安全威胁和生物武器的能力。——凤凰网科技、路透社",
+      "datetime": "2026-06-11T00:31:04+00:00",
+      "views": "1.09K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006CHkJ1zloSbz9av2KgN8G--LoJ6NkLOtJRlgkLSNUwIiUUSl0XNONzkJTU6us-_Rh0P"
+        },
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/world/anthropic-urges-us-require-safety-tests-most-capable-ai-models-2026-06-10/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30001",
+      "scraped_at": "2026-06-11T09:00:49.263184",
+      "title": "Anthropic呼吁国会监管AI",
+      "title_options": {
+        "conclusion": "Anthropic呼吁国会监管AI",
+        "attractive": "AI公司呼吁联邦严格监管",
+        "minimal": "Anthropic AI监管建议",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30000",
+      "channel": "xhqcankao",
+      "text": "OpenAI称与中国有关联的账号意图阻挠美国数据中心扩建OpenAI称一群与中国有关联的ChatGPT账户试图煽动美国当地对数据中心的反对，可能是为了阻碍该国在AI领域的竞争力，这与科技行业其他人近期的言论相呼应。OpenAI周三发布的报告显示，该公司发现一批源自中国的账户使用人工智能生成了关于数据中心提高美国人电费的英文社交媒体帖子。该公司将这一活动命名为 “数据中心跟风”，并表示这些账户很可能与一家未具名的中国私营科技公司有关联，该公司为中国省级政府客户工作。OpenAI公司表示，这些帖子的传播范围并不广，但应引起对外国试图削弱美国战略性国内产业的担忧。——彭博社",
+      "clean_text": "OpenAI称与中国有关联的账号意图阻挠美国数据中心扩建OpenAI称一群与中国有关联的ChatGPT账户试图煽动美国当地对数据中心的反对，可能是为了阻碍该国在AI领域的竞争力，这与科技行业其他人近期的言论相呼应。OpenAI周三发布的报告显示，该公司发现一批源自中国的账户使用人工智能生成了关于数据中心提高美国人电费的英文社交媒体帖子。该公司将这一活动命名为 “数据中心跟风”，并表示这些账户很可能与一家未具名的中国私营科技公司有关联，该公司为中国省级政府客户工作。OpenAI公司表示，这些帖子的传播范围并不广，但应引起对外国试图削弱美国战略性国内产业的担忧。——彭博社",
+      "datetime": "2026-06-11T00:04:27+00:00",
+      "views": "1.74K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-10/openai-says-china-linked-accounts-aim-to-fuel-us-data-center-pushback"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30000",
+      "scraped_at": "2026-06-11T09:00:49.262818",
+      "title": "OpenAI称中国账号阻挠美数据中心",
+      "title_options": {
+        "conclusion": "OpenAI称中国账号阻挠美数据中心",
+        "attractive": "中国账号煽动反对美数据中心",
+        "minimal": "中国账号阻挠美数据中心",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_29999",
       "channel": "xhqcankao",
       "text": "俄罗斯恢复了对Roblox游戏平台的访问据悉，俄罗斯恢复了对Roblox公司游戏平台的访问，此前认定该公司已遵守当地法律要求。据数字部消息，Roblox完全遵守了俄罗斯关于用户安全的法律，并且该在线游戏服务再次在全国范围内可用。俄罗斯于去年12月禁止了Roblox，理由是其内容不当。俄罗斯联邦通信、信息技术和大众传媒监督局称这些内容可能对儿童的精神和道德发展产生负面影响。数字部称，俄罗斯官员与该平台所有者进行了磋商，并且Roblox同意实施一整套措施以进一步保护儿童。Roblox还承诺打击平台上不适当内容的传播。——彭博社",
@@ -1339,6 +1389,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-11T08:59:09.116829"
+  "count": 56,
+  "updated_at": "2026-06-11T09:04:16.011089"
 }
