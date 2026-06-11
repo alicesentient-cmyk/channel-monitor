@@ -4065,5 +4065,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T21:03:29.697612"
+  },
+  "zaihuapd_41901": {
+    "ai_title": "胖东来降薪至行业高20%",
+    "title_options": {
+      "conclusion": "胖东来降薪至行业高20%",
+      "attractive": "胖东来薪资过高属溺爱",
+      "minimal": "胖东来薪资改革",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T22:04:54.082852"
+  },
+  "xhqcankao_30028": {
+    "ai_title": "Anthropic撤回限制政策",
+    "title_options": {
+      "conclusion": "Anthropic撤回限制政策",
+      "attractive": "Claude Fable 5解禁",
+      "minimal": "政策撤回",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T22:04:55.409771"
+  },
+  "zaihuapd_41900": {
+    "ai_title": "ChatGPT内可完成结账",
+    "title_options": {
+      "conclusion": "ChatGPT内可完成结账",
+      "attractive": "ChatGPT内直接购物结账",
+      "minimal": "ChatGPT集成购物",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T22:04:56.855195"
+  },
+  "xhqcankao_30027": {
+    "ai_title": "豆包手机负责人离职",
+    "title_options": {
+      "conclusion": "豆包手机负责人离职",
+      "attractive": "字节AI手机核心出走",
+      "minimal": "林夕离职豆包手机",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T22:04:58.123952"
   }
 }
