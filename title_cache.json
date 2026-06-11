@@ -4205,5 +4205,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T02:04:49.083038"
+  },
+  "xhqcankao_30038": {
+    "ai_title": "伊朗威胁攻击马斯克公司",
+    "title_options": {
+      "conclusion": "伊朗威胁攻击马斯克公司",
+      "attractive": "伊朗将星链列为军事目标",
+      "minimal": "伊朗威胁马斯克公司",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T03:00:42.840712"
+  },
+  "xhqcankao_30037": {
+    "ai_title": "亚马逊数据中心年耗水25亿加仑",
+    "title_options": {
+      "conclusion": "亚马逊数据中心年耗水25亿加仑",
+      "attractive": "亚马逊用水量达西雅图5%",
+      "minimal": "亚马逊数据中心耗水",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T03:00:42.865023"
+  },
+  "xhqcankao_30039": {
+    "ai_title": "朝鲜黑客占美科技入侵近半数",
+    "title_options": {
+      "conclusion": "朝鲜黑客占美科技入侵近半数",
+      "attractive": "伪装IT人员窃取加密货币",
+      "minimal": "朝鲜黑客入侵美国科技",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T03:00:42.924843"
   }
 }
