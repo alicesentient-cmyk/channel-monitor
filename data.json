@@ -1429,74 +1429,8 @@
         "minimal": "阿里批评钉钉管理",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29979",
-      "channel": "xhqcankao",
-      "text": "美拟议电信禁令 中国联通警告恐扰乱全球通信中国联通美国分公司警告称，美国政府拟禁止美国电信运营商与被视为 “国家安全风险” 的中国电信企业互联互通，此项提议恐将对全球通信网络造成严重破坏。中国联通周二提交美国联邦通讯委员会FCC的一份文件中表示，该禁令将“对在中国拥有重大商业和供应链利益的美国公司造成伤害”。FCC此前提议以国家安全风险为由，禁止美国本土及其他在美运营的电信企业与中国联通、中国移动、中国电信等中资公司进行互联。中国联通对此表示，中资电信运营商共同构成了中美这两个全球最大经济体之间通讯流量的主要网关。全面切断与这些实体的互联，将从根本上割裂全球通信网络的关键一环。—— 台湾工商时报、路透社",
-      "clean_text": "美拟议电信禁令 中国联通警告恐扰乱全球通信中国联通美国分公司警告称，美国政府拟禁止美国电信运营商与被视为 “国家安全风险” 的中国电信企业互联互通，此项提议恐将对全球通信网络造成严重破坏。中国联通周二提交美国联邦通讯委员会FCC的一份文件中表示，该禁令将“对在中国拥有重大商业和供应链利益的美国公司造成伤害”。FCC此前提议以国家安全风险为由，禁止美国本土及其他在美运营的电信企业与中国联通、中国移动、中国电信等中资公司进行互联。中国联通对此表示，中资电信运营商共同构成了中美这两个全球最大经济体之间通讯流量的主要网关。全面切断与这些实体的互联，将从根本上割裂全球通信网络的关键一环。—— 台湾工商时报、路透社",
-      "datetime": "2026-06-10T06:31:46+00:00",
-      "views": "1.48K",
-      "source_links": [
-        {
-          "text": "工商时报",
-          "url": "https://www.ctee.com.tw/news/20260610700783-430701"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/business/media-telecom/china-unicom-warns-planned-us-crackdown-could-disrupt-global-communications-2026-06-09/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29979",
-      "scraped_at": "2026-06-10T15:01:15.128016",
-      "title": "美拟禁联通恐扰全球通信",
-      "title_options": {
-        "conclusion": "美拟禁联通恐扰全球通信",
-        "attractive": "禁令或割裂全球通信网",
-        "minimal": "美禁令 联通警告",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41870",
-      "channel": "zaihuapd",
-      "text": "iOS 27 测试版中的 Siri AI 系统提示词泄露，超过 1300 行iOS 27 开发者预览版中，有用户在 Siri 反馈错误报告的诊断文件里发现完整 LLM 指令。相关内容随后被整理到 Gist，提示词超过 1300 行，约 22000 个 Token。这些指令把 Siri 定义为苹果设计的智能助手，要求它先思考再调用工具，优先使用设备和搜索返回的结构化信息；遇到缺失信息、歧义或无法完成的任务时，要询问用户或明确说明，不能自行编造。reddit|Gist（提示词全文）|蓝点网·备用频道·",
-      "clean_text": "iOS 27 测试版中的 Siri AI 系统提示词泄露，超过 1300 行iOS 27 开发者预览版中，有用户在 Siri 反馈错误报告的诊断文件里发现完整 LLM 指令。相关内容随后被整理到 Gist，提示词超过 1300 行，约 22000 个 Token。这些指令把 Siri 定义为苹果设计的智能助手，要求它先思考再调用工具，优先使用设备和搜索返回的结构化信息；遇到缺失信息、歧义或无法完成的任务时，要询问用户或明确说明，不能自行编造。reddit|Gist（提示词全文）|蓝点网·备用频道",
-      "datetime": "2026-06-10T06:30:00+00:00",
-      "views": "3.91K",
-      "source_links": [
-        {
-          "text": "reddit",
-          "url": "https://www.reddit.com/r/iOSBeta/comments/1u0kn3h/ios_27_db_1_siris_feedback_error_reporting_gives/"
-        },
-        {
-          "text": "Gist（提示词全文）",
-          "url": "https://gist.github.com/julianschiavo/2da270868175f0a52e423340c30a30b6"
-        },
-        {
-          "text": "蓝点网",
-          "url": "https://www.landian.news/archives/113383.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41870",
-      "scraped_at": "2026-06-10T15:01:12.992756",
-      "title": "Siri提示词泄露超1300行",
-      "title_options": {
-        "conclusion": "Siri提示词泄露超1300行",
-        "attractive": "Siri指令泄露22000Token",
-        "minimal": "Siri提示词泄露",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-06-11T18:28:10.186509"
+  "count": 57,
+  "updated_at": "2026-06-11T18:33:20.614490"
 }
