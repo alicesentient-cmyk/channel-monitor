@@ -1630,39 +1630,8 @@
         "minimal": "Neura融资14亿",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41881",
-      "channel": "zaihuapd",
-      "text": "德国法院裁定谷歌对 AI 概述虚假信息负责德国慕尼黑地区法院裁定，谷歌应对其 AI Overviews 产生的虚假声明直接负责，并下达临时禁令，禁止谷歌重复将两家慕尼黑出版商与诈骗、订阅陷阱等不实信息关联。法院认定，AI 概述生成的是\"独立的新实质性陈述\"，不属于普通搜索结果，谷歌作为发布者拥有完全控制权。该裁决虽是初步禁令，但可能影响 ChatGPT、Perplexity 等所有 AI 回答引擎。法院驳回了谷歌\"用户可自行查证来源\"的辩护，并责令谷歌承担 80%的诉讼费用，谷歌目前未作回应。The Next Web",
-      "clean_text": "德国法院裁定谷歌对 AI 概述虚假信息负责德国慕尼黑地区法院裁定，谷歌应对其 AI Overviews 产生的虚假声明直接负责，并下达临时禁令，禁止谷歌重复将两家慕尼黑出版商与诈骗、订阅陷阱等不实信息关联。法院认定，AI 概述生成的是\"独立的新实质性陈述\"，不属于普通搜索结果，谷歌作为发布者拥有完全控制权。该裁决虽是初步禁令，但可能影响 ChatGPT、Perplexity 等所有 AI 回答引擎。法院驳回了谷歌\"用户可自行查证来源\"的辩护，并责令谷歌承担 80%的诉讼费用，谷歌目前未作回应。The Next Web·备用频道",
-      "datetime": "2026-06-10T16:15:01+00:00",
-      "views": "3.01K",
-      "source_links": [
-        {
-          "text": "The Next Web",
-          "url": "https://thenextweb.com/news/google-ai-overviews-german-court-liable"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41881",
-      "scraped_at": "2026-06-11T01:00:17.902093",
-      "title": "德国法院裁定谷歌AI概述负责",
-      "title_options": {
-        "conclusion": "德国法院裁定谷歌AI概述负责",
-        "attractive": "谷歌AI虚假信息被判负责",
-        "minimal": "谷歌AI概述虚假信息",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-12T04:11:44.452173"
+  "count": 64,
+  "updated_at": "2026-06-12T04:16:48.288161"
 }
