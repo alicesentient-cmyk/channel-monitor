@@ -3886,5 +3886,184 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T16:03:06.928441"
+  },
+  "zaihuapd_41899": {
+    "ai_title": "7家火车票平台被约谈",
+    "title_options": {
+      "conclusion": "7家火车票平台被约谈",
+      "attractive": "抢票平台被约谈",
+      "minimal": "约谈7家平台",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:06.903733"
+  },
+  "xhqcankao_30026": {
+    "ai_title": "微软限制员工用Claude Fable",
+    "title_options": {
+      "conclusion": "微软限制员工用Claude Fable",
+      "attractive": "微软禁用Claude Fable",
+      "minimal": "微软限制Claude Fable",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:08.156089"
+  },
+  "zaihuapd_41898": {
+    "ai_title": "美查封13个中国情报域名",
+    "title_options": {
+      "conclusion": "美查封13个中国情报域名",
+      "attractive": "中方否认美间谍指控",
+      "minimal": "美查封13域名",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:09.198142"
+  },
+  "xhqcankao_30025": {
+    "ai_title": "Wing与沃尔玛新增7城无人机送货",
+    "title_options": {
+      "conclusion": "Wing与沃尔玛新增7城无人机送货",
+      "attractive": "无人机送货覆盖270家沃尔玛",
+      "minimal": "Wing沃尔玛7城无人机",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:10.312372"
+  },
+  "xhqcankao_30024": {
+    "ai_title": "沃伦呼吁SEC推迟SpaceX IPO",
+    "title_options": {
+      "conclusion": "沃伦呼吁SEC推迟SpaceX IPO",
+      "attractive": "SpaceX IPO遭参议员阻击",
+      "minimal": "沃伦 SEC SpaceX IPO",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:11.382685"
+  },
+  "zaihuapd_41897": {
+    "ai_title": "三平台签署黑名单共享公约",
+    "title_options": {
+      "conclusion": "三平台签署黑名单共享公约",
+      "attractive": "一处违法，全网受限",
+      "minimal": "黑名单跨平台共享",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:13.737790"
+  },
+  "xhqcankao_30023": {
+    "ai_title": "阿斯麦缩减裁员规模",
+    "title_options": {
+      "conclusion": "阿斯麦缩减裁员规模",
+      "attractive": "阿斯麦裁员计划缩水",
+      "minimal": "阿斯麦裁员缩减",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:14.818555"
+  },
+  "zaihuapd_41896": {
+    "ai_title": "macOS 27最后支持Rosetta…",
+    "title_options": {
+      "conclusion": "macOS 27最后支持Rosetta…",
+      "attractive": "Intel Mac无法升级macOS …",
+      "minimal": "Rosetta 2终止支持",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:15.969133"
+  },
+  "xhqcankao_30022": {
+    "ai_title": "酷澎在韩被罚6247亿韩元",
+    "title_options": {
+      "conclusion": "酷澎在韩被罚6247亿韩元",
+      "attractive": "3750万用户信息泄露",
+      "minimal": "酷澎 被罚 6247亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:16.960729"
+  },
+  "xhqcankao_30021": {
+    "ai_title": "钉钉换帅，90后接任",
+    "title_options": {
+      "conclusion": "钉钉换帅，90后接任",
+      "attractive": "钉钉CEO换90后",
+      "minimal": "钉钉换帅",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:18.094025"
+  },
+  "zaihuapd_41895": {
+    "ai_title": "中国审查Meta收购Manus",
+    "title_options": {
+      "conclusion": "中国审查Meta收购Manus",
+      "attractive": "Meta收购被查，高管禁离境",
+      "minimal": "Meta Manus 审查 禁离境",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:20.702914"
+  },
+  "xhqcankao_30020": {
+    "ai_title": "谷歌拒20亿量子资助",
+    "title_options": {
+      "conclusion": "谷歌拒20亿量子资助",
+      "attractive": "谷歌：资助会拖慢研发",
+      "minimal": "谷歌拒资助"
+    },
+    "generated_at": "2026-06-11T21:03:22.005777"
+  },
+  "zaihuapd_41894": {
+    "ai_title": "极兔速递被立案调查",
+    "title_options": {
+      "conclusion": "极兔速递被立案调查",
+      "attractive": "极兔安全隐患被查",
+      "minimal": "极兔立案调查",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:23.152911"
+  },
+  "xhqcankao_30019": {
+    "ai_title": "谷歌保存用户数据用于AI训练",
+    "title_options": {
+      "conclusion": "谷歌保存用户数据用于AI训练",
+      "attractive": "你的照片录音正被谷歌用于AI",
+      "minimal": "谷歌保存Lens照片录音",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:24.570987"
+  },
+  "zaihuapd_41893": {
+    "ai_title": "儿童可购铁路计次票",
+    "title_options": {
+      "conclusion": "儿童可购铁路计次票",
+      "attractive": "儿童票5折再优惠",
+      "minimal": "儿童铁路计次票",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:25.553142"
+  },
+  "xhqcankao_30018": {
+    "ai_title": "AI浪潮下劳动者权益保护",
+    "title_options": {
+      "conclusion": "AI浪潮下劳动者权益保护",
+      "attractive": "AI替岗解雇需协商",
+      "minimal": "AI劳动者权益",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:27.726509"
+  },
+  "xhqcankao_30016": {
+    "ai_title": "Bluesky将推社区功能",
+    "title_options": {
+      "conclusion": "Bluesky将推社区功能",
+      "attractive": "社区功能即将上线",
+      "minimal": "Bluesky社区",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:28.672491"
+  },
+  "xhqcankao_30017": {
+    "ai_title": "五电商因虚假宣传被约谈",
+    "title_options": {
+      "conclusion": "五电商因虚假宣传被约谈",
+      "attractive": "618促销虚假宣传被查",
+      "minimal": "电商虚假宣传约谈",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T21:03:29.697612"
   }
 }
