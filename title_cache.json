@@ -4165,5 +4165,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T00:02:27.542638"
+  },
+  "xhqcankao_30033": {
+    "ai_title": "YouTube重启私信功能",
+    "title_options": {
+      "conclusion": "YouTube重启私信功能",
+      "attractive": "YouTube私信需验证年龄",
+      "minimal": "YouTube私信",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T01:03:43.569864"
+  },
+  "xhqcankao_30034": {
+    "ai_title": "印航空难报告推迟发布",
+    "title_options": {
+      "conclusion": "印航空难报告推迟发布",
+      "attractive": "发动机检测未完致报告延期",
+      "minimal": "空难报告推迟",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T01:03:43.672539"
   }
 }
