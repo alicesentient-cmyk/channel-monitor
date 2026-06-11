@@ -1298,62 +1298,8 @@
         "minimal": "核弹头12187枚",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41872",
-      "channel": "zaihuapd",
-      "text": "MacBook Neo 2 或配 12 GB 内存，可运行苹果最强端侧 AI 模型苹果下一代平价笔记本 MacBook Neo 2 预计将把统一内存从 8 GB 提升至 12 GB，从而支持运行苹果目前最强的端侧 AI 模型 AFM 3 Core Advanced，获得现有 8 GB 机型不支持的表现力语音与高级听写等功能。现款 MacBook Neo 受 A18 Pro 封装限制，最高只能配备 8 GB 内存。新机若搭载 A19 Pro 芯片并增加内存，将在维持低价位的同时显著增强本地 AI 性能。Wccftech·备用频道·",
-      "clean_text": "MacBook Neo 2 或配 12 GB 内存，可运行苹果最强端侧 AI 模型苹果下一代平价笔记本 MacBook Neo 2 预计将把统一内存从 8 GB 提升至 12 GB，从而支持运行苹果目前最强的端侧 AI 模型 AFM 3 Core Advanced，获得现有 8 GB 机型不支持的表现力语音与高级听写等功能。现款 MacBook Neo 受 A18 Pro 封装限制，最高只能配备 8 GB 内存。新机若搭载 A19 Pro 芯片并增加内存，将在维持低价位的同时显著增强本地 AI 性能。Wccftech·备用频道",
-      "datetime": "2026-06-10T08:03:30+00:00",
-      "views": "5.34K",
-      "source_links": [
-        {
-          "text": "Wccftech",
-          "url": "https://wccftech.com/macbook-neo-2-most-affordable-apple-product-to-run-most-advanced-on-device-ai/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41872",
-      "scraped_at": "2026-06-10T17:01:03.391972",
-      "title": "MacBook Neo 2内存升至12…",
-      "title_options": {
-        "conclusion": "MacBook Neo 2内存升至12…",
-        "attractive": "12GB内存可运行最强AI",
-        "minimal": "MacBook Neo 2 12GB",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_29982",
-      "channel": "xhqcankao",
-      "text": "小鹏汽车进军游艇领域 内部已组建研发团队小鹏汽车已正式进军游艇领域，今年初已在内部组建了近百人研发团队，游艇项目内部代号为 “飞鱼”，项目负责人为小鹏汽车整车架构负责人钱占伟。报道称，小鹏汽车打造的游艇，核心竞争力聚焦于底盘算法，目标客户为高净值 C端家庭市场，目前仍处于研发阶段。据了解，小鹏并非首家涉足游艇的车企，但此前布局该领域的多为豪华品牌，如奔驰 AMG、兰博基尼、保时捷、雷克萨斯等。——雷锋网",
-      "clean_text": "小鹏汽车进军游艇领域 内部已组建研发团队小鹏汽车已正式进军游艇领域，今年初已在内部组建了近百人研发团队，游艇项目内部代号为 “飞鱼”，项目负责人为小鹏汽车整车架构负责人钱占伟。报道称，小鹏汽车打造的游艇，核心竞争力聚焦于底盘算法，目标客户为高净值 C端家庭市场，目前仍处于研发阶段。据了解，小鹏并非首家涉足游艇的车企，但此前布局该领域的多为豪华品牌，如奔驰 AMG、兰博基尼、保时捷、雷克萨斯等。——雷锋网",
-      "datetime": "2026-06-10T08:03:18+00:00",
-      "views": "2.24K",
-      "source_links": [
-        {
-          "text": "雷锋网",
-          "url": "https://mp.weixin.qq.com/s/KSthas989Sjhy1o68rUYJg"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29982",
-      "scraped_at": "2026-06-10T17:01:06.158958",
-      "title": "小鹏进军游艇领域",
-      "title_options": {
-        "conclusion": "小鹏进军游艇领域",
-        "attractive": "小鹏造游艇，底盘算法",
-        "minimal": "小鹏游艇研发",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-11T20:01:26.668959"
+  "count": 52,
+  "updated_at": "2026-06-11T20:06:37.091649"
 }
