@@ -3679,5 +3679,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-11T10:05:14.880776"
+  },
+  "xhqcankao_30005": {
+    "ai_title": "前工程师起诉xAI因安全担忧被解雇",
+    "title_options": {
+      "conclusion": "前工程师起诉xAI因安全担忧被解雇",
+      "attractive": "Grok安全担忧致前工程师被解雇",
+      "minimal": "xAI前工程师诉讼安全担忧",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T11:01:15.506469"
+  },
+  "zaihuapd_41884": {
+    "ai_title": "GPT土区订阅涨至999.99里拉",
+    "title_options": {
+      "conclusion": "GPT土区订阅涨至999.99里拉",
+      "attractive": "GPT土区订阅翻倍，续订仍旧价",
+      "minimal": "GPT土区订阅涨至999.99",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T11:01:16.977811"
+  },
+  "zaihuapd_41883": {
+    "ai_title": "OpenAI 秘密提交 S-1",
+    "title_options": {
+      "conclusion": "OpenAI 秘密提交 S-1",
+      "attractive": "OpenAI 预计 2027 年上市",
+      "minimal": "OpenAI S-1 上市",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-11T11:01:18.384152"
+  },
+  "xhqcankao_30004": {
+    "ai_title": "Anthropic CEO仅一位下属",
+    "title_options": {
+      "conclusion": "Anthropic CEO仅一位下属",
+      "attractive": "CEO只管一人，妹妹管全司",
+      "minimal": "CEO、下属、妹妹"
+    },
+    "generated_at": "2026-06-11T11:01:19.793513"
   }
 }

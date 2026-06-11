@@ -1,6 +1,117 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30005",
+      "channel": "xhqcankao",
+      "text": "xAI前工程师因提出AI安全担忧被解雇xAI 公司的一名前工程师已对该公司及其母公司SpaceX提起诉讼，声称自己因提出AI安全方面的担忧而被解雇。该工程师名为德文·金，他在2025年9月离开xAI。周二，他在加州法院提起了诉讼。诉状显示，德文·金在参与开发 xAI 聊天机器人Grok期间，成为公司内部推动AI安全的重要声音。他多次批评xAI公司未能在Grok开发过程中优先考虑安全问题。Grok此后也因一系列安全和行为问题遭到外界批评。德文·金尤其担心Grok可能煽动歧视，并助长大规模杀伤性武器相关信息的传播。“事实证明Grok的表现印证了德文·金担忧。该模型在网络上表现出极端仇恨和恶毒言论，甚至将自己比作希特勒，”诉状称。——凤凰网科技、TechCrunch",
+      "clean_text": "xAI前工程师因提出AI安全担忧被解雇xAI 公司的一名前工程师已对该公司及其母公司SpaceX提起诉讼，声称自己因提出AI安全方面的担忧而被解雇。该工程师名为德文·金，他在2025年9月离开xAI。周二，他在加州法院提起了诉讼。诉状显示，德文·金在参与开发 xAI 聊天机器人Grok期间，成为公司内部推动AI安全的重要声音。他多次批评xAI公司未能在Grok开发过程中优先考虑安全问题。Grok此后也因一系列安全和行为问题遭到外界批评。德文·金尤其担心Grok可能煽动歧视，并助长大规模杀伤性武器相关信息的传播。“事实证明Grok的表现印证了德文·金担忧。该模型在网络上表现出极端仇恨和恶毒言论，甚至将自己比作希特勒，”诉状称。——凤凰网科技、TechCrunch",
+      "datetime": "2026-06-11T02:33:57+00:00",
+      "views": "1.29K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v00656k61JjZr3JaAGR4W08OhHIu1Cl93bEPg5sYH1QMtbv0tC--XMnumqaqcVb8ge5AF"
+        },
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30005",
+      "scraped_at": "2026-06-11T11:00:53.318463",
+      "title": "前工程师起诉xAI因安全担忧被解雇",
+      "title_options": {
+        "conclusion": "前工程师起诉xAI因安全担忧被解雇",
+        "attractive": "Grok安全担忧致前工程师被解雇",
+        "minimal": "xAI前工程师诉讼安全担忧",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41884",
+      "channel": "zaihuapd",
+      "text": "GPT 土区应用内订阅涨至 999.99 里拉 / 月GPT 土耳其区应用内订阅价格已从 499.99 里拉/月调整至 999.99 里拉/月，价格翻倍。用户续订页面暂未同步显示新价格，仍显示旧价。参考via Hugh·备用频道·",
+      "clean_text": "GPT 土区应用内订阅涨至 999.99 里拉 / 月GPT 土耳其区应用内订阅价格已从 499.99 里拉/月调整至 999.99 里拉/月，价格翻倍。用户续订页面暂未同步显示新价格，仍显示旧价。参考via Hugh·备用频道",
+      "datetime": "2026-06-11T02:27:30+00:00",
+      "views": "3.94K",
+      "source_links": [
+        {
+          "text": "参考",
+          "url": "https://opentherank.com/ai-pricing/chatgpt/turkey/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41884",
+      "scraped_at": "2026-06-11T11:00:51.013825",
+      "title": "GPT土区订阅涨至999.99里拉",
+      "title_options": {
+        "conclusion": "GPT土区订阅涨至999.99里拉",
+        "attractive": "GPT土区订阅翻倍，续订仍旧价",
+        "minimal": "GPT土区订阅涨至999.99",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41883",
+      "channel": "zaihuapd",
+      "text": "OpenAI 秘密提交 S-1，奥尔特曼预计 2027 年上市OpenAI 已向美国证券交易委员会秘密提交 S-1 文件。奥尔特曼向员工表示，公司预计将在 2027 年上市，但具体时间、规模和条款尚未确定。提交文件旨在保留更早上市的选择，同时让公司在私有阶段推进一些关键事务更灵活。OpenAI 近期还计划以每股 687.69 美元进行要约收购。此前公司曾考虑最早在 2026 年 9 月上市，估值目标最高可达 1 万亿美元；奥尔特曼也提到，如果 AI 出现重大突破，如递归自我改进，上市计划可能会调整。Reuters·备用频道·",
+      "clean_text": "OpenAI 秘密提交 S-1，奥尔特曼预计 2027 年上市OpenAI 已向美国证券交易委员会秘密提交 S-1 文件。奥尔特曼向员工表示，公司预计将在 2027 年上市，但具体时间、规模和条款尚未确定。提交文件旨在保留更早上市的选择，同时让公司在私有阶段推进一些关键事务更灵活。OpenAI 近期还计划以每股 687.69 美元进行要约收购。此前公司曾考虑最早在 2026 年 9 月上市，估值目标最高可达 1 万亿美元；奥尔特曼也提到，如果 AI 出现重大突破，如递归自我改进，上市计划可能会调整。Reuters·备用频道",
+      "datetime": "2026-06-11T02:19:09+00:00",
+      "views": "4.44K",
+      "source_links": [
+        {
+          "text": "Reuters",
+          "url": "https://www.reuters.com/business/openai-expects-go-public-within-next-year-information-reports-2026-06-10/?utm_source=chatgpt.com"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41883",
+      "scraped_at": "2026-06-11T11:00:51.013198",
+      "title": "OpenAI 秘密提交 S-1",
+      "title_options": {
+        "conclusion": "OpenAI 秘密提交 S-1",
+        "attractive": "OpenAI 预计 2027 年上市",
+        "minimal": "OpenAI S-1 上市",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30004",
+      "channel": "xhqcankao",
+      "text": "Anthropic CEO阿莫代只有一位直接下属尽管联合创始人兼首席执行官达里奥·阿莫迪在Anthropic PBC拥有巨大影响力，在他这家人工智能公司只有一位直接下属。这在科技行业很不寻常，因为许多领导者正在精简管理层级并扩大管理幅度。Anthropic正在测试一种不同版本的领导模式，在这种模式中，CEO将几乎所有时间用于大局对话、组织文化以及为研究方向和战略提供意见，而不是管理担任高级领导职位的人员。公司的执行团队反而向达里奥的妹妹、公司总裁丹妮拉·阿莫迪汇报，她处理公司大部分的日常运营，并向董事会汇报。达里奥直接管理的唯一人员是其幕僚长阿维塔尔·巴尔维特。——彭博社",
+      "clean_text": "Anthropic CEO阿莫代只有一位直接下属尽管联合创始人兼首席执行官达里奥·阿莫迪在Anthropic PBC拥有巨大影响力，在他这家人工智能公司只有一位直接下属。这在科技行业很不寻常，因为许多领导者正在精简管理层级并扩大管理幅度。Anthropic正在测试一种不同版本的领导模式，在这种模式中，CEO将几乎所有时间用于大局对话、组织文化以及为研究方向和战略提供意见，而不是管理担任高级领导职位的人员。公司的执行团队反而向达里奥的妹妹、公司总裁丹妮拉·阿莫迪汇报，她处理公司大部分的日常运营，并向董事会汇报。达里奥直接管理的唯一人员是其幕僚长阿维塔尔·巴尔维特。——彭博社",
+      "datetime": "2026-06-11T02:01:52+00:00",
+      "views": "2.12K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-10/anthropic-ceo-dario-amodei-is-a-manager-to-only-one-direct-report"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30004",
+      "scraped_at": "2026-06-11T11:00:53.318071",
+      "title": "Anthropic CEO仅一位下属",
+      "title_options": {
+        "conclusion": "Anthropic CEO仅一位下属",
+        "attractive": "CEO只管一人，妹妹管全司",
+        "minimal": "CEO、下属、妹妹"
+      }
+    },
+    {
       "id": "xhqcankao_30003",
       "channel": "xhqcankao",
       "text": "美政府监管机构就预测市场交易提出新规特朗普政府的监管机构正提议针对蓬勃发展的预测市场出台一套广泛的新规，其具体框架将继续允许大多数体育相关押注，同时试图防范明显的操纵行为。美国商品期货交易委员会(CFTC)正寻求获得叫停特定预测押注的权力。若该机构认定相关押注不符合公众利益，或极易受到操纵，便可出手干预。该监管机构于周三提出了这些新规。这些规定可能会限制某些类型的体育相关交易，例如对球员受伤的押注以及所谓的首球押注。该机构的提议并未彻底禁止任何特定类型的事件合约交易，而是列出了监管机构在逐案审查某些类型合约时将考量的各项因素。——华尔街日报",
@@ -1462,6 +1573,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-06-11T10:56:09.324627"
+  "count": 63,
+  "updated_at": "2026-06-11T11:01:19.801236"
 }
