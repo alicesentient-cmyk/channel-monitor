@@ -1618,39 +1618,8 @@
         "minimal": "白宫AI测试管制",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41866",
-      "channel": "zaihuapd",
-      "text": "Codex 将连续 100 天选一位用户给予一个月 10 倍使用额度6 月 8 日，Codex 团队成员 Tibo 在 X 上宣布，未来 100 天，将每天选出一名用 Codex 做出出色或非常实用成果的人，给予其为期一个月的 10 倍使用额度。此举被外界视为用资源换取极限测试案例，以验证产品在真实工程中的表现。Tibo(@thsottiaux)·备用频道·",
-      "clean_text": "Codex 将连续 100 天选一位用户给予一个月 10 倍使用额度6 月 8 日，Codex 团队成员 Tibo 在 X 上宣布，未来 100 天，将每天选出一名用 Codex 做出出色或非常实用成果的人，给予其为期一个月的 10 倍使用额度。此举被外界视为用资源换取极限测试案例，以验证产品在真实工程中的表现。Tibo(@thsottiaux)·备用频道",
-      "datetime": "2026-06-10T03:25:06+00:00",
-      "views": "4.3K",
-      "source_links": [
-        {
-          "text": "Tibo(@thsottiaux)",
-          "url": "https://x.com/thsottiaux/status/2063748242681307611"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41866",
-      "scraped_at": "2026-06-10T12:00:45.648035",
-      "title": "Codex每日选用户赠10倍额度",
-      "title_options": {
-        "conclusion": "Codex每日选用户赠10倍额度",
-        "attractive": "10倍额度连送100天",
-        "minimal": "Codex 100天赠额度",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-11T15:21:59.810252"
+  "count": 64,
+  "updated_at": "2026-06-11T15:27:06.192674"
 }
