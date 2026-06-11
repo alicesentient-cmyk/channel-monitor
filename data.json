@@ -1577,26 +1577,8 @@
         "minimal": "CISA漏洞修补令",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41865",
-      "channel": "zaihuapd",
-      "text": "时隔多年 Telegram Apple Watch 版随 12.8 Beta 版回归，另外还新增了原生 Markdown 消息渲染功能 · 备用频道 ·",
-      "clean_text": "✈️时隔多年 Telegram Apple Watch 版随 12.8 Beta 版回归，另外还新增了原生 Markdown 消息渲染功能 · 备用频道 · 投稿通道",
-      "datetime": "2026-06-10T02:36:06+00:00",
-      "views": "2.98K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41865",
-      "scraped_at": "2026-06-10T11:01:03.012245",
-      "title": "Telegram Watch版回归",
-      "title_options": {
-        "conclusion": "Telegram Watch版回归",
-        "attractive": "Apple Watch版回归",
-        "minimal": "Watch版回归",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-11T14:35:48.798378"
+  "count": 62,
+  "updated_at": "2026-06-11T14:40:55.473158"
 }
