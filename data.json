@@ -1583,31 +1583,8 @@
         "minimal": "SpaceX IPO 135美元",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29969",
-      "channel": "xhqcankao",
-      "text": "小马智行将在卢森堡开启Robotaxi测试小马智行与欧洲本土的移动出行平台Bolt及全球汽车制造巨头Stellantis共同宣布，三方将在卢森堡启动Robotaxi测试项目。该项目将依托卢森堡在自动驾驶测试方面的前瞻性政策，重点验证小马智行第七代Robotaxi在本地交通环境中的安全性、运行表现及合规性。Stellantis将提供基于其L4级自动驾驶平台打造的MPV，并发挥其在车辆工程与制造领域的专业优势。目前三方正有序推进自动驾驶测试相关筹备工作，核心将聚焦于城市级自动驾驶的安全保障与运营体系验证，测试范围涵盖车辆部署、网约车平台集成、车队运营以及跨部门监管协作等关键环节。——环球网",
-      "clean_text": "小马智行将在卢森堡开启Robotaxi测试小马智行与欧洲本土的移动出行平台Bolt及全球汽车制造巨头Stellantis共同宣布，三方将在卢森堡启动Robotaxi测试项目。该项目将依托卢森堡在自动驾驶测试方面的前瞻性政策，重点验证小马智行第七代Robotaxi在本地交通环境中的安全性、运行表现及合规性。Stellantis将提供基于其L4级自动驾驶平台打造的MPV，并发挥其在车辆工程与制造领域的专业优势。目前三方正有序推进自动驾驶测试相关筹备工作，核心将聚焦于城市级自动驾驶的安全保障与运营体系验证，测试范围涵盖车辆部署、网约车平台集成、车队运营以及跨部门监管协作等关键环节。——环球网",
-      "datetime": "2026-06-10T01:31:20+00:00",
-      "views": "1.08K",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://tech.huanqiu.com/article/4RuTC3Paavs"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29969",
-      "scraped_at": "2026-06-10T10:01:18.375290",
-      "title": "小马智行卢森堡测试",
-      "title_options": {
-        "conclusion": "小马智行卢森堡测试",
-        "attractive": "Robotaxi欧洲首测",
-        "minimal": "小马智行卢森堡",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-11T13:29:18.279602"
+  "count": 63,
+  "updated_at": "2026-06-11T13:34:25.507776"
 }
