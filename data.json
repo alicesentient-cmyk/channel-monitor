@@ -1495,35 +1495,8 @@
         "minimal": "Siri提示词泄露",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29978",
-      "channel": "xhqcankao",
-      "text": "谷歌发布Gemini 3.5实时语音翻译模型谷歌人工智能团队日前发布Gemini 3.5 Live Translate实时翻译模型，这是谷歌最新的实时语音翻译模型，该模型支持超过70种语言并可以生成流畅自然的翻译语音，翻译时还会保留说话者的语调、语速和音高，尽可能让对话者体验到非常自然的多语言实时语音翻译。这个实时语音翻译模型还能持续生成语音，在等待上下文信息提升翻译质量和立即翻译之间保持平衡，实现流畅的音频输出避免尴尬的停顿。谷歌翻译 iOS 版和安卓版立即上线Gemini 3.5实时语音翻译模型，用户可以在谷歌翻译里免费使用。开发者可以通过 Gemini Live API 和 Google AI Studio 调用该模型进行体验。——蓝点网、Androidauthority",
-      "clean_text": "谷歌发布Gemini 3.5实时语音翻译模型谷歌人工智能团队日前发布Gemini 3.5 Live Translate实时翻译模型，这是谷歌最新的实时语音翻译模型，该模型支持超过70种语言并可以生成流畅自然的翻译语音，翻译时还会保留说话者的语调、语速和音高，尽可能让对话者体验到非常自然的多语言实时语音翻译。这个实时语音翻译模型还能持续生成语音，在等待上下文信息提升翻译质量和立即翻译之间保持平衡，实现流畅的音频输出避免尴尬的停顿。谷歌翻译 iOS 版和安卓版立即上线Gemini 3.5实时语音翻译模型，用户可以在谷歌翻译里免费使用。开发者可以通过 Gemini Live API 和 Google AI Studio 调用该模型进行体验。——蓝点网、Androidauthority",
-      "datetime": "2026-06-10T06:03:43+00:00",
-      "views": "2.37K",
-      "source_links": [
-        {
-          "text": "蓝点网",
-          "url": "https://www.landian.news/archives/113384.html?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=share&amp;utm_content=landiansub&amp;utm_term=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini+3.5%E5%AE%9E%E6%97%B6%E8%AF%AD%E9%9F%B3%E7%BF%BB%E8%AF%91%E6%A8%A1%E5%9E%8B+%E5%B7%B2%E5%9C%A8%E5%AE%89%E5%8D%93%E5%92%8CiOS%E7%89%88%E8%B0%B7%E6%AD%8C%E7%BF%BB%E8%AF%91%E4%B8%AD%E4%B8%8A%E7%BA%BF+%E4%B9%9F%E6%8F%90%E4%BE%9BAPI#google_vignette"
-        },
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/google-translate-meet-live-translation-3676026/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29978",
-      "scraped_at": "2026-06-10T15:01:15.127594",
-      "title": "谷歌发布Gemini 3.5实时翻译",
-      "title_options": {
-        "conclusion": "谷歌发布Gemini 3.5实时翻译",
-        "attractive": "谷歌翻译免费升级70种语言",
-        "minimal": "Gemini 3.5语音翻译上线",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-11T18:02:15.158357"
+  "count": 59,
+  "updated_at": "2026-06-11T18:07:26.375698"
 }
