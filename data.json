@@ -1888,35 +1888,8 @@
         "minimal": "加拿大 儿童 社媒 禁令",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30005",
-      "channel": "xhqcankao",
-      "text": "xAI前工程师因提出AI安全担忧被解雇xAI 公司的一名前工程师已对该公司及其母公司SpaceX提起诉讼，声称自己因提出AI安全方面的担忧而被解雇。该工程师名为德文·金，他在2025年9月离开xAI。周二，他在加州法院提起了诉讼。诉状显示，德文·金在参与开发 xAI 聊天机器人Grok期间，成为公司内部推动AI安全的重要声音。他多次批评xAI公司未能在Grok开发过程中优先考虑安全问题。Grok此后也因一系列安全和行为问题遭到外界批评。德文·金尤其担心Grok可能煽动歧视，并助长大规模杀伤性武器相关信息的传播。“事实证明Grok的表现印证了德文·金担忧。该模型在网络上表现出极端仇恨和恶毒言论，甚至将自己比作希特勒，”诉状称。",
-      "clean_text": "xAI前工程师因提出AI安全担忧被解雇xAI 公司的一名前工程师已对该公司及其母公司SpaceX提起诉讼，声称自己因提出AI安全方面的担忧而被解雇。该工程师名为德文·金，他在2025年9月离开xAI。周二，他在加州法院提起了诉讼。诉状显示，德文·金在参与开发 xAI 聊天机器人Grok期间，成为公司内部推动AI安全的重要声音。他多次批评xAI公司未能在Grok开发过程中优先考虑安全问题。Grok此后也因一系列安全和行为问题遭到外界批评。德文·金尤其担心Grok可能煽动歧视，并助长大规模杀伤性武器相关信息的传播。“事实证明Grok的表现印证了德文·金担忧。该模型在网络上表现出极端仇恨和恶毒言论，甚至将自己比作希特勒，”诉状称。——凤凰网科技、TechCrunch",
-      "datetime": "2026-06-11T02:33:57+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v00656k61JjZr3JaAGR4W08OhHIu1Cl93bEPg5sYH1QMtbv0tC--XMnumqaqcVb8ge5AF"
-        },
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30005",
-      "scraped_at": "2026-06-11T11:00:53.318463",
-      "title": "前工程师起诉xAI因安全担忧被解雇",
-      "title_options": {
-        "conclusion": "前工程师起诉xAI因安全担忧被解雇",
-        "attractive": "Grok安全担忧致前工程师被解雇",
-        "minimal": "xAI前工程师诉讼安全担忧",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 76,
-  "updated_at": "2026-06-12T14:30:55.550149"
+  "count": 75,
+  "updated_at": "2026-06-12T14:36:00.063440"
 }
