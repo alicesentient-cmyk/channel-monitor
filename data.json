@@ -1883,35 +1883,8 @@
         "minimal": "电商约谈补贴",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30007",
-      "channel": "xhqcankao",
-      "text": "谷歌推出DiffusionGemma开源模型谷歌当地时间6月10日发布实验性开源模型DiffusionGemma，采用文本扩散架构，在专用GPU上文本生成速度较传统自回归大语言模型最高提升4倍，模型以Apache 2.0许可证发布。谷歌称，DiffusionGemma定位为面向研究者和开发者的实验性模型，整体输出质量低于标准 Gemma 4，生产环境仍建议使用后者。该模型的速度优势主要体现于本地及低并发推理场景，在高并发云端部署中优势有限。文本扩散技术本身并非新概念，AI研究界已探索多年，但将其应用于大规模模型长期面临挑战。DiffusionGemma的发布标志着谷歌在将这一研究方向推向实用化方面迈出了可量化的一步。",
-      "clean_text": "谷歌推出DiffusionGemma开源模型谷歌当地时间6月10日发布实验性开源模型DiffusionGemma，采用文本扩散架构，在专用GPU上文本生成速度较传统自回归大语言模型最高提升4倍，模型以Apache 2.0许可证发布。谷歌称，DiffusionGemma定位为面向研究者和开发者的实验性模型，整体输出质量低于标准 Gemma 4，生产环境仍建议使用后者。该模型的速度优势主要体现于本地及低并发推理场景，在高并发云端部署中优势有限。文本扩散技术本身并非新概念，AI研究界已探索多年，但将其应用于大规模模型长期面临挑战。DiffusionGemma的发布标志着谷歌在将这一研究方向推向实用化方面迈出了可量化的一步。——界面新闻、谷歌博客",
-      "datetime": "2026-06-11T03:32:57+00:00",
-      "views": "1.24K",
-      "source_links": [
-        {
-          "text": "界面新闻",
-          "url": "https://www.jiemian.com/article/14568853.html"
-        },
-        {
-          "text": "谷歌博客",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30007",
-      "scraped_at": "2026-06-11T12:00:42.036042",
-      "title": "谷歌开源DiffusionGemma",
-      "title_options": {
-        "conclusion": "谷歌开源DiffusionGemma",
-        "attractive": "文本生成速度提升4倍",
-        "minimal": "DiffusionGemma开源",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 76,
-  "updated_at": "2026-06-12T15:31:57.993844"
+  "count": 75,
+  "updated_at": "2026-06-12T15:37:02.481942"
 }
