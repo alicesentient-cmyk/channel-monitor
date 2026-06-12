@@ -4562,5 +4562,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T17:03:45.339438"
+  },
+  "xhqcankao_30063": {
+    "ai_title": "英伟达八月推Vera处理器",
+    "title_options": {
+      "conclusion": "英伟达八月推Vera处理器",
+      "attractive": "中国客户可下单Vera",
+      "minimal": "英伟达Vera八月上市",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T18:04:41.725257"
+  },
+  "zaihuapd_41916": {
+    "ai_title": "Codex新增开发者模式",
+    "title_options": {
+      "conclusion": "Codex新增开发者模式",
+      "attractive": "Codex支持CDP调试",
+      "minimal": "Codex开发者模式",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T18:04:41.901423"
+  },
+  "xhqcankao_30062": {
+    "ai_title": "谷歌选定三星生产TPU组件",
+    "title_options": {
+      "conclusion": "谷歌选定三星生产TPU组件",
+      "attractive": "三星2nm代工谷歌TPU",
+      "minimal": "谷歌三星TPU合作"
+    },
+    "generated_at": "2026-06-12T18:04:41.974110"
   }
 }
