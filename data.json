@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30048",
+      "channel": "xhqcankao",
+      "text": "Instagram赋予用户调整推荐算法的控制权社交媒体平台 Instagram 将让用户调整其算法在主页信息流中显示的内容。通过“你的算法”功能， “你现在可以看到我们认为你感兴趣的主题，并在 Instagram 的所有主要部分中更改它们，”据该社交媒体平台负责人亚当·莫塞里称。目前，该功能只会呈现主题，但Instagram正在努力“支持对人物、不同心情或氛围、内容类型等的请求。”公司一直在逐步赋予用户对 Instagram 某些算法更大的控制权，此前已经针对用户的Reels信息流和探索页面推出了“你的算法”功能。“我相信，作为一家企业，赋予人们能力将 Instagram 塑造成适合他们的社交平台，符合我们的最大利益，并且人们应该对他们花费大量时间的产品拥有真正的控制权，”莫塞里表示。",
+      "clean_text": "Instagram赋予用户调整推荐算法的控制权社交媒体平台 Instagram 将让用户调整其算法在主页信息流中显示的内容。通过“你的算法”功能， “你现在可以看到我们认为你感兴趣的主题，并在 Instagram 的所有主要部分中更改它们，”据该社交媒体平台负责人亚当·莫塞里称。目前，该功能只会呈现主题，但Instagram正在努力“支持对人物、不同心情或氛围、内容类型等的请求。”公司一直在逐步赋予用户对 Instagram 某些算法更大的控制权，此前已经针对用户的Reels信息流和探索页面推出了“你的算法”功能。“我相信，作为一家企业，赋予人们能力将 Instagram 塑造成适合他们的社交平台，符合我们的最大利益，并且人们应该对他们花费大量时间的产品拥有真正的控制权，”莫塞里表示。——Theverge",
+      "datetime": "2026-06-12T02:33:31+00:00",
+      "views": "1.09K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30048",
+      "scraped_at": "2026-06-12T11:01:08.303493",
+      "title": "Instagram允许用户调整算法",
+      "title_options": {
+        "conclusion": "Instagram允许用户调整算法",
+        "attractive": "你的算法你做主",
+        "minimal": "算法控制权",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41907",
+      "channel": "zaihuapd",
+      "text": "拆解显示 Trump Mobile T1 与 HTC U24 Pro 几乎相同，多数组件来自中国iFixit 拆解 Trump Mobile T1 后认为，这款 499 美元手机与 HTC U24 Pro 几乎相同。主要差别是电池容量略大但充电功率从 60W 降到 30W，外观改成金色，并有少量摄像头和扬声器开孔调整。T1 的芯片、12 GB 内存和 512 GB 存储配置基本一致。Trump Mobile 曾称其“美国制造”，现在改称“在美国组装”；拆解信息显示，多数组件来自中国，仅电池等来自菲律宾。Engadget",
+      "clean_text": "拆解显示 Trump Mobile T1 与 HTC U24 Pro 几乎相同，多数组件来自中国iFixit 拆解 Trump Mobile T1 后认为，这款 499 美元手机与 HTC U24 Pro 几乎相同。主要差别是电池容量略大但充电功率从 60W 降到 30W，外观改成金色，并有少量摄像头和扬声器开孔调整。T1 的芯片、12 GB 内存和 512 GB 存储配置基本一致。Trump Mobile 曾称其“美国制造”，现在改称“在美国组装”；拆解信息显示，多数组件来自中国，仅电池等来自菲律宾。Engadget·备用频道",
+      "datetime": "2026-06-12T02:20:47+00:00",
+      "views": "3.83K",
+      "source_links": [
+        {
+          "text": "Engadget",
+          "url": "https://www.engadget.com/2192273/teardown-finds-that-the-trump-phone-is-practically-the-same-as-an-htc-handset/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41907",
+      "scraped_at": "2026-06-12T11:01:06.454192",
+      "title": "Trump手机与HTC几乎相同",
+      "title_options": {
+        "conclusion": "Trump手机与HTC几乎相同",
+        "attractive": "499美元手机竟是中国组装",
+        "minimal": "Trump手机HTC同款",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30047",
       "channel": "xhqcankao",
       "text": "官员威胁删帖 美国新法案将允许用户起诉根据一项新的两党法案，如果政府官员非法试图强迫社交媒体、人工智能或广播公司删除美国人的帖子",
@@ -1860,35 +1914,8 @@
         "minimal": "Roblox解禁",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_29998",
-      "channel": "xhqcankao",
-      "text": "德国机器人公司Neura获最高14亿美元融资德国人形机器人公司Neura Robotics在最新一轮融资中获得多家重量级投资机构支持，以加速打造全球领先的物理AI平台。当地时间周三，Neura Robotics宣布已完成C轮融资，融资总额最高可达14亿美元。本轮融资汇聚了AI、机器人、芯片、制造业及工业基础设施领域的多家全球龙头企业和机构投资者，包括稳定币发行商Tether、芯片巨头高通、科技巨头亚马逊和英伟达，同时还有欧洲工业巨头博世、Schaeffler以及欧洲投资银行。知情人士透露，Neura Robotics在本轮融资后的估值约为70亿美元。",
-      "clean_text": "德国机器人公司Neura获最高14亿美元融资德国人形机器人公司Neura Robotics在最新一轮融资中获得多家重量级投资机构支持，以加速打造全球领先的物理AI平台。当地时间周三，Neura Robotics宣布已完成C轮融资，融资总额最高可达14亿美元。本轮融资汇聚了AI、机器人、芯片、制造业及工业基础设施领域的多家全球龙头企业和机构投资者，包括稳定币发行商Tether、芯片巨头高通、科技巨头亚马逊和英伟达，同时还有欧洲工业巨头博世、Schaeffler以及欧洲投资银行。知情人士透露，Neura Robotics在本轮融资后的估值约为70亿美元。——财联社、彭博社",
-      "datetime": "2026-06-10T23:01:34+00:00",
-      "views": "1.07K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2396520?sv=8.7.8&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-10/tether-backs-german-robotics-startup-neura-in-1-4-billion-round"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/29998",
-      "scraped_at": "2026-06-11T08:00:51.138014",
-      "title": "Neura获14亿美元融资",
-      "title_options": {
-        "conclusion": "Neura获14亿美元融资",
-        "attractive": "高通亚马逊投资机器人",
-        "minimal": "Neura融资14亿",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-12T10:57:27.091474"
+  "count": 75,
+  "updated_at": "2026-06-12T11:02:33.825170"
 }
