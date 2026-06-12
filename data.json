@@ -1669,31 +1669,8 @@
         "minimal": "约谈7家平台",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30026",
-      "channel": "xhqcankao",
-      "text": "微软已限制员工使用 Claude Fable 模型Anthropic 昨日推出了旗下首款 Mythos 级人工智能模型Claude Fable，这款模型已然在微软内部引发担忧。消息人士透露，由于 Anthropic 出台了新的数据留存规定，微软已限制员工使用 Claude Fable 5。微软虽迅速为 GitHub Copilot和Foundry 平台的付费客户上线了 Claude Fable 5，但该模型并未出现在微软员工内部版 GitHub Copilot 的模型选择列表中。其余所有Claude系列模型仍可在微软内部正常使用，因为这些模型均遵循零数据留存规则。据悉，微软公司已告知员工，公司法务团队正在评估 Anthropic 最新的数据留存条款。据称，主要担忧在于用户数据与企业机密信息安全上。",
-      "clean_text": "微软已限制员工使用 Claude Fable 模型Anthropic 昨日推出了旗下首款 Mythos 级人工智能模型Claude Fable，这款模型已然在微软内部引发担忧。消息人士透露，由于 Anthropic 出台了新的数据留存规定，微软已限制员工使用 Claude Fable 5。微软虽迅速为 GitHub Copilot和Foundry 平台的付费客户上线了 Claude Fable 5，但该模型并未出现在微软员工内部版 GitHub Copilot 的模型选择列表中。其余所有Claude系列模型仍可在微软内部正常使用，因为这些模型均遵循零数据留存规则。据悉，微软公司已告知员工，公司法务团队正在评估 Anthropic 最新的数据留存条款。据称，主要担忧在于用户数据与企业机密信息安全上。——Theverge",
-      "datetime": "2026-06-11T12:32:11+00:00",
-      "views": "1.41K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30026",
-      "scraped_at": "2026-06-11T21:01:26.974769",
-      "title": "微软限制员工用Claude Fable",
-      "title_options": {
-        "conclusion": "微软限制员工用Claude Fable",
-        "attractive": "微软禁用Claude Fable",
-        "minimal": "微软限制Claude Fable",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-13T00:31:25.564671"
+  "count": 68,
+  "updated_at": "2026-06-13T00:36:29.954189"
 }
