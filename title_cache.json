@@ -4730,5 +4730,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-13T00:05:54.553983"
+  },
+  "xhqcankao_30072": {
+    "ai_title": "SpaceX上市，马斯克成万亿富豪",
+    "title_options": {
+      "conclusion": "SpaceX上市，马斯克成万亿富豪",
+      "attractive": "马斯克身家破万亿",
+      "minimal": "SpaceX上市 马斯克万亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T07:02:16.401936"
+  },
+  "xhqcankao_30071": {
+    "ai_title": "SpaceX总裁称不排除与特斯拉合并",
+    "title_options": {
+      "conclusion": "SpaceX总裁称不排除与特斯拉合并",
+      "attractive": "SpaceX上市后或与特斯拉合并",
+      "minimal": "SpaceX特斯拉合并可能",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T07:02:16.613252"
   }
 }
