@@ -4641,5 +4641,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T20:01:35.863971"
+  },
+  "xhqcankao_30067": {
+    "ai_title": "华为智能协作产品7月涨价",
+    "title_options": {
+      "conclusion": "华为智能协作产品7月涨价",
+      "attractive": "华为智能协作涨价7月1日",
+      "minimal": "华为智能协作涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T21:02:45.808679"
+  },
+  "xhqcankao_30066": {
+    "ai_title": "AI高管出席G7峰会",
+    "title_options": {
+      "conclusion": "AI高管出席G7峰会",
+      "attractive": "AI巨头齐聚G7",
+      "minimal": "G7 AI高管参会",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T21:02:45.975235"
+  },
+  "zaihuapd_41920": {
+    "ai_title": "市场监管总局整治广告乱象",
+    "title_options": {
+      "conclusion": "市场监管总局整治广告乱象",
+      "attractive": "大字吸睛小字免责被查",
+      "minimal": "广告乱象整治",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T21:02:46.071565"
   }
 }
