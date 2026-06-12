@@ -1860,31 +1860,8 @@
         "minimal": "Claude Fable 5发布",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30015",
-      "channel": "xhqcankao",
-      "text": "Steam因诈骗猖獗停止发行实体版礼品卡Steam将停止在商店销售实体礼品卡。在支持页面中，V 社表示一旦其礼品卡售罄，将不再补货，理由是诈骗者持续对Steam用户及其他毫无防备个人造成影响。 Valve 在其公告中引用了美国联邦贸易委员会的一篇文章，该文章概述了礼品卡诈骗者如何试图说服受害者在商店购买礼品卡，并将代码交给诈骗者。 Valve 表示，公司已通过与执法部门合作、在礼品卡上添加警告，以及限制其在商店的供应来应对这些诈骗，但诈骗者已经找到了应对之策。​“虽然我们将不再销售实体礼品卡，但您仍然可以随时在Steam上使用您现有的礼品卡，”Valve表示。",
-      "clean_text": "Steam因诈骗猖獗停止发行实体版礼品卡Steam将停止在商店销售实体礼品卡。在支持页面中，V 社表示一旦其礼品卡售罄，将不再补货，理由是诈骗者持续对Steam用户及其他毫无防备个人造成影响。 Valve 在其公告中引用了美国联邦贸易委员会的一篇文章，该文章概述了礼品卡诈骗者如何试图说服受害者在商店购买礼品卡，并将代码交给诈骗者。 Valve 表示，公司已通过与执法部门合作、在礼品卡上添加警告，以及限制其在商店的供应来应对这些诈骗，但诈骗者已经找到了应对之策。​“虽然我们将不再销售实体礼品卡，但您仍然可以随时在Steam上使用您现有的礼品卡，”Valve表示。——Theverge",
-      "datetime": "2026-06-11T07:30:45+00:00",
-      "views": "1.53K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30015",
-      "scraped_at": "2026-06-11T16:00:48.929141",
-      "title": "Steam停售实体礼品卡",
-      "title_options": {
-        "conclusion": "Steam停售实体礼品卡",
-        "attractive": "诈骗猖獗，Steam停售实体卡",
-        "minimal": "Steam实体卡停售",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 75,
-  "updated_at": "2026-06-12T19:25:55.121092"
+  "count": 74,
+  "updated_at": "2026-06-12T19:30:59.170180"
 }
