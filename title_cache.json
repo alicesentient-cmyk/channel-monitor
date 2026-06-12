@@ -4532,5 +4532,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T16:02:33.011059"
+  },
+  "zaihuapd_41915": {
+    "ai_title": "华为盘古被指抄袭通义千问",
+    "title_options": {
+      "conclusion": "华为盘古被指抄袭通义千问",
+      "attractive": "新方法一小时检测抄袭",
+      "minimal": "盘古抄袭通义千问",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T17:03:45.078076"
+  },
+  "xhqcankao_30060": {
+    "ai_title": "铠侠市值超丰田居日本首位",
+    "title_options": {
+      "conclusion": "铠侠市值超丰田居日本首位",
+      "attractive": "AI投资助铠侠市值超丰田",
+      "minimal": "铠侠市值44万亿日元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T17:03:45.269358"
+  },
+  "xhqcankao_30061": {
+    "ai_title": "网信办发布涉企信息清除公约",
+    "title_options": {
+      "conclusion": "网信办发布涉企信息清除公约",
+      "attractive": "涉企虚假信息将被平台主动清除",
+      "minimal": "网信办 公约 清除虚假信息",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T17:03:45.339438"
   }
 }
