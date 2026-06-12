@@ -4671,5 +4671,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T21:02:46.071565"
+  },
+  "xhqcankao_30070": {
+    "ai_title": "Telegram支持Wear OS手表",
+    "title_options": {
+      "conclusion": "Telegram支持Wear OS手表",
+      "attractive": "手表上回复消息来了",
+      "minimal": "Telegram Wear OS支持",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T22:03:58.006861"
+  },
+  "xhqcankao_30068": {
+    "ai_title": "境外间谍用新设备窃取海洋数据",
+    "title_options": {
+      "conclusion": "境外间谍用新设备窃取海洋数据",
+      "attractive": "间谍用“谍龟谍鱼”偷数据",
+      "minimal": "间谍设备窃取海洋数据",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T22:03:58.122283"
+  },
+  "xhqcankao_30069": {
+    "ai_title": "300吨铁管漂至石川县",
+    "title_options": {
+      "conclusion": "300吨铁管漂至石川县",
+      "attractive": "中企铁管漂日本，撤除费5000万",
+      "minimal": "巨型铁管 石川县 漂抵"
+    },
+    "generated_at": "2026-06-12T22:03:58.255437"
   }
 }
