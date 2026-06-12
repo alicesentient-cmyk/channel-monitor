@@ -4245,5 +4245,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T04:01:35.068175"
+  },
+  "xhqcankao_30041": {
+    "ai_title": "OpenAI收购Ona强化Codex",
+    "title_options": {
+      "conclusion": "OpenAI收购Ona强化Codex",
+      "attractive": "Codex能执行更复杂任务",
+      "minimal": "OpenAI收购Ona",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T08:04:42.075517"
+  },
+  "xhqcankao_30042": {
+    "ai_title": "英伟达与Abridge合作开发医疗AI",
+    "title_options": {
+      "conclusion": "英伟达与Abridge合作开发医疗AI",
+      "attractive": "医疗AI模型仅限Abridge平台使用",
+      "minimal": "英伟达 Abridge 医疗AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T08:04:42.363494"
   }
 }

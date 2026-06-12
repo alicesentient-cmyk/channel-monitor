@@ -1,6 +1,56 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30042",
+      "channel": "xhqcankao",
+      "text": "英伟达携手Abridge开发医疗AI模型英伟达公司正在与医疗人工智能笔记应用开发商 Abridge 合作，训练一款专门面向医疗领域的人工智能模型，进一步拓展其在医疗行业的布局。两家公司表示，该AI模型将专为临床对话场景设计，仅在 Abridge 平台内部使用，以提升临床决策支持和文档处理等功能。英伟达医疗事业部副总裁金伯利·鲍威尔表示，这一模型将基于英伟达的开放模型套件 Nemotron 进行训练。开放模型通常可供用户免费下载和修改，而真正的开源模型则允许用户访问完整训练数据和代码。鲍威尔指出：“现在正是一个机会，将这些模型在开发初期就结合临床智能进行适配。”",
+      "clean_text": "英伟达携手Abridge开发医疗AI模型英伟达公司正在与医疗人工智能笔记应用开发商 Abridge 合作，训练一款专门面向医疗领域的人工智能模型，进一步拓展其在医疗行业的布局。两家公司表示，该AI模型将专为临床对话场景设计，仅在 Abridge 平台内部使用，以提升临床决策支持和文档处理等功能。英伟达医疗事业部副总裁金伯利·鲍威尔表示，这一模型将基于英伟达的开放模型套件 Nemotron 进行训练。开放模型通常可供用户免费下载和修改，而真正的开源模型则允许用户访问完整训练数据和代码。鲍威尔指出：“现在正是一个机会，将这些模型在开发初期就结合临床智能进行适配。”——财联社",
+      "datetime": "2026-06-11T23:30:28+00:00",
+      "views": "641",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2397672?sv=8.5.9&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30042",
+      "scraped_at": "2026-06-12T08:00:14.994943",
+      "title": "英伟达与Abridge合作开发医疗AI",
+      "title_options": {
+        "conclusion": "英伟达与Abridge合作开发医疗AI",
+        "attractive": "医疗AI模型仅限Abridge平台使用",
+        "minimal": "英伟达 Abridge 医疗AI",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30041",
+      "channel": "xhqcankao",
+      "text": "OpenAI收购云端平台强化Codex竞争力OpenAI公司周四在官网宣布，将收购初创公司Ona。据了解，Ona的主营业务是提供安全的、预先配置的云端运行环境，可使人工智能代理（AI Agents）能够访问所需工具、系统和上下文信息。OpenAI表示，Ona的技术将帮助OpenAI的AI编程助手Codex执行运行时间更长、更复杂的任务。同时，该技术也将帮助更多企业将能够自主完成用户任务的AI代理正式部署到生产环境中。OpenAI并未披露此次收购的具体金额，该交易仍需满足常规成交条件。交易完成后，Ona全体员工将加入OpenAI，并进入Codex团队工作。",
+      "clean_text": "OpenAI收购云端平台强化Codex竞争力OpenAI公司周四在官网宣布，将收购初创公司Ona。据了解，Ona的主营业务是提供安全的、预先配置的云端运行环境，可使人工智能代理（AI Agents）能够访问所需工具、系统和上下文信息。OpenAI表示，Ona的技术将帮助OpenAI的AI编程助手Codex执行运行时间更长、更复杂的任务。同时，该技术也将帮助更多企业将能够自主完成用户任务的AI代理正式部署到生产环境中。OpenAI并未披露此次收购的具体金额，该交易仍需满足常规成交条件。交易完成后，Ona全体员工将加入OpenAI，并进入Codex团队工作。——财联社、彭博社",
+      "datetime": "2026-06-11T23:04:34+00:00",
+      "views": "1.01K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2397742?sv=8.5.9&amp;app=cailianpress"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30041",
+      "scraped_at": "2026-06-12T08:00:14.994596",
+      "title": "OpenAI收购Ona强化Codex",
+      "title_options": {
+        "conclusion": "OpenAI收购Ona强化Codex",
+        "attractive": "Codex能执行更复杂任务",
+        "minimal": "OpenAI收购Ona",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30040",
       "channel": "xhqcankao",
       "text": "德国法院里程碑判决：AI搜索生成诽谤言论，谷歌不能甩锅慕尼黑地方法院近期作出一项里程碑式的裁决：谷歌需要为其AI生成的搜索摘要直接承担责任。此前保护搜索引擎运营商的免责法律条款，不适用于AI生成的摘要。谷歌搜索的 “AI概览” 能够在用户查询信息时自动整合网页信息，在结果页最上方给出一段概括性回答。这项功能最早于2024年向美国用户推出，去年三月份登陆德国市场，随后引发官司。在本案中，两家德国出版商指控谷歌在其AI搜索散布涉及两家公司的虚假信息，将它们与诈骗、订阅陷阱及不正当商业行为联系起来。更诡异的是，AI引用的网页链接均未展现类似信息。出版商曾向谷歌发送律师信要求停止侵权，但未获得适当回应。",
@@ -1632,6 +1682,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-12T07:59:37.280077"
+  "count": 66,
+  "updated_at": "2026-06-12T08:04:42.372025"
 }
