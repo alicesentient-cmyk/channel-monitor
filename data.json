@@ -1946,39 +1946,8 @@
         "minimal": "GPT土区订阅涨至999.99",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41883",
-      "channel": "zaihuapd",
-      "text": "OpenAI 秘密提交 S-1，奥尔特曼预计 2027 年上市OpenAI 已向美国证券交易委员会秘密提交 S-1 文件。奥尔特曼向员工表示，公司预计将在 2027 年上市，但具体时间、规模和条款尚未确定。提交文件旨在保留更早上市的选择，同时让公司在私有阶段推进一些关键事务更灵活。OpenAI 近期还计划以每股 687.69 美元进行要约收购。此前公司曾考虑最早在 2026 年 9 月上市，估值目标最高可达 1 万亿美元；奥尔特曼也提到，如果 AI 出现重大突破，如递归自我改进，上市计划可能会调整。Reuters",
-      "clean_text": "OpenAI 秘密提交 S-1，奥尔特曼预计 2027 年上市OpenAI 已向美国证券交易委员会秘密提交 S-1 文件。奥尔特曼向员工表示，公司预计将在 2027 年上市，但具体时间、规模和条款尚未确定。提交文件旨在保留更早上市的选择，同时让公司在私有阶段推进一些关键事务更灵活。OpenAI 近期还计划以每股 687.69 美元进行要约收购。此前公司曾考虑最早在 2026 年 9 月上市，估值目标最高可达 1 万亿美元；奥尔特曼也提到，如果 AI 出现重大突破，如递归自我改进，上市计划可能会调整。Reuters·备用频道",
-      "datetime": "2026-06-11T02:19:09+00:00",
-      "views": "4.44K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/business/openai-expects-go-public-within-next-year-information-reports-2026-06-10/?utm_source=chatgpt.com"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41883",
-      "scraped_at": "2026-06-11T11:00:51.013198",
-      "title": "OpenAI 秘密提交 S-1",
-      "title_options": {
-        "conclusion": "OpenAI 秘密提交 S-1",
-        "attractive": "OpenAI 预计 2027 年上市",
-        "minimal": "OpenAI S-1 上市",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 78,
-  "updated_at": "2026-06-12T14:15:43.159912"
+  "count": 77,
+  "updated_at": "2026-06-12T14:20:47.351792"
 }
