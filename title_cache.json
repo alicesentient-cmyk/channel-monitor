@@ -4464,5 +4464,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T14:00:28.065658"
+  },
+  "zaihuapd_41912": {
+    "ai_title": "苹果首款触屏MacBook确认",
+    "title_options": {
+      "conclusion": "苹果首款触屏MacBook确认",
+      "attractive": "触屏MacBook或推迟至2027",
+      "minimal": "触屏MacBook确认"
+    },
+    "generated_at": "2026-06-12T15:01:27.664607"
+  },
+  "xhqcankao_30055": {
+    "ai_title": "日本利用AI防儿童自杀",
+    "title_options": {
+      "conclusion": "日本利用AI防儿童自杀",
+      "attractive": "AI预警儿童自杀风险",
+      "minimal": "AI防儿童自杀",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T15:01:27.986989"
+  },
+  "xhqcankao_30056": {
+    "ai_title": "影石在美反诉大疆五项专利侵权",
+    "title_options": {
+      "conclusion": "影石在美反诉大疆五项专利侵权",
+      "attractive": "影石反诉大疆，云台相机专利战升级",
+      "minimal": "影石反诉大疆五项专利",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T15:01:28.008268"
   }
 }
