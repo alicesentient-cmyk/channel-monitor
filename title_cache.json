@@ -4493,5 +4493,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T15:01:28.008268"
+  },
+  "xhqcankao_30059": {
+    "ai_title": "苹果重申Siri定位工具",
+    "title_options": {
+      "conclusion": "苹果重申Siri定位工具",
+      "attractive": "Siri拒绝情感绑定",
+      "minimal": "苹果Siri工具定位"
+    },
+    "generated_at": "2026-06-12T16:02:31.709041"
+  },
+  "zaihuapd_41914": {
+    "ai_title": "鸿蒙7正式发布",
+    "title_options": {
+      "conclusion": "鸿蒙7正式发布",
+      "attractive": "鸿蒙7迈向Agent时代",
+      "minimal": "鸿蒙7发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T16:02:31.818524"
+  },
+  "xhqcankao_30058": {
+    "ai_title": "日产AI缩短新车开发周期",
+    "title_options": {
+      "conclusion": "日产AI缩短新车开发周期",
+      "attractive": "日产新车开发周期减半",
+      "minimal": "日产AI加速新车开发",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T16:02:31.843376"
+  },
+  "xhqcankao_30057": {
+    "ai_title": "Meta视频编辑应用将推AI助手",
+    "title_options": {
+      "conclusion": "Meta视频编辑应用将推AI助手",
+      "attractive": "AI助手助你分析视频洞察",
+      "minimal": "Meta Edits AI助手",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T16:02:33.011059"
   }
 }
