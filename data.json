@@ -1842,26 +1842,8 @@
         "minimal": "电商虚假宣传约谈",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41892",
-      "channel": "zaihuapd",
-      "text": "Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升  Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。  同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有…",
-      "clean_text": "🤖Anthropic 发布 Claude Fable 5 与 Mythos 5，性能大幅跃升  Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。  同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有…",
-      "datetime": "2026-06-11T07:45:00+00:00",
-      "views": "2.57K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41892",
-      "scraped_at": "2026-06-11T16:00:41.407822",
-      "title": "Anthropic发布Claude F…",
-      "title_options": {
-        "conclusion": "Anthropic发布Claude F…",
-        "attractive": "性能跃升价格减半",
-        "minimal": "Claude Fable 5发布",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-12T19:41:15.872249"
+  "count": 73,
+  "updated_at": "2026-06-12T19:46:19.827370"
 }
