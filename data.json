@@ -1435,39 +1435,8 @@
         "minimal": "美查封13域名涉间谍",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41902",
-      "channel": "zaihuapd",
-      "text": "IGXE：2025 年税收清缴已结束，警惕假借报税收费IGXE 表示，平台 2025 年税收清缴工作已于 2026 年 3 月结束，并已逐一电话通知相关用户，不存在产生高额费用的情况。近期以“IGXE 平台报税”为名要求缴费的信息均为不实信息，用户应提高防范意识，必要时报警。关于 2026 年代扣代缴安排，IGXE 称相关机关单位已进行工作指导，双方正协商推进合规工作。后续进展将通过公告、电话、短信等方式通知。IGXE",
-      "clean_text": "IGXE：2025 年税收清缴已结束，警惕假借报税收费IGXE 表示，平台 2025 年税收清缴工作已于 2026 年 3 月结束，并已逐一电话通知相关用户，不存在产生高额费用的情况。近期以“IGXE 平台报税”为名要求缴费的信息均为不实信息，用户应提高防范意识，必要时报警。关于 2026 年代扣代缴安排，IGXE 称相关机关单位已进行工作指导，双方正协商推进合规工作。后续进展将通过公告、电话、短信等方式通知。IGXE·备用频道",
-      "datetime": "2026-06-11T15:04:46+00:00",
-      "views": "4.8K",
-      "source_links": [
-        {
-          "text": "IGXE",
-          "url": "https://mp.weixin.qq.com/s/zOj1TSyIZ7s6xdwSeN-uzQ"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41902",
-      "scraped_at": "2026-06-12T00:00:18.623625",
-      "title": "IGXE税收清缴已结束",
-      "title_options": {
-        "conclusion": "IGXE税收清缴已结束",
-        "attractive": "警惕假借报税收费",
-        "minimal": "IGXE 税收清缴",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-13T03:03:58.895159"
+  "count": 59,
+  "updated_at": "2026-06-13T03:09:03.655089"
 }
