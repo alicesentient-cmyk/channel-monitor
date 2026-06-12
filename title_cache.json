@@ -4700,5 +4700,15 @@
       "minimal": "巨型铁管 石川县 漂抵"
     },
     "generated_at": "2026-06-12T22:03:58.255437"
+  },
+  "zaihuapd_41922": {
+    "ai_title": "Cloudflare全球多次宕机",
+    "title_options": {
+      "conclusion": "Cloudflare全球多次宕机",
+      "attractive": "CF按秒赔付企业用户",
+      "minimal": "Cloudflare 全球宕机",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T23:04:56.548044"
   }
 }

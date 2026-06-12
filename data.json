@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41922",
+      "channel": "zaihuapd",
+      "text": "Cloudflare 状态页面终于更新  目前已知全球多个地区间歇性爆炸，Cloudflare作为全球基础网络设施，影响多个网站。  CF目前正在按秒赔付企业用户  北京时间 2025年11月18日： 20:13 部分已恢复 20:23 再次爆炸 20:51 部分已恢复 20:55 再次爆炸 20:57 部分已恢复 20:59 再次爆炸 21:04 状态页面更新：在伦敦禁用了 WARP 访问 21:09 状态页面更新：我们已经确认了该问题，正在实施修复 21:13 状态页面更新：Cloudflare Access…",
+      "clean_text": "Cloudflare 状态页面终于更新  目前已知全球多个地区间歇性爆炸，Cloudflare作为全球基础网络设施，影响多个网站。  CF目前正在按秒赔付企业用户  北京时间 2025年11月18日： 20:13 部分已恢复 20:23 再次爆炸 20:51 部分已恢复 20:55 再次爆炸 20:57 部分已恢复 20:59 再次爆炸 21:04 状态页面更新：在伦敦禁用了 WARP 访问 21:09 状态页面更新：我们已经确认了该问题，正在实施修复 21:13 状态页面更新：Cloudflare Access…",
+      "datetime": "2026-06-12T14:31:09+00:00",
+      "views": "3.84K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41922",
+      "scraped_at": "2026-06-12T23:01:09.829984",
+      "title": "Cloudflare全球多次宕机",
+      "title_options": {
+        "conclusion": "Cloudflare全球多次宕机",
+        "attractive": "CF按秒赔付企业用户",
+        "minimal": "Cloudflare 全球宕机",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30070",
       "channel": "xhqcankao",
       "text": "Telegram 正式支持 Wear OS 智能手表Telegram最新版本正式支持 Wear OS 智能手表，让Galaxy Watch及其他 Wear OS 设备的用户可以直接在手腕上打开、阅读和回复消息。这个更新代表Telegram再次把消息体验延伸到穿戴装置，早前Apple Watch已经开放了相关功能，而这次在Wear OS平台上的推出也为Galaxy Watch增添新势力。对于习惯在外出时即时沟通的用户来说，在手表上完成文字消息、语音消息和收藏重要对话，无疑提升日常沟通效率。随着新版本发布，用户还可在手表上查看视频、静音对话及置顶聊天，这些功能虽然暂时未支持贴纸与位置查看，但官方称未来会逐步加入。",
@@ -1737,35 +1755,8 @@
         "minimal": "黑名单跨平台共享",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30023",
-      "channel": "xhqcankao",
-      "text": "与荷兰工会谈判后 阿斯麦缩减裁员规模荷兰工会在与荷兰半导体设备制造商阿斯麦控股公司（ASML）会谈后发布声明称，该公司此次裁员规模将小于最初计划。阿斯麦控股公司发言人莫妮克·莫尔斯表示，裁员工作预计从 2027 年 5 月起正式实施。她补充道，本月底前，员工将会收到岗位是否受影响的通知。部分员工不会被裁员，而是将在公司内部调整岗位。她表示：“我们希望尽可能少的员工被迫离职。”总部位于荷兰费尔德霍芬的阿斯麦控股公司于今年一月份宣布计划裁员约1700人，以精简管理层级和官僚机构。此次裁员约占员工总数的4%。",
-      "clean_text": "与荷兰工会谈判后 阿斯麦缩减裁员规模荷兰工会在与荷兰半导体设备制造商阿斯麦控股公司（ASML）会谈后发布声明称，该公司此次裁员规模将小于最初计划。阿斯麦控股公司发言人莫妮克·莫尔斯表示，裁员工作预计从 2027 年 5 月起正式实施。她补充道，本月底前，员工将会收到岗位是否受影响的通知。部分员工不会被裁员，而是将在公司内部调整岗位。她表示：“我们希望尽可能少的员工被迫离职。”总部位于荷兰费尔德霍芬的阿斯麦控股公司于今年一月份宣布计划裁员约1700人，以精简管理层级和官僚机构。此次裁员约占员工总数的4%。——路透社、彭博社",
-      "datetime": "2026-06-11T11:03:36+00:00",
-      "views": "2.92K",
-      "source_links": [
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/business/world-at-work/asml-cut-fewer-jobs-after-talks-with-dutch-unions-2026-06-10/"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-10/asml-asml-to-cut-fewer-jobs-than-planned-delays-layoffs-until-may"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30023",
-      "scraped_at": "2026-06-11T21:01:26.973628",
-      "title": "阿斯麦缩减裁员规模",
-      "title_options": {
-        "conclusion": "阿斯麦缩减裁员规模",
-        "attractive": "阿斯麦裁员计划缩水",
-        "minimal": "阿斯麦裁员缩减",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 71,
-  "updated_at": "2026-06-12T22:59:48.898955"
+  "updated_at": "2026-06-12T23:04:56.555751"
 }
