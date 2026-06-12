@@ -1892,25 +1892,8 @@
         "minimal": "华纳收购Sureel AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41888",
-      "channel": "zaihuapd",
-      "text": "Anthropic寻求新一轮融资，凭借Claude估值或达400亿美元  OpenAI 的主要竞争对手之一的 Anthropic 正在探讨新一轮融资计划。据一位与公司领导层沟通的现有投资者透露，Anthropic 正与投资者接洽，预计融资后公司估值可能达到300亿至400亿美元，较今年初完成的上一轮融资估值翻了一番。该公司主要通过提供其对话型人工智能 Claude 的访问权限来创收。  与此同时，OpenAI 也在筹集50亿至70亿美元的资金，估值预期将接近1500亿美元，几乎是年初的两倍。  The Information…",
-      "clean_text": "Anthropic寻求新一轮融资，凭借Claude估值或达400亿美元  OpenAI 的主要竞争对手之一的 Anthropic 正在探讨新一轮融资计划。据一位与公司领导层沟通的现有投资者透露，Anthropic 正与投资者接洽，预计融资后公司估值可能达到300亿至400亿美元，较今年初完成的上一轮融资估值翻了一番。该公司主要通过提供其对话型人工智能 Claude 的访问权限来创收。  与此同时，OpenAI 也在筹集50亿至70亿美元的资金，估值预期将接近1500亿美元，几乎是年初的两倍。  The Information…",
-      "datetime": "2026-06-11T04:45:00+00:00",
-      "views": "2.32K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41888",
-      "scraped_at": "2026-06-11T13:00:32.213878",
-      "title": "Anthropic估值或达400亿美元",
-      "title_options": {
-        "conclusion": "Anthropic估值或达400亿美元",
-        "attractive": "Claude估值翻倍至400亿",
-        "minimal": "Anthropic融资Claude估值"
-      }
     }
   ],
-  "count": 76,
-  "updated_at": "2026-06-12T16:43:20.878594"
+  "count": 75,
+  "updated_at": "2026-06-12T16:48:26.469061"
 }
