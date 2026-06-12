@@ -1697,35 +1697,8 @@
         "minimal": "Wing沃尔玛7城无人机",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30024",
-      "channel": "xhqcankao",
-      "text": "美参议员沃伦呼吁SEC推迟SpaceX的IPO美国民主党资深参议员伊丽莎白·沃伦最新表示，美国证券交易委员会（SEC）应该推迟SpaceX的IPO，以确保埃隆·马斯克领导的这家公司不会让投资者面临风险。当天，沃伦在其一封致SEC主席保罗·阿特金斯的信中写道：“仅SpaceX IPO的庞大规模，在正常情况下就足以引起美国证券交易委员会的认真审查，并引起对投资者需求的关注。” “而且这些并非正常情况：许多其他因素加剧了人们的担忧，需要美国证券交易委员会采取行动，通过推迟首次公开募股来履行其保护投资者和维护市场诚信的职责，”她写道。",
-      "clean_text": "美参议员沃伦呼吁SEC推迟SpaceX的IPO美国民主党资深参议员伊丽莎白·沃伦最新表示，美国证券交易委员会（SEC）应该推迟SpaceX的IPO，以确保埃隆·马斯克领导的这家公司不会让投资者面临风险。当天，沃伦在其一封致SEC主席保罗·阿特金斯的信中写道：“仅SpaceX IPO的庞大规模，在正常情况下就足以引起美国证券交易委员会的认真审查，并引起对投资者需求的关注。” “而且这些并非正常情况：许多其他因素加剧了人们的担忧，需要美国证券交易委员会采取行动，通过推迟首次公开募股来履行其保护投资者和维护市场诚信的职责，”她写道。——财联社、CNBC",
-      "datetime": "2026-06-11T11:32:40+00:00",
-      "views": "2.56K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2396842?sv=859&amp;os=web"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/10/spacex-elizabeth-warren-elon-musk-sec-ipo.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30024",
-      "scraped_at": "2026-06-11T21:01:26.974022",
-      "title": "沃伦呼吁SEC推迟SpaceX IPO",
-      "title_options": {
-        "conclusion": "沃伦呼吁SEC推迟SpaceX IPO",
-        "attractive": "SpaceX IPO遭参议员阻击",
-        "minimal": "沃伦 SEC SpaceX IPO",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-12T23:30:19.417528"
+  "count": 69,
+  "updated_at": "2026-06-12T23:35:23.354068"
 }
