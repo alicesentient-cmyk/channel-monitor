@@ -1910,39 +1910,8 @@
         "minimal": "DiffusionGemma开源",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41886",
-      "channel": "zaihuapd",
-      "text": "5 月 38 家中国手游厂商进入全球收入百强Sensor Tower Store Intelligence 统计，2026 年 5 月有 38 家中国厂商进入全球手游发行商收入百强，合计收入 22.9 亿美元，占百强总收入的 42.8%。腾讯、点点互动、柠檬微趣、网易和米哈游继续位列中国厂商收入榜前五。腾讯旗下《Honor of Kings》《PUBG Mobile》和《Delta Force》带动其保持全球手游发行商收入第一。《Honor of Kings》520 主题活动推动收入增长 9%，点点互动的《Kingshot》和《Tasty Travels: Merge Game》月收入也创新高。Moomoo News",
-      "clean_text": "5 月 38 家中国手游厂商进入全球收入百强Sensor Tower Store Intelligence 统计，2026 年 5 月有 38 家中国厂商进入全球手游发行商收入百强，合计收入 22.9 亿美元，占百强总收入的 42.8%。腾讯、点点互动、柠檬微趣、网易和米哈游继续位列中国厂商收入榜前五。腾讯旗下《Honor of Kings》《PUBG Mobile》和《Delta Force》带动其保持全球手游发行商收入第一。《Honor of Kings》520 主题活动推动收入增长 9%，点点互动的《Kingshot》和《Tasty Travels: Merge Game》月收入也创新高。Moomoo News·备用频道",
-      "datetime": "2026-06-11T03:15:00+00:00",
-      "views": "4.57K",
-      "source_links": [
-        {
-          "text": "Moomoo News",
-          "url": "https://www.moomoo.com/news/post/71300638/sensor-tower-in-may-a-total-of-38-chinese-publishers"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41886",
-      "scraped_at": "2026-06-11T12:00:40.067281",
-      "title": "38家中国厂商5月全球收入22.9亿美元",
-      "title_options": {
-        "conclusion": "38家中国厂商5月全球收入22.9亿美元",
-        "attractive": "腾讯三款游戏带动收入第一",
-        "minimal": "38家中国厂商百强收入22.9亿",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 77,
-  "updated_at": "2026-06-12T15:11:37.501130"
+  "count": 76,
+  "updated_at": "2026-06-12T15:16:42.326241"
 }
