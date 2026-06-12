@@ -1377,43 +1377,8 @@
         "minimal": "YouTube私信",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41903",
-      "channel": "zaihuapd",
-      "text": "iOS 27 升级通话框架，微信是否适配新特性尚无证实iOS 27 将升级 LiveCommunicationKit，支持锁屏全屏来电显示，可展示联系人姓名、照片和标准操作控件；会话也可进入电话 App 最近通话和联系人详情，点击后可发起新会话。微信 iOS 版在 2025 年已使用 LiveCommunicationKit 优化语音接听，要求微信 8.0.55、iOS 17.6.1 及以上且逐步覆盖。目前没有可靠来源证实微信会专门适配 iOS 27 的这些新能力。IT之家(1,2)",
-      "clean_text": "iOS 27 升级通话框架，微信是否适配新特性尚无证实iOS 27 将升级 LiveCommunicationKit，支持锁屏全屏来电显示，可展示联系人姓名、照片和标准操作控件；会话也可进入电话 App 最近通话和联系人详情，点击后可发起新会话。微信 iOS 版在 2025 年已使用 LiveCommunicationKit 优化语音接听，要求微信 8.0.55、iOS 17.6.1 及以上且逐步覆盖。目前没有可靠来源证实微信会专门适配 iOS 27 的这些新能力。IT之家(1,2)·备用频道",
-      "datetime": "2026-06-11T15:53:06+00:00",
-      "views": "1.34K",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://www.ithome.com/0/962/550.htm"
-        },
-        {
-          "text": "2",
-          "url": "https://www.ithome.com/0/826/790.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41903",
-      "scraped_at": "2026-06-12T00:00:18.624130",
-      "title": "iOS 27升级通话框架",
-      "title_options": {
-        "conclusion": "iOS 27升级通话框架",
-        "attractive": "微信未适配iOS 27通话",
-        "minimal": "iOS 27通话框架",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-13T03:49:37.227002"
+  "count": 57,
+  "updated_at": "2026-06-13T03:54:45.769449"
 }
