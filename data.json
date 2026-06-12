@@ -1516,66 +1516,8 @@
         "minimal": "约谈七平台",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30029",
-      "channel": "xhqcankao",
-      "text": "奥尔特曼预计OpenAI将于未来一年内IPOOpenAI公司CEO山姆·奥尔特曼通过Slack告诉员工，他预计公司将在 “未来一年内” 进行首次公开募股 (IPO) 。此前提交的招股说明书只是为了保留“如果我们想更早上市的可选性”。若将上市时间推迟到2027年，将会让很多人感到意外，尤其是考虑到 Anthropic 公司似乎将在未来几周内上市。奥尔特曼有充分理由等待： Anthropic 的增长数据看起来更强劲，而OpenAI仍在烧钱。现在上市可能会导致估值受损。据媒体报道，OpenAI也在准备代号为5.6的新模型。研究负责人雅库布·帕乔基称，该模型相比GPT-5.5是一次重大升级，可能在六月发布。——华尔街见闻、The information",
-      "clean_text": "奥尔特曼预计OpenAI将于未来一年内IPOOpenAI公司CEO山姆·奥尔特曼通过Slack告诉员工，他预计公司将在 “未来一年内” 进行首次公开募股 (IPO) 。此前提交的招股说明书只是为了保留“如果我们想更早上市的可选性”。若将上市时间推迟到2027年，将会让很多人感到意外，尤其是考虑到 Anthropic 公司似乎将在未来几周内上市。奥尔特曼有充分理由等待： Anthropic 的增长数据看起来更强劲，而OpenAI仍在烧钱。现在上市可能会导致估值受损。据媒体报道，OpenAI也在准备代号为5.6的新模型。研究负责人雅库布·帕乔基称，该模型相比GPT-5.5是一次重大升级，可能在六月发布。——华尔街见闻、The information",
-      "datetime": "2026-06-11T14:02:30+00:00",
-      "views": "2.23K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3774363"
-        },
-        {
-          "text": "The information",
-          "url": "https://www.theinformation.com/briefings/exclusive-openai-preps-new-ai-model-expects-go-public-within-next-year"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30029",
-      "scraped_at": "2026-06-11T23:00:40.693380",
-      "title": "OpenAI预计一年内IPO",
-      "title_options": {
-        "conclusion": "OpenAI预计一年内IPO",
-        "attractive": "OpenAI一年内上市？",
-        "minimal": "OpenAI一年内IPO",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41901",
-      "channel": "zaihuapd",
-      "text": "于东来称胖东来薪资过高属溺爱，未来薪酬最多比行业高 20%胖东来创始人于东来宣布将改革现行高薪酬模式。他认为，公司薪资已高出行业合理线一倍，属于对员工的过度溺爱，导致认知偏差，员工离开平台后难以在外立足，不利于个人和企业长远发展。公司为此划定红线，未来员工薪资最多在行业公平线上浮 10%至 20%。此前胖东来因店长月薪近 8 万元、员工平均月薪近万元及多种高福利受到关注，于东来反思这虽激发了热情，但也压缩了股东收益，团队未能沉淀独立能力。江南都市报",
-      "clean_text": "于东来称胖东来薪资过高属溺爱，未来薪酬最多比行业高 20%胖东来创始人于东来宣布将改革现行高薪酬模式。他认为，公司薪资已高出行业合理线一倍，属于对员工的过度溺爱，导致认知偏差，员工离开平台后难以在外立足，不利于个人和企业长远发展。公司为此划定红线，未来员工薪资最多在行业公平线上浮 10%至 20%。此前胖东来因店长月薪近 8 万元、员工平均月薪近万元及多种高福利受到关注，于东来反思这虽激发了热情，但也压缩了股东收益，团队未能沉淀独立能力。江南都市报·备用频道",
-      "datetime": "2026-06-11T14:00:48+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "江南都市报",
-          "url": "https://mp.weixin.qq.com/s/Ac01Q7p2M4DbdIkqzvPBew"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41901",
-      "scraped_at": "2026-06-11T22:00:55.450488",
-      "title": "胖东来降薪至行业高20%",
-      "title_options": {
-        "conclusion": "胖东来降薪至行业高20%",
-        "attractive": "胖东来薪资过高属溺爱",
-        "minimal": "胖东来薪资改革",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-13T01:58:00.972095"
+  "count": 62,
+  "updated_at": "2026-06-13T02:03:05.287813"
 }
