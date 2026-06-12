@@ -1574,31 +1574,8 @@
         "minimal": "胖东来薪资改革",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30028",
-      "channel": "xhqcankao",
-      "text": "Anthropic撤回了限制使用Claude进行前沿AI研究的政策Anthropic公司刚刚改变了一项政策，该政策此前一直在悄悄限制部分人工智能研究人员使用其新推出的Claude Fable 5模型。发布时，Anthropic公司表示，模型设计中加入了额外的安全措施以防止滥用，例如将有关网络安全、生物学和化学的问题重定向到功能较弱的模型。该实验室还表示，对于那些试图使用 Fable 5 进行AI开发的用户，会在不向用户解释的情况下降低模型的性能。一些开发者认为此举是公司悄悄阻止他人创建竞争性AI系统的一种手段。该公司周三的声明推翻了这一做法：Fable 5现在会告知用户他们的请求是被拒绝还是被重定向。“我们正在修改Fable 5中针对前沿LLM开发的安全保障措施，使其更加透明，我们之前做出了错误的权衡，对于未能找到合适的平衡点，我们深表歉意，”Anthropic在声明中表示。",
-      "clean_text": "Anthropic撤回了限制使用Claude进行前沿AI研究的政策Anthropic公司刚刚改变了一项政策，该政策此前一直在悄悄限制部分人工智能研究人员使用其新推出的Claude Fable 5模型。发布时，Anthropic公司表示，模型设计中加入了额外的安全措施以防止滥用，例如将有关网络安全、生物学和化学的问题重定向到功能较弱的模型。该实验室还表示，对于那些试图使用 Fable 5 进行AI开发的用户，会在不向用户解释的情况下降低模型的性能。一些开发者认为此举是公司悄悄阻止他人创建竞争性AI系统的一种手段。该公司周三的声明推翻了这一做法：Fable 5现在会告知用户他们的请求是被拒绝还是被重定向。“我们正在修改Fable 5中针对前沿LLM开发的安全保障措施，使其更加透明，我们之前做出了错误的权衡，对于未能找到合适的平衡点，我们深表歉意，”Anthropic在声明中表示。——连线",
-      "datetime": "2026-06-11T13:32:21+00:00",
-      "views": "1.57K",
-      "source_links": [
-        {
-          "text": "连线",
-          "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30028",
-      "scraped_at": "2026-06-11T22:00:57.669487",
-      "title": "Anthropic撤回限制政策",
-      "title_options": {
-        "conclusion": "Anthropic撤回限制政策",
-        "attractive": "Claude Fable 5解禁",
-        "minimal": "政策撤回",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-13T01:27:30.619910"
+  "count": 64,
+  "updated_at": "2026-06-13T01:32:36.516749"
 }
