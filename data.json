@@ -1,6 +1,109 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41909",
+      "channel": "zaihuapd",
+      "text": "OpenAI Codex 额度重置现在可“存起来”稍后使用OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。OpenAI(1,2)",
+      "clean_text": "OpenAI Codex 额度重置现在可“存起来”稍后使用OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。OpenAI(1,2)·备用频道",
+      "datetime": "2026-06-12T03:50:52+00:00",
+      "views": "1.66K",
+      "source_links": [
+        {
+          "text": "1",
+          "url": "https://x.com/OpenAI/status/2065225362544726371"
+        },
+        {
+          "text": "2",
+          "url": "https://x.com/OpenAI/status/2065225374737543376"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41909",
+      "scraped_at": "2026-06-12T12:00:55.709707",
+      "title": "Codex额度重置可存用",
+      "title_options": {
+        "conclusion": "Codex额度重置可存用",
+        "attractive": "邀请好友获额外重置",
+        "minimal": "Codex额度重置",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30050",
+      "channel": "xhqcankao",
+      "text": "小米MiMo AI团队开源终端原生AI编码助手MiMo Code V0.1.0小米MiMo AI团队已开源MiMo Code V0.1.0，这是一款终端原生AI编码助手。小米称其在关键代理编码基准测试中，尤其是在长周期、多步骤任务（200+步）上，表现优于Anthropic的Claude Code。MiMo Code通过跨会话内存系统解决此问题，该系统由SQLite FTS5全文搜索提供支持，涵盖项目内存、会话检查点、临时笔记和任务进度日志四个层级。该工具已在GitHub上以MIT许可开源，并提供 MiMo-V2.5的限时免费访问，后者拥有百万Token上下文窗口。",
+      "clean_text": "小米MiMo AI团队开源终端原生AI编码助手MiMo Code V0.1.0小米MiMo AI团队已开源MiMo Code V0.1.0，这是一款终端原生AI编码助手。小米称其在关键代理编码基准测试中，尤其是在长周期、多步骤任务（200+步）上，表现优于Anthropic的Claude Code。MiMo Code通过跨会话内存系统解决此问题，该系统由SQLite FTS5全文搜索提供支持，涵盖项目内存、会话检查点、临时笔记和任务进度日志四个层级。该工具已在GitHub上以MIT许可开源，并提供 MiMo-V2.5的限时免费访问，后者拥有百万Token上下文窗口。——VentureBeat",
+      "datetime": "2026-06-12T03:29:58+00:00",
+      "views": "1.43K",
+      "source_links": [
+        {
+          "text": "VentureBeat",
+          "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30050",
+      "scraped_at": "2026-06-12T12:00:57.255055",
+      "title": "小米开源AI编码助手",
+      "title_options": {
+        "conclusion": "小米开源AI编码助手",
+        "attractive": "小米编码助手超Claude",
+        "minimal": "小米MiMo Code开源",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41908",
+      "channel": "zaihuapd",
+      "text": "Pavel Durov 宣布 Telegram for Apple Watch 已经发布  Durov  via Linserin >terminal<",
+      "clean_text": "Pavel Durov 宣布 Telegram for Apple Watch 已经发布  Durov  via Linserin >terminal< · 备用频道 · 投稿通道",
+      "datetime": "2026-06-12T03:04:44+00:00",
+      "views": "5.03K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41908",
+      "scraped_at": "2026-06-12T12:00:55.709180",
+      "title": "Telegram手表版发布",
+      "title_options": {
+        "conclusion": "Telegram手表版发布",
+        "attractive": "Apple Watch能用Telegr…",
+        "minimal": "Telegram手表版",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30049",
+      "channel": "xhqcankao",
+      "text": "阿里拟出资15亿美元竞购一家生鲜电商阿里巴巴正在出资15亿美元收购中国生鲜外卖平台 “朴朴超市”，这也是阿里旨在从美团手中夺取线上商业市场份额的更广泛行动的一部分。知情人士透露，阿里提出的这一价格是此前高鑫零售报价的两倍多。此前五月末，有媒体报道称，阿里、美团、京东三家大厂正在深度参与竞购朴朴超市，估值区间已升至20亿至50亿美元。不过京东否认了上述报道，阿里和美团则没有回应。在中国生鲜前置仓赛道，此前有三个真正意义上的自主玩家：每日优鲜、叮咚买菜、朴朴超市。",
+      "clean_text": "阿里拟出资15亿美元竞购一家生鲜电商阿里巴巴正在出资15亿美元收购中国生鲜外卖平台 “朴朴超市”，这也是阿里旨在从美团手中夺取线上商业市场份额的更广泛行动的一部分。知情人士透露，阿里提出的这一价格是此前高鑫零售报价的两倍多。此前五月末，有媒体报道称，阿里、美团、京东三家大厂正在深度参与竞购朴朴超市，估值区间已升至20亿至50亿美元。不过京东否认了上述报道，阿里和美团则没有回应。在中国生鲜前置仓赛道，此前有三个真正意义上的自主玩家：每日优鲜、叮咚买菜、朴朴超市。——钛媒体、彭博社",
+      "datetime": "2026-06-12T03:01:42+00:00",
+      "views": "2.03K",
+      "source_links": [
+        {
+          "text": "钛媒体",
+          "url": "https://m.tmtpost.com/nictation/8025198.html"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30049",
+      "scraped_at": "2026-06-12T12:00:57.254657",
+      "title": "阿里15亿美元竞购朴朴超市",
+      "title_options": {
+        "conclusion": "阿里15亿美元竞购朴朴超市",
+        "attractive": "阿里出价翻倍抢生鲜",
+        "minimal": "阿里竞购朴朴超市",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30048",
       "channel": "xhqcankao",
       "text": "Instagram赋予用户调整推荐算法的控制权社交媒体平台 Instagram 将让用户调整其算法在主页信息流中显示的内容。通过“你的算法”功能， “你现在可以看到我们认为你感兴趣的主题，并在 Instagram 的所有主要部分中更改它们，”据该社交媒体平台负责人亚当·莫塞里称。目前，该功能只会呈现主题，但Instagram正在努力“支持对人物、不同心情或氛围、内容类型等的请求。”公司一直在逐步赋予用户对 Instagram 某些算法更大的控制权，此前已经针对用户的Reels信息流和探索页面推出了“你的算法”功能。“我相信，作为一家企业，赋予人们能力将 Instagram 塑造成适合他们的社交平台，符合我们的最大利益，并且人们应该对他们花费大量时间的产品拥有真正的控制权，”莫塞里表示。",
@@ -1868,31 +1971,8 @@
         "minimal": "Anthropic AI监管建议",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30000",
-      "channel": "xhqcankao",
-      "text": "OpenAI称与中国有关联的账号意图阻挠美国数据中心扩建OpenAI称一群与中国有关联的ChatGPT账户试图煽动美国当地对数据中心的反对，可能是为了阻碍该国在AI领域的竞争力，这与科技行业其他人近期的言论相呼应。OpenAI周三发布的报告显示，该公司发现一批源自中国的账户使用人工智能生成了关于数据中心提高美国人电费的英文社交媒体帖子。该公司将这一活动命名为 “数据中心跟风”，并表示这些账户很可能与一家未具名的中国私营科技公司有关联，该公司为中国省级政府客户工作。OpenAI公司表示，这些帖子的传播范围并不广，但应引起对外国试图削弱美国战略性国内产业的担忧。",
-      "clean_text": "OpenAI称与中国有关联的账号意图阻挠美国数据中心扩建OpenAI称一群与中国有关联的ChatGPT账户试图煽动美国当地对数据中心的反对，可能是为了阻碍该国在AI领域的竞争力，这与科技行业其他人近期的言论相呼应。OpenAI周三发布的报告显示，该公司发现一批源自中国的账户使用人工智能生成了关于数据中心提高美国人电费的英文社交媒体帖子。该公司将这一活动命名为 “数据中心跟风”，并表示这些账户很可能与一家未具名的中国私营科技公司有关联，该公司为中国省级政府客户工作。OpenAI公司表示，这些帖子的传播范围并不广，但应引起对外国试图削弱美国战略性国内产业的担忧。——彭博社",
-      "datetime": "2026-06-11T00:04:27+00:00",
-      "views": "1.74K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-10/openai-says-china-linked-accounts-aim-to-fuel-us-data-center-pushback"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30000",
-      "scraped_at": "2026-06-11T09:00:49.262818",
-      "title": "OpenAI称中国账号阻挠美数据中心",
-      "title_options": {
-        "conclusion": "OpenAI称中国账号阻挠美数据中心",
-        "attractive": "中国账号煽动反对美数据中心",
-        "minimal": "中国账号阻挠美数据中心",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-12T11:58:27.900186"
+  "count": 77,
+  "updated_at": "2026-06-12T12:03:35.037161"
 }
