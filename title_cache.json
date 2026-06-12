@@ -4404,5 +4404,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T12:03:35.029614"
+  },
+  "xhqcankao_30052": {
+    "ai_title": "SK海力士评估引入AI",
+    "title_options": {
+      "conclusion": "SK海力士评估引入AI",
+      "attractive": "SK海力士考虑用ChatGPT",
+      "minimal": "SK海力士引入AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T13:04:28.145715"
+  },
+  "xhqcankao_30053": {
+    "ai_title": "订阅比API划算14倍",
+    "title_options": {
+      "conclusion": "订阅比API划算14倍",
+      "attractive": "200元换8000元价值",
+      "minimal": "订阅API性价比",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T13:04:28.387723"
+  },
+  "zaihuapd_41910": {
+    "ai_title": "网信办禁涉企负面投流",
+    "title_options": {
+      "conclusion": "网信办禁涉企负面投流",
+      "attractive": "涉企负面信息禁投流",
+      "minimal": "涉企负面禁投流",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T13:04:28.587701"
+  },
+  "xhqcankao_30051": {
+    "ai_title": "三星Q1 eSSD销售额全球第一",
+    "title_options": {
+      "conclusion": "三星Q1 eSSD销售额全球第一",
+      "attractive": "三星eSSD销售额环比增92.8%",
+      "minimal": "三星eSSD 全球第一",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T13:04:29.327150"
   }
 }
