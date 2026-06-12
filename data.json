@@ -1764,47 +1764,8 @@
         "minimal": "阿斯麦裁员缩减",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41896",
-      "channel": "zaihuapd",
-      "text": "macOS 27 将是最后完整支持 Rosetta 2 的版本macOS 27 Golden Gate 将是最后一个完整支持 Rosetta 2 的 macOS。苹果说明，Rosetta 会保留到 macOS 27；从 macOS 28 起，只为部分依赖 Intel 框架、无人维护的旧游戏保留功能。Golden Gate 也将首次只支持 Apple silicon Mac，Intel Mac 无法升级。仍依赖 Intel 版应用的用户和开发者，需要改用 Universal 或 Apple silicon 版本，或停留在 macOS 27。MacRumors|Ars Technica|Apple Support",
-      "clean_text": "macOS 27 将是最后完整支持 Rosetta 2 的版本macOS 27 Golden Gate 将是最后一个完整支持 Rosetta 2 的 macOS。苹果说明，Rosetta 会保留到 macOS 27；从 macOS 28 起，只为部分依赖 Intel 框架、无人维护的旧游戏保留功能。Golden Gate 也将首次只支持 Apple silicon Mac，Intel Mac 无法升级。仍依赖 Intel 版应用的用户和开发者，需要改用 Universal 或 Apple silicon 版本，或停留在 macOS 27。MacRumors|Ars Technica|Apple Support·备用频道",
-      "datetime": "2026-06-11T10:45:00+00:00",
-      "views": "9.01K",
-      "source_links": [
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/10/macos-golden-gate-last-to-support-intel-apps/"
-        },
-        {
-          "text": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/"
-        },
-        {
-          "text": "Apple Support",
-          "url": "https://support.apple.com/en-us/102527"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41896",
-      "scraped_at": "2026-06-11T21:00:56.031762",
-      "title": "macOS 27最后支持Rosetta…",
-      "title_options": {
-        "conclusion": "macOS 27最后支持Rosetta…",
-        "attractive": "Intel Mac无法升级macOS …",
-        "minimal": "Rosetta 2终止支持",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-12T22:44:34.787349"
+  "count": 71,
+  "updated_at": "2026-06-12T22:49:40.136894"
 }
