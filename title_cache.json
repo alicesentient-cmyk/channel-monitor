@@ -4611,5 +4611,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T19:05:38.587202"
+  },
+  "xhqcankao_30064": {
+    "ai_title": "Kimi开源K2.7 Code模型",
+    "title_options": {
+      "conclusion": "Kimi开源K2.7 Code模型",
+      "attractive": "编程模型token消耗减30%",
+      "minimal": "Kimi K2.7 Code开源",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T20:01:35.504157"
+  },
+  "xhqcankao_30065": {
+    "ai_title": "谷歌起诉AI诈骗团伙",
+    "title_options": {
+      "conclusion": "谷歌起诉AI诈骗团伙",
+      "attractive": "AI生成250万条诈骗短信",
+      "minimal": "AI短信诈骗谷歌起诉",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T20:01:35.809438"
+  },
+  "zaihuapd_41919": {
+    "ai_title": "苹果高管称Siri不谈恋爱",
+    "title_options": {
+      "conclusion": "苹果高管称Siri不谈恋爱",
+      "attractive": "Siri拒绝当虚拟恋人",
+      "minimal": "Siri不谈恋爱",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T20:01:35.863971"
   }
 }

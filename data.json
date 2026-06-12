@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30065",
+      "channel": "xhqcankao",
+      "text": "诈骗分子利用Gemini协助构建垃圾信息谷歌公司对一家疑似中国网络犯罪团伙提起诉讼，指控该团伙使用人工智能发送了超过两百万条带有欺诈链接的短信，试图诈骗手机用户。根据谷歌周五提交的一份诉状，该组织被称为“Outsider Enterprise”，以美国数十万人为目标，企图窃取个人信息。该团伙被指控在五月的两周内，向安卓用户发送了 250万条信息，其中包含指向该团伙所生成网站链接的信息。在AI的帮助下，该网络犯罪团伙通过Telegram进行协调，通过看似来自谷歌和其他可信在线品牌的短信分发链接。短信包含有关账户被盗用的紧急警告或快递追踪提醒。一旦用户点击该链接，会被重定向到一个要求提供机密信息的网站。",
+      "clean_text": "诈骗分子利用Gemini协助构建垃圾信息谷歌公司对一家疑似中国网络犯罪团伙提起诉讼，指控该团伙使用人工智能发送了超过两百万条带有欺诈链接的短信，试图诈骗手机用户。根据谷歌周五提交的一份诉状，该组织被称为“Outsider Enterprise”，以美国数十万人为目标，企图窃取个人信息。该团伙被指控在五月的两周内，向安卓用户发送了 250万条信息，其中包含指向该团伙所生成网站链接的信息。在AI的帮助下，该网络犯罪团伙通过Telegram进行协调，通过看似来自谷歌和其他可信在线品牌的短信分发链接。短信包含有关账户被盗用的紧急警告或快递追踪提醒。一旦用户点击该链接，会被重定向到一个要求提供机密信息的网站。——彭博社",
+      "datetime": "2026-06-12T11:49:04+00:00",
+      "views": "631",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/scammers-used-gemini-ai-to-help-build-spam-messages-google-says"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30065",
+      "scraped_at": "2026-06-12T20:00:39.736873",
+      "title": "谷歌起诉AI诈骗团伙",
+      "title_options": {
+        "conclusion": "谷歌起诉AI诈骗团伙",
+        "attractive": "AI生成250万条诈骗短信",
+        "minimal": "AI短信诈骗谷歌起诉",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41919",
+      "channel": "zaihuapd",
+      "text": "苹果高管：Siri 不会成为你的 AI 虚拟恋人苹果软件工程主管 Craig Federighi 在 WWDC 期间受访时明确表示，新版 Siri 绝不会扮演浪漫伴侣。他称 Siri 的定位是帮用户做事和学习，若想把它当男女友，“Siri 百分百不干这个”，并批评其他聊天机器人靠奉承和套取隐私来拉拢用户。营销主管 Greg Joswiak 补充说，苹果不追求“为 AI 而 AI”，而是让 AI 融入现有功能，使用户不必成为提示词专家。Federighi 同时强调，iPhone 上的个人数据始终归用户掌控，留在手机本地，苹果公司无法获取这些信息，这与多数同行截然不同。MacRumors",
+      "clean_text": "苹果高管：Siri 不会成为你的 AI 虚拟恋人苹果软件工程主管 Craig Federighi 在 WWDC 期间受访时明确表示，新版 Siri 绝不会扮演浪漫伴侣。他称 Siri 的定位是帮用户做事和学习，若想把它当男女友，“Siri 百分百不干这个”，并批评其他聊天机器人靠奉承和套取隐私来拉拢用户。营销主管 Greg Joswiak 补充说，苹果不追求“为 AI 而 AI”，而是让 AI 融入现有功能，使用户不必成为提示词专家。Federighi 同时强调，iPhone 上的个人数据始终归用户掌控，留在手机本地，苹果公司无法获取这些信息，这与多数同行截然不同。MacRumors·备用频道",
+      "datetime": "2026-06-12T11:42:33+00:00",
+      "views": "2.24K",
+      "source_links": [
+        {
+          "text": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/11/apple-siri-ai-interview/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41919",
+      "scraped_at": "2026-06-12T20:00:38.004357",
+      "title": "苹果高管称Siri不谈恋爱",
+      "title_options": {
+        "conclusion": "苹果高管称Siri不谈恋爱",
+        "attractive": "Siri拒绝当虚拟恋人",
+        "minimal": "Siri不谈恋爱",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30064",
+      "channel": "xhqcankao",
+      "text": "Kimi发布并开源Kimi K2.7 Code编程模型月之暗面Kimi发布并开源Kimi K2.7 Code编程模型。官方表示，内外部基准评估显示，Kimi K2.7 Code相比K2.6模型显著提升了长上下文编程场景的指令遵循能力、长程编程任务的性能表现，并且大幅改善了在长程任务中的过度思考倾向，平均token消耗减少30%。在评估代码能力的内外部基准测试中，K2.7 Code相比K2.6性能显著提升：Kimi Code Bench v2提升21.8%、Program-Bench提升11%、MLS Bench Lite提升31.5%。K2.7 Code即日起通过Kimi API开放平台和Kimi Code Plan提供服务。1M token标准输入和输出价格与K2.6一致（6.5元和27元），缓存输入价为1.3元。",
+      "clean_text": "Kimi发布并开源Kimi K2.7 Code编程模型月之暗面Kimi发布并开源Kimi K2.7 Code编程模型。官方表示，内外部基准评估显示，Kimi K2.7 Code相比K2.6模型显著提升了长上下文编程场景的指令遵循能力、长程编程任务的性能表现，并且大幅改善了在长程任务中的过度思考倾向，平均token消耗减少30%。在评估代码能力的内外部基准测试中，K2.7 Code相比K2.6性能显著提升：Kimi Code Bench v2提升21.8%、Program-Bench提升11%、MLS Bench Lite提升31.5%。K2.7 Code即日起通过Kimi API开放平台和Kimi Code Plan提供服务。1M token标准输入和输出价格与K2.6一致（6.5元和27元），缓存输入价为1.3元。——凤凰网科技",
+      "datetime": "2026-06-12T11:19:46+00:00",
+      "views": "1.51K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006nrqjBxGgvAh5GkTnbGGQCcZ6JP891cahaYfQYwbkbWEuP6qnVSANrkr7r--4BI9PN"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30064",
+      "scraped_at": "2026-06-12T20:00:39.736523",
+      "title": "Kimi开源K2.7 Code模型",
+      "title_options": {
+        "conclusion": "Kimi开源K2.7 Code模型",
+        "attractive": "编程模型token消耗减30%",
+        "minimal": "Kimi K2.7 Code开源",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41918",
       "channel": "zaihuapd",
       "text": "Kimi 发布并开源编码模型 K2.7-Code，多项基准测试提升月之暗面 Kimi 发布并开源 Kimi K2.7 Code 编程模型。内外部评估显示，它相比 K2.6 提升了长上下文编程场景的指令遵循能力和长程任务表现，并改善了过度思考倾向，平均 token 消耗减少 30%。代码基准中，Kimi Code Bench v2、Program-Bench、MLS Bench Lite 分别提升 21.8%、11%、31.5%；Agent 自主执行相关基准约提升 10%。即日起可通过 Kimi API 和 Kimi Code 使用，六倍高速模式即将上线，也支持本地部署。月之暗面 Kimi",
@@ -1844,6 +1921,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-06-12T19:56:29.963345"
+  "count": 76,
+  "updated_at": "2026-06-12T20:01:35.871257"
 }
