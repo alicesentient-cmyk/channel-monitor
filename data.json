@@ -1,6 +1,55 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41924",
+      "channel": "zaihuapd",
+      "text": "马斯克身家突破万亿美元，成为世界首位万亿富翁SpaceX 首次公开募股（IPO）定价每股 135 美元，股票代码 SPCX 周五在纳斯达克开始交易。马斯克持有约 42% 的 SpaceX 股份（约 48 亿股）和 3.5 亿份低价期权，IPO 后其身家从 8130 亿美元升至约 1 万亿美元。CBS News",
+      "clean_text": "马斯克身家突破万亿美元，成为世界首位万亿富翁SpaceX 首次公开募股（IPO）定价每股 135 美元，股票代码 SPCX 周五在纳斯达克开始交易。马斯克持有约 42% 的 SpaceX 股份（约 48 亿股）和 3.5 亿份低价期权，IPO 后其身家从 8130 亿美元升至约 1 万亿美元。CBS News·备用频道",
+      "datetime": "2026-06-12T15:54:21+00:00",
+      "views": "1.35K",
+      "source_links": [
+        {
+          "text": "CBS News",
+          "url": "https://www.cbsnews.com/news/elon-musk-spacex-ipo-trillionaire-wealth/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41924",
+      "scraped_at": "2026-06-13T00:00:53.175735",
+      "title": "马斯克身家破万亿美元",
+      "title_options": {
+        "conclusion": "马斯克身家破万亿美元",
+        "attractive": "SpaceX上市助马斯克成万亿富翁",
+        "minimal": "马斯克万亿身家",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41923",
+      "channel": "zaihuapd",
+      "text": "长鑫科技科创板 IPO 过会，拟募资 295 亿元  长鑫科技科创板 IPO 获上市委会议通过，拟募资 295 亿元，用于存储器晶圆制造量产线技术升级、DRAM 技术升级和前瞻技术研发等项目。  上海证券交易所",
+      "clean_text": "长鑫科技科创板 IPO 过会，拟募资 295 亿元  长鑫科技科创板 IPO 获上市委会议通过，拟募资 295 亿元，用于存储器晶圆制造量产线技术升级、DRAM 技术升级和前瞻技术研发等项目。  上海证券交易所 · 备用频道 · 投稿通道",
+      "datetime": "2026-06-12T15:06:33+00:00",
+      "views": "4.74K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41923",
+      "scraped_at": "2026-06-13T00:00:53.175252",
+      "title": "长鑫科技科创板过会",
+      "title_options": {
+        "conclusion": "长鑫科技科创板过会",
+        "attractive": "长鑫拟募资295亿",
+        "minimal": "长鑫科创板过会",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41922",
       "channel": "zaihuapd",
       "text": "Cloudflare 状态页面终于更新  目前已知全球多个地区间歇性爆炸，Cloudflare作为全球基础网络设施，影响多个网站。  CF目前正在按秒赔付企业用户  北京时间 2025年11月18日： 20:13 部分已恢复 20:23 再次爆炸 20:51 部分已恢复 20:55 再次爆炸 20:57 部分已恢复 20:59 再次爆炸 21:04 状态页面更新：在伦敦禁用了 WARP 访问 21:09 状态页面更新：我们已经确认了该问题，正在实施修复 21:13 状态页面更新：Cloudflare Access…",
@@ -1674,31 +1723,8 @@
         "minimal": "美查封13域名",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30025",
-      "channel": "xhqcankao",
-      "text": "Wing与沃尔玛新增7个城市启用无人机送货谷歌母公司旗下的Wing公司，使用自主无人机配送食品杂货甚至咖啡，该公司正通过与沃尔玛的合作进军另外七个美国城市。此次扩张是一项更广泛计划的一部分，该计划旨在到明年建立一个覆盖 270多个沃尔玛门店的无人机配送网络。新市场包括孟菲斯、新奥尔良、费城、菲尼克斯、圣迭戈、旧金山湾区以及盐湖城，使得Wing和沃尔玛的总服务覆盖范围达到美国近20个市场。Wing已经在亚特兰大、达拉斯-沃斯堡和大休斯顿地区向顾客配送沃尔玛商品。该公司还已宣布计划扩展到奥兰多、坦帕、夏洛特、圣路易斯、辛辛那提、洛杉矶和迈阿密。",
-      "clean_text": "Wing与沃尔玛新增7个城市启用无人机送货谷歌母公司旗下的Wing公司，使用自主无人机配送食品杂货甚至咖啡，该公司正通过与沃尔玛的合作进军另外七个美国城市。此次扩张是一项更广泛计划的一部分，该计划旨在到明年建立一个覆盖 270多个沃尔玛门店的无人机配送网络。新市场包括孟菲斯、新奥尔良、费城、菲尼克斯、圣迭戈、旧金山湾区以及盐湖城，使得Wing和沃尔玛的总服务覆盖范围达到美国近20个市场。Wing已经在亚特兰大、达拉斯-沃斯堡和大休斯顿地区向顾客配送沃尔玛商品。该公司还已宣布计划扩展到奥兰多、坦帕、夏洛特、圣路易斯、辛辛那提、洛杉矶和迈阿密。——Techcrunch",
-      "datetime": "2026-06-11T12:04:27+00:00",
-      "views": "2.04K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30025",
-      "scraped_at": "2026-06-11T21:01:26.974410",
-      "title": "Wing与沃尔玛新增7城无人机送货",
-      "title_options": {
-        "conclusion": "Wing与沃尔玛新增7城无人机送货",
-        "attractive": "无人机送货覆盖270家沃尔玛",
-        "minimal": "Wing沃尔玛7城无人机",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-13T00:00:46.528541"
+  "count": 70,
+  "updated_at": "2026-06-13T00:05:54.563204"
 }
