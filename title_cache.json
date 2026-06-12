@@ -4444,5 +4444,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T13:04:29.327150"
+  },
+  "xhqcankao_30054": {
+    "ai_title": "日本H3火箭发射成功",
+    "title_options": {
+      "conclusion": "日本H3火箭发射成功",
+      "attractive": "H3火箭成功率升至75%",
+      "minimal": "H3火箭成功发射",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T14:00:27.930346"
+  },
+  "zaihuapd_41911": {
+    "ai_title": "大疆起诉影石专利纠纷",
+    "title_options": {
+      "conclusion": "大疆起诉影石专利纠纷",
+      "attractive": "大疆首诉前员工专利",
+      "minimal": "大疆影石专利案",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T14:00:28.065658"
   }
 }
