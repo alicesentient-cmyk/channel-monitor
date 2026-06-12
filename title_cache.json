@@ -4295,5 +4295,54 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T09:05:37.364690"
+  },
+  "xhqcankao_30047": {
+    "ai_title": "美新法案允许起诉官员删帖",
+    "title_options": {
+      "conclusion": "美新法案允许起诉官员删帖",
+      "attractive": "官员威胁删帖？可起诉",
+      "minimal": "法案允许起诉删帖",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T10:01:28.376934"
+  },
+  "xhqcankao_30046": {
+    "ai_title": "Waymo推30美元月费会员",
+    "title_options": {
+      "conclusion": "Waymo推30美元月费会员",
+      "attractive": "30美元享优先派车",
+      "minimal": "Waymo会员30美元/月"
+    },
+    "generated_at": "2026-06-12T10:01:28.459476"
+  },
+  "zaihuapd_41906": {
+    "ai_title": "Snell v6在Surge Beta…",
+    "title_options": {
+      "conclusion": "Snell v6在Surge Beta…",
+      "attractive": "Snell v6弃QUIC改PSK",
+      "minimal": "Snell v6 Surge Beta",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T10:01:28.625655"
+  },
+  "zaihuapd_41905": {
+    "ai_title": "SpaceX轨道数据中心遇中国供应链难题",
+    "title_options": {
+      "conclusion": "SpaceX轨道数据中心遇中国供应链难题",
+      "attractive": "SpaceX太空计划依赖中国材料",
+      "minimal": "SpaceX轨道数据中心供应链",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T10:01:29.517387"
+  },
+  "xhqcankao_30045": {
+    "ai_title": "谷歌服务耗尽三星手表电量",
+    "title_options": {
+      "conclusion": "谷歌服务耗尽三星手表电量",
+      "attractive": "69%电量被谷歌服务吃掉",
+      "minimal": "谷歌服务 三星 耗电",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T10:01:29.761793"
   }
 }

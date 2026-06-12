@@ -1,6 +1,136 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30047",
+      "channel": "xhqcankao",
+      "text": "官员威胁删帖 美国新法案将允许用户起诉根据一项新的两党法案，如果政府官员非法试图强迫社交媒体、人工智能或广播公司删除美国人的帖子",
+      "clean_text": "官员威胁删帖 美国新法案将允许用户起诉根据一项新的两党法案，如果政府官员非法试图强迫社交媒体、人工智能或广播公司删除美国人的帖子 —— 无论该平台是否真的执行，他们都可以起诉要求赔偿。参议院商务委员会主席特德·克鲁兹和参议员罗恩·怀登周四提出了《JAWBONE法案》，该法案除了允许个人就此类损害提起诉讼外，还将为政府与社交媒体、人工智能和广播公司的沟通制定新的透明度要求。这可能会赋予像主持人吉米·坎摩尔这样的人有权起诉FCC主席布伦丹·卡尔，在查理·柯克被杀后，这位喜剧演员开了一个卡尔不喜欢的玩笑，随后FCC主席卡尔威胁要吊销电视台的广播执照。——Theverge",
+      "datetime": "2026-06-12T02:00:39+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30047",
+      "scraped_at": "2026-06-12T10:01:11.759066",
+      "title": "美新法案允许起诉官员删帖",
+      "title_options": {
+        "conclusion": "美新法案允许起诉官员删帖",
+        "attractive": "官员威胁删帖？可起诉",
+        "minimal": "法案允许起诉删帖",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41906",
+      "channel": "zaihuapd",
+      "text": "Snell v6 开始在 Surge Beta 中测试最新 Surge Beta 已开始测试 Snell v6。新版不再支持 QUIC Proxy Mode，改用由 PSK 自动生成的部署级协议配置，让不同服务器呈现不同流量特征，避免所有部署共享同一固定模式。服务器端新增 dns-ip-preference，可控制 DNS 解析后的 IPv4/IPv6 偏好；listen 也支持多个监听地址。Surge Mac Beta 已支持，Surge iOS TestFlight 将在未来几天发布。Surge Blog",
+      "clean_text": "Snell v6 开始在 Surge Beta 中测试最新 Surge Beta 已开始测试 Snell v6。新版不再支持 QUIC Proxy Mode，改用由 PSK 自动生成的部署级协议配置，让不同服务器呈现不同流量特征，避免所有部署共享同一固定模式。服务器端新增 dns-ip-preference，可控制 DNS 解析后的 IPv4/IPv6 偏好；listen 也支持多个监听地址。Surge Mac Beta 已支持，Surge iOS TestFlight 将在未来几天发布。Surge Blog·备用频道",
+      "datetime": "2026-06-12T01:59:44+00:00",
+      "views": "366",
+      "source_links": [
+        {
+          "text": "Surge Blog",
+          "url": "https://nssurge.com/blog/snell-v6/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41906",
+      "scraped_at": "2026-06-12T10:01:08.586982",
+      "title": "Snell v6在Surge Beta…",
+      "title_options": {
+        "conclusion": "Snell v6在Surge Beta…",
+        "attractive": "Snell v6弃QUIC改PSK",
+        "minimal": "Snell v6 Surge Beta",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30046",
+      "channel": "xhqcankao",
+      "text": "Waymo推出会员 30美元/月享优先派车服务自动驾驶出租车公司谷歌Waymo周四宣布推出首个付费会员套餐“Waymo Premier”，月费29.99美元，初期采邀请制，率先向美国旧金山、洛杉矶及凤凰城部分高频使用者开放。随着 Waymo 加速全球扩张并准备进军伦敦市场，公司正试图通过订阅制建立更稳定的营收来源，进一步拉开与竞争对手之间的差距。会员可享有优先配对车辆服务、每月最多五次免费取消叫车，以及每趟行程回馈10%的Waymo Cash积分，可用于未来搭车折抵费用。该公司表示，推出新方案是为了回应重度用户需求，希望为最忠诚乘客提供更流畅、更具奖励性的搭乘体验。",
+      "clean_text": "Waymo推出会员 30美元/月享优先派车服务自动驾驶出租车公司谷歌Waymo周四宣布推出首个付费会员套餐“Waymo Premier”，月费29.99美元，初期采邀请制，率先向美国旧金山、洛杉矶及凤凰城部分高频使用者开放。随着 Waymo 加速全球扩张并准备进军伦敦市场，公司正试图通过订阅制建立更稳定的营收来源，进一步拉开与竞争对手之间的差距。会员可享有优先配对车辆服务、每月最多五次免费取消叫车，以及每趟行程回馈10%的Waymo Cash积分，可用于未来搭车折抵费用。该公司表示，推出新方案是为了回应重度用户需求，希望为最忠诚乘客提供更流畅、更具奖励性的搭乘体验。——雅虎新闻",
+      "datetime": "2026-06-12T01:32:46+00:00",
+      "views": "988",
+      "source_links": [
+        {
+          "text": "雅虎新闻",
+          "url": "https://hk.finance.yahoo.com/news/%E8%87%AA%E9%A7%95%E8%A8%88%E7%A8%8B%E8%BB%8A%E4%B9%9F%E7%8E%A9%E8%A8%82%E9%96%B1-waymo%E6%8E%A8%E5%87%BA%E6%9C%88%E8%B2%BB%E6%9C%83%E5%93%A1%E5%88%B6-%E4%B8%8D%E5%88%B030%E7%BE%8E%E5%85%83%E4%BA%AB%E5%84%AA%E5%85%88%E6%B4%BE%E8%BB%8A%E6%9C%8D%E5%8B%99-210006670.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30046",
+      "scraped_at": "2026-06-12T10:01:11.758736",
+      "title": "Waymo推30美元月费会员",
+      "title_options": {
+        "conclusion": "Waymo推30美元月费会员",
+        "attractive": "30美元享优先派车",
+        "minimal": "Waymo会员30美元/月"
+      }
+    },
+    {
+      "id": "zaihuapd_41905",
+      "channel": "zaihuapd",
+      "text": "SpaceX 轨道数据中心计划面临中国供应链难题SpaceX 计划从 2030 年起，每年把 100 吉瓦太阳能 AI 数据中心送入轨道，并需要数千次发射、约 100 万吨运力。这会让地面供应链承压。材料指出，太空太阳能电池可能涉及砷化镓或多晶硅，而中国在镓和太阳能多晶硅产能上占主导。SpaceX 又有美国军方合同，若关键硬件依赖中国，推进轨道基础设施会更困难。Bloomberg",
+      "clean_text": "SpaceX 轨道数据中心计划面临中国供应链难题SpaceX 计划从 2030 年起，每年把 100 吉瓦太阳能 AI 数据中心送入轨道，并需要数千次发射、约 100 万吨运力。这会让地面供应链承压。材料指出，太空太阳能电池可能涉及砷化镓或多晶硅，而中国在镓和太阳能多晶硅产能上占主导。SpaceX 又有美国军方合同，若关键硬件依赖中国，推进轨道基础设施会更困难。Bloomberg·备用频道",
+      "datetime": "2026-06-12T01:14:44+00:00",
+      "views": "3.92K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/opinion/articles/2026-06-11/spacex-s-critical-minerals-plan-runs-through-china"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41905",
+      "scraped_at": "2026-06-12T10:01:08.586534",
+      "title": "SpaceX轨道数据中心遇中国供应链难题",
+      "title_options": {
+        "conclusion": "SpaceX轨道数据中心遇中国供应链难题",
+        "attractive": "SpaceX太空计划依赖中国材料",
+        "minimal": "SpaceX轨道数据中心供应链",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30045",
+      "channel": "xhqcankao",
+      "text": "谷歌Play服务正在快速耗尽三星手表电量如果你注意到你的 Galaxy Watch 电池电量比正常情况下降得更快，你并不是孤例。几位用户报告说他们在设备遇到了电池电量消耗过度的问题。据这些用户称，罪魁祸首似乎是谷歌Play服务。一位分享了电池使用情况截图的用户显示，自上次充电以来，Play服务已经消耗了设备69.7%的电量。另一位用户设备的电池有30.9%被该应用消耗。谷歌Play服务是一款将您的应用与其他谷歌系统连接起来的后台应用。在正常情况下，谷歌Play服务应用每天应该只消耗你设备电池的一小部分。因此，像30%、69%甚至更高的数字绝对值得担忧。目前，该问题似乎影响了多款三星 Galaxy Watch 型号。",
+      "clean_text": "谷歌Play服务正在快速耗尽三星手表电量如果你注意到你的 Galaxy Watch 电池电量比正常情况下降得更快，你并不是孤例。几位用户报告说他们在设备遇到了电池电量消耗过度的问题。据这些用户称，罪魁祸首似乎是谷歌Play服务。一位分享了电池使用情况截图的用户显示，自上次充电以来，Play服务已经消耗了设备69.7%的电量。另一位用户设备的电池有30.9%被该应用消耗。谷歌Play服务是一款将您的应用与其他谷歌系统连接起来的后台应用。在正常情况下，谷歌Play服务应用每天应该只消耗你设备电池的一小部分。因此，像30%、69%甚至更高的数字绝对值得担忧。目前，该问题似乎影响了多款三星 Galaxy Watch 型号。——Androidauthority",
+      "datetime": "2026-06-12T01:01:08+00:00",
+      "views": "1.84K",
+      "source_links": [
+        {
+          "text": "Androidauthority",
+          "url": "https://www.androidauthority.com/galaxy-watch-play-services-battery-drain-3676373/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30045",
+      "scraped_at": "2026-06-12T10:01:11.758358",
+      "title": "谷歌服务耗尽三星手表电量",
+      "title_options": {
+        "conclusion": "谷歌服务耗尽三星手表电量",
+        "attractive": "69%电量被谷歌服务吃掉",
+        "minimal": "谷歌服务 三星 耗电",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30044",
       "channel": "xhqcankao",
       "text": "拆解证实特朗普T1手机是HTC U24 Pro换壳拆解机构iFixit在拿到一部特朗普手机并将其拆解后， 证实T1手机本质上就是 HTC U24 Pro 的换壳版本。iFixit与NBC合作，拿到了媒体样机特朗普手机以及一部 U24 Pro。他们用 CT 扫描仪对这两部手机进行扫描，将其拆解成零件，甚至将它们重新组装成一部可用的手机，将 U24 Pro 的主板装进 T1 手机的机身中，过程中证实了这两部手机在功能上是相同的。存在细微差异：闪光灯位置略有移动，扬声器格栅经过微调，而芯片组封装虽然规格相同，但特朗普手机由美光提供，而 HTC 则由 SK 海力士提供。更大的变化在于电池：特朗普手机的电芯稍大，并在菲律宾制造，不过支持更慢的30W充电。",
@@ -1759,6 +1889,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-12T09:56:21.953461"
+  "count": 74,
+  "updated_at": "2026-06-12T10:01:29.769492"
 }
