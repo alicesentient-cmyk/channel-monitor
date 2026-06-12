@@ -1281,31 +1281,8 @@
         "minimal": "亚马逊数据中心耗水",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30036",
-      "channel": "xhqcankao",
-      "text": "Deezer为第三方平台推出AI音乐检测器法国音乐平台Deezer推出了一款免费在线工具，可以检测 Apple Music 播放列表以及其他流媒体平台上创建的播放列表中的AI生成曲目。该工具适用于20个不同的平台，包括 Spotify、SoundCloud 和 YT Music。要使用该工具，请访问Deezer的AI音乐检测器网站，选择您的流媒体服务，然后授予Deezer访问权限。该工具将导入您的播放列表，扫描其中的AI内容，并提醒您任何听起来可疑的曲目。Deezer报告称，平台每天收到超过60,000首完全由AI生成的曲目，合成内容现在约占交付到该平台的所有音乐的39%。",
-      "clean_text": "Deezer为第三方平台推出AI音乐检测器法国音乐平台Deezer推出了一款免费在线工具，可以检测 Apple Music 播放列表以及其他流媒体平台上创建的播放列表中的AI生成曲目。该工具适用于20个不同的平台，包括 Spotify、SoundCloud 和 YT Music。要使用该工具，请访问Deezer的AI音乐检测器网站，选择您的流媒体服务，然后授予Deezer访问权限。该工具将导入您的播放列表，扫描其中的AI内容，并提醒您任何听起来可疑的曲目。Deezer报告称，平台每天收到超过60,000首完全由AI生成的曲目，合成内容现在约占交付到该平台的所有音乐的39%。——Macrumors",
-      "datetime": "2026-06-11T17:31:19+00:00",
-      "views": "501",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/11/deezer-launches-ai-music-detector/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30036",
-      "scraped_at": "2026-06-12T02:00:44.068649",
-      "title": "Deezer推AI音乐检测器",
-      "title_options": {
-        "conclusion": "Deezer推AI音乐检测器",
-        "attractive": "AI曲目占平台39%",
-        "minimal": "AI音乐检测",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-13T05:31:08.453209"
+  "count": 53,
+  "updated_at": "2026-06-13T05:36:12.072877"
 }
