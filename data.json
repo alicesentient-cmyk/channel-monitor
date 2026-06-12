@@ -1466,35 +1466,8 @@
         "minimal": "IGXE 税收清缴",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30031",
-      "channel": "xhqcankao",
-      "text": "Meta开始撤销收购Manus：已完成业务分离Meta已完成与Manus的业务分离，并停止了两家公司之间的数据共享，为撤销这项价值20亿美元收购交易迈出了关键一步。知情人士表示，Meta实际上已经在公司与Manus之间建立了一道防火墙。自本月初以来，Meta已禁止Manus及其员工访问公司内部数据系统。相应地，Meta员工也不得再将Manus的工具用于公司内部项目。据悉，Meta正在逐步停止使用Manus的服务。公司已通知员工将现有的Manus项目迁移到Meta系统上，并且不要再在Manus平台上启动新的工作。这些旨在将两项业务分离的举措，标志着Meta朝着最终剥离Manus又迈出了一步。",
-      "clean_text": "Meta开始撤销收购Manus：已完成业务分离Meta已完成与Manus的业务分离，并停止了两家公司之间的数据共享，为撤销这项价值20亿美元收购交易迈出了关键一步。知情人士表示，Meta实际上已经在公司与Manus之间建立了一道防火墙。自本月初以来，Meta已禁止Manus及其员工访问公司内部数据系统。相应地，Meta员工也不得再将Manus的工具用于公司内部项目。据悉，Meta正在逐步停止使用Manus的服务。公司已通知员工将现有的Manus项目迁移到Meta系统上，并且不要再在Manus平台上启动新的工作。这些旨在将两项业务分离的举措，标志着Meta朝着最终剥离Manus又迈出了一步。——凤凰网科技、彭博社",
-      "datetime": "2026-06-11T15:03:06+00:00",
-      "views": "2.33K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006y3VSWtEWiOLm7y5tNqXRcjMLLrQUXyZzqhIxCP08v94xx-_C4DLhhok7nS9g9HQ3--"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-11/meta-severs-manus-data-access-after-china-orders-buyout-unwound"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30031",
-      "scraped_at": "2026-06-12T00:00:20.617472",
-      "title": "Meta撤销收购Manus",
-      "title_options": {
-        "conclusion": "Meta撤销收购Manus",
-        "attractive": "Meta与Manus业务分离",
-        "minimal": "Meta Manus分离",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-13T02:58:54.646866"
+  "count": 60,
+  "updated_at": "2026-06-13T03:03:58.895159"
 }
