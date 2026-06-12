@@ -1958,35 +1958,8 @@
         "attractive": "CEO只管一人，妹妹管全司",
         "minimal": "CEO、下属、妹妹"
       }
-    },
-    {
-      "id": "zaihuapd_41882",
-      "channel": "zaihuapd",
-      "text": "2026 年世界杯将于北京时间 6 月 12 日 03:00 正式开启今晚会不会熬夜看世界杯",
-      "clean_text": "⚽️2026 年世界杯将于北京时间 6 月 12 日 03:00 正式开启今晚会不会熬夜看世界杯⚽️·备用频道",
-      "datetime": "2026-06-11T01:26:00+00:00",
-      "views": "3.21K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41882",
-      "scraped_at": "2026-06-11T10:00:36.100651",
-      "title": "2026世界杯6月12日开赛",
-      "title_options": {
-        "conclusion": "2026世界杯6月12日开赛",
-        "attractive": "今晚熬夜看世界杯吗",
-        "minimal": "世界杯6月12日开赛",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 78,
-  "updated_at": "2026-06-12T13:24:49.352169"
+  "count": 77,
+  "updated_at": "2026-06-12T13:29:54.691932"
 }
