@@ -1597,26 +1597,8 @@
         "minimal": "政策撤回",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41900",
-      "channel": "zaihuapd",
-      "text": "Instacart 与 OpenAI 推出集成购物功能，用户可在 ChatGPT 内完成结账  2025 年 12 月 8 日，Instacart 与 OpenAI 宣布深化合作，在 ChatGPT 中上线首个集成即时结账功能的杂货购物应用。用户可通过 ChatGPT 直接浏览商品、生成购物车并完成支付，无需跳转至其他页面。  Instacart 是北美最大的在线杂货与即时配送平台之一，为用户提供从选购到送达的一站式服务。该应用结合 Instacart 的实时配送网络与 OpenAI 的前沿模型，实现…",
-      "clean_text": "🤖Instacart 与 OpenAI 推出集成购物功能，用户可在 ChatGPT 内完成结账  2025 年 12 月 8 日，Instacart 与 OpenAI 宣布深化合作，在 ChatGPT 中上线首个集成即时结账功能的杂货购物应用。用户可通过 ChatGPT 直接浏览商品、生成购物车并完成支付，无需跳转至其他页面。  Instacart 是北美最大的在线杂货与即时配送平台之一，为用户提供从选购到送达的一站式服务。该应用结合 Instacart 的实时配送网络与 OpenAI 的前沿模型，实现…",
-      "datetime": "2026-06-11T13:15:00+00:00",
-      "views": "4.46K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41900",
-      "scraped_at": "2026-06-11T22:00:55.450041",
-      "title": "ChatGPT内可完成结账",
-      "title_options": {
-        "conclusion": "ChatGPT内可完成结账",
-        "attractive": "ChatGPT内直接购物结账",
-        "minimal": "ChatGPT集成购物",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-13T01:12:10.373586"
+  "count": 65,
+  "updated_at": "2026-06-13T01:17:15.834149"
 }
