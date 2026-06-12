@@ -1915,39 +1915,8 @@
         "minimal": "xAI前工程师诉讼安全担忧",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41884",
-      "channel": "zaihuapd",
-      "text": "GPT 土区应用内订阅涨至 999.99 里拉 / 月GPT 土耳其区应用内订阅价格已从 499.99 里拉/月调整至 999.99 里拉/月，价格翻倍。用户续订页面暂未同步显示新价格，仍显示旧价。参考",
-      "clean_text": "GPT 土区应用内订阅涨至 999.99 里拉 / 月GPT 土耳其区应用内订阅价格已从 499.99 里拉/月调整至 999.99 里拉/月，价格翻倍。用户续订页面暂未同步显示新价格，仍显示旧价。参考via Hugh·备用频道",
-      "datetime": "2026-06-11T02:27:30+00:00",
-      "views": "3.94K",
-      "source_links": [
-        {
-          "text": "参考",
-          "url": "https://opentherank.com/ai-pricing/chatgpt/turkey/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41884",
-      "scraped_at": "2026-06-11T11:00:51.013825",
-      "title": "GPT土区订阅涨至999.99里拉",
-      "title_options": {
-        "conclusion": "GPT土区订阅涨至999.99里拉",
-        "attractive": "GPT土区订阅翻倍，续订仍旧价",
-        "minimal": "GPT土区订阅涨至999.99",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 77,
-  "updated_at": "2026-06-12T14:25:51.341840"
+  "count": 76,
+  "updated_at": "2026-06-12T14:30:55.550149"
 }
