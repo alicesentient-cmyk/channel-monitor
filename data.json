@@ -1944,35 +1944,8 @@
         "minimal": "AI债券 5700亿美元 2026",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30001",
-      "channel": "xhqcankao",
-      "text": "Anthropic呼吁强力监管AI 不应限制州立法权Anthropic周三发表声明，就人工智能监管提出一揽子建议。该公司呼吁美国国会不要阻止各州制定AI监管法规，除非国会议员能够通过一项应对“灾难性AI风险”的“严格”联邦法律。在此之前，美国总统特朗普曾敦促国会通过立法，以联邦法规取代各州的AI监管规则。Anthropic在周三就此话题发表了看法，并表示国会应要求AI公司对其最强大的模型进行独立安全测试。Anthropic CEO阿莫代伊表示，政府应有权阻止AI开发者部署存在特定风险的新型AI模型。他在周三发表的长文中说，AI模型应接受第三方强制测试，以评估其在多个领域可能带来的风险，包括助长网络安全威胁和生物武器的能力。",
-      "clean_text": "Anthropic呼吁强力监管AI 不应限制州立法权Anthropic周三发表声明，就人工智能监管提出一揽子建议。该公司呼吁美国国会不要阻止各州制定AI监管法规，除非国会议员能够通过一项应对“灾难性AI风险”的“严格”联邦法律。在此之前，美国总统特朗普曾敦促国会通过立法，以联邦法规取代各州的AI监管规则。Anthropic在周三就此话题发表了看法，并表示国会应要求AI公司对其最强大的模型进行独立安全测试。Anthropic CEO阿莫代伊表示，政府应有权阻止AI开发者部署存在特定风险的新型AI模型。他在周三发表的长文中说，AI模型应接受第三方强制测试，以评估其在多个领域可能带来的风险，包括助长网络安全威胁和生物武器的能力。——凤凰网科技、路透社",
-      "datetime": "2026-06-11T00:31:04+00:00",
-      "views": "1.09K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006CHkJ1zloSbz9av2KgN8G--LoJ6NkLOtJRlgkLSNUwIiUUSl0XNONzkJTU6us-_Rh0P"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/world/anthropic-urges-us-require-safety-tests-most-capable-ai-models-2026-06-10/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30001",
-      "scraped_at": "2026-06-11T09:00:49.263184",
-      "title": "Anthropic呼吁国会监管AI",
-      "title_options": {
-        "conclusion": "Anthropic呼吁国会监管AI",
-        "attractive": "AI公司呼吁联邦严格监管",
-        "minimal": "Anthropic AI监管建议",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 77,
-  "updated_at": "2026-06-12T12:28:55.382778"
+  "count": 76,
+  "updated_at": "2026-06-12T12:33:59.587720"
 }
