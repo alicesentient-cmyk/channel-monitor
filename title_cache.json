@@ -4591,5 +4591,25 @@
       "minimal": "谷歌三星TPU合作"
     },
     "generated_at": "2026-06-12T18:04:41.974110"
+  },
+  "zaihuapd_41917": {
+    "ai_title": "英伟达发布Vera Rubin平台",
+    "title_options": {
+      "conclusion": "英伟达发布Vera Rubin平台",
+      "attractive": "英伟达预计销售额1万亿美元",
+      "minimal": "英伟达Vera Rubin平台",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T19:05:38.484616"
+  },
+  "zaihuapd_41918": {
+    "ai_title": "Kimi开源编码模型K2.7",
+    "title_options": {
+      "conclusion": "Kimi开源编码模型K2.7",
+      "attractive": "编码模型K2.7 token减30%",
+      "minimal": "K2.7-Code开源",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T19:05:38.587202"
   }
 }
