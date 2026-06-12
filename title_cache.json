@@ -4265,5 +4265,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-12T08:04:42.363494"
+  },
+  "xhqcankao_30043": {
+    "ai_title": "贝索斯驳斥AI抢饭碗论",
+    "title_options": {
+      "conclusion": "贝索斯驳斥AI抢饭碗论",
+      "attractive": "AI将带来多个黄金时代",
+      "minimal": "贝索斯AI黄金时代",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T09:05:37.083857"
+  },
+  "xhqcankao_30044": {
+    "ai_title": "特朗普手机是HTC换壳版",
+    "title_options": {
+      "conclusion": "特朗普手机是HTC换壳版",
+      "attractive": "特朗普手机实为HTC换壳",
+      "minimal": "特朗普手机 HTC换壳",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T09:05:37.167984"
+  },
+  "zaihuapd_41904": {
+    "ai_title": "苹果与伦敦警方共享被盗手机数据",
+    "title_options": {
+      "conclusion": "苹果与伦敦警方共享被盗手机数据",
+      "attractive": "苹果新规：被盗手机更难用",
+      "minimal": "苹果 伦敦 警方 共享 数据",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-12T09:05:37.364690"
   }
 }
