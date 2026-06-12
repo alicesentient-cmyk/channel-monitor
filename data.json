@@ -1876,39 +1876,8 @@
         "minimal": "Xbox裁员改革",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41889",
-      "channel": "zaihuapd",
-      "text": "Android 17 将强制限制 app 内存，超限就会被系统直接终止从 Android 17 开始，系统会根据设备总 RAM 为每个应用设定内存上限，超过限制的进程会被直接终止且不留堆栈跟踪，以此防止单个应用拖垮整机多任务体验和稳定性。Google 建议开发者全面启用 R8 优化以缩减常驻代码，使用图片加载库时优先选用 RGB_565 等低内存格式并主动回收位图，借助 LeakCanary 等工具及时修复内存泄漏，并在 Activity 等组件中响应 onTrimMemory 回调主动释放界面缓存。同时，新提供的 ProfilingManager API 支持在生产环境中触发异常或 OOM 时的堆转储收集，方便事后定位和优化。Android Developers Blog",
-      "clean_text": "Android 17 将强制限制 app 内存，超限就会被系统直接终止从 Android 17 开始，系统会根据设备总 RAM 为每个应用设定内存上限，超过限制的进程会被直接终止且不留堆栈跟踪，以此防止单个应用拖垮整机多任务体验和稳定性。Google 建议开发者全面启用 R8 优化以缩减常驻代码，使用图片加载库时优先选用 RGB_565 等低内存格式并主动回收位图，借助 LeakCanary 等工具及时修复内存泄漏，并在 Activity 等组件中响应 onTrimMemory 回调主动释放界面缓存。同时，新提供的 ProfilingManager API 支持在生产环境中触发异常或 OOM 时的堆转储收集，方便事后定位和优化。Android Developers Blog·备用频道",
-      "datetime": "2026-06-11T05:30:00+00:00",
-      "views": "4.05K",
-      "source_links": [
-        {
-          "text": "Android Developers Blog",
-          "url": "https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41889",
-      "scraped_at": "2026-06-11T14:00:18.351386",
-      "title": "Android 17限制app内存",
-      "title_options": {
-        "conclusion": "Android 17限制app内存",
-        "attractive": "超限直接终止不留痕迹",
-        "minimal": "Android 17内存限制",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 76,
-  "updated_at": "2026-06-12T17:29:09.925430"
+  "count": 75,
+  "updated_at": "2026-06-12T17:34:13.948311"
 }
