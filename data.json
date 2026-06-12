@@ -1354,31 +1354,8 @@
         "minimal": "空难报告推迟",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30033",
-      "channel": "xhqcankao",
-      "text": "谷歌旗下YouTube宣布推出私信功能谷歌旗下的视频分享平台YouTube正在重新引入私信功能，此前在去年测试了让用户分享视频并 “就此进行对话” 的新方式。在其官方博客的一则公告中，YouTube表示它现在开始向美国及其他全球地区年满18岁或以上的用户扩展应用内视频分享和消息功能。这个视频分享平台此前曾在2017年引入私信功能，但仅两年后便停止了该功能。YouTube平台在2025年11月开始测试其最新的应用内消息功能时表示，这是用户“最迫切需要的功能”。然而，新的消息系统也存在一些不同之处：YouTube用户需要先验证年龄才能使用该功能，并且只能通过第三方消息平台向某人发送邀请链接后才能与之交谈。",
-      "clean_text": "谷歌旗下YouTube宣布推出私信功能谷歌旗下的视频分享平台YouTube正在重新引入私信功能，此前在去年测试了让用户分享视频并 “就此进行对话” 的新方式。在其官方博客的一则公告中，YouTube表示它现在开始向美国及其他全球地区年满18岁或以上的用户扩展应用内视频分享和消息功能。这个视频分享平台此前曾在2017年引入私信功能，但仅两年后便停止了该功能。YouTube平台在2025年11月开始测试其最新的应用内消息功能时表示，这是用户“最迫切需要的功能”。然而，新的消息系统也存在一些不同之处：YouTube用户需要先验证年龄才能使用该功能，并且只能通过第三方消息平台向某人发送邀请链接后才能与之交谈。——Theverge",
-      "datetime": "2026-06-11T16:01:37+00:00",
-      "views": "1.84K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30033",
-      "scraped_at": "2026-06-12T01:01:05.959107",
-      "title": "YouTube重启私信功能",
-      "title_options": {
-        "conclusion": "YouTube重启私信功能",
-        "attractive": "YouTube私信需验证年龄",
-        "minimal": "YouTube私信",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-13T03:59:49.738195"
+  "count": 56,
+  "updated_at": "2026-06-13T04:04:53.542453"
 }
