@@ -1344,31 +1344,8 @@
         "minimal": "谷歌服务 三星 耗电",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30044",
-      "channel": "xhqcankao",
-      "text": "拆解证实特朗普T1手机是HTC U24 Pro换壳拆解机构iFixit在拿到一部特朗普手机并将其拆解后， 证实T1手机本质上就是 HTC U24 Pro 的换壳版本。iFixit与NBC合作，拿到了媒体样机特朗普手机以及一部 U24 Pro。他们用 CT 扫描仪对这两部手机进行扫描，将其拆解成零件，甚至将它们重新组装成一部可用的手机，将 U24 Pro 的主板装进 T1 手机的机身中，过程中证实了这两部手机在功能上是相同的。存在细微差异：闪光灯位置略有移动，扬声器格栅经过微调，而芯片组封装虽然规格相同，但特朗普手机由美光提供，而 HTC 则由 SK 海力士提供。更大的变化在于电池：特朗普手机的电芯稍大，并在菲律宾制造，不过支持更慢的30W充电。",
-      "clean_text": "拆解证实特朗普T1手机是HTC U24 Pro换壳拆解机构iFixit在拿到一部特朗普手机并将其拆解后， 证实T1手机本质上就是 HTC U24 Pro 的换壳版本。iFixit与NBC合作，拿到了媒体样机特朗普手机以及一部 U24 Pro。他们用 CT 扫描仪对这两部手机进行扫描，将其拆解成零件，甚至将它们重新组装成一部可用的手机，将 U24 Pro 的主板装进 T1 手机的机身中，过程中证实了这两部手机在功能上是相同的。存在细微差异：闪光灯位置略有移动，扬声器格栅经过微调，而芯片组封装虽然规格相同，但特朗普手机由美光提供，而 HTC 则由 SK 海力士提供。更大的变化在于电池：特朗普手机的电芯稍大，并在菲律宾制造，不过支持更慢的30W充电。——Theverge",
-      "datetime": "2026-06-12T00:33:21+00:00",
-      "views": "1.13K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30044",
-      "scraped_at": "2026-06-12T09:01:02.064602",
-      "title": "特朗普手机是HTC换壳版",
-      "title_options": {
-        "conclusion": "特朗普手机是HTC换壳版",
-        "attractive": "特朗普手机实为HTC换壳",
-        "minimal": "特朗普手机 HTC换壳",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-13T12:31:40.004863"
+  "count": 54,
+  "updated_at": "2026-06-13T12:36:44.598523"
 }
