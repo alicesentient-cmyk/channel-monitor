@@ -970,43 +970,8 @@
         "minimal": "英伟达Vera Rubin平台",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41916",
-      "channel": "zaihuapd",
-      "text": "Codex 应用浏览器新增开发者模式，支持 CDP 调试OpenAI 为 Codex 应用浏览器加入了开发者模式，支持 Chrome 和应用内浏览器。开启后，Codex 可通过 Chrome DevTools 协议分析 JavaScript 性能、查看控制台输出、网络流量和页面状态，帮助定位复杂的前端问题。应用内浏览器本身用于与 Codex 共享页面视图，适合预览本地开发服务器或公共页面，但不支持登录状态和扩展。开发者模式需在设置中手动启用，Codex 在首次使用完整 CDP 访问前会请求用户批准。OpenAI Developers(1,2)",
-      "clean_text": "Codex 应用浏览器新增开发者模式，支持 CDP 调试OpenAI 为 Codex 应用浏览器加入了开发者模式，支持 Chrome 和应用内浏览器。开启后，Codex 可通过 Chrome DevTools 协议分析 JavaScript 性能、查看控制台输出、网络流量和页面状态，帮助定位复杂的前端问题。应用内浏览器本身用于与 Codex 共享页面视图，适合预览本地开发服务器或公共页面，但不支持登录状态和扩展。开发者模式需在设置中手动启用，Codex 在首次使用完整 CDP 访问前会请求用户批准。OpenAI Developers(1,2)·备用频道",
-      "datetime": "2026-06-12T09:32:33+00:00",
-      "views": "3.3K",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://x.com/OpenAIDevs/status/2065226355495895521"
-        },
-        {
-          "text": "2",
-          "url": "https://developers.openai.com/codex/app/browser"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41916",
-      "scraped_at": "2026-06-12T18:00:26.547911",
-      "title": "Codex新增开发者模式",
-      "title_options": {
-        "conclusion": "Codex新增开发者模式",
-        "attractive": "Codex支持CDP调试",
-        "minimal": "Codex开发者模式",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-06-13T21:30:37.467938"
+  "count": 38,
+  "updated_at": "2026-06-13T21:35:42.160408"
 }
