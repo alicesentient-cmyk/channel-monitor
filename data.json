@@ -929,31 +929,8 @@
         "minimal": "Siri不谈恋爱",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30064",
-      "channel": "xhqcankao",
-      "text": "Kimi发布并开源Kimi K2.7 Code编程模型月之暗面Kimi发布并开源Kimi K2.7 Code编程模型。官方表示，内外部基准评估显示，Kimi K2.7 Code相比K2.6模型显著提升了长上下文编程场景的指令遵循能力、长程编程任务的性能表现，并且大幅改善了在长程任务中的过度思考倾向，平均token消耗减少30%。在评估代码能力的内外部基准测试中，K2.7 Code相比K2.6性能显著提升：Kimi Code Bench v2提升21.8%、Program-Bench提升11%、MLS Bench Lite提升31.5%。K2.7 Code即日起通过Kimi API开放平台和Kimi Code Plan提供服务。1M token标准输入和输出价格与K2.6一致（6.5元和27元），缓存输入价为1.3元。",
-      "clean_text": "Kimi发布并开源Kimi K2.7 Code编程模型月之暗面Kimi发布并开源Kimi K2.7 Code编程模型。官方表示，内外部基准评估显示，Kimi K2.7 Code相比K2.6模型显著提升了长上下文编程场景的指令遵循能力、长程编程任务的性能表现，并且大幅改善了在长程任务中的过度思考倾向，平均token消耗减少30%。在评估代码能力的内外部基准测试中，K2.7 Code相比K2.6性能显著提升：Kimi Code Bench v2提升21.8%、Program-Bench提升11%、MLS Bench Lite提升31.5%。K2.7 Code即日起通过Kimi API开放平台和Kimi Code Plan提供服务。1M token标准输入和输出价格与K2.6一致（6.5元和27元），缓存输入价为1.3元。——凤凰网科技",
-      "datetime": "2026-06-12T11:19:46+00:00",
-      "views": "1.51K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006nrqjBxGgvAh5GkTnbGGQCcZ6JP891cahaYfQYwbkbWEuP6qnVSANrkr7r--4BI9PN"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30064",
-      "scraped_at": "2026-06-12T20:00:39.736523",
-      "title": "Kimi开源K2.7 Code模型",
-      "title_options": {
-        "conclusion": "Kimi开源K2.7 Code模型",
-        "attractive": "编程模型token消耗减30%",
-        "minimal": "Kimi K2.7 Code开源",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-06-13T23:17:32.024402"
+  "count": 36,
+  "updated_at": "2026-06-13T23:22:38.156408"
 }
