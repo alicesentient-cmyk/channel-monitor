@@ -1367,39 +1367,8 @@
         "minimal": "特朗普手机 HTC换壳",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41904",
-      "channel": "zaihuapd",
-      "text": "苹果与伦敦警方共享被盗 iPhone 数据苹果与伦敦大都会警察局达成数据共享协议，警方会向苹果提供被盗设备标识，用来追踪手机是否重新接入网络或流通。苹果也在近期全球软件更新中，把“被盗设备保护”设为默认开启，让被盗 iPhone 更难再用。警方称，2025 年 6 月至 2026 年 5 月，涉及手机的盗窃和抢劫比前一年少 1.4 万起，降幅 18%。该警队正要求推动立法，要求手机公司公布被盗设备数据，并采取措施让被盗手机无法使用。Daily Express",
-      "clean_text": "苹果与伦敦警方共享被盗 iPhone 数据苹果与伦敦大都会警察局达成数据共享协议，警方会向苹果提供被盗设备标识，用来追踪手机是否重新接入网络或流通。苹果也在近期全球软件更新中，把“被盗设备保护”设为默认开启，让被盗 iPhone 更难再用。警方称，2025 年 6 月至 2026 年 5 月，涉及手机的盗窃和抢劫比前一年少 1.4 万起，降幅 18%。该警队正要求推动立法，要求手机公司公布被盗设备数据，并采取措施让被盗手机无法使用。Daily Express·备用频道",
-      "datetime": "2026-06-12T00:24:32+00:00",
-      "views": "2.82K",
-      "source_links": [
-        {
-          "text": "Daily Express",
-          "url": "https://www.express.co.uk/life-style/science-technology/2215942/apple-launches-major-iphone-update"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41904",
-      "scraped_at": "2026-06-12T09:01:00.454346",
-      "title": "苹果与伦敦警方共享被盗手机数据",
-      "title_options": {
-        "conclusion": "苹果与伦敦警方共享被盗手机数据",
-        "attractive": "苹果新规：被盗手机更难用",
-        "minimal": "苹果 伦敦 警方 共享 数据",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-13T12:21:31.483162"
+  "count": 55,
+  "updated_at": "2026-06-13T12:26:35.979347"
 }
