@@ -1195,31 +1195,8 @@
         "minimal": "Codex额度重置",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30050",
-      "channel": "xhqcankao",
-      "text": "小米MiMo AI团队开源终端原生AI编码助手MiMo Code V0.1.0小米MiMo AI团队已开源MiMo Code V0.1.0，这是一款终端原生AI编码助手。小米称其在关键代理编码基准测试中，尤其是在长周期、多步骤任务（200+步）上，表现优于Anthropic的Claude Code。MiMo Code通过跨会话内存系统解决此问题，该系统由SQLite FTS5全文搜索提供支持，涵盖项目内存、会话检查点、临时笔记和任务进度日志四个层级。该工具已在GitHub上以MIT许可开源，并提供 MiMo-V2.5的限时免费访问，后者拥有百万Token上下文窗口。",
-      "clean_text": "小米MiMo AI团队开源终端原生AI编码助手MiMo Code V0.1.0小米MiMo AI团队已开源MiMo Code V0.1.0，这是一款终端原生AI编码助手。小米称其在关键代理编码基准测试中，尤其是在长周期、多步骤任务（200+步）上，表现优于Anthropic的Claude Code。MiMo Code通过跨会话内存系统解决此问题，该系统由SQLite FTS5全文搜索提供支持，涵盖项目内存、会话检查点、临时笔记和任务进度日志四个层级。该工具已在GitHub上以MIT许可开源，并提供 MiMo-V2.5的限时免费访问，后者拥有百万Token上下文窗口。——VentureBeat",
-      "datetime": "2026-06-12T03:29:58+00:00",
-      "views": "1.43K",
-      "source_links": [
-        {
-          "text": "VentureBeat",
-          "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30050",
-      "scraped_at": "2026-06-12T12:00:57.255055",
-      "title": "小米开源AI编码助手",
-      "title_options": {
-        "conclusion": "小米开源AI编码助手",
-        "attractive": "小米编码助手超Claude",
-        "minimal": "小米MiMo Code开源",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-06-13T15:29:30.593587"
+  "count": 48,
+  "updated_at": "2026-06-13T15:34:35.064955"
 }
