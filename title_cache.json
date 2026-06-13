@@ -4770,5 +4770,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-13T09:03:49.424596"
+  },
+  "zaihuapd_41926": {
+    "ai_title": "豆包上线任务模式",
+    "title_options": {
+      "conclusion": "豆包上线任务模式",
+      "attractive": "豆包可自主执行任务",
+      "minimal": "豆包任务模式",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T10:04:37.412448"
+  },
+  "zaihuapd_41925": {
+    "ai_title": "Anthropic关闭两款模型",
+    "title_options": {
+      "conclusion": "Anthropic关闭两款模型",
+      "attractive": "美政府限制AI模型访问",
+      "minimal": "Anthropic模型关闭",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T10:04:37.653100"
+  },
+  "xhqcankao_30075": {
+    "ai_title": "美限制外国访问Anthropic模型",
+    "title_options": {
+      "conclusion": "美限制外国访问Anthropic模型",
+      "attractive": "Anthropic新模型遭出口管制",
+      "minimal": "美限制Anthropic模型访问",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T10:04:37.689755"
   }
 }
