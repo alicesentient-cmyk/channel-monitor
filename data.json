@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41927",
+      "channel": "zaihuapd",
+      "text": "美国多州总检察长联合调查 OpenAI多个州的总检察长正联合调查 OpenAI，要求该公司就 AI 安全等广泛议题提供信息。OpenAI 发言人表示正在配合调查，并认真对待检方关切，但拒绝透露具体涉及哪些州和所要求的信息。此前，佛罗里达州已起诉 OpenAI 及 CEO Sam Altman，指控其明知 ChatGPT 存在危害仍对外发布。公司还面临多起因聊天机器人导致用户受伤害的诉讼。OpenAI 表示，已为未成年人和处于困境的用户增加了保护功能。目前 OpenAI 估值达 8520 亿美元，并已秘密提交上市申请。Bloomberg",
+      "clean_text": "🤖美国多州总检察长联合调查 OpenAI多个州的总检察长正联合调查 OpenAI，要求该公司就 AI 安全等广泛议题提供信息。OpenAI 发言人表示正在配合调查，并认真对待检方关切，但拒绝透露具体涉及哪些州和所要求的信息。此前，佛罗里达州已起诉 OpenAI 及 CEO Sam Altman，指控其明知 ChatGPT 存在危害仍对外发布。公司还面临多起因聊天机器人导致用户受伤害的诉讼。OpenAI 表示，已为未成年人和处于困境的用户增加了保护功能。目前 OpenAI 估值达 8520 亿美元，并已秘密提交上市申请。Bloomberg·备用频道",
+      "datetime": "2026-06-13T02:40:00+00:00",
+      "views": "2.13K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41927",
+      "scraped_at": "2026-06-13T11:00:44.167402",
+      "title": "美多州调查OpenAI",
+      "title_options": {
+        "conclusion": "美多州调查OpenAI",
+        "attractive": "OpenAI遭多州调查",
+        "minimal": "OpenAI调查",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41926",
       "channel": "zaihuapd",
       "text": "豆包上线任务模式，可自主执行复杂任务6 月 12 日，字节跳动旗下 AI 助手豆包大范围上线“任务模式”。该模式定位为智能体，能独立完成任务拆解、规划和交付，用户只需明确目标即可。目前支持零代码生成网页、一键制作 PPT、数据可视化分析，并允许设置定时任务自动执行。同时，原有的“思考模式”升级为“专家模式”，调用豆包大模型 2.0 Pro 版本，侧重深度推理，适用于复杂问题。快速模式则面向简单问答。豆包基础功能仍免费，PPT 生成、数据分析等高阶服务需付费，专业版定价分多档，连续包月 68 元起。IT之家",
@@ -1347,35 +1378,8 @@
         "minimal": "英伟达 Abridge 医疗AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30041",
-      "channel": "xhqcankao",
-      "text": "OpenAI收购云端平台强化Codex竞争力OpenAI公司周四在官网宣布，将收购初创公司Ona。据了解，Ona的主营业务是提供安全的、预先配置的云端运行环境，可使人工智能代理（AI Agents）能够访问所需工具、系统和上下文信息。OpenAI表示，Ona的技术将帮助OpenAI的AI编程助手Codex执行运行时间更长、更复杂的任务。同时，该技术也将帮助更多企业将能够自主完成用户任务的AI代理正式部署到生产环境中。OpenAI并未披露此次收购的具体金额，该交易仍需满足常规成交条件。交易完成后，Ona全体员工将加入OpenAI，并进入Codex团队工作。",
-      "clean_text": "OpenAI收购云端平台强化Codex竞争力OpenAI公司周四在官网宣布，将收购初创公司Ona。据了解，Ona的主营业务是提供安全的、预先配置的云端运行环境，可使人工智能代理（AI Agents）能够访问所需工具、系统和上下文信息。OpenAI表示，Ona的技术将帮助OpenAI的AI编程助手Codex执行运行时间更长、更复杂的任务。同时，该技术也将帮助更多企业将能够自主完成用户任务的AI代理正式部署到生产环境中。OpenAI并未披露此次收购的具体金额，该交易仍需满足常规成交条件。交易完成后，Ona全体员工将加入OpenAI，并进入Codex团队工作。——财联社、彭博社",
-      "datetime": "2026-06-11T23:04:34+00:00",
-      "views": "1.01K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2397742?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30041",
-      "scraped_at": "2026-06-12T08:00:14.994596",
-      "title": "OpenAI收购Ona强化Codex",
-      "title_options": {
-        "conclusion": "OpenAI收购Ona强化Codex",
-        "attractive": "Codex能执行更复杂任务",
-        "minimal": "OpenAI收购Ona",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 56,
-  "updated_at": "2026-06-13T11:00:22.204687"
+  "updated_at": "2026-06-13T11:05:27.365878"
 }
