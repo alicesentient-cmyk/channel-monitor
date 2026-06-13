@@ -1286,39 +1286,8 @@
         "minimal": "算法控制权",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41907",
-      "channel": "zaihuapd",
-      "text": "拆解显示 Trump Mobile T1 与 HTC U24 Pro 几乎相同，多数组件来自中国iFixit 拆解 Trump Mobile T1 后认为，这款 499 美元手机与 HTC U24 Pro 几乎相同。主要差别是电池容量略大但充电功率从 60W 降到 30W，外观改成金色，并有少量摄像头和扬声器开孔调整。T1 的芯片、12 GB 内存和 512 GB 存储配置基本一致。Trump Mobile 曾称其“美国制造”，现在改称“在美国组装”；拆解信息显示，多数组件来自中国，仅电池等来自菲律宾。Engadget",
-      "clean_text": "拆解显示 Trump Mobile T1 与 HTC U24 Pro 几乎相同，多数组件来自中国iFixit 拆解 Trump Mobile T1 后认为，这款 499 美元手机与 HTC U24 Pro 几乎相同。主要差别是电池容量略大但充电功率从 60W 降到 30W，外观改成金色，并有少量摄像头和扬声器开孔调整。T1 的芯片、12 GB 内存和 512 GB 存储配置基本一致。Trump Mobile 曾称其“美国制造”，现在改称“在美国组装”；拆解信息显示，多数组件来自中国，仅电池等来自菲律宾。Engadget·备用频道",
-      "datetime": "2026-06-12T02:20:47+00:00",
-      "views": "3.83K",
-      "source_links": [
-        {
-          "text": "Engadget",
-          "url": "https://www.engadget.com/2192273/teardown-finds-that-the-trump-phone-is-practically-the-same-as-an-htc-handset/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41907",
-      "scraped_at": "2026-06-12T11:01:06.454192",
-      "title": "Trump手机与HTC几乎相同",
-      "title_options": {
-        "conclusion": "Trump手机与HTC几乎相同",
-        "attractive": "499美元手机竟是中国组装",
-        "minimal": "Trump手机HTC同款",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-06-13T14:18:16.806988"
+  "count": 52,
+  "updated_at": "2026-06-13T14:23:21.970366"
 }
