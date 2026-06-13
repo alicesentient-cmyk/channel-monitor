@@ -1132,31 +1132,8 @@
         "minimal": "鸿蒙7发布",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30057",
-      "channel": "xhqcankao",
-      "text": "Meta的视频编辑应用Edits将推出AI助手Meta平台公司周三在洛杉矶一场仅限受邀创作者参加的活动中预览了其视频编辑应用Edits即将新增的功能，展示了诸如全新的AI助手以及此前仅限移动端应用的桌面版本等功能。该公司还宣布，其他新工具将于今日在该应用中推出，例如一个用于实验的“测试版”选项卡以及扩展的受众洞察。Edits最初于去年推出，作为字节跳动旗下剪映的直接竞争对手。随着这些新工具和即将推出工具的加入，Meta希望既能留住现有用户，又能吸引新用户。即将推出的AI助手将帮助创作者分析他们的洞察并为其内容集思广益。",
-      "clean_text": "Meta的视频编辑应用Edits将推出AI助手Meta平台公司周三在洛杉矶一场仅限受邀创作者参加的活动中预览了其视频编辑应用Edits即将新增的功能，展示了诸如全新的AI助手以及此前仅限移动端应用的桌面版本等功能。该公司还宣布，其他新工具将于今日在该应用中推出，例如一个用于实验的“测试版”选项卡以及扩展的受众洞察。Edits最初于去年推出，作为字节跳动旗下剪映的直接竞争对手。随着这些新工具和即将推出工具的加入，Meta希望既能留住现有用户，又能吸引新用户。即将推出的AI助手将帮助创作者分析他们的洞察并为其内容集思广益。——Techcrunch",
-      "datetime": "2026-06-12T07:02:01+00:00",
-      "views": "1.98K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30057",
-      "scraped_at": "2026-06-12T16:00:50.135753",
-      "title": "Meta视频编辑应用将推AI助手",
-      "title_options": {
-        "conclusion": "Meta视频编辑应用将推AI助手",
-        "attractive": "AI助手助你分析视频洞察",
-        "minimal": "Meta Edits AI助手",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-06-13T18:57:57.127317"
+  "count": 45,
+  "updated_at": "2026-06-13T19:03:01.760416"
 }
