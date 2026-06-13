@@ -738,39 +738,8 @@
         "minimal": "SpaceX特斯拉合并可能",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41924",
-      "channel": "zaihuapd",
-      "text": "马斯克身家突破万亿美元，成为世界首位万亿富翁SpaceX 首次公开募股（IPO）定价每股 135 美元，股票代码 SPCX 周五在纳斯达克开始交易。马斯克持有约 42% 的 SpaceX 股份（约 48 亿股）和 3.5 亿份低价期权，IPO 后其身家从 8130 亿美元升至约 1 万亿美元。CBS News",
-      "clean_text": "马斯克身家突破万亿美元，成为世界首位万亿富翁SpaceX 首次公开募股（IPO）定价每股 135 美元，股票代码 SPCX 周五在纳斯达克开始交易。马斯克持有约 42% 的 SpaceX 股份（约 48 亿股）和 3.5 亿份低价期权，IPO 后其身家从 8130 亿美元升至约 1 万亿美元。CBS News·备用频道",
-      "datetime": "2026-06-12T15:54:21+00:00",
-      "views": "1.35K",
-      "source_links": [
-        {
-          "text": "CBS News",
-          "url": "https://www.cbsnews.com/news/elon-musk-spacex-ipo-trillionaire-wealth/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41924",
-      "scraped_at": "2026-06-13T00:00:53.175735",
-      "title": "马斯克身家破万亿美元",
-      "title_options": {
-        "conclusion": "马斯克身家破万亿美元",
-        "attractive": "SpaceX上市助马斯克成万亿富翁",
-        "minimal": "马斯克万亿身家",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-14T03:51:28.141275"
+  "count": 27,
+  "updated_at": "2026-06-14T03:56:31.103393"
 }
