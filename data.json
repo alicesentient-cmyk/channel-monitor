@@ -787,26 +787,8 @@
         "minimal": "长鑫科创板过会",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41922",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 状态页面终于更新  目前已知全球多个地区间歇性爆炸，Cloudflare作为全球基础网络设施，影响多个网站。  CF目前正在按秒赔付企业用户  北京时间 2025年11月18日： 20:13 部分已恢复 20:23 再次爆炸 20:51 部分已恢复 20:55 再次爆炸 20:57 部分已恢复 20:59 再次爆炸 21:04 状态页面更新：在伦敦禁用了 WARP 访问 21:09 状态页面更新：我们已经确认了该问题，正在实施修复 21:13 状态页面更新：Cloudflare Access…",
-      "clean_text": "Cloudflare 状态页面终于更新  目前已知全球多个地区间歇性爆炸，Cloudflare作为全球基础网络设施，影响多个网站。  CF目前正在按秒赔付企业用户  北京时间 2025年11月18日： 20:13 部分已恢复 20:23 再次爆炸 20:51 部分已恢复 20:55 再次爆炸 20:57 部分已恢复 20:59 再次爆炸 21:04 状态页面更新：在伦敦禁用了 WARP 访问 21:09 状态页面更新：我们已经确认了该问题，正在实施修复 21:13 状态页面更新：Cloudflare Access…",
-      "datetime": "2026-06-12T14:31:09+00:00",
-      "views": "3.84K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41922",
-      "scraped_at": "2026-06-12T23:01:09.829984",
-      "title": "Cloudflare全球多次宕机",
-      "title_options": {
-        "conclusion": "Cloudflare全球多次宕机",
-        "attractive": "CF按秒赔付企业用户",
-        "minimal": "Cloudflare 全球宕机",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-06-14T02:30:31.443857"
+  "count": 29,
+  "updated_at": "2026-06-14T02:35:35.461610"
 }
