@@ -1,6 +1,105 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30078",
+      "channel": "xhqcankao",
+      "text": "携程未落实数据出境安全评估要求被罚千万6月13日，据上海市网信办，近期，在国家网信办指导下，上海市网信办针对属地部分企业网络数据安全主体责任履行不到位、安全管理防护措施缺失、后端处理数据合规能力不足、数据出境合规审计不严等问题办理了一批执法案件。其中，针对上海携程商务有限公司未落实数据出境安全评估要求、违法出境个人信息等行为，依据个人信息保护法，予以罚款1000万元的行政处罚，并责令企业限期改正。",
+      "clean_text": "携程未落实数据出境安全评估要求被罚千万6月13日，据上海市网信办，近期，在国家网信办指导下，上海市网信办针对属地部分企业网络数据安全主体责任履行不到位、安全管理防护措施缺失、后端处理数据合规能力不足、数据出境合规审计不严等问题办理了一批执法案件。其中，针对上海携程商务有限公司未落实数据出境安全评估要求、违法出境个人信息等行为，依据个人信息保护法，予以罚款1000万元的行政处罚，并责令企业限期改正。——凤凰网科技",
+      "datetime": "2026-06-13T07:49:32+00:00",
+      "views": "660",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006VOXiVmzUkwA0Es32n8ikPmpvuf0VDDvEN4---_yEesNJaZDrTlBPEagcW6QCZpBA3L"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30078",
+      "scraped_at": "2026-06-13T16:01:11.877229",
+      "title": "携程未落实数据出境安全评估被罚千万",
+      "title_options": {
+        "conclusion": "携程未落实数据出境安全评估被罚千万",
+        "attractive": "携程违法出境个人信息被罚千万",
+        "minimal": "携程被罚千万",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41934",
+      "channel": "zaihuapd",
+      "text": "Meta 将向美国失明退伍军人免费提供 AI 眼镜Meta 将为美国每名符合条件的失明退伍军人免费提供 Ray-Ban Meta AI 眼镜。美国有超过 13 万名合法失明的退伍军人可申请，个人可通过bva.org/glasses提交请求。眼镜配套培训资源，帮助使用语音识别物体、阅读文字和处理日常任务。BVA 将与 TechSoup 举办月度线上培训，Meta 和合作组织也会在线下提供指导。Meta Newsroom",
+      "clean_text": "Meta 将向美国失明退伍军人免费提供 AI 眼镜Meta 将为美国每名符合条件的失明退伍军人免费提供 Ray-Ban Meta AI 眼镜。美国有超过 13 万名合法失明的退伍军人可申请，个人可通过bva.org/glasses提交请求。眼镜配套培训资源，帮助使用语音识别物体、阅读文字和处理日常任务。BVA 将与 TechSoup 举办月度线上培训，Meta 和合作组织也会在线下提供指导。Meta Newsroom·备用频道",
+      "datetime": "2026-06-13T07:30:11+00:00",
+      "views": "2.92K",
+      "source_links": [
+        {
+          "text": "bva.org/glasses",
+          "url": "http://bva.org/glasses"
+        },
+        {
+          "text": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41934",
+      "scraped_at": "2026-06-13T16:01:08.135070",
+      "title": "Meta向失明退伍军人免费提供AI眼镜",
+      "title_options": {
+        "conclusion": "Meta向失明退伍军人免费提供AI眼镜",
+        "attractive": "13万失明退伍军人可免费申请AI眼镜",
+        "minimal": "Meta免费AI眼镜退伍军人",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41933",
+      "channel": "zaihuapd",
+      "text": "因美政府发函限制，Anthropic 已关闭两款 Mythos 模型对所有客户的访问  美国政府以国家安全权限向 Anthropic 发出出口管制指令，要求暂停任何外国公民在美国境内外访问 Fable 5 和 Mythos 5。Axios 报道称，商务部此举与对模型被越狱后可能带来安全风险的担忧有关。  Anthropic 表示，为确保合规，将关闭这两款模型对所有客户的访问，外国籍员工也在限制范围内；其他 Claude 模型不受影响，公司称正在争取尽快恢复访问。  Axios | Anthropic …",
+      "clean_text": "🤖因美政府发函限制，Anthropic 已关闭两款 Mythos 模型对所有客户的访问  美国政府以国家安全权限向 Anthropic 发出出口管制指令，要求暂停任何外国公民在美国境内外访问 Fable 5 和 Mythos 5。Axios 报道称，商务部此举与对模型被越狱后可能带来安全风险的担忧有关。  Anthropic 表示，为确保合规，将关闭这两款模型对所有客户的访问，外国籍员工也在限制范围内；其他 Claude 模型不受影响，公司称正在争取尽快恢复访问。  Axios | Anthropic …",
+      "datetime": "2026-06-13T06:41:54+00:00",
+      "views": "5.93K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41933",
+      "scraped_at": "2026-06-13T16:01:08.134487",
+      "title": "美政府限制Anthropic关闭模型",
+      "title_options": {
+        "conclusion": "美政府限制Anthropic关闭模型",
+        "attractive": "美政府限制AI模型访问",
+        "minimal": "Anthropic关闭Mythos",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30077",
+      "channel": "xhqcankao",
+      "text": "美国战争部公布第三批UAP解密文件，揭示FBI对球状飞行物调查美国战争部星期五(6月12日)公布了第三批有关不明异常现象(UAP)的解密文件。这次公布是美国政府名为PURSUE的持续披露行动的一部分，由特朗普总统下令实施。披露内容包括联邦调查局(FBI)对外勤报告中记录的美国东北部球状飞行物目击事件的调查。文件还显示美国敏感军事设施附近UAP活动广泛分布，并包括中央情报局追踪外国政府如何应对关键基础设施附近UAP遭遇事件的报告。第三批文件还包括美国陆军1949年一项题为《‘飞碟’现象评估研究》的研究报告。该报告为总参谋部计划与作战处准备，研究了约210起可追溯至1945年6月的事件，并发现其中只有约20%可以解释--多数被解释为气象气球、流星或研究设备。另有两起被认定为骗局。该研究没有发现这些目击事件与外国势力有关的证据。",
+      "clean_text": "美国战争部公布第三批UAP解密文件，揭示FBI对球状飞行物调查美国战争部星期五(6月12日)公布了第三批有关不明异常现象(UAP)的解密文件。这次公布是美国政府名为PURSUE的持续披露行动的一部分，由特朗普总统下令实施。披露内容包括联邦调查局(FBI)对外勤报告中记录的美国东北部球状飞行物目击事件的调查。文件还显示美国敏感军事设施附近UAP活动广泛分布，并包括中央情报局追踪外国政府如何应对关键基础设施附近UAP遭遇事件的报告。第三批文件还包括美国陆军1949年一项题为《‘飞碟’现象评估研究》的研究报告。该报告为总参谋部计划与作战处准备，研究了约210起可追溯至1945年6月的事件，并发现其中只有约20%可以解释--多数被解释为气象气球、流星或研究设备。另有两起被认定为骗局。该研究没有发现这些目击事件与外国势力有关的证据。——美国之音",
+      "datetime": "2026-06-13T06:29:36+00:00",
+      "views": "2.59K",
+      "source_links": [
+        {
+          "text": "美国之音",
+          "url": "https://www.voachinese.com/amp/pentagon-releases-third-batch-of-declassified-ufo-files-reveals-fbi-orb-investigations-20260612/8160227.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30077",
+      "scraped_at": "2026-06-13T16:01:11.876861",
+      "title": "美公布第三批UAP文件",
+      "title_options": {
+        "conclusion": "美公布第三批UAP文件",
+        "attractive": "FBI调查球状飞行物",
+        "minimal": "UAP解密文件公布",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41932",
       "channel": "zaihuapd",
       "text": "微软开源 iOS 流式 Markdown 渲染库 SwiftStreamingMarkdown微软在 GitHub 上开源了 SwiftStreamingMarkdown，这是一个面向 iOS 的高性能 Markdown 渲染库，专为流式文本场景设计，可在文字逐段到达时保持平滑动画与滚动，适合聊天或 LLM 回复界面。该库支持 CommonMark 与 GitHub 风格 Markdown 的核心子集，包括表格、代码块、LaTeX 公式、内联引用、任务列表等，并提供主题定制与分析追踪接口。开发者可通过 Swift Package 集成，预计为应用增加约 3 MB 下载体积，项目采用 MIT 许可证。GitHub",
@@ -1137,31 +1236,8 @@
         "minimal": "SK海力士引入AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30051",
-      "channel": "xhqcankao",
-      "text": "三星电子Q1企业级固态硬盘销售居全球第一国际高科技产业市场调研机构集邦咨询11日发布的数据显示，今年第一季度三星电子企业级固态硬盘销售额排名全球第一。数据显示，一季度三星电子 eSSD 销售额环比骤增92.8%，为70.5亿美元，排名第一。在人工智能服务器 eSSD 需求大增的助推下，三星的全球市占率从前一季度的33.8%升至当期的35.1%。SK海力士同期销售额环比增长42.5%，为46.4亿美元，位列第二，全球市占率从30.2%降至23.1%。由此两家公司的市占率差距从上一季度的3.6个百分点拉大至12个百分点。美光科技销售额增至30.9亿美元，名列第三。市占率从13%升至15.4%。",
-      "clean_text": "三星电子Q1企业级固态硬盘销售居全球第一国际高科技产业市场调研机构集邦咨询11日发布的数据显示，今年第一季度三星电子企业级固态硬盘销售额排名全球第一。数据显示，一季度三星电子 eSSD 销售额环比骤增92.8%，为70.5亿美元，排名第一。在人工智能服务器 eSSD 需求大增的助推下，三星的全球市占率从前一季度的33.8%升至当期的35.1%。SK海力士同期销售额环比增长42.5%，为46.4亿美元，位列第二，全球市占率从30.2%降至23.1%。由此两家公司的市占率差距从上一季度的3.6个百分点拉大至12个百分点。美光科技销售额增至30.9亿美元，名列第三。市占率从13%升至15.4%。——韩联社",
-      "datetime": "2026-06-12T04:02:28+00:00",
-      "views": "1.84K",
-      "source_links": [
-        {
-          "text": "韩联社",
-          "url": "https://m-cn.yna.co.kr/view/ACK20260611002700881"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30051",
-      "scraped_at": "2026-06-12T13:00:38.893632",
-      "title": "三星Q1 eSSD销售额全球第一",
-      "title_options": {
-        "conclusion": "三星Q1 eSSD销售额全球第一",
-        "attractive": "三星eSSD销售额环比增92.8%",
-        "minimal": "三星eSSD 全球第一",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-06-13T15:59:59.723635"
+  "count": 50,
+  "updated_at": "2026-06-13T16:05:09.652892"
 }
