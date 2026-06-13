@@ -805,31 +805,8 @@
         "minimal": "Cloudflare 全球宕机",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30070",
-      "channel": "xhqcankao",
-      "text": "Telegram 正式支持 Wear OS 智能手表Telegram最新版本正式支持 Wear OS 智能手表，让Galaxy Watch及其他 Wear OS 设备的用户可以直接在手腕上打开、阅读和回复消息。这个更新代表Telegram再次把消息体验延伸到穿戴装置，早前Apple Watch已经开放了相关功能，而这次在Wear OS平台上的推出也为Galaxy Watch增添新势力。对于习惯在外出时即时沟通的用户来说，在手表上完成文字消息、语音消息和收藏重要对话，无疑提升日常沟通效率。随着新版本发布，用户还可在手表上查看视频、静音对话及置顶聊天，这些功能虽然暂时未支持贴纸与位置查看，但官方称未来会逐步加入。",
-      "clean_text": "Telegram 正式支持 Wear OS 智能手表Telegram最新版本正式支持 Wear OS 智能手表，让Galaxy Watch及其他 Wear OS 设备的用户可以直接在手腕上打开、阅读和回复消息。这个更新代表Telegram再次把消息体验延伸到穿戴装置，早前Apple Watch已经开放了相关功能，而这次在Wear OS平台上的推出也为Galaxy Watch增添新势力。对于习惯在外出时即时沟通的用户来说，在手表上完成文字消息、语音消息和收藏重要对话，无疑提升日常沟通效率。随着新版本发布，用户还可在手表上查看视频、静音对话及置顶聊天，这些功能虽然暂时未支持贴纸与位置查看，但官方称未来会逐步加入。——techritual",
-      "datetime": "2026-06-12T13:27:01+00:00",
-      "views": "1.44K",
-      "source_links": [
-        {
-          "text": "techritual",
-          "url": "https://www.techritual.com/2026/06/12/546174/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30070",
-      "scraped_at": "2026-06-12T22:00:34.234193",
-      "title": "Telegram支持Wear OS手表",
-      "title_options": {
-        "conclusion": "Telegram支持Wear OS手表",
-        "attractive": "手表上回复消息来了",
-        "minimal": "Telegram Wear OS支持",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-06-14T01:24:41.657088"
+  "count": 30,
+  "updated_at": "2026-06-14T01:29:45.429250"
 }
