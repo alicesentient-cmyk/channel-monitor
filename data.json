@@ -1052,34 +1052,8 @@
         "minimal": "盘古抄袭通义千问",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30059",
-      "channel": "xhqcankao",
-      "text": "苹果公司高管重申AI定位：全新Siri专注实用工具，拒绝情感绑定面对外界对AI可能取代人类工作或引发情感依赖的担忧，苹果软件工程高级副总裁费德里吉将其比作工业革命，认为这种变革带来的不确定性是可以理解的，但苹果始终致力于利用AI简化日常任务，而非制造焦虑。针对当前部分AI产品通过迎合用户、诱导分享隐私以建立情感黏性的商业模式，费德里吉解释称，苹果的理念与此截然相反。 Siri 的核心使命是帮助用户高效处理事务、获取信息，而非建立浪漫或情感联系。如果用户试图将Siri作为恋爱对象进行角色扮演，Siri将保持功能性响应，对此类互动“毫无兴趣”。",
-      "clean_text": "苹果公司高管重申AI定位：全新Siri专注实用工具，拒绝情感绑定面对外界对AI可能取代人类工作或引发情感依赖的担忧，苹果软件工程高级副总裁费德里吉将其比作工业革命，认为这种变革带来的不确定性是可以理解的，但苹果始终致力于利用AI简化日常任务，而非制造焦虑。针对当前部分AI产品通过迎合用户、诱导分享隐私以建立情感黏性的商业模式，费德里吉解释称，苹果的理念与此截然相反。 Siri 的核心使命是帮助用户高效处理事务、获取信息，而非建立浪漫或情感联系。如果用户试图将Siri作为恋爱对象进行角色扮演，Siri将保持功能性响应，对此类互动“毫无兴趣”。——环球网、Appleinsider",
-      "datetime": "2026-06-12T07:46:05+00:00",
-      "views": "849",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://tech.huanqiu.com/article/4RwmLc5YflD"
-        },
-        {
-          "text": "Appleinsider",
-          "url": "https://appleinsider.com/articles/26/06/11/apple-executive-we-dont-do-ai-for-ais-sake"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30059",
-      "scraped_at": "2026-06-12T16:00:50.136480",
-      "title": "苹果重申Siri定位工具",
-      "title_options": {
-        "conclusion": "苹果重申Siri定位工具",
-        "attractive": "Siri拒绝情感绑定",
-        "minimal": "苹果Siri工具定位"
-      }
     }
   ],
-  "count": 43,
-  "updated_at": "2026-06-13T19:43:42.565341"
+  "count": 42,
+  "updated_at": "2026-06-13T19:48:46.862210"
 }
