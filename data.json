@@ -1101,39 +1101,8 @@
         "minimal": "日产AI加速新车开发",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41914",
-      "channel": "zaihuapd",
-      "text": "HarmonyOS 7 正式发布华为开发者大会 2026 上，终端 BG CEO 余承东宣布 HarmonyOS 7 正式发布，这是一款全场景智能操作系统，向 Agent 架构全面演进。系统带来三大升级：Agent 亲和系统架构、鸿蒙智能体框架 2.0 和系统智能体小艺。余承东回顾，鸿蒙于 2019 年发布，2023 年全面启动原生应用生态，2026 年鸿蒙智能体验正迈向 Agent 时代。新浪科技",
-      "clean_text": "HarmonyOS 7 正式发布华为开发者大会 2026 上，终端 BG CEO 余承东宣布 HarmonyOS 7 正式发布，这是一款全场景智能操作系统，向 Agent 架构全面演进。系统带来三大升级：Agent 亲和系统架构、鸿蒙智能体框架 2.0 和系统智能体小艺。余承东回顾，鸿蒙于 2019 年发布，2023 年全面启动原生应用生态，2026 年鸿蒙智能体验正迈向 Agent 时代。新浪科技·备用频道",
-      "datetime": "2026-06-12T07:23:41+00:00",
-      "views": "4.25K",
-      "source_links": [
-        {
-          "text": "新浪科技",
-          "url": "https://finance.sina.com.cn/tech/2026-06-12/doc-iniccspn5063962.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41914",
-      "scraped_at": "2026-06-12T16:00:48.431453",
-      "title": "鸿蒙7正式发布",
-      "title_options": {
-        "conclusion": "鸿蒙7正式发布",
-        "attractive": "鸿蒙7迈向Agent时代",
-        "minimal": "鸿蒙7发布",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-06-13T19:23:24.459246"
+  "count": 44,
+  "updated_at": "2026-06-13T19:28:28.580509"
 }
