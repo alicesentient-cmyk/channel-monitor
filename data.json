@@ -1218,26 +1218,8 @@
         "minimal": "小米MiMo Code开源",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41908",
-      "channel": "zaihuapd",
-      "text": "Pavel Durov 宣布 Telegram for Apple Watch 已经发布  Durov  via Linserin >terminal<",
-      "clean_text": "Pavel Durov 宣布 Telegram for Apple Watch 已经发布  Durov  via Linserin >terminal< · 备用频道 · 投稿通道",
-      "datetime": "2026-06-12T03:04:44+00:00",
-      "views": "5.03K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41908",
-      "scraped_at": "2026-06-12T12:00:55.709180",
-      "title": "Telegram手表版发布",
-      "title_options": {
-        "conclusion": "Telegram手表版发布",
-        "attractive": "Apple Watch能用Telegr…",
-        "minimal": "Telegram手表版",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-06-13T15:04:01.411723"
+  "count": 49,
+  "updated_at": "2026-06-13T15:09:10.336113"
 }
