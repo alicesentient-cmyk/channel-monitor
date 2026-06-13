@@ -1,6 +1,72 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41929",
+      "channel": "zaihuapd",
+      "text": "Apple 用 Swift 重写 TrueType 字体解释器，比 C 版本快 13%Apple 在 2025 年秋季发布的系统更新中，将 TrueType 字体 hinting 解释器从 C 重写为 Swift。新解释器消除了内存安全隐患，平均运行速度比 C 原版快 13%，且通过像素级对比测试确保渲染结果完全一致。开发团队大量使用 ~Copyable 值类型、Span 和投影类型等技术，减少了跨语言数据拷贝与动态分发开销。Apple 已将这部分生产级 Swift 代码开源至 GitHub，并计划把迁移经验用于更多 C/C++ 转 Swift 的系统级项目。Swift",
+      "clean_text": "🍏Apple 用 Swift 重写 TrueType 字体解释器，比 C 版本快 13%Apple 在 2025 年秋季发布的系统更新中，将 TrueType 字体 hinting 解释器从 C 重写为 Swift。新解释器消除了内存安全隐患，平均运行速度比 C 原版快 13%，且通过像素级对比测试确保渲染结果完全一致。开发团队大量使用 ~Copyable 值类型、Span 和投影类型等技术，减少了跨语言数据拷贝与动态分发开销。Apple 已将这部分生产级 Swift 代码开源至 GitHub，并计划把迁移经验用于更多 C/C++ 转 Swift 的系统级项目。Swift·备用频道",
+      "datetime": "2026-06-13T03:45:11+00:00",
+      "views": "1.83K",
+      "source_links": [
+        {
+          "text": "Swift",
+          "url": "https://swift.org/blog/migrating-truetype-hinting-to-swift/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41929",
+      "scraped_at": "2026-06-13T12:00:24.573809",
+      "title": "Swift重写字体解释器快13%",
+      "title_options": {
+        "conclusion": "Swift重写字体解释器快13%",
+        "attractive": "苹果字体提速13%开源",
+        "minimal": "Swift字体解释器提速",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41928",
+      "channel": "zaihuapd",
+      "text": "《凡人修仙传》动画新年番 6 月 13 日在 B站开播 目前超 50 万人在线观看《凡人修仙传》动画新年番“慕兰之战”定于 2026 年 6 月 13 日起播出，共 52 集，每周六 11:00 在 B站独播。相关信息应区分动画与真人剧：动画为第五季/新年番，不是“第二季”。新年番内容围绕韩立卷入天南修仙界与慕兰法士大战展开。材料还提到，真人剧《凡人修仙传 2》已官宣启动，剧情聚焦“乱星海篇”。网易|凤凰网",
+      "clean_text": "《凡人修仙传》动画新年番 6 月 13 日在 B站开播 目前超 50 万人在线观看《凡人修仙传》动画新年番“慕兰之战”定于 2026 年 6 月 13 日起播出，共 52 集，每周六 11:00 在 B站独播。相关信息应区分动画与真人剧：动画为第五季/新年番，不是“第二季”。新年番内容围绕韩立卷入天南修仙界与慕兰法士大战展开。材料还提到，真人剧《凡人修仙传 2》已官宣启动，剧情聚焦“乱星海篇”。网易|凤凰网·备用频道",
+      "datetime": "2026-06-13T03:07:18+00:00",
+      "views": "4.51K",
+      "source_links": [
+        {
+          "text": "网易",
+          "url": "https://www.163.com/dy/article/KSOT317A0517B320.html"
+        },
+        {
+          "text": "凤凰网",
+          "url": "https://tech.ifeng.com/c/8s3CYuoSN2f"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41928",
+      "scraped_at": "2026-06-13T12:00:24.573246",
+      "title": "凡人修仙传新年番6月13日B站开播",
+      "title_options": {
+        "conclusion": "凡人修仙传新年番6月13日B站开播",
+        "attractive": "超50万人同时在线观看",
+        "minimal": "凡人修仙传新年番B站独播",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41927",
       "channel": "zaihuapd",
       "text": "美国多州总检察长联合调查 OpenAI多个州的总检察长正联合调查 OpenAI，要求该公司就 AI 安全等广泛议题提供信息。OpenAI 发言人表示正在配合调查，并认真对待检方关切，但拒绝透露具体涉及哪些州和所要求的信息。此前，佛罗里达州已起诉 OpenAI 及 CEO Sam Altman，指控其明知 ChatGPT 存在危害仍对外发布。公司还面临多起因聊天机器人导致用户受伤害的诉讼。OpenAI 表示，已为未成年人和处于困境的用户增加了保护功能。目前 OpenAI 估值达 8520 亿美元，并已秘密提交上市申请。Bloomberg",
@@ -1357,6 +1423,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-13T11:56:08.611241"
+  "count": 57,
+  "updated_at": "2026-06-13T12:01:14.471125"
 }
