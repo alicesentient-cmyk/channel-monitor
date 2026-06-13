@@ -921,39 +921,8 @@
         "minimal": "Kimi K2.7 Code开源",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41918",
-      "channel": "zaihuapd",
-      "text": "Kimi 发布并开源编码模型 K2.7-Code，多项基准测试提升月之暗面 Kimi 发布并开源 Kimi K2.7 Code 编程模型。内外部评估显示，它相比 K2.6 提升了长上下文编程场景的指令遵循能力和长程任务表现，并改善了过度思考倾向，平均 token 消耗减少 30%。代码基准中，Kimi Code Bench v2、Program-Bench、MLS Bench Lite 分别提升 21.8%、11%、31.5%；Agent 自主执行相关基准约提升 10%。即日起可通过 Kimi API 和 Kimi Code 使用，六倍高速模式即将上线，也支持本地部署。月之暗面 Kimi",
-      "clean_text": "Kimi 发布并开源编码模型 K2.7-Code，多项基准测试提升月之暗面 Kimi 发布并开源 Kimi K2.7 Code 编程模型。内外部评估显示，它相比 K2.6 提升了长上下文编程场景的指令遵循能力和长程任务表现，并改善了过度思考倾向，平均 token 消耗减少 30%。代码基准中，Kimi Code Bench v2、Program-Bench、MLS Bench Lite 分别提升 21.8%、11%、31.5%；Agent 自主执行相关基准约提升 10%。即日起可通过 Kimi API 和 Kimi Code 使用，六倍高速模式即将上线，也支持本地部署。月之暗面 Kimi·备用频道",
-      "datetime": "2026-06-12T10:55:42+00:00",
-      "views": "899",
-      "source_links": [
-        {
-          "text": "月之暗面 Kimi",
-          "url": "https://mp.weixin.qq.com/s/NBw1VAA9MjpKv-Rirq9qDg"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41918",
-      "scraped_at": "2026-06-12T19:01:00.213520",
-      "title": "Kimi开源编码模型K2.7",
-      "title_options": {
-        "conclusion": "Kimi开源编码模型K2.7",
-        "attractive": "编码模型K2.7 token减30%",
-        "minimal": "K2.7-Code开源",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-06-13T22:52:02.782112"
+  "count": 36,
+  "updated_at": "2026-06-13T22:57:07.492700"
 }
