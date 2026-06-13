@@ -1160,43 +1160,8 @@
         "minimal": "三星eSSD 全球第一",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41909",
-      "channel": "zaihuapd",
-      "text": "OpenAI Codex 额度重置现在可“存起来”稍后使用OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。OpenAI(1,2)",
-      "clean_text": "OpenAI Codex 额度重置现在可“存起来”稍后使用OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。OpenAI(1,2)·备用频道",
-      "datetime": "2026-06-12T03:50:52+00:00",
-      "views": "1.66K",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://x.com/OpenAI/status/2065225362544726371"
-        },
-        {
-          "text": "2",
-          "url": "https://x.com/OpenAI/status/2065225374737543376"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41909",
-      "scraped_at": "2026-06-12T12:00:55.709707",
-      "title": "Codex额度重置可存用",
-      "title_options": {
-        "conclusion": "Codex额度重置可存用",
-        "attractive": "邀请好友获额外重置",
-        "minimal": "Codex额度重置",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-06-13T15:49:49.521120"
+  "count": 47,
+  "updated_at": "2026-06-13T15:54:54.795981"
 }
