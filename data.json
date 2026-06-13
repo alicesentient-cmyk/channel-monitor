@@ -1344,39 +1344,8 @@
         "attractive": "30美元享优先派车",
         "minimal": "Waymo会员30美元/月"
       }
-    },
-    {
-      "id": "zaihuapd_41905",
-      "channel": "zaihuapd",
-      "text": "SpaceX 轨道数据中心计划面临中国供应链难题SpaceX 计划从 2030 年起，每年把 100 吉瓦太阳能 AI 数据中心送入轨道，并需要数千次发射、约 100 万吨运力。这会让地面供应链承压。材料指出，太空太阳能电池可能涉及砷化镓或多晶硅，而中国在镓和太阳能多晶硅产能上占主导。SpaceX 又有美国军方合同，若关键硬件依赖中国，推进轨道基础设施会更困难。Bloomberg",
-      "clean_text": "SpaceX 轨道数据中心计划面临中国供应链难题SpaceX 计划从 2030 年起，每年把 100 吉瓦太阳能 AI 数据中心送入轨道，并需要数千次发射、约 100 万吨运力。这会让地面供应链承压。材料指出，太空太阳能电池可能涉及砷化镓或多晶硅，而中国在镓和太阳能多晶硅产能上占主导。SpaceX 又有美国军方合同，若关键硬件依赖中国，推进轨道基础设施会更困难。Bloomberg·备用频道",
-      "datetime": "2026-06-12T01:14:44+00:00",
-      "views": "3.92K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/opinion/articles/2026-06-11/spacex-s-critical-minerals-plan-runs-through-china"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41905",
-      "scraped_at": "2026-06-12T10:01:08.586534",
-      "title": "SpaceX轨道数据中心遇中国供应链难题",
-      "title_options": {
-        "conclusion": "SpaceX轨道数据中心遇中国供应链难题",
-        "attractive": "SpaceX太空计划依赖中国材料",
-        "minimal": "SpaceX轨道数据中心供应链",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-13T13:12:17.337585"
+  "count": 54,
+  "updated_at": "2026-06-13T13:17:21.466091"
 }
