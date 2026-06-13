@@ -1,6 +1,55 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41932",
+      "channel": "zaihuapd",
+      "text": "微软开源 iOS 流式 Markdown 渲染库 SwiftStreamingMarkdown微软在 GitHub 上开源了 SwiftStreamingMarkdown，这是一个面向 iOS 的高性能 Markdown 渲染库，专为流式文本场景设计，可在文字逐段到达时保持平滑动画与滚动，适合聊天或 LLM 回复界面。该库支持 CommonMark 与 GitHub 风格 Markdown 的核心子集，包括表格、代码块、LaTeX 公式、内联引用、任务列表等，并提供主题定制与分析追踪接口。开发者可通过 Swift Package 集成，预计为应用增加约 3 MB 下载体积，项目采用 MIT 许可证。GitHub",
+      "clean_text": "微软开源 iOS 流式 Markdown 渲染库 SwiftStreamingMarkdown微软在 GitHub 上开源了 SwiftStreamingMarkdown，这是一个面向 iOS 的高性能 Markdown 渲染库，专为流式文本场景设计，可在文字逐段到达时保持平滑动画与滚动，适合聊天或 LLM 回复界面。该库支持 CommonMark 与 GitHub 风格 Markdown 的核心子集，包括表格、代码块、LaTeX 公式、内联引用、任务列表等，并提供主题定制与分析追踪接口。开发者可通过 Swift Package 集成，预计为应用增加约 3 MB 下载体积，项目采用 MIT 许可证。GitHub·备用频道",
+      "datetime": "2026-06-13T06:00:11+00:00",
+      "views": "42",
+      "source_links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/microsoft/SwiftStreamingMarkdown"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41932",
+      "scraped_at": "2026-06-13T14:00:33.586882",
+      "title": "微软开源iOS Markdown库",
+      "title_options": {
+        "conclusion": "微软开源iOS Markdown库",
+        "attractive": "iOS流式渲染库仅3MB",
+        "minimal": "微软开源SwiftMarkdown",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41931",
+      "channel": "zaihuapd",
+      "text": "华硕 RTX 5090 BTF 接口极限测试：超 1900W 仍低温  华硕中国区总经理 Tony Yu 近日展示了 ROG Astral GeForce RTX 5090 BTF 2.5 显卡独有的 GC-HPWR 电源接口的强大性能。在极限测试中，当 Chroma 负载测试仪设定为 150A（是 16 针接口规格的三倍），功耗超过 1,900W 时，电源线温度达到 68 至 70 摄氏度，而 GC-HPWR 接口温度仅为 41 摄氏度。  该 GC-HPWR 接口设计承载功率高达 1,000W。此前在…",
+      "clean_text": "华硕 RTX 5090 BTF 接口极限测试：超 1900W 仍低温  华硕中国区总经理 Tony Yu 近日展示了 ROG Astral GeForce RTX 5090 BTF 2.5 显卡独有的 GC-HPWR 电源接口的强大性能。在极限测试中，当 Chroma 负载测试仪设定为 150A（是 16 针接口规格的三倍），功耗超过 1,900W 时，电源线温度达到 68 至 70 摄氏度，而 GC-HPWR 接口温度仅为 41 摄氏度。  该 GC-HPWR 接口设计承载功率高达 1,000W。此前在…",
+      "datetime": "2026-06-13T05:15:11+00:00",
+      "views": "3.63K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41931",
+      "scraped_at": "2026-06-13T14:00:33.586425",
+      "title": "华硕RTX 5090接口耐1900W",
+      "title_options": {
+        "conclusion": "华硕RTX 5090接口耐1900W",
+        "attractive": "1900W功耗接口仅41度",
+        "minimal": "RTX 5090 BTF接口",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41930",
       "channel": "zaihuapd",
       "text": "《云顶之弈》将于 8 月 12 日迁移至虚幻引擎，后续推出独立客户端云顶之弈将随第 18 赛季更新，从 Hextech 引擎切换至虚幻引擎。游戏核心体验不变，但首次更新包更大，个人设置会被重置；账户、外观和货币均保留。移动端会自动替换为新版本。这次迁移是为长期创新做准备，短期内游戏 bug 可能增多，因此第 18 赛季的测试服将从 7 月 14 日开启，持续四周。10 月 9 日还将推出云顶之弈专用 PC 客户端。未来新推出的小小英雄将不再支持在海克斯大乱斗中作为同伴使用。PC 和移动端的最低配置要求也有调整。Teamfight Tactics",
@@ -1268,62 +1317,8 @@
         "minimal": "Trump手机HTC同款",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30047",
-      "channel": "xhqcankao",
-      "text": "官员威胁删帖 美国新法案将允许用户起诉根据一项新的两党法案，如果政府官员非法试图强迫社交媒体、人工智能或广播公司删除美国人的帖子",
-      "clean_text": "官员威胁删帖 美国新法案将允许用户起诉根据一项新的两党法案，如果政府官员非法试图强迫社交媒体、人工智能或广播公司删除美国人的帖子 —— 无论该平台是否真的执行，他们都可以起诉要求赔偿。参议院商务委员会主席特德·克鲁兹和参议员罗恩·怀登周四提出了《JAWBONE法案》，该法案除了允许个人就此类损害提起诉讼外，还将为政府与社交媒体、人工智能和广播公司的沟通制定新的透明度要求。这可能会赋予像主持人吉米·坎摩尔这样的人有权起诉FCC主席布伦丹·卡尔，在查理·柯克被杀后，这位喜剧演员开了一个卡尔不喜欢的玩笑，随后FCC主席卡尔威胁要吊销电视台的广播执照。——Theverge",
-      "datetime": "2026-06-12T02:00:39+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30047",
-      "scraped_at": "2026-06-12T10:01:11.759066",
-      "title": "美新法案允许起诉官员删帖",
-      "title_options": {
-        "conclusion": "美新法案允许起诉官员删帖",
-        "attractive": "官员威胁删帖？可起诉",
-        "minimal": "法案允许起诉删帖",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41906",
-      "channel": "zaihuapd",
-      "text": "Snell v6 开始在 Surge Beta 中测试最新 Surge Beta 已开始测试 Snell v6。新版不再支持 QUIC Proxy Mode，改用由 PSK 自动生成的部署级协议配置，让不同服务器呈现不同流量特征，避免所有部署共享同一固定模式。服务器端新增 dns-ip-preference，可控制 DNS 解析后的 IPv4/IPv6 偏好；listen 也支持多个监听地址。Surge Mac Beta 已支持，Surge iOS TestFlight 将在未来几天发布。Surge Blog",
-      "clean_text": "Snell v6 开始在 Surge Beta 中测试最新 Surge Beta 已开始测试 Snell v6。新版不再支持 QUIC Proxy Mode，改用由 PSK 自动生成的部署级协议配置，让不同服务器呈现不同流量特征，避免所有部署共享同一固定模式。服务器端新增 dns-ip-preference，可控制 DNS 解析后的 IPv4/IPv6 偏好；listen 也支持多个监听地址。Surge Mac Beta 已支持，Surge iOS TestFlight 将在未来几天发布。Surge Blog·备用频道",
-      "datetime": "2026-06-12T01:59:44+00:00",
-      "views": "366",
-      "source_links": [
-        {
-          "text": "Surge Blog",
-          "url": "https://nssurge.com/blog/snell-v6/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41906",
-      "scraped_at": "2026-06-12T10:01:08.586982",
-      "title": "Snell v6在Surge Beta…",
-      "title_options": {
-        "conclusion": "Snell v6在Surge Beta…",
-        "attractive": "Snell v6弃QUIC改PSK",
-        "minimal": "Snell v6 Surge Beta",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 53,
-  "updated_at": "2026-06-13T13:57:57.428023"
+  "updated_at": "2026-06-13T14:03:03.981070"
 }

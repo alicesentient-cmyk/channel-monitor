@@ -4850,5 +4850,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-13T13:02:08.412132"
+  },
+  "zaihuapd_41932": {
+    "ai_title": "微软开源iOS Markdown库",
+    "title_options": {
+      "conclusion": "微软开源iOS Markdown库",
+      "attractive": "iOS流式渲染库仅3MB",
+      "minimal": "微软开源SwiftMarkdown",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T14:03:03.753615"
+  },
+  "zaihuapd_41931": {
+    "ai_title": "华硕RTX 5090接口耐1900W",
+    "title_options": {
+      "conclusion": "华硕RTX 5090接口耐1900W",
+      "attractive": "1900W功耗接口仅41度",
+      "minimal": "RTX 5090 BTF接口",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T14:03:03.964475"
   }
 }
