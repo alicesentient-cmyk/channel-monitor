@@ -952,26 +952,8 @@
         "minimal": "K2.7-Code开源",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41917",
-      "channel": "zaihuapd",
-      "text": "英伟达发布 Vera Rubin 平台，黄仁勋预计 Blackwell 与 Rubin 截至 2027 年销售额 1 万亿美元  英伟达在 GTC 发布 Vera Rubin 平台，称 7 款芯片已量产，涵盖 Vera CPU、Rubin GPU，并整合 Groq 3 LPU，面向智能体 AI 基础设施。公司同时推出 Vera CPU，称其较传统机架级 CPU 效率提升 2 倍、速度提升 50%，相关产品今年下半年起由合作伙伴提供。黄仁勋预计，Blackwell 与 Rubin 系列截至 2027 年销售额至少…",
-      "clean_text": "英伟达发布 Vera Rubin 平台，黄仁勋预计 Blackwell 与 Rubin 截至 2027 年销售额 1 万亿美元  英伟达在 GTC 发布 Vera Rubin 平台，称 7 款芯片已量产，涵盖 Vera CPU、Rubin GPU，并整合 Groq 3 LPU，面向智能体 AI 基础设施。公司同时推出 Vera CPU，称其较传统机架级 CPU 效率提升 2 倍、速度提升 50%，相关产品今年下半年起由合作伙伴提供。黄仁勋预计，Blackwell 与 Rubin 系列截至 2027 年销售额至少…",
-      "datetime": "2026-06-12T10:17:33+00:00",
-      "views": "3.82K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41917",
-      "scraped_at": "2026-06-12T19:01:00.213044",
-      "title": "英伟达发布Vera Rubin平台",
-      "title_options": {
-        "conclusion": "英伟达发布Vera Rubin平台",
-        "attractive": "英伟达预计销售额1万亿美元",
-        "minimal": "英伟达Vera Rubin平台",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 38,
-  "updated_at": "2026-06-13T22:16:22.466484"
+  "count": 37,
+  "updated_at": "2026-06-13T22:21:29.182153"
 }
