@@ -898,39 +898,8 @@
         "minimal": "AI短信诈骗谷歌起诉",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41919",
-      "channel": "zaihuapd",
-      "text": "苹果高管：Siri 不会成为你的 AI 虚拟恋人苹果软件工程主管 Craig Federighi 在 WWDC 期间受访时明确表示，新版 Siri 绝不会扮演浪漫伴侣。他称 Siri 的定位是帮用户做事和学习，若想把它当男女友，“Siri 百分百不干这个”，并批评其他聊天机器人靠奉承和套取隐私来拉拢用户。营销主管 Greg Joswiak 补充说，苹果不追求“为 AI 而 AI”，而是让 AI 融入现有功能，使用户不必成为提示词专家。Federighi 同时强调，iPhone 上的个人数据始终归用户掌控，留在手机本地，苹果公司无法获取这些信息，这与多数同行截然不同。MacRumors",
-      "clean_text": "苹果高管：Siri 不会成为你的 AI 虚拟恋人苹果软件工程主管 Craig Federighi 在 WWDC 期间受访时明确表示，新版 Siri 绝不会扮演浪漫伴侣。他称 Siri 的定位是帮用户做事和学习，若想把它当男女友，“Siri 百分百不干这个”，并批评其他聊天机器人靠奉承和套取隐私来拉拢用户。营销主管 Greg Joswiak 补充说，苹果不追求“为 AI 而 AI”，而是让 AI 融入现有功能，使用户不必成为提示词专家。Federighi 同时强调，iPhone 上的个人数据始终归用户掌控，留在手机本地，苹果公司无法获取这些信息，这与多数同行截然不同。MacRumors·备用频道",
-      "datetime": "2026-06-12T11:42:33+00:00",
-      "views": "2.24K",
-      "source_links": [
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/11/apple-siri-ai-interview/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41919",
-      "scraped_at": "2026-06-12T20:00:38.004357",
-      "title": "苹果高管称Siri不谈恋爱",
-      "title_options": {
-        "conclusion": "苹果高管称Siri不谈恋爱",
-        "attractive": "Siri拒绝当虚拟恋人",
-        "minimal": "Siri不谈恋爱",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-06-13T23:37:54.431385"
+  "count": 35,
+  "updated_at": "2026-06-13T23:42:58.303704"
 }
