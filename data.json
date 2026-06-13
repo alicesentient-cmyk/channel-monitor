@@ -1263,31 +1263,8 @@
         "minimal": "阿里竞购朴朴超市",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30048",
-      "channel": "xhqcankao",
-      "text": "Instagram赋予用户调整推荐算法的控制权社交媒体平台 Instagram 将让用户调整其算法在主页信息流中显示的内容。通过“你的算法”功能， “你现在可以看到我们认为你感兴趣的主题，并在 Instagram 的所有主要部分中更改它们，”据该社交媒体平台负责人亚当·莫塞里称。目前，该功能只会呈现主题，但Instagram正在努力“支持对人物、不同心情或氛围、内容类型等的请求。”公司一直在逐步赋予用户对 Instagram 某些算法更大的控制权，此前已经针对用户的Reels信息流和探索页面推出了“你的算法”功能。“我相信，作为一家企业，赋予人们能力将 Instagram 塑造成适合他们的社交平台，符合我们的最大利益，并且人们应该对他们花费大量时间的产品拥有真正的控制权，”莫塞里表示。",
-      "clean_text": "Instagram赋予用户调整推荐算法的控制权社交媒体平台 Instagram 将让用户调整其算法在主页信息流中显示的内容。通过“你的算法”功能， “你现在可以看到我们认为你感兴趣的主题，并在 Instagram 的所有主要部分中更改它们，”据该社交媒体平台负责人亚当·莫塞里称。目前，该功能只会呈现主题，但Instagram正在努力“支持对人物、不同心情或氛围、内容类型等的请求。”公司一直在逐步赋予用户对 Instagram 某些算法更大的控制权，此前已经针对用户的Reels信息流和探索页面推出了“你的算法”功能。“我相信，作为一家企业，赋予人们能力将 Instagram 塑造成适合他们的社交平台，符合我们的最大利益，并且人们应该对他们花费大量时间的产品拥有真正的控制权，”莫塞里表示。——Theverge",
-      "datetime": "2026-06-12T02:33:31+00:00",
-      "views": "1.09K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30048",
-      "scraped_at": "2026-06-12T11:01:08.303493",
-      "title": "Instagram允许用户调整算法",
-      "title_options": {
-        "conclusion": "Instagram允许用户调整算法",
-        "attractive": "你的算法你做主",
-        "minimal": "算法控制权",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-06-13T14:33:31.019833"
+  "count": 51,
+  "updated_at": "2026-06-13T14:38:35.781605"
 }
