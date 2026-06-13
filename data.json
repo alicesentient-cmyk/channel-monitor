@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41930",
+      "channel": "zaihuapd",
+      "text": "《云顶之弈》将于 8 月 12 日迁移至虚幻引擎，后续推出独立客户端云顶之弈将随第 18 赛季更新，从 Hextech 引擎切换至虚幻引擎。游戏核心体验不变，但首次更新包更大，个人设置会被重置；账户、外观和货币均保留。移动端会自动替换为新版本。这次迁移是为长期创新做准备，短期内游戏 bug 可能增多，因此第 18 赛季的测试服将从 7 月 14 日开启，持续四周。10 月 9 日还将推出云顶之弈专用 PC 客户端。未来新推出的小小英雄将不再支持在海克斯大乱斗中作为同伴使用。PC 和移动端的最低配置要求也有调整。Teamfight Tactics",
+      "clean_text": "《云顶之弈》将于 8 月 12 日迁移至虚幻引擎，后续推出独立客户端云顶之弈将随第 18 赛季更新，从 Hextech 引擎切换至虚幻引擎。游戏核心体验不变，但首次更新包更大，个人设置会被重置；账户、外观和货币均保留。移动端会自动替换为新版本。这次迁移是为长期创新做准备，短期内游戏 bug 可能增多，因此第 18 赛季的测试服将从 7 月 14 日开启，持续四周。10 月 9 日还将推出云顶之弈专用 PC 客户端。未来新推出的小小英雄将不再支持在海克斯大乱斗中作为同伴使用。PC 和移动端的最低配置要求也有调整。Teamfight Tactics·备用频道",
+      "datetime": "2026-06-13T04:30:11+00:00",
+      "views": "2.83K",
+      "source_links": [
+        {
+          "text": "Teamfight Tactics",
+          "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/faq-tft-unreal-migration/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41930",
+      "scraped_at": "2026-06-13T13:01:01.325857",
+      "title": "云顶之弈8月12日换虚幻引擎",
+      "title_options": {
+        "conclusion": "云顶之弈8月12日换虚幻引擎",
+        "attractive": "云顶之弈引擎升级，bug增多",
+        "minimal": "云顶之弈引擎迁移",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30076",
+      "channel": "xhqcankao",
+      "text": "SpaceX公司对外出租AI算力的内幕曝光SpaceX公司在利用其孟菲斯 Colossus 1 数据中心开发和运行Grok AI模型时遇到技术挑战，随后决定将该数据中心的全部容量租给Anthropic。知情人士透露，SpaceX原本计划利用三个数据中心园区组成的计算集群提供的海量算力，训练其最先进的AI模型。然而，在将Colossus 1与另外两个距离超过10英里的数据中心连接时，公司遇到了网络延迟问题，而老化的网络基础设施又让这一情况雪上加霜。SpaceX 认为与其继续投入资源解决这些基础设施瓶颈，将 Colossus 1 的数据中心容量出租给外部客户更具经济价值，这样还能创造新收入来源。 Anthropic 和谷歌已分别与SpaceX达成了可能为期数年、价值数百亿美元的算力合作协议。",
+      "clean_text": "SpaceX公司对外出租AI算力的内幕曝光SpaceX公司在利用其孟菲斯 Colossus 1 数据中心开发和运行Grok AI模型时遇到技术挑战，随后决定将该数据中心的全部容量租给Anthropic。知情人士透露，SpaceX原本计划利用三个数据中心园区组成的计算集群提供的海量算力，训练其最先进的AI模型。然而，在将Colossus 1与另外两个距离超过10英里的数据中心连接时，公司遇到了网络延迟问题，而老化的网络基础设施又让这一情况雪上加霜。SpaceX 认为与其继续投入资源解决这些基础设施瓶颈，将 Colossus 1 的数据中心容量出租给外部客户更具经济价值，这样还能创造新收入来源。 Anthropic 和谷歌已分别与SpaceX达成了可能为期数年、价值数百亿美元的算力合作协议。——凤凰网科技",
+      "datetime": "2026-06-13T04:19:22+00:00",
+      "views": "1.62K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006GWIf1hgEtwHvIj52OaJsrqsdSg6nBtPxeMxSwhR0z-_vCcNty83i7eFB4QPd49UH0"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30076",
+      "scraped_at": "2026-06-13T13:01:03.028747",
+      "title": "SpaceX出租AI算力",
+      "title_options": {
+        "conclusion": "SpaceX出租AI算力",
+        "attractive": "延迟问题致出租算力",
+        "minimal": "SpaceX出租数据中心",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41929",
       "channel": "zaihuapd",
       "text": "Apple 用 Swift 重写 TrueType 字体解释器，比 C 版本快 13%Apple 在 2025 年秋季发布的系统更新中，将 TrueType 字体 hinting 解释器从 C 重写为 Swift。新解释器消除了内存安全隐患，平均运行速度比 C 原版快 13%，且通过像素级对比测试确保渲染结果完全一致。开发团队大量使用 ~Copyable 值类型、Span 和投影类型等技术，减少了跨语言数据拷贝与动态分发开销。Apple 已将这部分生产级 Swift 代码开源至 GitHub，并计划把迁移经验用于更多 C/C++ 转 Swift 的系统级项目。Swift",
@@ -1321,31 +1375,8 @@
         "minimal": "SpaceX轨道数据中心供应链",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30045",
-      "channel": "xhqcankao",
-      "text": "谷歌Play服务正在快速耗尽三星手表电量如果你注意到你的 Galaxy Watch 电池电量比正常情况下降得更快，你并不是孤例。几位用户报告说他们在设备遇到了电池电量消耗过度的问题。据这些用户称，罪魁祸首似乎是谷歌Play服务。一位分享了电池使用情况截图的用户显示，自上次充电以来，Play服务已经消耗了设备69.7%的电量。另一位用户设备的电池有30.9%被该应用消耗。谷歌Play服务是一款将您的应用与其他谷歌系统连接起来的后台应用。在正常情况下，谷歌Play服务应用每天应该只消耗你设备电池的一小部分。因此，像30%、69%甚至更高的数字绝对值得担忧。目前，该问题似乎影响了多款三星 Galaxy Watch 型号。",
-      "clean_text": "谷歌Play服务正在快速耗尽三星手表电量如果你注意到你的 Galaxy Watch 电池电量比正常情况下降得更快，你并不是孤例。几位用户报告说他们在设备遇到了电池电量消耗过度的问题。据这些用户称，罪魁祸首似乎是谷歌Play服务。一位分享了电池使用情况截图的用户显示，自上次充电以来，Play服务已经消耗了设备69.7%的电量。另一位用户设备的电池有30.9%被该应用消耗。谷歌Play服务是一款将您的应用与其他谷歌系统连接起来的后台应用。在正常情况下，谷歌Play服务应用每天应该只消耗你设备电池的一小部分。因此，像30%、69%甚至更高的数字绝对值得担忧。目前，该问题似乎影响了多款三星 Galaxy Watch 型号。——Androidauthority",
-      "datetime": "2026-06-12T01:01:08+00:00",
-      "views": "1.84K",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/galaxy-watch-play-services-battery-drain-3676373/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30045",
-      "scraped_at": "2026-06-12T10:01:11.758358",
-      "title": "谷歌服务耗尽三星手表电量",
-      "title_options": {
-        "conclusion": "谷歌服务耗尽三星手表电量",
-        "attractive": "69%电量被谷歌服务吃掉",
-        "minimal": "谷歌服务 三星 耗电",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-13T12:57:02.264582"
+  "count": 55,
+  "updated_at": "2026-06-13T13:02:08.421525"
 }

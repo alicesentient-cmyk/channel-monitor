@@ -4830,5 +4830,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-13T12:01:14.463681"
+  },
+  "xhqcankao_30076": {
+    "ai_title": "SpaceX出租AI算力",
+    "title_options": {
+      "conclusion": "SpaceX出租AI算力",
+      "attractive": "延迟问题致出租算力",
+      "minimal": "SpaceX出租数据中心",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T13:02:08.094600"
+  },
+  "zaihuapd_41930": {
+    "ai_title": "云顶之弈8月12日换虚幻引擎",
+    "title_options": {
+      "conclusion": "云顶之弈8月12日换虚幻引擎",
+      "attractive": "云顶之弈引擎升级，bug增多",
+      "minimal": "云顶之弈引擎迁移",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-13T13:02:08.412132"
   }
 }
