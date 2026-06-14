@@ -729,39 +729,8 @@
         "minimal": "凡人修仙传新年番B站独播",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41927",
-      "channel": "zaihuapd",
-      "text": "美国多州总检察长联合调查 OpenAI多个州的总检察长正联合调查 OpenAI，要求该公司就 AI 安全等广泛议题提供信息。OpenAI 发言人表示正在配合调查，并认真对待检方关切，但拒绝透露具体涉及哪些州和所要求的信息。此前，佛罗里达州已起诉 OpenAI 及 CEO Sam Altman，指控其明知 ChatGPT 存在危害仍对外发布。公司还面临多起因聊天机器人导致用户受伤害的诉讼。OpenAI 表示，已为未成年人和处于困境的用户增加了保护功能。目前 OpenAI 估值达 8520 亿美元，并已秘密提交上市申请。Bloomberg",
-      "clean_text": "🤖美国多州总检察长联合调查 OpenAI多个州的总检察长正联合调查 OpenAI，要求该公司就 AI 安全等广泛议题提供信息。OpenAI 发言人表示正在配合调查，并认真对待检方关切，但拒绝透露具体涉及哪些州和所要求的信息。此前，佛罗里达州已起诉 OpenAI 及 CEO Sam Altman，指控其明知 ChatGPT 存在危害仍对外发布。公司还面临多起因聊天机器人导致用户受伤害的诉讼。OpenAI 表示，已为未成年人和处于困境的用户增加了保护功能。目前 OpenAI 估值达 8520 亿美元，并已秘密提交上市申请。Bloomberg·备用频道",
-      "datetime": "2026-06-13T02:40:00+00:00",
-      "views": "2.13K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41927",
-      "scraped_at": "2026-06-13T11:00:44.167402",
-      "title": "美多州调查OpenAI",
-      "title_options": {
-        "conclusion": "美多州调查OpenAI",
-        "attractive": "OpenAI遭多州调查",
-        "minimal": "OpenAI调查",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-06-14T14:38:24.887455"
+  "count": 26,
+  "updated_at": "2026-06-14T14:43:28.321701"
 }
