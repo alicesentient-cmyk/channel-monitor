@@ -5078,5 +5078,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-14T16:04:33.973111"
+  },
+  "zaihuapd_41948": {
+    "ai_title": "华为发布开源盘古2.0",
+    "title_options": {
+      "conclusion": "华为发布开源盘古2.0",
+      "attractive": "余承东：盘古将走向世界第一",
+      "minimal": "华为开源盘古2.0",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-14T17:05:22.113506"
+  },
+  "xhqcankao_30084": {
+    "ai_title": "阿里辟谣周靖人离职",
+    "title_options": {
+      "conclusion": "阿里辟谣周靖人离职",
+      "attractive": "周靖人离职？阿里辟谣",
+      "minimal": "阿里辟谣周靖人离职",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-14T17:05:22.134430"
   }
 }
