@@ -554,37 +554,6 @@
       }
     },
     {
-      "id": "zaihuapd_41938",
-      "channel": "zaihuapd",
-      "text": "微软考虑分拆 Xbox 以应对游戏机业务困境据有关人士透露，为了应对 Xbox 游戏机业务销量不佳和盈利下滑。微软高管不排除将 Xbox 重组为独立子公司或合资企业。该选项目前尚没有具体方案，但已被列入公司考量范围。新上任的 Xbox 负责人 Asha Sharma 已取消多平台发行策略和下调 Game Pass 订阅价格，并预示会通过大规模裁员来控制成本。微软还批准加快《光环》《辐射》《上古卷轴》等重点 IP 作品的开发，但距离这些新作完成仍有数年时间。TechSpot",
-      "clean_text": "微软考虑分拆 Xbox 以应对游戏机业务困境据有关人士透露，为了应对 Xbox 游戏机业务销量不佳和盈利下滑。微软高管不排除将 Xbox 重组为独立子公司或合资企业。该选项目前尚没有具体方案，但已被列入公司考量范围。新上任的 Xbox 负责人 Asha Sharma 已取消多平台发行策略和下调 Game Pass 订阅价格，并预示会通过大规模裁员来控制成本。微软还批准加快《光环》《辐射》《上古卷轴》等重点 IP 作品的开发，但距离这些新作完成仍有数年时间。TechSpot·备用频道",
-      "datetime": "2026-06-13T14:55:17+00:00",
-      "views": "810",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/112753-microsoft-may-consider-xbox-spin-off-or-joint.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41938",
-      "scraped_at": "2026-06-13T23:00:25.914807",
-      "title": "微软考虑分拆Xbox",
-      "title_options": {
-        "conclusion": "微软考虑分拆Xbox",
-        "attractive": "Xbox或独立求生",
-        "minimal": "微软Xbox分拆",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -620,6 +589,6 @@
       }
     }
   ],
-  "count": 23,
-  "updated_at": "2026-06-15T02:53:31.189986"
+  "count": 22,
+  "updated_at": "2026-06-15T02:58:35.378289"
 }
