@@ -663,39 +663,8 @@
         "minimal": "SpaceX出租数据中心",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41929",
-      "channel": "zaihuapd",
-      "text": "Apple 用 Swift 重写 TrueType 字体解释器，比 C 版本快 13%Apple 在 2025 年秋季发布的系统更新中，将 TrueType 字体 hinting 解释器从 C 重写为 Swift。新解释器消除了内存安全隐患，平均运行速度比 C 原版快 13%，且通过像素级对比测试确保渲染结果完全一致。开发团队大量使用 ~Copyable 值类型、Span 和投影类型等技术，减少了跨语言数据拷贝与动态分发开销。Apple 已将这部分生产级 Swift 代码开源至 GitHub，并计划把迁移经验用于更多 C/C++ 转 Swift 的系统级项目。Swift",
-      "clean_text": "🍏Apple 用 Swift 重写 TrueType 字体解释器，比 C 版本快 13%Apple 在 2025 年秋季发布的系统更新中，将 TrueType 字体 hinting 解释器从 C 重写为 Swift。新解释器消除了内存安全隐患，平均运行速度比 C 原版快 13%，且通过像素级对比测试确保渲染结果完全一致。开发团队大量使用 ~Copyable 值类型、Span 和投影类型等技术，减少了跨语言数据拷贝与动态分发开销。Apple 已将这部分生产级 Swift 代码开源至 GitHub，并计划把迁移经验用于更多 C/C++ 转 Swift 的系统级项目。Swift·备用频道",
-      "datetime": "2026-06-13T03:45:11+00:00",
-      "views": "1.83K",
-      "source_links": [
-        {
-          "text": "Swift",
-          "url": "https://swift.org/blog/migrating-truetype-hinting-to-swift/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41929",
-      "scraped_at": "2026-06-13T12:00:24.573809",
-      "title": "Swift重写字体解释器快13%",
-      "title_options": {
-        "conclusion": "Swift重写字体解释器快13%",
-        "attractive": "苹果字体提速13%开源",
-        "minimal": "Swift字体解释器提速",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-06-14T15:44:13.141347"
+  "count": 24,
+  "updated_at": "2026-06-14T15:49:18.353196"
 }
