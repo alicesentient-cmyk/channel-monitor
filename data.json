@@ -640,39 +640,8 @@
         "minimal": "RTX 5090 BTF接口",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41930",
-      "channel": "zaihuapd",
-      "text": "《云顶之弈》将于 8 月 12 日迁移至虚幻引擎，后续推出独立客户端云顶之弈将随第 18 赛季更新，从 Hextech 引擎切换至虚幻引擎。游戏核心体验不变，但首次更新包更大，个人设置会被重置；账户、外观和货币均保留。移动端会自动替换为新版本。这次迁移是为长期创新做准备，短期内游戏 bug 可能增多，因此第 18 赛季的测试服将从 7 月 14 日开启，持续四周。10 月 9 日还将推出云顶之弈专用 PC 客户端。未来新推出的小小英雄将不再支持在海克斯大乱斗中作为同伴使用。PC 和移动端的最低配置要求也有调整。Teamfight Tactics",
-      "clean_text": "《云顶之弈》将于 8 月 12 日迁移至虚幻引擎，后续推出独立客户端云顶之弈将随第 18 赛季更新，从 Hextech 引擎切换至虚幻引擎。游戏核心体验不变，但首次更新包更大，个人设置会被重置；账户、外观和货币均保留。移动端会自动替换为新版本。这次迁移是为长期创新做准备，短期内游戏 bug 可能增多，因此第 18 赛季的测试服将从 7 月 14 日开启，持续四周。10 月 9 日还将推出云顶之弈专用 PC 客户端。未来新推出的小小英雄将不再支持在海克斯大乱斗中作为同伴使用。PC 和移动端的最低配置要求也有调整。Teamfight Tactics·备用频道",
-      "datetime": "2026-06-13T04:30:11+00:00",
-      "views": "2.83K",
-      "source_links": [
-        {
-          "text": "Teamfight Tactics",
-          "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/faq-tft-unreal-migration/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41930",
-      "scraped_at": "2026-06-13T13:01:01.325857",
-      "title": "云顶之弈8月12日换虚幻引擎",
-      "title_options": {
-        "conclusion": "云顶之弈8月12日换虚幻引擎",
-        "attractive": "云顶之弈引擎升级，bug增多",
-        "minimal": "云顶之弈引擎迁移",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-06-14T16:29:56.194783"
+  "count": 23,
+  "updated_at": "2026-06-14T16:34:59.610046"
 }
