@@ -780,31 +780,8 @@
         "minimal": "OpenAI 多州调查",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30073",
-      "channel": "xhqcankao",
-      "text": "法国AI公司Mistral AI洽谈融资30亿欧元法国人工智能初创公司 Mistral AI 正就新一轮融资展开谈判，计划筹集约30亿欧元，公司估值或达 200亿欧元。此次融资将为这家总部位于巴黎的公司提供充足资源，以应对来自美国及中国竞争对手的挑战。据悉，相关谈判目前仍处于早期阶段，条款细节或有变动，最终估值也可能因投资者需求而进一步提升。Mistral在去年9月完成的上一轮融资中，估值为117亿欧元。荷兰光刻机制造商巨头 ASML Holding NV 是Mistral的最大股东。该公司在去年的融资轮中投入13亿欧元，获得Mistral约11%的股份。",
-      "clean_text": "法国AI公司Mistral AI洽谈融资30亿欧元法国人工智能初创公司 Mistral AI 正就新一轮融资展开谈判，计划筹集约30亿欧元，公司估值或达 200亿欧元。此次融资将为这家总部位于巴黎的公司提供充足资源，以应对来自美国及中国竞争对手的挑战。据悉，相关谈判目前仍处于早期阶段，条款细节或有变动，最终估值也可能因投资者需求而进一步提升。Mistral在去年9月完成的上一轮融资中，估值为117亿欧元。荷兰光刻机制造商巨头 ASML Holding NV 是Mistral的最大股东。该公司在去年的融资轮中投入13亿欧元，获得Mistral约11%的股份。——彭博社",
-      "datetime": "2026-06-12T23:30:24+00:00",
-      "views": "596",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30073",
-      "scraped_at": "2026-06-13T08:00:16.497674",
-      "title": "Mistral AI洽谈融资30亿欧元",
-      "title_options": {
-        "conclusion": "Mistral AI洽谈融资30亿欧元",
-        "attractive": "估值或达200亿欧元",
-        "minimal": "Mistral AI融资30亿",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-06-14T11:26:00.749588"
+  "count": 28,
+  "updated_at": "2026-06-14T11:31:04.484242"
 }
