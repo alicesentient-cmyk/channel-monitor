@@ -663,26 +663,8 @@
         "minimal": "微软开源SwiftMarkdown",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41931",
-      "channel": "zaihuapd",
-      "text": "华硕 RTX 5090 BTF 接口极限测试：超 1900W 仍低温  华硕中国区总经理 Tony Yu 近日展示了 ROG Astral GeForce RTX 5090 BTF 2.5 显卡独有的 GC-HPWR 电源接口的强大性能。在极限测试中，当 Chroma 负载测试仪设定为 150A（是 16 针接口规格的三倍），功耗超过 1,900W 时，电源线温度达到 68 至 70 摄氏度，而 GC-HPWR 接口温度仅为 41 摄氏度。  该 GC-HPWR 接口设计承载功率高达 1,000W。此前在…",
-      "clean_text": "华硕 RTX 5090 BTF 接口极限测试：超 1900W 仍低温  华硕中国区总经理 Tony Yu 近日展示了 ROG Astral GeForce RTX 5090 BTF 2.5 显卡独有的 GC-HPWR 电源接口的强大性能。在极限测试中，当 Chroma 负载测试仪设定为 150A（是 16 针接口规格的三倍），功耗超过 1,900W 时，电源线温度达到 68 至 70 摄氏度，而 GC-HPWR 接口温度仅为 41 摄氏度。  该 GC-HPWR 接口设计承载功率高达 1,000W。此前在…",
-      "datetime": "2026-06-13T05:15:11+00:00",
-      "views": "3.63K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41931",
-      "scraped_at": "2026-06-13T14:00:33.586425",
-      "title": "华硕RTX 5090接口耐1900W",
-      "title_options": {
-        "conclusion": "华硕RTX 5090接口耐1900W",
-        "attractive": "1900W功耗接口仅41度",
-        "minimal": "RTX 5090 BTF接口",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-06-14T17:10:55.343013"
+  "count": 24,
+  "updated_at": "2026-06-14T17:15:30.307508"
 }
