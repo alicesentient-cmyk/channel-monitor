@@ -1,6 +1,28 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30083",
+      "channel": "xhqcankao",
+      "text": "Anthropic强大新模型为何突遭出口管制？知情人士称，特朗普政府决定停止允许外国人使用 Anthropic 最先进的AI模型，这一决定源于亚马逊公司CEO安迪·贾西与美国财政部长斯科特·贝森特等官员之间的沟通。据知情人士透露，贾西向美国官员们表示，亚马逊的研究人员通过一系列提示词，成功引导Anthropic的Fable 5模型提供了原本被禁止获取、可用于协助网络攻击的信息。科技行业高管们一直就尖端AI工具的强大能力与政府保持定期沟通。不久后，白宫官员召开会议讨论应对措施，安全研究人员开始对亚马逊的说法进行验证。据政府官员透露，官员们要求 Anthropic 修复相关漏洞，否则将下架该模型。",
+      "clean_text": "Anthropic强大新模型为何突遭出口管制？知情人士称，特朗普政府决定停止允许外国人使用 Anthropic 最先进的AI模型，这一决定源于亚马逊公司CEO安迪·贾西与美国财政部长斯科特·贝森特等官员之间的沟通。据知情人士透露，贾西向美国官员们表示，亚马逊的研究人员通过一系列提示词，成功引导Anthropic的Fable 5模型提供了原本被禁止获取、可用于协助网络攻击的信息。科技行业高管们一直就尖端AI工具的强大能力与政府保持定期沟通。不久后，白宫官员召开会议讨论应对措施，安全研究人员开始对亚马逊的说法进行验证。据政府官员透露，官员们要求 Anthropic 修复相关漏洞，否则将下架该模型。——凤凰网科技",
+      "datetime": "2026-06-14T00:15:14+00:00",
+      "views": "1.24K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006F1InMW4SxcZITdXsRW1wmdnSqKnpIiAHEMydSxDN--ciSHXj8qYAMHBF--1U0HM3I3"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30083",
+      "scraped_at": "2026-06-14T09:00:27.173784",
+      "title": "Anthropic模型遭出口管制",
+      "title_options": {
+        "conclusion": "Anthropic模型遭出口管制",
+        "attractive": "亚马逊CEO举报致AI受限",
+        "minimal": "Anthropic Fable5 出口…"
+      }
+    },
+    {
       "id": "xhqcankao_30082",
       "channel": "xhqcankao",
       "text": "DeepSeek研究员控诉字节半夜施工扰民DeepSeek研究员陈德里在X平台控诉北京市政府和字节跳动半夜施工扰民。DeepSeek 研究员陈德里周六在X发帖说：“我正式且愤怒地公开谴责北京市政府和字节跳动",
@@ -763,6 +785,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-14T08:59:24.906781"
+  "count": 29,
+  "updated_at": "2026-06-14T09:04:28.776002"
 }
