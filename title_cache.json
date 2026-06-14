@@ -5098,5 +5098,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-14T17:05:22.134430"
+  },
+  "xhqcankao_30086": {
+    "ai_title": "美司法部批准派拉蒙收购华纳",
+    "title_options": {
+      "conclusion": "美司法部批准派拉蒙收购华纳",
+      "attractive": "810亿美元交易获美司法部批准",
+      "minimal": "派拉蒙华纳合并获批"
+    },
+    "generated_at": "2026-06-14T18:01:02.529927"
+  },
+  "zaihuapd_41949": {
+    "ai_title": "美政府限制Anthropic关闭两模型",
+    "title_options": {
+      "conclusion": "美政府限制Anthropic关闭两模型",
+      "attractive": "美政府限制Anthropic关闭两模型",
+      "minimal": "Anthropic关闭两模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-14T18:01:02.531581"
+  },
+  "xhqcankao_30085": {
+    "ai_title": "SK海力士HBM4E样品或提前交付",
+    "title_options": {
+      "conclusion": "SK海力士HBM4E样品或提前交付",
+      "attractive": "HBM4E样品战：SK海力士加速",
+      "minimal": "HBM4E样品交付加速",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-14T18:01:02.534940"
   }
 }
