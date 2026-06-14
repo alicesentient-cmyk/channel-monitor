@@ -619,43 +619,8 @@
         "minimal": "携程被罚千万",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41934",
-      "channel": "zaihuapd",
-      "text": "Meta 将向美国失明退伍军人免费提供 AI 眼镜Meta 将为美国每名符合条件的失明退伍军人免费提供 Ray-Ban Meta AI 眼镜。美国有超过 13 万名合法失明的退伍军人可申请，个人可通过bva.org/glasses提交请求。眼镜配套培训资源，帮助使用语音识别物体、阅读文字和处理日常任务。BVA 将与 TechSoup 举办月度线上培训，Meta 和合作组织也会在线下提供指导。Meta Newsroom",
-      "clean_text": "Meta 将向美国失明退伍军人免费提供 AI 眼镜Meta 将为美国每名符合条件的失明退伍军人免费提供 Ray-Ban Meta AI 眼镜。美国有超过 13 万名合法失明的退伍军人可申请，个人可通过bva.org/glasses提交请求。眼镜配套培训资源，帮助使用语音识别物体、阅读文字和处理日常任务。BVA 将与 TechSoup 举办月度线上培训，Meta 和合作组织也会在线下提供指导。Meta Newsroom·备用频道",
-      "datetime": "2026-06-13T07:30:11+00:00",
-      "views": "2.92K",
-      "source_links": [
-        {
-          "text": "bva.org/glasses",
-          "url": "http://bva.org/glasses"
-        },
-        {
-          "text": "Meta Newsroom",
-          "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41934",
-      "scraped_at": "2026-06-13T16:01:08.135070",
-      "title": "Meta向失明退伍军人免费提供AI眼镜",
-      "title_options": {
-        "conclusion": "Meta向失明退伍军人免费提供AI眼镜",
-        "attractive": "13万失明退伍军人可免费申请AI眼镜",
-        "minimal": "Meta免费AI眼镜退伍军人",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-06-14T19:27:43.005644"
+  "count": 23,
+  "updated_at": "2026-06-14T19:32:46.212243"
 }
