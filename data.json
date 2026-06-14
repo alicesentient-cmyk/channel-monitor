@@ -671,31 +671,8 @@
         "minimal": "云顶之弈引擎迁移",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30076",
-      "channel": "xhqcankao",
-      "text": "SpaceX公司对外出租AI算力的内幕曝光SpaceX公司在利用其孟菲斯 Colossus 1 数据中心开发和运行Grok AI模型时遇到技术挑战，随后决定将该数据中心的全部容量租给Anthropic。知情人士透露，SpaceX原本计划利用三个数据中心园区组成的计算集群提供的海量算力，训练其最先进的AI模型。然而，在将Colossus 1与另外两个距离超过10英里的数据中心连接时，公司遇到了网络延迟问题，而老化的网络基础设施又让这一情况雪上加霜。SpaceX 认为与其继续投入资源解决这些基础设施瓶颈，将 Colossus 1 的数据中心容量出租给外部客户更具经济价值，这样还能创造新收入来源。 Anthropic 和谷歌已分别与SpaceX达成了可能为期数年、价值数百亿美元的算力合作协议。",
-      "clean_text": "SpaceX公司对外出租AI算力的内幕曝光SpaceX公司在利用其孟菲斯 Colossus 1 数据中心开发和运行Grok AI模型时遇到技术挑战，随后决定将该数据中心的全部容量租给Anthropic。知情人士透露，SpaceX原本计划利用三个数据中心园区组成的计算集群提供的海量算力，训练其最先进的AI模型。然而，在将Colossus 1与另外两个距离超过10英里的数据中心连接时，公司遇到了网络延迟问题，而老化的网络基础设施又让这一情况雪上加霜。SpaceX 认为与其继续投入资源解决这些基础设施瓶颈，将 Colossus 1 的数据中心容量出租给外部客户更具经济价值，这样还能创造新收入来源。 Anthropic 和谷歌已分别与SpaceX达成了可能为期数年、价值数百亿美元的算力合作协议。——凤凰网科技",
-      "datetime": "2026-06-13T04:19:22+00:00",
-      "views": "1.62K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006GWIf1hgEtwHvIj52OaJsrqsdSg6nBtPxeMxSwhR0z-_vCcNty83i7eFB4QPd49UH0"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30076",
-      "scraped_at": "2026-06-13T13:01:03.028747",
-      "title": "SpaceX出租AI算力",
-      "title_options": {
-        "conclusion": "SpaceX出租AI算力",
-        "attractive": "延迟问题致出租算力",
-        "minimal": "SpaceX出租数据中心",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-06-14T16:14:43.057936"
+  "count": 24,
+  "updated_at": "2026-06-14T16:19:46.838763"
 }
