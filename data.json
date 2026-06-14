@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41944",
+      "channel": "zaihuapd",
+      "text": "美一季度 75 个数据中心项目被阻，总值约 1300 亿美元2026 年第一季度，美国全国至少有 75 个数据中心建设项目被阻止或推迟，总价值约 1300 亿美元，数量已与 2025 年全年持平。社区及跨党派政治人物对能源消耗与环境影响的担忧显著升温。研究显示，全国活跃的草根反对组织在三个月内从 396 个激增至 833 个，遍布 49 个州。各州议会第一季度提出大量监管法案，部分联邦议员也推动暂停数据中心建设的立法提案。Tom's Hardware|NBC News",
+      "clean_text": "美一季度 75 个数据中心项目被阻，总值约 1300 亿美元2026 年第一季度，美国全国至少有 75 个数据中心建设项目被阻止或推迟，总价值约 1300 亿美元，数量已与 2025 年全年持平。社区及跨党派政治人物对能源消耗与环境影响的担忧显著升温。研究显示，全国活跃的草根反对组织在三个月内从 396 个激增至 833 个，遍布 49 个州。各州议会第一季度提出大量监管法案，部分联邦议员也推动暂停数据中心建设的立法提案。Tom's Hardware|NBC News·备用频道",
+      "datetime": "2026-06-14T03:03:07+00:00",
+      "views": "4.1K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs"
+        },
+        {
+          "text": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/data-center-opposition-sharply-rising-2026-study-finds-rcna349728"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41944",
+      "scraped_at": "2026-06-14T12:00:15.550163",
+      "title": "美75个数据中心项目被阻",
+      "title_options": {
+        "conclusion": "美75个数据中心项目被阻",
+        "attractive": "1300亿美元项目遭搁置",
+        "minimal": "数据中心项目受阻",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41943",
       "channel": "zaihuapd",
       "text": "任天堂收紧日本版 Switch 2 多语言机购买条件任天堂在日本进一步收紧 Switch 2 多语言版本的购买条件，以打击黄牛倒卖。新规要求，购买账号截至 2026 年 5 月底需累计游玩 50 小时以上付费版 Switch 游戏，不计试玩版和免费游戏；同时每个任天堂账号限购一台。任天堂也暂停了部分被怀疑用于倒卖的订单。这批措施主要针对日本多语言版 Switch 2。由于日元走弱，这一版本在海外转卖后仍有价差空间，近期成为黄牛目标。新规与 Switch 2 初期发售时的限制条件接近，任天堂这次相当于把门槛重新加了回来。Digital Trends⁠",
@@ -782,6 +817,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-14T11:56:20.034046"
+  "count": 29,
+  "updated_at": "2026-06-14T12:01:24.639204"
 }
