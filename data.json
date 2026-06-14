@@ -645,8 +645,43 @@
         "minimal": "装备被盗",
         "best": "conclusion"
       }
+    },
+    {
+      "id": "zaihuapd_41953",
+      "channel": "zaihuapd",
+      "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
+      "clean_text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science·备用频道",
+      "datetime": null,
+      "views": "352",
+      "source_links": [
+        {
+          "text": "Inside Climate News",
+          "url": "https://insideclimatenews.org/news/11062026/earths-massive-underground-fungal-networks/"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.science.org/doi/10.1126/science.adu4373"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41953",
+      "scraped_at": "2026-06-14T23:00:41.281147",
+      "title": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离",
+      "title_options": {
+        "conclusion": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离",
+        "attractive": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离",
+        "minimal": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离",
+        "best": "conclusion"
+      }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-06-14T23:00:34.277415"
+  "count": 25,
+  "updated_at": "2026-06-14T23:11:29.432664"
 }
