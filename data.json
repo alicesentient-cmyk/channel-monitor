@@ -791,35 +791,8 @@
         "minimal": "豆包任务模式",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30075",
-      "channel": "xhqcankao",
-      "text": "美政府限制外国访问Anthropic最新AI模型特朗普政府计划阻止外国政府、公司或个人访问美国人工智能公司 Anthropic 最先进的AI模型。美国商务部长卢特尼克本周五致函Anthropic首席执行官阿莫迪说，Mythos 5和Fable 5模型将受到美国出口管制。这项出口管制措施适用于美国境外的任何地点以及美国境内的所有外国人。Anthropic公司刚在6月9日发布全新一代Mythos级别模型Claude Mythos 5和Claude Fable 5。这两款模型在代码迁移、视觉理解、科研（如基因组学与药物设计）等复杂任务上展现出显著的性能提升。",
-      "clean_text": "美政府限制外国访问Anthropic最新AI模型特朗普政府计划阻止外国政府、公司或个人访问美国人工智能公司 Anthropic 最先进的AI模型。美国商务部长卢特尼克本周五致函Anthropic首席执行官阿莫迪说，Mythos 5和Fable 5模型将受到美国出口管制。这项出口管制措施适用于美国境外的任何地点以及美国境内的所有外国人。Anthropic公司刚在6月9日发布全新一代Mythos级别模型Claude Mythos 5和Claude Fable 5。这两款模型在代码迁移、视觉理解、科研（如基因组学与药物设计）等复杂任务上展现出显著的性能提升。——联合早报、CNBC",
-      "datetime": "2026-06-13T01:33:11+00:00",
-      "views": "1.02K",
-      "source_links": [
-        {
-          "text": "联合早报",
-          "url": "https://www.zaobao.com/news/world/story20260613-9199488"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30075",
-      "scraped_at": "2026-06-13T10:01:08.437615",
-      "title": "美限制外国访问Anthropic模型",
-      "title_options": {
-        "conclusion": "美限制外国访问Anthropic模型",
-        "attractive": "Anthropic新模型遭出口管制",
-        "minimal": "美限制Anthropic模型访问",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-06-14T13:32:31.667152"
+  "count": 28,
+  "updated_at": "2026-06-14T13:37:35.402685"
 }
