@@ -818,43 +818,8 @@
         "minimal": "美限制Anthropic模型访问",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_41925",
-      "channel": "zaihuapd",
-      "text": "因美政府发函限制，Anthropic 已关闭两款 Mythos模型对所有客户的访问美国政府以国家安全权限向 Anthropic 发出出口管制指令，要求暂停任何外国公民在美国境内外访问 Fable 5 和 Mythos 5。Axios 报道称，商务部此举与对模型被越狱后可能带来安全风险的担忧有关。Anthropic 表示，为确保合规，将关闭这两款模型对所有客户的访问，外国籍员工也在限制范围内；其他 Claude 模型不受影响，公司称正在争取尽快恢复访问。Axios|Anthropic",
-      "clean_text": "因美政府发函限制，Anthropic 已关闭两款 Mythos模型对所有客户的访问美国政府以国家安全权限向 Anthropic 发出出口管制指令，要求暂停任何外国公民在美国境内外访问 Fable 5 和 Mythos 5。Axios 报道称，商务部此举与对模型被越狱后可能带来安全风险的担忧有关。Anthropic 表示，为确保合规，将关闭这两款模型对所有客户的访问，外国籍员工也在限制范围内；其他 Claude 模型不受影响，公司称正在争取尽快恢复访问。Axios|Anthropic·备用频道",
-      "datetime": "2026-06-13T01:13:34+00:00",
-      "views": "3.94K",
-      "source_links": [
-        {
-          "text": "Axios",
-          "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security"
-        },
-        {
-          "text": "Anthropic",
-          "url": "https://x.com/AnthropicAI/status/2065597531644743999"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41925",
-      "scraped_at": "2026-06-13T10:01:06.878608",
-      "title": "Anthropic关闭两款模型",
-      "title_options": {
-        "conclusion": "Anthropic关闭两款模型",
-        "attractive": "美政府限制AI模型访问",
-        "minimal": "Anthropic模型关闭",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-06-14T13:12:16.260189"
+  "count": 29,
+  "updated_at": "2026-06-14T13:17:21.417859"
 }
