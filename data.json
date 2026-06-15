@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41965",
+      "channel": "zaihuapd",
+      "text": "Kimi 推出 K2.7 Code 高速模式，编程任务提速 6 倍Kimi 发布了开源多模态编程模型 K2.7 Code 的高速版本 K2.7 Code HighSpeed。该模式将编码任务速度提升最高约 6 倍，中位数长度输入下可达约 180 tok/s，短上下文任务最高约 260 tok/s。目前该模式已向 Kimi Code Beta 计划成员、API 开发者和商业用户分批开放，初期因容量有限采取受限访问。无需邀请，任何加入 Beta 计划的用户均有机会获得使用权限。然而，高速版本价格是普通版的两倍。X|Kimi Docs",
+      "clean_text": "Kimi 推出 K2.7 Code 高速模式，编程任务提速 6 倍Kimi 发布了开源多模态编程模型 K2.7 Code 的高速版本 K2.7 Code HighSpeed。该模式将编码任务速度提升最高约 6 倍，中位数长度输入下可达约 180 tok/s，短上下文任务最高约 260 tok/s。目前该模式已向 Kimi Code Beta 计划成员、API 开发者和商业用户分批开放，初期因容量有限采取受限访问。无需邀请，任何加入 Beta 计划的用户均有机会获得使用权限。然而，高速版本价格是普通版的两倍。X|Kimi Docs·备用频道",
+      "datetime": "2026-06-15T13:43:20+00:00",
+      "views": "2.25K",
+      "source_links": [
+        {
+          "text": "X",
+          "url": "https://x.com/i/status/2066467110960959833"
+        },
+        {
+          "text": "Kimi Docs",
+          "url": "https://platform.kimi.ai/docs/pricing/chat-k27-code"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41965",
+      "scraped_at": "2026-06-15T22:00:43.366976",
+      "title": "Kimi编程提速6倍",
+      "title_options": {
+        "conclusion": "Kimi编程提速6倍",
+        "attractive": "编程快6倍，价格翻倍",
+        "minimal": "K2.7提速6倍",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41964",
       "channel": "zaihuapd",
       "text": "开源社区热捧的 Rio 3.5 模型被证实为套壳中国开源模型拿下开源 SOTA 的“里约大模型”Rio 3.5，近日被 Nex 团队揭露为套壳模型，实为 Nex 和 Qwen 的混合产物。Nex 团队称，摘掉系统提示词后，模型有 79% 的概率自称 Nex，并能复述 Nex 独有的机构介绍。对 60 层权重的分析也表明，Rio 的权重精确落在 Nex 与 Qwen 的连线上，混合比例约 0.57：0.43，共线性超过 0.98，几乎不可能为独立训练。Rio 团队随后下架涉事模型并在 HuggingFace 页面致歉，承认使用了 Nex 和 Qwen，但解释称上传的是“未经最终蒸馏的错误版本”。这并非中国模型首次被套壳，此前 Cursor 的 Composer 2 被曝实际为 Kimi，斯坦福团队的 Llama3-V 被指抄袭清华面壁的 MiniCPM-Llama3-V 2.5 等事件同样引发争议。量子位",
@@ -877,6 +912,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-06-15T21:58:12.079290"
+  "count": 37,
+  "updated_at": "2026-06-15T22:03:17.985701"
 }
