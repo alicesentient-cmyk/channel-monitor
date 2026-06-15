@@ -5316,5 +5316,15 @@
       "minimal": "Anthropic CEO警告反致禁令"
     },
     "generated_at": "2026-06-15T12:05:07.145182"
+  },
+  "xhqcankao_30099": {
+    "ai_title": "字节跳动洽谈购买AI芯片",
+    "title_options": {
+      "conclusion": "字节跳动洽谈购买AI芯片",
+      "attractive": "字节跳动寻国产GPU替代",
+      "minimal": "字节跳动 天数智芯 芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T14:01:32.591375"
   }
 }
