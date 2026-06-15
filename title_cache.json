@@ -5326,5 +5326,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-15T14:01:32.591375"
+  },
+  "xhqcankao_30100": {
+    "ai_title": "腾讯网盘研发中",
+    "title_options": {
+      "conclusion": "腾讯网盘研发中",
+      "attractive": "AI资产备份新选择",
+      "minimal": "腾讯网盘研发",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T15:02:17.206773"
+  },
+  "zaihuapd_41958": {
+    "ai_title": "字节洽购天数智芯AI芯片",
+    "title_options": {
+      "conclusion": "字节洽购天数智芯AI芯片",
+      "attractive": "字节拟引入百度芯片",
+      "minimal": "字节 天数智芯 AI芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T15:02:17.579947"
   }
 }
