@@ -5247,5 +5247,55 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-15T09:03:07.821490"
+  },
+  "xhqcankao_30096": {
+    "ai_title": "微软考虑分拆Xbox部门",
+    "title_options": {
+      "conclusion": "微软考虑分拆Xbox部门",
+      "attractive": "Xbox或成独立公司",
+      "minimal": "微软Xbox分拆",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T10:03:45.387110"
+  },
+  "zaihuapd_41956": {
+    "ai_title": "浙江联通3G全面退网",
+    "title_options": {
+      "conclusion": "浙江联通3G全面退网",
+      "attractive": "3G用户需换4G/5G",
+      "minimal": "浙江联通3G退网",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T10:03:45.493836"
+  },
+  "xhqcankao_30095": {
+    "ai_title": "毕马威报告含AI幻觉",
+    "title_options": {
+      "conclusion": "毕马威报告含AI幻觉",
+      "attractive": "毕马威报告夸大AI采用",
+      "minimal": "毕马威AI幻觉报告",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T10:03:45.552009"
+  },
+  "xhqcankao_30094": {
+    "ai_title": "英国拟禁16岁以下儿童用社媒",
+    "title_options": {
+      "conclusion": "英国拟禁16岁以下儿童用社媒",
+      "attractive": "16岁以下禁用社媒？英国将宣布",
+      "minimal": "英国 16岁以下 社媒禁令",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T10:03:46.915998"
+  },
+  "zaihuapd_41955": {
+    "ai_title": "澳青少年社媒禁令成效不彰",
+    "title_options": {
+      "conclusion": "澳青少年社媒禁令成效不彰",
+      "attractive": "超六成青少年仍可访问社媒",
+      "minimal": "澳社媒禁令失效",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T10:03:47.023912"
   }
 }
