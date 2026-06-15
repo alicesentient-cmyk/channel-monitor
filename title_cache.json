@@ -5405,5 +5405,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-15T18:04:34.568525"
+  },
+  "zaihuapd_41962": {
+    "ai_title": "美政府限制，Anthropic关模型",
+    "title_options": {
+      "conclusion": "美政府限制，Anthropic关模型",
+      "attractive": "美禁令生效，Anthropic停服",
+      "minimal": "Anthropic关停两模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T19:05:21.390952"
+  },
+  "xhqcankao_30104": {
+    "ai_title": "中国大学削减1.2万专业",
+    "title_options": {
+      "conclusion": "中国大学削减1.2万专业",
+      "attractive": "AI时代淘汰1.2万专业",
+      "minimal": "大学削减1.2万专业",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T19:05:21.436011"
   }
 }
