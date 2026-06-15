@@ -864,47 +864,6 @@
       }
     },
     {
-      "id": "zaihuapd_41949",
-      "channel": "zaihuapd",
-      "text": "因美政府发函限制，Anthropic 已关闭两款 Mythos 模型对所有客户的访问  美国政府以国家安全权限向 Anthropic 发出出口管制指令，要求暂停任何外国公民在美国境内外访问 Fable 5 和 Mythos 5。Axios 报道称，商务部此举与对模型被越狱后可能带来安全风险的担忧有关。  Anthropic 表示，为确保合规，将关闭这两款模型对所有客户的访问，外国籍员工也在限制范围内；其他 Claude 模型不受影响，公司称正在争取尽快恢复访问。  Axios | Anthropic …",
-      "clean_text": "🤖因美政府发函限制，Anthropic 已关闭两款 Mythos 模型对所有客户的访问  美国政府以国家安全权限向 Anthropic 发出出口管制指令，要求暂停任何外国公民在美国境内外访问 Fable 5 和 Mythos 5。Axios 报道称，商务部此举与对模型被越狱后可能带来安全风险的担忧有关。  Anthropic 表示，为确保合规，将关闭这两款模型对所有客户的访问，外国籍员工也在限制范围内；其他 Claude 模型不受影响，公司称正在争取尽快恢复访问。  Axios | Anthropic …",
-      "datetime": "2026-06-14T09:06:57+00:00",
-      "views": "4.27K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41949",
-      "scraped_at": "2026-06-14T18:00:15.617216",
-      "title": "美政府限制Anthropic关闭两模型",
-      "title_options": {
-        "conclusion": "美政府限制Anthropic关闭两模型",
-        "attractive": "美政府限制Anthropic关闭两模型",
-        "minimal": "Anthropic关闭两模型",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30085",
-      "channel": "xhqcankao",
-      "text": "HBM4E样品交付战打响 SK海力士或提前至6月 三星已抢先一步继韩国三星电子交付全球首批 HBM4E 样品后，SK海力士也有望加速交付进度。据业内人士 12日透露，SK 海力士正准备向主要客户提供 HBM4E 样品，最早可能在本月开始发货，最迟下个月也将开始。这一时点比原计划更早。SK海力士此前在第一季度财报电话会议上表示内部计划在下半年提供样品。业内人士认为，考虑到 HBM4E 计划于明年量产，客户验证和优化工作必须在今年下半年进行，因此样品供应指日可待。预计SK海力士的 HBM4E将被用于英伟达的下一代AI加速器“Rubin Ultra”中。",
-      "clean_text": "HBM4E样品交付战打响 SK海力士或提前至6月 三星已抢先一步继韩国三星电子交付全球首批 HBM4E 样品后，SK海力士也有望加速交付进度。据业内人士 12日透露，SK 海力士正准备向主要客户提供 HBM4E 样品，最早可能在本月开始发货，最迟下个月也将开始。这一时点比原计划更早。SK海力士此前在第一季度财报电话会议上表示内部计划在下半年提供样品。业内人士认为，考虑到 HBM4E 计划于明年量产，客户验证和优化工作必须在今年下半年进行，因此样品供应指日可待。预计SK海力士的 HBM4E将被用于英伟达的下一代AI加速器“Rubin Ultra”中。——财联社",
-      "datetime": "2026-06-14T09:04:51+00:00",
-      "views": "1.88K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2399078?sv=8.5.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30085",
-      "scraped_at": "2026-06-14T18:00:17.244397",
-      "title": "SK海力士HBM4E样品或提前交付",
-      "title_options": {
-        "conclusion": "SK海力士HBM4E样品或提前交付",
-        "attractive": "HBM4E样品战：SK海力士加速",
-        "minimal": "HBM4E样品交付加速",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -940,6 +899,6 @@
       }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-06-15T21:02:17.969145"
+  "count": 37,
+  "updated_at": "2026-06-15T21:07:21.999243"
 }
