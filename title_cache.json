@@ -5505,5 +5505,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-15T23:04:39.709577"
+  },
+  "zaihuapd_41967": {
+    "ai_title": "YouTube美国涨价4美元",
+    "title_options": {
+      "conclusion": "YouTube美国涨价4美元",
+      "attractive": "YouTube涨价，你还续费吗",
+      "minimal": "YouTube涨价"
+    },
+    "generated_at": "2026-06-16T00:00:37.092386"
+  },
+  "zaihuapd_41969": {
+    "ai_title": "KFC启动最大品牌重塑",
+    "title_options": {
+      "conclusion": "KFC启动最大品牌重塑",
+      "attractive": "KFC推新菜单重造门店",
+      "minimal": "KFC重塑品牌上新",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T00:00:37.302857"
+  },
+  "xhqcankao_30109": {
+    "ai_title": "中国车全球热销本土遇冷",
+    "title_options": {
+      "conclusion": "中国车全球热销本土遇冷",
+      "attractive": "全球热销本土却连跌8月",
+      "minimal": "全球热销本土下滑",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T00:00:37.337008"
   }
 }
