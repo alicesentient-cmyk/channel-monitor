@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41966",
+      "channel": "zaihuapd",
+      "text": "消费者起诉 Anthropic，称其高端 AI 计划使用限额不实华盛顿特区消费者 Karl Kahn 对 Anthropic 提起集体诉讼，指控其“Max 5x”和“Max 20x”订阅计划的实际使用上限远低于宣传。这两个计划月费分别为 100 美元和 200 美元，声称提供基础版 Claude Pro 5 倍和 20 倍的用量，但用户反映实际限额难以确定且更低。这是消费者对 AI 订阅成本与透明度不足的早期法律反击。起诉方要求 Anthropic 为去年 4 月以来购买相关计划的用户退款，并引用了该公司 2025 年 7 月的邮件作为证据。The Wall Street Journal",
+      "clean_text": "消费者起诉 Anthropic，称其高端 AI 计划使用限额不实华盛顿特区消费者 Karl Kahn 对 Anthropic 提起集体诉讼，指控其“Max 5x”和“Max 20x”订阅计划的实际使用上限远低于宣传。这两个计划月费分别为 100 美元和 200 美元，声称提供基础版 Claude Pro 5 倍和 20 倍的用量，但用户反映实际限额难以确定且更低。这是消费者对 AI 订阅成本与透明度不足的早期法律反击。起诉方要求 Anthropic 为去年 4 月以来购买相关计划的用户退款，并引用了该公司 2025 年 7 月的邮件作为证据。The Wall Street Journal·备用频道",
+      "datetime": "2026-06-15T14:17:25+00:00",
+      "views": "4.43K",
+      "source_links": [
+        {
+          "text": "The Wall Street Journal",
+          "url": "https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41966",
+      "scraped_at": "2026-06-15T23:00:27.553687",
+      "title": "Anthropic被诉订阅限额不实",
+      "title_options": {
+        "conclusion": "Anthropic被诉订阅限额不实",
+        "attractive": "AI订阅限额低？用户起诉",
+        "minimal": "Anthropic诉讼限额",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41965",
       "channel": "zaihuapd",
       "text": "Kimi 推出 K2.7 Code 高速模式，编程任务提速 6 倍Kimi 发布了开源多模态编程模型 K2.7 Code 的高速版本 K2.7 Code HighSpeed。该模式将编码任务速度提升最高约 6 倍，中位数长度输入下可达约 180 tok/s，短上下文任务最高约 260 tok/s。目前该模式已向 Kimi Code Beta 计划成员、API 开发者和商业用户分批开放，初期因容量有限采取受限访问。无需邀请，任何加入 Beta 计划的用户均有机会获得使用权限。然而，高速版本价格是普通版的两倍。X|Kimi Docs",
@@ -912,6 +943,6 @@
       }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-06-15T22:59:27.573167"
+  "count": 38,
+  "updated_at": "2026-06-15T23:04:39.718436"
 }
