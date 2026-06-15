@@ -5385,5 +5385,25 @@
       "minimal": "光控磁性存储材料"
     },
     "generated_at": "2026-06-15T17:03:49.360048"
+  },
+  "zaihuapd_41961": {
+    "ai_title": "哪吒监控高危漏洞",
+    "title_options": {
+      "conclusion": "哪吒监控高危漏洞",
+      "attractive": "9.1分漏洞可窃密",
+      "minimal": "哪吒监控路径穿越",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T18:04:34.460075"
+  },
+  "xhqcankao_30103": {
+    "ai_title": "中国数字支付抗衡美元",
+    "title_options": {
+      "conclusion": "中国数字支付抗衡美元",
+      "attractive": "跨境支付费用减半",
+      "minimal": "数字支付 美元 抗衡",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T18:04:34.568525"
   }
 }
