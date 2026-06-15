@@ -1,6 +1,33 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41970",
+      "channel": "zaihuapd",
+      "text": "Telegram 发起 20 万美元数字自由视频大赛Telegram 宣布推出一项总奖金 20 万美元的创作者比赛，鼓励用户制作关于数字自由的视频。参赛者必须使用帕维尔·杜罗夫的演讲中的部分创意和素材，可加入自己的内容；视频需获得至少 1 万次自然观看，才有机会瓜分奖金。完整规则和详情可在相关频道查看。Telegram",
+      "clean_text": "Telegram 发起 20 万美元数字自由视频大赛Telegram 宣布推出一项总奖金 20 万美元的创作者比赛，鼓励用户制作关于数字自由的视频。参赛者必须使用帕维尔·杜罗夫的演讲中的部分创意和素材，可加入自己的内容；视频需获得至少 1 万次自然观看，才有机会瓜分奖金。完整规则和详情可在相关频道查看。Telegram·备用频道",
+      "datetime": "2026-06-15T16:34:16+00:00",
+      "views": "2.29K",
+      "source_links": [
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41970",
+      "scraped_at": "2026-06-16T01:00:21.363753",
+      "title": "Telegram设20万美元视频赛",
+      "title_options": {
+        "conclusion": "Telegram设20万美元视频赛",
+        "attractive": "20万奖金视频赛规则",
+        "minimal": "Telegram视频大赛",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_41969",
       "channel": "zaihuapd",
       "text": "KFC 启动史上最大规模品牌重塑，上新菜单并重造门店体验KFC 正在推进其史上最大规模的全球品牌重塑，推出全新 Kwench 饮品平台、无骨鸡肉产品及区域限定酱料，并将门店升级为强调沉浸式体验的“QXR”空间。公司希望借此扭转美国市场颓势，在 Popeyes、Raising Cane's 等新兴品牌的竞争下重新吸引年轻消费者。目前 KFC 在全球 151 个国家拥有超过 3.4 万家门店，近三季度除美国外均实现销售增长。品牌计划在加强数字化互动的同时保留经典的上校形象，以平衡创新与传统。Business Insider",
@@ -901,6 +928,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-06-16T00:56:46.497372"
+  "count": 37,
+  "updated_at": "2026-06-16T01:01:52.545312"
 }
