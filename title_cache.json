@@ -5346,5 +5346,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-15T15:02:17.579947"
+  },
+  "xhqcankao_30102": {
+    "ai_title": "原死了么团队募资千万",
+    "title_options": {
+      "conclusion": "原死了么团队募资千万",
+      "attractive": "死了么改名募资千万",
+      "minimal": "死了么募资千万",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T17:03:47.934749"
+  },
+  "zaihuapd_41960": {
+    "ai_title": "美政府限制Anthropic关闭模型",
+    "title_options": {
+      "conclusion": "美政府限制Anthropic关闭模型",
+      "attractive": "美政府发函，Anthropic停服",
+      "minimal": "Anthropic关闭Mythos模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T17:03:47.998844"
+  },
+  "zaihuapd_41959": {
+    "ai_title": "克鲁格曼批马斯克是庞氏骗局",
+    "title_options": {
+      "conclusion": "克鲁格曼批马斯克是庞氏骗局",
+      "attractive": "SpaceX亏损上市谁买单",
+      "minimal": "马斯克庞氏骗局SpaceX上市",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T17:03:48.428708"
+  },
+  "xhqcankao_30101": {
+    "ai_title": "日研发出光控磁性存储材料",
+    "title_options": {
+      "conclusion": "日研发出光控磁性存储材料",
+      "attractive": "光改写速度比电快千倍",
+      "minimal": "光控磁性存储材料"
+    },
+    "generated_at": "2026-06-15T17:03:49.360048"
   }
 }
