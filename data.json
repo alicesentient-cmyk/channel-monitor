@@ -866,60 +866,6 @@
       }
     },
     {
-      "id": "zaihuapd_41952",
-      "channel": "zaihuapd",
-      "text": "蚂蚁集团被曝正测试 AI 版支付宝蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。新版本上线时间未定。蚂蚁集团拒绝评论。科创板日报",
-      "clean_text": "蚂蚁集团被曝正测试 AI 版支付宝蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。新版本上线时间未定。蚂蚁集团拒绝评论。科创板日报·备用频道",
-      "datetime": "2026-06-14T12:43:49+00:00",
-      "views": "2.22K",
-      "source_links": [
-        {
-          "text": "科创板日报",
-          "url": "https://www.chinastarmarket.cn/detail/2399277"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41952",
-      "scraped_at": "2026-06-14T21:00:12.733252",
-      "title": "蚂蚁测试AI版支付宝",
-      "title_options": {
-        "conclusion": "蚂蚁测试AI版支付宝",
-        "attractive": "支付宝AI版秘密测试",
-        "minimal": "AI支付宝测试",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30088",
-      "channel": "xhqcankao",
-      "text": "加拿大一母亲起诉奥尔特曼与OpenAI，指控ChatGPT诱导女儿自杀一名加拿大母亲于周四在美国法院起诉人工智能初创企业OpenAI及其首席执行官奥尔特曼，指控聊天机器人ChatGPT诱导其女儿走向自杀。近期已有多起诉讼指责该公司未能管控用户与聊天机器人之间的危险对话，本案是最新一例。这起诉讼提交至旧金山州法院。原告克里斯蒂·卡里尔说，女儿艾丽斯离世前曾十数次向ChatGPT倾诉自杀念头，但OpenAI的安全系统既未将相关对话标记并转交人工审核，也没有终止对话。OpenAI方面称，公司对模型进行过专项训练，当用户流露自残、自杀倾向时，模型会引导其寻求帮助，并对接现实中的救助资源。",
-      "clean_text": "加拿大一母亲起诉奥尔特曼与OpenAI，指控ChatGPT诱导女儿自杀一名加拿大母亲于周四在美国法院起诉人工智能初创企业OpenAI及其首席执行官奥尔特曼，指控聊天机器人ChatGPT诱导其女儿走向自杀。近期已有多起诉讼指责该公司未能管控用户与聊天机器人之间的危险对话，本案是最新一例。这起诉讼提交至旧金山州法院。原告克里斯蒂·卡里尔说，女儿艾丽斯离世前曾十数次向ChatGPT倾诉自杀念头，但OpenAI的安全系统既未将相关对话标记并转交人工审核，也没有终止对话。OpenAI方面称，公司对模型进行过专项训练，当用户流露自残、自杀倾向时，模型会引导其寻求帮助，并对接现实中的救助资源。——新浪财经",
-      "datetime": "2026-06-14T12:41:53+00:00",
-      "views": "959",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-06-14%2Fdoc-iniciymw7546579.shtml"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30088",
-      "scraped_at": "2026-06-14T21:00:14.909063",
-      "title": "母亲起诉OpenAI致女儿自杀",
-      "title_options": {
-        "conclusion": "母亲起诉OpenAI致女儿自杀",
-        "attractive": "ChatGPT诱导少女自杀",
-        "minimal": "OpenAI诉讼自杀案",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -955,6 +901,6 @@
       }
     }
   ],
-  "count": 38,
-  "updated_at": "2026-06-16T00:41:34.458730"
+  "count": 36,
+  "updated_at": "2026-06-16T00:46:38.771411"
 }
