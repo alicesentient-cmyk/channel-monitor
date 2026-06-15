@@ -5455,5 +5455,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-15T20:01:05.830464"
+  },
+  "xhqcankao_30107": {
+    "ai_title": "腾讯参投林俊旸AI公司",
+    "title_options": {
+      "conclusion": "腾讯参投林俊旸AI公司",
+      "attractive": "林俊旸AI公司估值20亿美元",
+      "minimal": "腾讯 林俊旸 AI 融资",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T21:02:17.646346"
+  },
+  "xhqcankao_30108": {
+    "ai_title": "美太阳能发电首超燃煤",
+    "title_options": {
+      "conclusion": "美太阳能发电首超燃煤",
+      "attractive": "太阳能发电量首超燃煤",
+      "minimal": "太阳能超燃煤",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T21:02:17.839880"
+  },
+  "zaihuapd_41964": {
+    "ai_title": "Rio 3.5被证实套壳Nex与Qwen",
+    "title_options": {
+      "conclusion": "Rio 3.5被证实套壳Nex与Qwen",
+      "attractive": "79%概率自称Nex，模型套壳实锤",
+      "minimal": "Rio 3.5套壳Nex与Qwen",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T21:02:17.958921"
   }
 }
