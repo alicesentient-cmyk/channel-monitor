@@ -708,41 +708,6 @@
       }
     },
     {
-      "id": "zaihuapd_41944",
-      "channel": "zaihuapd",
-      "text": "美一季度 75 个数据中心项目被阻，总值约 1300 亿美元2026 年第一季度，美国全国至少有 75 个数据中心建设项目被阻止或推迟，总价值约 1300 亿美元，数量已与 2025 年全年持平。社区及跨党派政治人物对能源消耗与环境影响的担忧显著升温。研究显示，全国活跃的草根反对组织在三个月内从 396 个激增至 833 个，遍布 49 个州。各州议会第一季度提出大量监管法案，部分联邦议员也推动暂停数据中心建设的立法提案。Tom's Hardware|NBC News",
-      "clean_text": "美一季度 75 个数据中心项目被阻，总值约 1300 亿美元2026 年第一季度，美国全国至少有 75 个数据中心建设项目被阻止或推迟，总价值约 1300 亿美元，数量已与 2025 年全年持平。社区及跨党派政治人物对能源消耗与环境影响的担忧显著升温。研究显示，全国活跃的草根反对组织在三个月内从 396 个激增至 833 个，遍布 49 个州。各州议会第一季度提出大量监管法案，部分联邦议员也推动暂停数据中心建设的立法提案。Tom's Hardware|NBC News·备用频道",
-      "datetime": "2026-06-14T03:03:07+00:00",
-      "views": "4.1K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs"
-        },
-        {
-          "text": "NBC News",
-          "url": "https://www.nbcnews.com/tech/tech-news/data-center-opposition-sharply-rising-2026-study-finds-rcna349728"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41944",
-      "scraped_at": "2026-06-14T12:00:15.550163",
-      "title": "美75个数据中心项目被阻",
-      "title_options": {
-        "conclusion": "美75个数据中心项目被阻",
-        "attractive": "1300亿美元项目遭搁置",
-        "minimal": "数据中心项目受阻",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -778,6 +743,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-06-15T15:02:17.589858"
+  "count": 30,
+  "updated_at": "2026-06-15T15:07:21.615444"
 }
