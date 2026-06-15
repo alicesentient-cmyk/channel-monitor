@@ -5217,5 +5217,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-15T08:02:31.022682"
+  },
+  "zaihuapd_41954": {
+    "ai_title": "美伊达成协议开放海峡",
+    "title_options": {
+      "conclusion": "美伊达成协议开放海峡",
+      "attractive": "制裁松绑换伊朗核限制",
+      "minimal": "霍尔木兹海峡开放",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T09:03:07.776166"
+  },
+  "xhqcankao_30092": {
+    "ai_title": "ChatGPT月活突破10亿",
+    "title_options": {
+      "conclusion": "ChatGPT月活突破10亿",
+      "attractive": "ChatGPT最快达10亿用户",
+      "minimal": "ChatGPT月活10亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T09:03:07.807667"
+  },
+  "xhqcankao_30093": {
+    "ai_title": "美对Anthropic出口管制",
+    "title_options": {
+      "conclusion": "美对Anthropic出口管制",
+      "attractive": "过度依赖模型风险",
+      "minimal": "美加AI管制风险",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-15T09:03:07.821490"
   }
 }
