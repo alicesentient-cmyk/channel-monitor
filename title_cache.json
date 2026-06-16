@@ -6136,5 +6136,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T00:01:38.076021"
+  },
+  "xhqcankao_30146": {
+    "ai_title": "三星强化Galaxy安全防护",
+    "title_options": {
+      "conclusion": "三星强化Galaxy安全防护",
+      "attractive": "新机可屏蔽恶意应用",
+      "minimal": "三星安全防护升级",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T01:02:27.159923"
+  },
+  "zaihuapd_41996": {
+    "ai_title": "国产7nm光刻机交付",
+    "title_options": {
+      "conclusion": "国产7nm光刻机交付",
+      "attractive": "7nm光刻机打破垄断",
+      "minimal": "光刻机交付7nm",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T01:02:27.286178"
+  },
+  "xhqcankao_30145": {
+    "ai_title": "英国拟限数据中心高峰用电",
+    "title_options": {
+      "conclusion": "英国拟限数据中心高峰用电",
+      "attractive": "AI需求激增，英国限电",
+      "minimal": "英国数据中心限电",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T01:02:27.326086"
   }
 }
