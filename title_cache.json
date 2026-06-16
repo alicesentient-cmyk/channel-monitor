@@ -6077,5 +6077,64 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T23:00:46.806455"
+  },
+  "zaihuapd_41995": {
+    "ai_title": "Ready Card停用退费",
+    "title_options": {
+      "conclusion": "Ready Card停用退费",
+      "attractive": "非EEA用户1小时停卡",
+      "minimal": "加密卡停用退费",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T00:01:36.467574"
+  },
+  "xhqcankao_30143": {
+    "ai_title": "SpaceX 600亿美元收购Curs…",
+    "title_options": {
+      "conclusion": "SpaceX 600亿美元收购Curs…",
+      "attractive": "SpaceX上市后首笔收购",
+      "minimal": "SpaceX收购Cursor",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T00:01:36.525848"
+  },
+  "xhqcankao_30144": {
+    "ai_title": "欧盟法院支持法国强制验证年龄",
+    "title_options": {
+      "conclusion": "欧盟法院支持法国强制验证年龄",
+      "attractive": "色情网站年龄验证，法国有权强制",
+      "minimal": "欧盟法院 法国 年龄验证",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T00:01:36.585798"
+  },
+  "zaihuapd_41994": {
+    "ai_title": "OpenAI全线性能下降",
+    "title_options": {
+      "conclusion": "OpenAI全线性能下降",
+      "attractive": "Codex短时故障确认",
+      "minimal": "OpenAI故障",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T00:01:38.006270"
+  },
+  "zaihuapd_41993": {
+    "ai_title": "微信AI专属卡本周上线",
+    "title_options": {
+      "conclusion": "微信AI专属卡本周上线",
+      "attractive": "支付巨头竞速AI支付",
+      "minimal": "AI支付加速布局"
+    },
+    "generated_at": "2026-06-17T00:01:38.007476"
+  },
+  "xhqcankao_30142": {
+    "ai_title": "苹果iCloud涉意大利DMA调查",
+    "title_options": {
+      "conclusion": "苹果iCloud涉意大利DMA调查",
+      "attractive": "iCloud互操作性遭调查",
+      "minimal": "苹果iCloud调查",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T00:01:38.076021"
   }
 }
