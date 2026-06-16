@@ -1680,41 +1680,6 @@
       }
     },
     {
-      "id": "zaihuapd_41965",
-      "channel": "zaihuapd",
-      "text": "Kimi 推出 K2.7 Code 高速模式，编程任务提速 6 倍Kimi 发布了开源多模态编程模型 K2.7 Code 的高速版本 K2.7 Code HighSpeed。该模式将编码任务速度提升最高约 6 倍，中位数长度输入下可达约 180 tok/s，短上下文任务最高约 260 tok/s。目前该模式已向 Kimi Code Beta 计划成员、API 开发者和商业用户分批开放，初期因容量有限采取受限访问。无需邀请，任何加入 Beta 计划的用户均有机会获得使用权限。然而，高速版本价格是普通版的两倍。X|Kimi Docs",
-      "clean_text": "Kimi 推出 K2.7 Code 高速模式，编程任务提速 6 倍Kimi 发布了开源多模态编程模型 K2.7 Code 的高速版本 K2.7 Code HighSpeed。该模式将编码任务速度提升最高约 6 倍，中位数长度输入下可达约 180 tok/s，短上下文任务最高约 260 tok/s。目前该模式已向 Kimi Code Beta 计划成员、API 开发者和商业用户分批开放，初期因容量有限采取受限访问。无需邀请，任何加入 Beta 计划的用户均有机会获得使用权限。然而，高速版本价格是普通版的两倍。X|Kimi Docs·备用频道",
-      "datetime": "2026-06-15T13:43:20+00:00",
-      "views": "2.25K",
-      "source_links": [
-        {
-          "text": "X",
-          "url": "https://x.com/i/status/2066467110960959833"
-        },
-        {
-          "text": "Kimi Docs",
-          "url": "https://platform.kimi.ai/docs/pricing/chat-k27-code"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41965",
-      "scraped_at": "2026-06-15T22:00:43.366976",
-      "title": "Kimi编程提速6倍",
-      "title_options": {
-        "conclusion": "Kimi编程提速6倍",
-        "attractive": "编程快6倍，价格翻倍",
-        "minimal": "K2.7提速6倍",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -1768,6 +1733,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-17T01:42:56.074936"
+  "count": 69,
+  "updated_at": "2026-06-17T01:47:59.631442"
 }
