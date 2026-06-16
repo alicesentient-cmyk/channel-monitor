@@ -1634,37 +1634,6 @@
       }
     },
     {
-      "id": "zaihuapd_41964",
-      "channel": "zaihuapd",
-      "text": "开源社区热捧的 Rio 3.5 模型被证实为套壳中国开源模型拿下开源 SOTA 的“里约大模型”Rio 3.5，近日被 Nex 团队揭露为套壳模型，实为 Nex 和 Qwen 的混合产物。Nex 团队称，摘掉系统提示词后，模型有 79% 的概率自称 Nex，并能复述 Nex 独有的机构介绍。对 60 层权重的分析也表明，Rio 的权重精确落在 Nex 与 Qwen 的连线上，混合比例约 0.57：0.43，共线性超过 0.98，几乎不可能为独立训练。Rio 团队随后下架涉事模型并在 HuggingFace 页面致歉，承认使用了 Nex 和 Qwen，但解释称上传的是“未经最终蒸馏的错误版本”。这并非中国模型首次被套壳，此前 Cursor 的 Composer 2 被曝实际为 Kimi，斯坦福团队的 Llama3-V 被指抄袭清华面壁的 MiniCPM-Llama3-V 2.5 等事件同样引发争议。量子位",
-      "clean_text": "开源社区热捧的 Rio 3.5 模型被证实为套壳中国开源模型拿下开源 SOTA 的“里约大模型”Rio 3.5，近日被 Nex 团队揭露为套壳模型，实为 Nex 和 Qwen 的混合产物。Nex 团队称，摘掉系统提示词后，模型有 79% 的概率自称 Nex，并能复述 Nex 独有的机构介绍。对 60 层权重的分析也表明，Rio 的权重精确落在 Nex 与 Qwen 的连线上，混合比例约 0.57：0.43，共线性超过 0.98，几乎不可能为独立训练。Rio 团队随后下架涉事模型并在 HuggingFace 页面致歉，承认使用了 Nex 和 Qwen，但解释称上传的是“未经最终蒸馏的错误版本”。这并非中国模型首次被套壳，此前 Cursor 的 Composer 2 被曝实际为 Kimi，斯坦福团队的 Llama3-V 被指抄袭清华面壁的 MiniCPM-Llama3-V 2.5 等事件同样引发争议。量子位·备用频道",
-      "datetime": "2026-06-15T12:39:05+00:00",
-      "views": "2.83K",
-      "source_links": [
-        {
-          "text": "量子位",
-          "url": "https://mp.weixin.qq.com/s/0oYevRBT8PPxG5hudOXxug"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41964",
-      "scraped_at": "2026-06-15T21:01:10.319223",
-      "title": "Rio 3.5被证实套壳Nex与Qwen",
-      "title_options": {
-        "conclusion": "Rio 3.5被证实套壳Nex与Qwen",
-        "attractive": "79%概率自称Nex，模型套壳实锤",
-        "minimal": "Rio 3.5套壳Nex与Qwen",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -1718,6 +1687,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-17T00:37:06.565539"
+  "count": 67,
+  "updated_at": "2026-06-17T00:42:10.659593"
 }
