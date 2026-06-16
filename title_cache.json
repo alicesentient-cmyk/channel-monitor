@@ -5977,5 +5977,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T20:02:48.728377"
+  },
+  "xhqcankao_30137": {
+    "ai_title": "DeepSeek融资超500亿",
+    "title_options": {
+      "conclusion": "DeepSeek融资超500亿",
+      "attractive": "梁文锋出资200亿控股",
+      "minimal": "DeepSeek 500亿融资",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T21:04:07.319700"
+  },
+  "xhqcankao_30136": {
+    "ai_title": "世界杯直播系统存漏洞",
+    "title_options": {
+      "conclusion": "世界杯直播系统存漏洞",
+      "attractive": "注册即可劫持直播",
+      "minimal": "世界杯系统漏洞",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T21:04:07.443589"
+  },
+  "zaihuapd_41989": {
+    "ai_title": "柬埔寨将试行中国公民免签",
+    "title_options": {
+      "conclusion": "柬埔寨将试行中国公民免签",
+      "attractive": "中国游客赴柬免签14天",
+      "minimal": "柬埔寨对中国免签",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T21:04:07.507335"
   }
 }
