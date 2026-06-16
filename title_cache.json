@@ -5574,5 +5574,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T08:02:19.072617"
+  },
+  "zaihuapd_41972": {
+    "ai_title": "大疆发布口袋电影机",
+    "title_options": {
+      "conclusion": "大疆发布口袋电影机",
+      "attractive": "双主摄电影机开售",
+      "minimal": "大疆Osmo Pocket 4P"
+    },
+    "generated_at": "2026-06-16T09:02:57.992844"
+  },
+  "xhqcankao_30112": {
+    "ai_title": "华为畅享90成千元爆款",
+    "title_options": {
+      "conclusion": "华为畅享90成千元爆款",
+      "attractive": "千元机逆势增长34.89%",
+      "minimal": "华为畅享90霸榜",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T09:02:58.148029"
+  },
+  "xhqcankao_30113": {
+    "ai_title": "Meta明年限制AI预算",
+    "title_options": {
+      "conclusion": "Meta明年限制AI预算",
+      "attractive": "Meta喊停Token消耗战",
+      "minimal": "Meta限制Token预算",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T09:02:58.190828"
   }
 }
