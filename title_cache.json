@@ -6007,5 +6007,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T21:04:07.507335"
+  },
+  "xhqcankao_30138": {
+    "ai_title": "法国用本土软件取代Palantir",
+    "title_options": {
+      "conclusion": "法国用本土软件取代Palantir",
+      "attractive": "法国情报机构弃用美企",
+      "minimal": "法国替代Palantir",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T22:04:59.562503"
+  },
+  "zaihuapd_41990": {
+    "ai_title": "外卖新规明起严查幽灵厨房",
+    "title_options": {
+      "conclusion": "外卖新规明起严查幽灵厨房",
+      "attractive": "6月起外卖幽灵厨房无处藏",
+      "minimal": "外卖新规严查幽灵厨房",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T22:04:59.654963"
+  },
+  "xhqcankao_30139": {
+    "ai_title": "美特勤局试用AI面部识别",
+    "title_options": {
+      "conclusion": "美特勤局试用AI面部识别",
+      "attractive": "25名特勤配AI识别应用",
+      "minimal": "特勤局AI面部识别",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T22:04:59.656420"
   }
 }
