@@ -5673,5 +5673,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T11:05:16.454607"
+  },
+  "xhqcankao_30118": {
+    "ai_title": "加拿大限制数据定价",
+    "title_options": {
+      "conclusion": "加拿大限制数据定价",
+      "attractive": "你的数据不再被用来宰你",
+      "minimal": "数据定价受限",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T12:01:11.630912"
+  },
+  "zaihuapd_41976": {
+    "ai_title": "蚂蚁测试AI版支付宝",
+    "title_options": {
+      "conclusion": "蚂蚁测试AI版支付宝",
+      "attractive": "支付宝将推AI界面",
+      "minimal": "蚂蚁AI支付宝",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T12:01:11.648736"
+  },
+  "xhqcankao_30119": {
+    "ai_title": "谷歌地球网页端上线飞行模拟器",
+    "title_options": {
+      "conclusion": "谷歌地球网页端上线飞行模拟器",
+      "attractive": "无需下载，网页端体验飞行模拟",
+      "minimal": "谷歌地球飞行模拟器上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T12:01:11.668200"
   }
 }
