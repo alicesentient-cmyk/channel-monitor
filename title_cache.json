@@ -5907,5 +5907,45 @@
       "minimal": "专家抗议美禁令"
     },
     "generated_at": "2026-06-16T18:01:17.644042"
+  },
+  "zaihuapd_41986": {
+    "ai_title": "腾讯将推网盘服务",
+    "title_options": {
+      "conclusion": "腾讯将推网盘服务",
+      "attractive": "腾讯网盘上线多钻",
+      "minimal": "腾讯网盘上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T19:02:00.407141"
+  },
+  "xhqcankao_30134": {
+    "ai_title": "印度封锁Telegram七天",
+    "title_options": {
+      "conclusion": "印度封锁Telegram七天",
+      "attractive": "医考舞弊，Telegram被封",
+      "minimal": "印度封Telegram",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T19:02:00.491465"
+  },
+  "xhqcankao_30133": {
+    "ai_title": "日本版GPS8月发射",
+    "title_options": {
+      "conclusion": "日本版GPS8月发射",
+      "attractive": "H3火箭再发射引路卫星",
+      "minimal": "引路7号机8月发射",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T19:02:00.516339"
+  },
+  "xhqcankao_30132": {
+    "ai_title": "高通推40多款AI设备",
+    "title_options": {
+      "conclusion": "高通推40多款AI设备",
+      "attractive": "智能体将取代应用",
+      "minimal": "高通AI设备浪潮",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T19:02:02.481379"
   }
 }
