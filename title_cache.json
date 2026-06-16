@@ -5603,5 +5603,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T09:02:58.190828"
+  },
+  "xhqcankao_30115": {
+    "ai_title": "HDD短缺或延至2028",
+    "title_options": {
+      "conclusion": "HDD短缺或延至2028",
+      "attractive": "硬盘短缺延至2028",
+      "minimal": "HDD短缺延至2028",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T10:04:14.403348"
+  },
+  "xhqcankao_30114": {
+    "ai_title": "Xbox工作室面临关闭",
+    "title_options": {
+      "conclusion": "Xbox工作室面临关闭",
+      "attractive": "Xbox工作室自救谈判",
+      "minimal": "Xbox工作室关闭",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T10:04:14.652635"
+  },
+  "zaihuapd_41973": {
+    "ai_title": "鸿蒙获最高安全认证",
+    "title_options": {
+      "conclusion": "鸿蒙获最高安全认证",
+      "attractive": "鸿蒙非套壳获认证",
+      "minimal": "鸿蒙安全认证",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T10:04:14.678307"
   }
 }
