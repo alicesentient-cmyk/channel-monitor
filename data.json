@@ -1396,37 +1396,6 @@
       }
     },
     {
-      "id": "zaihuapd_41958",
-      "channel": "zaihuapd",
-      "text": "字节跳动洽购天数智芯 AI 芯片，考虑引入百度芯片字节跳动正与上海芯片公司天数智芯洽谈采购 AI 芯片，主要用于 AI 推理任务，并同时考虑引入百度昆仑芯。若交易达成，天数智芯将成为字节跳动继华为、寒武纪之后的第三大国产 GPU 供应商，今年有望向其交付至少 5 万颗芯片。路透社报道发布后，该公司港股股价上涨 12%。Reuters",
-      "clean_text": "字节跳动洽购天数智芯 AI 芯片，考虑引入百度芯片字节跳动正与上海芯片公司天数智芯洽谈采购 AI 芯片，主要用于 AI 推理任务，并同时考虑引入百度昆仑芯。若交易达成，天数智芯将成为字节跳动继华为、寒武纪之后的第三大国产 GPU 供应商，今年有望向其交付至少 5 万颗芯片。路透社报道发布后，该公司港股股价上涨 12%。Reuters·备用频道",
-      "datetime": "2026-06-15T06:53:24+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/world/china/bytedance-talks-with-chinas-iluvatar-corex-purchase-ai-chips-sources-say-2026-06-15/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41958",
-      "scraped_at": "2026-06-15T15:00:30.301605",
-      "title": "字节洽购天数智芯AI芯片",
-      "title_options": {
-        "conclusion": "字节洽购天数智芯AI芯片",
-        "attractive": "字节拟引入百度芯片",
-        "minimal": "字节 天数智芯 AI芯片",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -1480,6 +1449,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-06-16T18:51:51.903124"
+  "count": 58,
+  "updated_at": "2026-06-16T18:56:55.305837"
 }
