@@ -5732,5 +5732,44 @@
       "minimal": "土耳其 比亚迪 免税 返还"
     },
     "generated_at": "2026-06-16T13:02:01.753822"
+  },
+  "xhqcankao_30122": {
+    "ai_title": "Meta推AI模式",
+    "title_options": {
+      "conclusion": "Meta推AI模式",
+      "attractive": "Facebook新AI搜索",
+      "minimal": "AI模式上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T14:02:58.061345"
+  },
+  "zaihuapd_41979": {
+    "ai_title": "谷歌地球网页版上线飞行模拟器",
+    "title_options": {
+      "conclusion": "谷歌地球网页版上线飞行模拟器",
+      "attractive": "浏览器开飞机，免费体验",
+      "minimal": "谷歌地球飞行模拟器",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T14:02:58.128128"
+  },
+  "xhqcankao_30123": {
+    "ai_title": "加拿大允许进口中国电动车",
+    "title_options": {
+      "conclusion": "加拿大允许进口中国电动车",
+      "attractive": "加方称进口仅占销量3%",
+      "minimal": "加拿大 中国 电动车 进口"
+    },
+    "generated_at": "2026-06-16T14:02:58.161444"
+  },
+  "zaihuapd_41978": {
+    "ai_title": "Qwen发布机器人三模型套件",
+    "title_options": {
+      "conclusion": "Qwen发布机器人三模型套件",
+      "attractive": "机器人套件覆盖导航操作建模",
+      "minimal": "Qwen机器人三模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T14:02:59.369601"
   }
 }
