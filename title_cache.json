@@ -5544,5 +5544,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T01:01:52.536040"
+  },
+  "xhqcankao_30111": {
+    "ai_title": "福克斯220亿美元收购Roku",
+    "title_options": {
+      "conclusion": "福克斯220亿美元收购Roku",
+      "attractive": "220亿收购Roku，福克斯押注流媒体",
+      "minimal": "福克斯收购Roku",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T08:02:18.941149"
+  },
+  "zaihuapd_41971": {
+    "ai_title": "赛力斯人形机器人亮相",
+    "title_options": {
+      "conclusion": "赛力斯人形机器人亮相",
+      "attractive": "年内推多款具身智能",
+      "minimal": "赛力斯机器人亮相",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T08:02:19.014738"
+  },
+  "xhqcankao_30110": {
+    "ai_title": "英伟达拟发债200亿美元",
+    "title_options": {
+      "conclusion": "英伟达拟发债200亿美元",
+      "attractive": "英伟达发债200亿",
+      "minimal": "英伟达发债200亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T08:02:19.072617"
   }
 }
