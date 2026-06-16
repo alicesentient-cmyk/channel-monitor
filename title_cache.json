@@ -5809,5 +5809,35 @@
       "minimal": "苏春槐 台资政"
     },
     "generated_at": "2026-06-16T15:04:06.654990"
+  },
+  "xhqcankao_30127": {
+    "ai_title": "阿里发布具身大模型",
+    "title_options": {
+      "conclusion": "阿里发布具身大模型",
+      "attractive": "机器人操作移动认知",
+      "minimal": "阿里Qwen-Robot系列",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T16:04:55.740164"
+  },
+  "zaihuapd_41982": {
+    "ai_title": "OpenAI去年支出340亿美元",
+    "title_options": {
+      "conclusion": "OpenAI去年支出340亿美元",
+      "attractive": "研发投入190亿美元",
+      "minimal": "OpenAI支出340亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T16:04:55.850695"
+  },
+  "xhqcankao_30126": {
+    "ai_title": "通用汽车为洛克希德造武器零件",
+    "title_options": {
+      "conclusion": "通用汽车为洛克希德造武器零件",
+      "attractive": "通用汽车转产武器零件",
+      "minimal": "通用汽车 武器零件",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T16:04:56.015588"
   }
 }
