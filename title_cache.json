@@ -5633,5 +5633,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T10:04:14.678307"
+  },
+  "zaihuapd_41974": {
+    "ai_title": "苹果统一登录与隐藏邮件域名",
+    "title_options": {
+      "conclusion": "苹果统一登录与隐藏邮件域名",
+      "attractive": "开发者需更新域名白名单",
+      "minimal": "苹果域名统一",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T11:05:15.159680"
+  },
+  "zaihuapd_41975": {
+    "ai_title": "Anthropic被诉计划限额不实",
+    "title_options": {
+      "conclusion": "Anthropic被诉计划限额不实",
+      "attractive": "AI订阅计划限额虚假宣传",
+      "minimal": "Anthropic集体诉讼",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T11:05:15.520305"
+  },
+  "xhqcankao_30117": {
+    "ai_title": "Anthropic赴华盛顿解禁令",
+    "title_options": {
+      "conclusion": "Anthropic赴华盛顿解禁令",
+      "attractive": "AI出口限制如何破局",
+      "minimal": "Anthropic禁令谈判",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T11:05:15.627229"
+  },
+  "xhqcankao_30116": {
+    "ai_title": "中国黑客入侵北美医疗研究机构",
+    "title_options": {
+      "conclusion": "中国黑客入侵北美医疗研究机构",
+      "attractive": "北美医疗数据被窃一年未察觉",
+      "minimal": "中国黑客 北美医疗 数据窃取",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T11:05:16.454607"
   }
 }
