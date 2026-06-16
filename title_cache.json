@@ -5771,5 +5771,43 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T14:02:59.369601"
+  },
+  "zaihuapd_41980": {
+    "ai_title": "GitHub将迁移至Azure",
+    "title_options": {
+      "conclusion": "GitHub将迁移至Azure",
+      "attractive": "GitHub两年内脱离数据中心",
+      "minimal": "GitHub迁移Azure",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T15:04:05.146347"
+  },
+  "xhqcankao_30125": {
+    "ai_title": "三星代工Neuralink芯片",
+    "title_options": {
+      "conclusion": "三星代工Neuralink芯片",
+      "attractive": "台积电或退出代工",
+      "minimal": "三星Neuralink合作"
+    },
+    "generated_at": "2026-06-16T15:04:05.318275"
+  },
+  "zaihuapd_41981": {
+    "ai_title": "中国制球内芯片助判进球有效",
+    "title_options": {
+      "conclusion": "中国制球内芯片助判进球有效",
+      "attractive": "替补17秒进球，芯片定乾坤",
+      "minimal": "中国芯片球，VAR判进球",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T15:04:05.644398"
+  },
+  "xhqcankao_30124": {
+    "ai_title": "苏姿丰父亲任台资政",
+    "title_options": {
+      "conclusion": "苏姿丰父亲任台资政",
+      "attractive": "AMD CEO父任赖清德资政",
+      "minimal": "苏春槐 台资政"
+    },
+    "generated_at": "2026-06-16T15:04:06.654990"
   }
 }
