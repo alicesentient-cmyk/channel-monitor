@@ -6037,5 +6037,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-16T22:04:59.656420"
+  },
+  "zaihuapd_41991": {
+    "ai_title": "ChatGPT份额跌至68%",
+    "title_options": {
+      "conclusion": "ChatGPT份额跌至68%",
+      "attractive": "Gemini份额激增至18%",
+      "minimal": "AI市场分化加速",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T23:00:45.404194"
+  },
+  "xhqcankao_30141": {
+    "ai_title": "Threads月活破5亿",
+    "title_options": {
+      "conclusion": "Threads月活破5亿",
+      "attractive": "Threads用户破5亿",
+      "minimal": "Threads 5亿用户",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T23:00:45.470387"
+  },
+  "zaihuapd_41992": {
+    "ai_title": "小米MiMo Claw免费时长升至4小时",
+    "title_options": {
+      "conclusion": "小米MiMo Claw免费时长升至4小时",
+      "attractive": "免费用户每日体验增至4小时",
+      "minimal": "小米MiMo Claw免费4小时",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T23:00:45.544468"
+  },
+  "xhqcankao_30140": {
+    "ai_title": "ChatGPT份额跌破50%",
+    "title_options": {
+      "conclusion": "ChatGPT份额跌破50%",
+      "attractive": "Gemini抢走27.7%市场",
+      "minimal": "ChatGPT份额46.4%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-16T23:00:46.806455"
   }
 }

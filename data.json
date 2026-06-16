@@ -1,6 +1,101 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_41992",
+      "channel": "zaihuapd",
+      "text": "小米 MiMo Claw 正式版发布，免费用户每日体验时长升至 4 小时小米 MiMo Claw 正式版上线，与金山办公合作推出文档办公提效方案。免费用户权益升级，每日单次体验时长从 1 小时延长至 4 小时，并开放全部核心功能。服务基于 MiMo-V2.5-Pro 模型，采用云端托管，支持 Word、Excel、PPT、PDF 等多格式文档生成与在线编辑。面向高频用户推出 TokenPlan 分层订阅，可灵活叠加至现有套餐，首次特惠价每月 14.9 元，年付 233.8 元。Xiaomi MiMo",
+      "clean_text": "小米 MiMo Claw 正式版发布，免费用户每日体验时长升至 4 小时小米 MiMo Claw 正式版上线，与金山办公合作推出文档办公提效方案。免费用户权益升级，每日单次体验时长从 1 小时延长至 4 小时，并开放全部核心功能。服务基于 MiMo-V2.5-Pro 模型，采用云端托管，支持 Word、Excel、PPT、PDF 等多格式文档生成与在线编辑。面向高频用户推出 TokenPlan 分层订阅，可灵活叠加至现有套餐，首次特惠价每月 14.9 元，年付 233.8 元。Xiaomi MiMo·备用频道",
+      "datetime": "2026-06-16T14:50:19+00:00",
+      "views": "1.8K",
+      "source_links": [
+        {
+          "text": "Xiaomi MiMo",
+          "url": "https://mp.weixin.qq.com/s/N5ac768a8LkhEjOVpkR1dQ"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/41992",
+      "scraped_at": "2026-06-16T23:00:16.687476",
+      "title": "小米MiMo Claw免费时长升至4小时",
+      "title_options": {
+        "conclusion": "小米MiMo Claw免费时长升至4小时",
+        "attractive": "免费用户每日体验增至4小时",
+        "minimal": "小米MiMo Claw免费4小时",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30141",
+      "channel": "xhqcankao",
+      "text": "社交平台Threads月活跃用户突破五亿Meta 于周二宣布，Threads 的月活跃用户已超过五亿，在该平台即将迎来三周年之际达到这一里程碑。Threads在2023年开局火热，达到一亿用户的速度甚至比ChatGPT还快，首席执行官马克·扎克伯格曾表示，他认为Threads可能达到10亿用户。Meta公司表示，Threads上的日活跃用户继续“在全球范围内强劲增长”，且“全部”增长由社区功能驱动，社区功能允许用户查看和发布关于不同主题的帖子。该公司正在结束测试阶段，并在Threads菜单中增加社区中心等功能，同时赋予社区各自 “独特的视觉标识”。该社交平台还引入了一项新功能，让用户能够更好地控制算法在信息流中显示的内容。",
+      "clean_text": "社交平台Threads月活跃用户突破五亿Meta 于周二宣布，Threads 的月活跃用户已超过五亿，在该平台即将迎来三周年之际达到这一里程碑。Threads在2023年开局火热，达到一亿用户的速度甚至比ChatGPT还快，首席执行官马克·扎克伯格曾表示，他认为Threads可能达到10亿用户。Meta公司表示，Threads上的日活跃用户继续“在全球范围内强劲增长”，且“全部”增长由社区功能驱动，社区功能允许用户查看和发布关于不同主题的帖子。该公司正在结束测试阶段，并在Threads菜单中增加社区中心等功能，同时赋予社区各自 “独特的视觉标识”。该社交平台还引入了一项新功能，让用户能够更好地控制算法在信息流中显示的内容。——Theverge",
+      "datetime": "2026-06-16T14:33:50+00:00",
+      "views": "1.25K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/tech/950480/meta-threads-500-million-monthly-active-users-communities-your-algo"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30141",
+      "scraped_at": "2026-06-16T23:00:20.114774",
+      "title": "Threads月活破5亿",
+      "title_options": {
+        "conclusion": "Threads月活破5亿",
+        "attractive": "Threads用户破5亿",
+        "minimal": "Threads 5亿用户",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_41991",
+      "channel": "zaihuapd",
+      "text": "全球AI追踪报告：生成式AI市场分化加速，ChatGPT份额下滑  根据Similarweb发布的最新《全球AI追踪报告》（数据截至2025年12月），全球生成式AI市场正呈现显著的分化趋势。数据显示，ChatGPT去年同期的87.2%下滑到68.0%份额。Gemini市场份额从5.4%激增至18.2%。DeepSeek表现出强劲的增长势头，市场份额升至约4.0%。  报告进一步指出，AI工具的市场格局正从“一家独大”向“多强并存”转变，用户选择日趋多样化。数据表明，随着AI应用场景的细分，用户开始根据特…",
+      "clean_text": "全球AI追踪报告：生成式AI市场分化加速，ChatGPT份额下滑  根据Similarweb发布的最新《全球AI追踪报告》（数据截至2025年12月），全球生成式AI市场正呈现显著的分化趋势。数据显示，ChatGPT去年同期的87.2%下滑到68.0%份额。Gemini市场份额从5.4%激增至18.2%。DeepSeek表现出强劲的增长势头，市场份额升至约4.0%。  报告进一步指出，AI工具的市场格局正从“一家独大”向“多强并存”转变，用户选择日趋多样化。数据表明，随着AI应用场景的细分，用户开始根据特…",
+      "datetime": "2026-06-16T14:05:19+00:00",
+      "views": "5.58K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/41991",
+      "scraped_at": "2026-06-16T23:00:16.686913",
+      "title": "ChatGPT份额跌至68%",
+      "title_options": {
+        "conclusion": "ChatGPT份额跌至68%",
+        "attractive": "Gemini份额激增至18%",
+        "minimal": "AI市场分化加速",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30140",
+      "channel": "xhqcankao",
+      "text": "OpenAI ChatGPT的市场份额首次跌破50%在ChatGPT最初发布三年半多之后，AI助手如今被全球许多人使用，且竞争格局正在迅速变化。虽然OpenAI的聊天机器人仍然是全球最受欢迎的助手，但根据分析公司Sensor Tower的《2026年AI状况报告》，其全球市场份额首次跌破50%，因为用户正在谷歌的Gemini、Anthropic的Claude和xAI的Grok等不同助手之间迁移。直到1月，ChatGPT还占据超过50%的市场份额，但到5月底，由于Gemini（27.7%）和Claude（10.3%）的崛起，其份额已降至46.4%。其他助手，包括Grok、Perplexity、DeepSeek和Meta AI，市场份额均低于5%。",
+      "clean_text": "OpenAI ChatGPT的市场份额首次跌破50%在ChatGPT最初发布三年半多之后，AI助手如今被全球许多人使用，且竞争格局正在迅速变化。虽然OpenAI的聊天机器人仍然是全球最受欢迎的助手，但根据分析公司Sensor Tower的《2026年AI状况报告》，其全球市场份额首次跌破50%，因为用户正在谷歌的Gemini、Anthropic的Claude和xAI的Grok等不同助手之间迁移。直到1月，ChatGPT还占据超过50%的市场份额，但到5月底，由于Gemini（27.7%）和Claude（10.3%）的崛起，其份额已降至46.4%。其他助手，包括Grok、Perplexity、DeepSeek和Meta AI，市场份额均低于5%。——Techcrunch",
+      "datetime": "2026-06-16T14:03:40+00:00",
+      "views": "2.24K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30140",
+      "scraped_at": "2026-06-16T23:00:20.114377",
+      "title": "ChatGPT份额跌破50%",
+      "title_options": {
+        "conclusion": "ChatGPT份额跌破50%",
+        "attractive": "Gemini抢走27.7%市场",
+        "minimal": "ChatGPT份额46.4%",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30139",
       "channel": "xhqcankao",
       "text": "美特勤局试用AI面部识别工具排查潜在威胁近期，美国特勤局开始使用一款面部识别手机应用，以协助排查潜在威胁并识别可疑分子，这也是移民局大规模驱逐非法移民行动的一部分。官员透露，特勤局上个月达成了一项实用面部识别技术的协议，开始向一小群警员推广使用。目前仅有25名驻华盛顿的特勤局警员配备了应用。他们主要负责保护政府大楼、外国使馆和白宫。特勤局新推出的应用名为 “哨兵”（Sentry），与移民执法人员使用的工具类似，利用人工智能技术来识别身份。官员透露，特勤人员只要用手机摄像头扫描面部或指纹，应用就会将这些图像与庞大的政府数据库进行比对。",
@@ -1573,6 +1668,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-16T22:55:40.422524"
+  "count": 67,
+  "updated_at": "2026-06-16T23:00:46.817095"
 }
