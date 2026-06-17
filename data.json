@@ -1592,29 +1592,6 @@
       }
     },
     {
-      "id": "xhqcankao_30141",
-      "channel": "xhqcankao",
-      "text": "社交平台Threads月活跃用户突破五亿Meta 于周二宣布，Threads 的月活跃用户已超过五亿，在该平台即将迎来三周年之际达到这一里程碑。Threads在2023年开局火热，达到一亿用户的速度甚至比ChatGPT还快，首席执行官马克·扎克伯格曾表示，他认为Threads可能达到10亿用户。Meta公司表示，Threads上的日活跃用户继续“在全球范围内强劲增长”，且“全部”增长由社区功能驱动，社区功能允许用户查看和发布关于不同主题的帖子。该公司正在结束测试阶段，并在Threads菜单中增加社区中心等功能，同时赋予社区各自 “独特的视觉标识”。该社交平台还引入了一项新功能，让用户能够更好地控制算法在信息流中显示的内容。",
-      "clean_text": "社交平台Threads月活跃用户突破五亿Meta 于周二宣布，Threads 的月活跃用户已超过五亿，在该平台即将迎来三周年之际达到这一里程碑。Threads在2023年开局火热，达到一亿用户的速度甚至比ChatGPT还快，首席执行官马克·扎克伯格曾表示，他认为Threads可能达到10亿用户。Meta公司表示，Threads上的日活跃用户继续“在全球范围内强劲增长”，且“全部”增长由社区功能驱动，社区功能允许用户查看和发布关于不同主题的帖子。该公司正在结束测试阶段，并在Threads菜单中增加社区中心等功能，同时赋予社区各自 “独特的视觉标识”。该社交平台还引入了一项新功能，让用户能够更好地控制算法在信息流中显示的内容。——Theverge",
-      "datetime": "2026-06-16T14:33:50+00:00",
-      "views": "1.25K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/950480/meta-threads-500-million-monthly-active-users-communities-your-algo"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30141",
-      "scraped_at": "2026-06-16T23:00:20.114774",
-      "title": "Threads月活破5亿",
-      "title_options": {
-        "conclusion": "Threads月活破5亿",
-        "attractive": "Threads用户破5亿",
-        "minimal": "Threads 5亿用户",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1633,6 +1610,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-18T02:32:38.801067"
+  "count": 64,
+  "updated_at": "2026-06-18T02:37:43.462790"
 }
