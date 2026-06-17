@@ -6363,5 +6363,24 @@
       "minimal": "法国量子加密认证"
     },
     "generated_at": "2026-06-17T14:01:40.911227"
+  },
+  "xhqcankao_30162": {
+    "ai_title": "台多名公众人物账号被封",
+    "title_options": {
+      "conclusion": "台多名公众人物账号被封",
+      "attractive": "Meta误封台政治人物账号",
+      "minimal": "台账号被封",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T15:02:31.693261"
+  },
+  "xhqcankao_30161": {
+    "ai_title": "美放宽玩具无人机进口",
+    "title_options": {
+      "conclusion": "美放宽玩具无人机进口",
+      "attractive": "玩具无人机获豁免",
+      "minimal": "美放宽玩具无人机"
+    },
+    "generated_at": "2026-06-17T15:02:31.830020"
   }
 }
