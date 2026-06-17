@@ -6382,5 +6382,44 @@
       "minimal": "美放宽玩具无人机"
     },
     "generated_at": "2026-06-17T15:02:31.830020"
+  },
+  "xhqcankao_30164": {
+    "ai_title": "OpenAI去年支出340亿美元",
+    "title_options": {
+      "conclusion": "OpenAI去年支出340亿美元",
+      "attractive": "收入130亿，支出340亿",
+      "minimal": "OpenAI支出340亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T16:03:28.909329"
+  },
+  "zaihuapd_42007": {
+    "ai_title": "市场监管总局约谈山姆总部",
+    "title_options": {
+      "conclusion": "市场监管总局约谈山姆总部",
+      "attractive": "山姆食品安全问题被约谈",
+      "minimal": "山姆被约谈",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T16:03:28.972035"
+  },
+  "xhqcankao_30163": {
+    "ai_title": "苹果将改隐藏邮件功能",
+    "title_options": {
+      "conclusion": "苹果将改隐藏邮件功能",
+      "attractive": "匿名邮件地址将失效",
+      "minimal": "苹果隐藏邮件变更",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T16:03:29.101860"
+  },
+  "zaihuapd_42006": {
+    "ai_title": "iPhone 18全系支持Siri AI",
+    "title_options": {
+      "conclusion": "iPhone 18全系支持Siri AI",
+      "attractive": "799美元体验完整AI",
+      "minimal": "iPhone 18 Siri AI"
+    },
+    "generated_at": "2026-06-17T16:03:30.243149"
   }
 }
