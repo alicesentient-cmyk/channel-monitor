@@ -1,6 +1,99 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30153",
+      "channel": "xhqcankao",
+      "text": "哪吒探针高危漏洞引发主机圈恐慌知名开源服务器监控工具 Nezha（哪吒探针）近期被披露存在高危的未授权目录遍历漏洞（CVE-2026-53519，CVSS评分高达 9.1）。该漏洞影响 2.0.13 之前的版本，攻击者无需任何权限，即可实现对管理员面板的完全接管。该漏洞源于后端路由的匹配缺陷。攻击者可以越权读取服务器工作目录下的任意文件。能直接下载包含核心密钥的 config.yaml 文件及 SQLite 数据库。在获取 JWT 密钥和管理员 ID 后，攻击者可自行伪造合法的管理员 Session 并无感登入后台，获得对所有服务器、用户及定时任务的最高读写权限。官方已紧急发布 2.0.13 版本修复此问题。由于哪吒探针在中文主机圈中装机量很大，因此影响范围极大，DMIT等主机运营商已发布警告，建议用户立即采取措施。",
+      "clean_text": "哪吒探针高危漏洞引发主机圈恐慌知名开源服务器监控工具 Nezha（哪吒探针）近期被披露存在高危的未授权目录遍历漏洞（CVE-2026-53519，CVSS评分高达 9.1）。该漏洞影响 2.0.13 之前的版本，攻击者无需任何权限，即可实现对管理员面板的完全接管。该漏洞源于后端路由的匹配缺陷。攻击者可以越权读取服务器工作目录下的任意文件。能直接下载包含核心密钥的 config.yaml 文件及 SQLite 数据库。在获取 JWT 密钥和管理员 ID 后，攻击者可自行伪造合法的管理员 Session 并无感登入后台，获得对所有服务器、用户及定时任务的最高读写权限。官方已紧急发布 2.0.13 版本修复此问题。由于哪吒探针在中文主机圈中装机量很大，因此影响范围极大，DMIT等主机运营商已发布警告，建议用户立即采取措施。",
+      "datetime": "2026-06-17T01:58:46+00:00",
+      "views": "160",
+      "source_links": [],
+      "url": "https://t.me/xhqcankao/30153",
+      "scraped_at": "2026-06-17T10:00:18.175723",
+      "title": "哪吒探针高危漏洞可接管面板",
+      "title_options": {
+        "conclusion": "哪吒探针高危漏洞可接管面板",
+        "attractive": "无需密码即可控制服务器",
+        "minimal": "哪吒探针漏洞",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30152",
+      "channel": "xhqcankao",
+      "text": "美商务部长警告信曝光：Anthropic未经许可向外国人提供AI模型将被处罚美国商务部长霍华德·卢特尼克上周五在一封信中警告 Anthropic 公司，该公司若要让外国人使用其最先进的AI模型，必须获得政府许可。卢特尼克还威胁称，如果该公司未能遵守规定，将面临刑事和民事处罚。这封信要求 Anthropic 未经商务部许可，不得将其Fable 5和Mythos 5 AI模型提供给世界任何地方的外国公民。卢特尼克没有说明实施这些限制的必要依据，但他在信中援引了美国法律，该法允许政府对可能被对手国家军方用于情报目的的民用技术实施出口管制。美国商务部的这一指令促使 Anthropic 在上周五晚间暂停了对这两个模型的所有访问。",
+      "clean_text": "美商务部长警告信曝光：Anthropic未经许可向外国人提供AI模型将被处罚美国商务部长霍华德·卢特尼克上周五在一封信中警告 Anthropic 公司，该公司若要让外国人使用其最先进的AI模型，必须获得政府许可。卢特尼克还威胁称，如果该公司未能遵守规定，将面临刑事和民事处罚。这封信要求 Anthropic 未经商务部许可，不得将其Fable 5和Mythos 5 AI模型提供给世界任何地方的外国公民。卢特尼克没有说明实施这些限制的必要依据，但他在信中援引了美国法律，该法允许政府对可能被对手国家军方用于情报目的的民用技术实施出口管制。美国商务部的这一指令促使 Anthropic 在上周五晚间暂停了对这两个模型的所有访问。——凤凰网科技、彭博社",
+      "datetime": "2026-06-17T01:32:14+00:00",
+      "views": "1.25K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006uSYCY---_7ERuNLOkJ1UjnNtFOkhtnFFrx3AniR-_88--x4URyqAd3JVC-_MeaqN3BWPl"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30152",
+      "scraped_at": "2026-06-17T10:00:18.175405",
+      "title": "美警告Anthropic勿向外国人提供…",
+      "title_options": {
+        "conclusion": "美警告Anthropic勿向外国人提供…",
+        "attractive": "未经许可提供AI模型将面临处罚",
+        "minimal": "美商务部长警告Anthropic",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42001",
+      "channel": "zaihuapd",
+      "text": "哪吒监控探针存在 CVSS 评分为 9.1 的高危路径穿越漏洞  哪吒监控（Nezha）v2.0.13 以下版本存在严重未授权路径穿越漏洞，编号 CVE-2026-53519，CVSS 评分为 9.1 属高危级别。攻击者通过构造 GET 请求（如 /dashboard../data/config.yaml）即可读取配置文件，获取其中的 JWT 密钥。  Github",
+      "clean_text": "哪吒监控探针存在 CVSS 评分为 9.1 的高危路径穿越漏洞  哪吒监控（Nezha）v2.0.13 以下版本存在严重未授权路径穿越漏洞，编号 CVE-2026-53519，CVSS 评分为 9.1 属高危级别。攻击者通过构造 GET 请求（如 /dashboard../data/config.yaml）即可读取配置文件，获取其中的 JWT 密钥。  Github · 备用频道 · 投稿通道",
+      "datetime": "2026-06-17T01:25:18+00:00",
+      "views": "3.44K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42001",
+      "scraped_at": "2026-06-17T10:00:16.175112",
+      "title": "哪吒监控存高危漏洞",
+      "title_options": {
+        "conclusion": "哪吒监控存高危漏洞",
+        "attractive": "9.1分漏洞可窃密钥",
+        "minimal": "哪吒监控路径穿越",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42000",
+      "channel": "zaihuapd",
+      "text": "Android 17 正式发布：应用须自适应大屏，新增 AI 集成功能Android 17 已正式推送至支持的 Pixel 设备，源代码同步开放。该版本开始向智能系统转型，通过 AppFunctions 等接口让 Google Gemini 等 AI 助手直接调用应用内功能。同时，Android 17 将自适应大屏作为强制要求，移除开发者对大屏设备方向与尺寸锁定的规避选项，要求应用原生支持自由窗口和多种设备形态。隐私方面，新增临时权限和联系人选择器，限制应用获取完整通讯录；本地网络通信需用户授权或使用系统级设备选择器。性能上，系统将根据设备总内存强制执行严格的内存上限，并优化了垃圾回收和消息队列。此外，官方宣布 Android 开发全面转向 Jetpack Compose，传统 View 组件进入维护模式。Android Developers Blog",
+      "clean_text": "Android 17 正式发布：应用须自适应大屏，新增 AI 集成功能Android 17 已正式推送至支持的 Pixel 设备，源代码同步开放。该版本开始向智能系统转型，通过 AppFunctions 等接口让 Google Gemini 等 AI 助手直接调用应用内功能。同时，Android 17 将自适应大屏作为强制要求，移除开发者对大屏设备方向与尺寸锁定的规避选项，要求应用原生支持自由窗口和多种设备形态。隐私方面，新增临时权限和联系人选择器，限制应用获取完整通讯录；本地网络通信需用户授权或使用系统级设备选择器。性能上，系统将根据设备总内存强制执行严格的内存上限，并优化了垃圾回收和消息队列。此外，官方宣布 Android 开发全面转向 Jetpack Compose，传统 View 组件进入维护模式。Android Developers Blog·备用频道",
+      "datetime": "2026-06-17T01:02:03+00:00",
+      "views": "4.8K",
+      "source_links": [
+        {
+          "text": "Android Developers Blog",
+          "url": "https://android-developers.googleblog.com/2026/06/Android-17.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42000",
+      "scraped_at": "2026-06-17T10:00:16.174543",
+      "title": "Android 17强制大屏适配",
+      "title_options": {
+        "conclusion": "Android 17强制大屏适配",
+        "attractive": "AI助手可直接调用应用",
+        "minimal": "Android 17发布"
+      }
+    },
+    {
       "id": "xhqcankao_30151",
       "channel": "xhqcankao",
       "text": "让儿童接触有害内容 佛州起诉TikTok违法美国佛罗里达州当地时间周一起诉短视频平台TikTok，指控其违反该州2024年生效、限制儿童使用社交媒体的法律。提起该诉讼的州检察长乌斯迈尔表示，TikTok涉嫌欺骗家长，并让儿童在其应用接触有害内容，因此可能要支付 “数十亿美元的赔偿金”。他还警告，这可能只是社交媒体公司规避佛州法律的开始。有关法律禁止14岁以下儿童使用许多平台，同时要求 14 岁和 15岁的少年使用平台时必须获得父母的批准。但这名佛州总检察长称，TikTok涉嫌允许儿童接触有害内容，例如色情内容和自残视频，同时还推出了无限滚动和推送通知等令人上瘾的功能。",
@@ -1727,6 +1820,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-17T09:58:32.262137"
+  "count": 74,
+  "updated_at": "2026-06-17T10:03:38.660142"
 }

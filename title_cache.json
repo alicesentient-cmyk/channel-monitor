@@ -6225,5 +6225,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T09:02:57.459850"
+  },
+  "xhqcankao_30152": {
+    "ai_title": "美警告Anthropic勿向外国人提供…",
+    "title_options": {
+      "conclusion": "美警告Anthropic勿向外国人提供…",
+      "attractive": "未经许可提供AI模型将面临处罚",
+      "minimal": "美商务部长警告Anthropic",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T10:03:37.180390"
+  },
+  "xhqcankao_30153": {
+    "ai_title": "哪吒探针高危漏洞可接管面板",
+    "title_options": {
+      "conclusion": "哪吒探针高危漏洞可接管面板",
+      "attractive": "无需密码即可控制服务器",
+      "minimal": "哪吒探针漏洞",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T10:03:37.239731"
+  },
+  "zaihuapd_42001": {
+    "ai_title": "哪吒监控存高危漏洞",
+    "title_options": {
+      "conclusion": "哪吒监控存高危漏洞",
+      "attractive": "9.1分漏洞可窃密钥",
+      "minimal": "哪吒监控路径穿越",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T10:03:37.368041"
+  },
+  "zaihuapd_42000": {
+    "ai_title": "Android 17强制大屏适配",
+    "title_options": {
+      "conclusion": "Android 17强制大屏适配",
+      "attractive": "AI助手可直接调用应用",
+      "minimal": "Android 17发布"
+    },
+    "generated_at": "2026-06-17T10:03:38.649758"
   }
 }
