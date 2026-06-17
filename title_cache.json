@@ -6294,5 +6294,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T11:04:23.108383"
+  },
+  "xhqcankao_30156": {
+    "ai_title": "王一言回国后失联近2年",
+    "title_options": {
+      "conclusion": "王一言回国后失联近2年",
+      "attractive": "网络审查研究者回国失联",
+      "minimal": "王一言失联",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T12:05:12.404999"
+  },
+  "zaihuapd_42003": {
+    "ai_title": "Copilot 2026年6月起按量计费",
+    "title_options": {
+      "conclusion": "Copilot 2026年6月起按量计费",
+      "attractive": "GPT-5.5调用费57倍",
+      "minimal": "Copilot 按量计费",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T12:05:12.406411"
   }
 }
