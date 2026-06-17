@@ -1411,45 +1411,6 @@
       }
     },
     {
-      "id": "zaihuapd_41995",
-      "channel": "zaihuapd",
-      "text": "加密卡 Ready Card 宣布停用退费，非 EEA 用户受影响6 月 16 日，自托管加密卡 Ready Card（原 Argent）向非欧洲经济区用户发出通知，将在 1 小时内停用卡片，同时退还剩余订阅费用。由于智能合约托管特性，用户资产仍留在钱包中，并未发生卷款跑路。此前 Ready Card 对中国用户的返现政策调整已引发不满，此次终止由发卡方政策变更导致。官方表示仍在开发未来的卡产品，但事件对依赖其作为 U 卡的用户构成实质影响。taresky|0xToolman|Ready",
-      "clean_text": "加密卡 Ready Card 宣布停用退费，非 EEA 用户受影响6 月 16 日，自托管加密卡 Ready Card（原 Argent）向非欧洲经济区用户发出通知，将在 1 小时内停用卡片，同时退还剩余订阅费用。由于智能合约托管特性，用户资产仍留在钱包中，并未发生卷款跑路。此前 Ready Card 对中国用户的返现政策调整已引发不满，此次终止由发卡方政策变更导致。官方表示仍在开发未来的卡产品，但事件对依赖其作为 U 卡的用户构成实质影响。taresky|0xToolman|Ready·备用频道",
-      "datetime": "2026-06-16T15:56:51+00:00",
-      "views": "734",
-      "source_links": [
-        {
-          "text": "taresky",
-          "url": "https://x.com/taresky/status/2066854419581513975"
-        },
-        {
-          "text": "0xToolman",
-          "url": "https://x.com/0xToolman/status/2066850008935383378"
-        },
-        {
-          "text": "Ready",
-          "url": "https://www.ready.co/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41995",
-      "scraped_at": "2026-06-17T00:00:19.647519",
-      "title": "Ready Card停用退费",
-      "title_options": {
-        "conclusion": "Ready Card停用退费",
-        "attractive": "非EEA用户1小时停卡",
-        "minimal": "加密卡停用退费",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1468,6 +1429,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-06-18T03:53:31.158651"
+  "count": 58,
+  "updated_at": "2026-06-18T03:58:33.914697"
 }
