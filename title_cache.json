@@ -6461,5 +6461,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T17:04:27.161531"
+  },
+  "zaihuapd_42010": {
+    "ai_title": "Anthropic企业份额首超Open…",
+    "title_options": {
+      "conclusion": "Anthropic企业份额首超Open…",
+      "attractive": "白宫争端反促Anthropic增长",
+      "minimal": "Anthropic份额41%超Open…"
+    },
+    "generated_at": "2026-06-17T18:05:18.997734"
+  },
+  "xhqcankao_30167": {
+    "ai_title": "Mistral难挡俄虚假信息",
+    "title_options": {
+      "conclusion": "Mistral难挡俄虚假信息",
+      "attractive": "开源AI反俄宣传垫底",
+      "minimal": "Mistral虚假信息",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T18:05:19.109999"
+  },
+  "xhqcankao_30168": {
+    "ai_title": "郝景芳新作超半由AI完成",
+    "title_options": {
+      "conclusion": "郝景芳新作超半由AI完成",
+      "attractive": "AI写小说超一半？",
+      "minimal": "郝景芳 AI 新作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T18:05:19.227213"
   }
 }
