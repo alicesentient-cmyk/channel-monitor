@@ -1769,24 +1769,6 @@
       }
     },
     {
-      "id": "zaihuapd_41980",
-      "channel": "zaihuapd",
-      "text": "GitHub 启动向微软 Azure 服务器的分阶段迁移，并计划两年内脱离自有数据中心  微软正准备在未来 12 个月内将 GitHub 迁移到自家的 Azure 服务器上，这是自前 CEO Thomas Dohmke 两个月前辞职以来 GitHub 的首个重大变化。GitHub 首席技术官 Vladimir Fedorov 在本周早些时候向员工宣布了这一决定，称 GitHub 目前在数据中心容量方面面临限制，特别是在北弗吉尼亚地区扩容机会有限。  Fedorov 在内部备忘录中表示：\"我们必须这样做，这对…",
-      "clean_text": "📱GitHub 启动向微软 Azure 服务器的分阶段迁移，并计划两年内脱离自有数据中心  微软正准备在未来 12 个月内将 GitHub 迁移到自家的 Azure 服务器上，这是自前 CEO Thomas Dohmke 两个月前辞职以来 GitHub 的首个重大变化。GitHub 首席技术官 Vladimir Fedorov 在本周早些时候向员工宣布了这一决定，称 GitHub 目前在数据中心容量方面面临限制，特别是在北弗吉尼亚地区扩容机会有限。  Fedorov 在内部备忘录中表示：\"我们必须这样做，这对…",
-      "datetime": "2026-06-16T06:06:06+00:00",
-      "views": "5.53K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41980",
-      "scraped_at": "2026-06-16T15:01:11.590677",
-      "title": "GitHub将迁移至Azure",
-      "title_options": {
-        "conclusion": "GitHub将迁移至Azure",
-        "attractive": "GitHub两年内脱离数据中心",
-        "minimal": "GitHub迁移Azure",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1805,6 +1787,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-06-17T18:05:19.236970"
+  "count": 72,
+  "updated_at": "2026-06-17T18:10:22.869410"
 }
