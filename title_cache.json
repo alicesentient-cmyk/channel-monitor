@@ -6658,5 +6658,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T23:04:27.756438"
+  },
+  "zaihuapd_42018": {
+    "ai_title": "白宫推出官方应用",
+    "title_options": {
+      "conclusion": "白宫推出官方应用",
+      "attractive": "白宫应用上线",
+      "minimal": "白宫应用",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T00:05:19.544913"
+  },
+  "xhqcankao_30180": {
+    "ai_title": "蓝色起源今年恢复发射",
+    "title_options": {
+      "conclusion": "蓝色起源今年恢复发射",
+      "attractive": "爆炸后重建，今年再战",
+      "minimal": "蓝色起源恢复发射",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T00:05:19.548844"
+  },
+  "xhqcankao_30179": {
+    "ai_title": "微信发布AI专属卡",
+    "title_options": {
+      "conclusion": "微信发布AI专属卡",
+      "attractive": "AI帮你自动下单支付",
+      "minimal": "微信AI专属卡",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T00:05:19.900909"
   }
 }
