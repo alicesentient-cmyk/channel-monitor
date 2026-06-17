@@ -1747,28 +1747,6 @@
       }
     },
     {
-      "id": "xhqcankao_30125",
-      "channel": "xhqcankao",
-      "text": "三星与Neuralink合作使用4nm制程生产芯片马斯克脑机公司Neuralink的第四代芯片的研发工作正在进行中，有消息称，三星电子正在寻求与Neuralink合作，这将是三星电子首次与Neuralink合作。此前，马斯克另一家公司特斯拉已宣布将自动驾驶芯片AI6和AI6.5交给三星电子代工，并使用三星电子先进的2纳米工艺。有报道指出，Neuralink芯片将采用4nm制程，这可能与三星电子在4nm工艺上实现了比更为先进制程更好的稳定性有关。此前，Neuralink第三代芯片的量产由三星电子竞争对手台积电负责，但从最新动向来看，台积电可能退出Neuralink芯片代工。",
-      "clean_text": "三星与Neuralink合作使用4nm制程生产芯片马斯克脑机公司Neuralink的第四代芯片的研发工作正在进行中，有消息称，三星电子正在寻求与Neuralink合作，这将是三星电子首次与Neuralink合作。此前，马斯克另一家公司特斯拉已宣布将自动驾驶芯片AI6和AI6.5交给三星电子代工，并使用三星电子先进的2纳米工艺。有报道指出，Neuralink芯片将采用4nm制程，这可能与三星电子在4nm工艺上实现了比更为先进制程更好的稳定性有关。此前，Neuralink第三代芯片的量产由三星电子竞争对手台积电负责，但从最新动向来看，台积电可能退出Neuralink芯片代工。——财联社",
-      "datetime": "2026-06-16T06:30:23+00:00",
-      "views": "1.23K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2400824?sv=8.7.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30125",
-      "scraped_at": "2026-06-16T15:01:13.920079",
-      "title": "三星代工Neuralink芯片",
-      "title_options": {
-        "conclusion": "三星代工Neuralink芯片",
-        "attractive": "台积电或退出代工",
-        "minimal": "三星Neuralink合作"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1787,6 +1765,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-17T18:25:32.522587"
+  "count": 71,
+  "updated_at": "2026-06-17T18:30:35.574379"
 }
