@@ -6195,5 +6195,35 @@
       "minimal": "安卓17 AI功能"
     },
     "generated_at": "2026-06-17T08:02:19.682981"
+  },
+  "xhqcankao_30151": {
+    "ai_title": "佛州起诉TikTok违法",
+    "title_options": {
+      "conclusion": "佛州起诉TikTok违法",
+      "attractive": "TikTok让儿童接触有害内容",
+      "minimal": "佛州起诉TikTok",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T09:02:57.175853"
+  },
+  "xhqcankao_30149": {
+    "ai_title": "软银推AI网络防御服务",
+    "title_options": {
+      "conclusion": "软银推AI网络防御服务",
+      "attractive": "AI防御应对网络攻击",
+      "minimal": "软银AI防御服务",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T09:02:57.264268"
+  },
+  "xhqcankao_30150": {
+    "ai_title": "微软考虑开源模型降费",
+    "title_options": {
+      "conclusion": "微软考虑开源模型降费",
+      "attractive": "AI太贵，微软换开源",
+      "minimal": "微软开源模型降费",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T09:02:57.459850"
   }
 }
