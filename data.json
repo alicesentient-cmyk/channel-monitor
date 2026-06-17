@@ -1716,60 +1716,6 @@
       }
     },
     {
-      "id": "zaihuapd_41982",
-      "channel": "zaihuapd",
-      "text": "OpenAI 去年支出 340 亿美元 研发投入近 190 亿美元OpenAI 去年斥资 340 亿美元，旨在在计划中的首次公开募股（IPO）前主导蓬勃发展的 AI 市场。报道称，经审计的财务数据显示，这家 ChatGPT 开发商在 2025 年投入了约 190 亿美元用于研发，近 60 亿美元用于销售和营销以及其他费用。金融时报",
-      "clean_text": "OpenAI 去年支出 340 亿美元 研发投入近 190 亿美元OpenAI 去年斥资 340 亿美元，旨在在计划中的首次公开募股（IPO）前主导蓬勃发展的 AI 市场。报道称，经审计的财务数据显示，这家 ChatGPT 开发商在 2025 年投入了约 190 亿美元用于研发，近 60 亿美元用于销售和营销以及其他费用。金融时报·备用频道",
-      "datetime": "2026-06-16T07:35:19+00:00",
-      "views": "3.02K",
-      "source_links": [
-        {
-          "text": "金融时报",
-          "url": "https://www.ft.com/content/e15b0d7e-ff6b-4f16-ba7a-4068feddb828"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41982",
-      "scraped_at": "2026-06-16T16:01:01.342638",
-      "title": "OpenAI去年支出340亿美元",
-      "title_options": {
-        "conclusion": "OpenAI去年支出340亿美元",
-        "attractive": "研发投入190亿美元",
-        "minimal": "OpenAI支出340亿",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30127",
-      "channel": "xhqcankao",
-      "text": "阿里发布首个具身大模型Qwen-Robot系列6月16日，阿里巴巴正式推出千问具身智能大模型Qwen-Robot系列。该系列包含三款模型：VLA操作模型Qwen-RobotManip、VLN移动模型Qwen-RobotNav，以及世界模型Qwen-RobotWorld，分别对应机器人的操作、移动与认知能力。三款模型既可独立部署，也能协同运行，为不同形态机器人的真实场景落地提供通用基础模型。另据此前消息，5月20日阿里发布的千问旗舰模型Qwen3.7-Max，在第三方机构Arena全球大模型盲测总榜中位列国产模型第一，与GPT、Claude、Gemini等最强模型接近。",
-      "clean_text": "阿里发布首个具身大模型Qwen-Robot系列6月16日，阿里巴巴正式推出千问具身智能大模型Qwen-Robot系列。该系列包含三款模型：VLA操作模型Qwen-RobotManip、VLN移动模型Qwen-RobotNav，以及世界模型Qwen-RobotWorld，分别对应机器人的操作、移动与认知能力。三款模型既可独立部署，也能协同运行，为不同形态机器人的真实场景落地提供通用基础模型。另据此前消息，5月20日阿里发布的千问旗舰模型Qwen3.7-Max，在第三方机构Arena全球大模型盲测总榜中位列国产模型第一，与GPT、Claude、Gemini等最强模型接近。——凤凰网科技",
-      "datetime": "2026-06-16T07:31:48+00:00",
-      "views": "1.44K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006Y3GaqsQWXQkQBMMWs5W99cioL9NMFxWiT8WZX42GA0mgqnP9JXSS00mVzoxU2BZ0"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30127",
-      "scraped_at": "2026-06-16T16:01:07.788240",
-      "title": "阿里发布具身大模型",
-      "title_options": {
-        "conclusion": "阿里发布具身大模型",
-        "attractive": "机器人操作移动认知",
-        "minimal": "阿里Qwen-Robot系列",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1788,6 +1734,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-06-17T19:31:29.944703"
+  "count": 71,
+  "updated_at": "2026-06-17T19:36:32.942129"
 }
