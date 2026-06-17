@@ -6334,5 +6334,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T13:05:56.475938"
+  },
+  "xhqcankao_30160": {
+    "ai_title": "证监会支持AI企业上市",
+    "title_options": {
+      "conclusion": "证监会支持AI企业上市",
+      "attractive": "AI企业上市门槛放宽",
+      "minimal": "AI企业上市",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T14:01:40.760449"
+  },
+  "zaihuapd_42005": {
+    "ai_title": "韩兴起多巴胺网站",
+    "title_options": {
+      "conclusion": "韩兴起多巴胺网站",
+      "attractive": "零成本模拟点餐",
+      "minimal": "多巴胺网站",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T14:01:40.809384"
+  },
+  "xhqcankao_30159": {
+    "ai_title": "法国2027年停认非量子加密",
+    "title_options": {
+      "conclusion": "法国2027年停认非量子加密",
+      "attractive": "量子加密认证倒计时",
+      "minimal": "法国量子加密认证"
+    },
+    "generated_at": "2026-06-17T14:01:40.911227"
   }
 }
