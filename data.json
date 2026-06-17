@@ -1724,29 +1724,6 @@
       }
     },
     {
-      "id": "xhqcankao_30121",
-      "channel": "xhqcankao",
-      "text": "字节跳动推出Seedance 2.0 Mini视频模型字节跳动火山引擎旗下火山方舟体验中心推出 Seedance 2.0 Mini 视频生成模型，近期将开放 API 服务。该模型主打高性价比，定位广泛视频创作与规模化生产市场。生成速度比Seedance 2.0 Fast快2倍，质量相当。定价方面，图生视频0.023元/千tokens，视频生视频0.014元/千tokens。以720P规格计，单秒视频生成成本约0.5元，较标准版降低约一半。应用上，模型兼顾质量与实用性，面向电商内容、营销素材、UGC创作及特效玩法等高频率、大规模生成场景。",
-      "clean_text": "字节跳动推出Seedance 2.0 Mini视频模型字节跳动火山引擎旗下火山方舟体验中心推出 Seedance 2.0 Mini 视频生成模型，近期将开放 API 服务。该模型主打高性价比，定位广泛视频创作与规模化生产市场。生成速度比Seedance 2.0 Fast快2倍，质量相当。定价方面，图生视频0.023元/千tokens，视频生视频0.014元/千tokens。以720P规格计，单秒视频生成成本约0.5元，较标准版降低约一半。应用上，模型兼顾质量与实用性，面向电商内容、营销素材、UGC创作及特效玩法等高频率、大规模生成场景。——凤凰网科技",
-      "datetime": "2026-06-16T04:32:29+00:00",
-      "views": "1.24K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006YHVoQUB9d24ruF4PIAZALEsL2sJ3uF0Vd0ydZUzZ4f5uD9LF3RGPaxL--wB--w8px2"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30121",
-      "scraped_at": "2026-06-16T13:00:40.589689",
-      "title": "字节推Seedance 2.0 Mini",
-      "title_options": {
-        "conclusion": "字节推Seedance 2.0 Mini",
-        "attractive": "视频生成成本降一半",
-        "minimal": "Seedance 2.0 Mini",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1765,6 +1742,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-17T16:28:48.521882"
+  "count": 71,
+  "updated_at": "2026-06-17T16:33:52.341414"
 }
