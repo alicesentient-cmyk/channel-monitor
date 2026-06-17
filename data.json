@@ -1697,29 +1697,6 @@
       }
     },
     {
-      "id": "xhqcankao_30138",
-      "channel": "xhqcankao",
-      "text": "法国安全部门将用本土软件取代Palantir法国内部情报机构DGSI将用Chapsvision开发的本土替代品取代Palantir Technologies Inc.的数据工具，因为欧洲国家日益寻求减少对美国科技公司的依赖。总理塞巴斯蒂安·勒科尔努周二表示，此举是法国推动主权技术解决方案的一部分。他补充说，政府将向所有公务员提供由本土领头企业 Mistral AI 提供支持的人工智能助手。Palantir 十年来一直向 DGSI 提供其软件平台，并于12月宣布续签为期三年的合同。然而，Palantir 与特朗普政府的关系以及减少由美国公司处理的敏感数据量的运动，导致欧洲内部出现了与这家公司断绝关系的呼声。",
-      "clean_text": "法国安全部门将用本土软件取代Palantir法国内部情报机构DGSI将用Chapsvision开发的本土替代品取代Palantir Technologies Inc.的数据工具，因为欧洲国家日益寻求减少对美国科技公司的依赖。总理塞巴斯蒂安·勒科尔努周二表示，此举是法国推动主权技术解决方案的一部分。他补充说，政府将向所有公务员提供由本土领头企业 Mistral AI 提供支持的人工智能助手。Palantir 十年来一直向 DGSI 提供其软件平台，并于12月宣布续签为期三年的合同。然而，Palantir 与特朗普政府的关系以及减少由美国公司处理的敏感数据量的运动，导致欧洲内部出现了与这家公司断绝关系的呼声。——彭博社",
-      "datetime": "2026-06-16T13:04:40+00:00",
-      "views": "2.01K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-16/french-security-service-to-replace-palantir-with-local-software"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30138",
-      "scraped_at": "2026-06-16T22:00:32.641240",
-      "title": "法国用本土软件取代Palantir",
-      "title_options": {
-        "conclusion": "法国用本土软件取代Palantir",
-        "attractive": "法国情报机构弃用美企",
-        "minimal": "法国替代Palantir",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1738,6 +1715,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-18T01:01:10.238678"
+  "count": 69,
+  "updated_at": "2026-06-18T01:06:14.070257"
 }
