@@ -6176,5 +6176,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T04:04:31.913026"
+  },
+  "xhqcankao_30148": {
+    "ai_title": "雷诺将产自杀式无人机",
+    "title_options": {
+      "conclusion": "雷诺将产自杀式无人机",
+      "attractive": "雷诺2027年产千架无人机",
+      "minimal": "雷诺、泰雷兹、无人机",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T08:02:19.644888"
+  },
+  "xhqcankao_30147": {
+    "ai_title": "安卓17发布，AI功能夏季上线",
+    "title_options": {
+      "conclusion": "安卓17发布，AI功能夏季上线",
+      "attractive": "AI新功能需等数月",
+      "minimal": "安卓17 AI功能"
+    },
+    "generated_at": "2026-06-17T08:02:19.682981"
   }
 }
