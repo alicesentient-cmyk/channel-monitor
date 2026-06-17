@@ -6588,5 +6588,45 @@
       "minimal": "词元套餐成本高"
     },
     "generated_at": "2026-06-17T21:02:40.163448"
+  },
+  "zaihuapd_42015": {
+    "ai_title": "AI造谣小米案4人被刑拘",
+    "title_options": {
+      "conclusion": "AI造谣小米案4人被刑拘",
+      "attractive": "AI造谣小米34万资金被查",
+      "minimal": "AI造谣小米4人刑拘",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T22:03:28.482324"
+  },
+  "xhqcankao_30176": {
+    "ai_title": "六成美国消费者反感品牌用AI",
+    "title_options": {
+      "conclusion": "六成美国消费者反感品牌用AI",
+      "attractive": "AI营销惹人厌？六成消费者反感",
+      "minimal": "六成消费者反感AI营销",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T22:03:28.531240"
+  },
+  "zaihuapd_42016": {
+    "ai_title": "Codex支持第三方模型",
+    "title_options": {
+      "conclusion": "Codex支持第三方模型",
+      "attractive": "自定义模型接入Codex",
+      "minimal": "Codex第三方模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T22:03:28.543494"
+  },
+  "xhqcankao_30175": {
+    "ai_title": "日本无人机禁飞区扩至1公里",
+    "title_options": {
+      "conclusion": "日本无人机禁飞区扩至1公里",
+      "attractive": "无人机禁飞区扩大，违者罚50万",
+      "minimal": "无人机禁飞法修正",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T22:03:29.806391"
   }
 }
