@@ -1615,47 +1615,6 @@
       }
     },
     {
-      "id": "zaihuapd_41991",
-      "channel": "zaihuapd",
-      "text": "全球AI追踪报告：生成式AI市场分化加速，ChatGPT份额下滑  根据Similarweb发布的最新《全球AI追踪报告》（数据截至2025年12月），全球生成式AI市场正呈现显著的分化趋势。数据显示，ChatGPT去年同期的87.2%下滑到68.0%份额。Gemini市场份额从5.4%激增至18.2%。DeepSeek表现出强劲的增长势头，市场份额升至约4.0%。  报告进一步指出，AI工具的市场格局正从“一家独大”向“多强并存”转变，用户选择日趋多样化。数据表明，随着AI应用场景的细分，用户开始根据特…",
-      "clean_text": "全球AI追踪报告：生成式AI市场分化加速，ChatGPT份额下滑  根据Similarweb发布的最新《全球AI追踪报告》（数据截至2025年12月），全球生成式AI市场正呈现显著的分化趋势。数据显示，ChatGPT去年同期的87.2%下滑到68.0%份额。Gemini市场份额从5.4%激增至18.2%。DeepSeek表现出强劲的增长势头，市场份额升至约4.0%。  报告进一步指出，AI工具的市场格局正从“一家独大”向“多强并存”转变，用户选择日趋多样化。数据表明，随着AI应用场景的细分，用户开始根据特…",
-      "datetime": "2026-06-16T14:05:19+00:00",
-      "views": "5.58K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41991",
-      "scraped_at": "2026-06-16T23:00:16.686913",
-      "title": "ChatGPT份额跌至68%",
-      "title_options": {
-        "conclusion": "ChatGPT份额跌至68%",
-        "attractive": "Gemini份额激增至18%",
-        "minimal": "AI市场分化加速",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30140",
-      "channel": "xhqcankao",
-      "text": "OpenAI ChatGPT的市场份额首次跌破50%在ChatGPT最初发布三年半多之后，AI助手如今被全球许多人使用，且竞争格局正在迅速变化。虽然OpenAI的聊天机器人仍然是全球最受欢迎的助手，但根据分析公司Sensor Tower的《2026年AI状况报告》，其全球市场份额首次跌破50%，因为用户正在谷歌的Gemini、Anthropic的Claude和xAI的Grok等不同助手之间迁移。直到1月，ChatGPT还占据超过50%的市场份额，但到5月底，由于Gemini（27.7%）和Claude（10.3%）的崛起，其份额已降至46.4%。其他助手，包括Grok、Perplexity、DeepSeek和Meta AI，市场份额均低于5%。",
-      "clean_text": "OpenAI ChatGPT的市场份额首次跌破50%在ChatGPT最初发布三年半多之后，AI助手如今被全球许多人使用，且竞争格局正在迅速变化。虽然OpenAI的聊天机器人仍然是全球最受欢迎的助手，但根据分析公司Sensor Tower的《2026年AI状况报告》，其全球市场份额首次跌破50%，因为用户正在谷歌的Gemini、Anthropic的Claude和xAI的Grok等不同助手之间迁移。直到1月，ChatGPT还占据超过50%的市场份额，但到5月底，由于Gemini（27.7%）和Claude（10.3%）的崛起，其份额已降至46.4%。其他助手，包括Grok、Perplexity、DeepSeek和Meta AI，市场份额均低于5%。——Techcrunch",
-      "datetime": "2026-06-16T14:03:40+00:00",
-      "views": "2.24K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30140",
-      "scraped_at": "2026-06-16T23:00:20.114377",
-      "title": "ChatGPT份额跌破50%",
-      "title_options": {
-        "conclusion": "ChatGPT份额跌破50%",
-        "attractive": "Gemini抢走27.7%市场",
-        "minimal": "ChatGPT份额46.4%",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1674,6 +1633,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-18T02:02:04.088929"
+  "count": 65,
+  "updated_at": "2026-06-18T02:07:10.219320"
 }
