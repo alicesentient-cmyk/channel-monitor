@@ -6628,5 +6628,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T22:03:29.806391"
+  },
+  "xhqcankao_30178": {
+    "ai_title": "亚洲网络犯罪占犯罪三成",
+    "title_options": {
+      "conclusion": "亚洲网络犯罪占犯罪三成",
+      "attractive": "超半数国家网络犯罪占30%",
+      "minimal": "网络犯罪诈骗激增",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T23:04:27.646622"
+  },
+  "xhqcankao_30177": {
+    "ai_title": "中国将评估AI就业影响",
+    "title_options": {
+      "conclusion": "中国将评估AI就业影响",
+      "attractive": "AI如何影响你的工作？",
+      "minimal": "AI就业影响评估",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T23:04:27.647599"
+  },
+  "zaihuapd_42017": {
+    "ai_title": "印度封锁Telegram至6月22日",
+    "title_options": {
+      "conclusion": "印度封锁Telegram至6月22日",
+      "attractive": "防作弊，印度封杀Telegram",
+      "minimal": "印度封锁Telegram",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T23:04:27.756438"
   }
 }
