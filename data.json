@@ -1450,33 +1450,6 @@
       }
     },
     {
-      "id": "xhqcankao_30143",
-      "channel": "xhqcankao",
-      "text": "SpaceX正式同意收购AI编程公司CursorSpaceX当地时间周二表示，将以600亿美元收购AI编程公司Anysphere，该公司是热门AI编程助手Cursor的开发商，此举旨在加快其在企业级人工智能 (AI) 市场的布局。该公告发布距离SpaceX在纳斯达克完成轰动性上市仅数日，近日公司股价持续走高，市值已突破2.5万亿美元，使其迅速跻身全球最具价值企业之列。SpaceX表示，预计该并购交易将在2026年第三季度完成。SpaceX此前已对Cursor保持数月关注。SpaceX称，今年4月已获得选择权，可在今年晚些时候以600亿美元收购这家总部位于旧金山的公司，或支付100亿美元达成新的战略合作。",
-      "clean_text": "SpaceX正式同意收购AI编程公司CursorSpaceX当地时间周二表示，将以600亿美元收购AI编程公司Anysphere，该公司是热门AI编程助手Cursor的开发商，此举旨在加快其在企业级人工智能 (AI) 市场的布局。该公告发布距离SpaceX在纳斯达克完成轰动性上市仅数日，近日公司股价持续走高，市值已突破2.5万亿美元，使其迅速跻身全球最具价值企业之列。SpaceX表示，预计该并购交易将在2026年第三季度完成。SpaceX此前已对Cursor保持数月关注。SpaceX称，今年4月已获得选择权，可在今年晚些时候以600亿美元收购这家总部位于旧金山的公司，或支付100亿美元达成新的战略合作。——财联社、彭博社",
-      "datetime": "2026-06-16T15:34:36+00:00",
-      "views": "1.22K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2401494?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30143",
-      "scraped_at": "2026-06-17T00:00:22.013884",
-      "title": "SpaceX 600亿美元收购Curs…",
-      "title_options": {
-        "conclusion": "SpaceX 600亿美元收购Curs…",
-        "attractive": "SpaceX上市后首笔收购",
-        "minimal": "SpaceX收购Cursor",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1495,6 +1468,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-18T03:33:19.430070"
+  "count": 59,
+  "updated_at": "2026-06-18T03:38:22.998847"
 }
