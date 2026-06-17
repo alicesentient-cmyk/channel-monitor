@@ -6529,5 +6529,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T19:01:08.953944"
+  },
+  "zaihuapd_42013": {
+    "ai_title": "微信支付推AI专属卡",
+    "title_options": {
+      "conclusion": "微信支付推AI专属卡",
+      "attractive": "AI消费需本人授权",
+      "minimal": "AI专属卡",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T20:01:50.351712"
+  },
+  "xhqcankao_30172": {
+    "ai_title": "两中国人涉地下银行被捕",
+    "title_options": {
+      "conclusion": "两中国人涉地下银行被捕",
+      "attractive": "地下银行涉洗钱被捕",
+      "minimal": "中国人地下银行被捕",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T20:01:50.490515"
+  },
+  "xhqcankao_30171": {
+    "ai_title": "谷歌招募用户测试Gemini",
+    "title_options": {
+      "conclusion": "谷歌招募用户测试Gemini",
+      "attractive": "谷歌招募高级用户测新功能",
+      "minimal": "谷歌招募Gemini测试者",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T20:01:50.544806"
   }
 }
