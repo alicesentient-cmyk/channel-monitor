@@ -1,6 +1,126 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42009",
+      "channel": "zaihuapd",
+      "text": "AdGuard 推出邮件追踪保护过滤器，拦截隐形追踪像素AdGuard 发布 Mail Tracking Protection 过滤器，可阻止邮件中嵌入的 1x1 像素追踪图片，防止发件人在你打开邮件时悄悄获取阅读状态、IP 地址、设备等信息。该过滤器适用于 AdGuard 保护的邮件客户端和浏览器邮箱，但在 Gmail 和 Outlook Web 上因图片经代理中转，效果可能打折扣；Apple Mail 的隐私保护已自动预载像素，本身就会干扰追踪。Windows 和 Mac 版现可启用，移动端与浏览器扩展将在后续更新支持。AdGuard",
+      "clean_text": "AdGuard 推出邮件追踪保护过滤器，拦截隐形追踪像素AdGuard 发布 Mail Tracking Protection 过滤器，可阻止邮件中嵌入的 1x1 像素追踪图片，防止发件人在你打开邮件时悄悄获取阅读状态、IP 地址、设备等信息。该过滤器适用于 AdGuard 保护的邮件客户端和浏览器邮箱，但在 Gmail 和 Outlook Web 上因图片经代理中转，效果可能打折扣；Apple Mail 的隐私保护已自动预载像素，本身就会干扰追踪。Windows 和 Mac 版现可启用，移动端与浏览器扩展将在后续更新支持。AdGuard·备用频道",
+      "datetime": "2026-06-17T09:00:00+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "AdGuard",
+          "url": "https://adguard.com/en/blog/mail-tracking-protection-filter.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42009",
+      "scraped_at": "2026-06-17T17:00:49.316298",
+      "title": "AdGuard拦截邮件追踪像素",
+      "title_options": {
+        "conclusion": "AdGuard拦截邮件追踪像素",
+        "attractive": "你的邮件阅读状态被偷窥",
+        "minimal": "邮件追踪防护",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30166",
+      "channel": "xhqcankao",
+      "text": "Spotify将废弃用户名登录 必须换邮箱登录流媒体音乐平台 Spotify 日前向所有用户发出通知，从 2026年9月1日开始该平台将废弃传统的用户名和密码登录，届时用户必须使用邮箱和密码登录，当然也可以选择绑定其他平台账户例如使用谷歌账户登录或苹果登录，当然用户如果绑定的是随手写的邮箱则需要尽快进行修改。对 Spotify 用户来说当前最重要的事情其实就是检查绑定的邮箱是否有效，如果用户注册账户时绑定的是临时邮箱则可能后续无法接收邮件，这种情况下未来忘记密码时就有可能无法找回，或用户甚至已经忘记当时使用的邮箱，后续强制邮箱登录后直接没有账号可用。",
+      "clean_text": "Spotify将废弃用户名登录 必须换邮箱登录流媒体音乐平台 Spotify 日前向所有用户发出通知，从 2026年9月1日开始该平台将废弃传统的用户名和密码登录，届时用户必须使用邮箱和密码登录，当然也可以选择绑定其他平台账户例如使用谷歌账户登录或苹果登录，当然用户如果绑定的是随手写的邮箱则需要尽快进行修改。对 Spotify 用户来说当前最重要的事情其实就是检查绑定的邮箱是否有效，如果用户注册账户时绑定的是临时邮箱则可能后续无法接收邮件，这种情况下未来忘记密码时就有可能无法找回，或用户甚至已经忘记当时使用的邮箱，后续强制邮箱登录后直接没有账号可用。——Androidauthority、蓝点网",
+      "datetime": "2026-06-17T08:30:21+00:00",
+      "views": "1.54K",
+      "source_links": [
+        {
+          "text": "Androidauthority",
+          "url": "https://www.androidauthority.com/spotify-user-name-sign-in-change-3678269/"
+        },
+        {
+          "text": "蓝点网",
+          "url": "https://www.landian.news/archives/113516.html?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=share&amp;utm_content=landiansub&amp;utm_term=%E6%B5%81%E5%AA%92%E4%BD%93%E9%9F%B3%E4%B9%90%E5%B9%B3%E5%8F%B0Spotify%E4%BB%8E9%E6%9C%881%E6%97%A5%E5%BC%80%E5%A7%8B%E5%BA%9F%E5%BC%83%E7%94%A8%E6%88%B7%E5%90%8D%E7%99%BB%E5%BD%95+%E7%94%A8%E6%88%B7%E5%BF%85%E9%A1%BB%E6%8D%A2%E6%88%90%E9%82%AE%E7%AE%B1%E7%99%BB%E5%BD%95#google_vignette"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30166",
+      "scraped_at": "2026-06-17T17:00:51.231293",
+      "title": "Spotify将废弃用户名登录",
+      "title_options": {
+        "conclusion": "Spotify将废弃用户名登录",
+        "attractive": "2026年起必须用邮箱登录",
+        "minimal": "Spotify废弃用户名",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42008",
+      "channel": "zaihuapd",
+      "text": "证监会：科创板第五套标准扩至人工智能领域证监会主席吴清今天在 2026 陆家嘴论坛上宣布，科创板第五套标准的适用范围将扩大至人工智能领域，以支持量子科技、生物制造、具身智能等硬科技企业上市。目前 A 股科技板块市值占比已超三成，市值超千亿的上市公司中科技企业占比达 45%。吴清表示，将严查借科技之名蹭热点、炒概念等违法违规行为，适时发布规范资本市场人工智能的指导意见。此外，证监会还将推出储架发行等再融资改革措施，并宣布支持上海国际金融中心建设的四项政策。每日经济新闻",
+      "clean_text": "证监会：科创板第五套标准扩至人工智能领域证监会主席吴清今天在 2026 陆家嘴论坛上宣布，科创板第五套标准的适用范围将扩大至人工智能领域，以支持量子科技、生物制造、具身智能等硬科技企业上市。目前 A 股科技板块市值占比已超三成，市值超千亿的上市公司中科技企业占比达 45%。吴清表示，将严查借科技之名蹭热点、炒概念等违法违规行为，适时发布规范资本市场人工智能的指导意见。此外，证监会还将推出储架发行等再融资改革措施，并宣布支持上海国际金融中心建设的四项政策。每日经济新闻·备用频道",
+      "datetime": "2026-06-17T08:30:00+00:00",
+      "views": "3.25K",
+      "source_links": [
+        {
+          "text": "每日经济新闻",
+          "url": "https://mp.weixin.qq.com/s/ywLPXkSlqY9S5Vwp8G5saA"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42008",
+      "scraped_at": "2026-06-17T17:00:49.315844",
+      "title": "科创板AI上市标准扩围",
+      "title_options": {
+        "conclusion": "科创板AI上市标准扩围",
+        "attractive": "科创板AI上市门槛降低",
+        "minimal": "科创板AI上市扩围",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30165",
+      "channel": "xhqcankao",
+      "text": "智谱开源GLM-5.2 1M上下文专攻长程任务智谱AI宣布正式上线并开源新一代旗舰模型GLM-5.2。该模型专为长程任务能力打造，核心特色包括1M无损上下文、强化Coding能力、Day 0适配国产算力平台，并采用MIT开源协议。在全球百万用户参与盲测的前端开发评估系统Code Arena上，GLM-5.2取得全球可用模型第一的表现。GLM-5.2实现了真正可用的1M上下文窗口，可在一个长程任务中完整承载大型软件工程项目。在实际测试中，模型一次性完成了覆盖Web、移动端与小程序的完整应用开发交付，累计处理88万tokens，几乎用满1M窗口。——凤凰网科技、GitHub、Hugging Face",
+      "clean_text": "智谱开源GLM-5.2 1M上下文专攻长程任务智谱AI宣布正式上线并开源新一代旗舰模型GLM-5.2。该模型专为长程任务能力打造，核心特色包括1M无损上下文、强化Coding能力、Day 0适配国产算力平台，并采用MIT开源协议。在全球百万用户参与盲测的前端开发评估系统Code Arena上，GLM-5.2取得全球可用模型第一的表现。GLM-5.2实现了真正可用的1M上下文窗口，可在一个长程任务中完整承载大型软件工程项目。在实际测试中，模型一次性完成了覆盖Web、移动端与小程序的完整应用开发交付，累计处理88万tokens，几乎用满1M窗口。——凤凰网科技、GitHub、Hugging Face",
+      "datetime": "2026-06-17T08:04:34+00:00",
+      "views": "2.24K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006XqjwPd4ZkaPnufYLUlCrTJ0qSu-_E6cWPquTR3XlWCJVEr8yuny----7IQcOSy3RbGG"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/zai-org/GLM-5"
+        },
+        {
+          "text": "Hugging Face",
+          "url": "https://huggingface.co/zai-org/GLM-5.2"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30165",
+      "scraped_at": "2026-06-17T17:00:51.230926",
+      "title": "智谱开源GLM-5.2",
+      "title_options": {
+        "conclusion": "智谱开源GLM-5.2",
+        "attractive": "1M上下文模型登顶",
+        "minimal": "GLM-5.2开源",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42007",
       "channel": "zaihuapd",
       "text": "针对多发食品安全问题 市场监管总局约谈山姆总部  对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投资有限公司（即山姆总部）负责人进行了责任约谈，要求其严格按照《中华人民共和国食品安全法》，以及《食品销售连锁企业落实食品安全主体责任监督管理规定》《网络食品销售经营者落实食品安全主体责任监督管理规定》等法律法规规定开展食品经营活动，始终树牢食品安全意识，严格落实食品安全主体责任，自觉践行企业社会责任，严防全链条食品安全风险，切实保障公众饮食安全。…",
@@ -1670,60 +1790,6 @@
       }
     },
     {
-      "id": "xhqcankao_30122",
-      "channel": "xhqcankao",
-      "text": "Meta在Facebook上推出全新的“AI模式”为了在人工智能竞赛中迎头赶上，并提升其人工智能机器人的用户参与度，Meta公司周一宣布，将在 Facebook 平台上推出新的人工智能功能，旨在改变用户查找信息、创建内容以及与平台互动的方式。此次更新的重点是 “AI模式”，这是一种新的 Facebook搜索方式，该功能使用 Meta AI 从平台上的群组和 Reels 等公开帖子中提取答案。用户无需滚动浏览搜索结果，只需用简单的语言提出问题，即可根据人们实际讨论的内容获得综合答案。除了搜索功能外，Facebook 还新增了编辑工具，让用户可以在视频剪辑中尝试拼贴剪切和转场效果。",
-      "clean_text": "Meta在Facebook上推出全新的“AI模式”为了在人工智能竞赛中迎头赶上，并提升其人工智能机器人的用户参与度，Meta公司周一宣布，将在 Facebook 平台上推出新的人工智能功能，旨在改变用户查找信息、创建内容以及与平台互动的方式。此次更新的重点是 “AI模式”，这是一种新的 Facebook搜索方式，该功能使用 Meta AI 从平台上的群组和 Reels 等公开帖子中提取答案。用户无需滚动浏览搜索结果，只需用简单的语言提出问题，即可根据人们实际讨论的内容获得综合答案。除了搜索功能外，Facebook 还新增了编辑工具，让用户可以在视频剪辑中尝试拼贴剪切和转场效果。——Techcrunch",
-      "datetime": "2026-06-16T05:03:10+00:00",
-      "views": "1.81K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30122",
-      "scraped_at": "2026-06-16T14:00:27.295964",
-      "title": "Meta推AI模式",
-      "title_options": {
-        "conclusion": "Meta推AI模式",
-        "attractive": "Facebook新AI搜索",
-        "minimal": "AI模式上线",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_41978",
-      "channel": "zaihuapd",
-      "text": "Qwen 发布机器人套件：三个基础模型覆盖导航、操作与世界建模Qwen 团队发布机器人套件，包含三个基础模型：Qwen-RobotNav 统一五大导航任务，可作为智能体系统的可调用工具；Qwen-RobotManip 通过统一表示实现跨形态机器人数据训练，在多个基准上取得领先；Qwen-RobotWorld 用自然语言动作接口学习世界模型，覆盖 20 多种机器人形态。三个模型均采用语言优先接口，可与通用大模型组合成物理智能体系统。Qwen 已展示从语言理解到复杂物理任务执行的闭环，包括实时任务分解与自主纠错。Qwen",
-      "clean_text": "Qwen 发布机器人套件：三个基础模型覆盖导航、操作与世界建模Qwen 团队发布机器人套件，包含三个基础模型：Qwen-RobotNav 统一五大导航任务，可作为智能体系统的可调用工具；Qwen-RobotManip 通过统一表示实现跨形态机器人数据训练，在多个基准上取得领先；Qwen-RobotWorld 用自然语言动作接口学习世界模型，覆盖 20 多种机器人形态。三个模型均采用语言优先接口，可与通用大模型组合成物理智能体系统。Qwen 已展示从语言理解到复杂物理任务执行的闭环，包括实时任务分解与自主纠错。Qwen·备用频道",
-      "datetime": "2026-06-16T05:02:40+00:00",
-      "views": "4.74K",
-      "source_links": [
-        {
-          "text": "Qwen",
-          "url": "https://qwen.ai/blog?id=qwen-robotsuite"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41978",
-      "scraped_at": "2026-06-16T14:00:23.722702",
-      "title": "Qwen发布机器人三模型套件",
-      "title_options": {
-        "conclusion": "Qwen发布机器人三模型套件",
-        "attractive": "机器人套件覆盖导航操作建模",
-        "minimal": "Qwen机器人三模型",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1742,6 +1808,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-06-17T16:59:13.311339"
+  "count": 73,
+  "updated_at": "2026-06-17T17:04:27.172582"
 }

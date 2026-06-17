@@ -6421,5 +6421,45 @@
       "minimal": "iPhone 18 Siri AI"
     },
     "generated_at": "2026-06-17T16:03:30.243149"
+  },
+  "zaihuapd_42008": {
+    "ai_title": "科创板AI上市标准扩围",
+    "title_options": {
+      "conclusion": "科创板AI上市标准扩围",
+      "attractive": "科创板AI上市门槛降低",
+      "minimal": "科创板AI上市扩围",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T17:04:25.979711"
+  },
+  "xhqcankao_30166": {
+    "ai_title": "Spotify将废弃用户名登录",
+    "title_options": {
+      "conclusion": "Spotify将废弃用户名登录",
+      "attractive": "2026年起必须用邮箱登录",
+      "minimal": "Spotify废弃用户名",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T17:04:26.038094"
+  },
+  "zaihuapd_42009": {
+    "ai_title": "AdGuard拦截邮件追踪像素",
+    "title_options": {
+      "conclusion": "AdGuard拦截邮件追踪像素",
+      "attractive": "你的邮件阅读状态被偷窥",
+      "minimal": "邮件追踪防护",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T17:04:26.044758"
+  },
+  "xhqcankao_30165": {
+    "ai_title": "智谱开源GLM-5.2",
+    "title_options": {
+      "conclusion": "智谱开源GLM-5.2",
+      "attractive": "1M上下文模型登顶",
+      "minimal": "GLM-5.2开源",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T17:04:27.161531"
   }
 }
