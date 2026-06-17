@@ -1731,41 +1731,6 @@
       }
     },
     {
-      "id": "zaihuapd_41974",
-      "channel": "zaihuapd",
-      "text": "苹果将统一「登录苹果」与「隐藏邮件」域名苹果宣布，今年夏天晚些时候，“登录苹果”和 iCloud+“隐藏邮件”将统一使用private.icloud.com域名。目前前者使用 privaterelay.appleid.com，后者使用 icloud.com，之后新生成的地址都会落在新域名下。已有的旧地址继续有效，邮件转发不受影响。开发者需要更新应用或网站的账户系统、邮件验证逻辑和允许列表，以接受新域名地址；普通用户无需任何操作。MacRumors",
-      "clean_text": "苹果将统一「登录苹果」与「隐藏邮件」域名苹果宣布，今年夏天晚些时候，“登录苹果”和 iCloud+“隐藏邮件”将统一使用private.icloud.com域名。目前前者使用 privaterelay.appleid.com，后者使用 icloud.com，之后新生成的地址都会落在新域名下。已有的旧地址继续有效，邮件转发不受影响。开发者需要更新应用或网站的账户系统、邮件验证逻辑和允许列表，以接受新域名地址；普通用户无需任何操作。MacRumors·备用频道",
-      "datetime": "2026-06-16T02:14:16+00:00",
-      "views": "4.61K",
-      "source_links": [
-        {
-          "text": "private.icloud.com",
-          "url": "http://private.icloud.com/"
-        },
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/15/apple-private-icloud-email-domain/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41974",
-      "scraped_at": "2026-06-16T11:00:21.273216",
-      "title": "苹果统一登录与隐藏邮件域名",
-      "title_options": {
-        "conclusion": "苹果统一登录与隐藏邮件域名",
-        "attractive": "开发者需更新域名白名单",
-        "minimal": "苹果域名统一",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41953",
       "channel": "zaihuapd",
       "text": "全球地下真菌网络总图首次绘出 总长度为地球和太阳之间距离的近十亿倍由地下网络保护协会（SPUN）领导的新研究项目首次绘制出全球丛枝菌根真菌网络地图。这些地下菌丝总长达到 110 千万亿公里，总质量约为全人类体重的 5 倍。如果用一条线连接起来，将延伸地球和太阳之间距离的近十亿倍。它们与全球约 80% 的植物共生，每年可将约 10 亿吨碳封存在地下。地图发现，农田中的真菌密度仅为野生生态系统的一半，而拥有全球约 40% 该类真菌生物量的野生草原，正以森林 4 倍的速度转为农田。Inside Climate News｜Science",
@@ -1819,6 +1784,6 @@
       }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-06-17T14:11:47.046776"
+  "count": 73,
+  "updated_at": "2026-06-17T14:16:50.629190"
 }
