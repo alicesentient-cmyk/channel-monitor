@@ -1734,28 +1734,6 @@
       }
     },
     {
-      "id": "xhqcankao_30131",
-      "channel": "xhqcankao",
-      "text": "网安专家抗议美政府禁止Anthropic新模型由数十名网络安全专家组成的一个团体，其中包括几位业内知名资深人士，发布了一封致美国政府的公开信，要求其撤销对人工智能公司Anthropic的Fable 和 Mythos模型的出口管制令。根据这封公开信，“这一行动将最好的模型从网络安全防御者手中夺走”，他们现在无法使用这些模型来发现漏洞并使其软件和产品更加安全。“在没有正当理由的情况下，当我们的对手正在迅速推进时，将最好的能力从防御者手中夺走是危险的，”信中写道。上周五，美国政府命令 Anthropic 限制 Fable 和 Mythos 的出口，理由是国家安全隐患，但没有解释命令背后的具体原因。",
-      "clean_text": "网安专家抗议美政府禁止Anthropic新模型由数十名网络安全专家组成的一个团体，其中包括几位业内知名资深人士，发布了一封致美国政府的公开信，要求其撤销对人工智能公司Anthropic的Fable 和 Mythos模型的出口管制令。根据这封公开信，“这一行动将最好的模型从网络安全防御者手中夺走”，他们现在无法使用这些模型来发现漏洞并使其软件和产品更加安全。“在没有正当理由的情况下，当我们的对手正在迅速推进时，将最好的能力从防御者手中夺走是危险的，”信中写道。上周五，美国政府命令 Anthropic 限制 Fable 和 Mythos 的出口，理由是国家安全隐患，但没有解释命令背后的具体原因。——Techcrunch",
-      "datetime": "2026-06-16T09:29:40+00:00",
-      "views": "1.45K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30131",
-      "scraped_at": "2026-06-16T18:00:44.559884",
-      "title": "专家抗议美禁AI模型出口",
-      "title_options": {
-        "conclusion": "专家抗议美禁AI模型出口",
-        "attractive": "美禁令夺走最佳防御工具",
-        "minimal": "专家抗议美禁令"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1774,6 +1752,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-17T21:28:01.674812"
+  "count": 71,
+  "updated_at": "2026-06-17T21:33:06.625441"
 }
