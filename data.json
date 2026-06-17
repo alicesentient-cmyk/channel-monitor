@@ -1770,37 +1770,6 @@
       }
     },
     {
-      "id": "zaihuapd_41986",
-      "channel": "zaihuapd",
-      "text": "腾讯即将推出腾讯网盘，官网已上线腾讯网盘网盘黄钻、网盘绿钻、网盘蓝钻、网盘黑钻、网盘币、网盘小程序",
-      "clean_text": "🐧腾讯即将推出腾讯网盘，官网已上线腾讯网盘🤩💢网盘黄钻、网盘绿钻、网盘蓝钻、网盘黑钻、网盘币、网盘小程序·备用频道",
-      "datetime": "2026-06-16T10:19:18+00:00",
-      "views": "4.84K",
-      "source_links": [
-        {
-          "text": "腾讯网盘",
-          "url": "https://drive.tencent.com/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/41986",
-      "scraped_at": "2026-06-16T19:00:27.001401",
-      "title": "腾讯将推网盘服务",
-      "title_options": {
-        "conclusion": "腾讯将推网盘服务",
-        "attractive": "腾讯网盘上线多钻",
-        "minimal": "腾讯网盘上线",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1819,6 +1788,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-06-17T22:18:41.508870"
+  "count": 72,
+  "updated_at": "2026-06-17T22:23:50.570380"
 }
