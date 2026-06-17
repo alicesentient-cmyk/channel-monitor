@@ -6314,5 +6314,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-17T12:05:12.406411"
+  },
+  "xhqcankao_30158": {
+    "ai_title": "五人策划无人机袭击白宫被捕",
+    "title_options": {
+      "conclusion": "五人策划无人机袭击白宫被捕",
+      "attractive": "母亲报警阻止白宫袭击",
+      "minimal": "白宫袭击阴谋被捕",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T13:05:56.456268"
+  },
+  "xhqcankao_30157": {
+    "ai_title": "美司法部要求驳回xAI诉讼",
+    "title_options": {
+      "conclusion": "美司法部要求驳回xAI诉讼",
+      "attractive": "AI创新威胁国家安全？",
+      "minimal": "司法部xAI诉讼驳回",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-17T13:05:56.475938"
   }
 }
