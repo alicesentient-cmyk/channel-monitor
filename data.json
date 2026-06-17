@@ -1733,29 +1733,6 @@
       }
     },
     {
-      "id": "xhqcankao_30129",
-      "channel": "xhqcankao",
-      "text": "谷歌Chrome正在清理Manifest V2代码据 9to5Google 报道，预计分别于六月下旬和七月发布的 Google Chrome 浏览器 150 和 151版本，将切断对运行旧版广告拦截器最后剩余变通方法的支持。谷歌于 2024 年逐步停止了对为 Manifest V2构建的uBlock Origin等广告拦截扩展的支持。到六月下旬和七月，大多数 Chrome 用户要么转而使用更新的 Manifest V3 广告拦截器(如 uBlock Origin Lite)，要么更换其他浏览器。谷歌现在正在清理引用其先前 Manifest V2 扩展平台的最后代码片段，因此只有能在 Manifest V3  平台上运行的广告拦截器才能在 Chrome 151 版本及更高版本中工作。",
-      "clean_text": "谷歌Chrome正在清理Manifest V2代码据 9to5Google 报道，预计分别于六月下旬和七月发布的 Google Chrome 浏览器 150 和 151版本，将切断对运行旧版广告拦截器最后剩余变通方法的支持。谷歌于 2024 年逐步停止了对为 Manifest V2构建的uBlock Origin等广告拦截扩展的支持。到六月下旬和七月，大多数 Chrome 用户要么转而使用更新的 Manifest V3 广告拦截器(如 uBlock Origin Lite)，要么更换其他浏览器。谷歌现在正在清理引用其先前 Manifest V2 扩展平台的最后代码片段，因此只有能在 Manifest V3  平台上运行的广告拦截器才能在 Chrome 151 版本及更高版本中工作。——Theverge",
-      "datetime": "2026-06-16T08:32:01+00:00",
-      "views": "1.53K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30129",
-      "scraped_at": "2026-06-16T17:00:56.094109",
-      "title": "Chrome将切断旧广告拦截支持",
-      "title_options": {
-        "conclusion": "Chrome将切断旧广告拦截支持",
-        "attractive": "旧广告拦截器六月失效",
-        "minimal": "Chrome清理Manifest V2",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1774,6 +1751,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-17T20:27:10.420130"
+  "count": 71,
+  "updated_at": "2026-06-17T20:32:15.041476"
 }
