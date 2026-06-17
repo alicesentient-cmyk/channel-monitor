@@ -1716,24 +1716,6 @@
       }
     },
     {
-      "id": "zaihuapd_41988",
-      "channel": "zaihuapd",
-      "text": "SpaceX 获 600 亿美元期权收购 AI 编程工具 Cursor  SpaceX 获得以 600 亿美元收购 AI 编程初创公司 Cursor 的期权，该估值较后者去年 11 月的 293 亿美元翻倍；若未能达成收购，SpaceX 仍需支付 100 亿美元用于双方合作。这是 SpaceX 筹备大规模 IPO 并整合 AI 业务的关键布局，计划结合 Cursor 产品与其 xAI 的 Colossus 超算构建先进模型，以挑战 OpenAI 与 Anthropic。  The Wall Street Journal…",
-      "clean_text": "SpaceX 获 600 亿美元期权收购 AI 编程工具 Cursor  SpaceX 获得以 600 亿美元收购 AI 编程初创公司 Cursor 的期权，该估值较后者去年 11 月的 293 亿美元翻倍；若未能达成收购，SpaceX 仍需支付 100 亿美元用于双方合作。这是 SpaceX 筹备大规模 IPO 并整合 AI 业务的关键布局，计划结合 Cursor 产品与其 xAI 的 Colossus 超算构建先进模型，以挑战 OpenAI 与 Anthropic。  The Wall Street Journal…",
-      "datetime": "2026-06-16T11:50:19+00:00",
-      "views": "1.73K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/41988",
-      "scraped_at": "2026-06-16T20:01:08.704726",
-      "title": "SpaceX 600亿美元购Cursor",
-      "title_options": {
-        "conclusion": "SpaceX 600亿美元购Cursor",
-        "attractive": "SpaceX 600亿赌AI编程",
-        "minimal": "SpaceX收购Cursor",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1752,6 +1734,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-06-17T23:50:04.980985"
+  "count": 70,
+  "updated_at": "2026-06-17T23:55:09.517510"
 }
