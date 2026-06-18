@@ -1632,29 +1632,6 @@
       }
     },
     {
-      "id": "xhqcankao_30150",
-      "channel": "xhqcankao",
-      "text": "微软考虑采用开源模型降低智能体费用周三，微软公司正在将其智能体产品Copilot Cowork转向 “按使用量计费” 模式，并正在考虑采用DeepSeek V4等开源模型，以解决“AI太贵”的问题。微软负责Copilot、智能体及平台业务的执行副总裁查尔斯·拉曼纳对媒体表示，测试显示Copilot Cowork无法以无限制使用的方式提供。拉曼纳说道：“我们有用户每周执行数百项任务，这固然很好，他们的效率大幅提升，但代价是成本可能变得非常高。”微软透露正在探索基于DeepSeek V4或者其他开源模型的微调版本，作为驱动Copilot Cowork的更实惠替代方案。目前这项业务日常调用Anthropic或OpenAI模型。",
-      "clean_text": "微软考虑采用开源模型降低智能体费用周三，微软公司正在将其智能体产品Copilot Cowork转向 “按使用量计费” 模式，并正在考虑采用DeepSeek V4等开源模型，以解决“AI太贵”的问题。微软负责Copilot、智能体及平台业务的执行副总裁查尔斯·拉曼纳对媒体表示，测试显示Copilot Cowork无法以无限制使用的方式提供。拉曼纳说道：“我们有用户每周执行数百项任务，这固然很好，他们的效率大幅提升，但代价是成本可能变得非常高。”微软透露正在探索基于DeepSeek V4或者其他开源模型的微调版本，作为驱动Copilot Cowork的更实惠替代方案。目前这项业务日常调用Anthropic或OpenAI模型。——财联社",
-      "datetime": "2026-06-17T00:32:17+00:00",
-      "views": "1.01K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2401717?sv=8.5.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30150",
-      "scraped_at": "2026-06-17T09:00:48.444404",
-      "title": "微软考虑开源模型降费",
-      "title_options": {
-        "conclusion": "微软考虑开源模型降费",
-        "attractive": "AI太贵，微软换开源",
-        "minimal": "微软开源模型降费",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1673,6 +1650,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-18T12:29:32.487581"
+  "count": 65,
+  "updated_at": "2026-06-18T12:34:35.720630"
 }
