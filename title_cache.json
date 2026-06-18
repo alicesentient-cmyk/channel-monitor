@@ -6907,5 +6907,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T14:00:48.108707"
+  },
+  "xhqcankao_30197": {
+    "ai_title": "博世被罚3600万美元",
+    "title_options": {
+      "conclusion": "博世被罚3600万美元",
+      "attractive": "博世向华为出口受限产品",
+      "minimal": "博世华为出口罚3600万",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T15:01:27.353464"
+  },
+  "xhqcankao_30196": {
+    "ai_title": "Fortinet遭黑波及500强",
+    "title_options": {
+      "conclusion": "Fortinet遭黑波及500强",
+      "attractive": "7.5万防火墙被黑窃密",
+      "minimal": "Fortinet遭黑窃密",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T15:01:27.411130"
+  },
+  "zaihuapd_42027": {
+    "ai_title": "谷歌或采购长鑫存储DRAM",
+    "title_options": {
+      "conclusion": "谷歌或采购长鑫存储DRAM",
+      "attractive": "谷歌评估中国内存芯片",
+      "minimal": "谷歌 长鑫 DRAM",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T15:01:27.852243"
+  },
+  "xhqcankao_30195": {
+    "ai_title": "三星2030年实现无人晶圆厂",
+    "title_options": {
+      "conclusion": "三星2030年实现无人晶圆厂",
+      "attractive": "罢工赢奖金却输工作？",
+      "minimal": "三星无人晶圆厂2030",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T15:01:28.676096"
   }
 }
