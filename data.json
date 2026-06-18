@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42038",
+      "channel": "zaihuapd",
+      "text": "追觅收缩业务至四大主线，裁员 12%追觅正在将超过 200 个业务单元合并为四大主营业务：全屋智能清洁、智能家电、智慧出行和 AI 具身智能，未实际落地的 BU 直接取消。整体裁员 12%，略高于往年 10%的年中考核淘汰比例。智能清洁板块人员近 1.2 万人，占全公司半数以上，研发人员占七成。被裁员工根据不同情况获 0.5 至 N+1 不等的补偿，试用期新员工受影响最大；部分职能和研发、销售人员可通过活水转岗。手机、汽车、芯片等重资产长周期业务则划入新设立的产业研究院，专注技术研发。腾讯新闻·英文频道·",
+      "clean_text": "追觅收缩业务至四大主线，裁员 12%追觅正在将超过 200 个业务单元合并为四大主营业务：全屋智能清洁、智能家电、智慧出行和 AI 具身智能，未实际落地的 BU 直接取消。整体裁员 12%，略高于往年 10%的年中考核淘汰比例。智能清洁板块人员近 1.2 万人，占全公司半数以上，研发人员占七成。被裁员工根据不同情况获 0.5 至 N+1 不等的补偿，试用期新员工受影响最大；部分职能和研发、销售人员可通过活水转岗。手机、汽车、芯片等重资产长周期业务则划入新设立的产业研究院，专注技术研发。腾讯新闻·英文频道",
+      "datetime": "2026-06-18T14:49:37+00:00",
+      "views": "1.66K",
+      "source_links": [
+        {
+          "text": "腾讯新闻",
+          "url": "https://news.qq.com/rain/a/20260618A08F3L00"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42038",
+      "scraped_at": "2026-06-18T23:00:18.136614",
+      "title": "追觅裁员12%并整合业务",
+      "title_options": {
+        "conclusion": "追觅裁员12%并整合业务",
+        "attractive": "追觅裁员12%业务整合",
+        "minimal": "追觅裁员12%",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30210",
+      "channel": "xhqcankao",
+      "text": "《侠盗猎车手VI》将于6月25日正式开启预购，届时可在各大数字商店及其他指定零售商处购买。——RockstarGames on X",
+      "clean_text": "《侠盗猎车手VI》将于6月25日正式开启预购，届时可在各大数字商店及其他指定零售商处购买。——RockstarGames on X",
+      "datetime": "2026-06-18T14:31:58+00:00",
+      "views": "1.4K",
+      "source_links": [
+        {
+          "text": "RockstarGames on X",
+          "url": "https://x.com/RockstarGames/status/2067594067030979053"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30210",
+      "scraped_at": "2026-06-18T23:00:20.586438",
+      "title": "GTA6 6月25日开启预购",
+      "title_options": {
+        "conclusion": "GTA6 6月25日开启预购",
+        "attractive": "GTA6预购日期确定",
+        "minimal": "GTA6 6月25日预购",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42037",
+      "channel": "zaihuapd",
+      "text": "《侠盗猎车手 VI》的预购将于 6 月 25 日在各大数字平台及其他指定零售商正式开启。Rockstar Games·英文频道·",
+      "clean_text": "《侠盗猎车手 VI》的预购将于 6 月 25 日在各大数字平台及其他指定零售商正式开启。Rockstar Games·英文频道",
+      "datetime": "2026-06-18T14:04:37+00:00",
+      "views": "5.56K",
+      "source_links": [
+        {
+          "text": "Rockstar Games",
+          "url": "https://x.com/RockstarGames/status/2067594067030979053"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42037",
+      "scraped_at": "2026-06-18T23:00:18.136116",
+      "title": "GTA6预购6月25日开启",
+      "title_options": {
+        "conclusion": "GTA6预购6月25日开启",
+        "attractive": "GTA6预购倒计时开始",
+        "minimal": "GTA6预购6月25日",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42036",
       "channel": "zaihuapd",
       "text": "中央网信办启动为期 3 个月整治账号名称信息乱象专项行动中央网信办自即日起开展“清朗·整治账号名称信息乱象”专项行动，为期 3 个月，集中整治账号名称信息突出问题，督促网站平台严格落实主体责任，完善账号名称信息全流程管理。行动重点打击四类乱象：一是假冒仿冒党政机关、媒体及名人账号；二是未经认证伪装专业人士或热点当事人；三是在头像、名称中夹带违规外链或暗含不良信息；四是伪造流量数据、虚假“大 V”及篡改“僵尸”账号等黑灰产。平台需健全资质认证与动态核验机制，对违规账号采取禁言、限流、关闭等措施。中央网信办·英文频道·",
@@ -1593,35 +1678,8 @@
         "minimal": "AI专属卡",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30171",
-      "channel": "xhqcankao",
-      "text": "谷歌招募用户测试Gemini即将推出的功能谷歌正在寻找部分Gemini用户来帮助测试即将推出的功能，然后再向所有人推出。谷歌Gemini副总裁乔什·伍德沃德在 X 平台上宣布，公司正在其 Gemini App 可信测试者计划中开放有限名额。据伍德沃德称，该计划面向喜欢测试新技术并就未发布功能提供反馈的 “高级用户”。感兴趣的用户可以通过公告中链接的这个谷歌表单申请。申请表中要求填写个人基本信息，如你的姓名、地区和年龄，以及关于您的职业和使用AI工具频率的问题。谷歌也希望了解申请者使用其他AI助手的经验，包括ChatGPT、Claude等。谷歌尚未透露计划招募多少用户、测试者将获得哪些具体福利，或者邀请何时开始发出。",
-      "clean_text": "谷歌招募用户测试Gemini即将推出的功能谷歌正在寻找部分Gemini用户来帮助测试即将推出的功能，然后再向所有人推出。谷歌Gemini副总裁乔什·伍德沃德在 X 平台上宣布，公司正在其 Gemini App 可信测试者计划中开放有限名额。据伍德沃德称，该计划面向喜欢测试新技术并就未发布功能提供反馈的 “高级用户”。感兴趣的用户可以通过公告中链接的这个谷歌表单申请。申请表中要求填写个人基本信息，如你的姓名、地区和年龄，以及关于您的职业和使用AI工具频率的问题。谷歌也希望了解申请者使用其他AI助手的经验，包括ChatGPT、Claude等。谷歌尚未透露计划招募多少用户、测试者将获得哪些具体福利，或者邀请何时开始发出。——Androidauthority",
-      "datetime": "2026-06-17T11:02:17+00:00",
-      "views": "2.11K",
-      "source_links": [
-        {
-          "text": "这个谷歌表单申请。",
-          "url": "https://t.co/kSsRsavJPv"
-        },
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/google-gemini-app-trusted-tester-program-3678282/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30171",
-      "scraped_at": "2026-06-17T20:00:55.066374",
-      "title": "谷歌招募用户测试Gemini",
-      "title_options": {
-        "conclusion": "谷歌招募用户测试Gemini",
-        "attractive": "谷歌招募高级用户测新功能",
-        "minimal": "谷歌招募Gemini测试者",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-18T22:58:50.846352"
+  "count": 65,
+  "updated_at": "2026-06-18T23:03:55.846316"
 }
