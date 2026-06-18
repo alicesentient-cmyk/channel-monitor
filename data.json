@@ -1,6 +1,51 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30202",
+      "channel": "xhqcankao",
+      "text": "前谷歌Gemini联席负责人加入OpenAI公司今日，谷歌 DeepMind 研究员、Gemini 联席负责人Noam Shazeer正式加入 OpenAI 公司，将担任架构研究负责人，负责探索新一代AI模型架构，并推动Transformer架构的进一步演进。Shazeer本人也在社交平台上发文官宣加入 OpenAI，他说：“我很高兴加入OpenAI，并期待与这里卓越的团队一起工作。”对此，谷歌则发表声明感谢其多年来的重大贡献，并祝他一切顺利。作为2017年划时代论文《Attention Is All You Need》的核心作者，Shazeer所提出的Transformer架构是ChatGPT、GPT系列模型以及整个生成式AI爆发的底层核心基础。",
+      "clean_text": "前谷歌Gemini联席负责人加入OpenAI公司今日，谷歌 DeepMind 研究员、Gemini 联席负责人Noam Shazeer正式加入 OpenAI 公司，将担任架构研究负责人，负责探索新一代AI模型架构，并推动Transformer架构的进一步演进。Shazeer本人也在社交平台上发文官宣加入 OpenAI，他说：“我很高兴加入OpenAI，并期待与这里卓越的团队一起工作。”对此，谷歌则发表声明感谢其多年来的重大贡献，并祝他一切顺利。作为2017年划时代论文《Attention Is All You Need》的核心作者，Shazeer所提出的Transformer架构是ChatGPT、GPT系列模型以及整个生成式AI爆发的底层核心基础。——财联社、雅虎新闻",
+      "datetime": "2026-06-18T09:30:20+00:00",
+      "views": "1.51K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2403297?sv=859"
+        },
+        {
+          "text": "雅虎新闻",
+          "url": "https://tw.stock.yahoo.com/news/%E8%B0%B7%E6%AD%8C-transformer%E4%B9%8B%E7%88%B6-shazeer%E8%B7%B3%E6%A7%BDopenai-%E5%B0%88%E7%A0%94ai%E6%A8%A1%E5%9E%8B%E6%96%B0%E6%9E%B6%E6%A7%8B-034834020.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30202",
+      "scraped_at": "2026-06-18T18:00:16.605606",
+      "title": "前谷歌Gemini负责人加入OpenAI",
+      "title_options": {
+        "conclusion": "前谷歌Gemini负责人加入OpenAI",
+        "attractive": "Transformer作者跳槽Open…",
+        "minimal": "Shazeer加入OpenAI",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42031",
+      "channel": "zaihuapd",
+      "text": "Apple 与 Intel 达成初步芯片代工协议  Apple 与 Intel 已达成初步协议，由 Intel 代工生产部分 Apple 设备所需的芯片。双方谈判历时一年有余，并在近几个月敲定了正式合同。目前尚不明确 Intel 将具体为 iPhone、iPad 或 Mac 中的哪类产品代工芯片。  此次合作由美国政府深度推动，商务部长此前曾多次游说 Tim Cook 等高层。随着 Apple 协议的达成，Intel 目前已与 Nvidia、SpaceX 和 Apple 三家公司均建立了代工合作伙伴关系。…",
+      "clean_text": "Apple 与 Intel 达成初步芯片代工协议  Apple 与 Intel 已达成初步协议，由 Intel 代工生产部分 Apple 设备所需的芯片。双方谈判历时一年有余，并在近几个月敲定了正式合同。目前尚不明确 Intel 将具体为 iPhone、iPad 或 Mac 中的哪类产品代工芯片。  此次合作由美国政府深度推动，商务部长此前曾多次游说 Tim Cook 等高层。随着 Apple 协议的达成，Intel 目前已与 Nvidia、SpaceX 和 Apple 三家公司均建立了代工合作伙伴关系。…",
+      "datetime": "2026-06-18T09:19:15+00:00",
+      "views": "3.96K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42031",
+      "scraped_at": "2026-06-18T18:00:14.816108",
+      "title": "苹果与英特尔达成芯片代工协议",
+      "title_options": {
+        "conclusion": "苹果与英特尔达成芯片代工协议",
+        "attractive": "英特尔代工苹果芯片",
+        "minimal": "苹果英特尔芯片代工",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30201",
       "channel": "xhqcankao",
       "text": "Circles向镇压性国家出售手机间谍工具据人权观察获取的文件显示，一家总部位于保加利亚的公司将具有争议的监控技术出售给有镇压记录国家的政府，使当局能够追踪手机并窃听私人通信。根据人权观察周四发布的报告，监控公司Circles提供了能够窃听电话、短信和互联网活动的工具。这些文件 —— 一批涵盖Circles在2018至2023年间销售的保加利亚出口记录",
@@ -1655,30 +1700,8 @@
         "minimal": "台账号被封",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30161",
-      "channel": "xhqcankao",
-      "text": "美国放宽限制允许进口部分中国玩具无人机美国联邦通信委员会周二表示，将允许中国玩具无人机新型号输入美国。去年12月，美国联邦通信委员会宣布，禁止中国无人机制造商大疆创新和道通智能等外国企业生产的新款无人机及关键零部件进入美国市场，理由是这些产品对美国国家安全构成不可接受的风险。联邦通信委员会指出，此次政策调整是依据美国国防部的一项认定作出的。国防部认为，功能较为简单、风险较低的玩具类无人机不构成国家安全威胁，因为它们不具备传统无人机所拥有的远距离飞行、长续航、先进感测、载荷运输、网络连接以及数据收集和存储等核心功能和特性。",
-      "clean_text": "美国放宽限制允许进口部分中国玩具无人机美国联邦通信委员会周二表示，将允许中国玩具无人机新型号输入美国。去年12月，美国联邦通信委员会宣布，禁止中国无人机制造商大疆创新和道通智能等外国企业生产的新款无人机及关键零部件进入美国市场，理由是这些产品对美国国家安全构成不可接受的风险。联邦通信委员会指出，此次政策调整是依据美国国防部的一项认定作出的。国防部认为，功能较为简单、风险较低的玩具类无人机不构成国家安全威胁，因为它们不具备传统无人机所拥有的远距离飞行、长续航、先进感测、载荷运输、网络连接以及数据收集和存储等核心功能和特性。——路透社",
-      "datetime": "2026-06-17T06:03:29+00:00",
-      "views": "2.34K",
-      "source_links": [
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/world/us/us-agency-removes-chinese-toy-drones-import-ban-list-2026-06-16/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30161",
-      "scraped_at": "2026-06-17T15:00:32.141043",
-      "title": "美放宽玩具无人机进口",
-      "title_options": {
-        "conclusion": "美放宽玩具无人机进口",
-        "attractive": "玩具无人机获豁免",
-        "minimal": "美放宽玩具无人机"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-18T17:58:57.945174"
+  "count": 67,
+  "updated_at": "2026-06-18T18:04:03.429626"
 }

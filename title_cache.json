@@ -7014,5 +7014,25 @@
       "minimal": "西安AI造谣小米案"
     },
     "generated_at": "2026-06-18T17:03:17.259750"
+  },
+  "xhqcankao_30202": {
+    "ai_title": "前谷歌Gemini负责人加入OpenAI",
+    "title_options": {
+      "conclusion": "前谷歌Gemini负责人加入OpenAI",
+      "attractive": "Transformer作者跳槽Open…",
+      "minimal": "Shazeer加入OpenAI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T18:04:03.394314"
+  },
+  "zaihuapd_42031": {
+    "ai_title": "苹果与英特尔达成芯片代工协议",
+    "title_options": {
+      "conclusion": "苹果与英特尔达成芯片代工协议",
+      "attractive": "英特尔代工苹果芯片",
+      "minimal": "苹果英特尔芯片代工",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T18:04:03.417123"
   }
 }
