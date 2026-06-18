@@ -6717,5 +6717,25 @@
       "minimal": "硬盘价超主机"
     },
     "generated_at": "2026-06-18T08:01:01.088020"
+  },
+  "xhqcankao_30183": {
+    "ai_title": "黄仁勋呼吁全民拥抱AI",
+    "title_options": {
+      "conclusion": "黄仁勋呼吁全民拥抱AI",
+      "attractive": "AI重塑社会需新规则",
+      "minimal": "黄仁勋AI呼吁",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T09:01:36.706781"
+  },
+  "xhqcankao_30184": {
+    "ai_title": "iPhone Air二代明春发布",
+    "title_options": {
+      "conclusion": "iPhone Air二代明春发布",
+      "attractive": "双摄续航短板补全",
+      "minimal": "Air二代双摄续航",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T09:01:36.757522"
   }
 }
