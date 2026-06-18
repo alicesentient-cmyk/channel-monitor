@@ -1674,38 +1674,8 @@
         "minimal": "郝景芳 AI 新作",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42010",
-      "channel": "zaihuapd",
-      "text": "Anthropic 与白宫争端未阻企业增长，5 月市场份额首超 OpenAIAnthropic 5 月份在企业 AI 支出市场的份额首次超过 OpenAI。Ramp 数据显示，其企业订阅占比升至 41%，OpenAI 为 39.5%。就在当月，特朗普政府以出口管制为由，要求 Anthropic 禁止非美国人访问最新模型 Mythos 5 和 Fable 5，迫使其将这两款模型下架。矛盾的是，与白宫的冲突似乎并未打击企业需求，反而可能助推了销售。Ramp 经济学家表示，此前被国防部列为供应链风险的那个月，正是 Anthropic 企业采用量最高的月份。目前企业主要使用的仍是已公开的 Claude Opus 系列，最新模型下架对其整体业务的影响尚难量化，但对 IPO 的潜在影响仍有待观察。TechCrunch",
-      "clean_text": "Anthropic 与白宫争端未阻企业增长，5 月市场份额首超 OpenAIAnthropic 5 月份在企业 AI 支出市场的份额首次超过 OpenAI。Ramp 数据显示，其企业订阅占比升至 41%，OpenAI 为 39.5%。就在当月，特朗普政府以出口管制为由，要求 Anthropic 禁止非美国人访问最新模型 Mythos 5 和 Fable 5，迫使其将这两款模型下架。矛盾的是，与白宫的冲突似乎并未打击企业需求，反而可能助推了销售。Ramp 经济学家表示，此前被国防部列为供应链风险的那个月，正是 Anthropic 企业采用量最高的月份。目前企业主要使用的仍是已公开的 Claude Opus 系列，最新模型下架对其整体业务的影响尚难量化，但对 IPO 的潜在影响仍有待观察。TechCrunch·备用频道",
-      "datetime": "2026-06-17T09:30:00+00:00",
-      "views": "3.23K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42010",
-      "scraped_at": "2026-06-17T18:00:28.481261",
-      "title": "Anthropic企业份额首超Open…",
-      "title_options": {
-        "conclusion": "Anthropic企业份额首超Open…",
-        "attractive": "白宫争端反促Anthropic增长",
-        "minimal": "Anthropic份额41%超Open…"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-18T21:27:36.126127"
+  "count": 66,
+  "updated_at": "2026-06-18T21:32:39.677946"
 }
