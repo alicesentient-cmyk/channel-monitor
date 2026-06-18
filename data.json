@@ -1677,43 +1677,8 @@
         "attractive": "玩具无人机获豁免",
         "minimal": "美放宽玩具无人机"
       }
-    },
-    {
-      "id": "zaihuapd_42005",
-      "channel": "zaihuapd",
-      "text": "韩国兴起“多巴胺网站”：模拟点餐购物缓解焦虑韩国年轻人正流行使用\"多巴胺网站\"，通过模拟外卖点餐、网购甚至虚拟抽烟获得短暂满足。用户只需在网页上浏览菜单、将商品加入购物车并点击下单，就能缓解深夜食欲或工作压力，无需真正花钱或摄入食物。学者认为，这类虚拟体验满足了网络原住民对即时刺激的需求，也让他们在充满不确定性的现实中，以零成本替代日常消费行为，获得心理上的安慰。TechSpot｜体验地址（仅韩语）",
-      "clean_text": "韩国兴起“多巴胺网站”：模拟点餐购物缓解焦虑韩国年轻人正流行使用\"多巴胺网站\"，通过模拟外卖点餐、网购甚至虚拟抽烟获得短暂满足。用户只需在网页上浏览菜单、将商品加入购物车并点击下单，就能缓解深夜食欲或工作压力，无需真正花钱或摄入食物。学者认为，这类虚拟体验满足了网络原住民对即时刺激的需求，也让他们在充满不确定性的现实中，以零成本替代日常消费行为，获得心理上的安慰。TechSpot｜体验地址（仅韩语）·备用频道",
-      "datetime": "2026-06-17T05:49:21+00:00",
-      "views": "1.95K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/112776-rise-dopamine-sites-fake-food-delivery-shopping-apps.html"
-        },
-        {
-          "text": "体验地址（仅韩语）",
-          "url": "https://chatgpt.com/canvas/shared/69c3ebe13900819185f066d163793b04"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42005",
-      "scraped_at": "2026-06-17T14:00:47.115381",
-      "title": "韩兴起多巴胺网站",
-      "title_options": {
-        "conclusion": "韩兴起多巴胺网站",
-        "attractive": "零成本模拟点餐",
-        "minimal": "多巴胺网站",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-18T17:48:49.254304"
+  "count": 66,
+  "updated_at": "2026-06-18T17:53:54.445481"
 }
