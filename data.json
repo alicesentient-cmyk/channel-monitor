@@ -1636,24 +1636,6 @@
       }
     },
     {
-      "id": "zaihuapd_42003",
-      "channel": "zaihuapd",
-      "text": "GitHub Copilot 2026 年 6 月起改为按使用量计费，老用户调用 GPT-5.5 乘数达 57 倍  GitHub 将从 2026 年 6 月 1 日起，把 Copilot 的主要计费方式切换为按用量计费，费用按 Token 消耗计算，各档方案会提供每月 GitHub AI Credits 额度。  针对仍处于传统年度计划中的老用户，官方允许其继续沿用旧版计费模式直到计划到期。而在最新公布的模型乘数表中，GPT-5.5 模型的单次请求计费乘数设定为 57 倍。  GitHub Docs…",
-      "clean_text": "💻GitHub Copilot 2026 年 6 月起改为按使用量计费，老用户调用 GPT-5.5 乘数达 57 倍  GitHub 将从 2026 年 6 月 1 日起，把 Copilot 的主要计费方式切换为按用量计费，费用按 Token 消耗计算，各档方案会提供每月 GitHub AI Credits 额度。  针对仍处于传统年度计划中的老用户，官方允许其继续沿用旧版计费模式直到计划到期。而在最新公布的模型乘数表中，GPT-5.5 模型的单次请求计费乘数设定为 57 倍。  GitHub Docs…",
-      "datetime": "2026-06-17T03:16:39+00:00",
-      "views": "3.98K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42003",
-      "scraped_at": "2026-06-17T12:00:25.195045",
-      "title": "Copilot 2026年6月起按量计费",
-      "title_options": {
-        "conclusion": "Copilot 2026年6月起按量计费",
-        "attractive": "GPT-5.5调用费57倍",
-        "minimal": "Copilot 按量计费",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1672,6 +1654,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-18T15:11:36.094632"
+  "count": 65,
+  "updated_at": "2026-06-18T15:16:40.388525"
 }
