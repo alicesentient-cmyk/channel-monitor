@@ -1684,24 +1684,6 @@
       }
     },
     {
-      "id": "zaihuapd_42001",
-      "channel": "zaihuapd",
-      "text": "哪吒监控探针存在 CVSS 评分为 9.1 的高危路径穿越漏洞  哪吒监控（Nezha）v2.0.13 以下版本存在严重未授权路径穿越漏洞，编号 CVE-2026-53519，CVSS 评分为 9.1 属高危级别。攻击者通过构造 GET 请求（如 /dashboard../data/config.yaml）即可读取配置文件，获取其中的 JWT 密钥。  Github",
-      "clean_text": "哪吒监控探针存在 CVSS 评分为 9.1 的高危路径穿越漏洞  哪吒监控（Nezha）v2.0.13 以下版本存在严重未授权路径穿越漏洞，编号 CVE-2026-53519，CVSS 评分为 9.1 属高危级别。攻击者通过构造 GET 请求（如 /dashboard../data/config.yaml）即可读取配置文件，获取其中的 JWT 密钥。  Github · 备用频道 · 投稿通道",
-      "datetime": "2026-06-17T01:25:18+00:00",
-      "views": "3.44K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42001",
-      "scraped_at": "2026-06-17T10:00:16.175112",
-      "title": "哪吒监控存高危漏洞",
-      "title_options": {
-        "conclusion": "哪吒监控存高危漏洞",
-        "attractive": "9.1分漏洞可窃密钥",
-        "minimal": "哪吒监控路径穿越",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1720,6 +1702,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-18T13:20:18.880500"
+  "count": 67,
+  "updated_at": "2026-06-18T13:25:22.619031"
 }
