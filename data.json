@@ -1657,33 +1657,6 @@
       }
     },
     {
-      "id": "xhqcankao_30152",
-      "channel": "xhqcankao",
-      "text": "美商务部长警告信曝光：Anthropic未经许可向外国人提供AI模型将被处罚美国商务部长霍华德·卢特尼克上周五在一封信中警告 Anthropic 公司，该公司若要让外国人使用其最先进的AI模型，必须获得政府许可。卢特尼克还威胁称，如果该公司未能遵守规定，将面临刑事和民事处罚。这封信要求 Anthropic 未经商务部许可，不得将其Fable 5和Mythos 5 AI模型提供给世界任何地方的外国公民。卢特尼克没有说明实施这些限制的必要依据，但他在信中援引了美国法律，该法允许政府对可能被对手国家军方用于情报目的的民用技术实施出口管制。美国商务部的这一指令促使 Anthropic 在上周五晚间暂停了对这两个模型的所有访问。",
-      "clean_text": "美商务部长警告信曝光：Anthropic未经许可向外国人提供AI模型将被处罚美国商务部长霍华德·卢特尼克上周五在一封信中警告 Anthropic 公司，该公司若要让外国人使用其最先进的AI模型，必须获得政府许可。卢特尼克还威胁称，如果该公司未能遵守规定，将面临刑事和民事处罚。这封信要求 Anthropic 未经商务部许可，不得将其Fable 5和Mythos 5 AI模型提供给世界任何地方的外国公民。卢特尼克没有说明实施这些限制的必要依据，但他在信中援引了美国法律，该法允许政府对可能被对手国家军方用于情报目的的民用技术实施出口管制。美国商务部的这一指令促使 Anthropic 在上周五晚间暂停了对这两个模型的所有访问。——凤凰网科技、彭博社",
-      "datetime": "2026-06-17T01:32:14+00:00",
-      "views": "1.25K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006uSYCY---_7ERuNLOkJ1UjnNtFOkhtnFFrx3AniR-_88--x4URyqAd3JVC-_MeaqN3BWPl"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30152",
-      "scraped_at": "2026-06-17T10:00:18.175405",
-      "title": "美警告Anthropic勿向外国人提供…",
-      "title_options": {
-        "conclusion": "美警告Anthropic勿向外国人提供…",
-        "attractive": "未经许可提供AI模型将面临处罚",
-        "minimal": "美商务部长警告Anthropic",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_41976",
       "channel": "zaihuapd",
       "text": "蚂蚁集团被曝正测试 AI 版支付宝  蚂蚁集团正秘密测试 AI 版支付宝。新版本将改变原有用户交互，可一键进入原生 AI 界面，并把服务和资金管理做得更智能。  新版本上线时间未定。蚂蚁集团拒绝评论。  科创板日报",
@@ -1702,6 +1675,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-18T13:30:25.370806"
+  "count": 66,
+  "updated_at": "2026-06-18T13:35:28.221131"
 }
