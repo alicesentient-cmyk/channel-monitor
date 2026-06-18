@@ -7104,5 +7104,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T20:00:31.930107"
+  },
+  "xhqcankao_30208": {
+    "ai_title": "DeepSeek识图模式上线",
+    "title_options": {
+      "conclusion": "DeepSeek识图模式上线",
+      "attractive": "识图认错自家老板",
+      "minimal": "DeepSeek识图上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T21:01:49.087564"
+  },
+  "zaihuapd_42035": {
+    "ai_title": "小米开源智能家居方案",
+    "title_options": {
+      "conclusion": "小米开源智能家居方案",
+      "attractive": "智能家居新方案发布",
+      "minimal": "小米开源方案"
+    },
+    "generated_at": "2026-06-18T21:01:49.185054"
+  },
+  "xhqcankao_30207": {
+    "ai_title": "贝索斯称AI将创造新岗位",
+    "title_options": {
+      "conclusion": "贝索斯称AI将创造新岗位",
+      "attractive": "AI不会抢饭碗？",
+      "minimal": "贝索斯驳斥AI失业论",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T21:01:49.407227"
   }
 }

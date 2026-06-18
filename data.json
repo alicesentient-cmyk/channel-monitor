@@ -1,6 +1,94 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30208",
+      "channel": "xhqcankao",
+      "text": "DeepSeek识图模式已在网页和App端上线DeepSeek多模态研究员陈小康在 X 发文表示，DeepSeek的识图模式已在网页和App 端正式上线。不过，有媒体测试发现，该功能在识别人物上不太准确。比如它认不出来自家老板梁文锋，一会认成王兴，一会认成其他人。不过，识别常见物品和知名建筑已经比较准确。两个月之前，DeepSeek 识图模式已经正式灰度落地。作为原生视觉交互入口，DeepSeek 识图模式与快速模式、专家模式并列作为独立一级功能，彻底摆脱了早期纯文本大模型的能力局限，实现图文一体化对话体验。需要提醒的是，识图模式并非简单的图片文字提取工具，或是简单OCR工具，而是依托自研 DeepSeek-OCR2 视觉因果流机制搭建完整视觉理解闭环。",
+      "clean_text": "DeepSeek识图模式已在网页和App端上线DeepSeek多模态研究员陈小康在 X 发文表示，DeepSeek的识图模式已在网页和App 端正式上线。不过，有媒体测试发现，该功能在识别人物上不太准确。比如它认不出来自家老板梁文锋，一会认成王兴，一会认成其他人。不过，识别常见物品和知名建筑已经比较准确。两个月之前，DeepSeek 识图模式已经正式灰度落地。作为原生视觉交互入口，DeepSeek 识图模式与快速模式、专家模式并列作为独立一级功能，彻底摆脱了早期纯文本大模型的能力局限，实现图文一体化对话体验。需要提醒的是，识图模式并非简单的图片文字提取工具，或是简单OCR工具，而是依托自研 DeepSeek-OCR2 视觉因果流机制搭建完整视觉理解闭环。——凤凰网科技",
+      "datetime": "2026-06-18T12:33:54+00:00",
+      "views": "1.3K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006dn9--RFTKZKg8iYvTNNd22eVC2NTJsssA3ad4uwc5FIPEbOEonBDyRbwzvqHjMJKe"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30208",
+      "scraped_at": "2026-06-18T21:00:54.994216",
+      "title": "DeepSeek识图模式上线",
+      "title_options": {
+        "conclusion": "DeepSeek识图模式上线",
+        "attractive": "识图认错自家老板",
+        "minimal": "DeepSeek识图上线",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42035",
+      "channel": "zaihuapd",
+      "text": "小米开源智能家居方案 Miloco 2.0 发布小米开源的智能家居方案 Miloco 2.0 正式发布。它以米家摄像头的音视频作为感知入口，内置 MiMo 大模型，作为 OpenClaw 插件运行，新增通用常识、身份识别、家庭记忆、家务任务、主动智能和家庭看板等功能，可主动观察、推理并控制全屋设备。用户需使用 macOS 或 Linux（Windows 通过 WSL 运行），建议 4 GB 内存和 256 GB 存储，并绑定小米账号与 MiMo API 密钥。感知和 Agent 主要依赖云端大模型，会产生持续 API 费用。该项目仅限非商业用途。Xiaomi|小米技术·英文频道··英文频道·",
+      "clean_text": "小米开源智能家居方案 Miloco 2.0 发布小米开源的智能家居方案 Miloco 2.0 正式发布。它以米家摄像头的音视频作为感知入口，内置 MiMo 大模型，作为 OpenClaw 插件运行，新增通用常识、身份识别、家庭记忆、家务任务、主动智能和家庭看板等功能，可主动观察、推理并控制全屋设备。用户需使用 macOS 或 Linux（Windows 通过 WSL 运行），建议 4 GB 内存和 256 GB 存储，并绑定小米账号与 MiMo API 密钥。感知和 Agent 主要依赖云端大模型，会产生持续 API 费用。该项目仅限非商业用途。Xiaomi|小米技术·英文频道·英文频道",
+      "datetime": "2026-06-18T12:23:37+00:00",
+      "views": "3.22K",
+      "source_links": [
+        {
+          "text": "Xiaomi",
+          "url": "https://github.com/XiaoMi/xiaomi-miloco"
+        },
+        {
+          "text": "小米技术",
+          "url": "https://mp.weixin.qq.com/s/d07dYCA_hJKzCNDo4J_9Bw"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42035",
+      "scraped_at": "2026-06-18T21:00:53.226730",
+      "title": "小米开源智能家居方案",
+      "title_options": {
+        "conclusion": "小米开源智能家居方案",
+        "attractive": "智能家居新方案发布",
+        "minimal": "小米开源方案"
+      }
+    },
+    {
+      "id": "xhqcankao_30207",
+      "channel": "xhqcankao",
+      "text": "AI“抢饭碗”？亚马逊的贝索斯：恰恰相反周三，贝索斯在巴黎举行的VivaTech大会上发表讲话，驳斥了人工智能将导致大量工作岗位消失的担忧。他表示，人工智能技术将带来新的机遇，并增加对能够将创意转化为现实的人才的需求。贝索斯说：“我知道很多人，包括很多聪明人，都担心人工智能会使人类变得多余。我完全不同意这种观点，而且我认为，事实上，人工智能将会造成劳动力短缺。”在贝索斯看来，人工智能的最终意义并不是 “抢饭碗”，而是可以更容易地将概念变为现实，这反过来又会创造对更多建设者、创造者和企业家的需求。“如果我们能够加快梦想实现的循环，所有的想法都将成为可能，”他继续说道：“到那时，限制我们的将不是我们的能力，而是我们的想象力。”",
+      "clean_text": "AI“抢饭碗”？亚马逊的贝索斯：恰恰相反周三，贝索斯在巴黎举行的VivaTech大会上发表讲话，驳斥了人工智能将导致大量工作岗位消失的担忧。他表示，人工智能技术将带来新的机遇，并增加对能够将创意转化为现实的人才的需求。贝索斯说：“我知道很多人，包括很多聪明人，都担心人工智能会使人类变得多余。我完全不同意这种观点，而且我认为，事实上，人工智能将会造成劳动力短缺。”在贝索斯看来，人工智能的最终意义并不是 “抢饭碗”，而是可以更容易地将概念变为现实，这反过来又会创造对更多建设者、创造者和企业家的需求。“如果我们能够加快梦想实现的循环，所有的想法都将成为可能，”他继续说道：“到那时，限制我们的将不是我们的能力，而是我们的想象力。”——财联社",
+      "datetime": "2026-06-18T12:02:10+00:00",
+      "views": "1.93K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2403344?sv=8.7.9&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30207",
+      "scraped_at": "2026-06-18T21:00:54.993818",
+      "title": "贝索斯称AI将创造新岗位",
+      "title_options": {
+        "conclusion": "贝索斯称AI将创造新岗位",
+        "attractive": "AI不会抢饭碗？",
+        "minimal": "贝索斯驳斥AI失业论",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42034",
       "channel": "zaihuapd",
       "text": "微软砸 200 万美元为 Edge 拉新：头奖 100 万美元现金 + 奔驰汽车  微软为推广 Edge 浏览器推出总奖金 200 万美元的“Edge Prize Party”抽奖活动，但活动上线一个多月后才被媒体发现。活动面向多国用户开放，持续至 2026 年 5 月 21 日。用户将 Edge 设为默认浏览器并完成 Bing 搜索即可参与抽奖。  IT之家｜｜",
@@ -1639,39 +1727,8 @@
         "minimal": "Mistral虚假信息",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42009",
-      "channel": "zaihuapd",
-      "text": "AdGuard 推出邮件追踪保护过滤器，拦截隐形追踪像素AdGuard 发布 Mail Tracking Protection 过滤器，可阻止邮件中嵌入的 1x1 像素追踪图片，防止发件人在你打开邮件时悄悄获取阅读状态、IP 地址、设备等信息。该过滤器适用于 AdGuard 保护的邮件客户端和浏览器邮箱，但在 Gmail 和 Outlook Web 上因图片经代理中转，效果可能打折扣；Apple Mail 的隐私保护已自动预载像素，本身就会干扰追踪。Windows 和 Mac 版现可启用，移动端与浏览器扩展将在后续更新支持。AdGuard",
-      "clean_text": "AdGuard 推出邮件追踪保护过滤器，拦截隐形追踪像素AdGuard 发布 Mail Tracking Protection 过滤器，可阻止邮件中嵌入的 1x1 像素追踪图片，防止发件人在你打开邮件时悄悄获取阅读状态、IP 地址、设备等信息。该过滤器适用于 AdGuard 保护的邮件客户端和浏览器邮箱，但在 Gmail 和 Outlook Web 上因图片经代理中转，效果可能打折扣；Apple Mail 的隐私保护已自动预载像素，本身就会干扰追踪。Windows 和 Mac 版现可启用，移动端与浏览器扩展将在后续更新支持。AdGuard·备用频道",
-      "datetime": "2026-06-17T09:00:00+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "AdGuard",
-          "url": "https://adguard.com/en/blog/mail-tracking-protection-filter.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42009",
-      "scraped_at": "2026-06-17T17:00:49.316298",
-      "title": "AdGuard拦截邮件追踪像素",
-      "title_options": {
-        "conclusion": "AdGuard拦截邮件追踪像素",
-        "attractive": "你的邮件阅读状态被偷窥",
-        "minimal": "邮件追踪防护",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-18T20:56:14.853704"
+  "count": 68,
+  "updated_at": "2026-06-18T21:01:49.418111"
 }
