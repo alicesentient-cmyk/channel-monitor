@@ -6737,5 +6737,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T09:01:36.757522"
+  },
+  "xhqcankao_30186": {
+    "ai_title": "马克龙推动欧洲获取AI模型",
+    "title_options": {
+      "conclusion": "马克龙推动欧洲获取AI模型",
+      "attractive": "美国禁令下马克龙另寻AI路",
+      "minimal": "马克龙G7会谈AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T10:02:15.370169"
+  },
+  "zaihuapd_42021": {
+    "ai_title": "黄仁勋：AMD资助我读研",
+    "title_options": {
+      "conclusion": "黄仁勋：AMD资助我读研",
+      "attractive": "AMD资助黄仁勋成英伟达基石",
+      "minimal": "黄仁勋 AMD 资助",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T10:02:15.404495"
+  },
+  "zaihuapd_42020": {
+    "ai_title": "微软借OpenAI在华营收超10亿美元",
+    "title_options": {
+      "conclusion": "微软借OpenAI在华营收超10亿美元",
+      "attractive": "字节跳动每年投微软AI超10亿美元",
+      "minimal": "微软OpenAI中国AI生意",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T10:02:15.430165"
+  },
+  "xhqcankao_30185": {
+    "ai_title": "苹果产品因内存涨价",
+    "title_options": {
+      "conclusion": "苹果产品因内存涨价",
+      "attractive": "苹果被迫涨价",
+      "minimal": "苹果涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T10:02:16.666707"
   }
 }
