@@ -6688,5 +6688,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T00:05:19.900909"
+  },
+  "zaihuapd_42019": {
+    "ai_title": "苹果因芯片成本上涨提价",
+    "title_options": {
+      "conclusion": "苹果因芯片成本上涨提价",
+      "attractive": "库克称涨价不可避免",
+      "minimal": "苹果提价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T08:01:00.934675"
+  },
+  "xhqcankao_30181": {
+    "ai_title": "亚马逊高管：5-7年量子计算机问世",
+    "title_options": {
+      "conclusion": "亚马逊高管：5-7年量子计算机问世",
+      "attractive": "量子计算机5-7年商用",
+      "minimal": "亚马逊 量子计算机 5-7年",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T08:01:01.069819"
+  },
+  "xhqcankao_30182": {
+    "ai_title": "8TB硬盘价超三台PS5",
+    "title_options": {
+      "conclusion": "8TB硬盘价超三台PS5",
+      "attractive": "硬盘比主机贵三倍",
+      "minimal": "硬盘价超主机"
+    },
+    "generated_at": "2026-06-18T08:01:01.088020"
   }
 }
