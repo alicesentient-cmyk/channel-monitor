@@ -7034,5 +7034,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T18:04:03.417123"
+  },
+  "zaihuapd_42032": {
+    "ai_title": "2026年新能源车下乡启动",
+    "title_options": {
+      "conclusion": "2026年新能源车下乡启动",
+      "attractive": "购新能源车补贴不限量",
+      "minimal": "新能源车下乡",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T19:04:49.940143"
+  },
+  "zaihuapd_42033": {
+    "ai_title": "淘宝闪购回应美团黑料",
+    "title_options": {
+      "conclusion": "淘宝闪购回应美团黑料",
+      "attractive": "美团被曝有偿搜集黑料",
+      "minimal": "淘宝闪购震惊愤怒",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T19:04:49.997121"
+  },
+  "xhqcankao_30204": {
+    "ai_title": "摩根大通禁港员工用Claude",
+    "title_options": {
+      "conclusion": "摩根大通禁港员工用Claude",
+      "attractive": "高盛后摩根大通也禁AI",
+      "minimal": "摩根大通禁Claude",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T19:04:50.025938"
+  },
+  "xhqcankao_30203": {
+    "ai_title": "SK海力士交付12层HBM4E样品",
+    "title_options": {
+      "conclusion": "SK海力士交付12层HBM4E样品",
+      "attractive": "AI芯片龙头交付新样品",
+      "minimal": "HBM4E 12层样品交付",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T19:04:51.049796"
   }
 }
