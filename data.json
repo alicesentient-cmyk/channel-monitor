@@ -1411,53 +1411,8 @@
         "minimal": "亚马逊 量子计算机 5-7年",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30180",
-      "channel": "xhqcankao",
-      "text": "蓝色起源公司今年将恢复“新格伦”火箭发射蓝色起源已经在重建佛罗里达州发射场，这为该公司今年恢复发射创造了条件，并重燃其挑战 SpaceX 公司的雄心。上个月，该公司的 “新格伦” 火箭正是在那里发生爆炸。蓝色起源公司创始人杰夫·贝佐斯周三在巴黎举行的科技会议VivaTech上表示，部分发射基础设施并未在爆炸中受损，包括推进剂储罐和集成设施中的一枚助推器。那次爆炸威力巨大，甚至产生了地震波。“那是一个艰难的时刻，” 贝佐斯在谈及爆炸时说道，“对整个团队来说是一次沉重的打击。”蓝色起源CEO戴夫·林普表示，发射台上的所有碎片已清理完毕。“就在昨天，我们开始了重建工作，”林普称，“我们会在今年恢复发射。”",
-      "clean_text": "蓝色起源公司今年将恢复“新格伦”火箭发射蓝色起源已经在重建佛罗里达州发射场，这为该公司今年恢复发射创造了条件，并重燃其挑战 SpaceX 公司的雄心。上个月，该公司的 “新格伦” 火箭正是在那里发生爆炸。蓝色起源公司创始人杰夫·贝佐斯周三在巴黎举行的科技会议VivaTech上表示，部分发射基础设施并未在爆炸中受损，包括推进剂储罐和集成设施中的一枚助推器。那次爆炸威力巨大，甚至产生了地震波。“那是一个艰难的时刻，” 贝佐斯在谈及爆炸时说道，“对整个团队来说是一次沉重的打击。”蓝色起源CEO戴夫·林普表示，发射台上的所有碎片已清理完毕。“就在昨天，我们开始了重建工作，”林普称，“我们会在今年恢复发射。”——凤凰网科技、彭博社",
-      "datetime": "2026-06-17T15:30:29+00:00",
-      "views": "1.1K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006OdziJ7GBctoc5Mh5qpsJz2-_MOKe96qt4DZ10N---_7wI--K6cYWdYLUjE6E28ZD--08G"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-17/blue-origin-says-it-will-launch-a-new-glenn-rocket-this-year"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30180",
-      "scraped_at": "2026-06-18T00:00:16.191075",
-      "title": "蓝色起源今年恢复发射",
-      "title_options": {
-        "conclusion": "蓝色起源今年恢复发射",
-        "attractive": "爆炸后重建，今年再战",
-        "minimal": "蓝色起源恢复发射",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42018",
-      "channel": "zaihuapd",
-      "text": "大的要来了：原来是白宫推出官方应用程序  经历数日“惊为天人”的预热之后，白宫推出官方应用程序，提供直播流、实时更新功能。用户可直接从该应用程序获取无审查过滤的信息，并将每个人都在关注的置于指尖。  该应用现已在苹果 App Store 和 Google Play Store 上线。  App Store | Google Play The White House｜｜",
-      "clean_text": "大的要来了：原来是白宫推出官方应用程序  经历数日“惊为天人”的预热之后，白宫推出官方应用程序，提供直播流、实时更新功能。用户可直接从该应用程序获取无审查过滤的信息，并将每个人都在关注的置于指尖。  该应用现已在苹果 App Store 和 Google Play Store 上线。  App Store | Google Play The White House｜茶馆讨论｜投稿通道",
-      "datetime": "2026-06-17T15:28:40+00:00",
-      "views": "3.1K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42018",
-      "scraped_at": "2026-06-18T00:00:14.503707",
-      "title": "白宫推出官方应用",
-      "title_options": {
-        "conclusion": "白宫推出官方应用",
-        "attractive": "白宫应用上线",
-        "minimal": "白宫应用",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-19T03:28:02.581309"
+  "count": 54,
+  "updated_at": "2026-06-19T03:33:06.672631"
 }
