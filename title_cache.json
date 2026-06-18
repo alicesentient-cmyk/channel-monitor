@@ -6817,5 +6817,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T11:03:29.815685"
+  },
+  "zaihuapd_42024": {
+    "ai_title": "扎克伯格承认AI重组错误",
+    "title_options": {
+      "conclusion": "扎克伯格承认AI重组错误",
+      "attractive": "Meta承诺年内不裁员",
+      "minimal": "Meta AI重组错误",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T12:04:16.897445"
+  },
+  "xhqcankao_30189": {
+    "ai_title": "微软向字节出售AI模型",
+    "title_options": {
+      "conclusion": "微软向字节出售AI模型",
+      "attractive": "字节每年AI支出超10亿美元",
+      "minimal": "微软AI模型出售中国",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T12:04:17.084504"
+  },
+  "xhqcankao_30190": {
+    "ai_title": "SpaceX董事会新增第八人",
+    "title_options": {
+      "conclusion": "SpaceX董事会新增第八人",
+      "attractive": "马斯克老友加入SpaceX董事会",
+      "minimal": "SpaceX董事会扩员",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T12:04:17.401033"
   }
 }
