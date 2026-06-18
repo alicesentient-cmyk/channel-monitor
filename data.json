@@ -1479,26 +1479,8 @@
         "minimal": "微信AI专属卡",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42017",
-      "channel": "zaihuapd",
-      "text": "印度暂时封锁 Telegram 至 6 月 22 日，防范医学考试作弊  印度教育部宣布暂时封锁 Telegram 消息应用，直至 6 月 22 日，理由是平台被有组织作弊团伙用来欺诈即将参加全国医学入学考试（NEET）重考的考生。政府称这是“最后手段”，因为此前尝试移除平台上的相关违规内容未能奏效。  今年 5 月，NEET 考试因试题泄露被取消，重考定于 6 月 21 日。Telegram 在印度拥有大量用户，此次封锁影响广泛，各大电信运营商及应用商店尚未回应是否已开始执行限制指令。  The Star…",
-      "clean_text": "✈️印度暂时封锁 Telegram 至 6 月 22 日，防范医学考试作弊  印度教育部宣布暂时封锁 Telegram 消息应用，直至 6 月 22 日，理由是平台被有组织作弊团伙用来欺诈即将参加全国医学入学考试（NEET）重考的考生。政府称这是“最后手段”，因为此前尝试移除平台上的相关违规内容未能奏效。  今年 5 月，NEET 考试因试题泄露被取消，重考定于 6 月 21 日。Telegram 在印度拥有大量用户，此次封锁影响广泛，各大电信运营商及应用商店尚未回应是否已开始执行限制指令。  The Star…",
-      "datetime": "2026-06-17T14:43:40+00:00",
-      "views": "2.75K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42017",
-      "scraped_at": "2026-06-17T23:00:34.357486",
-      "title": "印度封锁Telegram至6月22日",
-      "title_options": {
-        "conclusion": "印度封锁Telegram至6月22日",
-        "attractive": "防作弊，印度封杀Telegram",
-        "minimal": "印度封锁Telegram",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-19T02:42:30.771475"
+  "count": 57,
+  "updated_at": "2026-06-19T02:47:34.251333"
 }
