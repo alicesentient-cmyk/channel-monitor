@@ -1728,39 +1728,8 @@
         "minimal": "科创板AI上市扩围",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30165",
-      "channel": "xhqcankao",
-      "text": "智谱开源GLM-5.2 1M上下文专攻长程任务智谱AI宣布正式上线并开源新一代旗舰模型GLM-5.2。该模型专为长程任务能力打造，核心特色包括1M无损上下文、强化Coding能力、Day 0适配国产算力平台，并采用MIT开源协议。在全球百万用户参与盲测的前端开发评估系统Code Arena上，GLM-5.2取得全球可用模型第一的表现。GLM-5.2实现了真正可用的1M上下文窗口，可在一个长程任务中完整承载大型软件工程项目。在实际测试中，模型一次性完成了覆盖Web、移动端与小程序的完整应用开发交付，累计处理88万tokens，几乎用满1M窗口。——凤凰网科技、GitHub、Hugging Face",
-      "clean_text": "智谱开源GLM-5.2 1M上下文专攻长程任务智谱AI宣布正式上线并开源新一代旗舰模型GLM-5.2。该模型专为长程任务能力打造，核心特色包括1M无损上下文、强化Coding能力、Day 0适配国产算力平台，并采用MIT开源协议。在全球百万用户参与盲测的前端开发评估系统Code Arena上，GLM-5.2取得全球可用模型第一的表现。GLM-5.2实现了真正可用的1M上下文窗口，可在一个长程任务中完整承载大型软件工程项目。在实际测试中，模型一次性完成了覆盖Web、移动端与小程序的完整应用开发交付，累计处理88万tokens，几乎用满1M窗口。——凤凰网科技、GitHub、Hugging Face",
-      "datetime": "2026-06-17T08:04:34+00:00",
-      "views": "2.24K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006XqjwPd4ZkaPnufYLUlCrTJ0qSu-_E6cWPquTR3XlWCJVEr8yuny----7IQcOSy3RbGG"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/zai-org/GLM-5"
-        },
-        {
-          "text": "Hugging Face",
-          "url": "https://huggingface.co/zai-org/GLM-5.2"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30165",
-      "scraped_at": "2026-06-17T17:00:51.230926",
-      "title": "智谱开源GLM-5.2",
-      "title_options": {
-        "conclusion": "智谱开源GLM-5.2",
-        "attractive": "1M上下文模型登顶",
-        "minimal": "GLM-5.2开源",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-06-18T20:00:31.942825"
+  "count": 68,
+  "updated_at": "2026-06-18T20:05:35.297609"
 }
