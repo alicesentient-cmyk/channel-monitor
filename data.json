@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42041",
+      "channel": "zaihuapd",
+      "text": "研究揭示女性睡眠质量低于男性的原因  最新研究发现，女性普遍比男性睡眠质量差，更容易失眠和频繁醒来。这种性别睡眠差异主要源于三个因素：生理激素变化、社会责任压力，以及更高的焦虑和抑郁发生率。  生理方面，女性在月经、怀孕和更年期都会经历激素波动，影响睡眠质量。社会角色上，女性往往承担更多家庭照顾责任，导致睡眠中断。此外，女性更容易受到焦虑和抑郁的影响，这些心理健康问题会干扰睡眠。  SciTechDaily | Neuroscience News投稿分享频道聊天",
+      "clean_text": "研究揭示女性睡眠质量低于男性的原因  最新研究发现，女性普遍比男性睡眠质量差，更容易失眠和频繁醒来。这种性别睡眠差异主要源于三个因素：生理激素变化、社会责任压力，以及更高的焦虑和抑郁发生率。  生理方面，女性在月经、怀孕和更年期都会经历激素波动，影响睡眠质量。社会角色上，女性往往承担更多家庭照顾责任，导致睡眠中断。此外，女性更容易受到焦虑和抑郁的影响，这些心理健康问题会干扰睡眠。  SciTechDaily | Neuroscience News📮投稿分享☘️频道🌸聊天",
+      "datetime": "2026-06-18T17:09:37+00:00",
+      "views": "2.72K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42041",
+      "scraped_at": "2026-06-19T02:01:02.514216",
+      "title": "研究揭示女性睡眠质量低于男性",
+      "title_options": {
+        "conclusion": "研究揭示女性睡眠质量低于男性",
+        "attractive": "女性睡眠差三大原因",
+        "minimal": "女性睡眠质量低于男性",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42040",
       "channel": "zaihuapd",
       "text": "谷歌测试新版 reCAPTCHA：需对摄像头挥手验证谷歌正在测试新版 reCAPTCHA，要求用户授权摄像头并录制一段挥手视频。系统会分析手部运动，提取手指关节、手掌位置等 21 个关键点坐标，以区分真人和机器程序。谷歌强调相关视频不与用户身份绑定，不录制音频，验证完成后自动删除，用于防范批量注册和凭证填充攻击。不过，已有用户批评此举正在推动互联网向生物特征认证方向发展。IT之家·英文频道·",
@@ -1525,39 +1543,8 @@
         "minimal": "AI就业影响评估",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42016",
-      "channel": "zaihuapd",
-      "text": "OpenAI Codex 支持自定义第三方模型提供者OpenAI Codex 现在允许用户通过自定义模型提供者接入第三方模型。只需在配置文件中定义提供者名称、接口地址和 API 密钥，即可使用 OpenAI 代理、本地 Ollama、Mistral 等外部模型。官方文档详细列出了 Amazon Bedrock、Azure 等提供者的配置方式，并支持命令行直接覆盖部分设置，方便在终端开发环境中快速切换模型。OpenAIDevs",
-      "clean_text": "OpenAI Codex 支持自定义第三方模型提供者OpenAI Codex 现在允许用户通过自定义模型提供者接入第三方模型。只需在配置文件中定义提供者名称、接口地址和 API 密钥，即可使用 OpenAI 代理、本地 Ollama、Mistral 等外部模型。官方文档详细列出了 Amazon Bedrock、Azure 等提供者的配置方式，并支持命令行直接覆盖部分设置，方便在终端开发环境中快速切换模型。OpenAIDevs·备用频道",
-      "datetime": "2026-06-17T13:58:40+00:00",
-      "views": "629",
-      "source_links": [
-        {
-          "text": "OpenAIDevs",
-          "url": "https://developers.openai.com/codex/config-advanced"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42016",
-      "scraped_at": "2026-06-17T22:00:56.658247",
-      "title": "Codex支持第三方模型",
-      "title_options": {
-        "conclusion": "Codex支持第三方模型",
-        "attractive": "自定义模型接入Codex",
-        "minimal": "Codex第三方模型",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 60,
-  "updated_at": "2026-06-19T01:56:52.629790"
+  "updated_at": "2026-06-19T02:01:57.381893"
 }
