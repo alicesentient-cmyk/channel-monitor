@@ -1647,39 +1647,8 @@
         "minimal": "中国人地下银行被捕",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42013",
-      "channel": "zaihuapd",
-      "text": "微信支付上线 AI 专属卡：可在智能助理中消费，每笔需本人授权微信支付正式推出 AI 专属卡，用户在与智能助理（Agent）对话中提出消费需求后，从智能推荐、下单到支付均由 AI 完成。目前该功能已支持在 WorkBuddy 的“美团生活助手”中购买团购，未来将向更多 Agent 平台开放。AI 专属卡与微信支付主账户完全隔离，用户可自行转入资金并设置使用范围。每一笔消费必须经过本人最终确认，AI 无法越过授权动用资金。开通后可在微信钱包内查看和管理。微信派",
-      "clean_text": "微信支付上线 AI 专属卡：可在智能助理中消费，每笔需本人授权微信支付正式推出 AI 专属卡，用户在与智能助理（Agent）对话中提出消费需求后，从智能推荐、下单到支付均由 AI 完成。目前该功能已支持在 WorkBuddy 的“美团生活助手”中购买团购，未来将向更多 Agent 平台开放。AI 专属卡与微信支付主账户完全隔离，用户可自行转入资金并设置使用范围。每一笔消费必须经过本人最终确认，AI 无法越过授权动用资金。开通后可在微信钱包内查看和管理。微信派·备用频道",
-      "datetime": "2026-06-17T11:32:57+00:00",
-      "views": "3.03K",
-      "source_links": [
-        {
-          "text": "微信派",
-          "url": "https://mp.weixin.qq.com/s/WJSr9J0-7LWx2haEZGLmXw"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42013",
-      "scraped_at": "2026-06-17T20:00:53.314182",
-      "title": "微信支付推AI专属卡",
-      "title_options": {
-        "conclusion": "微信支付推AI专属卡",
-        "attractive": "AI消费需本人授权",
-        "minimal": "AI专属卡",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-18T23:29:13.823943"
+  "count": 64,
+  "updated_at": "2026-06-18T23:34:18.310682"
 }
