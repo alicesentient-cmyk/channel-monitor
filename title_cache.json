@@ -6947,5 +6947,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T15:01:28.676096"
+  },
+  "xhqcankao_30198": {
+    "ai_title": "G7谴责出口限制",
+    "title_options": {
+      "conclusion": "G7谴责出口限制",
+      "attractive": "稀土依赖度降至60%",
+      "minimal": "G7矿产声明"
+    },
+    "generated_at": "2026-06-18T16:02:18.834688"
+  },
+  "zaihuapd_42029": {
+    "ai_title": "苹果因芯片涨价提价",
+    "title_options": {
+      "conclusion": "苹果因芯片涨价提价",
+      "attractive": "库克：涨价不可避免",
+      "minimal": "苹果提价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T16:02:18.873375"
+  },
+  "zaihuapd_42028": {
+    "ai_title": "多款纸尿裤检出毒性物质",
+    "title_options": {
+      "conclusion": "多款纸尿裤检出毒性物质",
+      "attractive": "纸尿裤含毒物，血液飙升",
+      "minimal": "纸尿裤，甲酰胺，检出",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T16:02:19.116831"
   }
 }
