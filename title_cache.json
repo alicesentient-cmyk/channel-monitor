@@ -6777,5 +6777,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-18T10:02:16.666707"
+  },
+  "zaihuapd_42022": {
+    "ai_title": "WhatsApp测试阅后即焚文字",
+    "title_options": {
+      "conclusion": "WhatsApp测试阅后即焚文字",
+      "attractive": "文字消息阅后即焚来了",
+      "minimal": "WhatsApp阅后即焚",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T11:03:28.613976"
+  },
+  "xhqcankao_30188": {
+    "ai_title": "63%美国人认为AI发展过快",
+    "title_options": {
+      "conclusion": "63%美国人认为AI发展过快",
+      "attractive": "仅16%看好AI社会影响",
+      "minimal": "AI发展过快 63%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T11:03:28.774547"
+  },
+  "zaihuapd_42023": {
+    "ai_title": "中国邮政发行首套AI邮票",
+    "title_options": {
+      "conclusion": "中国邮政发行首套AI邮票",
+      "attractive": "AI邮票融入硅基材料",
+      "minimal": "AI邮票四枚发行",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T11:03:28.783814"
+  },
+  "xhqcankao_30187": {
+    "ai_title": "TikTok AI内容达59%",
+    "title_options": {
+      "conclusion": "TikTok AI内容达59%",
+      "attractive": "AI内容泛滥，TikTok是YouTu…",
+      "minimal": "TikTok AI内容三倍于YouTu…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-18T11:03:29.815685"
   }
 }
