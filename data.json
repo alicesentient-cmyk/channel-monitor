@@ -1,6 +1,68 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42040",
+      "channel": "zaihuapd",
+      "text": "谷歌测试新版 reCAPTCHA：需对摄像头挥手验证谷歌正在测试新版 reCAPTCHA，要求用户授权摄像头并录制一段挥手视频。系统会分析手部运动，提取手指关节、手掌位置等 21 个关键点坐标，以区分真人和机器程序。谷歌强调相关视频不与用户身份绑定，不录制音频，验证完成后自动删除，用于防范批量注册和凭证填充攻击。不过，已有用户批评此举正在推动互联网向生物特征认证方向发展。IT之家·英文频道·",
+      "clean_text": "谷歌测试新版 reCAPTCHA：需对摄像头挥手验证谷歌正在测试新版 reCAPTCHA，要求用户授权摄像头并录制一段挥手视频。系统会分析手部运动，提取手指关节、手掌位置等 21 个关键点坐标，以区分真人和机器程序。谷歌强调相关视频不与用户身份绑定，不录制音频，验证完成后自动删除，用于防范批量注册和凭证填充攻击。不过，已有用户批评此举正在推动互联网向生物特征认证方向发展。IT之家·英文频道",
+      "datetime": "2026-06-18T16:39:37+00:00",
+      "views": "2.11K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/966/252.htm"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42040",
+      "scraped_at": "2026-06-19T01:00:27.456351",
+      "title": "谷歌测试挥手验证",
+      "title_options": {
+        "conclusion": "谷歌测试挥手验证",
+        "attractive": "摄像头挥手防机器人",
+        "minimal": "挥手验证",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42039",
+      "channel": "zaihuapd",
+      "text": "快去查查你的谷歌账号是否可以改地址，测试看看https://myaccount.google.com/google-account-email·英文频道·",
+      "clean_text": "快去查查你的谷歌账号是否可以改地址，测试看看https://myaccount.google.com/google-account-email·英文频道",
+      "datetime": "2026-06-18T16:03:25+00:00",
+      "views": "4.99K",
+      "source_links": [
+        {
+          "text": "https://myaccount.google.com/google-account-email",
+          "url": "https://myaccount.google.com/google-account-email"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42039",
+      "scraped_at": "2026-06-19T01:00:27.455787",
+      "title": "谷歌账号可改地址",
+      "title_options": {
+        "conclusion": "谷歌账号可改地址",
+        "attractive": "你的谷歌地址能改吗",
+        "minimal": "谷歌地址修改",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30211",
       "channel": "xhqcankao",
       "text": "全球最高年薪到手：马斯克行使2018年薪酬方案 净赚7800亿元特斯拉官方文件显示，埃隆·马斯克已正式行使其2018年薪酬计划中的全部权利，获得约3.04亿股股票，账面收益高达1159亿美元（约合人民币7848亿元）。这笔交易采用了“净结算”方式，旨在确保相关股份不进入公开市场抛售，从而在维持股价稳定的同时，巩固马斯克对特斯拉的控制权。尽管涉及金额惊人且面临高额税收，但此次行权标志着围绕该方案长达六年的法律拉锯战正式落幕。此项薪酬计划与此前通过的万亿美元新方案互不干扰，马斯克目前仍是特斯拉的第一大股东，合计控制公司约20%的股份。",
@@ -1573,6 +1635,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-19T00:55:59.674628"
+  "count": 63,
+  "updated_at": "2026-06-19T01:01:05.387454"
 }

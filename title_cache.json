@@ -7193,5 +7193,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-19T00:04:47.601222"
+  },
+  "zaihuapd_42040": {
+    "ai_title": "谷歌测试挥手验证",
+    "title_options": {
+      "conclusion": "谷歌测试挥手验证",
+      "attractive": "摄像头挥手防机器人",
+      "minimal": "挥手验证",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T01:01:05.227403"
+  },
+  "zaihuapd_42039": {
+    "ai_title": "谷歌账号可改地址",
+    "title_options": {
+      "conclusion": "谷歌账号可改地址",
+      "attractive": "你的谷歌地址能改吗",
+      "minimal": "谷歌地址修改",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T01:01:05.374595"
   }
 }
