@@ -1218,31 +1218,8 @@
         "minimal": "亚马逊AI助手追赶OpenAI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30208",
-      "channel": "xhqcankao",
-      "text": "DeepSeek识图模式已在网页和App端上线DeepSeek多模态研究员陈小康在 X 发文表示，DeepSeek的识图模式已在网页和App 端正式上线。不过，有媒体测试发现，该功能在识别人物上不太准确。比如它认不出来自家老板梁文锋，一会认成王兴，一会认成其他人。不过，识别常见物品和知名建筑已经比较准确。两个月之前，DeepSeek 识图模式已经正式灰度落地。作为原生视觉交互入口，DeepSeek 识图模式与快速模式、专家模式并列作为独立一级功能，彻底摆脱了早期纯文本大模型的能力局限，实现图文一体化对话体验。需要提醒的是，识图模式并非简单的图片文字提取工具，或是简单OCR工具，而是依托自研 DeepSeek-OCR2 视觉因果流机制搭建完整视觉理解闭环。",
-      "clean_text": "DeepSeek识图模式已在网页和App端上线DeepSeek多模态研究员陈小康在 X 发文表示，DeepSeek的识图模式已在网页和App 端正式上线。不过，有媒体测试发现，该功能在识别人物上不太准确。比如它认不出来自家老板梁文锋，一会认成王兴，一会认成其他人。不过，识别常见物品和知名建筑已经比较准确。两个月之前，DeepSeek 识图模式已经正式灰度落地。作为原生视觉交互入口，DeepSeek 识图模式与快速模式、专家模式并列作为独立一级功能，彻底摆脱了早期纯文本大模型的能力局限，实现图文一体化对话体验。需要提醒的是，识图模式并非简单的图片文字提取工具，或是简单OCR工具，而是依托自研 DeepSeek-OCR2 视觉因果流机制搭建完整视觉理解闭环。——凤凰网科技",
-      "datetime": "2026-06-18T12:33:54+00:00",
-      "views": "1.3K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006dn9--RFTKZKg8iYvTNNd22eVC2NTJsssA3ad4uwc5FIPEbOEonBDyRbwzvqHjMJKe"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30208",
-      "scraped_at": "2026-06-18T21:00:54.994216",
-      "title": "DeepSeek识图模式上线",
-      "title_options": {
-        "conclusion": "DeepSeek识图模式上线",
-        "attractive": "识图认错自家老板",
-        "minimal": "DeepSeek识图上线",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-06-20T00:30:01.995040"
+  "count": 48,
+  "updated_at": "2026-06-20T00:35:05.030909"
 }
