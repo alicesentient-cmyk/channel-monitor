@@ -1697,35 +1697,8 @@
         "minimal": "苹果涨价",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30184",
-      "channel": "xhqcankao",
-      "text": "iPhone Air二代明春再战 双摄、续航“补课”苹果iPhone Air即将在明年春天迎来第二代更新，试图通过补上一系列 “致命短板”。据知情人士透露，代号为V62的原型机，目前已经增加第二颗后置摄像头，以实现超广角拍摄。同时，苹果公司也在保留现有设计风格的基础上，试图改善电池续航。但目前尚不清楚，苹果是否会增加iPhone Air的电池容量，还是通过能效提升来实现。知情人士透露，苹果公司认为相机系统和电池寿命是改进Air的两大重要机会。当前单镜头相机的功能有限，已成为客户抱怨最多的方面。据透露，与前一代类似，苹果iPhone Air将使用A20 Pro处理器的一个变体版本。",
-      "clean_text": "iPhone Air二代明春再战 双摄、续航“补课”苹果iPhone Air即将在明年春天迎来第二代更新，试图通过补上一系列 “致命短板”。据知情人士透露，代号为V62的原型机，目前已经增加第二颗后置摄像头，以实现超广角拍摄。同时，苹果公司也在保留现有设计风格的基础上，试图改善电池续航。但目前尚不清楚，苹果是否会增加iPhone Air的电池容量，还是通过能效提升来实现。知情人士透露，苹果公司认为相机系统和电池寿命是改进Air的两大重要机会。当前单镜头相机的功能有限，已成为客户抱怨最多的方面。据透露，与前一代类似，苹果iPhone Air将使用A20 Pro处理器的一个变体版本。——财联社、彭博社",
-      "datetime": "2026-06-18T00:33:01+00:00",
-      "views": "1.06K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2402983?sv=8.7.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30184",
-      "scraped_at": "2026-06-18T09:01:02.970164",
-      "title": "iPhone Air二代明春发布",
-      "title_options": {
-        "conclusion": "iPhone Air二代明春发布",
-        "attractive": "双摄续航短板补全",
-        "minimal": "Air二代双摄续航",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-19T12:31:25.111097"
+  "count": 65,
+  "updated_at": "2026-06-19T12:36:27.868891"
 }
