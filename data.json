@@ -1639,39 +1639,8 @@
         "minimal": "黄仁勋AI呼吁",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42019",
-      "channel": "zaihuapd",
-      "text": "苹果将因芯片成本上涨提价，库克称涨价不可避免苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。The Wall Street Journal",
-      "clean_text": "苹果将因芯片成本上涨提价，库克称涨价不可避免苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。The Wall Street Journal·备用频道",
-      "datetime": "2026-06-17T23:44:06+00:00",
-      "views": "1.31K",
-      "source_links": [
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42019",
-      "scraped_at": "2026-06-18T08:00:19.752143",
-      "title": "苹果因芯片成本上涨提价",
-      "title_options": {
-        "conclusion": "苹果因芯片成本上涨提价",
-        "attractive": "库克称涨价不可避免",
-        "minimal": "苹果提价",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-19T11:40:48.370878"
+  "count": 63,
+  "updated_at": "2026-06-19T11:45:51.343623"
 }
