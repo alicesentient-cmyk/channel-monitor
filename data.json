@@ -1573,35 +1573,8 @@
         "minimal": "DeepL并购Mixhalo",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42026",
-      "channel": "zaihuapd",
-      "text": "DeepSeek 识图功能开始试推送via Linserin >terminal<",
-      "clean_text": "DeepSeek 识图功能开始试推送via Linserin >terminal<·备用频道",
-      "datetime": "2026-06-18T04:50:00+00:00",
-      "views": "1.43K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42026",
-      "scraped_at": "2026-06-18T13:00:46.161530",
-      "title": "DeepSeek识图功能推送",
-      "title_options": {
-        "conclusion": "DeepSeek识图功能推送",
-        "attractive": "识图功能开始试推送",
-        "minimal": "DeepSeek识图推送",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-19T16:49:21.095389"
+  "count": 62,
+  "updated_at": "2026-06-19T16:54:23.996766"
 }
