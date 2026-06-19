@@ -1,6 +1,140 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30216",
+      "channel": "xhqcankao",
+      "text": "“AI教父”杨立昆：马斯克的xAI已成失败案例AMI Labs创始人杨立昆近日在接受媒体采访时称，世界首富埃隆·马斯克旗下的人工智能公司xAI是一个“失败案例”，将无法在AI前沿领域保持竞争力。杨立昆还对全球一些估值最高的AI公司的价值提出质疑，并阐述了他认为可能引发行业“大泡沫破裂”的原因。“坦率地说， xAI 可以说是一次失败，因为它的创始团队已经离开了，”杨立昆表示。“埃隆现在处于一个非常困难的位置，他很难再招募到顶级AI人才，因为他对待前团队成员的方式并不算好。”杨立昆表示，xAI拥有“庞大的基础设施”，并将其出租给其他公司，“因为这是马斯克回收成本的唯一办法”。",
+      "clean_text": "“AI教父”杨立昆：马斯克的xAI已成失败案例AMI Labs创始人杨立昆近日在接受媒体采访时称，世界首富埃隆·马斯克旗下的人工智能公司xAI是一个“失败案例”，将无法在AI前沿领域保持竞争力。杨立昆还对全球一些估值最高的AI公司的价值提出质疑，并阐述了他认为可能引发行业“大泡沫破裂”的原因。“坦率地说， xAI 可以说是一次失败，因为它的创始团队已经离开了，”杨立昆表示。“埃隆现在处于一个非常困难的位置，他很难再招募到顶级AI人才，因为他对待前团队成员的方式并不算好。”杨立昆表示，xAI拥有“庞大的基础设施”，并将其出租给其他公司，“因为这是马斯克回收成本的唯一办法”。——财联社",
+      "datetime": "2026-06-19T01:01:00+00:00",
+      "views": "2",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2404033?sv=8.6.0&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30216",
+      "scraped_at": "2026-06-19T09:01:06.549186",
+      "title": "杨立昆称xAI失败",
+      "title_options": {
+        "conclusion": "杨立昆称xAI失败",
+        "attractive": "xAI人才流失成败因",
+        "minimal": "xAI失败案例"
+      }
+    },
+    {
+      "id": "zaihuapd_42043",
+      "channel": "zaihuapd",
+      "text": "GitHub Models 停止接纳新用户，现有用户暂不受影响GitHub 宣布旗下 AI 模型服务 GitHub Models 不再向新客户开放。即日起，未曾使用过该服务的组织或企业将无法看到或启用该功能，覆盖免费和付费计划。已在使用 GitHub Models 的客户不受影响，可继续使用 Playground、API 及模型。本次调整是 GitHub Models 完全退役的第一步，后续将公布详细时间表。GitHub 建议有 AI 模型需求的新项目转向 Azure AI Foundry。The GitHub Blog·英文频道·",
+      "clean_text": "GitHub Models 停止接纳新用户，现有用户暂不受影响GitHub 宣布旗下 AI 模型服务 GitHub Models 不再向新客户开放。即日起，未曾使用过该服务的组织或企业将无法看到或启用该功能，覆盖免费和付费计划。已在使用 GitHub Models 的客户不受影响，可继续使用 Playground、API 及模型。本次调整是 GitHub Models 完全退役的第一步，后续将公布详细时间表。GitHub 建议有 AI 模型需求的新项目转向 Azure AI Foundry。The GitHub Blog·英文频道",
+      "datetime": "2026-06-19T00:54:37+00:00",
+      "views": "700",
+      "source_links": [
+        {
+          "text": "The GitHub Blog",
+          "url": "https://github.blog/changelog/2026-06-16-github-models-is-no-longer-available-to-new-customers/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42043",
+      "scraped_at": "2026-06-19T09:01:04.961917",
+      "title": "GitHub Models停止新用户注册",
+      "title_options": {
+        "conclusion": "GitHub Models停止新用户注册",
+        "attractive": "GitHub Models不再接纳新用户",
+        "minimal": "GitHub Models停止新用户",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30215",
+      "channel": "xhqcankao",
+      "text": "亚马逊高管证实洽售自研人工智能芯片美国亚马逊公司正与潜在客户展开谈判，计划向其他企业的数据中心销售自研人工智能芯片，以进一步挑战英伟达在AI芯片市场的主导地位。亚马逊高管彼得·德桑蒂斯在巴黎接受采访时表示，公司已经开始与一些企业接触，但拒绝透露潜在客户名单。“我们认为AI基础设施正在快速发展，我们也在不断寻找拓展客户群的方法。”亚马逊于2020年推出AI加速芯片Trainium，目前已吸引优步、OpenAI、Anthropic等重量级客户，这些公司可以通过AWS使用相关硬件。自ChatGPT问世以来，亚马逊及其他云计算巨头纷纷加快研发自有芯片，以替代英伟达GPU产品。",
+      "clean_text": "亚马逊高管证实洽售自研人工智能芯片美国亚马逊公司正与潜在客户展开谈判，计划向其他企业的数据中心销售自研人工智能芯片，以进一步挑战英伟达在AI芯片市场的主导地位。亚马逊高管彼得·德桑蒂斯在巴黎接受采访时表示，公司已经开始与一些企业接触，但拒绝透露潜在客户名单。“我们认为AI基础设施正在快速发展，我们也在不断寻找拓展客户群的方法。”亚马逊于2020年推出AI加速芯片Trainium，目前已吸引优步、OpenAI、Anthropic等重量级客户，这些公司可以通过AWS使用相关硬件。自ChatGPT问世以来，亚马逊及其他云计算巨头纷纷加快研发自有芯片，以替代英伟达GPU产品。——财联社、彭博社",
+      "datetime": "2026-06-19T00:32:48+00:00",
+      "views": "637",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2404134?sv=8.5.2&amp;app=cailianpress"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-18/amazon-is-in-talks-to-sell-nvidia-rival-chips-to-other-companies"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30215",
+      "scraped_at": "2026-06-19T09:01:06.548861",
+      "title": "亚马逊洽售AI芯片",
+      "title_options": {
+        "conclusion": "亚马逊洽售AI芯片",
+        "attractive": "亚马逊挑战英伟达",
+        "minimal": "亚马逊AI芯片",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42042",
+      "channel": "zaihuapd",
+      "text": "华为公布 Wi-Fi 7 专利许可费率：每台设备 0.5 美元华为将 Wi-Fi 7 设备的专利许可费率定为每台设备 0.5 美元，使用者可通过双边许可协议或专利池，以公平、合理、无歧视（FRAND）原则获取授权。截至 2024 年底，超过 12 亿部消费类电子设备在 Wi-Fi 领域获得了华为的专利授权。36氪·英文频道·",
+      "clean_text": "华为公布 Wi-Fi 7 专利许可费率：每台设备 0.5 美元华为将 Wi-Fi 7 设备的专利许可费率定为每台设备 0.5 美元，使用者可通过双边许可协议或专利池，以公平、合理、无歧视（FRAND）原则获取授权。截至 2024 年底，超过 12 亿部消费类电子设备在 Wi-Fi 领域获得了华为的专利授权。36氪·英文频道",
+      "datetime": "2026-06-19T00:09:37+00:00",
+      "views": "2.96K",
+      "source_links": [
+        {
+          "text": "36氪",
+          "url": "https://36kr.com/newsflashes/3858656955847687"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42042",
+      "scraped_at": "2026-06-19T09:01:04.961361",
+      "title": "华为Wi-Fi 7专利费0.5美元",
+      "title_options": {
+        "conclusion": "华为Wi-Fi 7专利费0.5美元",
+        "attractive": "华为Wi-Fi 7专利费0.5美元",
+        "minimal": "华为Wi-Fi 7专利费",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30214",
+      "channel": "xhqcankao",
+      "text": "据称SpaceX计划发行至少200亿美元债券在完成创纪录IPO后，SpaceX的承销银行正准备最早于下周与投资者举行电话会议，讨论潜在的债券发行事宜。知情人士称，此次债券发行规模预计至少为 200亿美元，相关路演电话会议可能于下周一启动。具体计划和时间安排仍可能发生变化。若属实，意味着这家集火箭、卫星和人工智能业务于一体的企业，计划首次发行投资级美元债券。募集资金将用于为一笔将在2027年9月到期的200亿美元过桥贷款进行再融资。SpaceX向美国证券交易委员会(SEC)提交的IPO文件显示，截至 3月31日，该公司长期债务总额为291亿美元，其中绝大部分来自上述贷款。",
+      "clean_text": "据称SpaceX计划发行至少200亿美元债券在完成创纪录IPO后，SpaceX的承销银行正准备最早于下周与投资者举行电话会议，讨论潜在的债券发行事宜。知情人士称，此次债券发行规模预计至少为 200亿美元，相关路演电话会议可能于下周一启动。具体计划和时间安排仍可能发生变化。若属实，意味着这家集火箭、卫星和人工智能业务于一体的企业，计划首次发行投资级美元债券。募集资金将用于为一笔将在2027年9月到期的200亿美元过桥贷款进行再融资。SpaceX向美国证券交易委员会(SEC)提交的IPO文件显示，截至 3月31日，该公司长期债务总额为291亿美元，其中绝大部分来自上述贷款。——财联社",
+      "datetime": "2026-06-19T00:04:08+00:00",
+      "views": "1.05K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2404147?sv=8.5.9&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30214",
+      "scraped_at": "2026-06-19T09:01:06.548513",
+      "title": "SpaceX拟发200亿美元债券",
+      "title_options": {
+        "conclusion": "SpaceX拟发200亿美元债券",
+        "attractive": "SpaceX拟发债200亿",
+        "minimal": "SpaceX发债200亿",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30213",
       "channel": "xhqcankao",
       "text": "美国联邦电力监管：电网运营商需加速数据中心入网通电美国最高能源监管机构周四向电网运营商发出指令，要求采取切实手段，加速数据中心的 “通电速度”，同时确保这些AI巨头为升级电网的成本买单。联邦能源监管委员会公告显示，委员会成员一致投票同意，指示六个地区电网运营商确保AI数据中心和其他大型用电户“能够以及时、有序的方式接入输电系统”。按照指令，电网运营商和输电资产所有者需要提交两份报告。首先，他们需要在30天内说明如何确保有足够的发电能力来满足现有及新增的大型负荷。此后，他们需要在60天内提交另一份报告，为现有的电网接入规则进行辩护。指令同时要求，数据中心将承担其接入所需的所有电网升级费用。",
@@ -1463,6 +1597,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-19T08:57:52.646908"
+  "count": 61,
+  "updated_at": "2026-06-19T09:02:57.909757"
 }

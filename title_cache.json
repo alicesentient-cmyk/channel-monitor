@@ -7243,5 +7243,54 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-19T08:02:16.165779"
+  },
+  "xhqcankao_30215": {
+    "ai_title": "亚马逊洽售AI芯片",
+    "title_options": {
+      "conclusion": "亚马逊洽售AI芯片",
+      "attractive": "亚马逊挑战英伟达",
+      "minimal": "亚马逊AI芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T09:02:56.800630"
+  },
+  "xhqcankao_30216": {
+    "ai_title": "杨立昆称xAI失败",
+    "title_options": {
+      "conclusion": "杨立昆称xAI失败",
+      "attractive": "xAI人才流失成败因",
+      "minimal": "xAI失败案例"
+    },
+    "generated_at": "2026-06-19T09:02:56.858887"
+  },
+  "zaihuapd_42043": {
+    "ai_title": "GitHub Models停止新用户注册",
+    "title_options": {
+      "conclusion": "GitHub Models停止新用户注册",
+      "attractive": "GitHub Models不再接纳新用户",
+      "minimal": "GitHub Models停止新用户",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T09:02:56.939193"
+  },
+  "zaihuapd_42042": {
+    "ai_title": "华为Wi-Fi 7专利费0.5美元",
+    "title_options": {
+      "conclusion": "华为Wi-Fi 7专利费0.5美元",
+      "attractive": "华为Wi-Fi 7专利费0.5美元",
+      "minimal": "华为Wi-Fi 7专利费",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T09:02:57.681964"
+  },
+  "xhqcankao_30214": {
+    "ai_title": "SpaceX拟发200亿美元债券",
+    "title_options": {
+      "conclusion": "SpaceX拟发200亿美元债券",
+      "attractive": "SpaceX拟发债200亿",
+      "minimal": "SpaceX发债200亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T09:02:57.898922"
   }
 }
