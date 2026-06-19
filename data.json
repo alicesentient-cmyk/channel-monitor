@@ -1241,50 +1241,8 @@
         "minimal": "DeepSeek识图上线",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42035",
-      "channel": "zaihuapd",
-      "text": "小米开源智能家居方案 Miloco 2.0 发布小米开源的智能家居方案 Miloco 2.0 正式发布。它以米家摄像头的音视频作为感知入口，内置 MiMo 大模型，作为 OpenClaw 插件运行，新增通用常识、身份识别、家庭记忆、家务任务、主动智能和家庭看板等功能，可主动观察、推理并控制全屋设备。用户需使用 macOS 或 Linux（Windows 通过 WSL 运行），建议 4 GB 内存和 256 GB 存储，并绑定小米账号与 MiMo API 密钥。感知和 Agent 主要依赖云端大模型，会产生持续 API 费用。该项目仅限非商业用途。Xiaomi|小米技术·英文频道··英文频道·",
-      "clean_text": "小米开源智能家居方案 Miloco 2.0 发布小米开源的智能家居方案 Miloco 2.0 正式发布。它以米家摄像头的音视频作为感知入口，内置 MiMo 大模型，作为 OpenClaw 插件运行，新增通用常识、身份识别、家庭记忆、家务任务、主动智能和家庭看板等功能，可主动观察、推理并控制全屋设备。用户需使用 macOS 或 Linux（Windows 通过 WSL 运行），建议 4 GB 内存和 256 GB 存储，并绑定小米账号与 MiMo API 密钥。感知和 Agent 主要依赖云端大模型，会产生持续 API 费用。该项目仅限非商业用途。Xiaomi|小米技术·英文频道·英文频道",
-      "datetime": "2026-06-18T12:23:37+00:00",
-      "views": "3.22K",
-      "source_links": [
-        {
-          "text": "Xiaomi",
-          "url": "https://github.com/XiaoMi/xiaomi-miloco"
-        },
-        {
-          "text": "小米技术",
-          "url": "https://mp.weixin.qq.com/s/d07dYCA_hJKzCNDo4J_9Bw"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42035",
-      "scraped_at": "2026-06-18T21:00:53.226730",
-      "title": "小米开源智能家居方案",
-      "title_options": {
-        "conclusion": "小米开源智能家居方案",
-        "attractive": "智能家居新方案发布",
-        "minimal": "小米开源方案"
-      }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-06-20T00:19:53.156552"
+  "count": 49,
+  "updated_at": "2026-06-20T00:24:57.290081"
 }
