@@ -1603,39 +1603,8 @@
         "minimal": "Fortinet遭黑窃密",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42027",
-      "channel": "zaihuapd",
-      "text": "传谷歌考虑采购中国长鑫存储内存芯片，应对短缺与价格压力有传闻称谷歌正在评估从中国存储器厂商长鑫存储采购 DRAM 芯片。消息源自社交媒体爆料，声称源头是谷歌母公司 Alphabet CEO Sundar Pichai，但尚未证实。当前内存芯片紧缺，此举若落地，可能打破三星、SK 海力士、美光三家长期主导的市场格局。目前尚不明确这些芯片将用于 Pixel 手机、谷歌 TPU 还是云服务，外界猜测更可能用于新一代 Humufish TPU，因谷歌计划到 2028 年底将这类定制 AI 芯片的产量推至 350 万片。Wccftech·英文频道·",
-      "clean_text": "传谷歌考虑采购中国长鑫存储内存芯片，应对短缺与价格压力有传闻称谷歌正在评估从中国存储器厂商长鑫存储采购 DRAM 芯片。消息源自社交媒体爆料，声称源头是谷歌母公司 Alphabet CEO Sundar Pichai，但尚未证实。当前内存芯片紧缺，此举若落地，可能打破三星、SK 海力士、美光三家长期主导的市场格局。目前尚不明确这些芯片将用于 Pixel 手机、谷歌 TPU 还是云服务，外界猜测更可能用于新一代 Humufish TPU，因谷歌计划到 2028 年底将这类定制 AI 芯片的产量推至 350 万片。Wccftech·英文频道",
-      "datetime": "2026-06-18T06:14:59+00:00",
-      "views": "4.74K",
-      "source_links": [
-        {
-          "text": "Wccftech",
-          "url": "https://wccftech.com/a-wild-rumor-linked-to-sundar-pichai-suggests-google-is-evaluating-the-procurement-of-memory-chips-from-chinas-cxmt/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42027",
-      "scraped_at": "2026-06-18T15:01:12.154197",
-      "title": "谷歌或采购长鑫存储DRAM",
-      "title_options": {
-        "conclusion": "谷歌或采购长鑫存储DRAM",
-        "attractive": "谷歌评估中国内存芯片",
-        "minimal": "谷歌 长鑫 DRAM",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-19T18:10:18.996932"
+  "count": 63,
+  "updated_at": "2026-06-19T18:15:21.887710"
 }
