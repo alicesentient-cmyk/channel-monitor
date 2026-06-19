@@ -1432,35 +1432,8 @@
         "minimal": "HBM4E 12层样品交付",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30202",
-      "channel": "xhqcankao",
-      "text": "前谷歌Gemini联席负责人加入OpenAI公司今日，谷歌 DeepMind 研究员、Gemini 联席负责人Noam Shazeer正式加入 OpenAI 公司，将担任架构研究负责人，负责探索新一代AI模型架构，并推动Transformer架构的进一步演进。Shazeer本人也在社交平台上发文官宣加入 OpenAI，他说：“我很高兴加入OpenAI，并期待与这里卓越的团队一起工作。”对此，谷歌则发表声明感谢其多年来的重大贡献，并祝他一切顺利。作为2017年划时代论文《Attention Is All You Need》的核心作者，Shazeer所提出的Transformer架构是ChatGPT、GPT系列模型以及整个生成式AI爆发的底层核心基础。",
-      "clean_text": "前谷歌Gemini联席负责人加入OpenAI公司今日，谷歌 DeepMind 研究员、Gemini 联席负责人Noam Shazeer正式加入 OpenAI 公司，将担任架构研究负责人，负责探索新一代AI模型架构，并推动Transformer架构的进一步演进。Shazeer本人也在社交平台上发文官宣加入 OpenAI，他说：“我很高兴加入OpenAI，并期待与这里卓越的团队一起工作。”对此，谷歌则发表声明感谢其多年来的重大贡献，并祝他一切顺利。作为2017年划时代论文《Attention Is All You Need》的核心作者，Shazeer所提出的Transformer架构是ChatGPT、GPT系列模型以及整个生成式AI爆发的底层核心基础。——财联社、雅虎新闻",
-      "datetime": "2026-06-18T09:30:20+00:00",
-      "views": "1.51K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2403297?sv=859"
-        },
-        {
-          "text": "雅虎新闻",
-          "url": "https://tw.stock.yahoo.com/news/%E8%B0%B7%E6%AD%8C-transformer%E4%B9%8B%E7%88%B6-shazeer%E8%B7%B3%E6%A7%BDopenai-%E5%B0%88%E7%A0%94ai%E6%A8%A1%E5%9E%8B%E6%96%B0%E6%9E%B6%E6%A7%8B-034834020.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30202",
-      "scraped_at": "2026-06-18T18:00:16.605606",
-      "title": "前谷歌Gemini负责人加入OpenAI",
-      "title_options": {
-        "conclusion": "前谷歌Gemini负责人加入OpenAI",
-        "attractive": "Transformer作者跳槽Open…",
-        "minimal": "Shazeer加入OpenAI",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-19T21:27:30.992279"
+  "count": 56,
+  "updated_at": "2026-06-19T21:32:33.964733"
 }
