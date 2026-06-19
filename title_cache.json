@@ -7312,5 +7312,32 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-19T10:04:13.904592"
+  },
+  "xhqcankao_30219": {
+    "ai_title": "苹果音乐公布播放量Top20艺人",
+    "title_options": {
+      "conclusion": "苹果音乐公布播放量Top20艺人",
+      "attractive": "德雷克登顶苹果音乐播放榜",
+      "minimal": "苹果音乐Top20艺人榜"
+    },
+    "generated_at": "2026-06-19T11:00:20.458988"
+  },
+  "zaihuapd_42045": {
+    "ai_title": "智谱模型或明年一季度达Mythos级别",
+    "title_options": {
+      "conclusion": "智谱模型或明年一季度达Mythos级别",
+      "attractive": "中美AI差距仅7个月？",
+      "minimal": "智谱Mythos级别"
+    },
+    "generated_at": "2026-06-19T11:00:20.470368"
+  },
+  "xhqcankao_30218": {
+    "ai_title": "近半单身者反感AI约会",
+    "title_options": {
+      "conclusion": "近半单身者反感AI约会",
+      "attractive": "超四成拒与AI用户约会",
+      "minimal": "AI约会负面看法"
+    },
+    "generated_at": "2026-06-19T11:00:20.590629"
   }
 }
