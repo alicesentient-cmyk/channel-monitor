@@ -7339,5 +7339,45 @@
       "minimal": "AI约会负面看法"
     },
     "generated_at": "2026-06-19T11:00:20.590629"
+  },
+  "xhqcankao_30221": {
+    "ai_title": "苹果A12/A13芯片存无法修复漏洞",
+    "title_options": {
+      "conclusion": "苹果A12/A13芯片存无法修复漏洞",
+      "attractive": "苹果芯片漏洞无法修复",
+      "minimal": "A12/A13漏洞",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T12:01:05.950279"
+  },
+  "zaihuapd_42047": {
+    "ai_title": "美方称ASML光刻机或流入中国",
+    "title_options": {
+      "conclusion": "美方称ASML光刻机或流入中国",
+      "attractive": "ASML否认对华出口EUV",
+      "minimal": "ASML光刻机疑入华",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T12:01:06.086236"
+  },
+  "zaihuapd_42048": {
+    "ai_title": "Midjourney推超声波扫描仪",
+    "title_options": {
+      "conclusion": "Midjourney推超声波扫描仪",
+      "attractive": "60秒全身扫描，快过MRI百倍",
+      "minimal": "超声波扫描仪与水疗中心",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T12:01:06.154917"
+  },
+  "xhqcankao_30220": {
+    "ai_title": "巴西开发者可绕过苹果支付",
+    "title_options": {
+      "conclusion": "苹果调整巴西iOS商店",
+      "attractive": "巴西开发者可绕过苹果支付",
+      "minimal": "巴西iOS商店调整",
+      "best": "attractive"
+    },
+    "generated_at": "2026-06-19T12:01:07.479317"
   }
 }

@@ -1,6 +1,114 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42048",
+      "channel": "zaihuapd",
+      "text": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。Midjourney Medical·英文频道·",
+      "clean_text": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。Midjourney Medical·英文频道",
+      "datetime": "2026-06-19T04:00:10+00:00",
+      "views": "43",
+      "source_links": [
+        {
+          "text": "Midjourney Medical",
+          "url": "https://www.midjourney.com/medical/blogpost"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42048",
+      "scraped_at": "2026-06-19T12:00:43.251450",
+      "title": "Midjourney推超声波扫描仪",
+      "title_options": {
+        "conclusion": "Midjourney推超声波扫描仪",
+        "attractive": "60秒全身扫描，快过MRI百倍",
+        "minimal": "超声波扫描仪与水疗中心",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30221",
+      "channel": "xhqcankao",
+      "text": "苹果A12/A13芯片面临新的无法修复漏洞安全研究公司Paradigm Shift公布了一项影响苹果A12和A13芯片的新 BootROM 漏洞的细节，以及一个名为“usbliter8”的可行概念验证漏洞利用。BootROM是iPhone开机时运行的第一段代码。由于它在制造时就被直接烧录进芯片，其中发现的任何漏洞都无法通过软件更新来修复。该漏洞利用通过利用苹果芯片内置USB控制器中的一个错误来工作。当iPhone在启动期间接收到USB数据时，控制器使用一个内存缓冲区来存储传入的数据包。安全公司发现，通过发送特定序列的异常小的数据包，他们可以操纵内部硬件指针，使其在内存中反向遍历，从而允许数据被写入它本不应到达的位置。",
+      "clean_text": "苹果A12/A13芯片面临新的无法修复漏洞安全研究公司Paradigm Shift公布了一项影响苹果A12和A13芯片的新 BootROM 漏洞的细节，以及一个名为“usbliter8”的可行概念验证漏洞利用。BootROM是iPhone开机时运行的第一段代码。由于它在制造时就被直接烧录进芯片，其中发现的任何漏洞都无法通过软件更新来修复。该漏洞利用通过利用苹果芯片内置USB控制器中的一个错误来工作。当iPhone在启动期间接收到USB数据时，控制器使用一个内存缓冲区来存储传入的数据包。安全公司发现，通过发送特定序列的异常小的数据包，他们可以操纵内部硬件指针，使其在内存中反向遍历，从而允许数据被写入它本不应到达的位置。——Macrumors",
+      "datetime": "2026-06-19T03:32:47+00:00",
+      "views": "1.07K",
+      "source_links": [
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30221",
+      "scraped_at": "2026-06-19T12:00:44.853954",
+      "title": "苹果A12/A13芯片存无法修复漏洞",
+      "title_options": {
+        "conclusion": "苹果A12/A13芯片存无法修复漏洞",
+        "attractive": "苹果芯片漏洞无法修复",
+        "minimal": "A12/A13漏洞",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42047",
+      "channel": "zaihuapd",
+      "text": "美国向 ASML 施压 称其顶级光刻机可能已流入中国美国商务部长卢特尼克近期向荷兰芯片设备巨头 ASML 高管表示，怀疑一台顶级极紫外光刻机（EUV）可能已流入中国，违反美方主导的出口管制。ASML 坚决否认，强调从未向中国出口 EUV 整机，全球运行的 314 台设备都不在中国。美方高级官员声称掌握 ASML 未善意行事的证据，包括对华出口 EUV 相关运输设备，但拒绝出示。ASML 已散发文件自证清白，并反驳称从未出口任何 EUV 专用组件。此事加剧了美欧在芯片管制上的紧张关系，也可能影响美国国会正在推动的更严格对华设备限制法案。Bloomberg·英文频道·",
+      "clean_text": "美国向 ASML 施压 称其顶级光刻机可能已流入中国美国商务部长卢特尼克近期向荷兰芯片设备巨头 ASML 高管表示，怀疑一台顶级极紫外光刻机（EUV）可能已流入中国，违反美方主导的出口管制。ASML 坚决否认，强调从未向中国出口 EUV 整机，全球运行的 314 台设备都不在中国。美方高级官员声称掌握 ASML 未善意行事的证据，包括对华出口 EUV 相关运输设备，但拒绝出示。ASML 已散发文件自证清白，并反驳称从未出口任何 EUV 专用组件。此事加剧了美欧在芯片管制上的紧张关系，也可能影响美国国会正在推动的更严格对华设备限制法案。Bloomberg·英文频道",
+      "datetime": "2026-06-19T03:09:37+00:00",
+      "views": "3.87K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42047",
+      "scraped_at": "2026-06-19T12:00:43.250996",
+      "title": "美方称ASML光刻机或流入中国",
+      "title_options": {
+        "conclusion": "美方称ASML光刻机或流入中国",
+        "attractive": "ASML否认对华出口EUV",
+        "minimal": "ASML光刻机疑入华",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30220",
+      "channel": "xhqcankao",
+      "text": "苹果宣布对巴西iOS应用商店进行重大调整苹果公司今天宣布，巴西的开发者将被允许通过 iOS 上的替代应用市场分发 iPhone 应用，并通过第三方平台接受付款。换句话来说，巴西的开发者将能够绕过 App Store 和苹果的应用内购系统，但仍然存在费用。替代应用市场必须获得苹果的授权，并需要满足持续的要求。对于仍通过 App Store 分发的应用，开发者将能够在其应用中包含一种替代支付处理方式，或提供链接让用户访问网站完成交易。这些更改在iOS 26.5及更高版本上可用。苹果表示，这些更改给用户带来了隐私和安全风险。公司已引入保障措施以减轻这些风险，包括针对 iOS 应用的公证流程、针对应用市场的授权流程，及对18岁以下用户的外部链接和替代支付的限制。",
+      "clean_text": "苹果宣布对巴西iOS应用商店进行重大调整苹果公司今天宣布，巴西的开发者将被允许通过 iOS 上的替代应用市场分发 iPhone 应用，并通过第三方平台接受付款。换句话来说，巴西的开发者将能够绕过 App Store 和苹果的应用内购系统，但仍然存在费用。替代应用市场必须获得苹果的授权，并需要满足持续的要求。对于仍通过 App Store 分发的应用，开发者将能够在其应用中包含一种替代支付处理方式，或提供链接让用户访问网站完成交易。这些更改在iOS 26.5及更高版本上可用。苹果表示，这些更改给用户带来了隐私和安全风险。公司已引入保障措施以减轻这些风险，包括针对 iOS 应用的公证流程、针对应用市场的授权流程，及对18岁以下用户的外部链接和替代支付的限制。——Macrumors",
+      "datetime": "2026-06-19T03:04:44+00:00",
+      "views": "1.69K",
+      "source_links": [
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/06/18/apple-announces-ios-app-store-changes-in-brazil/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30220",
+      "scraped_at": "2026-06-19T12:00:44.853598",
+      "title": "巴西开发者可绕过苹果支付",
+      "title_options": {
+        "conclusion": "苹果调整巴西iOS商店",
+        "attractive": "巴西开发者可绕过苹果支付",
+        "minimal": "巴西iOS商店调整",
+        "best": "attractive"
+      }
+    },
+    {
       "id": "xhqcankao_30219",
       "channel": "xhqcankao",
       "text": "苹果音乐公布平台播放量最高的20位艺人苹果公司今天与Chart Data合作，分享了苹果音乐有记录以来流媒体播放量最高的20位艺人。这是苹果公司首次分享历史流媒体播放榜单。奥布里·德雷克·格雷厄姆（Drake) 是流媒体播放量第一的艺人，泰勒·艾莉森·斯威夫特 (Taylor Swift) 位列第二。未来小子 (Future) 排名第三，紧随其后的是肯特雷尔·德肖恩·高尔登 (YoungBoy Never Broke Again) 和坏痞兔(Bad Bunny)。Apple Music 于 2015 年 6 月推出，因此这份前 20 名榜单包含了过去 11 年的流媒体数据。在美国，该流媒体服务的个人套餐价格为每月 10.99 美元，学生、家庭和Apple One套餐用户还有其他价格选择。",
@@ -1641,6 +1749,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-19T11:55:58.188627"
+  "count": 67,
+  "updated_at": "2026-06-19T12:01:07.493250"
 }
