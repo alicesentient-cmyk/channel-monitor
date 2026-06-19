@@ -1623,39 +1623,8 @@
         "minimal": "微软AI模型出售中国",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42023",
-      "channel": "zaihuapd",
-      "text": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。中国邮政群友：AI 赋能",
-      "clean_text": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。中国邮政🤩群友：AI 赋能·备用频道",
-      "datetime": "2026-06-18T02:51:50+00:00",
-      "views": "1.35K",
-      "source_links": [
-        {
-          "text": "中国邮政",
-          "url": "https://mall.11185.cn/h5/#/jfGoodsDetails?spuId=69628542&amp;businessId=JY&amp;udcSrc=JY_jyIndex_window_weChat&amp;udcSrcId=1&amp;udcSrcPos=1"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42023",
-      "scraped_at": "2026-06-18T11:00:11.654807",
-      "title": "中国邮政发行首套AI邮票",
-      "title_options": {
-        "conclusion": "中国邮政发行首套AI邮票",
-        "attractive": "AI邮票融入硅基材料",
-        "minimal": "AI邮票四枚发行",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-19T14:47:55.862409"
+  "count": 63,
+  "updated_at": "2026-06-19T14:52:59.094437"
 }
