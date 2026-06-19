@@ -1716,31 +1716,8 @@
         "minimal": "AI发展过快 63%",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30187",
-      "channel": "xhqcankao",
-      "text": "报告发现TikTok的AI生成内容是YouTube的三倍视频创作工具公司Kapwing的一份报告显示，新账户的TikTok“为你推荐”中约59%的视频是AI生成内容（AI slop），这大约是YouTube上发现的三倍。Kapwing在YouTube上进行了相同的测试，发现500个Shorts中有104个（21%）是AI生成内容；而在TikTok上，500个“为你推荐”视频中有294个达到了这一阈值。在TikTok的儿童内容类别中，AI生成内容的比例最高，达到57%。其次是科学与教育（35%）、健康（33%）和历史（33%）。",
-      "clean_text": "报告发现TikTok的AI生成内容是YouTube的三倍视频创作工具公司Kapwing的一份报告显示，新账户的TikTok“为你推荐”中约59%的视频是AI生成内容（AI slop），这大约是YouTube上发现的三倍。Kapwing在YouTube上进行了相同的测试，发现500个Shorts中有104个（21%）是AI生成内容；而在TikTok上，500个“为你推荐”视频中有294个达到了这一阈值。在TikTok的儿童内容类别中，AI生成内容的比例最高，达到57%。其次是科学与教育（35%）、健康（33%）和历史（33%）。——搜索引擎期刊",
-      "datetime": "2026-06-18T02:03:42+00:00",
-      "views": "1.96K",
-      "source_links": [
-        {
-          "text": "搜索引擎期刊",
-          "url": "https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30187",
-      "scraped_at": "2026-06-18T11:00:13.409298",
-      "title": "TikTok AI内容达59%",
-      "title_options": {
-        "conclusion": "TikTok AI内容达59%",
-        "attractive": "AI内容泛滥，TikTok是YouTu…",
-        "minimal": "TikTok AI内容三倍于YouTu…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-19T14:02:25.076688"
+  "count": 66,
+  "updated_at": "2026-06-19T14:07:28.561867"
 }
