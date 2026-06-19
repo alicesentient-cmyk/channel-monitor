@@ -1459,26 +1459,8 @@
         "minimal": "Shazeer加入OpenAI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42031",
-      "channel": "zaihuapd",
-      "text": "Apple 与 Intel 达成初步芯片代工协议  Apple 与 Intel 已达成初步协议，由 Intel 代工生产部分 Apple 设备所需的芯片。双方谈判历时一年有余，并在近几个月敲定了正式合同。目前尚不明确 Intel 将具体为 iPhone、iPad 或 Mac 中的哪类产品代工芯片。  此次合作由美国政府深度推动，商务部长此前曾多次游说 Tim Cook 等高层。随着 Apple 协议的达成，Intel 目前已与 Nvidia、SpaceX 和 Apple 三家公司均建立了代工合作伙伴关系。…",
-      "clean_text": "Apple 与 Intel 达成初步芯片代工协议  Apple 与 Intel 已达成初步协议，由 Intel 代工生产部分 Apple 设备所需的芯片。双方谈判历时一年有余，并在近几个月敲定了正式合同。目前尚不明确 Intel 将具体为 iPhone、iPad 或 Mac 中的哪类产品代工芯片。  此次合作由美国政府深度推动，商务部长此前曾多次游说 Tim Cook 等高层。随着 Apple 协议的达成，Intel 目前已与 Nvidia、SpaceX 和 Apple 三家公司均建立了代工合作伙伴关系。…",
-      "datetime": "2026-06-18T09:19:15+00:00",
-      "views": "3.96K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42031",
-      "scraped_at": "2026-06-18T18:00:14.816108",
-      "title": "苹果与英特尔达成芯片代工协议",
-      "title_options": {
-        "conclusion": "苹果与英特尔达成芯片代工协议",
-        "attractive": "英特尔代工苹果芯片",
-        "minimal": "苹果英特尔芯片代工",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-19T21:17:23.352691"
+  "count": 57,
+  "updated_at": "2026-06-19T21:22:27.761940"
 }
