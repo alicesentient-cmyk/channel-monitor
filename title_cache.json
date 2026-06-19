@@ -7554,5 +7554,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-19T19:00:57.017096"
+  },
+  "zaihuapd_42059": {
+    "ai_title": "苹果同意巴西开放第三方商店",
+    "title_options": {
+      "conclusion": "苹果同意巴西开放第三方商店",
+      "attractive": "苹果在巴西开放外部支付",
+      "minimal": "苹果巴西开放商店支付",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T20:01:33.949408"
+  },
+  "xhqcankao_30231": {
+    "ai_title": "欧盟拟对中国混动汽车征反补贴税",
+    "title_options": {
+      "conclusion": "欧盟拟对中国混动汽车征反补贴税",
+      "attractive": "中国混动车或遭欧盟加税",
+      "minimal": "欧盟拟征混动车反补贴税",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T20:01:34.086527"
+  },
+  "zaihuapd_42060": {
+    "ai_title": "SpaceX上市前向中国投资者售股",
+    "title_options": {
+      "conclusion": "SpaceX上市前向中国投资者售股",
+      "attractive": "SpaceX禁中国投资者却暗中售股",
+      "minimal": "SpaceX中国投资者持股"
+    },
+    "generated_at": "2026-06-19T20:01:34.157476"
   }
 }
