@@ -1056,39 +1056,8 @@
         "minimal": "挥手验证",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42039",
-      "channel": "zaihuapd",
-      "text": "快去查查你的谷歌账号是否可以改地址，测试看看https://myaccount.google.com/google-account-email·英文频道·",
-      "clean_text": "快去查查你的谷歌账号是否可以改地址，测试看看https://myaccount.google.com/google-account-email·英文频道",
-      "datetime": "2026-06-18T16:03:25+00:00",
-      "views": "4.99K",
-      "source_links": [
-        {
-          "text": "https://myaccount.google.com/google-account-email",
-          "url": "https://myaccount.google.com/google-account-email"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42039",
-      "scraped_at": "2026-06-19T01:00:27.455787",
-      "title": "谷歌账号可改地址",
-      "title_options": {
-        "conclusion": "谷歌账号可改地址",
-        "attractive": "你的谷歌地址能改吗",
-        "minimal": "谷歌地址修改",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 43,
-  "updated_at": "2026-06-20T04:02:41.808623"
+  "count": 42,
+  "updated_at": "2026-06-20T04:07:44.546133"
 }
