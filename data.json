@@ -1164,39 +1164,8 @@
         "minimal": "GTA6 6月25日预购",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42037",
-      "channel": "zaihuapd",
-      "text": "《侠盗猎车手 VI》的预购将于 6 月 25 日在各大数字平台及其他指定零售商正式开启。Rockstar Games·英文频道·",
-      "clean_text": "《侠盗猎车手 VI》的预购将于 6 月 25 日在各大数字平台及其他指定零售商正式开启。Rockstar Games·英文频道",
-      "datetime": "2026-06-18T14:04:37+00:00",
-      "views": "5.56K",
-      "source_links": [
-        {
-          "text": "Rockstar Games",
-          "url": "https://x.com/RockstarGames/status/2067594067030979053"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42037",
-      "scraped_at": "2026-06-18T23:00:18.136116",
-      "title": "GTA6预购6月25日开启",
-      "title_options": {
-        "conclusion": "GTA6预购6月25日开启",
-        "attractive": "GTA6预购倒计时开始",
-        "minimal": "GTA6预购6月25日",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-06-20T02:01:20.851988"
+  "count": 46,
+  "updated_at": "2026-06-20T02:06:23.829108"
 }
