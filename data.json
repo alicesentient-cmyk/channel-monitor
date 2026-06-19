@@ -1580,31 +1580,8 @@
         "minimal": "博世华为出口罚3600万",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30196",
-      "channel": "xhqcankao",
-      "text": "防火墙Fortinet遭黑 波及财富500强企业网络安全研究人员说，一波大规模锁定防火墙设备 Fortinet 的黑客攻击行动，已侵入全球知名机构，证据显示包括财富 500强大企业与逾15国政府机构的密码都曾遭窃。追踪网络威胁的Hudson Rock公司表示，大多数受影响的设备分布在美国、印度与台湾，这起间谍行动规模 “惊人”。约有7万5000台的 Fortinet 防火墙及VPN遭到入侵，黑客很可能进一步深入这些设备并窃取资料。Fortinet 声明指出，已知有黑客针对 Fortinet 防火墙与VPN设备窃取帐号密码。黑客利用以往事件获取的资料，不断尝试破解密码，即所谓的“暴力破解”，以入侵目标网络或设备。",
-      "clean_text": "防火墙Fortinet遭黑 波及财富500强企业网络安全研究人员说，一波大规模锁定防火墙设备 Fortinet 的黑客攻击行动，已侵入全球知名机构，证据显示包括财富 500强大企业与逾15国政府机构的密码都曾遭窃。追踪网络威胁的Hudson Rock公司表示，大多数受影响的设备分布在美国、印度与台湾，这起间谍行动规模 “惊人”。约有7万5000台的 Fortinet 防火墙及VPN遭到入侵，黑客很可能进一步深入这些设备并窃取资料。Fortinet 声明指出，已知有黑客针对 Fortinet 防火墙与VPN设备窃取帐号密码。黑客利用以往事件获取的资料，不断尝试破解密码，即所谓的“暴力破解”，以入侵目标网络或设备。——台湾经济日报",
-      "datetime": "2026-06-18T06:30:47+00:00",
-      "views": "1.42K",
-      "source_links": [
-        {
-          "text": "台湾经济日报",
-          "url": "https://money.udn.com/money/amp/story/5599/9573992"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30196",
-      "scraped_at": "2026-06-18T15:01:14.309897",
-      "title": "Fortinet遭黑波及500强",
-      "title_options": {
-        "conclusion": "Fortinet遭黑波及500强",
-        "attractive": "7.5万防火墙被黑窃密",
-        "minimal": "Fortinet遭黑窃密",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-19T18:30:32.803772"
+  "count": 62,
+  "updated_at": "2026-06-19T18:35:36.671026"
 }
