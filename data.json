@@ -1664,39 +1664,8 @@
         "minimal": "TikTok AI内容三倍于YouTu…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42021",
-      "channel": "zaihuapd",
-      "text": "黄仁勋：没有 AMD 就没英伟达今天黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。快科技",
-      "clean_text": "黄仁勋：没有 AMD 就没英伟达今天黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。快科技·备用频道",
-      "datetime": "2026-06-18T01:50:00+00:00",
-      "views": "1.63K",
-      "source_links": [
-        {
-          "text": "快科技",
-          "url": "https://news.mydrivers.com/1/1130/1130152.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42021",
-      "scraped_at": "2026-06-18T10:00:37.869633",
-      "title": "黄仁勋：AMD资助我读研",
-      "title_options": {
-        "conclusion": "黄仁勋：AMD资助我读研",
-        "attractive": "AMD资助黄仁勋成英伟达基石",
-        "minimal": "黄仁勋 AMD 资助",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-19T13:47:13.682121"
+  "count": 64,
+  "updated_at": "2026-06-19T13:52:16.745910"
 }
