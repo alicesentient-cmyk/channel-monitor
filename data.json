@@ -1670,34 +1670,8 @@
         "minimal": "苹果提价",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30182",
-      "channel": "xhqcankao",
-      "text": "存储涨价的荒诞现实：一块游戏机硬盘已能抵三台完整主机存储芯片疯狂涨价的离谱状况，又迎来新的诠释。周三，NAND大厂闪迪推出一款获得索尼官方授权的SSD配件，用于扩展游戏主机PlayStation 5的存储容量。这条消息迅速引发关注和热议，因为这块配件的定价，已经远远超过使用这款配件的主机。闪迪官网显示，8TB版本的固态硬盘定价3699.99美元，在线商店优惠后的标价也达到2959.99美元。作为对比，索尼旗下目前性能最先进的游戏主机PlayStation 5 Pro，在今年四月因内存涨价后的定价也仅为899美元。这款机器还自带2TB的内置存储。按照闪迪8TB硬盘的官网优惠价计算，这笔钱能够直接购买三台PS5 PRO还能找一些零头。",
-      "clean_text": "存储涨价的荒诞现实：一块游戏机硬盘已能抵三台完整主机存储芯片疯狂涨价的离谱状况，又迎来新的诠释。周三，NAND大厂闪迪推出一款获得索尼官方授权的SSD配件，用于扩展游戏主机PlayStation 5的存储容量。这条消息迅速引发关注和热议，因为这块配件的定价，已经远远超过使用这款配件的主机。闪迪官网显示，8TB版本的固态硬盘定价3699.99美元，在线商店优惠后的标价也达到2959.99美元。作为对比，索尼旗下目前性能最先进的游戏主机PlayStation 5 Pro，在今年四月因内存涨价后的定价也仅为899美元。这款机器还自带2TB的内置存储。按照闪迪8TB硬盘的官网优惠价计算，这笔钱能够直接购买三台PS5 PRO还能找一些零头。——财联社、Theverge",
-      "datetime": "2026-06-17T23:30:07+00:00",
-      "views": "873",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2402925?sv=8.7.9&amp;app=cailianpress"
-        },
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30182",
-      "scraped_at": "2026-06-18T08:00:21.457863",
-      "title": "8TB硬盘价超三台PS5",
-      "title_options": {
-        "conclusion": "8TB硬盘价超三台PS5",
-        "attractive": "硬盘比主机贵三倍",
-        "minimal": "硬盘价超主机"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-19T11:25:38.408755"
+  "count": 64,
+  "updated_at": "2026-06-19T11:30:42.121889"
 }
