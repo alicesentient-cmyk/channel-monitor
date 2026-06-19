@@ -1141,31 +1141,8 @@
         "minimal": "追觅裁员12%",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30210",
-      "channel": "xhqcankao",
-      "text": "《侠盗猎车手VI》将于6月25日正式开启预购，届时可在各大数字商店及其他指定零售商处购买。——RockstarGames on X",
-      "clean_text": "《侠盗猎车手VI》将于6月25日正式开启预购，届时可在各大数字商店及其他指定零售商处购买。——RockstarGames on X",
-      "datetime": "2026-06-18T14:31:58+00:00",
-      "views": "1.4K",
-      "source_links": [
-        {
-          "text": "RockstarGames on X",
-          "url": "https://x.com/RockstarGames/status/2067594067030979053"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30210",
-      "scraped_at": "2026-06-18T23:00:20.586438",
-      "title": "GTA6 6月25日开启预购",
-      "title_options": {
-        "conclusion": "GTA6 6月25日开启预购",
-        "attractive": "GTA6预购日期确定",
-        "minimal": "GTA6 6月25日预购",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-06-20T02:31:42.678931"
+  "count": 45,
+  "updated_at": "2026-06-20T02:36:47.090244"
 }
