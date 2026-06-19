@@ -1500,39 +1500,8 @@
         "minimal": "Circles出售监控工具",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42030",
-      "channel": "zaihuapd",
-      "text": "国家发改委：第三批 625 亿元国补 6 月底前下达国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，6 月底前将下达今年全部 2000 亿元设备更新项目清单和第三批 625 亿元消费品以旧换新资金。中新网·英文频道·",
-      "clean_text": "国家发改委：第三批 625 亿元国补 6 月底前下达国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，6 月底前将下达今年全部 2000 亿元设备更新项目清单和第三批 625 亿元消费品以旧换新资金。中新网·英文频道",
-      "datetime": "2026-06-18T08:39:37+00:00",
-      "views": "2.77K",
-      "source_links": [
-        {
-          "text": "中新网",
-          "url": "https://www.chinanews.com.cn/cj/2026/06-18/10642965.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42030",
-      "scraped_at": "2026-06-18T17:00:42.376437",
-      "title": "第三批625亿国补6月底下达",
-      "title_options": {
-        "conclusion": "第三批625亿国补6月底下达",
-        "attractive": "625亿国补即将到账",
-        "minimal": "国补625亿6月底",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-19T20:36:55.589763"
+  "count": 59,
+  "updated_at": "2026-06-19T20:42:00.119608"
 }
