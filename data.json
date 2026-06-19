@@ -1609,35 +1609,8 @@
         "minimal": "Meta AI重组错误",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30190",
-      "channel": "xhqcankao",
-      "text": "SpaceX扩大董事会：马斯克长期盟友加入SpaceX完成创纪录的IPO不到一周后，马斯克又为这家火箭制造商的董事会增添了一位长期好友和盟友：罗洛夫·博塔。SpaceX 公司在周三的一份文件中称，博塔将立即出任独立董事，并担任公司审计委员会成员。这将使他成为 SpaceX 公司的第八名董事会成员。自2003年以来，博塔一直在风险投资公司红杉资本任职，最终于2022年晋升为董事总经理，随后在去年卸任该职位。他现在是红杉资本的顾问，并在其官网上被列为种子轮与早期投资团队以及成长团队成员。马斯克早在2000年 PayPal 创立初期就曾招募博塔加入公司。他们两人都来自南非。",
-      "clean_text": "SpaceX扩大董事会：马斯克长期盟友加入SpaceX完成创纪录的IPO不到一周后，马斯克又为这家火箭制造商的董事会增添了一位长期好友和盟友：罗洛夫·博塔。SpaceX 公司在周三的一份文件中称，博塔将立即出任独立董事，并担任公司审计委员会成员。这将使他成为 SpaceX 公司的第八名董事会成员。自2003年以来，博塔一直在风险投资公司红杉资本任职，最终于2022年晋升为董事总经理，随后在去年卸任该职位。他现在是红杉资本的顾问，并在其官网上被列为种子轮与早期投资团队以及成长团队成员。马斯克早在2000年 PayPal 创立初期就曾招募博塔加入公司。他们两人都来自南非。——凤凰网科技、CNBC",
-      "datetime": "2026-06-18T03:33:02+00:00",
-      "views": "1.09K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006XmYM96IfF9Pj8cOYMWbBWAxZl9K6SNDfTwB-_xDeTlrmJ5FF44oLM8xErYKzCXRq-_"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/17/spacex-adds-long-time-elon-musk-ally-roelof-botha-to-board.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30190",
-      "scraped_at": "2026-06-18T12:00:17.786824",
-      "title": "SpaceX董事会新增第八人",
-      "title_options": {
-        "conclusion": "SpaceX董事会新增第八人",
-        "attractive": "马斯克老友加入SpaceX董事会",
-        "minimal": "SpaceX董事会扩员",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-19T15:28:23.241006"
+  "count": 63,
+  "updated_at": "2026-06-19T15:33:26.095429"
 }
