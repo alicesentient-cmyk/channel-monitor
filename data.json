@@ -1623,39 +1623,8 @@
         "minimal": "AI智能体识别码",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42025",
-      "channel": "zaihuapd",
-      "text": "ChatGPT 定时任务功能升级：新增 Scheduled 页面与监控通知OpenAI 改进了 ChatGPT 的定时任务功能，新增侧边栏“Scheduled”页面，可集中创建、查看、编辑、暂停或删除一次性与重复任务。用户还能设置监控任务，让 ChatGPT 定期检查变化并在有重要更新时发送通知。该功能面向 Plus、Pro、Business 和 Enterprise 用户，支持网页版与移动应用，暂不支持桌面客户端和 Codex。不同套餐的活跃任务上限从 3 个到 15 个不等，且不支持语音对话和 GPTs。OpenAI Help Center",
-      "clean_text": "ChatGPT 定时任务功能升级：新增 Scheduled 页面与监控通知OpenAI 改进了 ChatGPT 的定时任务功能，新增侧边栏“Scheduled”页面，可集中创建、查看、编辑、暂停或删除一次性与重复任务。用户还能设置监控任务，让 ChatGPT 定期检查变化并在有重要更新时发送通知。该功能面向 Plus、Pro、Business 和 Enterprise 用户，支持网页版与移动应用，暂不支持桌面客户端和 Codex。不同套餐的活跃任务上限从 3 个到 15 个不等，且不支持语音对话和 GPTs。OpenAI Help Center·备用频道",
-      "datetime": "2026-06-18T04:20:00+00:00",
-      "views": "3.62K",
-      "source_links": [
-        {
-          "text": "OpenAI Help Center",
-          "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42025",
-      "scraped_at": "2026-06-18T13:00:46.160997",
-      "title": "ChatGPT定时任务升级",
-      "title_options": {
-        "conclusion": "ChatGPT定时任务升级",
-        "attractive": "定时任务新增监控通知",
-        "minimal": "ChatGPT定时任务",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-19T16:19:02.106036"
+  "count": 64,
+  "updated_at": "2026-06-19T16:24:05.299456"
 }
