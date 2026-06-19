@@ -1695,31 +1695,8 @@
         "minimal": "黄仁勋 AMD 资助",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30186",
-      "channel": "xhqcankao",
-      "text": "马克龙寻求绕过特朗普的Anthropic禁令法国总统埃马纽埃尔·马克龙牵头与七国集团 (G7) 领导人和科技高管进行会谈，探讨如何通过所谓的可信合作伙伴部署最先进人工智能模型，此前美国禁止外国国民接触该技术。据一位熟悉其想法的外交官称，马克龙周三在法国埃维昂会见了包括 Anthropic 的达里奥·阿莫代伊和OpenAI的萨姆·奥尔特曼在内的科技CEO，计划推动欧洲获取前沿模型。这位法国领导人已与阿莫代伊讨论了选项，并计划与Meta和OpenAI的高管举行双边会议。美国上周命令 Anthropic ，未经商务部许可，不得将其Fable 5和Mythos 5人工智能模型提供给世界任何地方的外国国民，理由是国家安全担忧。",
-      "clean_text": "马克龙寻求绕过特朗普的Anthropic禁令法国总统埃马纽埃尔·马克龙牵头与七国集团 (G7) 领导人和科技高管进行会谈，探讨如何通过所谓的可信合作伙伴部署最先进人工智能模型，此前美国禁止外国国民接触该技术。据一位熟悉其想法的外交官称，马克龙周三在法国埃维昂会见了包括 Anthropic 的达里奥·阿莫代伊和OpenAI的萨姆·奥尔特曼在内的科技CEO，计划推动欧洲获取前沿模型。这位法国领导人已与阿莫代伊讨论了选项，并计划与Meta和OpenAI的高管举行双边会议。美国上周命令 Anthropic ，未经商务部许可，不得将其Fable 5和Mythos 5人工智能模型提供给世界任何地方的外国国民，理由是国家安全担忧。——彭博社",
-      "datetime": "2026-06-18T01:32:25+00:00",
-      "views": "1.2K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-17/macron-seeks-way-around-trump-s-ban-on-anthropic-s-ai-models"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30186",
-      "scraped_at": "2026-06-18T10:00:40.152324",
-      "title": "马克龙推动欧洲获取AI模型",
-      "title_options": {
-        "conclusion": "马克龙推动欧洲获取AI模型",
-        "attractive": "美国禁令下马克龙另寻AI路",
-        "minimal": "马克龙G7会谈AI",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-06-19T13:32:04.902608"
+  "count": 65,
+  "updated_at": "2026-06-19T13:37:07.920344"
 }
