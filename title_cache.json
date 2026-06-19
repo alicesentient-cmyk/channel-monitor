@@ -7494,5 +7494,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-19T16:03:49.904830"
+  },
+  "zaihuapd_42055": {
+    "ai_title": "英文频道上线",
+    "title_options": {
+      "conclusion": "英文频道上线",
+      "attractive": "同步学英文",
+      "minimal": "英文频道",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T17:04:31.589631"
+  },
+  "zaihuapd_42056": {
+    "ai_title": "中欧达成电动汽车争端协议",
+    "title_options": {
+      "conclusion": "中欧达成电动汽车争端协议",
+      "attractive": "欧盟发布中国电车最低价",
+      "minimal": "中欧电动汽车争端解决",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T17:04:31.914633"
+  },
+  "xhqcankao_30230": {
+    "ai_title": "马斯克称中国AI明年一季度达Fable",
+    "title_options": {
+      "conclusion": "马斯克称中国AI明年一季度达Fable",
+      "attractive": "中国AI超越美国？马斯克预测时间",
+      "minimal": "马斯克 中国AI Fable 一季度",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T17:04:32.044622"
+  },
+  "xhqcankao_30229": {
+    "ai_title": "美提案征AI公司50%股权税",
+    "title_options": {
+      "conclusion": "美提案征AI公司50%股权税",
+      "attractive": "每人年领千元AI红利",
+      "minimal": "AI股权税 全民分红",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T17:04:32.989928"
   }
 }
