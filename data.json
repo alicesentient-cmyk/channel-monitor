@@ -1432,31 +1432,8 @@
         "minimal": "新能源车下乡",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30203",
-      "channel": "xhqcankao",
-      "text": "SK海力士宣布交付12层HBM4E样品本周四，SK海力士公司宣布，已向主要客户交付了新一代AI用 DRAM：HBM4E 的12层堆叠样品。此举有助于巩固该公司在快速发展的AI芯片市场中的龙头地位。SK海力士在一份声明表示：“得益于公司在HBM领域的先进研发和生产技术，我们能够按时交付12层HBM4E的样品…我们将与合作伙伴紧密协作，确保实现及时的大规模量产。”SK海力士公司声称，这款12层HBM4E每引脚（pin）最大数据处理速度达16Gbps，能效较前代型号提升了超过20%。这些改进将有效增强AI训练和推理的数据处理能力。",
-      "clean_text": "SK海力士宣布交付12层HBM4E样品本周四，SK海力士公司宣布，已向主要客户交付了新一代AI用 DRAM：HBM4E 的12层堆叠样品。此举有助于巩固该公司在快速发展的AI芯片市场中的龙头地位。SK海力士在一份声明表示：“得益于公司在HBM领域的先进研发和生产技术，我们能够按时交付12层HBM4E的样品…我们将与合作伙伴紧密协作，确保实现及时的大规模量产。”SK海力士公司声称，这款12层HBM4E每引脚（pin）最大数据处理速度达16Gbps，能效较前代型号提升了超过20%。这些改进将有效增强AI训练和推理的数据处理能力。——财联社",
-      "datetime": "2026-06-18T10:04:14+00:00",
-      "views": "1.99K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2403255?sv=8.5.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30203",
-      "scraped_at": "2026-06-18T19:00:50.383446",
-      "title": "SK海力士交付12层HBM4E样品",
-      "title_options": {
-        "conclusion": "SK海力士交付12层HBM4E样品",
-        "attractive": "AI芯片龙头交付新样品",
-        "minimal": "HBM4E 12层样品交付",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-19T22:02:56.977478"
+  "count": 56,
+  "updated_at": "2026-06-19T22:08:00.326935"
 }
