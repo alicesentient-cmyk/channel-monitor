@@ -1654,47 +1654,8 @@
         "minimal": "AI邮票四枚发行",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42022",
-      "channel": "zaihuapd",
-      "text": "WhatsApp 测试阅后即焚文字消息WhatsApp 正在 Android 和 iOS 测试版中测试阅后即焚文字消息功能。用户编写消息后长按发送按钮，选择“以阅后即焚方式发送”，收件人只能查看一次，之后消息消失，且无法复制、转发或截图。此前阅后即焚已支持照片、视频和语音消息，文字消息的加入将提供更完整的临时对话控制。目前该功能仍处于开发阶段，正式发布时间未定。WABetaInfo|MacRumors|Engadget",
-      "clean_text": "WhatsApp 测试阅后即焚文字消息WhatsApp 正在 Android 和 iOS 测试版中测试阅后即焚文字消息功能。用户编写消息后长按发送按钮，选择“以阅后即焚方式发送”，收件人只能查看一次，之后消息消失，且无法复制、转发或截图。此前阅后即焚已支持照片、视频和语音消息，文字消息的加入将提供更完整的临时对话控制。目前该功能仍处于开发阶段，正式发布时间未定。WABetaInfo|MacRumors|Engadget·备用频道",
-      "datetime": "2026-06-18T02:35:00+00:00",
-      "views": "2.82K",
-      "source_links": [
-        {
-          "text": "WABetaInfo",
-          "url": "https://wabetainfo.com/whatsapp-to-test-view-once-option-for-text-messages-on-android/"
-        },
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/"
-        },
-        {
-          "text": "Engadget",
-          "url": "https://www.engadget.com/2196064/whatsapp-is-testing-read-once-disappearing-messages/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42022",
-      "scraped_at": "2026-06-18T11:00:11.654193",
-      "title": "WhatsApp测试阅后即焚文字",
-      "title_options": {
-        "conclusion": "WhatsApp测试阅后即焚文字",
-        "attractive": "文字消息阅后即焚来了",
-        "minimal": "WhatsApp阅后即焚",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-19T14:32:46.039697"
+  "count": 64,
+  "updated_at": "2026-06-19T14:37:49.214220"
 }
