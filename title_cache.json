@@ -7454,5 +7454,45 @@
       "minimal": "甲酰胺 纸尿裤 检出"
     },
     "generated_at": "2026-06-19T15:03:07.196199"
+  },
+  "zaihuapd_42053": {
+    "ai_title": "进口牛肉加征55%关税",
+    "title_options": {
+      "conclusion": "进口牛肉加征55%关税",
+      "attractive": "牛肉进口配额加税55%",
+      "minimal": "牛肉关税55%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T16:03:48.615303"
+  },
+  "zaihuapd_42054": {
+    "ai_title": "安卓侧载需24小时等待",
+    "title_options": {
+      "conclusion": "安卓侧载需24小时等待",
+      "attractive": "安装未知应用先等一天",
+      "minimal": "侧载新规24小时",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T16:03:48.672267"
+  },
+  "xhqcankao_30228": {
+    "ai_title": "Meta与Crusoe达成AI算力合作",
+    "title_options": {
+      "conclusion": "Meta与Crusoe达成AI算力合作",
+      "attractive": "Meta购买1.6吉瓦AI算力",
+      "minimal": "Meta Crusoe 算力合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T16:03:48.673445"
+  },
+  "xhqcankao_30227": {
+    "ai_title": "微软亚马逊云服务遭欧盟监管",
+    "title_options": {
+      "conclusion": "微软亚马逊云服务遭欧盟监管",
+      "attractive": "云巨头面临欧盟反垄断",
+      "minimal": "微软亚马逊云监管",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T16:03:49.904830"
   }
 }
