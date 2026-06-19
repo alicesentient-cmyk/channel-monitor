@@ -1718,66 +1718,8 @@
         "minimal": "马克龙G7会谈AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42020",
-      "channel": "zaihuapd",
-      "text": "微软借OpenAI 模型在中国做大 AI 生意微软通过 Azure 向中国科技公司销售 OpenAI 的 AI 模型，在华业务快速扩张。知情人士称，字节跳动是其最大客户，每年在微软 AI 和云服务上的投入预计超 10 亿美元；蚂蚁集团、美团、腾讯也是重要买主。Azure 在中国的 AI 收入增速一度全球最快，连续两年实现约四倍和三倍增长。该业务在美国引发争议。部分企业高管和立法者担忧中国 AI 威胁美国产业，OpenAI 曾私下抱怨微软未充分阻止中国公司“蒸馏”其模型。微软则称在华存在有助于跟踪创新并服务跨国客户，同时强调只向成熟企业而非个人开发者销售模型，且模型托管在境外数据中心，客户需经互联网访问。Bloomberg",
-      "clean_text": "📱微软借🤖OpenAI 模型在中国做大 AI 生意微软通过 Azure 向中国科技公司销售 OpenAI 的 AI 模型，在华业务快速扩张。知情人士称，字节跳动是其最大客户，每年在微软 AI 和云服务上的投入预计超 10 亿美元；蚂蚁集团、美团、腾讯也是重要买主。Azure 在中国的 AI 收入增速一度全球最快，连续两年实现约四倍和三倍增长。该业务在美国引发争议。部分企业高管和立法者担忧中国 AI 威胁美国产业，OpenAI 曾私下抱怨微软未充分阻止中国公司“蒸馏”其模型。微软则称在华存在有助于跟踪创新并服务跨国客户，同时强调只向成熟企业而非个人开发者销售模型，且模型托管在境外数据中心，客户需经互联网访问。Bloomberg·备用频道",
-      "datetime": "2026-06-18T01:06:04+00:00",
-      "views": "4.46K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42020",
-      "scraped_at": "2026-06-18T10:00:37.869090",
-      "title": "微软借OpenAI在华营收超10亿美元",
-      "title_options": {
-        "conclusion": "微软借OpenAI在华营收超10亿美元",
-        "attractive": "字节跳动每年投微软AI超10亿美元",
-        "minimal": "微软OpenAI中国AI生意",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30185",
-      "channel": "xhqcankao",
-      "text": "苹果CEO：公司产品将被迫因内存涨价苹果公司CEO蒂姆·库克在接受采访时说，苹果计划提高产品售价，以抵消内存和存储芯片成本飙升带来的压力。“很遗憾，涨价是不可避免的，”他表示，“我们正在尽最大努力缓解这些转嫁给我们的巨大成本上涨，也一直在努力保护顾客免受价格上涨的影响，但目前情况已经变得不可持续。”中国在内存和存储领域拥有国家级龙头企业，但由于美国国家安全法规的限制，美国公司与这些公司合作很可能需要获得许可证。当被问及这些限制是否应该放宽时，库克表示：“我认为一切都可以放在桌面上讨论，我认为我们应该审视所有的供应来源。”",
-      "clean_text": "苹果CEO：公司产品将被迫因内存涨价苹果公司CEO蒂姆·库克在接受采访时说，苹果计划提高产品售价，以抵消内存和存储芯片成本飙升带来的压力。“很遗憾，涨价是不可避免的，”他表示，“我们正在尽最大努力缓解这些转嫁给我们的巨大成本上涨，也一直在努力保护顾客免受价格上涨的影响，但目前情况已经变得不可持续。”中国在内存和存储领域拥有国家级龙头企业，但由于美国国家安全法规的限制，美国公司与这些公司合作很可能需要获得许可证。当被问及这些限制是否应该放宽时，库克表示：“我认为一切都可以放在桌面上讨论，我认为我们应该审视所有的供应来源。”——凤凰网科技、华尔街日报",
-      "datetime": "2026-06-18T01:02:30+00:00",
-      "views": "2.02K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006Jl9cxlXMmPUiDK389dBa4VERP9N2uCLTzKQU6h2hEBA801G4bujkQhLZZuqb8mnW"
-        },
-        {
-          "text": "华尔街日报",
-          "url": "https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30185",
-      "scraped_at": "2026-06-18T10:00:40.151962",
-      "title": "苹果产品因内存涨价",
-      "title_options": {
-        "conclusion": "苹果产品因内存涨价",
-        "attractive": "苹果被迫涨价",
-        "minimal": "苹果涨价",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-19T13:01:46.653338"
+  "count": 66,
+  "updated_at": "2026-06-19T13:06:49.869791"
 }
