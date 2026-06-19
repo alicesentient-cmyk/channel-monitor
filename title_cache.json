@@ -7407,5 +7407,33 @@
       "minimal": "荣耀起诉400商户"
     },
     "generated_at": "2026-06-19T13:01:46.642337"
+  },
+  "xhqcankao_30225": {
+    "ai_title": "Anthropic早期用户保留访问权限",
+    "title_options": {
+      "conclusion": "Anthropic早期用户保留访问权限",
+      "attractive": "200家企业仍可访问Mythos",
+      "minimal": "Mythos预览版权限保留"
+    },
+    "generated_at": "2026-06-19T14:02:25.008910"
+  },
+  "xhqcankao_30224": {
+    "ai_title": "印度封Telegram促VPN下载量增…",
+    "title_options": {
+      "conclusion": "印度封Telegram促VPN下载量增…",
+      "attractive": "VPN下载量暴涨49%",
+      "minimal": "Telegram禁令 VPN热潮"
+    },
+    "generated_at": "2026-06-19T14:02:25.030872"
+  },
+  "zaihuapd_42050": {
+    "ai_title": "小米股价跌回造车前",
+    "title_options": {
+      "conclusion": "小米股价跌回造车前",
+      "attractive": "小米股价回吐六成",
+      "minimal": "小米股价24.58港元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-19T14:02:25.063776"
   }
 }

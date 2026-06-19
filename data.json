@@ -1,6 +1,81 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30225",
+      "channel": "xhqcankao",
+      "text": "Anthropic Mythos早期用户仍拥有访问权限Anthropic PBC 在更广泛发布之前早先选中的一些公司来测试 Mythos AI 模型，这些公司保留了对该系统预览版的访问权限，尽管美国政府的一项命令导致其他版本被完全关闭。知情人士说，包括银行和科技公司在内的企业正在通过Glasswing项目访问Mythos Preview，这是一个由大约 200 个组织组成的集体，这些组织已获得 Anthropic 批准可使用该系统来搜寻网络漏洞。Dragos首席技术官 Jon Lavender 表示，他的公司拥有访问权限。思科系统公司确认其也保留了访问权限。在测试中， Mythos Preview 被证明非常强大，识别出数千个漏洞，包括在所有主要OS和网络浏览器中，以至于在四月将其发布限制为仅限Glasswing项目成员。",
+      "clean_text": "Anthropic Mythos早期用户仍拥有访问权限Anthropic PBC 在更广泛发布之前早先选中的一些公司来测试 Mythos AI 模型，这些公司保留了对该系统预览版的访问权限，尽管美国政府的一项命令导致其他版本被完全关闭。知情人士说，包括银行和科技公司在内的企业正在通过Glasswing项目访问Mythos Preview，这是一个由大约 200 个组织组成的集体，这些组织已获得 Anthropic 批准可使用该系统来搜寻网络漏洞。Dragos首席技术官 Jon Lavender 表示，他的公司拥有访问权限。思科系统公司确认其也保留了访问权限。在测试中， Mythos Preview 被证明非常强大，识别出数千个漏洞，包括在所有主要OS和网络浏览器中，以至于在四月将其发布限制为仅限Glasswing项目成员。——彭博社",
+      "datetime": "2026-06-19T05:57:48+00:00",
+      "views": "202",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30225",
+      "scraped_at": "2026-06-19T14:00:41.513858",
+      "title": "Anthropic早期用户保留访问权限",
+      "title_options": {
+        "conclusion": "Anthropic早期用户保留访问权限",
+        "attractive": "200家企业仍可访问Mythos",
+        "minimal": "Mythos预览版权限保留"
+      }
+    },
+    {
+      "id": "zaihuapd_42050",
+      "channel": "zaihuapd",
+      "text": "小米股价跌回造车行情之前截至 2026 年 6 月，小米集团股价报约 24.58 港元，较 61.45 港元历史高位明显回落，累计跌幅接近六成。小米当前股价，相当于退回到 1 至 2 年前的起跑线附近。2024 年下半年，随着小米 SU7 首销火爆、量产推进顺利，市场开始重新评估小米汽车的商业化能力，小米股价也由此前的 10 多港元持续抬升，并在 2024 年底至 2025 年初于 24 港元至 28 港元区间展开激烈筹码交换。如今股价重新回到这一位置，意味着此后由新车预期、生态叙事和高增长情绪推动的大部分涨幅已被回吐。Yahoo 财经·英文频道·",
+      "clean_text": "🚘小米股价跌回造车行情之前截至 2026 年 6 月，小米集团股价报约 24.58 港元，较 61.45 港元历史高位明显回落，累计跌幅接近六成。小米当前股价，相当于退回到 1 至 2 年前的起跑线附近。2024 年下半年，随着小米 SU7 首销火爆、量产推进顺利，市场开始重新评估小米汽车的商业化能力，小米股价也由此前的 10 多港元持续抬升，并在 2024 年底至 2025 年初于 24 港元至 28 港元区间展开激烈筹码交换。如今股价重新回到这一位置，意味着此后由新车预期、生态叙事和高增长情绪推动的大部分涨幅已被回吐。Yahoo 财经·英文频道",
+      "datetime": "2026-06-19T05:30:00+00:00",
+      "views": "3.04K",
+      "source_links": [
+        {
+          "text": "Yahoo 财经",
+          "url": "https://hk.finance.yahoo.com/quote/1810.HK"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42050",
+      "scraped_at": "2026-06-19T14:00:39.483301",
+      "title": "小米股价跌回造车前",
+      "title_options": {
+        "conclusion": "小米股价跌回造车前",
+        "attractive": "小米股价回吐六成",
+        "minimal": "小米股价24.58港元",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30224",
+      "channel": "xhqcankao",
+      "text": "印度Telegram禁令引发了VPN应用热潮由于担心考试作弊，印度切断对即时通讯应用Telegram的访问一周，用户以异常庞大的数量转向VPN和替代性即时通讯应用。应用情报公司Appfigures称，周二，即印度宣布Telegram限制的那一天，是至少自2025年初以来该国VPN应用下载量最大的一天。主要VPN应用的下载量从近期日均139,000次上升了49%，达到208000次。Proton VPN和Turbo VPN录得增幅最大。Proton VPN在苹果应用商店印度的下载量跃升了113%，而Turbo VPN的下载量上升了85%。Play商店上，Proton VPN下载量攀升了64%，Turbo VPN的下载量增加了35%。NordVPN的App Store下载量增加了41%，而ExpressVPN在谷歌Play上的下载量上升了31%。",
+      "clean_text": "印度Telegram禁令引发了VPN应用热潮由于担心考试作弊，印度切断对即时通讯应用Telegram的访问一周，用户以异常庞大的数量转向VPN和替代性即时通讯应用。应用情报公司Appfigures称，周二，即印度宣布Telegram限制的那一天，是至少自2025年初以来该国VPN应用下载量最大的一天。主要VPN应用的下载量从近期日均139,000次上升了49%，达到208000次。Proton VPN和Turbo VPN录得增幅最大。Proton VPN在苹果应用商店印度的下载量跃升了113%，而Turbo VPN的下载量上升了85%。Play商店上，Proton VPN下载量攀升了64%，Turbo VPN的下载量增加了35%。NordVPN的App Store下载量增加了41%，而ExpressVPN在谷歌Play上的下载量上升了31%。——Techcrunch",
+      "datetime": "2026-06-19T05:04:48+00:00",
+      "views": "1.94K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30224",
+      "scraped_at": "2026-06-19T14:00:41.513540",
+      "title": "印度封Telegram促VPN下载量增…",
+      "title_options": {
+        "conclusion": "印度封Telegram促VPN下载量增…",
+        "attractive": "VPN下载量暴涨49%",
+        "minimal": "Telegram禁令 VPN热潮"
+      }
+    },
+    {
       "id": "zaihuapd_42049",
       "channel": "zaihuapd",
       "text": "荣耀密集起诉手机壳电商，称商品介绍用“荣耀”二字侵权荣耀近期大量起诉手机壳电商，主张商品标题和介绍页面中使用“荣耀”或“Honor”标识构成商标侵权，已波及超 400 家商户。一被告商家认为，标注“荣耀”只是为说明适配机型，是行业通用做法，不构成攀附。该案索赔金额起初 38 万元，后和解开价降至 6.5 万元，但商家仍难以承受。荣耀涉诉案件中近六成为侵害商标权纠纷，多数以商家和解或撤诉告终。律师分析，若仅在页面中客观标注“适用于荣耀 XX 型号”且未刻意突出，可能属于合理说明；但若突出展示并暗示官方授权，则可能构成侵权。平台和商家需注意规范表达，避免使用“官方”“原装”等容易误导的字眼。财闻网·英文频道·",
@@ -1666,6 +1741,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-19T13:57:20.123526"
+  "count": 67,
+  "updated_at": "2026-06-19T14:02:25.076688"
 }
