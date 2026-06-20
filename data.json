@@ -758,30 +758,8 @@
         "minimal": "小米股价24.58港元",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30224",
-      "channel": "xhqcankao",
-      "text": "印度Telegram禁令引发了VPN应用热潮由于担心考试作弊，印度切断对即时通讯应用Telegram的访问一周，用户以异常庞大的数量转向VPN和替代性即时通讯应用。应用情报公司Appfigures称，周二，即印度宣布Telegram限制的那一天，是至少自2025年初以来该国VPN应用下载量最大的一天。主要VPN应用的下载量从近期日均139,000次上升了49%，达到208000次。Proton VPN和Turbo VPN录得增幅最大。Proton VPN在苹果应用商店印度的下载量跃升了113%，而Turbo VPN的下载量上升了85%。Play商店上，Proton VPN下载量攀升了64%，Turbo VPN的下载量增加了35%。NordVPN的App Store下载量增加了41%，而ExpressVPN在谷歌Play上的下载量上升了31%。",
-      "clean_text": "印度Telegram禁令引发了VPN应用热潮由于担心考试作弊，印度切断对即时通讯应用Telegram的访问一周，用户以异常庞大的数量转向VPN和替代性即时通讯应用。应用情报公司Appfigures称，周二，即印度宣布Telegram限制的那一天，是至少自2025年初以来该国VPN应用下载量最大的一天。主要VPN应用的下载量从近期日均139,000次上升了49%，达到208000次。Proton VPN和Turbo VPN录得增幅最大。Proton VPN在苹果应用商店印度的下载量跃升了113%，而Turbo VPN的下载量上升了85%。Play商店上，Proton VPN下载量攀升了64%，Turbo VPN的下载量增加了35%。NordVPN的App Store下载量增加了41%，而ExpressVPN在谷歌Play上的下载量上升了31%。——Techcrunch",
-      "datetime": "2026-06-19T05:04:48+00:00",
-      "views": "1.94K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30224",
-      "scraped_at": "2026-06-19T14:00:41.513540",
-      "title": "印度封Telegram促VPN下载量增…",
-      "title_options": {
-        "conclusion": "印度封Telegram促VPN下载量增…",
-        "attractive": "VPN下载量暴涨49%",
-        "minimal": "Telegram禁令 VPN热潮"
-      }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-06-20T17:00:48.720946"
+  "count": 30,
+  "updated_at": "2026-06-20T17:05:51.920582"
 }
