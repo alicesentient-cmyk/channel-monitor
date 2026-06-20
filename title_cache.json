@@ -7673,5 +7673,15 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-20T12:02:25.576253"
+  },
+  "zaihuapd_42066": {
+    "ai_title": "HTTP拟新增QUERY方法",
+    "title_options": {
+      "conclusion": "HTTP拟新增QUERY方法",
+      "attractive": "查询字符串太长有解了",
+      "minimal": "HTTP QUERY方法",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-20T15:04:25.731149"
   }
 }
