@@ -1037,35 +1037,8 @@
         "minimal": "GitHub Models停止新用户",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30215",
-      "channel": "xhqcankao",
-      "text": "亚马逊高管证实洽售自研人工智能芯片美国亚马逊公司正与潜在客户展开谈判，计划向其他企业的数据中心销售自研人工智能芯片，以进一步挑战英伟达在AI芯片市场的主导地位。亚马逊高管彼得·德桑蒂斯在巴黎接受采访时表示，公司已经开始与一些企业接触，但拒绝透露潜在客户名单。“我们认为AI基础设施正在快速发展，我们也在不断寻找拓展客户群的方法。”亚马逊于2020年推出AI加速芯片Trainium，目前已吸引优步、OpenAI、Anthropic等重量级客户，这些公司可以通过AWS使用相关硬件。自ChatGPT问世以来，亚马逊及其他云计算巨头纷纷加快研发自有芯片，以替代英伟达GPU产品。",
-      "clean_text": "亚马逊高管证实洽售自研人工智能芯片美国亚马逊公司正与潜在客户展开谈判，计划向其他企业的数据中心销售自研人工智能芯片，以进一步挑战英伟达在AI芯片市场的主导地位。亚马逊高管彼得·德桑蒂斯在巴黎接受采访时表示，公司已经开始与一些企业接触，但拒绝透露潜在客户名单。“我们认为AI基础设施正在快速发展，我们也在不断寻找拓展客户群的方法。”亚马逊于2020年推出AI加速芯片Trainium，目前已吸引优步、OpenAI、Anthropic等重量级客户，这些公司可以通过AWS使用相关硬件。自ChatGPT问世以来，亚马逊及其他云计算巨头纷纷加快研发自有芯片，以替代英伟达GPU产品。——财联社、彭博社",
-      "datetime": "2026-06-19T00:32:48+00:00",
-      "views": "637",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2404134?sv=8.5.2&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-18/amazon-is-in-talks-to-sell-nvidia-rival-chips-to-other-companies"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30215",
-      "scraped_at": "2026-06-19T09:01:06.548861",
-      "title": "亚马逊洽售AI芯片",
-      "title_options": {
-        "conclusion": "亚马逊洽售AI芯片",
-        "attractive": "亚马逊挑战英伟达",
-        "minimal": "亚马逊AI芯片",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-06-20T12:32:45.972763"
+  "count": 41,
+  "updated_at": "2026-06-20T12:37:48.716778"
 }
