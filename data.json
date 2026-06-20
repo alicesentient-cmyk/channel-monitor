@@ -1006,39 +1006,8 @@
         "attractive": "xAI人才流失成败因",
         "minimal": "xAI失败案例"
       }
-    },
-    {
-      "id": "zaihuapd_42043",
-      "channel": "zaihuapd",
-      "text": "GitHub Models 停止接纳新用户，现有用户暂不受影响GitHub 宣布旗下 AI 模型服务 GitHub Models 不再向新客户开放。即日起，未曾使用过该服务的组织或企业将无法看到或启用该功能，覆盖免费和付费计划。已在使用 GitHub Models 的客户不受影响，可继续使用 Playground、API 及模型。本次调整是 GitHub Models 完全退役的第一步，后续将公布详细时间表。GitHub 建议有 AI 模型需求的新项目转向 Azure AI Foundry。The GitHub Blog·英文频道·",
-      "clean_text": "GitHub Models 停止接纳新用户，现有用户暂不受影响GitHub 宣布旗下 AI 模型服务 GitHub Models 不再向新客户开放。即日起，未曾使用过该服务的组织或企业将无法看到或启用该功能，覆盖免费和付费计划。已在使用 GitHub Models 的客户不受影响，可继续使用 Playground、API 及模型。本次调整是 GitHub Models 完全退役的第一步，后续将公布详细时间表。GitHub 建议有 AI 模型需求的新项目转向 Azure AI Foundry。The GitHub Blog·英文频道",
-      "datetime": "2026-06-19T00:54:37+00:00",
-      "views": "700",
-      "source_links": [
-        {
-          "text": "The GitHub Blog",
-          "url": "https://github.blog/changelog/2026-06-16-github-models-is-no-longer-available-to-new-customers/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42043",
-      "scraped_at": "2026-06-19T09:01:04.961917",
-      "title": "GitHub Models停止新用户注册",
-      "title_options": {
-        "conclusion": "GitHub Models停止新用户注册",
-        "attractive": "GitHub Models不再接纳新用户",
-        "minimal": "GitHub Models停止新用户",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-06-20T12:52:58.818069"
+  "count": 40,
+  "updated_at": "2026-06-20T12:58:02.141926"
 }
