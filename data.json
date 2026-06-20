@@ -1064,39 +1064,8 @@
         "minimal": "亚马逊AI芯片",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42042",
-      "channel": "zaihuapd",
-      "text": "华为公布 Wi-Fi 7 专利许可费率：每台设备 0.5 美元华为将 Wi-Fi 7 设备的专利许可费率定为每台设备 0.5 美元，使用者可通过双边许可协议或专利池，以公平、合理、无歧视（FRAND）原则获取授权。截至 2024 年底，超过 12 亿部消费类电子设备在 Wi-Fi 领域获得了华为的专利授权。36氪·英文频道·",
-      "clean_text": "华为公布 Wi-Fi 7 专利许可费率：每台设备 0.5 美元华为将 Wi-Fi 7 设备的专利许可费率定为每台设备 0.5 美元，使用者可通过双边许可协议或专利池，以公平、合理、无歧视（FRAND）原则获取授权。截至 2024 年底，超过 12 亿部消费类电子设备在 Wi-Fi 领域获得了华为的专利授权。36氪·英文频道",
-      "datetime": "2026-06-19T00:09:37+00:00",
-      "views": "2.96K",
-      "source_links": [
-        {
-          "text": "36氪",
-          "url": "https://36kr.com/newsflashes/3858656955847687"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42042",
-      "scraped_at": "2026-06-19T09:01:04.961361",
-      "title": "华为Wi-Fi 7专利费0.5美元",
-      "title_options": {
-        "conclusion": "华为Wi-Fi 7专利费0.5美元",
-        "attractive": "华为Wi-Fi 7专利费0.5美元",
-        "minimal": "华为Wi-Fi 7专利费",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 43,
-  "updated_at": "2026-06-20T12:07:30.277080"
+  "count": 42,
+  "updated_at": "2026-06-20T12:10:39.156452"
 }
