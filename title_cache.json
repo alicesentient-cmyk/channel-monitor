@@ -7723,5 +7723,14 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-20T18:01:28.814353"
+  },
+  "zaihuapd_42074": {
+    "ai_title": "记者称被迫签否认声明",
+    "title_options": {
+      "conclusion": "记者称被迫签否认声明",
+      "attractive": "领导施压记者签声明",
+      "minimal": "记者否认声明被迫签"
+    },
+    "generated_at": "2026-06-20T19:02:07.021912"
   }
 }
