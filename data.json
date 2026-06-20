@@ -810,31 +810,8 @@
         "minimal": "超声波扫描仪与水疗中心",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30221",
-      "channel": "xhqcankao",
-      "text": "苹果A12/A13芯片面临新的无法修复漏洞安全研究公司Paradigm Shift公布了一项影响苹果A12和A13芯片的新 BootROM 漏洞的细节，以及一个名为“usbliter8”的可行概念验证漏洞利用。BootROM是iPhone开机时运行的第一段代码。由于它在制造时就被直接烧录进芯片，其中发现的任何漏洞都无法通过软件更新来修复。该漏洞利用通过利用苹果芯片内置USB控制器中的一个错误来工作。当iPhone在启动期间接收到USB数据时，控制器使用一个内存缓冲区来存储传入的数据包。安全公司发现，通过发送特定序列的异常小的数据包，他们可以操纵内部硬件指针，使其在内存中反向遍历，从而允许数据被写入它本不应到达的位置。",
-      "clean_text": "苹果A12/A13芯片面临新的无法修复漏洞安全研究公司Paradigm Shift公布了一项影响苹果A12和A13芯片的新 BootROM 漏洞的细节，以及一个名为“usbliter8”的可行概念验证漏洞利用。BootROM是iPhone开机时运行的第一段代码。由于它在制造时就被直接烧录进芯片，其中发现的任何漏洞都无法通过软件更新来修复。该漏洞利用通过利用苹果芯片内置USB控制器中的一个错误来工作。当iPhone在启动期间接收到USB数据时，控制器使用一个内存缓冲区来存储传入的数据包。安全公司发现，通过发送特定序列的异常小的数据包，他们可以操纵内部硬件指针，使其在内存中反向遍历，从而允许数据被写入它本不应到达的位置。——Macrumors",
-      "datetime": "2026-06-19T03:32:47+00:00",
-      "views": "1.07K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30221",
-      "scraped_at": "2026-06-19T12:00:44.853954",
-      "title": "苹果A12/A13芯片存无法修复漏洞",
-      "title_options": {
-        "conclusion": "苹果A12/A13芯片存无法修复漏洞",
-        "attractive": "苹果芯片漏洞无法修复",
-        "minimal": "A12/A13漏洞",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-06-20T15:29:44.738960"
+  "count": 32,
+  "updated_at": "2026-06-20T15:34:47.819389"
 }
