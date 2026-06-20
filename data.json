@@ -586,39 +586,8 @@
         "minimal": "印度封锁Telegram",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42057",
-      "channel": "zaihuapd",
-      "text": "桑德斯提案：美国人每年或获 AI 公司 1000 美元分红根据伯尼·桑德斯周四提出的立法，美国人每年可从大型人工智能公司获得 1000 美元分红。该提案要求让公众在这些最大的 AI 企业中直接持有股份。总统唐纳德·特朗普此前也表达过类似想法，让政府在这些公司中拥有权益。提案是政策制定者试图将 AI 未来财富更广泛地分配给大众的举措之一。The Washington Post·英文频道·",
-      "clean_text": "桑德斯提案：美国人每年或获 AI 公司 1000 美元分红根据伯尼·桑德斯周四提出的立法，美国人每年可从大型人工智能公司获得 1000 美元分红。该提案要求让公众在这些最大的 AI 企业中直接持有股份。总统唐纳德·特朗普此前也表达过类似想法，让政府在这些公司中拥有权益。提案是政策制定者试图将 AI 未来财富更广泛地分配给大众的举措之一。The Washington Post·英文频道",
-      "datetime": "2026-06-19T09:45:00+00:00",
-      "views": "1.77K",
-      "source_links": [
-        {
-          "text": "The Washington Post",
-          "url": "https://www.washingtonpost.com/business/2026/06/18/bernie-sanders-proposes-wealth-fund-give-americans-stake-ai/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42057",
-      "scraped_at": "2026-06-19T18:00:53.294146",
-      "title": "桑德斯提案：每人年分1000美元",
-      "title_options": {
-        "conclusion": "桑德斯提案：每人年分1000美元",
-        "attractive": "AI公司分红1000美元/年",
-        "minimal": "AI分红提案",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 23,
-  "updated_at": "2026-06-20T21:44:02.253624"
+  "count": 22,
+  "updated_at": "2026-06-20T21:49:05.334459"
 }
