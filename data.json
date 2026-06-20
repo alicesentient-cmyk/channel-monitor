@@ -609,26 +609,8 @@
         "minimal": "苹果巴西开放商店支付",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42058",
-      "channel": "zaihuapd",
-      "text": "印度临时封锁 Telegram 应对作弊，VPN 注册量激增 150%  印度政府为防止医学入学重考（NEET-UG）中出现作弊，下令自 6 月 16 日晚间起临时封锁通讯平台 Telegram，直至 6 月 22 日。此举导致印度用户大量转向 VPN 以绕过限制，Proton VPN 透露，其来自印度的每小时注册量较平日飙升超过 150%。  封锁的执行方式引发争议。印度电信运营商被指通过 BGP 路由劫持强行阻断流量，意外导致阿联酋等其他国家用户也无法使用 Telegram，Telegram CEO…",
-      "clean_text": "✈️印度临时封锁 Telegram 应对作弊，VPN 注册量激增 150%  印度政府为防止医学入学重考（NEET-UG）中出现作弊，下令自 6 月 16 日晚间起临时封锁通讯平台 Telegram，直至 6 月 22 日。此举导致印度用户大量转向 VPN 以绕过限制，Proton VPN 透露，其来自印度的每小时注册量较平日飙升超过 150%。  封锁的执行方式引发争议。印度电信运营商被指通过 BGP 路由劫持强行阻断流量，意外导致阿联酋等其他国家用户也无法使用 Telegram，Telegram CEO…",
-      "datetime": "2026-06-19T10:30:00+00:00",
-      "views": "2.76K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42058",
-      "scraped_at": "2026-06-19T19:00:23.039147",
-      "title": "印度封锁Telegram防作弊",
-      "title_options": {
-        "conclusion": "印度封锁Telegram防作弊",
-        "attractive": "VPN注册量激增150%",
-        "minimal": "印度封锁Telegram",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-06-20T22:29:33.342818"
+  "count": 23,
+  "updated_at": "2026-06-20T22:34:38.061560"
 }
