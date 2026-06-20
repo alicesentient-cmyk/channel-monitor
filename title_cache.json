@@ -7762,5 +7762,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-20T21:03:32.670838"
+  },
+  "xhqcankao_30237": {
+    "ai_title": "挪威禁止小学生用AI",
+    "title_options": {
+      "conclusion": "挪威禁止小学生用AI",
+      "attractive": "AI禁令：挪威小学生禁用",
+      "minimal": "挪威小学生AI禁令",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-20T22:04:16.387553"
+  },
+  "zaihuapd_42077": {
+    "ai_title": "DuckDuckGo安装量涨三成",
+    "title_options": {
+      "conclusion": "DuckDuckGo安装量涨三成",
+      "attractive": "弃AI搜索，安装量涨30%",
+      "minimal": "DuckDuckGo安装量涨30%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-20T22:04:16.508859"
   }
 }
