@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42064",
+      "channel": "zaihuapd",
+      "text": "Anthropic 技术人员将就 AI 模型下线与白宫官员会面  据 Axios 报道，Anthropic 高级技术人员计划下周与白宫官员会面，试图解决导致其最先进 AI 模型全球下线的争端。  此前，特朗普政府命令 Anthropic 阻止外国人使用 Fable 5 和 Mythos 5 模型，Anthropic 随后宣布全球禁用。该公司曾因 Mythos 的黑客能力推迟其广泛发布，并于近日推出了带安全措施的公开版本 Fable。  Reuters",
+      "clean_text": "🤖Anthropic 技术人员将就 AI 模型下线与白宫官员会面  据 Axios 报道，Anthropic 高级技术人员计划下周与白宫官员会面，试图解决导致其最先进 AI 模型全球下线的争端。  此前，特朗普政府命令 Anthropic 阻止外国人使用 Fable 5 和 Mythos 5 模型，Anthropic 随后宣布全球禁用。该公司曾因 Mythos 的黑客能力推迟其广泛发布，并于近日推出了带安全措施的公开版本 Fable。  Reuters · 备用频道 · 投稿通道",
+      "datetime": "2026-06-20T02:45:33+00:00",
+      "views": "1.77K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42064",
+      "scraped_at": "2026-06-20T11:00:26.521569",
+      "title": "Anthropic与白宫会面",
+      "title_options": {
+        "conclusion": "Anthropic与白宫会面",
+        "attractive": "AI模型下线争端",
+        "minimal": "Anthropic白宫会面",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42063",
       "channel": "zaihuapd",
       "text": "日本拟将外国人签证手续费提高至 5 倍日本政府拟从 2026 年度起提高外国人签证发放手续费。一次入境签证拟由约 3000 日元升至 1.5 万日元，数次签证以 3 万日元为中心讨论，相关内容已纳入 2026 年度预算案。现行签证手续费自 1978 年以来未调整。日本还计划提高国际观光旅客税，同时把日本人 10 年期护照手续费从 1.6 万日元降至约 9000 日元。朝日新聞|日本経済新聞社|自由民主党·英文频道·",
@@ -1069,31 +1087,8 @@
         "minimal": "数据中心入网加速",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30212",
-      "channel": "xhqcankao",
-      "text": "阿斯麦正式宣布下一代 Hyper-NA 光刻机路线图全球唯一EUV光刻机供应商ASML在SPIE EUVL 2026大会上公布了最新技术路线图。目前，0.55 数值孔径的 High-NA 光刻机正迅速迈向大规模量产阶段，处理能力达175片/小时的 1000W 升级版 EXE:5200B 也已于2025年第四季度交付客户。截至2025年12月，业界已成功生产了50万片 High-NA 晶圆，这表明该技术在代工厂的生产认证和量产准备工作上已取得显著的阶段性成果。在着眼于更长远的技术路线图上，ASML 已将目光投向了数值孔径大于0.75的“Hyper-NA”技术，预计将在2033年左右实现量产，以支持 A7 (等效0.7nm)节点之后的进一步微缩。Hyper-NA 计划沿用现有 High-NA 的高性能平台，因此无需大幅增加光学元件的体积。尽管新设备的初期成本无疑将十分昂贵，但其能够进一步减少单次曝光的掩膜步骤并降低能耗，确保半导体行业在未来的持续微缩与发展。——wccf tech",
-      "clean_text": "阿斯麦正式宣布下一代 Hyper-NA 光刻机路线图全球唯一EUV光刻机供应商ASML在SPIE EUVL 2026大会上公布了最新技术路线图。目前，0.55 数值孔径的 High-NA 光刻机正迅速迈向大规模量产阶段，处理能力达175片/小时的 1000W 升级版 EXE:5200B 也已于2025年第四季度交付客户。截至2025年12月，业界已成功生产了50万片 High-NA 晶圆，这表明该技术在代工厂的生产认证和量产准备工作上已取得显著的阶段性成果。在着眼于更长远的技术路线图上，ASML 已将目光投向了数值孔径大于0.75的“Hyper-NA”技术，预计将在2033年左右实现量产，以支持 A7 (等效0.7nm)节点之后的进一步微缩。Hyper-NA 计划沿用现有 High-NA 的高性能平台，因此无需大幅增加光学元件的体积。尽管新设备的初期成本无疑将十分昂贵，但其能够进一步减少单次曝光的掩膜步骤并降低能耗，确保半导体行业在未来的持续微缩与发展。——wccf tech",
-      "datetime": "2026-06-18T22:58:28+00:00",
-      "views": "56",
-      "source_links": [
-        {
-          "text": "wccf tech",
-          "url": "https://wccftech.com/the-future-of-euv-asml-plans-for-the-hyperscale-era/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30212",
-      "scraped_at": "2026-06-19T07:00:54.484681",
-      "title": "ASML公布Hyper-NA路线图",
-      "title_options": {
-        "conclusion": "ASML公布Hyper-NA路线图",
-        "attractive": "2033年量产Hyper-NA",
-        "minimal": "ASML Hyper-NA路线图",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 43,
-  "updated_at": "2026-06-20T10:56:41.934601"
+  "updated_at": "2026-06-20T11:01:45.681060"
 }
