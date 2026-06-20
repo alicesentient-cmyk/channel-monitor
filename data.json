@@ -833,39 +833,8 @@
         "minimal": "A12/A13漏洞",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42047",
-      "channel": "zaihuapd",
-      "text": "美国向 ASML 施压 称其顶级光刻机可能已流入中国美国商务部长卢特尼克近期向荷兰芯片设备巨头 ASML 高管表示，怀疑一台顶级极紫外光刻机（EUV）可能已流入中国，违反美方主导的出口管制。ASML 坚决否认，强调从未向中国出口 EUV 整机，全球运行的 314 台设备都不在中国。美方高级官员声称掌握 ASML 未善意行事的证据，包括对华出口 EUV 相关运输设备，但拒绝出示。ASML 已散发文件自证清白，并反驳称从未出口任何 EUV 专用组件。此事加剧了美欧在芯片管制上的紧张关系，也可能影响美国国会正在推动的更严格对华设备限制法案。Bloomberg·英文频道·",
-      "clean_text": "美国向 ASML 施压 称其顶级光刻机可能已流入中国美国商务部长卢特尼克近期向荷兰芯片设备巨头 ASML 高管表示，怀疑一台顶级极紫外光刻机（EUV）可能已流入中国，违反美方主导的出口管制。ASML 坚决否认，强调从未向中国出口 EUV 整机，全球运行的 314 台设备都不在中国。美方高级官员声称掌握 ASML 未善意行事的证据，包括对华出口 EUV 相关运输设备，但拒绝出示。ASML 已散发文件自证清白，并反驳称从未出口任何 EUV 专用组件。此事加剧了美欧在芯片管制上的紧张关系，也可能影响美国国会正在推动的更严格对华设备限制法案。Bloomberg·英文频道",
-      "datetime": "2026-06-19T03:09:37+00:00",
-      "views": "3.87K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42047",
-      "scraped_at": "2026-06-19T12:00:43.250996",
-      "title": "美方称ASML光刻机或流入中国",
-      "title_options": {
-        "conclusion": "美方称ASML光刻机或流入中国",
-        "attractive": "ASML否认对华出口EUV",
-        "minimal": "ASML光刻机疑入华",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-06-20T15:09:29.342666"
+  "count": 33,
+  "updated_at": "2026-06-20T15:10:29.826315"
 }
