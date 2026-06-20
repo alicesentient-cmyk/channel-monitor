@@ -581,31 +581,8 @@
         "minimal": "中欧电动汽车争端解决",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30230",
-      "channel": "xhqcankao",
-      "text": "马斯克称中国AI明年一季度达到Fable级别昨日午间马斯克在社交媒体平台 X 回复网友关于“你目前对中国达到 Fable 级别的预计时间表是什么？GLM-5.2 无疑缩短了差距” 问题时表示，“可能是（2027年）一季度。”晚间，智谱首席科学家唐杰回帖称：用不了那么久。据悉，GLM-5.2是智谱在6月17日宣布正式上线并开源新一代旗舰模型。该模型专为长程任务能力打造，核心特色包括 1M 无损上下文、强化Coding能力、Day0适配国产算力平台，并采用MIT开源协议，允许免费商用。Fable 指的则是美国人工智能企业 Anthropic 在 6月 9日刚刚向公众开放的“Mythos级别”系列模型Claude Fable 5。",
-      "clean_text": "马斯克称中国AI明年一季度达到Fable级别昨日午间马斯克在社交媒体平台 X 回复网友关于“你目前对中国达到 Fable 级别的预计时间表是什么？GLM-5.2 无疑缩短了差距” 问题时表示，“可能是（2027年）一季度。”晚间，智谱首席科学家唐杰回帖称：用不了那么久。据悉，GLM-5.2是智谱在6月17日宣布正式上线并开源新一代旗舰模型。该模型专为长程任务能力打造，核心特色包括 1M 无损上下文、强化Coding能力、Day0适配国产算力平台，并采用MIT开源协议，允许免费商用。Fable 指的则是美国人工智能企业 Anthropic 在 6月 9日刚刚向公众开放的“Mythos级别”系列模型Claude Fable 5。——凤凰网科技",
-      "datetime": "2026-06-19T08:49:45+00:00",
-      "views": "579",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006MIApXNlD50hK5F9ybPNX9Y1Pz2YaPJ--MR2FLWpZ-_zdT8Azb5lqrAzochC9FqbKrD"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30230",
-      "scraped_at": "2026-06-19T17:00:20.776932",
-      "title": "马斯克称中国AI明年一季度达Fable",
-      "title_options": {
-        "conclusion": "马斯克称中国AI明年一季度达Fable",
-        "attractive": "中国AI超越美国？马斯克预测时间",
-        "minimal": "马斯克 中国AI Fable 一季度",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 23,
-  "updated_at": "2026-06-20T20:48:20.436197"
+  "count": 22,
+  "updated_at": "2026-06-20T20:53:24.415454"
 }
