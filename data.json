@@ -604,39 +604,8 @@
         "minimal": "马斯克 中国AI Fable 一季度",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42055",
-      "channel": "zaihuapd",
-      "text": "为方便大家学习英文和国际友人，应大家要求做了英文频道。两个频道内容同步。频道反馈@zaihua_bot频道🆔@zaihua_news另外，不方便上TG可以看网页：zaihua.news·英文频道·",
-      "clean_text": "为方便大家学习英文和国际友人，应大家要求做了英文频道。两个频道内容同步。频道反馈@zaihua_bot频道🆔@zaihua_news另外，不方便上TG可以看网页：zaihua.news·英文频道",
-      "datetime": "2026-06-19T08:39:16+00:00",
-      "views": "2.51K",
-      "source_links": [
-        {
-          "text": "zaihua.news",
-          "url": "http://zaihua.news/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42055",
-      "scraped_at": "2026-06-19T17:00:19.116882",
-      "title": "英文频道上线",
-      "title_options": {
-        "conclusion": "英文频道上线",
-        "attractive": "同步学英文",
-        "minimal": "英文频道",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-06-20T20:38:12.140447"
+  "count": 23,
+  "updated_at": "2026-06-20T20:43:15.537422"
 }
