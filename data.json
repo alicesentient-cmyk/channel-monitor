@@ -856,30 +856,8 @@
         "minimal": "巴西iOS商店调整",
         "best": "attractive"
       }
-    },
-    {
-      "id": "xhqcankao_30219",
-      "channel": "xhqcankao",
-      "text": "苹果音乐公布平台播放量最高的20位艺人苹果公司今天与Chart Data合作，分享了苹果音乐有记录以来流媒体播放量最高的20位艺人。这是苹果公司首次分享历史流媒体播放榜单。奥布里·德雷克·格雷厄姆（Drake) 是流媒体播放量第一的艺人，泰勒·艾莉森·斯威夫特 (Taylor Swift) 位列第二。未来小子 (Future) 排名第三，紧随其后的是肯特雷尔·德肖恩·高尔登 (YoungBoy Never Broke Again) 和坏痞兔(Bad Bunny)。Apple Music 于 2015 年 6 月推出，因此这份前 20 名榜单包含了过去 11 年的流媒体数据。在美国，该流媒体服务的个人套餐价格为每月 10.99 美元，学生、家庭和Apple One套餐用户还有其他价格选择。",
-      "clean_text": "苹果音乐公布平台播放量最高的20位艺人苹果公司今天与Chart Data合作，分享了苹果音乐有记录以来流媒体播放量最高的20位艺人。这是苹果公司首次分享历史流媒体播放榜单。奥布里·德雷克·格雷厄姆（Drake) 是流媒体播放量第一的艺人，泰勒·艾莉森·斯威夫特 (Taylor Swift) 位列第二。未来小子 (Future) 排名第三，紧随其后的是肯特雷尔·德肖恩·高尔登 (YoungBoy Never Broke Again) 和坏痞兔(Bad Bunny)。Apple Music 于 2015 年 6 月推出，因此这份前 20 名榜单包含了过去 11 年的流媒体数据。在美国，该流媒体服务的个人套餐价格为每月 10.99 美元，学生、家庭和Apple One套餐用户还有其他价格选择。——Macrumors",
-      "datetime": "2026-06-19T02:34:27+00:00",
-      "views": "944",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/18/apple-music-most-streamed-all-time-artists/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30219",
-      "scraped_at": "2026-06-19T11:00:11.852421",
-      "title": "苹果音乐公布播放量Top20艺人",
-      "title_options": {
-        "conclusion": "苹果音乐公布播放量Top20艺人",
-        "attractive": "德雷克登顶苹果音乐播放榜",
-        "minimal": "苹果音乐Top20艺人榜"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-06-20T14:34:04.303764"
+  "count": 34,
+  "updated_at": "2026-06-20T14:39:08.190043"
 }
