@@ -792,34 +792,8 @@
         "attractive": "用“荣耀”二字被索赔6.5万",
         "minimal": "荣耀起诉400商户"
       }
-    },
-    {
-      "id": "xhqcankao_30223",
-      "channel": "xhqcankao",
-      "text": "美国再关切ASML EUV光刻机恐流入中国知情人士透露，美国商务部长卢特尼克已在近来的一连串会议中，向荷兰芯片设备巨头阿斯麦 (ASML）高管表达关切，担心ASML的极紫外光（EUV）光刻机可能已流入中国大陆，违反美国主导的出口管制。ASML则否认这个说法。卢特尼克向ASML高管针对该公司的EUV光刻机表达关切，在一场涵盖一系列议题的会议上，提出了这个问题。对此，ASML则已反驳卢特尼克的说法，表示完全没有任何一台EUV在中国大陆。 EUV尺寸相当于一辆校车、产量有限，且需要公司员工持续维护，由于美国政府主导的出口管制，ASML不得出口EUV系统到中国大陆。",
-      "clean_text": "美国再关切ASML EUV光刻机恐流入中国知情人士透露，美国商务部长卢特尼克已在近来的一连串会议中，向荷兰芯片设备巨头阿斯麦 (ASML）高管表达关切，担心ASML的极紫外光（EUV）光刻机可能已流入中国大陆，违反美国主导的出口管制。ASML则否认这个说法。卢特尼克向ASML高管针对该公司的EUV光刻机表达关切，在一场涵盖一系列议题的会议上，提出了这个问题。对此，ASML则已反驳卢特尼克的说法，表示完全没有任何一台EUV在中国大陆。 EUV尺寸相当于一辆校车、产量有限，且需要公司员工持续维护，由于美国政府主导的出口管制，ASML不得出口EUV系统到中国大陆。——台湾经济日报、彭博社",
-      "datetime": "2026-06-19T04:35:05+00:00",
-      "views": "925",
-      "source_links": [
-        {
-          "text": "台湾经济日报",
-          "url": "https://money.udn.com/money/amp/story/5599/9576251"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30223",
-      "scraped_at": "2026-06-19T13:00:14.859111",
-      "title": "美关切ASML EUV流入中国",
-      "title_options": {
-        "conclusion": "美关切ASML EUV流入中国",
-        "attractive": "ASML否认EUV流入中国",
-        "minimal": "EUV光刻机 中国 争议"
-      }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-06-20T16:30:27.889541"
+  "count": 31,
+  "updated_at": "2026-06-20T16:35:31.253578"
 }
