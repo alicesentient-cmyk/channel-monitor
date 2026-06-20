@@ -7653,5 +7653,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-20T11:01:45.669313"
+  },
+  "xhqcankao_30235": {
+    "ai_title": "IETF发布HTTP QUERY标准",
+    "title_options": {
+      "conclusion": "IETF发布HTTP QUERY标准",
+      "attractive": "HTTP QUERY填补GET与POS…",
+      "minimal": "HTTP QUERY拟议标准",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-20T12:02:25.313355"
+  },
+  "zaihuapd_42065": {
+    "ai_title": "L3/L4自动驾驶国标报批",
+    "title_options": {
+      "conclusion": "L3/L4自动驾驶国标报批",
+      "attractive": "2027年实施自动驾驶国标",
+      "minimal": "自动驾驶国标报批",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-20T12:02:25.576253"
   }
 }

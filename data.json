@@ -1,6 +1,64 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42065",
+      "channel": "zaihuapd",
+      "text": "我国首部 L3/L4 自动驾驶强制性国标报批，2027 年实施工信部已完成《智能网联汽车自动驾驶系统安全要求》强制性国家标准报批稿，6 月 17 日起公示，建议 2027 年 7 月 1 日实施。这是我国首部针对 L3 和 L4 级自动驾驶的强制性标准，引入了 Safety Case 安全档案机制，要求企业用“声明—论据—证据”系统性论证安全性，并对 L3 的人机交接和 L4 的系统自主风险处置分别提出要求。业内人士表示，新标准标志着监管从“概念松绑”转向“安全硬约束”，车企过去靠模糊宣传抢市场的阶段将结束，未来竞争会聚焦安全能力。标准短期内可能推高冗余系统、高算力芯片等成本，但长期会被技术迭代和规模效应逐步摊薄。搜狐网·英文频道·",
+      "clean_text": "我国首部 L3/L4 自动驾驶强制性国标报批，2027 年实施工信部已完成《智能网联汽车自动驾驶系统安全要求》强制性国家标准报批稿，6 月 17 日起公示，建议 2027 年 7 月 1 日实施。这是我国首部针对 L3 和 L4 级自动驾驶的强制性标准，引入了 Safety Case 安全档案机制，要求企业用“声明—论据—证据”系统性论证安全性，并对 L3 的人机交接和 L4 的系统自主风险处置分别提出要求。业内人士表示，新标准标志着监管从“概念松绑”转向“安全硬约束”，车企过去靠模糊宣传抢市场的阶段将结束，未来竞争会聚焦安全能力。标准短期内可能推高冗余系统、高算力芯片等成本，但长期会被技术迭代和规模效应逐步摊薄。搜狐网·英文频道",
+      "datetime": "2026-06-20T03:31:42+00:00",
+      "views": "2.57K",
+      "source_links": [
+        {
+          "text": "搜狐网",
+          "url": "https://www.sohu.com/a/1038536454_115362"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42065",
+      "scraped_at": "2026-06-20T12:01:16.289669",
+      "title": "L3/L4自动驾驶国标报批",
+      "title_options": {
+        "conclusion": "L3/L4自动驾驶国标报批",
+        "attractive": "2027年实施自动驾驶国标",
+        "minimal": "自动驾驶国标报批",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30235",
+      "channel": "xhqcankao",
+      "text": "IETF 正式公布 HTTP QUERY 方法拟议标准互联网工程任务组（IETF）于2026年6月16日正式发布了RFC 10008文件，将全新的 HTTP 请求方法“QUERY”确立为拟议标准（Proposed Standard）。这项新规范旨在为 Web 开发者和 API 设计者提供一种标准化的方式，以处理需要包含请求体的复杂只读请求，从而有效地填补了现有的 GET 和 POST 方法之间的功能空白。​QUERY 方法结合了两者的优势，它允许客户端像使用 POST 那样在请求体中发送查询数据，同时在定义上保持了与 GET 相同的安全性和幂等性。新标准引入了“Accept-Query”响应字段，使服务器能够声明其支持的查询内容格式，并且明确了 QUERY 响应是可以被缓存的，服务器可以通过 Allow 响应头字段声明对 QUERY 方法的支持。尽管 QUERY 方法使 API 的设计更加清晰和规范，实际部署尚待服务器、客户端及浏览器厂商逐步支持。",
+      "clean_text": "IETF 正式公布 HTTP QUERY 方法拟议标准互联网工程任务组（IETF）于2026年6月16日正式发布了RFC 10008文件，将全新的 HTTP 请求方法“QUERY”确立为拟议标准（Proposed Standard）。这项新规范旨在为 Web 开发者和 API 设计者提供一种标准化的方式，以处理需要包含请求体的复杂只读请求，从而有效地填补了现有的 GET 和 POST 方法之间的功能空白。​QUERY 方法结合了两者的优势，它允许客户端像使用 POST 那样在请求体中发送查询数据，同时在定义上保持了与 GET 相同的安全性和幂等性。新标准引入了“Accept-Query”响应字段，使服务器能够声明其支持的查询内容格式，并且明确了 QUERY 响应是可以被缓存的，服务器可以通过 Allow 响应头字段声明对 QUERY 方法的支持。尽管 QUERY 方法使 API 的设计更加清晰和规范，实际部署尚待服务器、客户端及浏览器厂商逐步支持。——IETF",
+      "datetime": "2026-06-20T03:08:52+00:00",
+      "views": "1.55K",
+      "source_links": [
+        {
+          "text": "RFC 10008",
+          "url": "https://www.rfc-editor.org/info/rfc10008/"
+        },
+        {
+          "text": "IETF",
+          "url": "https://mailarchive.ietf.org/arch/msg/ietf-announce/uNaYyRDGKjyOn_KDT2JaGLlm9fE/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30235",
+      "scraped_at": "2026-06-20T12:01:18.051803",
+      "title": "IETF发布HTTP QUERY标准",
+      "title_options": {
+        "conclusion": "IETF发布HTTP QUERY标准",
+        "attractive": "HTTP QUERY填补GET与POS…",
+        "minimal": "HTTP QUERY拟议标准",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42064",
       "channel": "zaihuapd",
       "text": "Anthropic 技术人员将就 AI 模型下线与白宫官员会面  据 Axios 报道，Anthropic 高级技术人员计划下周与白宫官员会面，试图解决导致其最先进 AI 模型全球下线的争端。  此前，特朗普政府命令 Anthropic 阻止外国人使用 Fable 5 和 Mythos 5 模型，Anthropic 随后宣布全球禁用。该公司曾因 Mythos 的黑客能力推迟其广泛发布，并于近日推出了带安全措施的公开版本 Fable。  Reuters",
@@ -1062,6 +1120,6 @@
       }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-06-20T11:57:21.485417"
+  "count": 44,
+  "updated_at": "2026-06-20T12:02:25.589064"
 }
