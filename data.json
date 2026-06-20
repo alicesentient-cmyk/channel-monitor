@@ -649,35 +649,8 @@
         "minimal": "侧载新规24小时",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30228",
-      "channel": "xhqcankao",
-      "text": "Meta与Crusoe达成新的AI算力合作协议Meta公司正加速扩充人工智能基础设施，与数据中心开发商Crusoe达成新的算力采购协议，进一步充实其庞大的AI扩张计划所需的算力储备。据知情人士透露，Meta公司已与Crusoe签订合同，将购买其位于德克萨斯州Childress及密苏里州Warrenton的两处数据中心的算力。上述两处设施合计容量约达1.6吉瓦，相当于同时为多达 120万户美国家庭供电。此次交易的具体金额及算力交付时间尚未披露。Meta此前已承诺未来数年内在AI基础设施上投入至少6000亿美元，市场越发关注其能否从巨额投资中获得回报。",
-      "clean_text": "Meta与Crusoe达成新的AI算力合作协议Meta公司正加速扩充人工智能基础设施，与数据中心开发商Crusoe达成新的算力采购协议，进一步充实其庞大的AI扩张计划所需的算力储备。据知情人士透露，Meta公司已与Crusoe签订合同，将购买其位于德克萨斯州Childress及密苏里州Warrenton的两处数据中心的算力。上述两处设施合计容量约达1.6吉瓦，相当于同时为多达 120万户美国家庭供电。此次交易的具体金额及算力交付时间尚未披露。Meta此前已承诺未来数年内在AI基础设施上投入至少6000亿美元，市场越发关注其能否从巨额投资中获得回报。——华尔街见闻、彭博社",
-      "datetime": "2026-06-19T07:33:03+00:00",
-      "views": "908",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3775055"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30228",
-      "scraped_at": "2026-06-19T16:00:37.123584",
-      "title": "Meta与Crusoe达成AI算力合作",
-      "title_options": {
-        "conclusion": "Meta与Crusoe达成AI算力合作",
-        "attractive": "Meta购买1.6吉瓦AI算力",
-        "minimal": "Meta Crusoe 算力合作",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-06-20T19:32:27.041535"
+  "count": 25,
+  "updated_at": "2026-06-20T19:37:30.289909"
 }
