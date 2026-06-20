@@ -1,6 +1,68 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42070",
+      "channel": "zaihuapd",
+      "text": "英国计划要求社交平台提升公共服务新闻曝光度英国政府计划要求 YouTube、Meta 等社交平台提高 BBC、ITV 等公共服务新闻的曝光度，预计最早本月启动公众咨询。官员担心外国算法正埋没本土权威新闻，加剧虚假信息传播，而年轻观众越来越多地在社交媒体上获取电视内容。科技巨头对此表示强烈反对，认为强制优先展示违背平台算法逻辑，会挤压普通创作者的发展空间。与此同时，一份绿皮书还将就 2034 年关闭地面电视信号、全面转向宽带电视征求民意。若自愿措施效果不佳，政府可能进一步立法强制。Financial Times·英文频道·",
+      "clean_text": "英国计划要求社交平台提升公共服务新闻曝光度英国政府计划要求 YouTube、Meta 等社交平台提高 BBC、ITV 等公共服务新闻的曝光度，预计最早本月启动公众咨询。官员担心外国算法正埋没本土权威新闻，加剧虚假信息传播，而年轻观众越来越多地在社交媒体上获取电视内容。科技巨头对此表示强烈反对，认为强制优先展示违背平台算法逻辑，会挤压普通创作者的发展空间。与此同时，一份绿皮书还将就 2034 年关闭地面电视信号、全面转向宽带电视征求民意。若自愿措施效果不佳，政府可能进一步立法强制。Financial Times·英文频道",
+      "datetime": "2026-06-20T07:51:37+00:00",
+      "views": "1.15K",
+      "source_links": [
+        {
+          "text": "Financial Times",
+          "url": "https://www.ft.com/content/7f147e35-d2ca-48fe-a886-95721002ce3c?syn-25a6b1a6=1"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42070",
+      "scraped_at": "2026-06-20T16:00:50.661807",
+      "title": "英国拟强制平台推本土新闻",
+      "title_options": {
+        "conclusion": "英国拟强制平台推本土新闻",
+        "attractive": "社交平台被要求优先展示BBC",
+        "minimal": "英国平台新闻曝光计划",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42067",
+      "channel": "zaihuapd",
+      "text": "LM Studio 与苹果合作在四台 Mac Studio 上运行 1T 参数模型在 WWDC 上，LM Studio 与苹果合作，使用预览版 LM Studio 在由四台 Mac Studio 组成的集群上运行了一个 1T 参数的模型 Kimi K2.6。展示中，他们还利用 LM Link 实现了从 MacBook Neo 和 iPhone 进行的安全远程访问。LM Studio·英文频道·",
+      "clean_text": "🍏LM Studio 与苹果合作在四台 Mac Studio 上运行 1T 参数模型在 WWDC 上，LM Studio 与苹果合作，使用预览版 LM Studio 在由四台 Mac Studio 组成的集群上运行了一个 1T 参数的模型 Kimi K2.6。展示中，他们还利用 LM Link 实现了从 MacBook Neo 和 iPhone 进行的安全远程访问。LM Studio·英文频道",
+      "datetime": "2026-06-20T07:02:13+00:00",
+      "views": "4.5K",
+      "source_links": [
+        {
+          "text": "LM Studio",
+          "url": "https://x.com/lmstudio/status/2067301278976180531"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42067",
+      "scraped_at": "2026-06-20T16:00:50.661342",
+      "title": "LM Studio与苹果合作运行1T模型",
+      "title_options": {
+        "conclusion": "LM Studio与苹果合作运行1T模型",
+        "attractive": "四台Mac Studio跑1T参数模型",
+        "minimal": "LM Studio 苹果 1T 模型",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42066",
       "channel": "zaihuapd",
       "text": "HTTP 拟新增 QUERY 方法：带请求体的安全查询IETF HTTP 工作组正在制定一项草案，新增 HTTP QUERY 请求方法。它允许像 POST 一样把查询条件放在请求体里，但具有 GET 的安全和幂等特性，便于缓存、重试和自动恢复。QUERY 主要解决 URI 查询字符串太长的问题，并定义了 Accept-Query 响应头，让服务器声明支持的查询格式。草案仍在讨论中，当前版本将于 2026 年 12 月到期。HTTP Working Group·英文频道·",
@@ -756,62 +818,8 @@
         "attractive": "ASML否认EUV流入中国",
         "minimal": "EUV光刻机 中国 争议"
       }
-    },
-    {
-      "id": "xhqcankao_30222",
-      "channel": "xhqcankao",
-      "text": "日本初步认定中国产不锈钢板构成倾销日本政府19日发布初步认定结果，认为从中国大陆和台湾进口的镍基合金不锈钢板存在倾销行为，对国内产业造成损害。今后，日方将探讨是否发动针对不合理低价进口商品征收的反倾销税。“日本制铁”等去年5月12日以国内需求被抢占而不得不降价为由，申请实施调查。财务省和经济产业省同年7月22日起实施了调查。财务相片山皋月19日在内阁会议后的记者会上称“将继续推进调查”。",
-      "clean_text": "日本初步认定中国产不锈钢板构成倾销日本政府19日发布初步认定结果，认为从中国大陆和台湾进口的镍基合金不锈钢板存在倾销行为，对国内产业造成损害。今后，日方将探讨是否发动针对不合理低价进口商品征收的反倾销税。“日本制铁”等去年5月12日以国内需求被抢占而不得不降价为由，申请实施调查。财务省和经济产业省同年7月22日起实施了调查。财务相片山皋月19日在内阁会议后的记者会上称“将继续推进调查”。——共同社",
-      "datetime": "2026-06-19T04:01:47+00:00",
-      "views": "1.83K",
-      "source_links": [
-        {
-          "text": "共同社",
-          "url": "https://china.kyodonews.net/articles/-/11884"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30222",
-      "scraped_at": "2026-06-19T13:00:14.858726",
-      "title": "日本认定中国不锈钢板倾销",
-      "title_options": {
-        "conclusion": "日本认定中国不锈钢板倾销",
-        "attractive": "中国不锈钢板被指倾销",
-        "minimal": "不锈钢板倾销认定",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42048",
-      "channel": "zaihuapd",
-      "text": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。Midjourney Medical·英文频道·",
-      "clean_text": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。Midjourney Medical·英文频道",
-      "datetime": "2026-06-19T04:00:10+00:00",
-      "views": "43",
-      "source_links": [
-        {
-          "text": "Midjourney Medical",
-          "url": "https://www.midjourney.com/medical/blogpost"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42048",
-      "scraped_at": "2026-06-19T12:00:43.251450",
-      "title": "Midjourney推超声波扫描仪",
-      "title_options": {
-        "conclusion": "Midjourney推超声波扫描仪",
-        "attractive": "60秒全身扫描，快过MRI百倍",
-        "minimal": "超声波扫描仪与水疗中心",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 32,
-  "updated_at": "2026-06-20T16:00:03.659078"
+  "updated_at": "2026-06-20T16:05:10.057150"
 }

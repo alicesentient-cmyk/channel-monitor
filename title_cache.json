@@ -7683,5 +7683,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-20T15:04:25.731149"
+  },
+  "zaihuapd_42067": {
+    "ai_title": "LM Studio与苹果合作运行1T模型",
+    "title_options": {
+      "conclusion": "LM Studio与苹果合作运行1T模型",
+      "attractive": "四台Mac Studio跑1T参数模型",
+      "minimal": "LM Studio 苹果 1T 模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-20T16:05:09.949293"
+  },
+  "zaihuapd_42070": {
+    "ai_title": "英国拟强制平台推本土新闻",
+    "title_options": {
+      "conclusion": "英国拟强制平台推本土新闻",
+      "attractive": "社交平台被要求优先展示BBC",
+      "minimal": "英国平台新闻曝光计划",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-20T16:05:10.043701"
   }
 }
