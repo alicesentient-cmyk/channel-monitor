@@ -878,38 +878,8 @@
         "attractive": "德雷克登顶苹果音乐播放榜",
         "minimal": "苹果音乐Top20艺人榜"
       }
-    },
-    {
-      "id": "zaihuapd_42045",
-      "channel": "zaihuapd",
-      "text": "智谱创始人称旗下模型或可在明年一季度前达到“Mythos 级别”有用户评估智谱 GLM-5.2 大约相当于 Claude Opus 4.7-4.8 水平，并据此推断中美 AI 模型整体差距约 7 个月。该用户还以 Anthropic 的 Mythos（Fable）为参照，预计中国厂商达到相关级别的模型可能在 2026 年 11 至 12 月。马斯克在该讨论下回复“Probably Q1”，可以解读为他认为相关时间点在 2027 年第一季度；智谱创始人唐杰则直接回应“won’t take that long”，表示进度会更快。X·英文频道·",
-      "clean_text": "智谱创始人称旗下模型或可在明年一季度前达到“Mythos 级别”有用户评估智谱 GLM-5.2 大约相当于 Claude Opus 4.7-4.8 水平，并据此推断中美 AI 模型整体差距约 7 个月。该用户还以 Anthropic 的 Mythos（Fable）为参照，预计中国厂商达到相关级别的模型可能在 2026 年 11 至 12 月。马斯克在该讨论下回复“Probably Q1”，可以解读为他认为相关时间点在 2027 年第一季度；智谱创始人唐杰则直接回应“won’t take that long”，表示进度会更快。X·英文频道",
-      "datetime": "2026-06-19T02:24:37+00:00",
-      "views": "3.28K",
-      "source_links": [
-        {
-          "text": "X",
-          "url": "https://x.com/jietang/status/2067580270078030088"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42045",
-      "scraped_at": "2026-06-19T11:00:10.255672",
-      "title": "智谱模型或明年一季度达Mythos级别",
-      "title_options": {
-        "conclusion": "智谱模型或明年一季度达Mythos级别",
-        "attractive": "中美AI差距仅7个月？",
-        "minimal": "智谱Mythos级别"
-      }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-06-20T14:23:58.321935"
+  "count": 35,
+  "updated_at": "2026-06-20T14:29:01.321457"
 }
