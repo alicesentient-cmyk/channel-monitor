@@ -961,31 +961,8 @@
         "minimal": "数字身份互通互认",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30217",
-      "channel": "xhqcankao",
-      "text": "微软确认用户可以在Win 11搜索中禁用必应微软已确认用户将能够禁用 Windows 11 系统开始菜单搜索中的必应网页结果。这意味着Windows搜索现在将只显示你的本地文件和应用，而不显示必应结果。微软设计总监 Marcus 在X上的一篇帖子中确认 Windows 搜索将变得更快、更可靠，并且允许你禁用网页结果。微软表示，必应在Windows搜索中默认保持开启，但只需点击不到三次即可将其关闭。要禁用必应，你需要打开系统“设置”>“隐私和安全”>“搜索”，然后关闭“网页结果”的开关。当你关闭必应时，Windows 搜索将只显示本地结果。它还会去掉你通常看到的 Microsoft Rewards 图标。",
-      "clean_text": "微软确认用户可以在Win 11搜索中禁用必应微软已确认用户将能够禁用 Windows 11 系统开始菜单搜索中的必应网页结果。这意味着Windows搜索现在将只显示你的本地文件和应用，而不显示必应结果。微软设计总监 Marcus 在X上的一篇帖子中确认 Windows 搜索将变得更快、更可靠，并且允许你禁用网页结果。微软表示，必应在Windows搜索中默认保持开启，但只需点击不到三次即可将其关闭。要禁用必应，你需要打开系统“设置”>“隐私和安全”>“搜索”，然后关闭“网页结果”的开关。当你关闭必应时，Windows 搜索将只显示本地结果。它还会去掉你通常看到的 Microsoft Rewards 图标。——Windowslatest",
-      "datetime": "2026-06-19T01:30:46+00:00",
-      "views": "904",
-      "source_links": [
-        {
-          "text": "Windowslatest",
-          "url": "https://www.windowslatest.com/2026/06/18/microsoft-announces-you-can-kill-bing-in-windows-11-search-and-boost-performance-after-years-of-lag/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30217",
-      "scraped_at": "2026-06-19T10:00:42.415606",
-      "title": "Win11搜索可禁用必应",
-      "title_options": {
-        "conclusion": "Win11搜索可禁用必应",
-        "attractive": "三步关闭Win11必应搜索",
-        "minimal": "Win11禁用必应",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-06-20T13:28:20.399846"
+  "count": 38,
+  "updated_at": "2026-06-20T13:33:23.140820"
 }
