@@ -508,47 +508,8 @@
         "minimal": "谷歌和解安卓数据",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42078",
-      "channel": "zaihuapd",
-      "text": "迪士尼 + 因专利纠纷在欧洲 11 国再次禁用杜比视界和 3D6 月中旬，迪士尼+因与 InterDigital 的专利纠纷，在欧盟 11 个国家再次禁用杜比视界和 3D 内容。受影响的用户观看影片时会降级至 HDR10 或 SDR，但 4K 和普通 HDR 仍可用。此前 2 月该问题曾首次出现，3 月短暂恢复，此次统一专利法院（UPC）的禁令使影响范围扩大至德国、法国、意大利等国家。迪士尼北欧表示因诉讼被要求做出改变，公司感到失望，正在探索解决方案。目前英国和美国不受影响。亚马逊已与 InterDigital 达成和解，得以继续提供杜比视界。9To5Google|FlatpanelsHD|TechRadar·英文频道·",
-      "clean_text": "迪士尼 + 因专利纠纷在欧洲 11 国再次禁用杜比视界和 3D6 月中旬，迪士尼+因与 InterDigital 的专利纠纷，在欧盟 11 个国家再次禁用杜比视界和 3D 内容。受影响的用户观看影片时会降级至 HDR10 或 SDR，但 4K 和普通 HDR 仍可用。此前 2 月该问题曾首次出现，3 月短暂恢复，此次统一专利法院（UPC）的禁令使影响范围扩大至德国、法国、意大利等国家。迪士尼北欧表示因诉讼被要求做出改变，公司感到失望，正在探索解决方案。目前英国和美国不受影响。亚马逊已与 InterDigital 达成和解，得以继续提供杜比视界。9To5Google|FlatpanelsHD|TechRadar·英文频道",
-      "datetime": "2026-06-20T14:38:46+00:00",
-      "views": "2.46K",
-      "source_links": [
-        {
-          "text": "9To5Google",
-          "url": "https://9to5google.com/2026/06/17/disney-plus-dolby-vision-disabled-europe/"
-        },
-        {
-          "text": "FlatpanelsHD",
-          "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1781699029"
-        },
-        {
-          "text": "TechRadar",
-          "url": "https://www.techradar.com/streaming/i-regret-to-inform-you-that-dolby-vision-hdr-has-once-again-been-dropped-from-disney-in-parts-of-europe"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42078",
-      "scraped_at": "2026-06-20T23:00:41.410903",
-      "title": "迪士尼+欧洲11国禁用杜比视界",
-      "title_options": {
-        "conclusion": "迪士尼+欧洲11国禁用杜比视界",
-        "attractive": "迪士尼+再失杜比视界",
-        "minimal": "迪士尼+杜比视界禁用",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 20,
-  "updated_at": "2026-06-22T02:34:32.598182"
+  "count": 19,
+  "updated_at": "2026-06-22T02:39:37.505868"
 }
