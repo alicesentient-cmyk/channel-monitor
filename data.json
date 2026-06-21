@@ -712,39 +712,8 @@
         "minimal": "LM Studio 苹果 1T 模型",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42066",
-      "channel": "zaihuapd",
-      "text": "HTTP 拟新增 QUERY 方法：带请求体的安全查询IETF HTTP 工作组正在制定一项草案，新增 HTTP QUERY 请求方法。它允许像 POST 一样把查询条件放在请求体里，但具有 GET 的安全和幂等特性，便于缓存、重试和自动恢复。QUERY 主要解决 URI 查询字符串太长的问题，并定义了 Accept-Query 响应头，让服务器声明支持的查询格式。草案仍在讨论中，当前版本将于 2026 年 12 月到期。HTTP Working Group·英文频道·",
-      "clean_text": "HTTP 拟新增 QUERY 方法：带请求体的安全查询IETF HTTP 工作组正在制定一项草案，新增 HTTP QUERY 请求方法。它允许像 POST 一样把查询条件放在请求体里，但具有 GET 的安全和幂等特性，便于缓存、重试和自动恢复。QUERY 主要解决 URI 查询字符串太长的问题，并定义了 Accept-Query 响应头，让服务器声明支持的查询格式。草案仍在讨论中，当前版本将于 2026 年 12 月到期。HTTP Working Group·英文频道",
-      "datetime": "2026-06-20T06:28:44+00:00",
-      "views": "2.69K",
-      "source_links": [
-        {
-          "text": "HTTP Working Group",
-          "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42066",
-      "scraped_at": "2026-06-20T15:00:12.807928",
-      "title": "HTTP拟新增QUERY方法",
-      "title_options": {
-        "conclusion": "HTTP拟新增QUERY方法",
-        "attractive": "查询字符串太长有解了",
-        "minimal": "HTTP QUERY方法",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-21T18:28:09.252645"
+  "count": 27,
+  "updated_at": "2026-06-21T18:33:12.541109"
 }
