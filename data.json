@@ -555,26 +555,8 @@
         "minimal": "HTTP QUERY拟议标准",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42064",
-      "channel": "zaihuapd",
-      "text": "Anthropic 技术人员将就 AI 模型下线与白宫官员会面  据 Axios 报道，Anthropic 高级技术人员计划下周与白宫官员会面，试图解决导致其最先进 AI 模型全球下线的争端。  此前，特朗普政府命令 Anthropic 阻止外国人使用 Fable 5 和 Mythos 5 模型，Anthropic 随后宣布全球禁用。该公司曾因 Mythos 的黑客能力推迟其广泛发布，并于近日推出了带安全措施的公开版本 Fable。  Reuters",
-      "clean_text": "🤖Anthropic 技术人员将就 AI 模型下线与白宫官员会面  据 Axios 报道，Anthropic 高级技术人员计划下周与白宫官员会面，试图解决导致其最先进 AI 模型全球下线的争端。  此前，特朗普政府命令 Anthropic 阻止外国人使用 Fable 5 和 Mythos 5 模型，Anthropic 随后宣布全球禁用。该公司曾因 Mythos 的黑客能力推迟其广泛发布，并于近日推出了带安全措施的公开版本 Fable。  Reuters · 备用频道 · 投稿通道",
-      "datetime": "2026-06-20T02:45:33+00:00",
-      "views": "1.77K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42064",
-      "scraped_at": "2026-06-20T11:00:26.521569",
-      "title": "Anthropic与白宫会面",
-      "title_options": {
-        "conclusion": "Anthropic与白宫会面",
-        "attractive": "AI模型下线争端",
-        "minimal": "Anthropic白宫会面",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 22,
-  "updated_at": "2026-06-21T14:44:30.479441"
+  "count": 21,
+  "updated_at": "2026-06-21T14:49:34.245419"
 }
