@@ -671,35 +671,8 @@
         "minimal": "自动驾驶国标报批",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30235",
-      "channel": "xhqcankao",
-      "text": "IETF 正式公布 HTTP QUERY 方法拟议标准互联网工程任务组（IETF）于2026年6月16日正式发布了RFC 10008文件，将全新的 HTTP 请求方法“QUERY”确立为拟议标准（Proposed Standard）。这项新规范旨在为 Web 开发者和 API 设计者提供一种标准化的方式，以处理需要包含请求体的复杂只读请求，从而有效地填补了现有的 GET 和 POST 方法之间的功能空白。​QUERY 方法结合了两者的优势，它允许客户端像使用 POST 那样在请求体中发送查询数据，同时在定义上保持了与 GET 相同的安全性和幂等性。新标准引入了“Accept-Query”响应字段，使服务器能够声明其支持的查询内容格式，并且明确了 QUERY 响应是可以被缓存的，服务器可以通过 Allow 响应头字段声明对 QUERY 方法的支持。尽管 QUERY 方法使 API 的设计更加清晰和规范，实际部署尚待服务器、客户端及浏览器厂商逐步支持。",
-      "clean_text": "IETF 正式公布 HTTP QUERY 方法拟议标准互联网工程任务组（IETF）于2026年6月16日正式发布了RFC 10008文件，将全新的 HTTP 请求方法“QUERY”确立为拟议标准（Proposed Standard）。这项新规范旨在为 Web 开发者和 API 设计者提供一种标准化的方式，以处理需要包含请求体的复杂只读请求，从而有效地填补了现有的 GET 和 POST 方法之间的功能空白。​QUERY 方法结合了两者的优势，它允许客户端像使用 POST 那样在请求体中发送查询数据，同时在定义上保持了与 GET 相同的安全性和幂等性。新标准引入了“Accept-Query”响应字段，使服务器能够声明其支持的查询内容格式，并且明确了 QUERY 响应是可以被缓存的，服务器可以通过 Allow 响应头字段声明对 QUERY 方法的支持。尽管 QUERY 方法使 API 的设计更加清晰和规范，实际部署尚待服务器、客户端及浏览器厂商逐步支持。——IETF",
-      "datetime": "2026-06-20T03:08:52+00:00",
-      "views": "1.55K",
-      "source_links": [
-        {
-          "text": "RFC 10008",
-          "url": "https://www.rfc-editor.org/info/rfc10008/"
-        },
-        {
-          "text": "IETF",
-          "url": "https://mailarchive.ietf.org/arch/msg/ietf-announce/uNaYyRDGKjyOn_KDT2JaGLlm9fE/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30235",
-      "scraped_at": "2026-06-20T12:01:18.051803",
-      "title": "IETF发布HTTP QUERY标准",
-      "title_options": {
-        "conclusion": "IETF发布HTTP QUERY标准",
-        "attractive": "HTTP QUERY填补GET与POS…",
-        "minimal": "HTTP QUERY拟议标准",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-06-21T15:04:48.085057"
+  "count": 25,
+  "updated_at": "2026-06-21T15:09:51.420413"
 }
