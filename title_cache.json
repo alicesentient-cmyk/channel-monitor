@@ -7861,5 +7861,55 @@
       "minimal": "记者声明被迫签署"
     },
     "generated_at": "2026-06-21T13:05:03.207519"
+  },
+  "xhqcankao_30241": {
+    "ai_title": "NASA测试新型探测车",
+    "title_options": {
+      "conclusion": "NASA测试新型探测车",
+      "attractive": "探测车可独立抬轮",
+      "minimal": "NASA探测车测试",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-21T15:04:46.808871"
+  },
+  "zaihuapd_42088": {
+    "ai_title": "Polymarket雇人伪造交易视频",
+    "title_options": {
+      "conclusion": "Polymarket雇人伪造交易视频",
+      "attractive": "虚假交易视频引流被查",
+      "minimal": "Polymarket伪造交易",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-21T15:04:46.995804"
+  },
+  "zaihuapd_42089": {
+    "ai_title": "免会员YouTube后台播放",
+    "title_options": {
+      "conclusion": "Brave浏览器支持后台播放",
+      "attractive": "免会员YouTube后台播放",
+      "minimal": "Brave后台播放",
+      "best": "attractive"
+    },
+    "generated_at": "2026-06-21T15:04:47.095625"
+  },
+  "zaihuapd_42086": {
+    "ai_title": "WPS占用C盘引吐槽",
+    "title_options": {
+      "conclusion": "WPS占用C盘引吐槽",
+      "attractive": "WPS致文档丢失",
+      "minimal": "WPS C盘 文档丢失",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-21T15:04:48.029855"
+  },
+  "zaihuapd_42087": {
+    "ai_title": "迪士尼员工遭游客骚扰",
+    "title_options": {
+      "conclusion": "迪士尼员工遭游客骚扰",
+      "attractive": "迪士尼公主被骚扰",
+      "minimal": "迪士尼员工骚扰",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-21T15:04:48.071462"
   }
 }
