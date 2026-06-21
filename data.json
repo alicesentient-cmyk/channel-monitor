@@ -547,26 +547,8 @@
         "minimal": "迪士尼+杜比视界禁用",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42077",
-      "channel": "zaihuapd",
-      "text": "Google 强推 AI 搜索后，DuckDuckGo 安装量一周涨三成  Google 在 I/O 大会宣布将搜索改为 AI 代理模式后，部分用户转向 DuckDuckGo 寻求无 AI 的搜索体验。5 月 20 日至 25 日，DuckDuckGo 的美国应用安装量周环比增长 18.1%，连续六天保持增势，25 日达到 30.5%的峰值；iOS 端安装量均值更高达 33%，峰值接近七成。其专门关闭所有 AI 功能的搜索页访问量也上升 22.7%。  DuckDuckGo CEO 批评 Google…",
-      "clean_text": "🐶Google 强推 AI 搜索后，DuckDuckGo 安装量一周涨三成  Google 在 I/O 大会宣布将搜索改为 AI 代理模式后，部分用户转向 DuckDuckGo 寻求无 AI 的搜索体验。5 月 20 日至 25 日，DuckDuckGo 的美国应用安装量周环比增长 18.1%，连续六天保持增势，25 日达到 30.5%的峰值；iOS 端安装量均值更高达 33%，峰值接近七成。其专门关闭所有 AI 功能的搜索页访问量也上升 22.7%。  DuckDuckGo CEO 批评 Google…",
-      "datetime": "2026-06-20T13:25:47+00:00",
-      "views": "3.46K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42077",
-      "scraped_at": "2026-06-20T22:00:50.129826",
-      "title": "DuckDuckGo安装量涨三成",
-      "title_options": {
-        "conclusion": "DuckDuckGo安装量涨三成",
-        "attractive": "弃AI搜索，安装量涨30%",
-        "minimal": "DuckDuckGo安装量涨30%",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 21,
-  "updated_at": "2026-06-22T01:23:36.980085"
+  "count": 20,
+  "updated_at": "2026-06-22T01:28:40.994835"
 }
