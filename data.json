@@ -573,47 +573,8 @@
         "minimal": "Anthropic白宫会面",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42063",
-      "channel": "zaihuapd",
-      "text": "日本拟将外国人签证手续费提高至 5 倍日本政府拟从 2026 年度起提高外国人签证发放手续费。一次入境签证拟由约 3000 日元升至 1.5 万日元，数次签证以 3 万日元为中心讨论，相关内容已纳入 2026 年度预算案。现行签证手续费自 1978 年以来未调整。日本还计划提高国际观光旅客税，同时把日本人 10 年期护照手续费从 1.6 万日元降至约 9000 日元。朝日新聞|日本経済新聞社|自由民主党·英文频道·",
-      "clean_text": "日本拟将外国人签证手续费提高至 5 倍日本政府拟从 2026 年度起提高外国人签证发放手续费。一次入境签证拟由约 3000 日元升至 1.5 万日元，数次签证以 3 万日元为中心讨论，相关内容已纳入 2026 年度预算案。现行签证手续费自 1978 年以来未调整。日本还计划提高国际观光旅客税，同时把日本人 10 年期护照手续费从 1.6 万日元降至约 9000 日元。朝日新聞|日本経済新聞社|自由民主党·英文频道",
-      "datetime": "2026-06-20T01:49:18+00:00",
-      "views": "1.26K",
-      "source_links": [
-        {
-          "text": "朝日新聞",
-          "url": "https://www.asahi.com/articles/ASTDV33M2TDVUTFK01JM.html?iref=ogimage_rek"
-        },
-        {
-          "text": "日本経済新聞社",
-          "url": "https://www.nikkei.com/article/DGXZQOUA26BB80W5A221C2000000/"
-        },
-        {
-          "text": "自由民主党",
-          "url": "https://www.jimin.jp/news/information/212271.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42063",
-      "scraped_at": "2026-06-20T10:00:49.616047",
-      "title": "日本签证费拟涨至5倍",
-      "title_options": {
-        "conclusion": "日本签证费拟涨至5倍",
-        "attractive": "日本签证费暴涨5倍",
-        "minimal": "签证费 5倍 2026",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 23,
-  "updated_at": "2026-06-21T13:47:10.735827"
+  "count": 22,
+  "updated_at": "2026-06-21T13:53:51.674960"
 }
