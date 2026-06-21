@@ -7832,5 +7832,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-21T10:02:39.672837"
+  },
+  "xhqcankao_30240": {
+    "ai_title": "中国反无人机激光武器4秒击穿500米目标",
+    "title_options": {
+      "conclusion": "中国反无人机激光武器4秒击穿500米目标",
+      "attractive": "200万成本4秒击落无人机",
+      "minimal": "反无人机激光武器",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-21T12:03:52.962366"
+  },
+  "zaihuapd_42082": {
+    "ai_title": "网友分享近期兴趣活动",
+    "title_options": {
+      "conclusion": "网友分享近期兴趣活动",
+      "attractive": "你最近在玩什么？",
+      "minimal": "近期兴趣分享",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-21T12:03:53.009735"
   }
 }
