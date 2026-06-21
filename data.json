@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42093",
+      "channel": "zaihuapd",
+      "text": "黑鲨宣布关闭社区访问，小米商城下架全部产品黑鲨技术支持工程师近日发文称，黑鲨社区已正式关闭访问。目前小米商城及小米有品均已下架所有黑鲨产品，无法搜索到相关商品。不过，黑鲨社区目前仍可进入，且持续有新帖发布，但部分功能已无法使用，用户头像及图片也无法正常显示。黑鲨希瑞·英文频道·",
+      "clean_text": "黑鲨宣布关闭社区访问，小米商城下架全部产品黑鲨技术支持工程师近日发文称，黑鲨社区已正式关闭访问。目前小米商城及小米有品均已下架所有黑鲨产品，无法搜索到相关商品。不过，黑鲨社区目前仍可进入，且持续有新帖发布，但部分功能已无法使用，用户头像及图片也无法正常显示。黑鲨希瑞·英文频道",
+      "datetime": "2026-06-21T10:44:00+00:00",
+      "views": "2.15K",
+      "source_links": [
+        {
+          "text": "黑鲨希瑞",
+          "url": "https://weibo.com/2406952997/R4QGWEO4D"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42093",
+      "scraped_at": "2026-06-21T19:00:36.663939",
+      "title": "黑鲨社区关闭，小米下架产品",
+      "title_options": {
+        "conclusion": "黑鲨社区关闭，小米下架产品",
+        "attractive": "黑鲨社区关闭，小米商城下架",
+        "minimal": "黑鲨社区关闭，产品下架",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42092",
       "channel": "zaihuapd",
       "text": "字节跳动拟于 2026 年 Q2 发布豆包二代手机，并推进 AI 硬件全生态布局  字节跳动计划于 2026 年第二季度发布豆包二代手机，继续由中兴努比亚负责硬件。针对首代机型曾遭遇的互联网厂商封锁，豆包团队正与美团、微信等厂商谈判权限，并尝试在传音、魅族等手机中内置 AI 入口。除手机外，字节拟于 2026 年第一季度和第四季度分别发布非显示类及带显示功能的 AI 眼镜，并同步开发 AI 耳机。",
@@ -681,39 +712,8 @@
         "minimal": "英国平台新闻曝光计划",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42067",
-      "channel": "zaihuapd",
-      "text": "LM Studio 与苹果合作在四台 Mac Studio 上运行 1T 参数模型在 WWDC 上，LM Studio 与苹果合作，使用预览版 LM Studio 在由四台 Mac Studio 组成的集群上运行了一个 1T 参数的模型 Kimi K2.6。展示中，他们还利用 LM Link 实现了从 MacBook Neo 和 iPhone 进行的安全远程访问。LM Studio·英文频道·",
-      "clean_text": "🍏LM Studio 与苹果合作在四台 Mac Studio 上运行 1T 参数模型在 WWDC 上，LM Studio 与苹果合作，使用预览版 LM Studio 在由四台 Mac Studio 组成的集群上运行了一个 1T 参数的模型 Kimi K2.6。展示中，他们还利用 LM Link 实现了从 MacBook Neo 和 iPhone 进行的安全远程访问。LM Studio·英文频道",
-      "datetime": "2026-06-20T07:02:13+00:00",
-      "views": "4.5K",
-      "source_links": [
-        {
-          "text": "LM Studio",
-          "url": "https://x.com/lmstudio/status/2067301278976180531"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42067",
-      "scraped_at": "2026-06-20T16:00:50.661342",
-      "title": "LM Studio与苹果合作运行1T模型",
-      "title_options": {
-        "conclusion": "LM Studio与苹果合作运行1T模型",
-        "attractive": "四台Mac Studio跑1T参数模型",
-        "minimal": "LM Studio 苹果 1T 模型",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 27,
-  "updated_at": "2026-06-21T18:58:28.181432"
+  "updated_at": "2026-06-21T19:03:34.648433"
 }
