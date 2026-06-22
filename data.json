@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42098",
+      "channel": "zaihuapd",
+      "text": "苹果钱包数字身份或用于 AI 模型身份验证苹果钱包中的数字身份证功能可能很快迎来新用途：帮助 AI 公司进行用户国籍验证。有分析指出，Anthropic 或会利用该功能来筛查 Claude 用户，以确保只有美国公民能访问被管制的高阶模型。此前，Anthropic 曾使用苹果的年龄验证 API，这为采用数字 ID 提供了先例。Fable 5 和 Mythos 5 等 Claude 模型因美国出口管制而暂停向外国公民开放，原因是被发现存在越狱漏洞。若 Anthropic 能可靠验证用户国籍，上述模型有望恢复。不过，这一方案将排除没有 iPhone、护照或所在地区不支持钱包驾照的用户。9To5Mac·英文频道·",
+      "clean_text": "苹果钱包数字身份或用于 AI 模型身份验证苹果钱包中的数字身份证功能可能很快迎来新用途：帮助 AI 公司进行用户国籍验证。有分析指出，Anthropic 或会利用该功能来筛查 Claude 用户，以确保只有美国公民能访问被管制的高阶模型。此前，Anthropic 曾使用苹果的年龄验证 API，这为采用数字 ID 提供了先例。Fable 5 和 Mythos 5 等 Claude 模型因美国出口管制而暂停向外国公民开放，原因是被发现存在越狱漏洞。若 Anthropic 能可靠验证用户国籍，上述模型有望恢复。不过，这一方案将排除没有 iPhone、护照或所在地区不支持钱包驾照的用户。9To5Mac·英文频道",
+      "datetime": "2026-06-22T03:15:34+00:00",
+      "views": "3.91K",
+      "source_links": [
+        {
+          "text": "9To5Mac",
+          "url": "https://9to5mac.com/2026/06/21/apple-wallets-digital-id-feature-could-potentially-have-a-major-new-use-case-soon/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42098",
+      "scraped_at": "2026-06-22T12:00:30.676207",
+      "title": "苹果钱包验证AI用户国籍",
+      "title_options": {
+        "conclusion": "苹果钱包验证AI用户国籍",
+        "attractive": "无iPhone无法访问Claude",
+        "minimal": "苹果钱包AI验证",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30249",
       "channel": "xhqcankao",
       "text": "中国决定将10家美企列入出口管制管控名单中国商务部周一公告，决定将艾维奥克斯公司、 红猫控股公司、蒂尔无人机公司、美国IMSAR公司、杰亚机器人公司、鲍尔航空航天技术公司、奥什科什防务公司、L3哈里斯海事服务公司、芒廷帕斯材料公司、美国稀土公司，10家美国实体列入出口管制管控名单，并采取以下措施：一、禁止出口经营者对上述10家实体出口两用物项，禁止任何国家和地区的组织和个人将原产于中国的两用物项转移或提供给上述实体；正在开展的相关出口活动应当立即停止。二、特殊情况下确需出口的，出口经营者应当向商务部提出申请。本公告自公布之日起正式实施。",
@@ -651,6 +682,6 @@
       }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-06-22T11:57:09.651195"
+  "count": 26,
+  "updated_at": "2026-06-22T12:02:13.754426"
 }
