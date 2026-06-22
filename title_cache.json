@@ -8219,5 +8219,35 @@
       "minimal": "特斯拉FSD瑞典受阻"
     },
     "generated_at": "2026-06-22T17:02:25.500902"
+  },
+  "zaihuapd_42108": {
+    "ai_title": "阿里发布视频生成模型1.1",
+    "title_options": {
+      "conclusion": "阿里发布视频生成模型1.1",
+      "attractive": "阿里AI视频大赛奖百万商单",
+      "minimal": "阿里视频模型1.1上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T18:03:44.722050"
+  },
+  "xhqcankao_30257": {
+    "ai_title": "Anthropic模型攻破美机密系统",
+    "title_options": {
+      "conclusion": "Anthropic模型攻破美机密系统",
+      "attractive": "数小时攻破美国机密系统",
+      "minimal": "Mythos攻破机密系统",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T18:03:44.746236"
+  },
+  "zaihuapd_42107": {
+    "ai_title": "黄仁勋称华为芯片设计优秀",
+    "title_options": {
+      "conclusion": "黄仁勋称华为芯片设计优秀",
+      "attractive": "轻视华为者极其天真",
+      "minimal": "黄仁勋 华为 学习",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T18:03:44.904092"
   }
 }
