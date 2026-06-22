@@ -8041,5 +8041,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-22T10:00:49.629630"
+  },
+  "zaihuapd_42097": {
+    "ai_title": "智谱市值突破1万亿",
+    "title_options": {
+      "conclusion": "智谱市值突破1万亿",
+      "attractive": "智谱股价暴涨42%",
+      "minimal": "智谱万亿市值",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T11:01:31.464687"
+  },
+  "xhqcankao_30249": {
+    "ai_title": "中国将10家美企列入出口管制",
+    "title_options": {
+      "conclusion": "中国将10家美企列入出口管制",
+      "attractive": "美企被禁出口两用物项",
+      "minimal": "10美企入管制名单"
+    },
+    "generated_at": "2026-06-22T11:01:31.588808"
+  },
+  "xhqcankao_30248": {
+    "ai_title": "中国稀土磁铁对日出口减34%",
+    "title_options": {
+      "conclusion": "中国稀土磁铁对日出口减34%",
+      "attractive": "对日出口锐减创近两年新低",
+      "minimal": "稀土磁铁对日出口降34%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T11:01:31.635590"
   }
 }
