@@ -8021,5 +8021,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-22T09:04:42.415644"
+  },
+  "xhqcankao_30247": {
+    "ai_title": "巴西紧急停用虚假警报系统",
+    "title_options": {
+      "conclusion": "巴西紧急停用虚假警报系统",
+      "attractive": "黑客入侵致虚假警报发送",
+      "minimal": "巴西虚假警报停用",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T10:00:49.538347"
+  },
+  "zaihuapd_42096": {
+    "ai_title": "香港拟扩大内地投资额度",
+    "title_options": {
+      "conclusion": "香港拟扩大内地投资额度",
+      "attractive": "内地散户可买港股IPO",
+      "minimal": "港股通额度扩大",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T10:00:49.629630"
   }
 }
