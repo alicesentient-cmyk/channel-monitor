@@ -885,39 +885,8 @@
         "minimal": "Brave后台播放",
         "best": "attractive"
       }
-    },
-    {
-      "id": "zaihuapd_42088",
-      "channel": "zaihuapd",
-      "text": "Polymarket 被曝雇人制作虚假交易视频引流《华尔街日报》调查发现，预测市场平台 Polymarket 雇用数十名年轻创作者，在几乎以假乱真的模拟网站上拍摄虚假交易视频，并让他们隐藏付费合作关系。在分析的 1,105 个视频中，七成展示了总计 190 万美元的虚假下注；其中 118 个视频宣称赢得近 90 万美元，实际上这些交易本会亏损超过 16.6 万美元。该平台通过社交媒体大军向美国用户推送这些内容，而 Polymarket 自 2022 年起已被禁止在美国提供主要加密交易服务。美国联邦广告法要求付费代言必须披露利益关系。Polymarket 回应称致力于市场透明，计划全面审计现有推广内容。The Wall Street Journal·英文频道·",
-      "clean_text": "Polymarket 被曝雇人制作虚假交易视频引流《华尔街日报》调查发现，预测市场平台 Polymarket 雇用数十名年轻创作者，在几乎以假乱真的模拟网站上拍摄虚假交易视频，并让他们隐藏付费合作关系。在分析的 1,105 个视频中，七成展示了总计 190 万美元的虚假下注；其中 118 个视频宣称赢得近 90 万美元，实际上这些交易本会亏损超过 16.6 万美元。该平台通过社交媒体大军向美国用户推送这些内容，而 Polymarket 自 2022 年起已被禁止在美国提供主要加密交易服务。美国联邦广告法要求付费代言必须披露利益关系。Polymarket 回应称致力于市场透明，计划全面审计现有推广内容。The Wall Street Journal·英文频道",
-      "datetime": "2026-06-21T06:31:26+00:00",
-      "views": "2.83K",
-      "source_links": [
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42088",
-      "scraped_at": "2026-06-21T15:00:39.305198",
-      "title": "Polymarket雇人伪造交易视频",
-      "title_options": {
-        "conclusion": "Polymarket雇人伪造交易视频",
-        "attractive": "虚假交易视频引流被查",
-        "minimal": "Polymarket伪造交易",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-06-22T18:29:01.372568"
+  "count": 35,
+  "updated_at": "2026-06-22T18:34:04.185882"
 }
