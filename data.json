@@ -1,6 +1,33 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30264",
+      "channel": "xhqcankao",
+      "text": "SpaceX与Reflection签署算力合作协议SpaceX已与Reflection AI签署大额算力合作协议，这家开源人工智能初创企业成为又一家租用马斯克 “巨人” 算力基础设施的外部企业。根据协议，Reflection可立即启用英伟达GB300芯片 —— 这款顶级人工智能芯片用于训练、运行前沿大模型；双方约定，自2026年7月1日至2029年，Reflection 每月向SpaceX公司支付1.5亿美元算力租金。若合约完整履行至到期，总交易金额约63亿美元。合约生效满三个月后，任意一方均可提前90天通知对方终止合作。与此同时，周一SpaceX宣布发行高级无担保债券，并披露公司持有约1008亿美元现金。受消息影响，该公司周一美股开盘后股价大跌逾10%。",
+      "clean_text": "SpaceX与Reflection签署算力合作协议SpaceX已与Reflection AI签署大额算力合作协议，这家开源人工智能初创企业成为又一家租用马斯克 “巨人” 算力基础设施的外部企业。根据协议，Reflection可立即启用英伟达GB300芯片 —— 这款顶级人工智能芯片用于训练、运行前沿大模型；双方约定，自2026年7月1日至2029年，Reflection 每月向SpaceX公司支付1.5亿美元算力租金。若合约完整履行至到期，总交易金额约63亿美元。合约生效满三个月后，任意一方均可提前90天通知对方终止合作。与此同时，周一SpaceX宣布发行高级无担保债券，并披露公司持有约1008亿美元现金。受消息影响，该公司周一美股开盘后股价大跌逾10%。——彭博社、CNBC",
+      "datetime": "2026-06-22T16:11:46+00:00",
+      "views": "1.32K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-inks-multibillion-dollar-computing-deal-with-reflection-ai"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30264",
+      "scraped_at": "2026-06-23T01:01:08.012302",
+      "title": "SpaceX与Reflection签6…",
+      "title_options": {
+        "conclusion": "SpaceX与Reflection签6…",
+        "attractive": "月付1.5亿美元租英伟达GB300",
+        "minimal": "SpaceX Reflection 算…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30263",
       "channel": "xhqcankao",
       "text": "中国开发者联名举报苹果滥用市场垄断地位48位在中国市场分发 iOS 应用的中小开发者联名向国家市场监督管理总局提交《关于苹果公司滥用中国市场垄断地位的开发者联名举报信》，指控苹果公司在中国市场存在限定交易、差别待遇、搭售及不公平高价等行为，并要求苹果开放第三方应用分发、应用内第三方支付、外链支付渠道。欧盟、日本和巴西三个主要海外市场均已完成“降低IAP费率+开放第三方支付+开放外链支付+开放第三方应用分发”的模式，开发者和消费者拥有更多支付和下载渠道选择。而中国开发者仍承担较高综合费率，开发者提出开放渠道、兑现费率承诺、建立自动对齐监督机制三大诉求。对此，苹果公司暂未回应。",
@@ -939,6 +966,6 @@
       }
     }
   ],
-  "count": 38,
-  "updated_at": "2026-06-23T00:59:56.383395"
+  "count": 39,
+  "updated_at": "2026-06-23T01:05:01.752384"
 }
