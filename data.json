@@ -858,35 +858,8 @@
         "minimal": "美伊瑞士会谈",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42089",
-      "channel": "zaihuapd",
-      "text": "Brave 浏览器可以YouTube 后台小窗户播放，没YouTube 会员的可以试试。·英文频道·",
-      "clean_text": "Brave 浏览器可以YouTube 后台小窗户播放，没YouTube 会员的可以试试。·英文频道",
-      "datetime": "2026-06-21T06:49:06+00:00",
-      "views": "1.46K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42089",
-      "scraped_at": "2026-06-21T15:00:39.305624",
-      "title": "免会员YouTube后台播放",
-      "title_options": {
-        "conclusion": "Brave浏览器支持后台播放",
-        "attractive": "免会员YouTube后台播放",
-        "minimal": "Brave后台播放",
-        "best": "attractive"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-06-22T18:44:11.278335"
+  "count": 34,
+  "updated_at": "2026-06-22T18:49:15.283983"
 }
