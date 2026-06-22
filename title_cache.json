@@ -8080,5 +8080,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-22T12:02:13.740471"
+  },
+  "xhqcankao_30250": {
+    "ai_title": "豆包App灰测打车",
+    "title_options": {
+      "conclusion": "豆包App灰测打车",
+      "attractive": "豆包打车获2元激励",
+      "minimal": "豆包打车灰测",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T13:02:59.595323"
+  },
+  "xhqcankao_30251": {
+    "ai_title": "京东70万快递员将培训",
+    "title_options": {
+      "conclusion": "京东70万快递员将培训",
+      "attractive": "机器人送货，快递员学维修",
+      "minimal": "京东涅槃计划",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T13:02:59.848690"
+  },
+  "zaihuapd_42100": {
+    "ai_title": "HDMI 2.2带宽翻倍至96Gbps",
+    "title_options": {
+      "conclusion": "HDMI 2.2带宽翻倍至96Gbps",
+      "attractive": "HDMI 2.2带宽翻倍，4K 240…",
+      "minimal": "HDMI 2.2 96Gbps",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T13:02:59.872216"
+  },
+  "zaihuapd_42099": {
+    "ai_title": "豆包2.0 Pro评测超GPT",
+    "title_options": {
+      "conclusion": "豆包2.0 Pro评测超GPT",
+      "attractive": "推理成本降低约90%",
+      "minimal": "豆包2.0 Pro发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T13:03:00.846557"
   }
 }
