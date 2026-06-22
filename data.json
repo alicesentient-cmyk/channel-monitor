@@ -649,31 +649,8 @@
         "minimal": "超声波咖啡萃取",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30239",
-      "channel": "xhqcankao",
-      "text": "诺贝尔奖得主将离开谷歌跳槽Anthropic最近获得诺贝尔化学奖的约翰·江珀本周五宣布，在谷歌 DeepMind 工作近九年之后，他将跳槽至Anthropic。在X平台上的一篇帖子中，江珀写道，DeepMind 首席执行官德米斯·哈萨比斯 “在我完成博士学位仅仅六个月后就让我领导 AlphaFold 团队，这真是一次冒险之举，整个 GDM 团队教会了我很多关于如何进行伟大科学研究的知识。”彭博社报道称，江珀是谷歌开发编码工具团队的关键成员，而该公司一直难以将这些工具销售给企业。Character AI联合创始人诺姆·沙泽尔本周也宣布他将离开DeepMind",
-      "clean_text": "诺贝尔奖得主将离开谷歌跳槽Anthropic最近获得诺贝尔化学奖的约翰·江珀本周五宣布，在谷歌 DeepMind 工作近九年之后，他将跳槽至Anthropic。在X平台上的一篇帖子中，江珀写道，DeepMind 首席执行官德米斯·哈萨比斯 “在我完成博士学位仅仅六个月后就让我领导 AlphaFold 团队，这真是一次冒险之举，整个 GDM 团队教会了我很多关于如何进行伟大科学研究的知识。”彭博社报道称，江珀是谷歌开发编码工具团队的关键成员，而该公司一直难以将这些工具销售给企业。Character AI联合创始人诺姆·沙泽尔本周也宣布他将离开DeepMind——不过就沙泽尔的情况而言，他将加入OpenAI。——Techcrunch",
-      "datetime": "2026-06-20T23:42:37+00:00",
-      "views": "458",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30239",
-      "scraped_at": "2026-06-21T08:00:43.697449",
-      "title": "诺奖得主江珀跳槽Anthropic",
-      "title_options": {
-        "conclusion": "诺奖得主江珀跳槽Anthropic",
-        "attractive": "谷歌AI人才流失加剧",
-        "minimal": "江珀离开谷歌",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-06-22T11:41:59.772456"
+  "count": 25,
+  "updated_at": "2026-06-22T11:47:02.998486"
 }
