@@ -8259,5 +8259,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-22T19:04:26.954982"
+  },
+  "xhqcankao_30259": {
+    "ai_title": "亿咖通18亿收购Flyme",
+    "title_options": {
+      "conclusion": "亿咖通18亿收购Flyme",
+      "attractive": "18亿买下Flyme系统",
+      "minimal": "亿咖通收购Flyme",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T20:05:20.661606"
+  },
+  "xhqcankao_30260": {
+    "ai_title": "AI修复旧影视效率提升",
+    "title_options": {
+      "conclusion": "AI修复旧影视效率提升",
+      "attractive": "成本降九成，旧片高清修复",
+      "minimal": "AI修复影视",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T20:05:20.763871"
+  },
+  "zaihuapd_42110": {
+    "ai_title": "美团被指三大组织问题",
+    "title_options": {
+      "conclusion": "美团被指三大组织问题",
+      "attractive": "美团产品经理揭三大弊",
+      "minimal": "美团组织问题曝光",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T20:05:20.926217"
+  },
+  "xhqcankao_30258": {
+    "ai_title": "闪迪3D堆叠专利",
+    "title_options": {
+      "conclusion": "闪迪3D堆叠专利",
+      "attractive": "NAND集成芯片内",
+      "minimal": "3D堆叠闪存"
+    },
+    "generated_at": "2026-06-22T20:05:21.916106"
   }
 }
