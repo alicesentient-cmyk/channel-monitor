@@ -8180,5 +8180,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-22T16:05:41.533242"
+  },
+  "zaihuapd_42106": {
+    "ai_title": "苏纳克5日清晨辞职",
+    "title_options": {
+      "conclusion": "苏纳克5日清晨辞职",
+      "attractive": "工党终结保守党14年统治",
+      "minimal": "苏纳克辞职",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T17:02:24.051017"
+  },
+  "zaihuapd_42105": {
+    "ai_title": "Android高级保护将禁开发者选项",
+    "title_options": {
+      "conclusion": "Android高级保护将禁开发者选项",
+      "attractive": "开发者选项或被自动关闭",
+      "minimal": "高级保护禁开发者选项",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T17:02:24.109504"
+  },
+  "xhqcankao_30256": {
+    "ai_title": "微软CEO呼吁打破AI垄断",
+    "title_options": {
+      "conclusion": "微软CEO呼吁打破AI垄断",
+      "attractive": "AI太贵？微软转向廉价模型",
+      "minimal": "微软CEO呼吁打破垄断",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T17:02:24.184494"
+  },
+  "xhqcankao_30255": {
+    "ai_title": "瑞典要求特斯拉删除超速功能",
+    "title_options": {
+      "conclusion": "瑞典要求特斯拉删除超速功能",
+      "attractive": "FSD超速功能遭瑞典否决",
+      "minimal": "特斯拉FSD瑞典受阻"
+    },
+    "generated_at": "2026-06-22T17:02:25.500902"
   }
 }
