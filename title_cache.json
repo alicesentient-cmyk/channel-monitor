@@ -8001,5 +8001,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-22T08:04:03.724440"
+  },
+  "xhqcankao_30246": {
+    "ai_title": "比亚迪否认违反环境法规",
+    "title_options": {
+      "conclusion": "比亚迪否认违反环境法规",
+      "attractive": "比亚迪否认环境违规指控",
+      "minimal": "比亚迪否认环境指控",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T09:04:42.368670"
+  },
+  "xhqcankao_30245": {
+    "ai_title": "36%大学生用AI交作业",
+    "title_options": {
+      "conclusion": "36%大学生用AI交作业",
+      "attractive": "AI代写作业成风潮",
+      "minimal": "AI作业依赖",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-22T09:04:42.415644"
   }
 }
