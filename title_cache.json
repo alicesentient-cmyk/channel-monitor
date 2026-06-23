@@ -8743,5 +8743,35 @@
       "minimal": "港股通额度扩大"
     },
     "generated_at": "2026-06-23T20:01:36.166696"
+  },
+  "xhqcankao_30292": {
+    "ai_title": "美英收紧社媒监管",
+    "title_options": {
+      "conclusion": "美英收紧社媒监管",
+      "attractive": "儿童保护成监管焦点",
+      "minimal": "社媒监管儿童",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T21:02:25.862552"
+  },
+  "xhqcankao_30291": {
+    "ai_title": "谷歌孵化离职员工AI初创企业",
+    "title_options": {
+      "conclusion": "谷歌孵化离职员工AI初创企业",
+      "attractive": "前员工AI创业可获35万美元",
+      "minimal": "谷歌支持前员工AI创业",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T21:02:26.012035"
+  },
+  "zaihuapd_42136": {
+    "ai_title": "阿里拟70-90亿出售游戏业务",
+    "title_options": {
+      "conclusion": "阿里拟70-90亿出售游戏业务",
+      "attractive": "阿里游戏70亿待售，谁接盘？",
+      "minimal": "阿里出售游戏业务",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T21:02:26.129818"
   }
 }
