@@ -1177,37 +1177,6 @@
       }
     },
     {
-      "id": "zaihuapd_42100",
-      "channel": "zaihuapd",
-      "text": "HDMI 2.2 规范发布，带宽翻倍至 96 GbpsHDMI 2.2 将最大带宽提升至 96 Gbps，是 HDMI 2.1 的两倍，可支持无压缩 4K 240 Hz、8K 60 Hz 等更高规格的视频传输，并新增 LIP 协议以改善音视频同步。芯片厂商今年开始提供 FRL2 样品，首批认证设备预计 2027 年上市。不过，HDMI 2.2 包含 64 Gbps、80 Gbps 和 96 Gbps 多个档位，同标称产品实际性能可能不同。GPU 支持预计要到 2027 年底或更晚才会跟上，对多数用户而言目前暂无需急于升级。TechSpot·英文频道·",
-      "clean_text": "HDMI 2.2 规范发布，带宽翻倍至 96 GbpsHDMI 2.2 将最大带宽提升至 96 Gbps，是 HDMI 2.1 的两倍，可支持无压缩 4K 240 Hz、8K 60 Hz 等更高规格的视频传输，并新增 LIP 协议以改善音视频同步。芯片厂商今年开始提供 FRL2 样品，首批认证设备预计 2027 年上市。不过，HDMI 2.2 包含 64 Gbps、80 Gbps 和 96 Gbps 多个档位，同标称产品实际性能可能不同。GPU 支持预计要到 2027 年底或更晚才会跟上，对多数用户而言目前暂无需急于升级。TechSpot·英文频道",
-      "datetime": "2026-06-22T04:45:34+00:00",
-      "views": "1.94K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/112842-hdmi-22-doubles-bandwidth-96gbps-enabling-uncompressed-4k.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42100",
-      "scraped_at": "2026-06-22T13:01:03.434567",
-      "title": "HDMI 2.2带宽翻倍至96Gbps",
-      "title_options": {
-        "conclusion": "HDMI 2.2带宽翻倍至96Gbps",
-        "attractive": "HDMI 2.2带宽翻倍，4K 240…",
-        "minimal": "HDMI 2.2 96Gbps",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1239,6 +1208,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-06-23T16:43:30.919302"
+  "count": 50,
+  "updated_at": "2026-06-23T16:48:35.151248"
 }
