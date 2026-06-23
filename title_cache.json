@@ -8803,5 +8803,65 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-23T22:03:25.380262"
+  },
+  "zaihuapd_42140": {
+    "ai_title": "FFmpeg漏洞可致系统被控",
+    "title_options": {
+      "conclusion": "FFmpeg漏洞可致系统被控",
+      "attractive": "播放视频即被远程控制",
+      "minimal": "FFmpeg高危漏洞",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T23:04:18.970406"
+  },
+  "xhqcankao_30296": {
+    "ai_title": "欧盟升级Meta儿童成瘾调查",
+    "title_options": {
+      "conclusion": "欧盟升级Meta儿童成瘾调查",
+      "attractive": "Meta被指诱儿童上瘾",
+      "minimal": "欧盟 Meta 儿童 调查",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T23:04:19.068725"
+  },
+  "xhqcankao_30297": {
+    "ai_title": "阿里拟售游戏业务",
+    "title_options": {
+      "conclusion": "阿里拟售游戏业务",
+      "attractive": "阿里游戏卖价70亿",
+      "minimal": "阿里出售灵犀互娱",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T23:04:19.283076"
+  },
+  "zaihuapd_42139": {
+    "ai_title": "多款App取消开屏广告",
+    "title_options": {
+      "conclusion": "多款App取消开屏广告",
+      "attractive": "开屏广告取消引热议",
+      "minimal": "开屏广告取消",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T23:04:20.152142"
+  },
+  "zaihuapd_42138": {
+    "ai_title": "腾讯上架TenPayGo",
+    "title_options": {
+      "conclusion": "腾讯上架TenPayGo",
+      "attractive": "来华游客扫码支付",
+      "minimal": "TenPayGo上架",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T23:04:20.267642"
+  },
+  "xhqcankao_30295": {
+    "ai_title": "豆包AI手机发布或延迟",
+    "title_options": {
+      "conclusion": "豆包AI手机发布或延迟",
+      "attractive": "豆包AI手机备案未过",
+      "minimal": "豆包AI手机延迟",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T23:04:20.452085"
   }
 }

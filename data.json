@@ -1,6 +1,176 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30297",
+      "channel": "xhqcankao",
+      "text": "阿里巴巴计划出售游戏业务 交易价60+亿获悉，阿里巴巴集团计划出售灵犀互娱。结合多位资深游戏行业人士的消息，阿里巴巴目前至少已经接触过五位买家，分别是三七互娱、中国儒意、世纪华通、巨人网络以及某两家私募股权巨头集团（抱团收购），出售价格则为70-90亿元人民币（约10-13亿元美金）。有业内人士猜测，阿里此举或是希望通过出售游戏业务来获得更为充足的现金流。灵犀互娱的规模在 1,200 人左右。旗下游戏工作室包括平平无奇工作室、南瓜工作室、星辰工作室、鸢工作室、创新工作室，另外还有九游和交易猫两个运营部门。这些部门都将会出现在收购列表中。",
+      "clean_text": "阿里巴巴计划出售游戏业务 交易价60+亿获悉，阿里巴巴集团计划出售灵犀互娱。结合多位资深游戏行业人士的消息，阿里巴巴目前至少已经接触过五位买家，分别是三七互娱、中国儒意、世纪华通、巨人网络以及某两家私募股权巨头集团（抱团收购），出售价格则为70-90亿元人民币（约10-13亿元美金）。有业内人士猜测，阿里此举或是希望通过出售游戏业务来获得更为充足的现金流。灵犀互娱的规模在 1,200 人左右。旗下游戏工作室包括平平无奇工作室、南瓜工作室、星辰工作室、鸢工作室、创新工作室，另外还有九游和交易猫两个运营部门。这些部门都将会出现在收购列表中。——游戏新知（游民星空）",
+      "datetime": "2026-06-23T15:00:28+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "游戏新知",
+          "url": "https://club.gamersky.com/m/activity/1572519?club=163"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30297",
+      "scraped_at": "2026-06-23T23:00:55.296927",
+      "title": "阿里拟售游戏业务",
+      "title_options": {
+        "conclusion": "阿里拟售游戏业务",
+        "attractive": "阿里游戏卖价70亿",
+        "minimal": "阿里出售灵犀互娱",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42140",
+      "channel": "zaihuapd",
+      "text": "FFmpeg 曝严重漏洞，播放或存储恶意视频可致系统被控FFmpeg 被曝高危漏洞 CVE-2026-8461（PixelSmash）。攻击者通过构造恶意视频文件，即可触发远程代码执行并完全控制系统。用户在 VLC、Jellyfin、Kodi 等播放器中打开文件，甚至仅因系统生成缩略图或媒体库自动扫描，都可能中招，且攻击过程几乎无痕迹。该漏洞位于 MagicYUV 解码器，CVSS 评分 8.8，影响桌面、服务器及 NAS、智能电视等 IoT 设备。JFrog 研究人员证实，Nextcloud、OBS 等多款应用也受波及。FFmpeg 已发布 8.1.2 版本紧急修复，建议尽快更新；如不需要 MagicYUV 解码器，也可在编译时禁用。Cybernews·英文频道·",
+      "clean_text": "FFmpeg 曝严重漏洞，播放或存储恶意视频可致系统被控FFmpeg 被曝高危漏洞 CVE-2026-8461（PixelSmash）。攻击者通过构造恶意视频文件，即可触发远程代码执行并完全控制系统。用户在 VLC、Jellyfin、Kodi 等播放器中打开文件，甚至仅因系统生成缩略图或媒体库自动扫描，都可能中招，且攻击过程几乎无痕迹。该漏洞位于 MagicYUV 解码器，CVSS 评分 8.8，影响桌面、服务器及 NAS、智能电视等 IoT 设备。JFrog 研究人员证实，Nextcloud、OBS 等多款应用也受波及。FFmpeg 已发布 8.1.2 版本紧急修复，建议尽快更新；如不需要 MagicYUV 解码器，也可在编译时禁用。Cybernews·英文频道",
+      "datetime": "2026-06-23T15:00:08+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Cybernews",
+          "url": "https://cybernews.com/security/critical-ffmpeg-vulnerability-enables-complete-compromise/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42140",
+      "scraped_at": "2026-06-23T23:00:52.836676",
+      "title": "FFmpeg漏洞可致系统被控",
+      "title_options": {
+        "conclusion": "FFmpeg漏洞可致系统被控",
+        "attractive": "播放视频即被远程控制",
+        "minimal": "FFmpeg高危漏洞",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30296",
+      "channel": "xhqcankao",
+      "text": "欧盟将升级对Meta诱使儿童上瘾设计的调查欧盟正准备加强对Meta Platforms Inc.的一项调查，该调查指控其产品对儿童具有成瘾性，因为欧盟正加大对这家美国社交媒体公司的监管压力。知情人士透露，欧盟执行机构欧盟委员会正准备发布初步调查结果，指控Meta公司的Facebook和Instagram 利用剥削性设计技术来让年轻用户上瘾。这些人士表示，监管机构尚未确定调查结果公布日期。该委员会于2024年5月根据《数字服务法》启动这项调查。该调查列出了多项涉嫌违规行为，包括指控Meta的界面通过「兔子洞效应」损害儿童身心健康，即算法通过持续不断的内容流来吸引用户注意力。",
+      "clean_text": "欧盟将升级对Meta诱使儿童上瘾设计的调查欧盟正准备加强对Meta Platforms Inc.的一项调查，该调查指控其产品对儿童具有成瘾性，因为欧盟正加大对这家美国社交媒体公司的监管压力。知情人士透露，欧盟执行机构欧盟委员会正准备发布初步调查结果，指控Meta公司的Facebook和Instagram 利用剥削性设计技术来让年轻用户上瘾。这些人士表示，监管机构尚未确定调查结果公布日期。该委员会于2024年5月根据《数字服务法》启动这项调查。该调查列出了多项涉嫌违规行为，包括指控Meta的界面通过「兔子洞效应」损害儿童身心健康，即算法通过持续不断的内容流来吸引用户注意力。——彭博社",
+      "datetime": "2026-06-23T14:34:15+00:00",
+      "views": "1.13K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30296",
+      "scraped_at": "2026-06-23T23:00:55.296604",
+      "title": "欧盟升级Meta儿童成瘾调查",
+      "title_options": {
+        "conclusion": "欧盟升级Meta儿童成瘾调查",
+        "attractive": "Meta被指诱儿童上瘾",
+        "minimal": "欧盟 Meta 儿童 调查",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42139",
+      "channel": "zaihuapd",
+      "text": "“开屏广告没了”登热搜，百度高德等取消开屏广告6 月 23 日晚，“开屏广告没了”登上微博热搜。多位网友反映，百度地图、高德地图、网易云音乐等 App 已取消开屏广告，经实测上述 App 均无开屏广告。此前有博主发视频吐槽导航 App 开屏广告影响行车安全。星岛环球网·英文频道·",
+      "clean_text": "“开屏广告没了”登热搜，百度高德等取消开屏广告6 月 23 日晚，“开屏广告没了”登上微博热搜。多位网友反映，百度地图、高德地图、网易云音乐等 App 已取消开屏广告，经实测上述 App 均无开屏广告。此前有博主发视频吐槽导航 App 开屏广告影响行车安全。星岛环球网·英文频道",
+      "datetime": "2026-06-23T14:31:21+00:00",
+      "views": "4.01K",
+      "source_links": [
+        {
+          "text": "星岛环球网",
+          "url": "https://www.stnn.cc/c/2026-06-23/4111913.shtml"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42139",
+      "scraped_at": "2026-06-23T23:00:52.836235",
+      "title": "多款App取消开屏广告",
+      "title_options": {
+        "conclusion": "多款App取消开屏广告",
+        "attractive": "开屏广告取消引热议",
+        "minimal": "开屏广告取消",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30295",
+      "channel": "xhqcankao",
+      "text": "字节跳动新一代豆包AI手机发布时间或延迟知情人士消息，由中兴通讯与字节共同推进的新一代豆包AI手机或较既定发布时间有所延长，究其原因与备案认证流程有关。与普通手机不同，这款产品需要同时闯过两道关口：一是网信部门负责的大模型备案；二是工信部主管的手机终端入网认证。早在2026年1月，字节便已启动新一代豆包 AI 手机的备案认证流程，但第一次申请没通过，随后进行了第二次申请，产品至今仍处于备案状态。若后续审批顺利，新机最快也要等到七至八月才能面世。该机的屏幕供应商已从前一代的深天马，更换为京东方，具体原因暂未知悉。电池则是采用德赛 ATL电芯。手机预计由福日电子旗下中诺通讯承担代工。",
+      "clean_text": "字节跳动新一代豆包AI手机发布时间或延迟知情人士消息，由中兴通讯与字节共同推进的新一代豆包AI手机或较既定发布时间有所延长，究其原因与备案认证流程有关。与普通手机不同，这款产品需要同时闯过两道关口：一是网信部门负责的大模型备案；二是工信部主管的手机终端入网认证。早在2026年1月，字节便已启动新一代豆包 AI 手机的备案认证流程，但第一次申请没通过，随后进行了第二次申请，产品至今仍处于备案状态。若后续审批顺利，新机最快也要等到七至八月才能面世。该机的屏幕供应商已从前一代的深天马，更换为京东方，具体原因暂未知悉。电池则是采用德赛 ATL电芯。手机预计由福日电子旗下中诺通讯承担代工。——蓝鲸新闻",
+      "datetime": "2026-06-23T14:01:33+00:00",
+      "views": "2.26K",
+      "source_links": [
+        {
+          "text": "蓝鲸新闻",
+          "url": "https://s.lanjinger.com/de/1782205795479002529"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30295",
+      "scraped_at": "2026-06-23T23:00:55.296258",
+      "title": "豆包AI手机发布或延迟",
+      "title_options": {
+        "conclusion": "豆包AI手机发布或延迟",
+        "attractive": "豆包AI手机备案未过",
+        "minimal": "豆包AI手机延迟",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42138",
+      "channel": "zaihuapd",
+      "text": "腾讯在 App Store 上架 TenPayGo，面向来华游客提供微信支付扫码服务6 月 21 日，腾讯在 App Store 全区上架支付应用 TenPayGo（版本 1.0），目前仅适配 iPhone 且界面为英文。该应用由腾讯科技（深圳）有限公司开发，主要面向海外来华游客，可在支持微信支付的商户直接扫码付款，覆盖购物、餐饮、交通等日常消费场景，无需兑换现金。此前，腾讯已通过跨境支付平台 TenPay Global 连接多个境外钱包，微信支付“外包内用”已支持 13 个国家和地区超过 40 个境外钱包。TenPayGo 进一步方便了短期来华游客的移动支付。IT之家|观点网|新浪财经·英文频道·",
+      "clean_text": "腾讯在 App Store 上架 TenPayGo，面向来华游客提供微信支付扫码服务6 月 21 日，腾讯在 App Store 全区上架支付应用 TenPayGo（版本 1.0），目前仅适配 iPhone 且界面为英文。该应用由腾讯科技（深圳）有限公司开发，主要面向海外来华游客，可在支持微信支付的商户直接扫码付款，覆盖购物、餐饮、交通等日常消费场景，无需兑换现金。此前，腾讯已通过跨境支付平台 TenPay Global 连接多个境外钱包，微信支付“外包内用”已支持 13 个国家和地区超过 40 个境外钱包。TenPayGo 进一步方便了短期来华游客的移动支付。IT之家|观点网|新浪财经·英文频道",
+      "datetime": "2026-06-23T14:00:36+00:00",
+      "views": "5.76K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/967/455.htm"
+        },
+        {
+          "text": "观点网",
+          "url": "https://www.guandian.cn/article/20260623/568751.html"
+        },
+        {
+          "text": "新浪财经",
+          "url": "https://finance.sina.com.cn/roll/2026-06-23/doc-iniekquu2057777.shtml"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42138",
+      "scraped_at": "2026-06-23T23:00:52.835654",
+      "title": "腾讯上架TenPayGo",
+      "title_options": {
+        "conclusion": "腾讯上架TenPayGo",
+        "attractive": "来华游客扫码支付",
+        "minimal": "TenPayGo上架",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42137",
       "channel": "zaihuapd",
       "text": "x腾讯云 EdgeOne Makers腾讯云 EdgeOne 全新升级 Makers 边缘全栈开发平台正式发布，正式推出 Agent 托管能力帮助 AI Agent 开发者、独立开发者、创业者、AI 产品团队，以及智能客服、知识库、文件解析、Deep Research 等 Agent 场景用户，免去部署、沙箱、记忆管理、链路追踪、弹性伸缩等工程配置烦恼，专注于 Agent 本身的开发，并支持一键上线。活动福利• 所有用户可得 50 万 Token / 月• 参与征文最高可得 5000 万 Token• 点击下方活动链接，使用【】专属邀请码并完成部署，额外获得 50 万 Token具体活动规则及奖励以官方页面为准，使用国内站需要实名，海外站不用国内站点我海外站点我邀请码：51015849·英文频道·",
@@ -1340,6 +1510,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-23T22:59:11.551711"
+  "count": 61,
+  "updated_at": "2026-06-23T23:04:20.468110"
 }
