@@ -8398,5 +8398,54 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-23T09:01:07.549465"
+  },
+  "xhqcankao_30271": {
+    "ai_title": "股东起诉优步董事会",
+    "title_options": {
+      "conclusion": "股东起诉优步董事会",
+      "attractive": "优步被指利润至上",
+      "minimal": "优步股东诉讼"
+    },
+    "generated_at": "2026-06-23T10:01:52.998088"
+  },
+  "zaihuapd_42123": {
+    "ai_title": "微软认错：允许调整任务栏",
+    "title_options": {
+      "conclusion": "微软认错：允许调整任务栏",
+      "attractive": "Win11任务栏可移动了",
+      "minimal": "微软 任务栏 调整",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T10:01:53.103941"
+  },
+  "xhqcankao_30270": {
+    "ai_title": "OpenAI助开源修补漏洞",
+    "title_options": {
+      "conclusion": "OpenAI助开源修补漏洞",
+      "attractive": "AI联手安全公司防漏洞",
+      "minimal": "OpenAI 开源 漏洞 修补",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T10:01:53.169688"
+  },
+  "xhqcankao_30269": {
+    "ai_title": "苹果批准三星生产可折叠屏",
+    "title_options": {
+      "conclusion": "苹果批准三星生产可折叠屏",
+      "attractive": "三星独家供应可折叠iPhone屏",
+      "minimal": "苹果可折叠屏获批",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T10:01:54.157080"
+  },
+  "zaihuapd_42122": {
+    "ai_title": "OpenAI扩展Daybreak安全计划",
+    "title_options": {
+      "conclusion": "OpenAI扩展Daybreak安全计划",
+      "attractive": "AI助开源修复漏洞",
+      "minimal": "Daybreak安全计划扩展",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T10:01:54.262777"
   }
 }

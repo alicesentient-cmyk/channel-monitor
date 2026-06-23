@@ -1,6 +1,127 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30271",
+      "channel": "xhqcankao",
+      "text": "股东就性侵及其他事件起诉优步董事会一项由底特律养老基金主导的诉讼指控优步管理层及其董事会将利润置于合规与安全之上，这些决定使公司及其股东面临风险。该诉讼于周一在旧金山美国加利福尼亚北区联邦地区法院提起，指控优步是一家屡犯合规问题的违规者，且明知故犯地走捷径。根据诉状，这种合规文化的缺失已导致声称遭到司机性侵犯和骚扰的受害者提起了数千起诉讼。该诉讼将CEO科斯罗萨西列为被告，声称董事会成员因无视对合规与安全失败的反复警告而违反了其对该公司及其股东的信托义务。原告希望优步领导层就所声称的损害对公司进行个人赔偿，返还他们收到的某些报酬，并实施更强有力的监督与合规措施。",
+      "clean_text": "股东就性侵及其他事件起诉优步董事会一项由底特律养老基金主导的诉讼指控优步管理层及其董事会将利润置于合规与安全之上，这些决定使公司及其股东面临风险。该诉讼于周一在旧金山美国加利福尼亚北区联邦地区法院提起，指控优步是一家屡犯合规问题的违规者，且明知故犯地走捷径。根据诉状，这种合规文化的缺失已导致声称遭到司机性侵犯和骚扰的受害者提起了数千起诉讼。该诉讼将CEO科斯罗萨西列为被告，声称董事会成员因无视对合规与安全失败的反复警告而违反了其对该公司及其股东的信托义务。原告希望优步领导层就所声称的损害对公司进行个人赔偿，返还他们收到的某些报酬，并实施更强有力的监督与合规措施。——Techcrunch",
+      "datetime": "2026-06-23T02:00:33+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30271",
+      "scraped_at": "2026-06-23T10:01:04.127834",
+      "title": "股东起诉优步董事会",
+      "title_options": {
+        "conclusion": "股东起诉优步董事会",
+        "attractive": "优步被指利润至上",
+        "minimal": "优步股东诉讼"
+      }
+    },
+    {
+      "id": "zaihuapd_42123",
+      "channel": "zaihuapd",
+      "text": "微软认错：将重新允许用户调整 Windows 11 任务栏位置以及可选择灵活暂停更新  在 2021 年微软发布 Windows 11 时，就有诸多用户吐槽不支持移动任务栏位置，当时微软称更改任务栏位置不重要，团队要关注其他功能和需求。现在微软终于承认之前的做法是错误的。  更新体验全面优化，用户可在初始设备设置时跳过更新、自由选择重启或关机而不强制安装待更新包，并获得更灵活的延长暂停更新选项以减少自动重启和提醒。  其他相关更新： 更谨慎整合 Copilot 人工智能功能，从 Snipping Tool、照片、Widgets…",
+      "clean_text": "📱微软认错：将重新允许用户调整 Windows 11 任务栏位置以及可选择灵活暂停更新  在 2021 年微软发布 Windows 11 时，就有诸多用户吐槽不支持移动任务栏位置，当时微软称更改任务栏位置不重要，团队要关注其他功能和需求。现在微软终于承认之前的做法是错误的。  更新体验全面优化，用户可在初始设备设置时跳过更新、自由选择重启或关机而不强制安装待更新包，并获得更灵活的延长暂停更新选项以减少自动重启和提醒。  其他相关更新： 更谨慎整合 Copilot 人工智能功能，从 Snipping Tool、照片、Widgets…",
+      "datetime": "2026-06-23T01:41:11+00:00",
+      "views": "2.29K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42123",
+      "scraped_at": "2026-06-23T10:01:01.725501",
+      "title": "微软认错：允许调整任务栏",
+      "title_options": {
+        "conclusion": "微软认错：允许调整任务栏",
+        "attractive": "Win11任务栏可移动了",
+        "minimal": "微软 任务栏 调整",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30270",
+      "channel": "xhqcankao",
+      "text": "OpenAI新计划将帮助发现并修补开源漏洞当地时间周一，人工智能公司OpenAI宣布了一项新计划，旨在帮助开源社区提升其网络安全水平并抵御漏洞。 “Patch the Planet” 计划将由OpenAI与安全公司Trail of Bits 合作开展，旨在帮助开源维护者保护其项目安全。OpenAI公司表示，Trail of Bits 的安全人员将直接与开源维护者合作，审查潜在的代码问题。 OpenAI 公司的安全工具将用于辅助这一过程。OpenAI公司周一表示：“安全工程师会在漏洞报告提交给维护人员之前进行审查，与项目合作开发补丁和测试，并构建可重用工作流，帮助团队在首次修复落地后持续改进安全性。”",
+      "clean_text": "OpenAI新计划将帮助发现并修补开源漏洞当地时间周一，人工智能公司OpenAI宣布了一项新计划，旨在帮助开源社区提升其网络安全水平并抵御漏洞。 “Patch the Planet” 计划将由OpenAI与安全公司Trail of Bits 合作开展，旨在帮助开源维护者保护其项目安全。OpenAI公司表示，Trail of Bits 的安全人员将直接与开源维护者合作，审查潜在的代码问题。 OpenAI 公司的安全工具将用于辅助这一过程。OpenAI公司周一表示：“安全工程师会在漏洞报告提交给维护人员之前进行审查，与项目合作开发补丁和测试，并构建可重用工作流，帮助团队在首次修复落地后持续改进安全性。”——Techcrunch",
+      "datetime": "2026-06-23T01:32:15+00:00",
+      "views": "1.03K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30270",
+      "scraped_at": "2026-06-23T10:01:04.127513",
+      "title": "OpenAI助开源修补漏洞",
+      "title_options": {
+        "conclusion": "OpenAI助开源修补漏洞",
+        "attractive": "AI联手安全公司防漏洞",
+        "minimal": "OpenAI 开源 漏洞 修补",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30269",
+      "channel": "xhqcankao",
+      "text": "苹果批准可折叠iPhone的OLED面板生产三星显示已获得苹果公司批准，开始为苹果首款可折叠iPhone进行OLED面板的模组生产。据悉，三星显示已开始运营其在越南的部分后端生产线，以履行今年交付约 300万片面板的初步订单。模组生产批准要求供应商证明最终组装质量和量产稳定性，而苹果的门槛据称是至少70%的良率。三星显示在实现最终良率超过80%后已通过该标准。三星显示根据一项为期三年的协议，是可折叠iPhone的OLED面板独家供应商，这意味着在此期间苹果不会从其他显示制造商采购可折叠 OLED 面板。后端加工正在三星显示越南工厂进行，包括在最终检验和发货前添加驱动电路、柔性印制电路板和保护组件。",
+      "clean_text": "苹果批准可折叠iPhone的OLED面板生产三星显示已获得苹果公司批准，开始为苹果首款可折叠iPhone进行OLED面板的模组生产。据悉，三星显示已开始运营其在越南的部分后端生产线，以履行今年交付约 300万片面板的初步订单。模组生产批准要求供应商证明最终组装质量和量产稳定性，而苹果的门槛据称是至少70%的良率。三星显示在实现最终良率超过80%后已通过该标准。三星显示根据一项为期三年的协议，是可折叠iPhone的OLED面板独家供应商，这意味着在此期间苹果不会从其他显示制造商采购可折叠 OLED 面板。后端加工正在三星显示越南工厂进行，包括在最终检验和发货前添加驱动电路、柔性印制电路板和保护组件。——Macrumors",
+      "datetime": "2026-06-23T01:03:31+00:00",
+      "views": "1.81K",
+      "source_links": [
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30269",
+      "scraped_at": "2026-06-23T10:01:04.127142",
+      "title": "苹果批准三星生产可折叠屏",
+      "title_options": {
+        "conclusion": "苹果批准三星生产可折叠屏",
+        "attractive": "三星独家供应可折叠iPhone屏",
+        "minimal": "苹果可折叠屏获批",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42122",
+      "channel": "zaihuapd",
+      "text": "OpenAI 扩展 Daybreak 安全计划，推动 AI 辅助开源漏洞修复OpenAI 宣布扩展 Daybreak 网络安全计划，推出 Patch the Planet 倡议并与 Trail of Bits 等机构合作，用 AI 模型配合人工审核帮助开源项目修复漏洞。目前已覆盖 cURL、Go、Python 等 30 多个项目，发现数百安全问题并合并数十补丁，同时在 Linux、OpenBSD、Chrome、Safari、Firefox 等系统中确认了多个漏洞。同步更新 Codex Security 插件并正式发布 GPT-5.5-Cyber 模型，在 CyberGym 基准测试中达到 85.6%。OpenAI 启动 Daybreak Cyber Partner Program，与安全软件和服务提供商合作将防御能力整合到企业产品中；另通过 Trusted Access for Cyber 与澳大利亚、加拿大、日本及欧盟 ENISA 等政府及机构开展合作。OpenAI(1,2)·英文频道·",
+      "clean_text": "OpenAI 扩展 Daybreak 安全计划，推动 AI 辅助开源漏洞修复OpenAI 宣布扩展 Daybreak 网络安全计划，推出 Patch the Planet 倡议并与 Trail of Bits 等机构合作，用 AI 模型配合人工审核帮助开源项目修复漏洞。目前已覆盖 cURL、Go、Python 等 30 多个项目，发现数百安全问题并合并数十补丁，同时在 Linux、OpenBSD、Chrome、Safari、Firefox 等系统中确认了多个漏洞。同步更新 Codex Security 插件并正式发布 GPT-5.5-Cyber 模型，在 CyberGym 基准测试中达到 85.6%。OpenAI 启动 Daybreak Cyber Partner Program，与安全软件和服务提供商合作将防御能力整合到企业产品中；另通过 Trusted Access for Cyber 与澳大利亚、加拿大、日本及欧盟 ENISA 等政府及机构开展合作。OpenAI(1,2)·英文频道",
+      "datetime": "2026-06-23T01:01:17+00:00",
+      "views": "4.23K",
+      "source_links": [
+        {
+          "text": "1",
+          "url": "https://openai.com/index/patch-the-planet/"
+        },
+        {
+          "text": "2",
+          "url": "https://openai.com/index/daybreak-securing-the-world/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42122",
+      "scraped_at": "2026-06-23T10:01:01.724951",
+      "title": "OpenAI扩展Daybreak安全计划",
+      "title_options": {
+        "conclusion": "OpenAI扩展Daybreak安全计划",
+        "attractive": "AI助开源修复漏洞",
+        "minimal": "Daybreak安全计划扩展",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30268",
       "channel": "xhqcankao",
       "text": "美监管机构调查特斯拉辅助驾驶致命事故美国国家公路交通安全管理局（NHTSA）周一表示，已就一起特斯拉事故展开特别碰撞调查。在这起事故中，一辆特斯拉 Model 3 在得克萨斯州凯蒂市撞入一栋住宅，导致76岁的玛莎·阿维拉死亡。得州哈里斯县当局表示，司机迈克尔·巴特勒正在事故现场配合调查，并称事发时他正在使用特斯拉的半自动辅助驾驶系统。随后，他驾驶的车辆冲出行车道、撞入休斯顿郊区的住宅。自2016年以来，NHTSA 已对超过36起特斯拉特别碰撞事故展开调查，这些事故均涉及该公司的“高级辅助驾驶系统”或半自动驾驶系统。2016年，该系统成为特斯拉新车的标准配置。",
@@ -1039,6 +1160,6 @@
       }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-06-23T09:56:48.869653"
+  "count": 47,
+  "updated_at": "2026-06-23T10:01:54.277538"
 }
