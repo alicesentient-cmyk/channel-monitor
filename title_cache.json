@@ -8863,5 +8863,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-23T23:04:20.452085"
+  },
+  "zaihuapd_42141": {
+    "ai_title": "灵晟超算登顶TOP500",
+    "title_options": {
+      "conclusion": "灵晟超算登顶TOP500",
+      "attractive": "时隔八年重回世界第一",
+      "minimal": "灵晟超算登顶",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T00:05:16.465223"
+  },
+  "xhqcankao_30298": {
+    "ai_title": "维基百科禁止AI编辑",
+    "title_options": {
+      "conclusion": "维基百科禁止AI编辑",
+      "attractive": "AI幻觉严重，维基禁用",
+      "minimal": "维基百科 AI 禁编",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T00:05:16.584989"
+  },
+  "xhqcankao_30299": {
+    "ai_title": "三星首发UFS 5.0方案",
+    "title_options": {
+      "conclusion": "三星首发UFS 5.0方案",
+      "attractive": "UFS 5.0速度翻倍能效升四成",
+      "minimal": "三星UFS 5.0全球首发",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T00:05:16.655369"
   }
 }
