@@ -8893,5 +8893,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T00:05:16.655369"
+  },
+  "xhqcankao_30300": {
+    "ai_title": "加州车主起诉AI抬高油价",
+    "title_options": {
+      "conclusion": "加州车主起诉AI抬高油价",
+      "attractive": "AI工具让油价每加仑涨30美分",
+      "minimal": "AI抬高油价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T01:01:17.159389"
+  },
+  "zaihuapd_42142": {
+    "ai_title": "普通人切牌需14次洗牌",
+    "title_options": {
+      "conclusion": "普通人切牌需14次洗牌",
+      "attractive": "你洗牌14次才够随机",
+      "minimal": "14次洗牌随机化"
+    },
+    "generated_at": "2026-06-24T01:01:17.160755"
   }
 }
