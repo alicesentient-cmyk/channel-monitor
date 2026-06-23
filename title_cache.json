@@ -8922,5 +8922,15 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T02:02:16.730654"
+  },
+  "xhqcankao_30302": {
+    "ai_title": "德国全境铁路因无线电故障停运",
+    "title_options": {
+      "conclusion": "德国全境铁路因无线电故障停运",
+      "attractive": "德国铁路停运，故障原因曝光",
+      "minimal": "德国铁路停运",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T07:05:41.115449"
   }
 }
