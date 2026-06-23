@@ -1426,28 +1426,6 @@
       }
     },
     {
-      "id": "xhqcankao_30258",
-      "channel": "xhqcankao",
-      "text": "闪迪的3D堆叠专利 揭示闪存算力一体化趋势闪迪披露的一项专利显示，其正探索一个新的3D堆叠方案，将NAND闪存集成到芯片内部，以缓解当前 HBM 供应紧张、容量受限及延迟等问题。其核心思路是，基于CBA技术，直接在主计算芯片下方集成NAND存储单元，该计算芯片可以是GPU或AI处理器，同时在同一中介层上继续配置HBM堆栈，让HBM与NAND二者分工协作",
-      "clean_text": "闪迪的3D堆叠专利 揭示闪存算力一体化趋势闪迪披露的一项专利显示，其正探索一个新的3D堆叠方案，将NAND闪存集成到芯片内部，以缓解当前 HBM 供应紧张、容量受限及延迟等问题。其核心思路是，基于CBA技术，直接在主计算芯片下方集成NAND存储单元，该计算芯片可以是GPU或AI处理器，同时在同一中介层上继续配置HBM堆栈，让HBM与NAND二者分工协作——HBM负责需要即时响应的数据处理，NAND则承担读写操作，及大模型、海量数据集存储任务。这种方案试图结合HBM的高带宽与NAND的大容量、低成本优势，并通过近距离宽通道互联，改善数据传输效率，同时降低成本和功耗压力。——科创板日报",
-      "datetime": "2026-06-22T11:14:02+00:00",
-      "views": "1.77K",
-      "source_links": [
-        {
-          "text": "科创板日报",
-          "url": "https://www.chinastarmarket.cn/detail/2405614"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30258",
-      "scraped_at": "2026-06-22T20:00:27.546629",
-      "title": "闪迪3D堆叠专利",
-      "title_options": {
-        "conclusion": "闪迪3D堆叠专利",
-        "attractive": "NAND集成芯片内",
-        "minimal": "3D堆叠闪存"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1510,6 +1488,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-23T23:10:08.424371"
+  "count": 60,
+  "updated_at": "2026-06-23T23:14:27.917647"
 }
