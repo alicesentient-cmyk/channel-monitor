@@ -8674,5 +8674,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-23T18:05:09.742501"
+  },
+  "zaihuapd_42133": {
+    "ai_title": "SpaceX 2028年发射欧洲火星车",
+    "title_options": {
+      "conclusion": "SpaceX 2028年发射欧洲火星车",
+      "attractive": "火星生命探测任务终定档",
+      "minimal": "SpaceX 欧洲火星车 2028",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T19:00:49.880037"
+  },
+  "xhqcankao_30287": {
+    "ai_title": "火狐市占率跌至3.81%",
+    "title_options": {
+      "conclusion": "火狐市占率跌至3.81%",
+      "attractive": "火狐一年蒸发超三分之一",
+      "minimal": "火狐市占率暴跌",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T19:00:49.938781"
+  },
+  "xhqcankao_30288": {
+    "ai_title": "618增速降至4%",
+    "title_options": {
+      "conclusion": "618增速降至4%",
+      "attractive": "消费疲软，二手平台涨80%",
+      "minimal": "618增速4%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T19:00:49.939941"
+  },
+  "zaihuapd_42132": {
+    "ai_title": "iOS 27 beta 2 引入Sir…",
+    "title_options": {
+      "conclusion": "iOS 27 beta 2 引入Sir…",
+      "attractive": "Siri写作取代旧版工具",
+      "minimal": "Siri写作功能",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T19:00:51.324570"
   }
 }

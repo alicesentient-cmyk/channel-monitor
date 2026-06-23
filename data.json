@@ -1,6 +1,101 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42133",
+      "channel": "zaihuapd",
+      "text": "SpaceX 将于 2028 年发射欧洲火星车，NASA 提供关键硬件支持  美国宇航局（NASA）周四确认，已选定 SpaceX 的“猎鹰重型”火箭执行欧洲航天局（ESA）的“罗莎琳德·富兰克林”号（Rosalind Franklin）火星探测任务。该任务计划于 2028 年底从佛罗里达州肯尼迪航天中心发射，旨在寻找火星地表下可能存在的生命迹象。此次协议的达成标志着该任务在历经 20 多年的曲折、预算调整及国际局势变动导致的多次推迟后，终于明确了最终的发射方案。  作为双方深化合作的一部分，NASA 的…",
+      "clean_text": "SpaceX 将于 2028 年发射欧洲火星车，NASA 提供关键硬件支持  美国宇航局（NASA）周四确认，已选定 SpaceX 的“猎鹰重型”火箭执行欧洲航天局（ESA）的“罗莎琳德·富兰克林”号（Rosalind Franklin）火星探测任务。该任务计划于 2028 年底从佛罗里达州肯尼迪航天中心发射，旨在寻找火星地表下可能存在的生命迹象。此次协议的达成标志着该任务在历经 20 多年的曲折、预算调整及国际局势变动导致的多次推迟后，终于明确了最终的发射方案。  作为双方深化合作的一部分，NASA 的…",
+      "datetime": "2026-06-23T10:47:43+00:00",
+      "views": "1.7K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42133",
+      "scraped_at": "2026-06-23T19:00:37.417854",
+      "title": "SpaceX 2028年发射欧洲火星车",
+      "title_options": {
+        "conclusion": "SpaceX 2028年发射欧洲火星车",
+        "attractive": "火星生命探测任务终定档",
+        "minimal": "SpaceX 欧洲火星车 2028",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30288",
+      "channel": "xhqcankao",
+      "text": "中国“618”电商节增速大幅放缓 消费疲软态势延续今年中国“618”年中购物节期间的线上销售增速大幅降温，全网电商线上销售总额同比仅增长4%，远低于去年同期15.2%的增幅，再次凸显国内消费依然疲弱的结构性压力。赛顿统计显示，今年“618”中国线上零售总额约9340亿元人民币。高盛指出，高科技与人工智能板块与房地产、传统消费领域分化拉大，并下调中国二季度GDP增速预期至4.5%。在消费趋于理性背景下，二手平台销售额同比增长近80%，服务类消费需求活跃。高盛警告，AI技术普及或带来岗位替代，加剧消费恢复压力。",
+      "clean_text": "中国“618”电商节增速大幅放缓 消费疲软态势延续今年中国“618”年中购物节期间的线上销售增速大幅降温，全网电商线上销售总额同比仅增长4%，远低于去年同期15.2%的增幅，再次凸显国内消费依然疲弱的结构性压力。赛顿统计显示，今年“618”中国线上零售总额约9340亿元人民币。高盛指出，高科技与人工智能板块与房地产、传统消费领域分化拉大，并下调中国二季度GDP增速预期至4.5%。在消费趋于理性背景下，二手平台销售额同比增长近80%，服务类消费需求活跃。高盛警告，AI技术普及或带来岗位替代，加剧消费恢复压力。——cnBeta",
+      "datetime": "2026-06-23T10:33:24+00:00",
+      "views": "1.38K",
+      "source_links": [
+        {
+          "text": "cnBeta",
+          "url": "https://www.cnbeta.com.tw/articles/tech/1566614.htm"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30288",
+      "scraped_at": "2026-06-23T19:00:39.382628",
+      "title": "618增速降至4%",
+      "title_options": {
+        "conclusion": "618增速降至4%",
+        "attractive": "消费疲软，二手平台涨80%",
+        "minimal": "618增速4%",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30287",
+      "channel": "xhqcankao",
+      "text": "火狐Firefox全球市占率暴跌至3.81%网络流量分析机构 Statcounter 最新数据显示，Firefox 浏览器全球桌面端市场占有率从2025年5月的5.88%大幅下滑至2026年5月的3.81%，一年内蒸发逾三分之一，非Chromium阵营最后堡垒正面临前所未有的生存危机。Chrome以74.93%稳居第一，Edge以9.94%位列第二，Safari约5.32%排名第三，Firefox以3.81%跌至第四，其后是Opera(1.97%)和三星 Internet(1.33%)。其中排名前两位的Chrome 和 Edge均基于Chromium架构，再加上同样使用该核心的Brave和Opera，Chromium阵营合计占据了超过86%桌面市场份额。Safari虽然排名第三，但苹果早已停止Windows版更新，因此Firefox是目前唯一不基于Chromium、且在主流平台上具备一定规模影响力的浏览器。",
+      "clean_text": "火狐Firefox全球市占率暴跌至3.81%网络流量分析机构 Statcounter 最新数据显示，Firefox 浏览器全球桌面端市场占有率从2025年5月的5.88%大幅下滑至2026年5月的3.81%，一年内蒸发逾三分之一，非Chromium阵营最后堡垒正面临前所未有的生存危机。Chrome以74.93%稳居第一，Edge以9.94%位列第二，Safari约5.32%排名第三，Firefox以3.81%跌至第四，其后是Opera(1.97%)和三星 Internet(1.33%)。其中排名前两位的Chrome 和 Edge均基于Chromium架构，再加上同样使用该核心的Brave和Opera，Chromium阵营合计占据了超过86%桌面市场份额。Safari虽然排名第三，但苹果早已停止Windows版更新，因此Firefox是目前唯一不基于Chromium、且在主流平台上具备一定规模影响力的浏览器。——快科技（中国）",
+      "datetime": "2026-06-23T10:03:21+00:00",
+      "views": "2.47K",
+      "source_links": [
+        {
+          "text": "快科技",
+          "url": "https://news.mydrivers.com/1/1131/1131481.htm"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30287",
+      "scraped_at": "2026-06-23T19:00:39.382273",
+      "title": "火狐市占率跌至3.81%",
+      "title_options": {
+        "conclusion": "火狐市占率跌至3.81%",
+        "attractive": "火狐一年蒸发超三分之一",
+        "minimal": "火狐市占率暴跌",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42132",
+      "channel": "zaihuapd",
+      "text": "iOS 27 beta 2 引入 Write with Siri 取代旧版写作工具苹果在 iOS 27 第二个开发者测试版中上线了 Write with Siri 功能，取代 iOS 18 时期独立的 Apple Intelligence Writing Tools。用户在编辑文本时，键盘会直接提示调用 Siri，通过自然语言指令来生成内容、校对或改写文档。新版移除了旧版带有固定风格按钮的面板，与 Siri 深度整合并可利用个人上下文信息。改写后的文本会以前后对比形式呈现，并支持撤销或继续追问。用户也可直接通过语音指令触发，无需手动点击按钮。9To5Mac·英文频道·",
+      "clean_text": "iOS 27 beta 2 引入 Write with Siri 取代旧版写作工具苹果在 iOS 27 第二个开发者测试版中上线了 Write with Siri 功能，取代 iOS 18 时期独立的 Apple Intelligence Writing Tools。用户在编辑文本时，键盘会直接提示调用 Siri，通过自然语言指令来生成内容、校对或改写文档。新版移除了旧版带有固定风格按钮的面板，与 Siri 深度整合并可利用个人上下文信息。改写后的文本会以前后对比形式呈现，并支持撤销或继续追问。用户也可直接通过语音指令触发，无需手动点击按钮。9To5Mac·英文频道",
+      "datetime": "2026-06-23T10:02:43+00:00",
+      "views": "4.66K",
+      "source_links": [
+        {
+          "text": "9To5Mac",
+          "url": "https://9to5mac.com/2026/06/22/ios-27-beta-write-with-siri/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42132",
+      "scraped_at": "2026-06-23T19:00:37.417284",
+      "title": "iOS 27 beta 2 引入Sir…",
+      "title_options": {
+        "conclusion": "iOS 27 beta 2 引入Sir…",
+        "attractive": "Siri写作取代旧版工具",
+        "minimal": "Siri写作功能",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30286",
       "channel": "xhqcankao",
       "text": "AMD新版驱动程序为旧款显卡带来FSR 4.1AMD今日正式为Radeon RX 7000系列显卡带来 FSR 4.1 超分辨率技术。此次更新意味着，搭载这些使用 RDNA 3 图形架构的老款显卡的PC，将能够在游戏中看到诸如更好的画质和更流畅的游戏体验等改进。AMD曾在5月承诺，会将FSR 4.1的支持引入RX 7000系列显卡。AMD还计划将FSR 4.1引入RDNA 3 APU；AMD的 Jack Huynh表示，公司正在“开发轻量级机器学习模型，以将FSR 4.1带到更多设备上”。公司还将在2027年初的某个时候将FSR 4.1引入 RDNA 2显卡。据 Huynh 称，FSR 4.1目前已在 300多款游戏中可用。而且还有更多游戏即将支持。",
@@ -1258,6 +1353,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-06-23T18:55:44.585250"
+  "count": 56,
+  "updated_at": "2026-06-23T19:00:51.339262"
 }
