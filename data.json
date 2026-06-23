@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30266",
+      "channel": "xhqcankao",
+      "text": "《泰坦之旅》等多款安卓游戏限时促销《海绵宝宝：比基尼海滩之战》原价9.99美元，限时促销0.1美元。购买链接：play商店《Wreckfest - 撞车大赛》原价10.99美元，限时促销0.1美元。购买链接：play商店《泰坦之旅》原价10.99美元，限时促销0.1美元。购买链接：play商店",
+      "clean_text": "《泰坦之旅》等多款安卓游戏限时促销《海绵宝宝：比基尼海滩之战》原价9.99美元，限时促销0.1美元。购买链接：play商店《Wreckfest - 撞车大赛》原价10.99美元，限时促销0.1美元。购买链接：play商店《泰坦之旅》原价10.99美元，限时促销0.1美元。购买链接：play商店",
+      "datetime": "2026-06-22T23:32:03+00:00",
+      "views": "700",
+      "source_links": [
+        {
+          "text": "play商店",
+          "url": "https://play.google.com/store/apps/details?id=com.hg.bfbb"
+        },
+        {
+          "text": "play商店",
+          "url": "https://play.google.com/store/apps/details?id=com.hg.wreckfest"
+        },
+        {
+          "text": "play商店",
+          "url": "https://play.google.com/store/apps/details?id=com.dotemu.titanquest"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30266",
+      "scraped_at": "2026-06-23T08:00:43.740844",
+      "title": "多款安卓游戏限时0.1美元",
+      "title_options": {
+        "conclusion": "多款安卓游戏限时0.1美元",
+        "attractive": "《海绵宝宝》等游戏0.1美元促销",
+        "minimal": "安卓游戏0.1美元促销",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30265",
       "channel": "xhqcankao",
       "text": "美国设定2028年科研级量子计算机突破目标特朗普周一签署行政命令，要求加快建设用于科学研究的高性能量子计算机，加速提升政府系统应对相关网络安全威胁的能力，从而强化美国在这一关键技术竞赛中的领先地位。此次签署了两项行政命令，其中一项指示包括能源部在内的联邦机构与私营部门及学术界合作，在2028年前部署一台能够用于科学研究的量子计算机。另外一项旨在增强美国政府抵御量子计算机驱动网络攻击的能力，提出到2030年或2031年前，将关键政府计算系统全面迁移至 “后量子密码学” 体系的目标。相关政策方案还要求各联邦机构制定未来五年的部署规划，加快推进量子传感器和量子网络等新一代量子技术应用落地。",
@@ -958,6 +989,6 @@
       }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-06-23T08:00:02.111152"
+  "count": 40,
+  "updated_at": "2026-06-23T08:05:06.829699"
 }
