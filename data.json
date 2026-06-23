@@ -1255,29 +1255,6 @@
       }
     },
     {
-      "id": "xhqcankao_30256",
-      "channel": "xhqcankao",
-      "text": "微软CEO呼吁打破AI巨头垄断，转向廉价模型、强化用户选择权微软CEO纳德拉呼吁改变“AI大模型竞赛被少数公司主导”的现状，强调AI应转向更便宜的模型、更强的用户控制权，以及能够赢得公众信任的叙事。纳德拉概述了他的愿景：企业和消费者将拥有更大的自由度，可以在各种人工智能系统之间进行选择，而不是依赖少数几家占据主导地位的供应商。此前媒体报道称，微软公司正在将其智能体产品Copilot Cowork转向“按使用量计费”模式，并正在考虑采用DeepSeek V4等开源模型，以解决“AI太贵”的问题。",
-      "clean_text": "微软CEO呼吁打破AI巨头垄断，转向廉价模型、强化用户选择权微软CEO纳德拉呼吁改变“AI大模型竞赛被少数公司主导”的现状，强调AI应转向更便宜的模型、更强的用户控制权，以及能够赢得公众信任的叙事。纳德拉概述了他的愿景：企业和消费者将拥有更大的自由度，可以在各种人工智能系统之间进行选择，而不是依赖少数几家占据主导地位的供应商。此前媒体报道称，微软公司正在将其智能体产品Copilot Cowork转向“按使用量计费”模式，并正在考虑采用DeepSeek V4等开源模型，以解决“AI太贵”的问题。——财联社",
-      "datetime": "2026-06-22T08:31:00+00:00",
-      "views": "1.55K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://www.cls.cn/detail/2405570"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30256",
-      "scraped_at": "2026-06-22T17:00:44.946386",
-      "title": "微软CEO呼吁打破AI垄断",
-      "title_options": {
-        "conclusion": "微软CEO呼吁打破AI垄断",
-        "attractive": "AI太贵？微软转向廉价模型",
-        "minimal": "微软CEO呼吁打破垄断",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1309,6 +1286,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-23T20:26:56.158249"
+  "count": 54,
+  "updated_at": "2026-06-23T20:31:59.059651"
 }
