@@ -1186,37 +1186,6 @@
       }
     },
     {
-      "id": "zaihuapd_42098",
-      "channel": "zaihuapd",
-      "text": "苹果钱包数字身份或用于 AI 模型身份验证苹果钱包中的数字身份证功能可能很快迎来新用途：帮助 AI 公司进行用户国籍验证。有分析指出，Anthropic 或会利用该功能来筛查 Claude 用户，以确保只有美国公民能访问被管制的高阶模型。此前，Anthropic 曾使用苹果的年龄验证 API，这为采用数字 ID 提供了先例。Fable 5 和 Mythos 5 等 Claude 模型因美国出口管制而暂停向外国公民开放，原因是被发现存在越狱漏洞。若 Anthropic 能可靠验证用户国籍，上述模型有望恢复。不过，这一方案将排除没有 iPhone、护照或所在地区不支持钱包驾照的用户。9To5Mac·英文频道·",
-      "clean_text": "苹果钱包数字身份或用于 AI 模型身份验证苹果钱包中的数字身份证功能可能很快迎来新用途：帮助 AI 公司进行用户国籍验证。有分析指出，Anthropic 或会利用该功能来筛查 Claude 用户，以确保只有美国公民能访问被管制的高阶模型。此前，Anthropic 曾使用苹果的年龄验证 API，这为采用数字 ID 提供了先例。Fable 5 和 Mythos 5 等 Claude 模型因美国出口管制而暂停向外国公民开放，原因是被发现存在越狱漏洞。若 Anthropic 能可靠验证用户国籍，上述模型有望恢复。不过，这一方案将排除没有 iPhone、护照或所在地区不支持钱包驾照的用户。9To5Mac·英文频道",
-      "datetime": "2026-06-22T03:15:34+00:00",
-      "views": "3.91K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/06/21/apple-wallets-digital-id-feature-could-potentially-have-a-major-new-use-case-soon/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42098",
-      "scraped_at": "2026-06-22T12:00:30.676207",
-      "title": "苹果钱包验证AI用户国籍",
-      "title_options": {
-        "conclusion": "苹果钱包验证AI用户国籍",
-        "attractive": "无iPhone无法访问Claude",
-        "minimal": "苹果钱包AI验证",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1248,6 +1217,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-06-23T15:11:39.596083"
+  "count": 50,
+  "updated_at": "2026-06-23T15:16:43.430711"
 }
