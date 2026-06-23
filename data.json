@@ -1132,39 +1132,8 @@
         "minimal": "稀土磁铁对日出口降34%",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42096",
-      "channel": "zaihuapd",
-      "text": "香港争取扩大内地额度并开放港股 IPO 予内地投资者香港正与内地监管机关磋商扩大互联互通机制，拟降低合资格投资者门槛、提高内地投资额度、扩大可投资产品范围，并研究允许内地散户认购香港新股（IPO），同时为上海科创板拓宽跨境投资渠道。财政司司长陈茂波表示，将跨境资金纳入合规框架可消除北京疑虑，合法投资仍受鼓励。去年经港股通南下的净流入超过 1.4 万亿港元，创互联互通机制启动以来新高。Bloomberg·英文频道·",
-      "clean_text": "香港争取扩大内地额度并开放港股 IPO 予内地投资者香港正与内地监管机关磋商扩大互联互通机制，拟降低合资格投资者门槛、提高内地投资额度、扩大可投资产品范围，并研究允许内地散户认购香港新股（IPO），同时为上海科创板拓宽跨境投资渠道。财政司司长陈茂波表示，将跨境资金纳入合规框架可消除北京疑虑，合法投资仍受鼓励。去年经港股通南下的净流入超过 1.4 万亿港元，创互联互通机制启动以来新高。Bloomberg·英文频道",
-      "datetime": "2026-06-22T01:18:39+00:00",
-      "views": "3.44K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-22/hong-kong-seeks-more-investment-quotas-ipo-access-for-chinese"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42096",
-      "scraped_at": "2026-06-22T10:00:16.168415",
-      "title": "香港拟扩大内地投资额度",
-      "title_options": {
-        "conclusion": "香港拟扩大内地投资额度",
-        "attractive": "内地散户可买港股IPO",
-        "minimal": "港股通额度扩大",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-06-23T13:14:20.000570"
+  "count": 46,
+  "updated_at": "2026-06-23T13:19:23.965226"
 }
