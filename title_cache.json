@@ -8574,5 +8574,45 @@
       "minimal": "豆包Seedance2.5发布"
     },
     "generated_at": "2026-06-23T15:01:31.608383"
+  },
+  "zaihuapd_42129": {
+    "ai_title": "美机器人依赖中国部件",
+    "title_options": {
+      "conclusion": "美机器人依赖中国部件",
+      "attractive": "美机器人成本可降三分之二",
+      "minimal": "美机器人 中国供应链",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T16:02:26.567986"
+  },
+  "xhqcankao_30282": {
+    "ai_title": "三星HBM4销售额破10亿美元",
+    "title_options": {
+      "conclusion": "三星HBM4销售额破10亿美元",
+      "attractive": "HBM4四个月销售额破10亿",
+      "minimal": "三星HBM4 10亿美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T16:02:26.728609"
+  },
+  "zaihuapd_42128": {
+    "ai_title": "四部门印发指南，明确12项教育发力点",
+    "title_options": {
+      "conclusion": "四部门印发指南，明确12项教育发力点",
+      "attractive": "未成年人教育12项发力点公布",
+      "minimal": "四部门指南12项发力点",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T16:02:26.929834"
+  },
+  "xhqcankao_30281": {
+    "ai_title": "Steam主机起售价1049美元",
+    "title_options": {
+      "conclusion": "Steam主机起售价1049美元",
+      "attractive": "Steam主机售价1049美元起",
+      "minimal": "Steam主机1049美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T16:02:27.567946"
   }
 }
