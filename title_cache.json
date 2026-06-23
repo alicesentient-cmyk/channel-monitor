@@ -8447,5 +8447,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-23T10:01:54.262777"
+  },
+  "xhqcankao_30272": {
+    "ai_title": "英伟达新平台实现100%液冷",
+    "title_options": {
+      "conclusion": "英伟达新平台实现100%液冷",
+      "attractive": "45℃液冷能效双降",
+      "minimal": "英伟达100%液冷"
+    },
+    "generated_at": "2026-06-23T11:02:44.974548"
+  },
+  "zaihuapd_42124": {
+    "ai_title": "LG电视近半应用含代理SDK",
+    "title_options": {
+      "conclusion": "LG电视近半应用含代理SDK",
+      "attractive": "电视变代理，关后仍运行",
+      "minimal": "LG电视代理SDK",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T11:02:45.277158"
   }
 }
