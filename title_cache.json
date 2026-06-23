@@ -8466,5 +8466,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-23T11:02:45.277158"
+  },
+  "xhqcankao_30273": {
+    "ai_title": "美光入股Anthropic",
+    "title_options": {
+      "conclusion": "美光入股Anthropic",
+      "attractive": "美光与Anthropic合作",
+      "minimal": "美光Anthropic供应",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T12:03:29.933893"
+  },
+  "zaihuapd_42125": {
+    "ai_title": "OpenAI推AI动画电影",
+    "title_options": {
+      "conclusion": "OpenAI推AI动画电影",
+      "attractive": "AI动画成本不到3000万",
+      "minimal": "AI动画电影《Critterz》"
+    },
+    "generated_at": "2026-06-23T12:03:30.011117"
+  },
+  "xhqcankao_30274": {
+    "ai_title": "加部长称中企愿在加建厂",
+    "title_options": {
+      "conclusion": "加部长称中企愿在加建厂",
+      "attractive": "四家中国车企拟赴加建厂",
+      "minimal": "中企加国建厂合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T12:03:30.454036"
   }
 }
