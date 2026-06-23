@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30286",
+      "channel": "xhqcankao",
+      "text": "AMD新版驱动程序为旧款显卡带来FSR 4.1AMD今日正式为Radeon RX 7000系列显卡带来 FSR 4.1 超分辨率技术。此次更新意味着，搭载这些使用 RDNA 3 图形架构的老款显卡的PC，将能够在游戏中看到诸如更好的画质和更流畅的游戏体验等改进。AMD曾在5月承诺，会将FSR 4.1的支持引入RX 7000系列显卡。AMD还计划将FSR 4.1引入RDNA 3 APU；AMD的 Jack Huynh表示，公司正在“开发轻量级机器学习模型，以将FSR 4.1带到更多设备上”。公司还将在2027年初的某个时候将FSR 4.1引入 RDNA 2显卡。据 Huynh 称，FSR 4.1目前已在 300多款游戏中可用。而且还有更多游戏即将支持。",
+      "clean_text": "AMD新版驱动程序为旧款显卡带来FSR 4.1AMD今日正式为Radeon RX 7000系列显卡带来 FSR 4.1 超分辨率技术。此次更新意味着，搭载这些使用 RDNA 3 图形架构的老款显卡的PC，将能够在游戏中看到诸如更好的画质和更流畅的游戏体验等改进。AMD曾在5月承诺，会将FSR 4.1的支持引入RX 7000系列显卡。AMD还计划将FSR 4.1引入RDNA 3 APU；AMD的 Jack Huynh表示，公司正在“开发轻量级机器学习模型，以将FSR 4.1带到更多设备上”。公司还将在2027年初的某个时候将FSR 4.1引入 RDNA 2显卡。据 Huynh 称，FSR 4.1目前已在 300多款游戏中可用。而且还有更多游戏即将支持。——Theverge",
+      "datetime": "2026-06-23T09:33:54+00:00",
+      "views": "1.23K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30286",
+      "scraped_at": "2026-06-23T18:00:46.596880",
+      "title": "AMD为RX 7000推送FSR 4.1",
+      "title_options": {
+        "conclusion": "AMD为RX 7000推送FSR 4.1",
+        "attractive": "旧显卡获FSR 4.1画质提升",
+        "minimal": "RX 7000 FSR 4.1",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42131",
+      "channel": "zaihuapd",
+      "text": "三星发布 UFS 5.0：面向端侧 AI，带宽高达 10.8 GB/s，计划四季度量产三星电子宣布已开发面向下一代端侧 AI 应用的 UFS 5.0 闪存存储解决方案，称其为目前业界速度最快的 UFS 产品。方案基于 JEDEC 最新嵌入式存储接口标准，顺序读取速度最高 10.8 GB/s，顺序写入速度最高 9.5 GB/s，较 UFS 4.1 标准提升超过一倍；功耗效率较三星 UFS 4.1 方案提升超过 40%，封装尺寸缩小 16.7%。该方案计划于今年第四季度量产，容量最高达 1 TB，应用范围涵盖旗舰手机、XR 头显和 AI 可穿戴设备。Samsung·英文频道·",
+      "clean_text": "三星发布 UFS 5.0：面向端侧 AI，带宽高达 10.8 GB/s，计划四季度量产三星电子宣布已开发面向下一代端侧 AI 应用的 UFS 5.0 闪存存储解决方案，称其为目前业界速度最快的 UFS 产品。方案基于 JEDEC 最新嵌入式存储接口标准，顺序读取速度最高 10.8 GB/s，顺序写入速度最高 9.5 GB/s，较 UFS 4.1 标准提升超过一倍；功耗效率较三星 UFS 4.1 方案提升超过 40%，封装尺寸缩小 16.7%。该方案计划于今年第四季度量产，容量最高达 1 TB，应用范围涵盖旗舰手机、XR 头显和 AI 可穿戴设备。Samsung·英文频道",
+      "datetime": "2026-06-23T09:17:43+00:00",
+      "views": "4.05K",
+      "source_links": [
+        {
+          "text": "Samsung",
+          "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42131",
+      "scraped_at": "2026-06-23T18:00:44.393281",
+      "title": "三星发布UFS 5.0",
+      "title_options": {
+        "conclusion": "三星发布UFS 5.0",
+        "attractive": "带宽10.8GB/s",
+        "minimal": "UFS 5.0 三星",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30285",
       "channel": "xhqcankao",
       "text": "腾讯考虑退出MARVELOUS等游戏工作室据知情人士透露，腾讯控股正在洽谈退出对日本几家游戏工作室的投资，其中包括在东京上市的Marvelous，这是腾讯重新评估其全球投资组合行动的一部分。这家中国游戏发行巨头正在评估其在许多家工作室的少数股权，在某些情况下准备将股份出售回给原管理团队，即使这意味着造成亏损。知情人士称，腾讯退出投资的标准之一是，该公司会考虑其与投资组合公司预期的协同效应是否已经消失。对此，腾讯在声明中表示，电子游戏是腾讯的核心业务，公司将继续全力与我们的投资企业合作，并长期保持在日本电子游戏市场的强大影响力。”",
@@ -1235,6 +1289,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-06-23T18:00:04.160816"
+  "count": 53,
+  "updated_at": "2026-06-23T18:05:09.756899"
 }

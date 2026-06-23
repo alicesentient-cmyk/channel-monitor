@@ -8654,5 +8654,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-23T17:03:49.226370"
+  },
+  "zaihuapd_42131": {
+    "ai_title": "三星发布UFS 5.0",
+    "title_options": {
+      "conclusion": "三星发布UFS 5.0",
+      "attractive": "带宽10.8GB/s",
+      "minimal": "UFS 5.0 三星",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T18:05:09.678496"
+  },
+  "xhqcankao_30286": {
+    "ai_title": "AMD为RX 7000推送FSR 4.1",
+    "title_options": {
+      "conclusion": "AMD为RX 7000推送FSR 4.1",
+      "attractive": "旧显卡获FSR 4.1画质提升",
+      "minimal": "RX 7000 FSR 4.1",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-23T18:05:09.742501"
   }
 }
