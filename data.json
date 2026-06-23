@@ -1278,59 +1278,6 @@
       }
     },
     {
-      "id": "zaihuapd_42105",
-      "channel": "zaihuapd",
-      "text": "Android 高级保护模式或将禁用开发者选项Google 正为 Android 的高级保护模式加入新限制，启用该模式后可能自动关闭或屏蔽开发者选项菜单。相关代码已出现在最新版 Google Play Services 中。开发者选项包含 USB 调试、OEM 解锁等高级系统控制，若被他人物理接触设备时滥用，可能绕过现有安全防线。目前尚不清楚该功能何时上线，可能随 Android 16 或更晚版本推出。Android Authority·英文频道·",
-      "clean_text": "Android 高级保护模式或将禁用开发者选项Google 正为 Android 的高级保护模式加入新限制，启用该模式后可能自动关闭或屏蔽开发者选项菜单。相关代码已出现在最新版 Google Play Services 中。开发者选项包含 USB 调试、OEM 解锁等高级系统控制，若被他人物理接触设备时滥用，可能绕过现有安全防线。目前尚不清楚该功能何时上线，可能随 Android 16 或更晚版本推出。Android Authority·英文频道",
-      "datetime": "2026-06-22T08:06:34+00:00",
-      "views": "5.42K",
-      "source_links": [
-        {
-          "text": "Android Authority",
-          "url": "https://www.androidauthority.com/android-advanced-protection-mode-developer-options-3679725/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42105",
-      "scraped_at": "2026-06-22T17:00:43.107147",
-      "title": "Android高级保护将禁开发者选项",
-      "title_options": {
-        "conclusion": "Android高级保护将禁开发者选项",
-        "attractive": "开发者选项或被自动关闭",
-        "minimal": "高级保护禁开发者选项",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30255",
-      "channel": "xhqcankao",
-      "text": "特斯拉FSD欧洲推广受阻 瑞典要求删除超速功能监管文件显示，瑞典交通管理局已向欧盟机动车技术委员会递交信函，建议投票否决特斯拉监督版FSD在全欧洲推广，除非特斯拉关停系统中的超速功能。特斯拉FSD系统设有 “速度偏移值”自定义功能，驾驶员可自行设定数值，让车辆行驶速度高于道路法定限速。瑞典交通管理局在 4月30日落款的信函中明确表态，若允许自动驾驶系统常态化突破法定限速，既会破坏现有法规体系，也会削弱车辆自动化技术本应带来的安全效益。该机构要求特斯拉移除该超速功能，并称若特斯拉无法落实上述要求，建议机动车技术委员会投反对票，否决这项技术落地提案。",
-      "clean_text": "特斯拉FSD欧洲推广受阻 瑞典要求删除超速功能监管文件显示，瑞典交通管理局已向欧盟机动车技术委员会递交信函，建议投票否决特斯拉监督版FSD在全欧洲推广，除非特斯拉关停系统中的超速功能。特斯拉FSD系统设有 “速度偏移值”自定义功能，驾驶员可自行设定数值，让车辆行驶速度高于道路法定限速。瑞典交通管理局在 4月30日落款的信函中明确表态，若允许自动驾驶系统常态化突破法定限速，既会破坏现有法规体系，也会削弱车辆自动化技术本应带来的安全效益。该机构要求特斯拉移除该超速功能，并称若特斯拉无法落实上述要求，建议机动车技术委员会投反对票，否决这项技术落地提案。——新浪科技",
-      "datetime": "2026-06-22T08:03:34+00:00",
-      "views": "2.09K",
-      "source_links": [
-        {
-          "text": "新浪科技",
-          "url": "https://k.sina.cn/article_1642634100_61e89b7404001ofa2.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30255",
-      "scraped_at": "2026-06-22T17:00:44.945984",
-      "title": "瑞典要求特斯拉删除超速功能",
-      "title_options": {
-        "conclusion": "瑞典要求特斯拉删除超速功能",
-        "attractive": "FSD超速功能遭瑞典否决",
-        "minimal": "特斯拉FSD瑞典受阻"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1362,6 +1309,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-23T20:01:36.188707"
+  "count": 55,
+  "updated_at": "2026-06-23T20:06:40.898547"
 }
