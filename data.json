@@ -1403,29 +1403,6 @@
       }
     },
     {
-      "id": "xhqcankao_30259",
-      "channel": "xhqcankao",
-      "text": "亿咖通科技拟18亿元收购Flyme软件业务6月22日 ，亿咖通科技控股宣布，已签署最终收购协议，将收购Flyme软件业务，其中包括 Flyme Auto 智能座舱操作系统和跨终端Flyme操作系统两大核心产品。公司将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务以及核心资产。本次交易总金额为18亿元人民币（约合2.66亿美元）。本次交易完成后，亿咖通科技公司将通过湖北骐光科技有限公司获得 Flyme Auto 与 Flyme OS 两大核心软件平台，以及与之配套的知识产权、研发团队、工程技术资源和量产项目体系。",
-      "clean_text": "亿咖通科技拟18亿元收购Flyme软件业务6月22日 ，亿咖通科技控股宣布，已签署最终收购协议，将收购Flyme软件业务，其中包括 Flyme Auto 智能座舱操作系统和跨终端Flyme操作系统两大核心产品。公司将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务以及核心资产。本次交易总金额为18亿元人民币（约合2.66亿美元）。本次交易完成后，亿咖通科技公司将通过湖北骐光科技有限公司获得 Flyme Auto 与 Flyme OS 两大核心软件平台，以及与之配套的知识产权、研发团队、工程技术资源和量产项目体系。——界面新闻",
-      "datetime": "2026-06-22T11:33:33+00:00",
-      "views": "1.26K",
-      "source_links": [
-        {
-          "text": "界面新闻",
-          "url": "https://m.jiemian.com/article/14626360.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30259",
-      "scraped_at": "2026-06-22T20:00:27.546964",
-      "title": "亿咖通18亿收购Flyme",
-      "title_options": {
-        "conclusion": "亿咖通18亿收购Flyme",
-        "attractive": "18亿买下Flyme系统",
-        "minimal": "亿咖通收购Flyme",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1488,6 +1465,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-23T23:29:39.214280"
+  "count": 59,
+  "updated_at": "2026-06-23T23:34:43.870630"
 }
