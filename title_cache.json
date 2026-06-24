@@ -8932,5 +8932,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T07:05:41.115449"
+  },
+  "xhqcankao_30303": {
+    "ai_title": "Meta推299美元智能眼镜",
+    "title_options": {
+      "conclusion": "Meta推299美元智能眼镜",
+      "attractive": "Meta眼镜降价80美元",
+      "minimal": "Meta智能眼镜299美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T08:01:43.855567"
+  },
+  "xhqcankao_30304": {
+    "ai_title": "以色列前总理承认向伊朗走私星链",
+    "title_options": {
+      "conclusion": "以色列前总理承认向伊朗走私星链",
+      "attractive": "以色列曾走私星链助伊朗示威者",
+      "minimal": "以色列走私星链",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T08:01:44.064150"
   }
 }
