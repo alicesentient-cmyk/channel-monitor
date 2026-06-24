@@ -1703,29 +1703,6 @@
       }
     },
     {
-      "id": "xhqcankao_30278",
-      "channel": "xhqcankao",
-      "text": "中国宇树人形机器人开始在日本销售日本GMO INTERNET GROUP已从6月19日开始在日本销售中国宇树科技有限公司的人形机器人。除了根据企业的用途和需求调整规格之外，还提供机身维护等服务，将其培育成新业务。GMO旗下从事人形机器人研究的GMO AI & Robotics商事（GMO AIR）已与宇树科技签订正规代理商合同。除了宇树科技的人形机器人“G1”和“H1”之外，还将承接四足步行机器人的销售业务。GMO AIR已从2025年开始提供将宇树科技的G1出租给企业的服务。据悉，GMO AIR已收到企业的超100宗咨询，机器人被用于工厂的实证实验以及在活动中接待客人等用途。",
-      "clean_text": "中国宇树人形机器人开始在日本销售日本GMO INTERNET GROUP已从6月19日开始在日本销售中国宇树科技有限公司的人形机器人。除了根据企业的用途和需求调整规格之外，还提供机身维护等服务，将其培育成新业务。GMO旗下从事人形机器人研究的GMO AI & Robotics商事（GMO AIR）已与宇树科技签订正规代理商合同。除了宇树科技的人形机器人“G1”和“H1”之外，还将承接四足步行机器人的销售业务。GMO AIR已从2025年开始提供将宇树科技的G1出租给企业的服务。据悉，GMO AIR已收到企业的超100宗咨询，机器人被用于工厂的实证实验以及在活动中接待客人等用途。——日经新闻",
-      "datetime": "2026-06-23T05:33:58+00:00",
-      "views": "1.25K",
-      "source_links": [
-        {
-          "text": "日经新闻",
-          "url": "http://cn.nikkei.com/industry/itelectric-appliance/62976-2026-06-23-10-56-49.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30278",
-      "scraped_at": "2026-06-23T14:00:32.008815",
-      "title": "宇树人形机器人日本开售",
-      "title_options": {
-        "conclusion": "宇树人形机器人日本开售",
-        "attractive": "日本企业出租中国机器人",
-        "minimal": "宇树机器人日本销售",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1788,6 +1765,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-06-24T17:30:16.709813"
+  "count": 70,
+  "updated_at": "2026-06-24T17:35:21.745169"
 }
