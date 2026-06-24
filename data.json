@@ -1740,29 +1740,6 @@
       }
     },
     {
-      "id": "xhqcankao_30273",
-      "channel": "xhqcankao",
-      "text": "美光入股Anthropic并达成多年期供应协议美光科技投资了 Anthropic 公司，并达成一项多年期协议，将向这家人工智能初创公司供应内存和存储产品。随着人工智能基础设施需求与日俱增，此举进一步加深了双方的合作关系。双方还将携手合作，共同设计针对AI工作负载的下一代内存和存储系统；与此同时，美光科技将在其业务运营中更广泛地应用Anthropic公司的Claude AI模型。双方表示，美光科技公司与 Anthropic 公司将深入分析内存和存储产品在各类工作负载下的表现，及其在整个基础设施堆栈中的交互方式，从而推动性能与效率的提升。",
-      "clean_text": "美光入股Anthropic并达成多年期供应协议美光科技投资了 Anthropic 公司，并达成一项多年期协议，将向这家人工智能初创公司供应内存和存储产品。随着人工智能基础设施需求与日俱增，此举进一步加深了双方的合作关系。双方还将携手合作，共同设计针对AI工作负载的下一代内存和存储系统；与此同时，美光科技将在其业务运营中更广泛地应用Anthropic公司的Claude AI模型。双方表示，美光科技公司与 Anthropic 公司将深入分析内存和存储产品在各类工作负载下的表现，及其在整个基础设施堆栈中的交互方式，从而推动性能与效率的提升。——华尔街日报",
-      "datetime": "2026-06-23T03:04:19+00:00",
-      "views": "1.99K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/%E7%BE%8E%E5%85%89%E5%85%A5%E8%82%A1anthropic-%E5%B9%B6%E8%BE%BE%E6%88%90%E5%A4%9A%E5%B9%B4%E6%9C%9F%E4%BE%9B%E5%BA%94%E5%8D%8F%E8%AE%AE-4e2ec470?mod=cn_hp_featst_pos2"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30273",
-      "scraped_at": "2026-06-23T12:00:39.329081",
-      "title": "美光入股Anthropic",
-      "title_options": {
-        "conclusion": "美光入股Anthropic",
-        "attractive": "美光与Anthropic合作",
-        "minimal": "美光Anthropic供应",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1825,6 +1802,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-06-24T15:03:09.063735"
+  "count": 72,
+  "updated_at": "2026-06-24T15:08:13.061322"
 }
