@@ -1710,37 +1710,6 @@
       }
     },
     {
-      "id": "zaihuapd_42124",
-      "channel": "zaihuapd",
-      "text": "近半数 LG 智能电视应用被检出住宅代理 SDK一项针对 LG 和三星智能电视应用的扫描显示，在抽样的 6038 款应用中，有 2058 款检出住宅代理 SDK，其中 LG 平台占比接近一半。相关应用多为屏保、时钟、小游戏等，部分在用户关闭后仍可继续运行代理功能。这些 SDK 可将家庭电视接入住宅代理网络，供第三方调用家庭 IP。Amazon 已禁止电视应用提供第三方代理服务，Roku 也已封堵类似 SDK，LG 和三星目前尚未公开发布同等限制。Spur⁠·英文频道·",
-      "clean_text": "近半数 LG 智能电视应用被检出住宅代理 SDK一项针对 LG 和三星智能电视应用的扫描显示，在抽样的 6038 款应用中，有 2058 款检出住宅代理 SDK，其中 LG 平台占比接近一半。相关应用多为屏保、时钟、小游戏等，部分在用户关闭后仍可继续运行代理功能。这些 SDK 可将家庭电视接入住宅代理网络，供第三方调用家庭 IP。Amazon 已禁止电视应用提供第三方代理服务，Roku 也已封堵类似 SDK，LG 和三星目前尚未公开发布同等限制。Spur⁠·英文频道",
-      "datetime": "2026-06-23T02:26:29+00:00",
-      "views": "3.5K",
-      "source_links": [
-        {
-          "text": "Spur",
-          "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42124",
-      "scraped_at": "2026-06-23T11:00:54.913350",
-      "title": "LG电视近半应用含代理SDK",
-      "title_options": {
-        "conclusion": "LG电视近半应用含代理SDK",
-        "attractive": "电视变代理，关后仍运行",
-        "minimal": "LG电视代理SDK",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1803,6 +1772,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-24T14:22:33.020451"
+  "count": 71,
+  "updated_at": "2026-06-24T14:27:36.101891"
 }
