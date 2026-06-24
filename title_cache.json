@@ -9120,5 +9120,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T13:01:19.637294"
+  },
+  "xhqcankao_30316": {
+    "ai_title": "LastPass客户数据被盗",
+    "title_options": {
+      "conclusion": "LastPass客户数据被盗",
+      "attractive": "黑客窃取LastPass客户数据",
+      "minimal": "LastPass数据泄露",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T14:02:14.591837"
+  },
+  "zaihuapd_42151": {
+    "ai_title": "台积电先进制程全线涨价",
+    "title_options": {
+      "conclusion": "台积电先进制程全线涨价",
+      "attractive": "台积电涨价波及75%营收",
+      "minimal": "台积电先进制程涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T14:02:14.789695"
+  },
+  "zaihuapd_42150": {
+    "ai_title": "AI写作业致考试分降20%",
+    "title_options": {
+      "conclusion": "AI写作业致考试分降20%",
+      "attractive": "作业高分换考试低分？",
+      "minimal": "AI作业考试下降"
+    },
+    "generated_at": "2026-06-24T14:02:14.966479"
+  },
+  "xhqcankao_30315": {
+    "ai_title": "美商务部长称或对中国机器人行动",
+    "title_options": {
+      "conclusion": "美商务部长称或对中国机器人行动",
+      "attractive": "机器人成中美技术新战场",
+      "minimal": "美商务部长 机器人 行动",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T14:02:16.083952"
   }
 }
