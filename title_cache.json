@@ -9159,5 +9159,33 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T14:02:16.083952"
+  },
+  "xhqcankao_30318": {
+    "ai_title": "孙正义推迟退休计划",
+    "title_options": {
+      "conclusion": "孙正义推迟退休计划",
+      "attractive": "68岁再干十年",
+      "minimal": "孙正义退休推迟",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T15:03:08.857041"
+  },
+  "xhqcankao_30317": {
+    "ai_title": "特朗普获礼来减肥药同情用药",
+    "title_options": {
+      "conclusion": "特朗普获礼来减肥药同情用药",
+      "attractive": "79岁老人获试验减肥药",
+      "minimal": "特朗普 礼来 减肥药 同情用药"
+    },
+    "generated_at": "2026-06-24T15:03:09.005034"
+  },
+  "zaihuapd_42152": {
+    "ai_title": "PACT协议用令牌替代验证码",
+    "title_options": {
+      "conclusion": "PACT协议用令牌替代验证码",
+      "attractive": "告别验证码，PACT协议来了",
+      "minimal": "PACT令牌替代验证码"
+    },
+    "generated_at": "2026-06-24T15:03:09.040919"
   }
 }

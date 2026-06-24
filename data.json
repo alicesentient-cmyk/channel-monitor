@@ -1,6 +1,85 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30318",
+      "channel": "xhqcankao",
+      "text": "孙正义为AI改变退休计划：再干十来年软银集团创始人孙正义表示，他计划在未来十年甚至更长时间内继续执掌这家他亲手创立的科技集团，从而推翻了他多年来一直坚持的在六十多岁交班的规划。这位68岁的科技投资人表示，他现在渴望推动人工智能的加速普及，并将软银打造为全球领先的人工智能驱动型机器人公司。“我没有时间退休了。”孙正义称，他提到软银正在追求他所认为的具有根本性意义的长期技术。孙正义补充道，他已修改了自己原有的“50年计划”(在60多岁时交班)，并将再工作10年到15年。",
+      "clean_text": "孙正义为AI改变退休计划：再干十来年软银集团创始人孙正义表示，他计划在未来十年甚至更长时间内继续执掌这家他亲手创立的科技集团，从而推翻了他多年来一直坚持的在六十多岁交班的规划。这位68岁的科技投资人表示，他现在渴望推动人工智能的加速普及，并将软银打造为全球领先的人工智能驱动型机器人公司。“我没有时间退休了。”孙正义称，他提到软银正在追求他所认为的具有根本性意义的长期技术。孙正义补充道，他已修改了自己原有的“50年计划”(在60多岁时交班)，并将再工作10年到15年。——凤凰网科技、彭博社",
+      "datetime": "2026-06-24T06:31:00+00:00",
+      "views": "1.41K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006Q-_wKYLjQxVzZP--ykbtWkdv5TqYbCU5lIYZq4o9L0icWBlR38MfAEymCEWKcjt-_sO"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/softbank-s-masayoshi-son-scraps-plan-to-retire-in-his-sixties"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30318",
+      "scraped_at": "2026-06-24T15:00:23.325111",
+      "title": "孙正义推迟退休计划",
+      "title_options": {
+        "conclusion": "孙正义推迟退休计划",
+        "attractive": "68岁再干十年",
+        "minimal": "孙正义退休推迟",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42152",
+      "channel": "zaihuapd",
+      "text": "Cloudflare 等拟推 PACT 协议，用加密令牌替代验证码Cloudflare 联合 Chrome、Firefox、Edge 及 Shopify 提出 PACT 协议，拟用匿名加密令牌替代 CAPTCHA。用户经可信站点验证后获得令牌，访问其他网站时无需再识别图片，且不会泄露身份或浏览记录。该协议基于 IETF 的 Privacy Pass，采用盲签名技术，也覆盖合法 AI 代理与恶意爬虫的区分。但目前仍是提案，未定标准组织与时间表，苹果未加入，令牌发行方的治理问题也未解决。Tech Times·英文频道·",
+      "clean_text": "Cloudflare 等拟推 PACT 协议，用加密令牌替代验证码Cloudflare 联合 Chrome、Firefox、Edge 及 Shopify 提出 PACT 协议，拟用匿名加密令牌替代 CAPTCHA。用户经可信站点验证后获得令牌，访问其他网站时无需再识别图片，且不会泄露身份或浏览记录。该协议基于 IETF 的 Privacy Pass，采用盲签名技术，也覆盖合法 AI 代理与恶意爬虫的区分。但目前仍是提案，未定标准组织与时间表，苹果未加入，令牌发行方的治理问题也未解决。Tech Times·英文频道",
+      "datetime": "2026-06-24T06:30:08+00:00",
+      "views": "3.26K",
+      "source_links": [
+        {
+          "text": "Tech Times",
+          "url": "https://www.techtimes.com/articles/318891/20260623/cloudflare-chrome-firefox-plan-replace-captchas-cryptographic-tokens.htm"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42152",
+      "scraped_at": "2026-06-24T15:00:20.516784",
+      "title": "PACT协议用令牌替代验证码",
+      "title_options": {
+        "conclusion": "PACT协议用令牌替代验证码",
+        "attractive": "告别验证码，PACT协议来了",
+        "minimal": "PACT令牌替代验证码"
+      }
+    },
+    {
+      "id": "xhqcankao_30317",
+      "channel": "xhqcankao",
+      "text": "特朗普可能是礼来减肥药临床试验中的神秘案例在一个极其罕见的案例中，一位79岁的老人通过美国食品药品监督管理局（FDA）的“同情用药”项目，提前获得了礼来公司强效但仍在试验阶段的减肥药物retatrutide的使用权。该途径通常用于为患有“严重或危及生命的疾病或状况”且无法参加临床试验的患者提供用药。该用药申请最初于今年4月由美国国立卫生研究院（NIH）的一位高级临床医生提出，当时该患者79岁（特朗普于6月14日年满80岁）。这名患者服用替泽帕肽已一年，但体重仅略有减轻。随后 FDA 发布扩大准入范围的公开通知令人怀疑，因为它省略了此类通知通常会包含的许多信息，例如患者可能符合获得此类准入资格的条件。制药公司将一种常见疾病药物的扩大使用范围授予单个患者，而不是授予具有特定特征的患者群体，这种情况非常罕见。礼来公司、NIH和美国卫生部均未正面回复该案例是否为总统的询问，白宫发言人库什·德赛则回复称这是个“愚蠢的问题”。——Ars Technica",
+      "clean_text": "特朗普可能是礼来减肥药临床试验中的神秘案例在一个极其罕见的案例中，一位79岁的老人通过美国食品药品监督管理局（FDA）的“同情用药”项目，提前获得了礼来公司强效但仍在试验阶段的减肥药物retatrutide的使用权。该途径通常用于为患有“严重或危及生命的疾病或状况”且无法参加临床试验的患者提供用药。该用药申请最初于今年4月由美国国立卫生研究院（NIH）的一位高级临床医生提出，当时该患者79岁（特朗普于6月14日年满80岁）。这名患者服用替泽帕肽已一年，但体重仅略有减轻。随后 FDA 发布扩大准入范围的公开通知令人怀疑，因为它省略了此类通知通常会包含的许多信息，例如患者可能符合获得此类准入资格的条件。制药公司将一种常见疾病药物的扩大使用范围授予单个患者，而不是授予具有特定特征的患者群体，这种情况非常罕见。礼来公司、NIH和美国卫生部均未正面回复该案例是否为总统的询问，白宫发言人库什·德赛则回复称这是个“愚蠢的问题”。——Ars Technica",
+      "datetime": "2026-06-24T06:02:38+00:00",
+      "views": "2.34K",
+      "source_links": [
+        {
+          "text": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30317",
+      "scraped_at": "2026-06-24T15:00:23.324714",
+      "title": "特朗普获礼来减肥药同情用药",
+      "title_options": {
+        "conclusion": "特朗普获礼来减肥药同情用药",
+        "attractive": "79岁老人获试验减肥药",
+        "minimal": "特朗普 礼来 减肥药 同情用药"
+      }
+    },
+    {
       "id": "zaihuapd_42151",
       "channel": "zaihuapd",
       "text": "台积电先进制程代工将全线涨价台积电已陆续向客户通知涨晶圆代工价格，涨价范围不仅涵盖市场传闻的 3nm 制程，更扩及 7nm 及以下所有先进制程，整体涨幅约 5%至 10%，影响范围涵盖约 75%的晶圆营收来源。36kr·英文频道·",
@@ -1746,6 +1825,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-24T14:58:02.872630"
+  "count": 73,
+  "updated_at": "2026-06-24T15:03:09.063735"
 }
