@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42155",
+      "channel": "zaihuapd",
+      "text": "特斯拉中国计划为车辆引入 DeepSeek 模型  据社交平台 X 用户“Tsla Chan”发布的消息，特斯拉中国计划为其旗下车辆引入 DeepSeek 模型。  Tsla Chan |",
+      "clean_text": "🚘🤖特斯拉中国计划为车辆引入 DeepSeek 模型  据社交平台 X 用户“Tsla Chan”发布的消息，特斯拉中国计划为其旗下车辆引入 DeepSeek 模型。  Tsla Chan | Tesla🍀在花频道🍵茶馆📮投稿",
+      "datetime": "2026-06-24T09:02:57+00:00",
+      "views": "5.28K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42155",
+      "scraped_at": "2026-06-24T18:01:00.496331",
+      "title": "特斯拉引入DeepSeek模型",
+      "title_options": {
+        "conclusion": "特斯拉引入DeepSeek模型",
+        "attractive": "特斯拉车用上DeepSeek",
+        "minimal": "特斯拉DeepSeek引入",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42154",
       "channel": "zaihuapd",
       "text": "开源项目分享：OpenAI 开源新项目，现在大模型可以和你家里植物“磕唠”了OpenAI 在 GitHub 上线了开源项目 planttalk，让用户借助 ChatGPT 与家中植物进行语音互动。基础版本只需一台配备摄像头和麦克风的电脑，系统便能通过观察画面判断植物状态并实时对话；若接入 Arduino 土壤湿度与光照传感器，反馈会更加准确。整个项目可由 Codex Desktop 引导搭建，用户还能自定义植物的名字、性格和声音。它被定位为创意型 AI 交互演示，展示如何将 AI Agent 用于日常生活场景。GitHub本频道仅作项目分享，风险自控·英文频道·",
@@ -1681,28 +1699,6 @@
       }
     },
     {
-      "id": "xhqcankao_30279",
-      "channel": "xhqcankao",
-      "text": "字节豆包Seedance 2.5将在7月初正式发布火山引擎 Force 大会上，豆包视频生成模型最新版本Seedance2.5亮相，实现三项核心升级：单条视频生成长度最长可达30秒，突破同类产品 15至20秒瓶颈；支持最多50个全模态素材联合输入，生成过程可稳定保持复杂素材细节；提供灵活视频编辑能力，支持在不改变整体画面的前提下进行局部内容修改。新模型目前处于内测尾声，将于今年七月初正式上线。除此之外，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。",
-      "clean_text": "字节豆包Seedance 2.5将在7月初正式发布火山引擎 Force 大会上，豆包视频生成模型最新版本Seedance2.5亮相，实现三项核心升级：单条视频生成长度最长可达30秒，突破同类产品 15至20秒瓶颈；支持最多50个全模态素材联合输入，生成过程可稳定保持复杂素材细节；提供灵活视频编辑能力，支持在不改变整体画面的前提下进行局部内容修改。新模型目前处于内测尾声，将于今年七月初正式上线。除此之外，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。——凤凰网科技",
-      "datetime": "2026-06-23T06:00:52+00:00",
-      "views": "2.25K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006ShjUQoEzgQ4vGSoytZzKQdffbyFQL2UDEhHMlrr5PrnwpBTNiWdqqZ2hwRPuR6-_9"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30279",
-      "scraped_at": "2026-06-23T15:00:16.423043",
-      "title": "豆包Seedance2.5七月初发布",
-      "title_options": {
-        "conclusion": "豆包Seedance2.5七月初发布",
-        "attractive": "视频生成突破30秒瓶颈",
-        "minimal": "豆包Seedance2.5发布"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1766,5 +1762,5 @@
     }
   ],
   "count": 70,
-  "updated_at": "2026-06-24T18:00:40.919552"
+  "updated_at": "2026-06-24T18:05:46.628436"
 }
