@@ -9061,5 +9061,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T11:04:29.072482"
+  },
+  "xhqcankao_30311": {
+    "ai_title": "Alphabet将纳入道指",
+    "title_options": {
+      "conclusion": "Alphabet将纳入道指",
+      "attractive": "取代威瑞森，Alphabet入道指",
+      "minimal": "Alphabet入道指",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T12:05:32.367141"
+  },
+  "zaihuapd_42148": {
+    "ai_title": "特朗普称不再视Anthropic为威胁",
+    "title_options": {
+      "conclusion": "特朗普称不再视Anthropic为威胁",
+      "attractive": "特朗普或放松AI模型限制",
+      "minimal": "特朗普Anthropic威胁解除"
+    },
+    "generated_at": "2026-06-24T12:05:32.441330"
+  },
+  "xhqcankao_30312": {
+    "ai_title": "美贷175亿加速10座核反应堆",
+    "title_options": {
+      "conclusion": "美贷175亿加速10座核反应堆",
+      "attractive": "美贷175亿，核电提前三年",
+      "minimal": "美贷175亿 10座核反应堆",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T12:05:32.946146"
   }
 }
