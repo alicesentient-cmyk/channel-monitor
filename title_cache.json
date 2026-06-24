@@ -8952,5 +8952,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T08:01:44.064150"
+  },
+  "zaihuapd_42144": {
+    "ai_title": "日元硬币成本超面值",
+    "title_options": {
+      "conclusion": "日元硬币成本超面值",
+      "attractive": "熔币牟利？最高罚20万",
+      "minimal": "硬币成本超面值"
+    },
+    "generated_at": "2026-06-24T09:02:50.071972"
+  },
+  "zaihuapd_42143": {
+    "ai_title": "LastPass再曝数据被盗",
+    "title_options": {
+      "conclusion": "LastPass再曝数据被盗",
+      "attractive": "超3300万用户信息外泄",
+      "minimal": "LastPass数据被盗",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T09:02:50.171181"
+  },
+  "xhqcankao_30306": {
+    "ai_title": "阿里起诉美政府要求移出涉军清单",
+    "title_options": {
+      "conclusion": "阿里起诉美政府要求移出涉军清单",
+      "attractive": "阿里：涉军认定毫无依据",
+      "minimal": "阿里起诉美政府",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T09:02:50.307330"
+  },
+  "xhqcankao_30305": {
+    "ai_title": "Meta开发预测市场应用",
+    "title_options": {
+      "conclusion": "Meta开发预测市场应用",
+      "attractive": "Meta推预测游戏无真钱",
+      "minimal": "Meta预测市场应用",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T09:02:51.162369"
   }
 }
