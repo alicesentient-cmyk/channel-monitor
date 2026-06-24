@@ -9286,5 +9286,35 @@
       "minimal": "孙正义驳斥泡沫"
     },
     "generated_at": "2026-06-24T20:03:10.819846"
+  },
+  "zaihuapd_42157": {
+    "ai_title": "中行私募包装公募逃税23.67亿",
+    "title_options": {
+      "conclusion": "中行私募包装公募逃税23.67亿",
+      "attractive": "员工凑人数逃税23亿",
+      "minimal": "中行逃税23.67亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T21:04:12.994213"
+  },
+  "xhqcankao_30326": {
+    "ai_title": "英伟达AI芯片黑市价格翻倍",
+    "title_options": {
+      "conclusion": "英伟达AI芯片黑市价格翻倍",
+      "attractive": "禁售芯片黑市价飙至800万",
+      "minimal": "英伟达芯片黑市涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T21:04:13.031105"
+  },
+  "xhqcankao_30325": {
+    "ai_title": "现代汽车工人罢工反对机器人",
+    "title_options": {
+      "conclusion": "现代汽车工人罢工反对机器人",
+      "attractive": "机器人抢饭碗？现代工人罢工",
+      "minimal": "现代工人罢工反机器人",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T21:04:13.042234"
   }
 }
