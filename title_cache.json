@@ -9187,5 +9187,35 @@
       "minimal": "PACT令牌替代验证码"
     },
     "generated_at": "2026-06-24T15:03:09.040919"
+  },
+  "xhqcankao_30320": {
+    "ai_title": "高通为字节定制芯片",
+    "title_options": {
+      "conclusion": "高通为字节定制芯片",
+      "attractive": "字节跳动获高通定制",
+      "minimal": "高通字节芯片合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T16:04:02.725961"
+  },
+  "xhqcankao_30319": {
+    "ai_title": "英国投6000万镑建AI实验室",
+    "title_options": {
+      "conclusion": "英国投6000万镑建AI实验室",
+      "attractive": "英国自研低算力AI模型",
+      "minimal": "英国AI实验室低算力",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T16:04:02.738672"
+  },
+  "zaihuapd_42153": {
+    "ai_title": "字节跳动与博通合作开发AI芯片",
+    "title_options": {
+      "conclusion": "字节跳动与博通合作开发AI芯片",
+      "attractive": "字节跳动联手博通造AI芯片",
+      "minimal": "字节跳动 博通 AI芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T16:04:02.894546"
   }
 }
