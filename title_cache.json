@@ -9090,5 +9090,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T12:05:32.946146"
+  },
+  "xhqcankao_30314": {
+    "ai_title": "Lazada裁员5%",
+    "title_options": {
+      "conclusion": "Lazada裁员5%",
+      "attractive": "阿里旗下Lazada裁员",
+      "minimal": "Lazada裁员",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T13:01:19.408163"
+  },
+  "zaihuapd_42149": {
+    "ai_title": "美发行25万枚独立日硬币",
+    "title_options": {
+      "conclusion": "美发行25万枚独立日硬币",
+      "attractive": "寻找7月4日标记硬币",
+      "minimal": "25万枚7月4日硬币",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T13:01:19.450182"
+  },
+  "xhqcankao_30313": {
+    "ai_title": "美施压Meta提交AI审查",
+    "title_options": {
+      "conclusion": "美施压Meta提交AI审查",
+      "attractive": "Meta拒交AI模型审查",
+      "minimal": "Meta AI审查施压",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T13:01:19.637294"
   }
 }

@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30314",
+      "channel": "xhqcankao",
+      "text": "阿里旗下东南亚电商平台Lazada裁员5%知情人士透露，阿里巴巴(Alibaba)旗下东南亚电商平台Lazada正在裁减5%的员工。部分知情人士表示，该公司于周二通知了受影响的员工。知情人士称，此次裁员波及该平台在整个东南亚地区的员工。Lazada在一封电子邮件声明中表示，公司正在评估东南亚地区的部分岗位，这是公司为保持专注和高效，并使岗位设置与业务需求相匹配所作努力的一部分。Lazada补充道，公司致力于为受影响的员工提供支持。东南亚电商行业的竞争十分激烈，各家公司寻求提高盈利能力，并日益采用AI工具来提升效率。",
+      "clean_text": "阿里旗下东南亚电商平台Lazada裁员5%知情人士透露，阿里巴巴(Alibaba)旗下东南亚电商平台Lazada正在裁减5%的员工。部分知情人士表示，该公司于周二通知了受影响的员工。知情人士称，此次裁员波及该平台在整个东南亚地区的员工。Lazada在一封电子邮件声明中表示，公司正在评估东南亚地区的部分岗位，这是公司为保持专注和高效，并使岗位设置与业务需求相匹配所作努力的一部分。Lazada补充道，公司致力于为受影响的员工提供支持。东南亚电商行业的竞争十分激烈，各家公司寻求提高盈利能力，并日益采用AI工具来提升效率。——华尔街日报",
+      "datetime": "2026-06-24T04:34:22+00:00",
+      "views": "1.03K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/alibaba-ssoutheast-asia-platform-lays-off-5-of-workforce-53d3fca4?mod=cn_hp_featst_pos4"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30314",
+      "scraped_at": "2026-06-24T13:00:12.480559",
+      "title": "Lazada裁员5%",
+      "title_options": {
+        "conclusion": "Lazada裁员5%",
+        "attractive": "阿里旗下Lazada裁员",
+        "minimal": "Lazada裁员",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42149",
+      "channel": "zaihuapd",
+      "text": "美国将发行 25 万枚带“7 月 4 日”标记的 25 美分硬币美国铸币局将生产 25 万枚 2026 年独立宣言 25 美分硬币，上面带有特殊的“7 月 4 日”标记。这些硬币没有铸币厂标记，将被随机混入流通硬币中，供民众在日常交易时发现。这些特殊硬币将在 7 月 4 日前提供给全国银行和金融机构，配合美国独立 250 周年庆祝活动。铸币局局长保罗·霍利斯表示，希望人们通过寻找这些硬币，分享并记住这一历史时刻。美国铸币局·英文频道·",
+      "clean_text": "美国将发行 25 万枚带“7 月 4 日”标记的 25 美分硬币美国铸币局将生产 25 万枚 2026 年独立宣言 25 美分硬币，上面带有特殊的“7 月 4 日”标记。这些硬币没有铸币厂标记，将被随机混入流通硬币中，供民众在日常交易时发现。这些特殊硬币将在 7 月 4 日前提供给全国银行和金融机构，配合美国独立 250 周年庆祝活动。铸币局局长保罗·霍利斯表示，希望人们通过寻找这些硬币，分享并记住这一历史时刻。美国铸币局·英文频道",
+      "datetime": "2026-06-24T04:30:08+00:00",
+      "views": "2.86K",
+      "source_links": [
+        {
+          "text": "美国铸币局",
+          "url": "https://www.usmint.gov/news/press-releases/united-states-mint-to-produce-limited-edition-fourth-of-july-declaration-of-independence-quarters"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42149",
+      "scraped_at": "2026-06-24T13:00:10.663498",
+      "title": "美发行25万枚独立日硬币",
+      "title_options": {
+        "conclusion": "美发行25万枚独立日硬币",
+        "attractive": "寻找7月4日标记硬币",
+        "minimal": "25万枚7月4日硬币",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30313",
+      "channel": "xhqcankao",
+      "text": "美国施压Meta 要求提交模型接受安全审查据四位知情人士透露，美国特朗普政府正施压Meta公司，要求其自愿提交人工智能模型接受审查，以便政府评估这些模型的性能与漏洞。这一要求是在特朗普政府给这家社交媒体巨头的电子邮件中提出的。Meta是美国唯一一家尚未与联邦政府达成协议，自愿共享其模型以供审查的主要人工智能技术开发商。Meta在一封电子邮件中表示：“我们与政府的目标一致，即提升美国在强大且安全的前沿人工智能领域的领导地位。虽然细节仍待敲定，但我们希望尽快签署协议。”",
+      "clean_text": "美国施压Meta 要求提交模型接受安全审查据四位知情人士透露，美国特朗普政府正施压Meta公司，要求其自愿提交人工智能模型接受审查，以便政府评估这些模型的性能与漏洞。这一要求是在特朗普政府给这家社交媒体巨头的电子邮件中提出的。Meta是美国唯一一家尚未与联邦政府达成协议，自愿共享其模型以供审查的主要人工智能技术开发商。Meta在一封电子邮件中表示：“我们与政府的目标一致，即提升美国在强大且安全的前沿人工智能领域的领导地位。虽然细节仍待敲定，但我们希望尽快签署协议。”——纽约时报",
+      "datetime": "2026-06-24T04:03:20+00:00",
+      "views": "1.79K",
+      "source_links": [
+        {
+          "text": "纽约时报",
+          "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30313",
+      "scraped_at": "2026-06-24T13:00:12.480210",
+      "title": "美施压Meta提交AI审查",
+      "title_options": {
+        "conclusion": "美施压Meta提交AI审查",
+        "attractive": "Meta拒交AI模型审查",
+        "minimal": "Meta AI审查施压",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42148",
       "channel": "zaihuapd",
       "text": "特朗普称不再视 Anthropic 为国安威胁，或放松 AI 模型限制  特朗普在接受 Axios 采访时表示，不再将人工智能公司 Anthropic 视为国家安全威胁，并暗示可能放松对其 Fable 5 和 Mythos 5 模型的限制。他称 Anthropic“表现非常负责任”，这一态度转变发生在 G7 峰会与该公司 CEO Dario Amodei 会面之后。  不过，美国商务部 6 月 12 日要求 Anthropic 限制外国人接触其最强模型的命令尚未正式撤销，五角大楼的供应链风险认定也仍然…",
@@ -1639,41 +1716,6 @@
       }
     },
     {
-      "id": "zaihuapd_42122",
-      "channel": "zaihuapd",
-      "text": "OpenAI 扩展 Daybreak 安全计划，推动 AI 辅助开源漏洞修复OpenAI 宣布扩展 Daybreak 网络安全计划，推出 Patch the Planet 倡议并与 Trail of Bits 等机构合作，用 AI 模型配合人工审核帮助开源项目修复漏洞。目前已覆盖 cURL、Go、Python 等 30 多个项目，发现数百安全问题并合并数十补丁，同时在 Linux、OpenBSD、Chrome、Safari、Firefox 等系统中确认了多个漏洞。同步更新 Codex Security 插件并正式发布 GPT-5.5-Cyber 模型，在 CyberGym 基准测试中达到 85.6%。OpenAI 启动 Daybreak Cyber Partner Program，与安全软件和服务提供商合作将防御能力整合到企业产品中；另通过 Trusted Access for Cyber 与澳大利亚、加拿大、日本及欧盟 ENISA 等政府及机构开展合作。OpenAI(1,2)·英文频道·",
-      "clean_text": "OpenAI 扩展 Daybreak 安全计划，推动 AI 辅助开源漏洞修复OpenAI 宣布扩展 Daybreak 网络安全计划，推出 Patch the Planet 倡议并与 Trail of Bits 等机构合作，用 AI 模型配合人工审核帮助开源项目修复漏洞。目前已覆盖 cURL、Go、Python 等 30 多个项目，发现数百安全问题并合并数十补丁，同时在 Linux、OpenBSD、Chrome、Safari、Firefox 等系统中确认了多个漏洞。同步更新 Codex Security 插件并正式发布 GPT-5.5-Cyber 模型，在 CyberGym 基准测试中达到 85.6%。OpenAI 启动 Daybreak Cyber Partner Program，与安全软件和服务提供商合作将防御能力整合到企业产品中；另通过 Trusted Access for Cyber 与澳大利亚、加拿大、日本及欧盟 ENISA 等政府及机构开展合作。OpenAI(1,2)·英文频道",
-      "datetime": "2026-06-23T01:01:17+00:00",
-      "views": "4.23K",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://openai.com/index/patch-the-planet/"
-        },
-        {
-          "text": "2",
-          "url": "https://openai.com/index/daybreak-securing-the-world/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42122",
-      "scraped_at": "2026-06-23T10:01:01.724951",
-      "title": "OpenAI扩展Daybreak安全计划",
-      "title_options": {
-        "conclusion": "OpenAI扩展Daybreak安全计划",
-        "attractive": "AI助开源修复漏洞",
-        "minimal": "Daybreak安全计划扩展",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1736,6 +1778,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-24T12:56:14.887598"
+  "count": 72,
+  "updated_at": "2026-06-24T13:01:19.652161"
 }
