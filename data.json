@@ -1594,29 +1594,6 @@
       }
     },
     {
-      "id": "xhqcankao_30291",
-      "channel": "xhqcankao",
-      "text": "谷歌借助员工校友网络支持AI初创孵化计划谷歌正在支持一项面向离职员工创办AI初创企业的孵化计划，该项目为期12周，由谷歌AI未来基金提供支持，将为入选初创企业提供最高35万美元的谷歌云和AI信用额度，以及最高10万美元的资金支持。组织方预计首期将选拔10家至20家初创企业参与。该计划定于周二公布，恰逢谷歌正努力吸引更多AI企业使用其芯片和云计算服务。通过与庞大的前员工网络（即“Xooglers”）更紧密地合作，谷歌有望与一批新兴AI企业建立更深入的关系，这些企业未来或将成为重要客户。",
-      "clean_text": "谷歌借助员工校友网络支持AI初创孵化计划谷歌正在支持一项面向离职员工创办AI初创企业的孵化计划，该项目为期12周，由谷歌AI未来基金提供支持，将为入选初创企业提供最高35万美元的谷歌云和AI信用额度，以及最高10万美元的资金支持。组织方预计首期将选拔10家至20家初创企业参与。该计划定于周二公布，恰逢谷歌正努力吸引更多AI企业使用其芯片和云计算服务。通过与庞大的前员工网络（即“Xooglers”）更紧密地合作，谷歌有望与一批新兴AI企业建立更深入的关系，这些企业未来或将成为重要客户。——彭博社",
-      "datetime": "2026-06-23T12:03:22+00:00",
-      "views": "1.82K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30291",
-      "scraped_at": "2026-06-23T21:01:00.118059",
-      "title": "谷歌孵化离职员工AI初创企业",
-      "title_options": {
-        "conclusion": "谷歌孵化离职员工AI初创企业",
-        "attractive": "前员工AI创业可获35万美元",
-        "minimal": "谷歌支持前员工AI创业",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1679,6 +1656,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-25T00:02:30.814501"
+  "count": 64,
+  "updated_at": "2026-06-25T00:07:36.864535"
 }
