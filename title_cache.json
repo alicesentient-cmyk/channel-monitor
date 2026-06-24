@@ -9237,5 +9237,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T18:05:46.613632"
+  },
+  "xhqcankao_30322": {
+    "ai_title": "智能手机均价涨21%",
+    "title_options": {
+      "conclusion": "智能手机均价涨21%",
+      "attractive": "手机均价涨21%创纪录",
+      "minimal": "均价涨21%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T19:01:36.254880"
+  },
+  "zaihuapd_42156": {
+    "ai_title": "GTA6售价79.99美元",
+    "title_options": {
+      "conclusion": "GTA6售价79.99美元",
+      "attractive": "GTA6预购送Vice City包",
+      "minimal": "GTA6 11月19日发售",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T19:01:36.444462"
+  },
+  "xhqcankao_30321": {
+    "ai_title": "美英追加制裁太子集团头目",
+    "title_options": {
+      "conclusion": "美英追加制裁太子集团头目",
+      "attractive": "太子集团头目遭美英制裁",
+      "minimal": "太子集团头目制裁",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T19:01:36.454212"
   }
 }
