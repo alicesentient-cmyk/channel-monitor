@@ -9336,5 +9336,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T22:05:41.610274"
+  },
+  "xhqcankao_30329": {
+    "ai_title": "360发布Mythos替代方案",
+    "title_options": {
+      "conclusion": "360发布Mythos替代方案",
+      "attractive": "中国版Mythos问世",
+      "minimal": "360替代Mythos",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T23:01:39.895621"
+  },
+  "zaihuapd_42158": {
+    "ai_title": "Siri拖垮Spotlight搜索",
+    "title_options": {
+      "conclusion": "Siri拖垮Spotlight搜索",
+      "attractive": "苹果强推AI遭吐槽",
+      "minimal": "Siri接管搜索",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T23:01:39.922504"
+  },
+  "xhqcankao_30330": {
+    "ai_title": "大摩上调人形机器人出货量",
+    "title_options": {
+      "conclusion": "大摩上调人形机器人出货量",
+      "attractive": "人形机器人出货量翻倍",
+      "minimal": "大摩上调出货量"
+    },
+    "generated_at": "2026-06-24T23:01:39.946833"
   }
 }
