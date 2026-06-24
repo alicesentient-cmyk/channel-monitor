@@ -1370,60 +1370,6 @@
       }
     },
     {
-      "id": "xhqcankao_30296",
-      "channel": "xhqcankao",
-      "text": "欧盟将升级对Meta诱使儿童上瘾设计的调查欧盟正准备加强对Meta Platforms Inc.的一项调查，该调查指控其产品对儿童具有成瘾性，因为欧盟正加大对这家美国社交媒体公司的监管压力。知情人士透露，欧盟执行机构欧盟委员会正准备发布初步调查结果，指控Meta公司的Facebook和Instagram 利用剥削性设计技术来让年轻用户上瘾。这些人士表示，监管机构尚未确定调查结果公布日期。该委员会于2024年5月根据《数字服务法》启动这项调查。该调查列出了多项涉嫌违规行为，包括指控Meta的界面通过「兔子洞效应」损害儿童身心健康，即算法通过持续不断的内容流来吸引用户注意力。",
-      "clean_text": "欧盟将升级对Meta诱使儿童上瘾设计的调查欧盟正准备加强对Meta Platforms Inc.的一项调查，该调查指控其产品对儿童具有成瘾性，因为欧盟正加大对这家美国社交媒体公司的监管压力。知情人士透露，欧盟执行机构欧盟委员会正准备发布初步调查结果，指控Meta公司的Facebook和Instagram 利用剥削性设计技术来让年轻用户上瘾。这些人士表示，监管机构尚未确定调查结果公布日期。该委员会于2024年5月根据《数字服务法》启动这项调查。该调查列出了多项涉嫌违规行为，包括指控Meta的界面通过「兔子洞效应」损害儿童身心健康，即算法通过持续不断的内容流来吸引用户注意力。——彭博社",
-      "datetime": "2026-06-23T14:34:15+00:00",
-      "views": "1.13K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30296",
-      "scraped_at": "2026-06-23T23:00:55.296604",
-      "title": "欧盟升级Meta儿童成瘾调查",
-      "title_options": {
-        "conclusion": "欧盟升级Meta儿童成瘾调查",
-        "attractive": "Meta被指诱儿童上瘾",
-        "minimal": "欧盟 Meta 儿童 调查",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42139",
-      "channel": "zaihuapd",
-      "text": "“开屏广告没了”登热搜，百度高德等取消开屏广告6 月 23 日晚，“开屏广告没了”登上微博热搜。多位网友反映，百度地图、高德地图、网易云音乐等 App 已取消开屏广告，经实测上述 App 均无开屏广告。此前有博主发视频吐槽导航 App 开屏广告影响行车安全。星岛环球网·英文频道·",
-      "clean_text": "“开屏广告没了”登热搜，百度高德等取消开屏广告6 月 23 日晚，“开屏广告没了”登上微博热搜。多位网友反映，百度地图、高德地图、网易云音乐等 App 已取消开屏广告，经实测上述 App 均无开屏广告。此前有博主发视频吐槽导航 App 开屏广告影响行车安全。星岛环球网·英文频道",
-      "datetime": "2026-06-23T14:31:21+00:00",
-      "views": "4.01K",
-      "source_links": [
-        {
-          "text": "星岛环球网",
-          "url": "https://www.stnn.cc/c/2026-06-23/4111913.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42139",
-      "scraped_at": "2026-06-23T23:00:52.836235",
-      "title": "多款App取消开屏广告",
-      "title_options": {
-        "conclusion": "多款App取消开屏广告",
-        "attractive": "开屏广告取消引热议",
-        "minimal": "开屏广告取消",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1486,6 +1432,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-25T02:29:56.037915"
+  "count": 56,
+  "updated_at": "2026-06-25T02:35:01.391669"
 }
