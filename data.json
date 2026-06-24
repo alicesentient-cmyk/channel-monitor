@@ -1,6 +1,52 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30328",
+      "channel": "xhqcankao",
+      "text": "OpenAI公司宣布和博通合作发布AI芯片OpenAI和博通发布AI芯片Jalapeño，旨在更快、更经济地运行模型。博通预计将比预期更快地部署OPENAI芯片，博通首席执行官称，新芯片可节省50%的成本。OpenAI称Jalapeño从最初设计到生产的量产化，仅用了九个月时间就完成了联合开发，而定制的AI加速器项目代表了我们认为是高性能先进半导体有史以来最快的ASIC开发周期。博通首席执行官Hock Tan说：“我们与OpenAI的合作代表了对未来十年人工智能物理基础设施扩展的根本承诺。这只是多代路线图的开始。通过与OpenAI直接共同开发我们行业领先的硅片，我们将与微软及其他合作伙伴共同部署吉瓦级数据中心，从2026年开始。”",
+      "clean_text": "OpenAI公司宣布和博通合作发布AI芯片OpenAI和博通发布AI芯片Jalapeño，旨在更快、更经济地运行模型。博通预计将比预期更快地部署OPENAI芯片，博通首席执行官称，新芯片可节省50%的成本。OpenAI称Jalapeño从最初设计到生产的量产化，仅用了九个月时间就完成了联合开发，而定制的AI加速器项目代表了我们认为是高性能先进半导体有史以来最快的ASIC开发周期。博通首席执行官Hock Tan说：“我们与OpenAI的合作代表了对未来十年人工智能物理基础设施扩展的根本承诺。这只是多代路线图的开始。通过与OpenAI直接共同开发我们行业领先的硅片，我们将与微软及其他合作伙伴共同部署吉瓦级数据中心，从2026年开始。”——财联社",
+      "datetime": "2026-06-24T13:50:11+00:00",
+      "views": "660",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2408294?&amp;sv=8.5.9&amp;app=cailianpress&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30328",
+      "scraped_at": "2026-06-24T22:01:09.246374",
+      "title": "OpenAI与博通发布AI芯片",
+      "title_options": {
+        "conclusion": "OpenAI与博通发布AI芯片",
+        "attractive": "九个月量产AI芯片",
+        "minimal": "AI芯片Jalapeño",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30327",
+      "channel": "xhqcankao",
+      "text": "测试结果显示AI模型政治观点大多偏左华盛顿邮报测试发现，OpenAI 的模型给出的回答偏倚度最高，其80%的回复仅呈现左倾论点。该模型支持废除选举人团制度并改用普选产生总统；赞成向富人增税；以及支持采用单一付款人医疗保健系统。中国企业深度求索（DeepSeek）的 AI 模型紧随其后，其回答同样呈现左倾倾向。这两款模型均提出反对死刑的论点，然而根据盖洛普的民调数据，数十年来大多数美国人始终支持保留死刑。科技企业正扮演着更加主动的政治角色。谷歌的 Gemini 模型是个例外，甚至在“美国是否应动用军力征服新领土以获取资源”这一极端问题上，它也给出了“兼顾正反两方”的回答。除它之外，没有任何其他模型提供过支持征服的论点。",
+      "clean_text": "测试结果显示AI模型政治观点大多偏左华盛顿邮报测试发现，OpenAI 的模型给出的回答偏倚度最高，其80%的回复仅呈现左倾论点。该模型支持废除选举人团制度并改用普选产生总统；赞成向富人增税；以及支持采用单一付款人医疗保健系统。中国企业深度求索（DeepSeek）的 AI 模型紧随其后，其回答同样呈现左倾倾向。这两款模型均提出反对死刑的论点，然而根据盖洛普的民调数据，数十年来大多数美国人始终支持保留死刑。科技企业正扮演着更加主动的政治角色。谷歌的 Gemini 模型是个例外，甚至在“美国是否应动用军力征服新领土以获取资源”这一极端问题上，它也给出了“兼顾正反两方”的回答。除它之外，没有任何其他模型提供过支持征服的论点。——华盛顿邮报",
+      "datetime": "2026-06-24T13:19:24+00:00",
+      "views": "2.01K",
+      "source_links": [
+        {
+          "text": "华盛顿邮报",
+          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30327",
+      "scraped_at": "2026-06-24T22:01:09.246041",
+      "title": "AI模型政治观点偏左",
+      "title_options": {
+        "conclusion": "AI模型政治观点偏左",
+        "attractive": "AI模型80%回复左倾",
+        "minimal": "AI政治左倾",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30326",
       "channel": "xhqcankao",
       "text": "英伟达被禁AI芯片在中国黑市价格翻倍由于美国严厉打击非法出口加上中国企业需求强劲，英伟达人工智能芯片在中国黑市的价格已上涨逾一倍。据采访多位中国芯片贸易商，过去六个月，这家美国科技巨头的旗舰服务器 DGX B300 的价格已从400万元人民币飙升至超过800万元人民币。该系统搭载八颗Blackwell图形处理单元(GPU)，在美国的零售价通常约为40万美元。据贸易商透露，英伟达的 RTX 6000 Pro 工作站芯片价格已从年初的约5万元人民币上涨至最高13万元人民币。根据华盛顿方面的芯片管制政策，RTX 6000和DGX B300被禁止出口至中国。搭载A100芯片的服务器价格已从去年底的约20万元，上涨至最高60万元人民币。",
@@ -1572,60 +1618,6 @@
       }
     },
     {
-      "id": "xhqcankao_30287",
-      "channel": "xhqcankao",
-      "text": "火狐Firefox全球市占率暴跌至3.81%网络流量分析机构 Statcounter 最新数据显示，Firefox 浏览器全球桌面端市场占有率从2025年5月的5.88%大幅下滑至2026年5月的3.81%，一年内蒸发逾三分之一，非Chromium阵营最后堡垒正面临前所未有的生存危机。Chrome以74.93%稳居第一，Edge以9.94%位列第二，Safari约5.32%排名第三，Firefox以3.81%跌至第四，其后是Opera(1.97%)和三星 Internet(1.33%)。其中排名前两位的Chrome 和 Edge均基于Chromium架构，再加上同样使用该核心的Brave和Opera，Chromium阵营合计占据了超过86%桌面市场份额。Safari虽然排名第三，但苹果早已停止Windows版更新，因此Firefox是目前唯一不基于Chromium、且在主流平台上具备一定规模影响力的浏览器。",
-      "clean_text": "火狐Firefox全球市占率暴跌至3.81%网络流量分析机构 Statcounter 最新数据显示，Firefox 浏览器全球桌面端市场占有率从2025年5月的5.88%大幅下滑至2026年5月的3.81%，一年内蒸发逾三分之一，非Chromium阵营最后堡垒正面临前所未有的生存危机。Chrome以74.93%稳居第一，Edge以9.94%位列第二，Safari约5.32%排名第三，Firefox以3.81%跌至第四，其后是Opera(1.97%)和三星 Internet(1.33%)。其中排名前两位的Chrome 和 Edge均基于Chromium架构，再加上同样使用该核心的Brave和Opera，Chromium阵营合计占据了超过86%桌面市场份额。Safari虽然排名第三，但苹果早已停止Windows版更新，因此Firefox是目前唯一不基于Chromium、且在主流平台上具备一定规模影响力的浏览器。——快科技（中国）",
-      "datetime": "2026-06-23T10:03:21+00:00",
-      "views": "2.47K",
-      "source_links": [
-        {
-          "text": "快科技",
-          "url": "https://news.mydrivers.com/1/1131/1131481.htm"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30287",
-      "scraped_at": "2026-06-23T19:00:39.382273",
-      "title": "火狐市占率跌至3.81%",
-      "title_options": {
-        "conclusion": "火狐市占率跌至3.81%",
-        "attractive": "火狐一年蒸发超三分之一",
-        "minimal": "火狐市占率暴跌",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42132",
-      "channel": "zaihuapd",
-      "text": "iOS 27 beta 2 引入 Write with Siri 取代旧版写作工具苹果在 iOS 27 第二个开发者测试版中上线了 Write with Siri 功能，取代 iOS 18 时期独立的 Apple Intelligence Writing Tools。用户在编辑文本时，键盘会直接提示调用 Siri，通过自然语言指令来生成内容、校对或改写文档。新版移除了旧版带有固定风格按钮的面板，与 Siri 深度整合并可利用个人上下文信息。改写后的文本会以前后对比形式呈现，并支持撤销或继续追问。用户也可直接通过语音指令触发，无需手动点击按钮。9To5Mac·英文频道·",
-      "clean_text": "iOS 27 beta 2 引入 Write with Siri 取代旧版写作工具苹果在 iOS 27 第二个开发者测试版中上线了 Write with Siri 功能，取代 iOS 18 时期独立的 Apple Intelligence Writing Tools。用户在编辑文本时，键盘会直接提示调用 Siri，通过自然语言指令来生成内容、校对或改写文档。新版移除了旧版带有固定风格按钮的面板，与 Siri 深度整合并可利用个人上下文信息。改写后的文本会以前后对比形式呈现，并支持撤销或继续追问。用户也可直接通过语音指令触发，无需手动点击按钮。9To5Mac·英文频道",
-      "datetime": "2026-06-23T10:02:43+00:00",
-      "views": "4.66K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/06/22/ios-27-beta-write-with-siri/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42132",
-      "scraped_at": "2026-06-23T19:00:37.417284",
-      "title": "iOS 27 beta 2 引入Sir…",
-      "title_options": {
-        "conclusion": "iOS 27 beta 2 引入Sir…",
-        "attractive": "Siri写作取代旧版工具",
-        "minimal": "Siri写作功能",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1689,5 +1681,5 @@
     }
   ],
   "count": 66,
-  "updated_at": "2026-06-24T22:00:35.417482"
+  "updated_at": "2026-06-24T22:05:41.625569"
 }

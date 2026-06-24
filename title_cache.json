@@ -9316,5 +9316,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T21:04:13.042234"
+  },
+  "xhqcankao_30327": {
+    "ai_title": "AI模型政治观点偏左",
+    "title_options": {
+      "conclusion": "AI模型政治观点偏左",
+      "attractive": "AI模型80%回复左倾",
+      "minimal": "AI政治左倾",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T22:05:41.495271"
+  },
+  "xhqcankao_30328": {
+    "ai_title": "OpenAI与博通发布AI芯片",
+    "title_options": {
+      "conclusion": "OpenAI与博通发布AI芯片",
+      "attractive": "九个月量产AI芯片",
+      "minimal": "AI芯片Jalapeño",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T22:05:41.610274"
   }
 }
