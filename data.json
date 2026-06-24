@@ -1634,29 +1634,6 @@
       }
     },
     {
-      "id": "xhqcankao_30289",
-      "channel": "xhqcankao",
-      "text": "Meta因安全问题暂停追踪员工鼠标活动的AI训练项目Meta周一表示，将暂停一项用于人工智能训练的内部程序，以调查数据安全问题，该程序追踪员工的鼠标移动和数字活动。文件显示，Meta内部系统中用于监控员工数字互动的敏感数据被意外开放给了Meta全体员工查阅。Meta证实正在进行调查，但拒绝透露计划暂停该项目多久。Meta 发言人特蕾西·克莱顿表示：“我们精心设计了该项目，并采取了隐私保护措施。虽然目前没有任何迹象表明Meta员工不当访问了任何数据，但我们将在调查期间暂停该项目。” 这款名为 “模型能力计划”的工具于今年四月份推出，它会捕捉Meta美国员工电脑上的鼠标移动、点击和键盘输入，用于训练公司的人工智能模型。",
-      "clean_text": "Meta因安全问题暂停追踪员工鼠标活动的AI训练项目Meta周一表示，将暂停一项用于人工智能训练的内部程序，以调查数据安全问题，该程序追踪员工的鼠标移动和数字活动。文件显示，Meta内部系统中用于监控员工数字互动的敏感数据被意外开放给了Meta全体员工查阅。Meta证实正在进行调查，但拒绝透露计划暂停该项目多久。Meta 发言人特蕾西·克莱顿表示：“我们精心设计了该项目，并采取了隐私保护措施。虽然目前没有任何迹象表明Meta员工不当访问了任何数据，但我们将在调查期间暂停该项目。” 这款名为 “模型能力计划”的工具于今年四月份推出，它会捕捉Meta美国员工电脑上的鼠标移动、点击和键盘输入，用于训练公司的人工智能模型。——路透社",
-      "datetime": "2026-06-23T11:04:58+00:00",
-      "views": "2.06K",
-      "source_links": [
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/legal/litigation/meta-pause-internal-mouse-tracking-tech-while-examining-data-security-issues-2026-06-22/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30289",
-      "scraped_at": "2026-06-23T20:00:16.034570",
-      "title": "Meta暂停追踪员工鼠标项目",
-      "title_options": {
-        "conclusion": "Meta暂停追踪员工鼠标项目",
-        "attractive": "员工数据意外开放全员查阅",
-        "minimal": "Meta暂停AI训练",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1719,6 +1696,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-24T23:01:39.961965"
+  "count": 66,
+  "updated_at": "2026-06-24T23:06:44.412853"
 }
