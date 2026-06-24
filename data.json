@@ -1723,23 +1723,6 @@
       }
     },
     {
-      "id": "zaihuapd_42125",
-      "channel": "zaihuapd",
-      "text": "OpenAI将推AI动画电影《Critterz》，成本不到3000万美元  OpenAI正支持制作一部名为《Critterz》的动画长片，希望向好莱坞展示AI的制作能力。这部电影将主要使用OpenAI自家的AI工具（包括GPT-5）完成。  该片的制作预算不到3000万美元，制作周期仅为9个月，远低于传统动画电影的成本和时间。电影计划在戛纳电影节首映，并于2026年在全球影院上映。  The",
-      "clean_text": "🤖OpenAI将推AI动画电影《Critterz》，成本不到3000万美元  OpenAI正支持制作一部名为《Critterz》的动画长片，希望向好莱坞展示AI的制作能力。这部电影将主要使用OpenAI自家的AI工具（包括GPT-5）完成。  该片的制作预算不到3000万美元，制作周期仅为9个月，远低于传统动画电影的成本和时间。电影计划在戛纳电影节首映，并于2026年在全球影院上映。  The Verge🍀在花频道🍵茶馆📮投稿",
-      "datetime": "2026-06-23T03:11:29+00:00",
-      "views": "4.41K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42125",
-      "scraped_at": "2026-06-23T12:00:37.366284",
-      "title": "OpenAI推AI动画电影",
-      "title_options": {
-        "conclusion": "OpenAI推AI动画电影",
-        "attractive": "AI动画成本不到3000万",
-        "minimal": "AI动画电影《Critterz》"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1802,6 +1785,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-24T15:10:43.271406"
+  "count": 71,
+  "updated_at": "2026-06-24T15:13:18.258684"
 }
