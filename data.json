@@ -1670,29 +1670,6 @@
       }
     },
     {
-      "id": "xhqcankao_30270",
-      "channel": "xhqcankao",
-      "text": "OpenAI新计划将帮助发现并修补开源漏洞当地时间周一，人工智能公司OpenAI宣布了一项新计划，旨在帮助开源社区提升其网络安全水平并抵御漏洞。 “Patch the Planet” 计划将由OpenAI与安全公司Trail of Bits 合作开展，旨在帮助开源维护者保护其项目安全。OpenAI公司表示，Trail of Bits 的安全人员将直接与开源维护者合作，审查潜在的代码问题。 OpenAI 公司的安全工具将用于辅助这一过程。OpenAI公司周一表示：“安全工程师会在漏洞报告提交给维护人员之前进行审查，与项目合作开发补丁和测试，并构建可重用工作流，帮助团队在首次修复落地后持续改进安全性。”",
-      "clean_text": "OpenAI新计划将帮助发现并修补开源漏洞当地时间周一，人工智能公司OpenAI宣布了一项新计划，旨在帮助开源社区提升其网络安全水平并抵御漏洞。 “Patch the Planet” 计划将由OpenAI与安全公司Trail of Bits 合作开展，旨在帮助开源维护者保护其项目安全。OpenAI公司表示，Trail of Bits 的安全人员将直接与开源维护者合作，审查潜在的代码问题。 OpenAI 公司的安全工具将用于辅助这一过程。OpenAI公司周一表示：“安全工程师会在漏洞报告提交给维护人员之前进行审查，与项目合作开发补丁和测试，并构建可重用工作流，帮助团队在首次修复落地后持续改进安全性。”——Techcrunch",
-      "datetime": "2026-06-23T01:32:15+00:00",
-      "views": "1.03K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30270",
-      "scraped_at": "2026-06-23T10:01:04.127513",
-      "title": "OpenAI助开源修补漏洞",
-      "title_options": {
-        "conclusion": "OpenAI助开源修补漏洞",
-        "attractive": "AI联手安全公司防漏洞",
-        "minimal": "OpenAI 开源 漏洞 修补",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1755,6 +1732,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-06-24T13:31:47.146452"
+  "count": 70,
+  "updated_at": "2026-06-24T13:36:50.389579"
 }
