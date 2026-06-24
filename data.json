@@ -1693,29 +1693,6 @@
       }
     },
     {
-      "id": "xhqcankao_30269",
-      "channel": "xhqcankao",
-      "text": "苹果批准可折叠iPhone的OLED面板生产三星显示已获得苹果公司批准，开始为苹果首款可折叠iPhone进行OLED面板的模组生产。据悉，三星显示已开始运营其在越南的部分后端生产线，以履行今年交付约 300万片面板的初步订单。模组生产批准要求供应商证明最终组装质量和量产稳定性，而苹果的门槛据称是至少70%的良率。三星显示在实现最终良率超过80%后已通过该标准。三星显示根据一项为期三年的协议，是可折叠iPhone的OLED面板独家供应商，这意味着在此期间苹果不会从其他显示制造商采购可折叠 OLED 面板。后端加工正在三星显示越南工厂进行，包括在最终检验和发货前添加驱动电路、柔性印制电路板和保护组件。",
-      "clean_text": "苹果批准可折叠iPhone的OLED面板生产三星显示已获得苹果公司批准，开始为苹果首款可折叠iPhone进行OLED面板的模组生产。据悉，三星显示已开始运营其在越南的部分后端生产线，以履行今年交付约 300万片面板的初步订单。模组生产批准要求供应商证明最终组装质量和量产稳定性，而苹果的门槛据称是至少70%的良率。三星显示在实现最终良率超过80%后已通过该标准。三星显示根据一项为期三年的协议，是可折叠iPhone的OLED面板独家供应商，这意味着在此期间苹果不会从其他显示制造商采购可折叠 OLED 面板。后端加工正在三星显示越南工厂进行，包括在最终检验和发货前添加驱动电路、柔性印制电路板和保护组件。——Macrumors",
-      "datetime": "2026-06-23T01:03:31+00:00",
-      "views": "1.81K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30269",
-      "scraped_at": "2026-06-23T10:01:04.127142",
-      "title": "苹果批准三星生产可折叠屏",
-      "title_options": {
-        "conclusion": "苹果批准三星生产可折叠屏",
-        "attractive": "三星独家供应可折叠iPhone屏",
-        "minimal": "苹果可折叠屏获批",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1778,6 +1755,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-06-24T13:01:19.652161"
+  "count": 71,
+  "updated_at": "2026-06-24T13:06:24.192532"
 }
