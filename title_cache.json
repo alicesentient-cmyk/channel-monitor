@@ -9267,5 +9267,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T19:01:36.454212"
+  },
+  "xhqcankao_30323": {
+    "ai_title": "GTA6售价79.99美元",
+    "title_options": {
+      "conclusion": "GTA6售价79.99美元",
+      "attractive": "GTA6预购零点开启",
+      "minimal": "GTA6 79.99美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T20:03:10.564000"
+  },
+  "xhqcankao_30324": {
+    "ai_title": "孙正义驳斥AI泡沫论",
+    "title_options": {
+      "conclusion": "孙正义驳斥AI泡沫论",
+      "attractive": "AI泡沫是亵渎？",
+      "minimal": "孙正义驳斥泡沫"
+    },
+    "generated_at": "2026-06-24T20:03:10.819846"
   }
 }
