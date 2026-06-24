@@ -1649,37 +1649,6 @@
       }
     },
     {
-      "id": "zaihuapd_42131",
-      "channel": "zaihuapd",
-      "text": "三星发布 UFS 5.0：面向端侧 AI，带宽高达 10.8 GB/s，计划四季度量产三星电子宣布已开发面向下一代端侧 AI 应用的 UFS 5.0 闪存存储解决方案，称其为目前业界速度最快的 UFS 产品。方案基于 JEDEC 最新嵌入式存储接口标准，顺序读取速度最高 10.8 GB/s，顺序写入速度最高 9.5 GB/s，较 UFS 4.1 标准提升超过一倍；功耗效率较三星 UFS 4.1 方案提升超过 40%，封装尺寸缩小 16.7%。该方案计划于今年第四季度量产，容量最高达 1 TB，应用范围涵盖旗舰手机、XR 头显和 AI 可穿戴设备。Samsung·英文频道·",
-      "clean_text": "三星发布 UFS 5.0：面向端侧 AI，带宽高达 10.8 GB/s，计划四季度量产三星电子宣布已开发面向下一代端侧 AI 应用的 UFS 5.0 闪存存储解决方案，称其为目前业界速度最快的 UFS 产品。方案基于 JEDEC 最新嵌入式存储接口标准，顺序读取速度最高 10.8 GB/s，顺序写入速度最高 9.5 GB/s，较 UFS 4.1 标准提升超过一倍；功耗效率较三星 UFS 4.1 方案提升超过 40%，封装尺寸缩小 16.7%。该方案计划于今年第四季度量产，容量最高达 1 TB，应用范围涵盖旗舰手机、XR 头显和 AI 可穿戴设备。Samsung·英文频道",
-      "datetime": "2026-06-23T09:17:43+00:00",
-      "views": "4.05K",
-      "source_links": [
-        {
-          "text": "Samsung",
-          "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42131",
-      "scraped_at": "2026-06-23T18:00:44.393281",
-      "title": "三星发布UFS 5.0",
-      "title_options": {
-        "conclusion": "三星发布UFS 5.0",
-        "attractive": "带宽10.8GB/s",
-        "minimal": "UFS 5.0 三星",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1742,6 +1711,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-06-24T21:14:50.030337"
+  "count": 67,
+  "updated_at": "2026-06-24T21:19:54.254825"
 }
