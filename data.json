@@ -1657,37 +1657,6 @@
       }
     },
     {
-      "id": "xhqcankao_30266",
-      "channel": "xhqcankao",
-      "text": "《泰坦之旅》等多款安卓游戏限时促销《海绵宝宝：比基尼海滩之战》原价9.99美元，限时促销0.1美元。购买链接：play商店《Wreckfest - 撞车大赛》原价10.99美元，限时促销0.1美元。购买链接：play商店《泰坦之旅》原价10.99美元，限时促销0.1美元。购买链接：play商店",
-      "clean_text": "《泰坦之旅》等多款安卓游戏限时促销《海绵宝宝：比基尼海滩之战》原价9.99美元，限时促销0.1美元。购买链接：play商店《Wreckfest - 撞车大赛》原价10.99美元，限时促销0.1美元。购买链接：play商店《泰坦之旅》原价10.99美元，限时促销0.1美元。购买链接：play商店",
-      "datetime": "2026-06-22T23:32:03+00:00",
-      "views": "700",
-      "source_links": [
-        {
-          "text": "play商店",
-          "url": "https://play.google.com/store/apps/details?id=com.hg.bfbb"
-        },
-        {
-          "text": "play商店",
-          "url": "https://play.google.com/store/apps/details?id=com.hg.wreckfest"
-        },
-        {
-          "text": "play商店",
-          "url": "https://play.google.com/store/apps/details?id=com.dotemu.titanquest"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30266",
-      "scraped_at": "2026-06-23T08:00:43.740844",
-      "title": "多款安卓游戏限时0.1美元",
-      "title_options": {
-        "conclusion": "多款安卓游戏限时0.1美元",
-        "attractive": "《海绵宝宝》等游戏0.1美元促销",
-        "minimal": "安卓游戏0.1美元促销",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1750,6 +1719,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-06-24T11:30:03.855037"
+  "count": 69,
+  "updated_at": "2026-06-24T11:35:07.179726"
 }
