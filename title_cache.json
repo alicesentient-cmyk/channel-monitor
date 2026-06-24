@@ -8991,5 +8991,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-24T09:02:51.162369"
+  },
+  "xhqcankao_30308": {
+    "ai_title": "豆包推专业版订阅",
+    "title_options": {
+      "conclusion": "豆包推专业版订阅",
+      "attractive": "豆包专业版最低38元",
+      "minimal": "豆包专业版订阅",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T10:03:37.729732"
+  },
+  "zaihuapd_42145": {
+    "ai_title": "豆包专业版年费5088元",
+    "title_options": {
+      "conclusion": "豆包专业版年费5088元",
+      "attractive": "豆包付费最高年费5088",
+      "minimal": "豆包付费灰度测试",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T10:03:37.886504"
+  },
+  "xhqcankao_30307": {
+    "ai_title": "客户起诉美政府切断AI模型",
+    "title_options": {
+      "conclusion": "客户起诉美政府切断AI模型",
+      "attractive": "美政府禁令致AI公司起诉",
+      "minimal": "Anthropic客户起诉",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-24T10:03:37.959665"
   }
 }
