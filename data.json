@@ -1626,29 +1626,6 @@
       }
     },
     {
-      "id": "xhqcankao_30286",
-      "channel": "xhqcankao",
-      "text": "AMD新版驱动程序为旧款显卡带来FSR 4.1AMD今日正式为Radeon RX 7000系列显卡带来 FSR 4.1 超分辨率技术。此次更新意味着，搭载这些使用 RDNA 3 图形架构的老款显卡的PC，将能够在游戏中看到诸如更好的画质和更流畅的游戏体验等改进。AMD曾在5月承诺，会将FSR 4.1的支持引入RX 7000系列显卡。AMD还计划将FSR 4.1引入RDNA 3 APU；AMD的 Jack Huynh表示，公司正在“开发轻量级机器学习模型，以将FSR 4.1带到更多设备上”。公司还将在2027年初的某个时候将FSR 4.1引入 RDNA 2显卡。据 Huynh 称，FSR 4.1目前已在 300多款游戏中可用。而且还有更多游戏即将支持。",
-      "clean_text": "AMD新版驱动程序为旧款显卡带来FSR 4.1AMD今日正式为Radeon RX 7000系列显卡带来 FSR 4.1 超分辨率技术。此次更新意味着，搭载这些使用 RDNA 3 图形架构的老款显卡的PC，将能够在游戏中看到诸如更好的画质和更流畅的游戏体验等改进。AMD曾在5月承诺，会将FSR 4.1的支持引入RX 7000系列显卡。AMD还计划将FSR 4.1引入RDNA 3 APU；AMD的 Jack Huynh表示，公司正在“开发轻量级机器学习模型，以将FSR 4.1带到更多设备上”。公司还将在2027年初的某个时候将FSR 4.1引入 RDNA 2显卡。据 Huynh 称，FSR 4.1目前已在 300多款游戏中可用。而且还有更多游戏即将支持。——Theverge",
-      "datetime": "2026-06-23T09:33:54+00:00",
-      "views": "1.23K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30286",
-      "scraped_at": "2026-06-23T18:00:46.596880",
-      "title": "AMD为RX 7000推送FSR 4.1",
-      "title_options": {
-        "conclusion": "AMD为RX 7000推送FSR 4.1",
-        "attractive": "旧显卡获FSR 4.1画质提升",
-        "minimal": "RX 7000 FSR 4.1",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1711,6 +1688,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-06-24T21:30:06.163275"
+  "count": 66,
+  "updated_at": "2026-06-24T21:35:10.018307"
 }
