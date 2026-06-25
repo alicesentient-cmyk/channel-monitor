@@ -9613,5 +9613,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T15:02:41.972944"
+  },
+  "zaihuapd_42169": {
+    "ai_title": "高考成绩公布选专业",
+    "title_options": {
+      "conclusion": "高考成绩公布选专业",
+      "attractive": "哪些专业更有前景",
+      "minimal": "高考选专业",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T16:03:26.664308"
+  },
+  "xhqcankao_30349": {
+    "ai_title": "中国发电装机全球首位",
+    "title_options": {
+      "conclusion": "中国发电装机全球首位",
+      "attractive": "中国发电超美欧日总和",
+      "minimal": "发电装机40亿千瓦",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T16:03:27.660866"
+  },
+  "xhqcankao_30350": {
+    "ai_title": "Meta用AI替代半数人工审核",
+    "title_options": {
+      "conclusion": "Meta用AI替代半数人工审核",
+      "attractive": "AI审核每年省数十亿美元",
+      "minimal": "AI替代人工审核",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T16:03:29.663702"
   }
 }
