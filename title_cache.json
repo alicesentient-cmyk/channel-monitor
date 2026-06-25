@@ -9473,5 +9473,25 @@
       "minimal": "AI输给人类顾问"
     },
     "generated_at": "2026-06-25T10:04:40.712072"
+  },
+  "xhqcankao_30339": {
+    "ai_title": "比亚迪研发人形机器人",
+    "title_options": {
+      "conclusion": "比亚迪研发人形机器人",
+      "attractive": "门店机器人卖车",
+      "minimal": "比亚迪机器人",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T11:05:20.301842"
+  },
+  "zaihuapd_42164": {
+    "ai_title": "谷歌Play在英美欧启用外部计费",
+    "title_options": {
+      "conclusion": "谷歌Play在英美欧启用外部计费",
+      "attractive": "开发者可选第三方支付",
+      "minimal": "谷歌Play外部计费",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T11:05:20.531643"
   }
 }
