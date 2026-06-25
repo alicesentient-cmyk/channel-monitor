@@ -1346,33 +1346,6 @@
       }
     },
     {
-      "id": "xhqcankao_30316",
-      "channel": "xhqcankao",
-      "text": "LastPass被黑客窃取了客户支持案例数据密码管理器工具开发商 LastPass 正在通知用户，其个人信息和客户支持案例记录在其一家技术合作伙伴最近遭受黑客攻击期间被盗，这标志着该公司近年来最新的数据泄露事件。在电子邮件中，LastPass表示，此次入侵发生在市场研究公司Klue，而非其自身系统。然而，黑客滥用该公司访问权限获取了大量关于LastPass客户的数据。在一篇分享该事件信息的博客文章中，LastPass表示黑客获取了客户的姓名、电话号码、电子邮件地址和实际地址，以及客户支持案例数据和销售相关数据。LastPass表示，公司自身的基础设施未受影响，包括客户的密码库。",
-      "clean_text": "LastPass被黑客窃取了客户支持案例数据密码管理器工具开发商 LastPass 正在通知用户，其个人信息和客户支持案例记录在其一家技术合作伙伴最近遭受黑客攻击期间被盗，这标志着该公司近年来最新的数据泄露事件。在电子邮件中，LastPass表示，此次入侵发生在市场研究公司Klue，而非其自身系统。然而，黑客滥用该公司访问权限获取了大量关于LastPass客户的数据。在一篇分享该事件信息的博客文章中，LastPass表示黑客获取了客户的姓名、电话号码、电子邮件地址和实际地址，以及客户支持案例数据和销售相关数据。LastPass表示，公司自身的基础设施未受影响，包括客户的密码库。——Techcrunch",
-      "datetime": "2026-06-24T05:31:47+00:00",
-      "views": "1.24K",
-      "source_links": [
-        {
-          "text": "在市场研究公司Klue",
-          "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30316",
-      "scraped_at": "2026-06-24T14:00:46.655161",
-      "title": "LastPass客户数据被盗",
-      "title_options": {
-        "conclusion": "LastPass客户数据被盗",
-        "attractive": "黑客窃取LastPass客户数据",
-        "minimal": "LastPass数据泄露",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1435,6 +1408,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-25T17:29:37.994093"
+  "count": 55,
+  "updated_at": "2026-06-25T17:34:42.678079"
 }
