@@ -9741,5 +9741,44 @@
       "minimal": "日军采血输血研究"
     },
     "generated_at": "2026-06-25T19:00:52.102997"
+  },
+  "xhqcankao_30358": {
+    "ai_title": "IBM推亚1纳米芯片",
+    "title_options": {
+      "conclusion": "IBM推亚1纳米芯片",
+      "attractive": "性能提升50%能效增70%",
+      "minimal": "亚1纳米芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T20:01:54.708841"
+  },
+  "xhqcankao_30359": {
+    "ai_title": "马斯克官宣太空算力项目",
+    "title_options": {
+      "conclusion": "马斯克官宣太空算力项目",
+      "attractive": "百万颗卫星部署太空算力",
+      "minimal": "太空算力项目",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T20:01:54.818271"
+  },
+  "xhqcankao_30357": {
+    "ai_title": "澳洲社媒禁令效果不佳",
+    "title_options": {
+      "conclusion": "澳洲社媒禁令效果不佳",
+      "attractive": "青少年用假账号规避禁令",
+      "minimal": "禁令 青少年 假账号",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T20:01:54.954314"
+  },
+  "zaihuapd_42177": {
+    "ai_title": "施密特称中国AI开源难控",
+    "title_options": {
+      "conclusion": "施密特称中国AI开源难控",
+      "attractive": "中国AI低成本成优势",
+      "minimal": "施密特 中国AI 开源"
+    },
+    "generated_at": "2026-06-25T20:01:55.881657"
   }
 }
