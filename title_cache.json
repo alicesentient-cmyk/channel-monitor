@@ -9434,5 +9434,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T09:03:57.133903"
+  },
+  "xhqcankao_30338": {
+    "ai_title": "芯片短缺持续到2027年后",
+    "title_options": {
+      "conclusion": "芯片短缺持续到2027年后",
+      "attractive": "美光利润增14倍",
+      "minimal": "芯片短缺至2027",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T10:04:39.656250"
+  },
+  "zaihuapd_42163": {
+    "ai_title": "Anthropic指控阿里窃取AI能力",
+    "title_options": {
+      "conclusion": "Anthropic指控阿里窃取AI能力",
+      "attractive": "阿里被指发动2880万次攻击",
+      "minimal": "阿里Anthropic蒸馏攻击",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T10:04:39.843744"
+  },
+  "xhqcankao_30337": {
+    "ai_title": "高通将在华推数据中心芯片",
+    "title_options": {
+      "conclusion": "高通将在华推数据中心芯片",
+      "attractive": "高通AI芯片入华合规",
+      "minimal": "高通数据中心中国",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T10:04:40.009628"
+  },
+  "xhqcankao_30336": {
+    "ai_title": "AI在财富管理输给人类",
+    "title_options": {
+      "conclusion": "AI在财富管理输给人类",
+      "attractive": "仅12%富人用AI决策",
+      "minimal": "AI输给人类顾问"
+    },
+    "generated_at": "2026-06-25T10:04:40.712072"
   }
 }
