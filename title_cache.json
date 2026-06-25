@@ -9385,5 +9385,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T07:02:14.407921"
+  },
+  "xhqcankao_30333": {
+    "ai_title": "Zoox发布新一代无人出租车",
+    "title_options": {
+      "conclusion": "Zoox发布新一代无人出租车",
+      "attractive": "无人车能帮你找钥匙",
+      "minimal": "Zoox无人出租车升级",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T08:03:21.410927"
+  },
+  "xhqcankao_30334": {
+    "ai_title": "菲律宾封禁游戏GoreBox",
+    "title_options": {
+      "conclusion": "菲律宾封禁游戏GoreBox",
+      "attractive": "校园枪击案后封禁游戏",
+      "minimal": "菲律宾封禁GoreBox",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T08:03:21.509937"
+  },
+  "xhqcankao_30332": {
+    "ai_title": "特斯拉事故致76岁居民身亡",
+    "title_options": {
+      "conclusion": "特斯拉事故致76岁居民身亡",
+      "attractive": "特斯拉被诉Autopilot缺陷",
+      "minimal": "特斯拉致命事故调查"
+    },
+    "generated_at": "2026-06-25T08:03:21.609571"
   }
 }
