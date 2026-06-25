@@ -1343,36 +1343,6 @@
       }
     },
     {
-      "id": "zaihuapd_42152",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 等拟推 PACT 协议，用加密令牌替代验证码Cloudflare 联合 Chrome、Firefox、Edge 及 Shopify 提出 PACT 协议，拟用匿名加密令牌替代 CAPTCHA。用户经可信站点验证后获得令牌，访问其他网站时无需再识别图片，且不会泄露身份或浏览记录。该协议基于 IETF 的 Privacy Pass，采用盲签名技术，也覆盖合法 AI 代理与恶意爬虫的区分。但目前仍是提案，未定标准组织与时间表，苹果未加入，令牌发行方的治理问题也未解决。Tech Times·英文频道·",
-      "clean_text": "Cloudflare 等拟推 PACT 协议，用加密令牌替代验证码Cloudflare 联合 Chrome、Firefox、Edge 及 Shopify 提出 PACT 协议，拟用匿名加密令牌替代 CAPTCHA。用户经可信站点验证后获得令牌，访问其他网站时无需再识别图片，且不会泄露身份或浏览记录。该协议基于 IETF 的 Privacy Pass，采用盲签名技术，也覆盖合法 AI 代理与恶意爬虫的区分。但目前仍是提案，未定标准组织与时间表，苹果未加入，令牌发行方的治理问题也未解决。Tech Times·英文频道",
-      "datetime": "2026-06-24T06:30:08+00:00",
-      "views": "3.26K",
-      "source_links": [
-        {
-          "text": "Tech Times",
-          "url": "https://www.techtimes.com/articles/318891/20260623/cloudflare-chrome-firefox-plan-replace-captchas-cryptographic-tokens.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42152",
-      "scraped_at": "2026-06-24T15:00:20.516784",
-      "title": "PACT协议用令牌替代验证码",
-      "title_options": {
-        "conclusion": "PACT协议用令牌替代验证码",
-        "attractive": "告别验证码，PACT协议来了",
-        "minimal": "PACT令牌替代验证码"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1466,6 +1436,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-25T18:25:21.556708"
+  "count": 56,
+  "updated_at": "2026-06-25T18:30:25.906701"
 }
