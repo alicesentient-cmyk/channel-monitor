@@ -1337,37 +1337,6 @@
       }
     },
     {
-      "id": "zaihuapd_42158",
-      "channel": "zaihuapd",
-      "text": "新版 Siri 被指拖垮 Spotlight，苹果强推 AI 遭吐槽苹果在 WWDC 推出的 AI 版 Siri 虽支持连续对话，却被吐槽让系统更难用。作者在 iOS 27 和 macOS 27 测试版中发现，Spotlight 搜索被 Siri 接管，搜索网页需多点多次才能跳转 Google，体验类似谷歌备受争议的 AI Overviews。此外，Siri 应用会永久保存每次对话记录，造成信息冗余。作者认为苹果刻意弱化基础功能以强推 AI，目前只能借助快捷指令绕过。The Register·英文频道·",
-      "clean_text": "新版 Siri 被指拖垮 Spotlight，苹果强推 AI 遭吐槽苹果在 WWDC 推出的 AI 版 Siri 虽支持连续对话，却被吐槽让系统更难用。作者在 iOS 27 和 macOS 27 测试版中发现，Spotlight 搜索被 Siri 接管，搜索网页需多点多次才能跳转 Google，体验类似谷歌备受争议的 AI Overviews。此外，Siri 应用会永久保存每次对话记录，造成信息冗余。作者认为苹果刻意弱化基础功能以强推 AI，目前只能借助快捷指令绕过。The Register·英文频道",
-      "datetime": "2026-06-24T14:31:24+00:00",
-      "views": "3.38K",
-      "source_links": [
-        {
-          "text": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/06/16/the-new-siri-makes-one-of-apples-most-convenient-os-features-a-cumbersome-mess/5256591"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42158",
-      "scraped_at": "2026-06-24T23:00:57.244240",
-      "title": "Siri拖垮Spotlight搜索",
-      "title_options": {
-        "conclusion": "Siri拖垮Spotlight搜索",
-        "attractive": "苹果强推AI遭吐槽",
-        "minimal": "Siri接管搜索",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42136",
       "channel": "zaihuapd",
       "text": "消息称阿里巴巴计划出售游戏业务，售价 70-90 亿元游戏新知获悉，阿里巴巴集团计划出售游戏业务品牌灵犀互娱，目前已接触至少五位潜在买家，开价 70 亿至 90 亿元人民币。接触的买家包括三七互娱、中国儒意、世纪华通、巨人网络，以及两家私募股权巨头组成的收购团。有业内人士猜测，阿里此举或为获取更充足的现金流。新浪科技·英文频道·",
@@ -1460,6 +1429,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-26T02:29:39.068829"
+  "count": 55,
+  "updated_at": "2026-06-26T02:34:42.921970"
 }
