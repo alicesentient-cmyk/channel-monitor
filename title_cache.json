@@ -9583,5 +9583,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T14:01:50.096875"
+  },
+  "xhqcankao_30347": {
+    "ai_title": "沃伦呼吁加强AI反垄断",
+    "title_options": {
+      "conclusion": "沃伦呼吁加强AI反垄断",
+      "attractive": "AI推高租金？国会须反击",
+      "minimal": "沃伦 AI 反垄断",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T15:02:41.888175"
+  },
+  "xhqcankao_30348": {
+    "ai_title": "黄仁勋：走私芯片是死路",
+    "title_options": {
+      "conclusion": "黄仁勋：走私芯片是死路",
+      "attractive": "走私芯片建AI数据中心必败",
+      "minimal": "走私芯片死路",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T15:02:41.893464"
+  },
+  "zaihuapd_42168": {
+    "ai_title": "B站播客日播放破亿分钟",
+    "title_options": {
+      "conclusion": "B站播客日播放破亿分钟",
+      "attractive": "播客时长超30分钟占半",
+      "minimal": "B站播客播放破亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T15:02:41.972944"
   }
 }
