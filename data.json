@@ -1,6 +1,86 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42174",
+      "channel": "zaihuapd",
+      "text": "月之暗面黄震昕：Kimi 目标是与海外三大模型竞争，海外付费用户增 4 倍月之暗面 B 端负责人黄震昕在亚马逊云科技中国峰会上披露，Kimi 海外付费用户增长 4 倍，API 收入增长 400%，产品已进入 200 多个国家和地区。互联网、金融、制造、教育、医疗等行业已成为其重要企业客户来源。黄震昕强调，公司核心仍是对模型底层创新的投入，员工仅 300 余人，资源最高优先级在研发而非重交付。月之暗面与亚马逊云科技深度绑定，由后者负责行业方案、全球客户资源及合规，Kimi 专注模型能力，模型已上架 Amazon Marketplace，未来或探索在 Trainium 芯片上的预训练合作。黄震昕表示，Kimi 的目标是“和海外那三家模型公司掰掰手腕”。21 财经·英文频道·",
+      "clean_text": "月之暗面黄震昕：Kimi 目标是与海外三大模型竞争，海外付费用户增 4 倍月之暗面 B 端负责人黄震昕在亚马逊云科技中国峰会上披露，Kimi 海外付费用户增长 4 倍，API 收入增长 400%，产品已进入 200 多个国家和地区。互联网、金融、制造、教育、医疗等行业已成为其重要企业客户来源。黄震昕强调，公司核心仍是对模型底层创新的投入，员工仅 300 余人，资源最高优先级在研发而非重交付。月之暗面与亚马逊云科技深度绑定，由后者负责行业方案、全球客户资源及合规，Kimi 专注模型能力，模型已上架 Amazon Marketplace，未来或探索在 Trainium 芯片上的预训练合作。黄震昕表示，Kimi 的目标是“和海外那三家模型公司掰掰手腕”。21 财经·英文频道",
+      "datetime": "2026-06-25T10:00:00+00:00",
+      "views": "161",
+      "source_links": [
+        {
+          "text": "21 财经",
+          "url": "https://m.21jingji.com/article/20260625/herald/4ac45f890a5776973e6004f34810ac2c.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42174",
+      "scraped_at": "2026-06-25T18:00:44.379764",
+      "title": "Kimi海外付费用户增4倍",
+      "title_options": {
+        "conclusion": "Kimi海外付费用户增4倍",
+        "attractive": "Kimi用户增长4倍秘诀",
+        "minimal": "Kimi海外用户增4倍"
+      }
+    },
+    {
+      "id": "xhqcankao_30354",
+      "channel": "xhqcankao",
+      "text": "荷兰官员赴美反对新的《MATCH法案》荷兰贸易大臣谢尔茨·舍尔茨玛本周访问华盛顿，会见了美国商务部长霍华德·卢特尼克和国会议员，以反对《硬件技术控制多边协同法案》(简称MATCH法案)，该法案将禁止中国芯片制造商获取西方半导体设备，并且将尤其严重地打击ASML。舍尔茨玛表示：“我特地来到这里，向美国国会全面阐述我们的关切，这非常罕见。我们这样做，是因为这些关切非常重要，对荷兰来说事关重大。”中国占ASML净系统销售额的19%。《硬件技术控制多边协同法案》将比现有管制走得更远，在长期禁止其最先进的极紫外（EUV）设备进入中国的基础上，将限制范围扩大到ASML的深紫外浸没式光刻机。",
+      "clean_text": "荷兰官员赴美反对新的《MATCH法案》荷兰贸易大臣谢尔茨·舍尔茨玛本周访问华盛顿，会见了美国商务部长霍华德·卢特尼克和国会议员，以反对《硬件技术控制多边协同法案》(简称MATCH法案)，该法案将禁止中国芯片制造商获取西方半导体设备，并且将尤其严重地打击ASML。舍尔茨玛表示：“我特地来到这里，向美国国会全面阐述我们的关切，这非常罕见。我们这样做，是因为这些关切非常重要，对荷兰来说事关重大。”中国占ASML净系统销售额的19%。《硬件技术控制多边协同法案》将比现有管制走得更远，在长期禁止其最先进的极紫外（EUV）设备进入中国的基础上，将限制范围扩大到ASML的深紫外浸没式光刻机。——Techcrunch",
+      "datetime": "2026-06-25T09:31:14+00:00",
+      "views": "1.2K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30354",
+      "scraped_at": "2026-06-25T18:00:46.369240",
+      "title": "荷兰官员赴美反对MATCH法案",
+      "title_options": {
+        "conclusion": "荷兰官员赴美反对MATCH法案",
+        "attractive": "ASML中国销售19%受威胁",
+        "minimal": "荷兰反对MATCH法案",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30353",
+      "channel": "xhqcankao",
+      "text": "谷歌 Gemini 3.5 Pro 推迟至七月升级上线谷歌原计划六月推出的新一代人工智能模型Gemini 3.5 Pro，发布时间调整至七月，企业将利用延期窗口期收集测试反馈、优化模型各项性能。知情人士称，谷歌在 I/O 开发者大会上，已对外预告 Gemini 3.5 Pro，当时谷歌CEO皮查伊曾表示该模型预计次月推出，同时坦言产品尚未达到成熟上线标准。受全球AI行业激烈竞争态势影响，谷歌选择延后上线节奏，深耕模型实际使用能力。为了优化产品体验，谷歌开放 “Antigravity” 平台、AI 评测基准网站 LMArena 供部分测试用户提前试用 Gemini 3.5 Pro，持续收集真实业务场景下的使用数据与反馈意见。",
+      "clean_text": "谷歌 Gemini 3.5 Pro 推迟至七月升级上线谷歌原计划六月推出的新一代人工智能模型Gemini 3.5 Pro，发布时间调整至七月，企业将利用延期窗口期收集测试反馈、优化模型各项性能。知情人士称，谷歌在 I/O 开发者大会上，已对外预告 Gemini 3.5 Pro，当时谷歌CEO皮查伊曾表示该模型预计次月推出，同时坦言产品尚未达到成熟上线标准。受全球AI行业激烈竞争态势影响，谷歌选择延后上线节奏，深耕模型实际使用能力。为了优化产品体验，谷歌开放 “Antigravity” 平台、AI 评测基准网站 LMArena 供部分测试用户提前试用 Gemini 3.5 Pro，持续收集真实业务场景下的使用数据与反馈意见。——环球网、商业内幕",
+      "datetime": "2026-06-25T09:02:47+00:00",
+      "views": "2.21K",
+      "source_links": [
+        {
+          "text": "环球网",
+          "url": "https://tech.huanqiu.com/article/4S7TAMOqQsG"
+        },
+        {
+          "text": "商业内幕",
+          "url": "https://www.businessinsider.com/google-3-5-pro-july-release-tokens-ai-agents-model-2026-6"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30353",
+      "scraped_at": "2026-06-25T18:00:46.368879",
+      "title": "谷歌Gemini 3.5 Pro推迟至…",
+      "title_options": {
+        "conclusion": "谷歌Gemini 3.5 Pro推迟至…",
+        "attractive": "Gemini 3.5 Pro延期七月上线",
+        "minimal": "Gemini 3.5 Pro七月上线",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30352",
       "channel": "xhqcankao",
       "text": "B站：预计到明年，视频播客日均播放时长有望达到3亿分钟哔哩哔哩今日发布《哔哩哔哩视频播客创作手册》（1.0 版本），首次系统披露平台视频播客生态的增长情况、内容特征与创作趋势。数据显示，今年5月13日，B站视频播客单日播放时长首次突破1亿分钟；预计到明年，视频播客日均播放时长有望达到 3亿分钟，同比增长300%。手册提到，视频播客的播放高峰出现在工作日中午12点和晚上21~22点，周末上午10~11点也是一个小高峰。选择这些时间段并提前两小时发布，更易被推荐到观众面前。在 B站，超过一半的视频播客内容时长超过30分钟，2 小时以上的“超长播客”投稿量增长了近9倍。",
@@ -1293,28 +1373,6 @@
       }
     },
     {
-      "id": "xhqcankao_30317",
-      "channel": "xhqcankao",
-      "text": "特朗普可能是礼来减肥药临床试验中的神秘案例在一个极其罕见的案例中，一位79岁的老人通过美国食品药品监督管理局（FDA）的“同情用药”项目，提前获得了礼来公司强效但仍在试验阶段的减肥药物retatrutide的使用权。该途径通常用于为患有“严重或危及生命的疾病或状况”且无法参加临床试验的患者提供用药。该用药申请最初于今年4月由美国国立卫生研究院（NIH）的一位高级临床医生提出，当时该患者79岁（特朗普于6月14日年满80岁）。这名患者服用替泽帕肽已一年，但体重仅略有减轻。随后 FDA 发布扩大准入范围的公开通知令人怀疑，因为它省略了此类通知通常会包含的许多信息，例如患者可能符合获得此类准入资格的条件。制药公司将一种常见疾病药物的扩大使用范围授予单个患者，而不是授予具有特定特征的患者群体，这种情况非常罕见。礼来公司、NIH和美国卫生部均未正面回复该案例是否为总统的询问，白宫发言人库什·德赛则回复称这是个“愚蠢的问题”。——Ars Technica",
-      "clean_text": "特朗普可能是礼来减肥药临床试验中的神秘案例在一个极其罕见的案例中，一位79岁的老人通过美国食品药品监督管理局（FDA）的“同情用药”项目，提前获得了礼来公司强效但仍在试验阶段的减肥药物retatrutide的使用权。该途径通常用于为患有“严重或危及生命的疾病或状况”且无法参加临床试验的患者提供用药。该用药申请最初于今年4月由美国国立卫生研究院（NIH）的一位高级临床医生提出，当时该患者79岁（特朗普于6月14日年满80岁）。这名患者服用替泽帕肽已一年，但体重仅略有减轻。随后 FDA 发布扩大准入范围的公开通知令人怀疑，因为它省略了此类通知通常会包含的许多信息，例如患者可能符合获得此类准入资格的条件。制药公司将一种常见疾病药物的扩大使用范围授予单个患者，而不是授予具有特定特征的患者群体，这种情况非常罕见。礼来公司、NIH和美国卫生部均未正面回复该案例是否为总统的询问，白宫发言人库什·德赛则回复称这是个“愚蠢的问题”。——Ars Technica",
-      "datetime": "2026-06-24T06:02:38+00:00",
-      "views": "2.34K",
-      "source_links": [
-        {
-          "text": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30317",
-      "scraped_at": "2026-06-24T15:00:23.324714",
-      "title": "特朗普获礼来减肥药同情用药",
-      "title_options": {
-        "conclusion": "特朗普获礼来减肥药同情用药",
-        "attractive": "79岁老人获试验减肥药",
-        "minimal": "特朗普 礼来 减肥药 同情用药"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1375,8 +1433,39 @@
         "minimal": "阿里出售游戏业务",
         "best": "conclusion"
       }
+    },
+    {
+      "id": "zaihuapd_42171",
+      "channel": "zaihuapd",
+      "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
+      "clean_text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道",
+      "datetime": null,
+      "views": "4.54K",
+      "source_links": [
+        {
+          "text": "MWR(@MWRevamped",
+          "url": "https://x.com/MWRevamped/status/2069876847106781489"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42171",
+      "scraped_at": "2026-06-25T18:00:44.379316",
+      "title": "苹果发诱饵iPhone防泄密",
+      "title_options": {
+        "conclusion": "苹果发诱饵iPhone防泄密",
+        "attractive": "员工领到假iPhone 17",
+        "minimal": "诱饵盒 防截胡",
+        "best": "conclusion"
+      }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-25T18:00:00.332034"
+  "count": 57,
+  "updated_at": "2026-06-25T18:05:07.260630"
 }
