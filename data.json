@@ -1368,37 +1368,6 @@
       }
     },
     {
-      "id": "zaihuapd_42149",
-      "channel": "zaihuapd",
-      "text": "美国将发行 25 万枚带“7 月 4 日”标记的 25 美分硬币美国铸币局将生产 25 万枚 2026 年独立宣言 25 美分硬币，上面带有特殊的“7 月 4 日”标记。这些硬币没有铸币厂标记，将被随机混入流通硬币中，供民众在日常交易时发现。这些特殊硬币将在 7 月 4 日前提供给全国银行和金融机构，配合美国独立 250 周年庆祝活动。铸币局局长保罗·霍利斯表示，希望人们通过寻找这些硬币，分享并记住这一历史时刻。美国铸币局·英文频道·",
-      "clean_text": "美国将发行 25 万枚带“7 月 4 日”标记的 25 美分硬币美国铸币局将生产 25 万枚 2026 年独立宣言 25 美分硬币，上面带有特殊的“7 月 4 日”标记。这些硬币没有铸币厂标记，将被随机混入流通硬币中，供民众在日常交易时发现。这些特殊硬币将在 7 月 4 日前提供给全国银行和金融机构，配合美国独立 250 周年庆祝活动。铸币局局长保罗·霍利斯表示，希望人们通过寻找这些硬币，分享并记住这一历史时刻。美国铸币局·英文频道",
-      "datetime": "2026-06-24T04:30:08+00:00",
-      "views": "2.86K",
-      "source_links": [
-        {
-          "text": "美国铸币局",
-          "url": "https://www.usmint.gov/news/press-releases/united-states-mint-to-produce-limited-edition-fourth-of-july-declaration-of-independence-quarters"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42149",
-      "scraped_at": "2026-06-24T13:00:10.663498",
-      "title": "美发行25万枚独立日硬币",
-      "title_options": {
-        "conclusion": "美发行25万枚独立日硬币",
-        "attractive": "寻找7月4日标记硬币",
-        "minimal": "25万枚7月4日硬币",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1461,6 +1430,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-25T16:28:50.134783"
+  "count": 56,
+  "updated_at": "2026-06-25T16:33:54.054321"
 }
