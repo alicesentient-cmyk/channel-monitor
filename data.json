@@ -1349,23 +1349,6 @@
       }
     },
     {
-      "id": "zaihuapd_42148",
-      "channel": "zaihuapd",
-      "text": "特朗普称不再视 Anthropic 为国安威胁，或放松 AI 模型限制  特朗普在接受 Axios 采访时表示，不再将人工智能公司 Anthropic 视为国家安全威胁，并暗示可能放松对其 Fable 5 和 Mythos 5 模型的限制。他称 Anthropic“表现非常负责任”，这一态度转变发生在 G7 峰会与该公司 CEO Dario Amodei 会面之后。  不过，美国商务部 6 月 12 日要求 Anthropic 限制外国人接触其最强模型的命令尚未正式撤销，五角大楼的供应链风险认定也仍然…",
-      "clean_text": "🤖特朗普称不再视 Anthropic 为国安威胁，或放松 AI 模型限制  特朗普在接受 Axios 采访时表示，不再将人工智能公司 Anthropic 视为国家安全威胁，并暗示可能放松对其 Fable 5 和 Mythos 5 模型的限制。他称 Anthropic“表现非常负责任”，这一态度转变发生在 G7 峰会与该公司 CEO Dario Amodei 会面之后。  不过，美国商务部 6 月 12 日要求 Anthropic 限制外国人接触其最强模型的命令尚未正式撤销，五角大楼的供应链风险认定也仍然…",
-      "datetime": "2026-06-24T03:45:11+00:00",
-      "views": "2.13K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42148",
-      "scraped_at": "2026-06-24T12:00:40.638509",
-      "title": "特朗普称不再视Anthropic为威胁",
-      "title_options": {
-        "conclusion": "特朗普称不再视Anthropic为威胁",
-        "attractive": "特朗普或放松AI模型限制",
-        "minimal": "特朗普Anthropic威胁解除"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1428,6 +1411,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-25T15:43:11.315159"
+  "count": 55,
+  "updated_at": "2026-06-25T15:48:14.317182"
 }
