@@ -9780,5 +9780,44 @@
       "minimal": "施密特 中国AI 开源"
     },
     "generated_at": "2026-06-25T20:01:55.881657"
+  },
+  "zaihuapd_42179": {
+    "ai_title": "苹果多款产品涨价",
+    "title_options": {
+      "conclusion": "苹果多款产品涨价",
+      "attractive": "MacBook Neo涨100美元",
+      "minimal": "苹果产品涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T21:02:46.223813"
+  },
+  "xhqcankao_30361": {
+    "ai_title": "苹果Mac及iPad多款涨价",
+    "title_options": {
+      "conclusion": "苹果Mac及iPad多款涨价",
+      "attractive": "内存短缺致苹果全线涨价",
+      "minimal": "苹果Mac iPad涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T21:02:46.386568"
+  },
+  "xhqcankao_30360": {
+    "ai_title": "微软称8GB内存适合Win11日常",
+    "title_options": {
+      "conclusion": "微软称8GB内存适合Win11日常",
+      "attractive": "8GB内存够用？微软新指南",
+      "minimal": "8GB内存 Win11 日常",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T21:02:46.405259"
+  },
+  "zaihuapd_42178": {
+    "ai_title": "白宫推SAVE法案要求选民证",
+    "title_options": {
+      "conclusion": "白宫推SAVE法案要求选民证",
+      "attractive": "投票须出示身份证及公民证明",
+      "minimal": "SAVE法案选民身份证"
+    },
+    "generated_at": "2026-06-25T21:02:47.480447"
   }
 }
