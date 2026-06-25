@@ -1424,37 +1424,6 @@
       }
     },
     {
-      "id": "zaihuapd_42156",
-      "channel": "zaihuapd",
-      "text": "GTA 6 售价 79.99 美元起，11 月 19 日登陆 PS5 和 Xbox Series X|SRockstar 宣布，《侠盗猎车手 6》将于 6 月 25 日零点起按各地时区开启预购，11 月 19 日登陆 PlayStation 5 和 Xbox Series X|S，标准版售价 79.99 美元。数字版预购用户可从 11 月 12 日开始预载，实体版也会从同一天起发售内含下载码的版本。11 月 20 日前完成预购或购买的用户可获得 Vintage Vice City Pack，数字版预购还会附送 1 个月 GTA+。Rockstar 同时推出售价 99.99 美元的 Ultimate Edition，增加一组专属载具、武器、服饰等内容。Businesswire·英文频道·",
-      "clean_text": "GTA 6 售价 79.99 美元起，11 月 19 日登陆 PS5 和 Xbox Series X|SRockstar 宣布，《侠盗猎车手 6》将于 6 月 25 日零点起按各地时区开启预购，11 月 19 日登陆 PlayStation 5 和 Xbox Series X|S，标准版售价 79.99 美元。数字版预购用户可从 11 月 12 日开始预载，实体版也会从同一天起发售内含下载码的版本。11 月 20 日前完成预购或购买的用户可获得 Vintage Vice City Pack，数字版预购还会附送 1 个月 GTA+。Rockstar 同时推出售价 99.99 美元的 Ultimate Edition，增加一组专属载具、武器、服饰等内容。Businesswire·英文频道",
-      "datetime": "2026-06-24T10:43:49+00:00",
-      "views": "2.42K",
-      "source_links": [
-        {
-          "text": "Businesswire",
-          "url": "https://www.businesswire.com/news/home/20260624539426/en/Rockstar-Games-Announces-Pre-Orders-for-Grand-Theft-Auto-VI"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42156",
-      "scraped_at": "2026-06-24T19:00:39.844902",
-      "title": "GTA6售价79.99美元",
-      "title_options": {
-        "conclusion": "GTA6售价79.99美元",
-        "attractive": "GTA6预购送Vice City包",
-        "minimal": "GTA6 11月19日发售",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1578,6 +1547,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-25T22:39:53.521191"
+  "count": 60,
+  "updated_at": "2026-06-25T22:44:58.519426"
 }
