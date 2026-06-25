@@ -1,6 +1,70 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42166",
+      "channel": "zaihuapd",
+      "text": "特朗普称不再视 Anthropic 为国安威胁，或放松 AI 模型限制  特朗普在接受 Axios 采访时表示，不再将人工智能公司 Anthropic 视为国家安全威胁，并暗示可能放松对其 Fable 5 和 Mythos 5 模型的限制。他称 Anthropic“表现非常负责任”，这一态度转变发生在 G7 峰会与该公司 CEO Dario Amodei 会面之后。  不过，美国商务部 6 月 12 日要求 Anthropic 限制外国人接触其最强模型的命令尚未正式撤销，五角大楼的供应链风险认定也仍然…",
+      "clean_text": "🤖特朗普称不再视 Anthropic 为国安威胁，或放松 AI 模型限制  特朗普在接受 Axios 采访时表示，不再将人工智能公司 Anthropic 视为国家安全威胁，并暗示可能放松对其 Fable 5 和 Mythos 5 模型的限制。他称 Anthropic“表现非常负责任”，这一态度转变发生在 G7 峰会与该公司 CEO Dario Amodei 会面之后。  不过，美国商务部 6 月 12 日要求 Anthropic 限制外国人接触其最强模型的命令尚未正式撤销，五角大楼的供应链风险认定也仍然…",
+      "datetime": "2026-06-25T04:32:20+00:00",
+      "views": "3.49K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42166",
+      "scraped_at": "2026-06-25T13:00:53.430416",
+      "title": "特朗普不再视Anthropic为威胁",
+      "title_options": {
+        "conclusion": "特朗普不再视Anthropic为威胁",
+        "attractive": "特朗普或放松AI模型限制",
+        "minimal": "Anthropic威胁解除",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30343",
+      "channel": "xhqcankao",
+      "text": "谷歌两名AI研发重要人员拟跳槽至Anthropic据知情人士透露，谷歌的两名AI研究重要人员计划转投Anthropic。这一系列备受瞩目的离职事件可能会削弱这家搜索巨头在人工智能领域的地位。知情人士称，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic公司。Adler曾参与谷歌的AI编程项目，而Pritzel则参与AI系统训练工作。谷歌作为人工智能领域的早期开拓者，在当前的AI热潮中，大部分时间都在追赶OpenAI和Anthropic等公司，直到去年底才凭借更强大的模型和芯片步入正轨。 Alphabet 的股价周三交易日一度下跌 1.2%，最终收盘小幅走低。",
+      "clean_text": "谷歌两名AI研发重要人员拟跳槽至Anthropic据知情人士透露，谷歌的两名AI研究重要人员计划转投Anthropic。这一系列备受瞩目的离职事件可能会削弱这家搜索巨头在人工智能领域的地位。知情人士称，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic公司。Adler曾参与谷歌的AI编程项目，而Pritzel则参与AI系统训练工作。谷歌作为人工智能领域的早期开拓者，在当前的AI热潮中，大部分时间都在追赶OpenAI和Anthropic等公司，直到去年底才凭借更强大的模型和芯片步入正轨。 Alphabet 的股价周三交易日一度下跌 1.2%，最终收盘小幅走低。——彭博社",
+      "datetime": "2026-06-25T04:32:04+00:00",
+      "views": "1.18K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30343",
+      "scraped_at": "2026-06-25T13:00:55.044605",
+      "title": "谷歌两名AI专家拟跳槽Anthropic",
+      "title_options": {
+        "conclusion": "谷歌两名AI专家拟跳槽Anthropic",
+        "attractive": "谷歌AI核心人才流失",
+        "minimal": "谷歌AI专家跳槽Anthropic",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30342",
+      "channel": "xhqcankao",
+      "text": "本田日产三菱将实现汽车电子控制单元通用化本田、日产汽车以及三菱汽车已进入最后协调阶段，计划统一新一代汽车电子控制单元（ECU）的规格。三方将整合核心零部件采购渠道，以提升软件定义汽车（SDV）的开发效率和成本竞争力。SDV是通过软件控制自动驾驶、车载信息系统等功能的新一代汽车。此次三家车企计划共通化的ECU，是搭载这些软件的核心部件，由多种半导体和电子元件组成，负责控制车辆各项功能。2025财年三家车企全球销量合计约 730万辆。通过统一采购，可扩大规模效应降低成本，以对抗在SDV领域领先的美国特斯拉及中国车企。此外，本田与日产还在协商统一SDV核心车载操作系统（OS）的方案。",
+      "clean_text": "本田日产三菱将实现汽车电子控制单元通用化本田、日产汽车以及三菱汽车已进入最后协调阶段，计划统一新一代汽车电子控制单元（ECU）的规格。三方将整合核心零部件采购渠道，以提升软件定义汽车（SDV）的开发效率和成本竞争力。SDV是通过软件控制自动驾驶、车载信息系统等功能的新一代汽车。此次三家车企计划共通化的ECU，是搭载这些软件的核心部件，由多种半导体和电子元件组成，负责控制车辆各项功能。2025财年三家车企全球销量合计约 730万辆。通过统一采购，可扩大规模效应降低成本，以对抗在SDV领域领先的美国特斯拉及中国车企。此外，本田与日产还在协商统一SDV核心车载操作系统（OS）的方案。——日经新闻",
+      "datetime": "2026-06-25T04:02:53+00:00",
+      "views": "1.86K",
+      "source_links": [
+        {
+          "text": "日经新闻",
+          "url": "http://cn.nikkei.com/industry/icar/63006-2026-06-25-09-20-22.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30342",
+      "scraped_at": "2026-06-25T13:00:55.044268",
+      "title": "本田日产三菱统一ECU",
+      "title_options": {
+        "conclusion": "本田日产三菱统一ECU",
+        "attractive": "三车企联手对抗特斯拉",
+        "minimal": "ECU通用化",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42165",
       "channel": "zaihuapd",
       "text": "亚马逊卖家申诉通道，被做成了内部生意亚马逊对卖家封号、冻结资金的处理，已经催生出一门专做“内部通道”的生意。一名卖家因评论政策问题被停用、9 万美元资金被冻结后，有人主动找上门，称可以通过打通亚马逊内部关系，把这笔钱拿回来。这类人卖的不是普通代运营服务，而是接触亚马逊员工、获取内部备注、介入账户处理的通道。卖家随后提交了录音和截图，相关材料显示，这套围绕亚马逊内部关系展开的生意仍在运转。彭博社⁠·英文频道·",
@@ -1365,36 +1429,6 @@
       }
     },
     {
-      "id": "zaihuapd_42144",
-      "channel": "zaihuapd",
-      "text": "日元 10 日元和 5 日元硬币铸造成本超币面价值由于有色金属涨价和日元贬值，日本 10 日元硬币的原料成本已升至约 10.4 日元，超过其 10 日元面值；5 日元硬币的原料成本也升至约 6.3 日元，高于 5 日元面值。1 日元硬币的原料成本则达到面值的约 70%。财务省官员表示，由于造币原材料主要来自回收旧币，整体影响有限。不过，成本超过面值可能引发非法熔毁硬币牟利行为，日本法律规定故意损坏或熔毁硬币可处 1 年以下拘禁或 20 万日元以下罚款。新华网·英文频道·",
-      "clean_text": "日元 10 日元和 5 日元硬币铸造成本超币面价值由于有色金属涨价和日元贬值，日本 10 日元硬币的原料成本已升至约 10.4 日元，超过其 10 日元面值；5 日元硬币的原料成本也升至约 6.3 日元，高于 5 日元面值。1 日元硬币的原料成本则达到面值的约 70%。财务省官员表示，由于造币原材料主要来自回收旧币，整体影响有限。不过，成本超过面值可能引发非法熔毁硬币牟利行为，日本法律规定故意损坏或熔毁硬币可处 1 年以下拘禁或 20 万日元以下罚款。新华网·英文频道",
-      "datetime": "2026-06-24T01:00:08+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "新华网",
-          "url": "https://www.news.cn/world/20260622/d4531870be024ecaab500716462c37c0/c.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42144",
-      "scraped_at": "2026-06-24T09:00:21.702354",
-      "title": "日元硬币成本超面值",
-      "title_options": {
-        "conclusion": "日元硬币成本超面值",
-        "attractive": "熔币牟利？最高罚20万",
-        "minimal": "硬币成本超面值"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1457,6 +1491,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-25T12:55:55.205963"
+  "count": 59,
+  "updated_at": "2026-06-25T13:00:59.814144"
 }

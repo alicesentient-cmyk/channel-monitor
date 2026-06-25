@@ -9523,5 +9523,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T12:11:34.807811"
+  },
+  "zaihuapd_42166": {
+    "ai_title": "特朗普不再视Anthropic为威胁",
+    "title_options": {
+      "conclusion": "特朗普不再视Anthropic为威胁",
+      "attractive": "特朗普或放松AI模型限制",
+      "minimal": "Anthropic威胁解除",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T13:00:59.531874"
+  },
+  "xhqcankao_30342": {
+    "ai_title": "本田日产三菱统一ECU",
+    "title_options": {
+      "conclusion": "本田日产三菱统一ECU",
+      "attractive": "三车企联手对抗特斯拉",
+      "minimal": "ECU通用化",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T13:00:59.695942"
+  },
+  "xhqcankao_30343": {
+    "ai_title": "谷歌两名AI专家拟跳槽Anthropic",
+    "title_options": {
+      "conclusion": "谷歌两名AI专家拟跳槽Anthropic",
+      "attractive": "谷歌AI核心人才流失",
+      "minimal": "谷歌AI专家跳槽Anthropic",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T13:00:59.799632"
   }
 }
