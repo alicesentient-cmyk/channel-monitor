@@ -1395,37 +1395,6 @@
       }
     },
     {
-      "id": "zaihuapd_42143",
-      "channel": "zaihuapd",
-      "text": "LastPass 又曝数据被盗 客服记录和用户信息外泄LastPass 通知客户，其客户个人信息和客户支持工单记录在合作伙伴 Klue 最近遭黑客入侵时被窃取。被盗数据包括姓名、电话、邮箱、地址、客户支持案例数据和销售相关数据。LastPass 称自家基础设施未受影响，密码库也没有被攻破。Klue 在 6 月 12 日发现系统遭入侵，攻击组织 Icarus 已认领此次事件，并威胁若赎金未支付就公开数据。LastPass 截至 2024 年有超过 3300 万用户和约 160 万付费客户，公司曾在 2022 年发生严重数据泄露，攻击者当时窃取了客户密码库。TechCrunch⁠·英文频道·",
-      "clean_text": "LastPass 又曝数据被盗 客服记录和用户信息外泄LastPass 通知客户，其客户个人信息和客户支持工单记录在合作伙伴 Klue 最近遭黑客入侵时被窃取。被盗数据包括姓名、电话、邮箱、地址、客户支持案例数据和销售相关数据。LastPass 称自家基础设施未受影响，密码库也没有被攻破。Klue 在 6 月 12 日发现系统遭入侵，攻击组织 Icarus 已认领此次事件，并威胁若赎金未支付就公开数据。LastPass 截至 2024 年有超过 3300 万用户和约 160 万付费客户，公司曾在 2022 年发生严重数据泄露，攻击者当时窃取了客户密码库。TechCrunch⁠·英文频道",
-      "datetime": "2026-06-24T00:49:22+00:00",
-      "views": "1.33K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42143",
-      "scraped_at": "2026-06-24T09:00:21.701861",
-      "title": "LastPass再曝数据被盗",
-      "title_options": {
-        "conclusion": "LastPass再曝数据被盗",
-        "attractive": "超3300万用户信息外泄",
-        "minimal": "LastPass数据被盗",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1488,6 +1457,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-25T12:45:47.996322"
+  "count": 57,
+  "updated_at": "2026-06-25T12:50:51.261201"
 }
