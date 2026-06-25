@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42181",
+      "channel": "zaihuapd",
+      "text": "联合国通过全球首个自动驾驶系统技术法规，中美欧等国共同牵头联合国自动驾驶系统全球技术法规（ADS GTR）近日在日内瓦经联合国 WP.29 全体缔约方投票通过，成为全球首个自动驾驶系统全球技术法规。该法规由中国、欧盟、英国、美国、加拿大和日本共同牵头制定，明确产品核心技术指标，并对制造商安全管理、安全档案、试验验证、部署后安全等提出要求，构建覆盖产品全生命周期的法规框架。中国在法规研制中发挥牵头促进作用，贡献了多项技术提案和测试数据；国内强制性国家标准已完成制定并报批，核心内容与 ADS GTR 一致，并针对 L3、L4 级自动驾驶进一步细化安全基线和测试要求，推动国际国内标准衔接。China Daily|科技日报·英文频道·",
+      "clean_text": "联合国通过全球首个自动驾驶系统技术法规，中美欧等国共同牵头联合国自动驾驶系统全球技术法规（ADS GTR）近日在日内瓦经联合国 WP.29 全体缔约方投票通过，成为全球首个自动驾驶系统全球技术法规。该法规由中国、欧盟、英国、美国、加拿大和日本共同牵头制定，明确产品核心技术指标，并对制造商安全管理、安全档案、试验验证、部署后安全等提出要求，构建覆盖产品全生命周期的法规框架。中国在法规研制中发挥牵头促进作用，贡献了多项技术提案和测试数据；国内强制性国家标准已完成制定并报批，核心内容与 ADS GTR 一致，并针对 L3、L4 级自动驾驶进一步细化安全基线和测试要求，推动国际国内标准衔接。China Daily|科技日报·英文频道",
+      "datetime": "2026-06-25T16:03:37+00:00",
+      "views": "3.47K",
+      "source_links": [
+        {
+          "text": "China Daily",
+          "url": "https://global.chinadaily.com.cn/a/202606/25/WS6a3cf7e7a310986e2b461ebc.html"
+        },
+        {
+          "text": "科技日报",
+          "url": "https://www.stdaily.com/web/gdxw/2026-06/25/content_537352.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42181",
+      "scraped_at": "2026-06-26T01:00:45.740443",
+      "title": "联合国通过首个自动驾驶法规",
+      "title_options": {
+        "conclusion": "联合国通过首个自动驾驶法规",
+        "attractive": "中美欧牵头制定自动驾驶法规",
+        "minimal": "自动驾驶全球法规通过",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42180",
       "channel": "zaihuapd",
       "text": "IBM 推出全球首个亚 1 纳米芯片IBM 于 6 月 25 日发布全球首个可生产低于 1 纳米芯片的技术，晶体管架构为 0.7 纳米。该芯片在指甲大小的面积上集成近 1000 亿个晶体管，密度是其 2021 年 2 纳米芯片的两倍，性能提升最高 50%，或能效提升 70%。新技术采用 IBM 首创的 NanoStack 三维纳米堆栈架构，并结合多项结构和材料创新，将晶体管以三维方式堆叠而非平铺，从而在同一空间内塞入更多晶体管。IBM 表示生产可能在五年内启动，此前已向三星和日本 Rapidus 授权芯片技术，但尚未公布该技术的制造合作伙伴Reuters·英文频道·",
@@ -1402,37 +1437,6 @@
       }
     },
     {
-      "id": "zaihuapd_42126",
-      "channel": "zaihuapd",
-      "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
-      "clean_text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道",
-      "datetime": null,
-      "views": "2.99K",
-      "source_links": [
-        {
-          "text": "Steam",
-          "url": "https://store.steampowered.com/hardware/steammachine"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42126",
-      "scraped_at": "2026-06-23T13:25:17.121402",
-      "title": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器",
-      "title_options": {
-        "conclusion": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器",
-        "attractive": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器",
-        "minimal": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42136",
       "channel": "zaihuapd",
       "text": "消息称阿里巴巴计划出售游戏业务，售价 70-90 亿元游戏新知获悉，阿里巴巴集团计划出售游戏业务品牌灵犀互娱，目前已接触至少五位潜在买家，开价 70 亿至 90 亿元人民币。接触的买家包括三七互娱、中国儒意、世纪华通、巨人网络，以及两家私募股权巨头组成的收购团。有业内人士猜测，阿里此举或为获取更充足的现金流。新浪科技·英文频道·",
@@ -1526,5 +1530,5 @@
     }
   ],
   "count": 59,
-  "updated_at": "2026-06-26T00:57:34.356358"
+  "updated_at": "2026-06-26T01:02:40.360684"
 }
