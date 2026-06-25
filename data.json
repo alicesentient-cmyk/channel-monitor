@@ -1316,33 +1316,6 @@
       }
     },
     {
-      "id": "xhqcankao_30318",
-      "channel": "xhqcankao",
-      "text": "孙正义为AI改变退休计划：再干十来年软银集团创始人孙正义表示，他计划在未来十年甚至更长时间内继续执掌这家他亲手创立的科技集团，从而推翻了他多年来一直坚持的在六十多岁交班的规划。这位68岁的科技投资人表示，他现在渴望推动人工智能的加速普及，并将软银打造为全球领先的人工智能驱动型机器人公司。“我没有时间退休了。”孙正义称，他提到软银正在追求他所认为的具有根本性意义的长期技术。孙正义补充道，他已修改了自己原有的“50年计划”(在60多岁时交班)，并将再工作10年到15年。",
-      "clean_text": "孙正义为AI改变退休计划：再干十来年软银集团创始人孙正义表示，他计划在未来十年甚至更长时间内继续执掌这家他亲手创立的科技集团，从而推翻了他多年来一直坚持的在六十多岁交班的规划。这位68岁的科技投资人表示，他现在渴望推动人工智能的加速普及，并将软银打造为全球领先的人工智能驱动型机器人公司。“我没有时间退休了。”孙正义称，他提到软银正在追求他所认为的具有根本性意义的长期技术。孙正义补充道，他已修改了自己原有的“50年计划”(在60多岁时交班)，并将再工作10年到15年。——凤凰网科技、彭博社",
-      "datetime": "2026-06-24T06:31:00+00:00",
-      "views": "1.41K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006Q-_wKYLjQxVzZP--ykbtWkdv5TqYbCU5lIYZq4o9L0icWBlR38MfAEymCEWKcjt-_sO"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/softbank-s-masayoshi-son-scraps-plan-to-retire-in-his-sixties"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30318",
-      "scraped_at": "2026-06-24T15:00:23.325111",
-      "title": "孙正义推迟退休计划",
-      "title_options": {
-        "conclusion": "孙正义推迟退休计划",
-        "attractive": "68岁再干十年",
-        "minimal": "孙正义退休推迟",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1436,6 +1409,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-25T18:30:25.906701"
+  "count": 55,
+  "updated_at": "2026-06-25T18:35:28.883662"
 }
