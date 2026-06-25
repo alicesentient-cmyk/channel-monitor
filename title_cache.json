@@ -9849,5 +9849,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T23:00:43.703663"
+  },
+  "zaihuapd_42180": {
+    "ai_title": "IBM发布0.7纳米芯片",
+    "title_options": {
+      "conclusion": "IBM发布0.7纳米芯片",
+      "attractive": "指甲盖集成千亿晶体管",
+      "minimal": "IBM 0.7纳米芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T00:01:39.928493"
+  },
+  "xhqcankao_30366": {
+    "ai_title": "亚马逊在印度追加130亿美元",
+    "title_options": {
+      "conclusion": "亚马逊在印度追加130亿美元",
+      "attractive": "亚马逊130亿加码印度AI",
+      "minimal": "亚马逊印度130亿美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T00:01:39.946251"
+  },
+  "xhqcankao_30365": {
+    "ai_title": "微软亚马逊云业务遭欧盟审查",
+    "title_options": {
+      "conclusion": "微软亚马逊云业务遭欧盟审查",
+      "attractive": "云巨头被欧盟盯上，AI成关键",
+      "minimal": "微软亚马逊云审查",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T00:01:39.997813"
   }
 }
