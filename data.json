@@ -1315,37 +1315,6 @@
       }
     },
     {
-      "id": "zaihuapd_42151",
-      "channel": "zaihuapd",
-      "text": "台积电先进制程代工将全线涨价台积电已陆续向客户通知涨晶圆代工价格，涨价范围不仅涵盖市场传闻的 3nm 制程，更扩及 7nm 及以下所有先进制程，整体涨幅约 5%至 10%，影响范围涵盖约 75%的晶圆营收来源。36kr·英文频道·",
-      "clean_text": "台积电先进制程代工将全线涨价台积电已陆续向客户通知涨晶圆代工价格，涨价范围不仅涵盖市场传闻的 3nm 制程，更扩及 7nm 及以下所有先进制程，整体涨幅约 5%至 10%，影响范围涵盖约 75%的晶圆营收来源。36kr·英文频道",
-      "datetime": "2026-06-24T05:45:08+00:00",
-      "views": "2.15K",
-      "source_links": [
-        {
-          "text": "36kr",
-          "url": "https://36kr.com/newsflashes/3866472254411779"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42151",
-      "scraped_at": "2026-06-24T14:00:44.737129",
-      "title": "台积电先进制程全线涨价",
-      "title_options": {
-        "conclusion": "台积电先进制程全线涨价",
-        "attractive": "台积电涨价波及75%营收",
-        "minimal": "台积电先进制程涨价",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1408,6 +1377,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-25T17:44:50.020837"
+  "count": 54,
+  "updated_at": "2026-06-25T17:49:53.047186"
 }
