@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30367",
+      "channel": "xhqcankao",
+      "text": "微软宣布自8月1日起提高Xbox游戏主机售价在苹果公司宣布提高MacBook和iPad售价仅数小时后，微软公司周四也发布公告称，由于关键零部件成本持续上涨，消费者未来购买 Xbox 游戏主机时将不得不支付更高的价格。微软称，自8月1日起，512GB存储容量的Xbox Series S售价将上调100美元，至约500美元；1TB版本售价则将提高150美元。与此同时，入门级 Xbox Series X 的起售价将升至约 750美元。微软公司指出，推动本轮涨价的主要原因是存储和内存成本大幅攀升。“游戏主机所使用的存储和内存价格已经上涨超过2.5倍，而我们预计到2027年秋季，这部分成本还将再翻一番。”",
+      "clean_text": "微软宣布自8月1日起提高Xbox游戏主机售价在苹果公司宣布提高MacBook和iPad售价仅数小时后，微软公司周四也发布公告称，由于关键零部件成本持续上涨，消费者未来购买 Xbox 游戏主机时将不得不支付更高的价格。微软称，自8月1日起，512GB存储容量的Xbox Series S售价将上调100美元，至约500美元；1TB版本售价则将提高150美元。与此同时，入门级 Xbox Series X 的起售价将升至约 750美元。微软公司指出，推动本轮涨价的主要原因是存储和内存成本大幅攀升。“游戏主机所使用的存储和内存价格已经上涨超过2.5倍，而我们预计到2027年秋季，这部分成本还将再翻一番。”——财联社、彭博社、CNBC",
+      "datetime": "2026-06-25T23:00:05+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2409624?sv=8.7.9&amp;app=cailianpress"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-raises-xbox-console-prices-for-third-time-in-13-months"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30367",
+      "scraped_at": "2026-06-26T07:01:07.562496",
+      "title": "微软8月起Xbox涨价",
+      "title_options": {
+        "conclusion": "微软8月起Xbox涨价",
+        "attractive": "Xbox最高涨150美元",
+        "minimal": "Xbox涨价",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42181",
       "channel": "zaihuapd",
       "text": "联合国通过全球首个自动驾驶系统技术法规，中美欧等国共同牵头联合国自动驾驶系统全球技术法规（ADS GTR）近日在日内瓦经联合国 WP.29 全体缔约方投票通过，成为全球首个自动驾驶系统全球技术法规。该法规由中国、欧盟、英国、美国、加拿大和日本共同牵头制定，明确产品核心技术指标，并对制造商安全管理、安全档案、试验验证、部署后安全等提出要求，构建覆盖产品全生命周期的法规框架。中国在法规研制中发挥牵头促进作用，贡献了多项技术提案和测试数据；国内强制性国家标准已完成制定并报批，核心内容与 ADS GTR 一致，并针对 L3、L4 级自动驾驶进一步细化安全基线和测试要求，推动国际国内标准衔接。China Daily|科技日报·英文频道·",
@@ -1380,6 +1411,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-06-26T06:57:28.117946"
+  "count": 54,
+  "updated_at": "2026-06-26T07:02:31.973165"
 }
