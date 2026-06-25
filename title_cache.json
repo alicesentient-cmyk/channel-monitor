@@ -9643,5 +9643,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T16:03:29.663702"
+  },
+  "zaihuapd_42170": {
+    "ai_title": "消防罚没少缴25亿",
+    "title_options": {
+      "conclusion": "消防罚没少缴25亿",
+      "attractive": "消防罚没少缴25亿",
+      "minimal": "消防罚没少缴",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T17:04:17.530316"
+  },
+  "xhqcankao_30351": {
+    "ai_title": "高通获Meta数据中心芯片订单",
+    "title_options": {
+      "conclusion": "高通获Meta数据中心芯片订单",
+      "attractive": "Meta成高通AI芯片首家客户",
+      "minimal": "高通Meta芯片合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T17:04:17.531312"
+  },
+  "xhqcankao_30352": {
+    "ai_title": "B站播客时长将达3亿分钟",
+    "title_options": {
+      "conclusion": "B站播客时长将达3亿分钟",
+      "attractive": "B站播客时长增长300%",
+      "minimal": "B站播客时长3亿分钟",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T17:04:17.614135"
   }
 }
