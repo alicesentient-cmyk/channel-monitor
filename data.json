@@ -1402,33 +1402,6 @@
       }
     },
     {
-      "id": "xhqcankao_30307",
-      "channel": "xhqcankao",
-      "text": "被切断模型访问 Anthropic客户起诉美政府一家使用 Anthropic 大模型的人工智能创业公司起诉了美国政府，原因是美国政府下令要求 Anthropic 不得向外国公民提供其最先进模型。这桩诉讼周二在华盛顿联邦法院提起。不到两周前，Anthropic为遵守特朗普政府出台的出口管制规定，关闭了对其最先进AI模型Fable 5 和 Mythos 5的访问权限。原告Legion是一家为律师提供工具的诉讼技术公司，总部设在美国，但该公司表示其软件开发团队中包括加拿大籍员工。Legion在诉状中表示，Anthropic切断对Fable 5模型的访问权限，尤其对公司造成了重大打击，因为这意味着该公司“瞬间失去了其核心开发工作所依赖的最新工具”。这对公司造成的损害是“立即、不可挽回且关乎存亡的”。",
-      "clean_text": "被切断模型访问 Anthropic客户起诉美政府一家使用 Anthropic 大模型的人工智能创业公司起诉了美国政府，原因是美国政府下令要求 Anthropic 不得向外国公民提供其最先进模型。这桩诉讼周二在华盛顿联邦法院提起。不到两周前，Anthropic为遵守特朗普政府出台的出口管制规定，关闭了对其最先进AI模型Fable 5 和 Mythos 5的访问权限。原告Legion是一家为律师提供工具的诉讼技术公司，总部设在美国，但该公司表示其软件开发团队中包括加拿大籍员工。Legion在诉状中表示，Anthropic切断对Fable 5模型的访问权限，尤其对公司造成了重大打击，因为这意味着该公司“瞬间失去了其核心开发工作所依赖的最新工具”。这对公司造成的损害是“立即、不可挽回且关乎存亡的”。——凤凰网科技、彭博社",
-      "datetime": "2026-06-24T01:02:46+00:00",
-      "views": "1.89K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006QK8c8mN41UWZHJ66y1PRH9BqyO7cpMjH0XjjJAl8p28FXAbMh6xB27UlthKudHz9"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-customer-sues-us-over-losing-access-to-fable-ai-model"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30307",
-      "scraped_at": "2026-06-24T10:01:10.965971",
-      "title": "客户起诉美政府切断AI模型",
-      "title_options": {
-        "conclusion": "客户起诉美政府切断AI模型",
-        "attractive": "美政府禁令致AI公司起诉",
-        "minimal": "Anthropic客户起诉",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1491,6 +1464,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-06-25T13:00:59.814144"
+  "count": 58,
+  "updated_at": "2026-06-25T13:06:04.720595"
 }
