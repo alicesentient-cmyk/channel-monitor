@@ -9553,5 +9553,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-25T13:00:59.799632"
+  },
+  "xhqcankao_30346": {
+    "ai_title": "微软量子计算再遭质疑",
+    "title_options": {
+      "conclusion": "微软量子计算再遭质疑",
+      "attractive": "微软量子成果被指数据不实",
+      "minimal": "微软量子计算质疑",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T14:01:49.793236"
+  },
+  "zaihuapd_42167": {
+    "ai_title": "OpenAI更新GPT-5.5",
+    "title_options": {
+      "conclusion": "OpenAI更新GPT-5.5",
+      "attractive": "ChatGPT模型更有趣",
+      "minimal": "GPT-5.5更新",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T14:01:49.974943"
+  },
+  "xhqcankao_30345": {
+    "ai_title": "微软用AI关联黑客工具",
+    "title_options": {
+      "conclusion": "微软用AI关联黑客工具",
+      "attractive": "AI助微软破获黑客工具",
+      "minimal": "AI关联黑客工具",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T14:01:50.096875"
   }
 }
