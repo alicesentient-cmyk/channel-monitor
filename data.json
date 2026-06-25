@@ -1455,24 +1455,6 @@
       }
     },
     {
-      "id": "zaihuapd_42155",
-      "channel": "zaihuapd",
-      "text": "特斯拉中国计划为车辆引入 DeepSeek 模型  据社交平台 X 用户“Tsla Chan”发布的消息，特斯拉中国计划为其旗下车辆引入 DeepSeek 模型。  Tsla Chan |",
-      "clean_text": "🚘🤖特斯拉中国计划为车辆引入 DeepSeek 模型  据社交平台 X 用户“Tsla Chan”发布的消息，特斯拉中国计划为其旗下车辆引入 DeepSeek 模型。  Tsla Chan | Tesla🍀在花频道🍵茶馆📮投稿",
-      "datetime": "2026-06-24T09:02:57+00:00",
-      "views": "5.28K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42155",
-      "scraped_at": "2026-06-24T18:01:00.496331",
-      "title": "特斯拉引入DeepSeek模型",
-      "title_options": {
-        "conclusion": "特斯拉引入DeepSeek模型",
-        "attractive": "特斯拉车用上DeepSeek",
-        "minimal": "特斯拉DeepSeek引入",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1596,6 +1578,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-06-25T21:02:47.496256"
+  "count": 61,
+  "updated_at": "2026-06-25T21:07:52.783600"
 }
