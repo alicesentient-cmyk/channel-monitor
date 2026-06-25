@@ -9414,5 +9414,25 @@
       "minimal": "特斯拉致命事故调查"
     },
     "generated_at": "2026-06-25T08:03:21.609571"
+  },
+  "zaihuapd_42162": {
+    "ai_title": "日本拟将签证费提至5倍",
+    "title_options": {
+      "conclusion": "日本拟将签证费提至5倍",
+      "attractive": "日本签证费涨5倍，2026实施",
+      "minimal": "日本签证费提高5倍",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T09:03:57.117896"
+  },
+  "xhqcankao_30335": {
+    "ai_title": "Anthropic指控阿里非法访问AI…",
+    "title_options": {
+      "conclusion": "Anthropic指控阿里非法访问AI…",
+      "attractive": "阿里被指用2.5万账户窃取AI",
+      "minimal": "Anthropic指控阿里非法访问",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-25T09:03:57.133903"
   }
 }
