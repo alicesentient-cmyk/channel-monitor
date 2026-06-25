@@ -1345,29 +1345,6 @@
       }
     },
     {
-      "id": "xhqcankao_30314",
-      "channel": "xhqcankao",
-      "text": "阿里旗下东南亚电商平台Lazada裁员5%知情人士透露，阿里巴巴(Alibaba)旗下东南亚电商平台Lazada正在裁减5%的员工。部分知情人士表示，该公司于周二通知了受影响的员工。知情人士称，此次裁员波及该平台在整个东南亚地区的员工。Lazada在一封电子邮件声明中表示，公司正在评估东南亚地区的部分岗位，这是公司为保持专注和高效，并使岗位设置与业务需求相匹配所作努力的一部分。Lazada补充道，公司致力于为受影响的员工提供支持。东南亚电商行业的竞争十分激烈，各家公司寻求提高盈利能力，并日益采用AI工具来提升效率。",
-      "clean_text": "阿里旗下东南亚电商平台Lazada裁员5%知情人士透露，阿里巴巴(Alibaba)旗下东南亚电商平台Lazada正在裁减5%的员工。部分知情人士表示，该公司于周二通知了受影响的员工。知情人士称，此次裁员波及该平台在整个东南亚地区的员工。Lazada在一封电子邮件声明中表示，公司正在评估东南亚地区的部分岗位，这是公司为保持专注和高效，并使岗位设置与业务需求相匹配所作努力的一部分。Lazada补充道，公司致力于为受影响的员工提供支持。东南亚电商行业的竞争十分激烈，各家公司寻求提高盈利能力，并日益采用AI工具来提升效率。——华尔街日报",
-      "datetime": "2026-06-24T04:34:22+00:00",
-      "views": "1.03K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/alibaba-ssoutheast-asia-platform-lays-off-5-of-workforce-53d3fca4?mod=cn_hp_featst_pos4"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30314",
-      "scraped_at": "2026-06-24T13:00:12.480559",
-      "title": "Lazada裁员5%",
-      "title_options": {
-        "conclusion": "Lazada裁员5%",
-        "attractive": "阿里旗下Lazada裁员",
-        "minimal": "Lazada裁员",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42126",
       "channel": "zaihuapd",
       "text": "Steam 推出 Steam Machine 小型游戏主机，售价 1049 美元起Steam 正式发布了 Steam Machine，一款外接电视或显示器的游戏设备，预装 SteamOS 3 系统。主机造型为约 6 英寸的小型立方体，附带 Steam Controller 无线适配器。Steam 网站宣称，Steam Machine 性能是 Steam Deck 的 6 倍以上。此外，用户还可以在 Steam Machine 上安装操作系统；机身上的灯条能自定义显示游戏下载进度等。产品的售价为 1049 美元起。Steam·英文频道·",
@@ -1430,6 +1407,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-25T16:33:54.054321"
+  "count": 55,
+  "updated_at": "2026-06-25T16:38:58.759696"
 }
