@@ -1527,47 +1527,6 @@
       }
     },
     {
-      "id": "zaihuapd_42166",
-      "channel": "zaihuapd",
-      "text": "特朗普称不再视 Anthropic 为国安威胁，或放松 AI 模型限制  特朗普在接受 Axios 采访时表示，不再将人工智能公司 Anthropic 视为国家安全威胁，并暗示可能放松对其 Fable 5 和 Mythos 5 模型的限制。他称 Anthropic“表现非常负责任”，这一态度转变发生在 G7 峰会与该公司 CEO Dario Amodei 会面之后。  不过，美国商务部 6 月 12 日要求 Anthropic 限制外国人接触其最强模型的命令尚未正式撤销，五角大楼的供应链风险认定也仍然…",
-      "clean_text": "🤖特朗普称不再视 Anthropic 为国安威胁，或放松 AI 模型限制  特朗普在接受 Axios 采访时表示，不再将人工智能公司 Anthropic 视为国家安全威胁，并暗示可能放松对其 Fable 5 和 Mythos 5 模型的限制。他称 Anthropic“表现非常负责任”，这一态度转变发生在 G7 峰会与该公司 CEO Dario Amodei 会面之后。  不过，美国商务部 6 月 12 日要求 Anthropic 限制外国人接触其最强模型的命令尚未正式撤销，五角大楼的供应链风险认定也仍然…",
-      "datetime": "2026-06-25T04:32:20+00:00",
-      "views": "3.49K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42166",
-      "scraped_at": "2026-06-25T13:00:53.430416",
-      "title": "特朗普不再视Anthropic为威胁",
-      "title_options": {
-        "conclusion": "特朗普不再视Anthropic为威胁",
-        "attractive": "特朗普或放松AI模型限制",
-        "minimal": "Anthropic威胁解除",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30343",
-      "channel": "xhqcankao",
-      "text": "谷歌两名AI研发重要人员拟跳槽至Anthropic据知情人士透露，谷歌的两名AI研究重要人员计划转投Anthropic。这一系列备受瞩目的离职事件可能会削弱这家搜索巨头在人工智能领域的地位。知情人士称，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic公司。Adler曾参与谷歌的AI编程项目，而Pritzel则参与AI系统训练工作。谷歌作为人工智能领域的早期开拓者，在当前的AI热潮中，大部分时间都在追赶OpenAI和Anthropic等公司，直到去年底才凭借更强大的模型和芯片步入正轨。 Alphabet 的股价周三交易日一度下跌 1.2%，最终收盘小幅走低。",
-      "clean_text": "谷歌两名AI研发重要人员拟跳槽至Anthropic据知情人士透露，谷歌的两名AI研究重要人员计划转投Anthropic。这一系列备受瞩目的离职事件可能会削弱这家搜索巨头在人工智能领域的地位。知情人士称，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic公司。Adler曾参与谷歌的AI编程项目，而Pritzel则参与AI系统训练工作。谷歌作为人工智能领域的早期开拓者，在当前的AI热潮中，大部分时间都在追赶OpenAI和Anthropic等公司，直到去年底才凭借更强大的模型和芯片步入正轨。 Alphabet 的股价周三交易日一度下跌 1.2%，最终收盘小幅走低。——彭博社",
-      "datetime": "2026-06-25T04:32:04+00:00",
-      "views": "1.18K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30343",
-      "scraped_at": "2026-06-25T13:00:55.044605",
-      "title": "谷歌两名AI专家拟跳槽Anthropic",
-      "title_options": {
-        "conclusion": "谷歌两名AI专家拟跳槽Anthropic",
-        "attractive": "谷歌AI核心人才流失",
-        "minimal": "谷歌AI专家跳槽Anthropic",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1629,6 +1588,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-26T16:31:22.291841"
+  "count": 62,
+  "updated_at": "2026-06-26T16:36:26.269779"
 }
