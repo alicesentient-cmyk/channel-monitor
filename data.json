@@ -1472,33 +1472,6 @@
       }
     },
     {
-      "id": "xhqcankao_30353",
-      "channel": "xhqcankao",
-      "text": "谷歌 Gemini 3.5 Pro 推迟至七月升级上线谷歌原计划六月推出的新一代人工智能模型Gemini 3.5 Pro，发布时间调整至七月，企业将利用延期窗口期收集测试反馈、优化模型各项性能。知情人士称，谷歌在 I/O 开发者大会上，已对外预告 Gemini 3.5 Pro，当时谷歌CEO皮查伊曾表示该模型预计次月推出，同时坦言产品尚未达到成熟上线标准。受全球AI行业激烈竞争态势影响，谷歌选择延后上线节奏，深耕模型实际使用能力。为了优化产品体验，谷歌开放 “Antigravity” 平台、AI 评测基准网站 LMArena 供部分测试用户提前试用 Gemini 3.5 Pro，持续收集真实业务场景下的使用数据与反馈意见。",
-      "clean_text": "谷歌 Gemini 3.5 Pro 推迟至七月升级上线谷歌原计划六月推出的新一代人工智能模型Gemini 3.5 Pro，发布时间调整至七月，企业将利用延期窗口期收集测试反馈、优化模型各项性能。知情人士称，谷歌在 I/O 开发者大会上，已对外预告 Gemini 3.5 Pro，当时谷歌CEO皮查伊曾表示该模型预计次月推出，同时坦言产品尚未达到成熟上线标准。受全球AI行业激烈竞争态势影响，谷歌选择延后上线节奏，深耕模型实际使用能力。为了优化产品体验，谷歌开放 “Antigravity” 平台、AI 评测基准网站 LMArena 供部分测试用户提前试用 Gemini 3.5 Pro，持续收集真实业务场景下的使用数据与反馈意见。——环球网、商业内幕",
-      "datetime": "2026-06-25T09:02:47+00:00",
-      "views": "2.21K",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://tech.huanqiu.com/article/4S7TAMOqQsG"
-        },
-        {
-          "text": "商业内幕",
-          "url": "https://www.businessinsider.com/google-3-5-pro-july-release-tokens-ai-agents-model-2026-6"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30353",
-      "scraped_at": "2026-06-25T18:00:46.368879",
-      "title": "谷歌Gemini 3.5 Pro推迟至…",
-      "title_options": {
-        "conclusion": "谷歌Gemini 3.5 Pro推迟至…",
-        "attractive": "Gemini 3.5 Pro延期七月上线",
-        "minimal": "Gemini 3.5 Pro七月上线",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1560,6 +1533,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-06-26T21:00:35.719681"
+  "count": 60,
+  "updated_at": "2026-06-26T21:05:39.550469"
 }
