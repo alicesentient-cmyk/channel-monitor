@@ -10037,5 +10037,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T12:02:34.709008"
+  },
+  "zaihuapd_42187": {
+    "ai_title": "苹果Xcode 26.3发布",
+    "title_options": {
+      "conclusion": "苹果Xcode 26.3发布",
+      "attractive": "Xcode引入AI编码",
+      "minimal": "Xcode 26.3 AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T13:03:14.735543"
+  },
+  "xhqcankao_30378": {
+    "ai_title": "黑客窃取Polymarket用户资金",
+    "title_options": {
+      "conclusion": "黑客窃取Polymarket用户资金",
+      "attractive": "Polymarket用户资金被盗",
+      "minimal": "Polymarket遭黑客入侵",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T13:03:14.795192"
+  },
+  "zaihuapd_42188": {
+    "ai_title": "安卓17为折叠屏加虚拟手柄",
+    "title_options": {
+      "conclusion": "安卓17为折叠屏加虚拟手柄",
+      "attractive": "折叠屏手机秒变游戏手柄",
+      "minimal": "安卓17 折叠屏 虚拟手柄",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T13:03:15.029766"
+  },
+  "xhqcankao_30377": {
+    "ai_title": "广告高管受贿1.76亿美元被判无期",
+    "title_options": {
+      "conclusion": "广告高管受贿1.76亿美元被判无期",
+      "attractive": "12亿回扣换来无期徒刑",
+      "minimal": "广告高管受贿判无期",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T13:03:16.020890"
   }
 }

@@ -1,6 +1,101 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42188",
+      "channel": "zaihuapd",
+      "text": "Android 17 将给折叠屏手机加入虚拟游戏手柄模式Android 17 将为折叠屏手机加入专用游戏模式。展开设备后，屏幕一侧可显示带触控按键的虚拟手柄，在系统层模拟实体按键，适用于支持实体控制器的游戏。这项功能预计未来几个月推出，手柄可调整摇杆布局、按键大小和震动，也可隐藏；接入实体手柄后，虚拟手柄会自动关闭。它想解决的是，一些游戏更适合手柄操作，但用户未必愿意随身带蓝牙手柄。The Verge·英文频道·",
+      "clean_text": "Android 17 将给折叠屏手机加入虚拟游戏手柄模式Android 17 将为折叠屏手机加入专用游戏模式。展开设备后，屏幕一侧可显示带触控按键的虚拟手柄，在系统层模拟实体按键，适用于支持实体控制器的游戏。这项功能预计未来几个月推出，手柄可调整摇杆布局、按键大小和震动，也可隐藏；接入实体手柄后，虚拟手柄会自动关闭。它想解决的是，一些游戏更适合手柄操作，但用户未必愿意随身带蓝牙手柄。The Verge·英文频道",
+      "datetime": "2026-06-26T04:34:21+00:00",
+      "views": "2.6K",
+      "source_links": [
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42188",
+      "scraped_at": "2026-06-26T13:00:53.802559",
+      "title": "安卓17为折叠屏加虚拟手柄",
+      "title_options": {
+        "conclusion": "安卓17为折叠屏加虚拟手柄",
+        "attractive": "折叠屏手机秒变游戏手柄",
+        "minimal": "安卓17 折叠屏 虚拟手柄",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30378",
+      "channel": "xhqcankao",
+      "text": "黑客窃取了预测市场Polymarket用户资金预测市场巨头Polymarket证实，在第三方系统遭到入侵后，黑客从数量不明的用户那里窃取了资金。在周四的一条社交平台 X 帖子中，Polymarket表示，第三方供应商的失陷导致黑客能够向其网站注入恶意代码，从而对某些用户造成影响。该公司表示已 “遏制” 该事件，并正在联系受影响受害者并向他们全额退款。截至周四下午，尚不清楚究竟发生了什么。当 TechCrunch 联系时，预测市场Polymarket发言人Connor Brandi确认该漏洞导致用户资金被盗，但拒绝提供更多信息，并且没有回应该事件的具体问题。",
+      "clean_text": "黑客窃取了预测市场Polymarket用户资金预测市场巨头Polymarket证实，在第三方系统遭到入侵后，黑客从数量不明的用户那里窃取了资金。在周四的一条社交平台 X 帖子中，Polymarket表示，第三方供应商的失陷导致黑客能够向其网站注入恶意代码，从而对某些用户造成影响。该公司表示已 “遏制” 该事件，并正在联系受影响受害者并向他们全额退款。截至周四下午，尚不清楚究竟发生了什么。当 TechCrunch 联系时，预测市场Polymarket发言人Connor Brandi确认该漏洞导致用户资金被盗，但拒绝提供更多信息，并且没有回应该事件的具体问题。——TechCrunch",
+      "datetime": "2026-06-26T04:31:31+00:00",
+      "views": "1.16K",
+      "source_links": [
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30378",
+      "scraped_at": "2026-06-26T13:00:55.821099",
+      "title": "黑客窃取Polymarket用户资金",
+      "title_options": {
+        "conclusion": "黑客窃取Polymarket用户资金",
+        "attractive": "Polymarket用户资金被盗",
+        "minimal": "Polymarket遭黑客入侵",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42187",
+      "channel": "zaihuapd",
+      "text": "苹果发布 Xcode 26.3 引入 代理式编码 并调整 App Store SDK 要求  苹果发布 Xcode 26.3 ，新增 代理式编码 功能，开发者可在 Xcode 内通过自然语言调用 OpenAI 与 Anthropic 的 AI 代理，自动理解项目、编写代码、构建应用、运行测试并修复错误。  另外苹果宣布自 2026 年 4 月 28 日起，提交至 App Store Connect 的应用与游戏需使用 iOS 26、iPadOS 26、tvOS 26、visionOS 26、watchOS…",
+      "clean_text": "🍏苹果发布 Xcode 26.3 引入 代理式编码 并调整 App Store SDK 要求  苹果发布 Xcode 26.3 ，新增 代理式编码 功能，开发者可在 Xcode 内通过自然语言调用 OpenAI 与 Anthropic 的 AI 代理，自动理解项目、编写代码、构建应用、运行测试并修复错误。  另外苹果宣布自 2026 年 4 月 28 日起，提交至 App Store Connect 的应用与游戏需使用 iOS 26、iPadOS 26、tvOS 26、visionOS 26、watchOS…",
+      "datetime": "2026-06-26T04:04:21+00:00",
+      "views": "4.47K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42187",
+      "scraped_at": "2026-06-26T13:00:53.802036",
+      "title": "苹果Xcode 26.3发布",
+      "title_options": {
+        "conclusion": "苹果Xcode 26.3发布",
+        "attractive": "Xcode引入AI编码",
+        "minimal": "Xcode 26.3 AI",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30377",
+      "channel": "xhqcankao",
+      "text": "广告巨头前中国区高管在1.76亿美元贿赂案中被判处无期徒刑据知情人士向媒体透露，全球最大广告公司之一WPP Plc旗下一名前高管因与其前同事收受总计12亿元人民币（1.76亿美元) 的贿赂，被中国法院判处无期徒刑。WPP旗下群邑媒介购买业务中国区前首席投资官底飞于今年三月被定罪，原因是他从代理公司收受回扣，以此作为向他们提供WPP部分广告投放业务的交换。在中国，获取法院文件和旁听听审受到严格管控，所以这些人士要求匿名。这起中国最大私营部门贿赂案之一的法院判决书未公开。据上述人士称，底飞的前同事姚岚和洪欣分别被判处14年半和4年有期徒刑。他们补充说，底飞正在上诉，预计结果将于今年年底或2027年初公布。",
+      "clean_text": "广告巨头前中国区高管在1.76亿美元贿赂案中被判处无期徒刑据知情人士向媒体透露，全球最大广告公司之一WPP Plc旗下一名前高管因与其前同事收受总计12亿元人民币（1.76亿美元) 的贿赂，被中国法院判处无期徒刑。WPP旗下群邑媒介购买业务中国区前首席投资官底飞于今年三月被定罪，原因是他从代理公司收受回扣，以此作为向他们提供WPP部分广告投放业务的交换。在中国，获取法院文件和旁听听审受到严格管控，所以这些人士要求匿名。这起中国最大私营部门贿赂案之一的法院判决书未公开。据上述人士称，底飞的前同事姚岚和洪欣分别被判处14年半和4年有期徒刑。他们补充说，底飞正在上诉，预计结果将于今年年底或2027年初公布。——彭博社",
+      "datetime": "2026-06-26T04:01:41+00:00",
+      "views": "1.94K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/ex-wpp-china-exec-sentenced-to-life-in-176-million-bribery-case"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30377",
+      "scraped_at": "2026-06-26T13:00:55.820732",
+      "title": "广告高管受贿1.76亿美元被判无期",
+      "title_options": {
+        "conclusion": "广告高管受贿1.76亿美元被判无期",
+        "attractive": "12亿回扣换来无期徒刑",
+        "minimal": "广告高管受贿判无期",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30376",
       "channel": "xhqcankao",
       "text": "报告：俄罗斯在针对活动人士的案件中使用了Cellebrite技术根据一份新报告，俄罗斯当局使用了以色列数字取证公司 Cellebrite 开发的技术，以协助起诉一位著名的亲民主活动人士。安德烈·皮沃瓦罗夫于2021年在圣彼得堡机场被俄罗斯安全官员拘留，随后因被控与一个不受欢迎的组织合作而被判处四年监禁。根据多伦多大学公民实验室周四发布的报告，俄罗斯当局使用 Cellebrite 技术访问了皮沃瓦罗夫的 iPhone 12。他们从该设备中收集了大量信息，包括来自WhatsApp、Telegram和Viber等即时通讯和社交媒体应用的数据。对于此事，Cellebrite 表示，该公司已于 2021年3 月停止对俄罗斯的所有销售和服务，并补充说，此后在俄罗斯对 Cellebrite 硬件的任何使用都将是“完全未经授权的”。",
@@ -1629,6 +1724,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-06-26T12:58:10.579071"
+  "count": 66,
+  "updated_at": "2026-06-26T13:03:16.036400"
 }
