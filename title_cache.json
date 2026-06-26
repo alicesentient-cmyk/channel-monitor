@@ -10227,5 +10227,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T19:03:32.219818"
+  },
+  "zaihuapd_42192": {
+    "ai_title": "加州推AI失业追踪仪表盘",
+    "title_options": {
+      "conclusion": "加州推AI失业追踪仪表盘",
+      "attractive": "AI致失业？加州实时监测",
+      "minimal": "AI失业追踪仪表盘",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T20:04:43.108668"
+  },
+  "xhqcankao_30391": {
+    "ai_title": "北京中信大厦遭小飞机撞击",
+    "title_options": {
+      "conclusion": "北京中信大厦遭小飞机撞击",
+      "attractive": "小飞机撞碎北京最高楼玻璃",
+      "minimal": "中信大厦 小飞机 撞击",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T20:04:43.153938"
+  },
+  "zaihuapd_42194": {
+    "ai_title": "微博推出CLI工具",
+    "title_options": {
+      "conclusion": "微博推出CLI工具",
+      "attractive": "AI直接调用微博核心",
+      "minimal": "微博CLI工具",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T20:04:43.294416"
   }
 }
