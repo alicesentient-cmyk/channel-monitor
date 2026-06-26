@@ -1097,37 +1097,6 @@
       }
     },
     {
-      "id": "zaihuapd_42180",
-      "channel": "zaihuapd",
-      "text": "IBM 推出全球首个亚 1 纳米芯片IBM 于 6 月 25 日发布全球首个可生产低于 1 纳米芯片的技术，晶体管架构为 0.7 纳米。该芯片在指甲大小的面积上集成近 1000 亿个晶体管，密度是其 2021 年 2 纳米芯片的两倍，性能提升最高 50%，或能效提升 70%。新技术采用 IBM 首创的 NanoStack 三维纳米堆栈架构，并结合多项结构和材料创新，将晶体管以三维方式堆叠而非平铺，从而在同一空间内塞入更多晶体管。IBM 表示生产可能在五年内启动，此前已向三星和日本 Rapidus 授权芯片技术，但尚未公布该技术的制造合作伙伴Reuters·英文频道·",
-      "clean_text": "IBM 推出全球首个亚 1 纳米芯片IBM 于 6 月 25 日发布全球首个可生产低于 1 纳米芯片的技术，晶体管架构为 0.7 纳米。该芯片在指甲大小的面积上集成近 1000 亿个晶体管，密度是其 2021 年 2 纳米芯片的两倍，性能提升最高 50%，或能效提升 70%。新技术采用 IBM 首创的 NanoStack 三维纳米堆栈架构，并结合多项结构和材料创新，将晶体管以三维方式堆叠而非平铺，从而在同一空间内塞入更多晶体管。IBM 表示生产可能在五年内启动，此前已向三星和日本 Rapidus 授权芯片技术，但尚未公布该技术的制造合作伙伴Reuters·英文频道",
-      "datetime": "2026-06-25T15:39:28+00:00",
-      "views": "2.29K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/business/ibm-unveils-tech-chip-smaller-than-1-nanometer-ai-computing-push-2026-06-25/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42180",
-      "scraped_at": "2026-06-26T00:01:04.307640",
-      "title": "IBM发布0.7纳米芯片",
-      "title_options": {
-        "conclusion": "IBM发布0.7纳米芯片",
-        "attractive": "指甲盖集成千亿晶体管",
-        "minimal": "IBM 0.7纳米芯片",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1189,6 +1158,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-06-27T03:37:33.929456"
+  "count": 46,
+  "updated_at": "2026-06-27T03:42:37.824722"
 }
