@@ -1573,29 +1573,6 @@
       }
     },
     {
-      "id": "xhqcankao_30345",
-      "channel": "xhqcankao",
-      "text": "微软称Copilot AI助力打击网络犯罪工具美国微软公司部署了人工智能，将两种独立的黑客工具关联起来并协助将其拿下，该公司表示，这一转变反映了AI如何重塑数字犯罪格局的双方。该公司的数字犯罪部门使用了AI，包括其Copilot助手，来分析Amadey和StealC背后的恶意软件，这两种网络犯罪工具共享相同的数字基础设施。该公司周三表示，调查人员无需手动检查冗长的复杂代码，而是能够用简单的英语提出问题，并建立起这两个工具之间的联系，否则这种联系可能会保持隐藏状态。这一关联使微软能够根据《反勒索及受贿组织法》提起单一民事诉讼，该美国法律旨在打击有组织犯罪。",
-      "clean_text": "微软称Copilot AI助力打击网络犯罪工具美国微软公司部署了人工智能，将两种独立的黑客工具关联起来并协助将其拿下，该公司表示，这一转变反映了AI如何重塑数字犯罪格局的双方。该公司的数字犯罪部门使用了AI，包括其Copilot助手，来分析Amadey和StealC背后的恶意软件，这两种网络犯罪工具共享相同的数字基础设施。该公司周三表示，调查人员无需手动检查冗长的复杂代码，而是能够用简单的英语提出问题，并建立起这两个工具之间的联系，否则这种联系可能会保持隐藏状态。这一关联使微软能够根据《反勒索及受贿组织法》提起单一民事诉讼，该美国法律旨在打击有组织犯罪。——彭博社",
-      "datetime": "2026-06-25T05:04:10+00:00",
-      "views": "1.74K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30345",
-      "scraped_at": "2026-06-25T14:00:29.708652",
-      "title": "微软用AI关联黑客工具",
-      "title_options": {
-        "conclusion": "微软用AI关联黑客工具",
-        "attractive": "AI助微软破获黑客工具",
-        "minimal": "AI关联黑客工具",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1657,6 +1634,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-06-26T17:01:46.568504"
+  "count": 64,
+  "updated_at": "2026-06-26T17:06:50.450541"
 }
