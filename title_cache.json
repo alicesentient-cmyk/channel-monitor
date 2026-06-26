@@ -10008,5 +10008,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T11:00:43.742741"
+  },
+  "zaihuapd_42186": {
+    "ai_title": "苹果多款产品涨价",
+    "title_options": {
+      "conclusion": "苹果多款产品涨价",
+      "attractive": "MacBook Neo涨100美元",
+      "minimal": "苹果涨价",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T12:02:34.608080"
+  },
+  "xhqcankao_30375": {
+    "ai_title": "极星被禁在美销售新车",
+    "title_options": {
+      "conclusion": "极星被禁在美销售新车",
+      "attractive": "中资电动车首遭美禁令",
+      "minimal": "极星退出美国市场"
+    },
+    "generated_at": "2026-06-26T12:02:34.690572"
+  },
+  "xhqcankao_30376": {
+    "ai_title": "俄用Cellebrite技术起诉活动人士",
+    "title_options": {
+      "conclusion": "俄用Cellebrite技术起诉活动人士",
+      "attractive": "以色列技术助俄起诉活动人士",
+      "minimal": "俄罗斯 Cellebrite 活动人士",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T12:02:34.709008"
   }
 }
