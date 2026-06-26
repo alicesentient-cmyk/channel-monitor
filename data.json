@@ -1306,40 +1306,6 @@
       }
     },
     {
-      "id": "zaihuapd_42178",
-      "channel": "zaihuapd",
-      "text": "白宫推动 SAVE 法案：选民须出示身份证及公民证明、禁止男性参加女子体育白宫于 6 月 24 日列出《保障美国选民资格法案》立场：选民投票须出示带照片身份证，登记投票须提交公民证明；除因病、残疾、军人或旅行等特殊情况外限制邮寄投票；并推动纳入禁止男性参加女子体育比赛、禁止对儿童实施跨性别手术等条款。The White House编辑补充：（1）该法案仍待参议院通过，尚未生效。（2）该法案目前因故不能仅以 50 票简单多数通过。考虑单独通过存在困难，共和党正寻求将其纳入预算协调法案，但面临阻力。（3）特朗普近日取消了两党住房法案的签署仪式，借此向参议院共和党人施压，要求先通过《保障美国选民资格法案》。NBC News·英文频道·",
-      "clean_text": "白宫推动 SAVE 法案：选民须出示身份证及公民证明、禁止男性参加女子体育白宫于 6 月 24 日列出《保障美国选民资格法案》立场：选民投票须出示带照片身份证，登记投票须提交公民证明；除因病、残疾、军人或旅行等特殊情况外限制邮寄投票；并推动纳入禁止男性参加女子体育比赛、禁止对儿童实施跨性别手术等条款。The White House编辑补充：（1）该法案仍待参议院通过，尚未生效。（2）该法案目前因故不能仅以 50 票简单多数通过。考虑单独通过存在困难，共和党正寻求将其纳入预算协调法案，但面临阻力。（3）特朗普近日取消了两党住房法案的签署仪式，借此向参议院共和党人施压，要求先通过《保障美国选民资格法案》。NBC News·英文频道",
-      "datetime": "2026-06-25T12:15:07+00:00",
-      "views": "4.16K",
-      "source_links": [
-        {
-          "text": "The White House",
-          "url": "https://x.com/WhiteHouse/status/2069844354089259407"
-        },
-        {
-          "text": "NBC News",
-          "url": "https://www.nbcnews.com/politics/donald-trump/trump-cancels-plan-sign-major-housing-bill-fights-congress-act-rcna351558"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42178",
-      "scraped_at": "2026-06-25T21:00:41.870432",
-      "title": "白宫推SAVE法案要求选民证",
-      "title_options": {
-        "conclusion": "白宫推SAVE法案要求选民证",
-        "attractive": "投票须出示身份证及公民证明",
-        "minimal": "SAVE法案选民身份证"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1401,6 +1367,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-27T00:13:36.483701"
+  "count": 54,
+  "updated_at": "2026-06-27T00:18:41.909256"
 }
