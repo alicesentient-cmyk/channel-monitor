@@ -1438,33 +1438,6 @@
       }
     },
     {
-      "id": "zaihuapd_42169",
-      "channel": "zaihuapd",
-      "text": "各地高考成绩近期陆续公布，到了选择学校和专业的时候~大家觉得未来几年哪些专业更有发展前景，更值得优先考虑？·英文频道·",
-      "clean_text": "❤️各地高考成绩近期陆续公布，到了选择学校和专业的时候~大家觉得未来几年哪些专业更有发展前景，更值得优先考虑？·英文频道",
-      "datetime": "2026-06-25T07:35:03+00:00",
-      "views": "3.41K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42169",
-      "scraped_at": "2026-06-25T16:01:02.623448",
-      "title": "高考成绩公布选专业",
-      "title_options": {
-        "conclusion": "高考成绩公布选专业",
-        "attractive": "哪些专业更有前景",
-        "minimal": "高考选专业",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1526,6 +1499,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-26T19:34:14.764256"
+  "count": 59,
+  "updated_at": "2026-06-26T19:39:19.165394"
 }
