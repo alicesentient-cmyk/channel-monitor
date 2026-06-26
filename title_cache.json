@@ -10077,5 +10077,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T13:03:16.020890"
+  },
+  "xhqcankao_30380": {
+    "ai_title": "苹果Mac芯片跳至M7",
+    "title_options": {
+      "conclusion": "苹果Mac芯片跳至M7",
+      "attractive": "苹果跳过M5高端版",
+      "minimal": "苹果M7芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T14:04:08.903850"
+  },
+  "xhqcankao_30379": {
+    "ai_title": "星舰可重复使用助力太空AI",
+    "title_options": {
+      "conclusion": "星舰可重复使用助力太空AI",
+      "attractive": "地面AI受限，太空数据中心来了",
+      "minimal": "星舰可重复使用，太空AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T14:04:09.024203"
   }
 }
