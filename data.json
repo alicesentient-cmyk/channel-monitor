@@ -1519,37 +1519,6 @@
       }
     },
     {
-      "id": "zaihuapd_42167",
-      "channel": "zaihuapd",
-      "text": "OpenAI 再次更新 ChatGPT 最常用模型 GPT-5.5 InstantOpenAI 再次调整 ChatGPT 的默认模型 GPT-5.5 Instant，称新版本\"对话起来更有趣\"。该模型现在更擅长理解问题背后的意图并自适应回答，处理复杂约束也更可靠，购物和本地推荐变得更连贯。付费用户已于 6 月 24 日获得更新，免费用户则在 6 月 25 日推送。9To5Mac·英文频道·",
-      "clean_text": "🤖OpenAI 再次更新 ChatGPT 最常用模型 GPT-5.5 InstantOpenAI 再次调整 ChatGPT 的默认模型 GPT-5.5 Instant，称新版本\"对话起来更有趣\"。该模型现在更擅长理解问题背后的意图并自适应回答，处理复杂约束也更可靠，购物和本地推荐变得更连贯。付费用户已于 6 月 24 日获得更新，免费用户则在 6 月 25 日推送。9To5Mac·英文频道",
-      "datetime": "2026-06-25T05:32:20+00:00",
-      "views": "3.32K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42167",
-      "scraped_at": "2026-06-25T14:00:27.786911",
-      "title": "OpenAI更新GPT-5.5",
-      "title_options": {
-        "conclusion": "OpenAI更新GPT-5.5",
-        "attractive": "ChatGPT模型更有趣",
-        "minimal": "GPT-5.5更新",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1611,6 +1580,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-06-26T17:32:07.881757"
+  "count": 62,
+  "updated_at": "2026-06-26T17:37:12.325266"
 }
