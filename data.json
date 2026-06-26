@@ -1225,29 +1225,6 @@
       }
     },
     {
-      "id": "xhqcankao_30361",
-      "channel": "xhqcankao",
-      "text": "苹果Mac及iPad多款产品因内存短缺涨价苹果公司6月25日宣布上调Mac、iPad及家居设备价格，以应对AI数据中心扩张引发的内存芯片及存储器空前短缺所带来的成本压力。具体涨价幅度：MacBook Neo起售价从599美元升至699美元，MacBook Air从1099美元升至1299美元，14英寸入门款MacBook Pro从1699美元升至1999美元，11英寸iPad Pro从999美元升至1199美元，iPad Air从599美元升至749美元。苹果发言人称，AI数据中心的快速扩张造成内存和存储器需求的超常规激增，公司从未见过零部件价格涨得如此之快、如此之多，并表示此前已尽力为消费者吸收成本上涨压力，但现在已到了不得不开始提价的时刻。",
-      "clean_text": "苹果Mac及iPad多款产品因内存短缺涨价苹果公司6月25日宣布上调Mac、iPad及家居设备价格，以应对AI数据中心扩张引发的内存芯片及存储器空前短缺所带来的成本压力。具体涨价幅度：MacBook Neo起售价从599美元升至699美元，MacBook Air从1099美元升至1299美元，14英寸入门款MacBook Pro从1699美元升至1999美元，11英寸iPad Pro从999美元升至1199美元，iPad Air从599美元升至749美元。苹果发言人称，AI数据中心的快速扩张造成内存和存储器需求的超常规激增，公司从未见过零部件价格涨得如此之快、如此之多，并表示此前已尽力为消费者吸收成本上涨压力，但现在已到了不得不开始提价的时刻。——财联社",
-      "datetime": "2026-06-25T12:59:05+00:00",
-      "views": "180",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2409440?&amp;sv=8.5.9&amp;app=cailianpress"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30361",
-      "scraped_at": "2026-06-25T21:00:44.026468",
-      "title": "苹果Mac及iPad多款涨价",
-      "title_options": {
-        "conclusion": "苹果Mac及iPad多款涨价",
-        "attractive": "内存短缺致苹果全线涨价",
-        "minimal": "苹果Mac iPad涨价",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1309,6 +1286,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-06-27T00:54:18.768158"
+  "count": 51,
+  "updated_at": "2026-06-27T00:59:52.367691"
 }
