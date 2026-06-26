@@ -10167,5 +10167,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T16:00:58.662148"
+  },
+  "xhqcankao_30386": {
+    "ai_title": "马云现身麻省哈佛",
+    "title_options": {
+      "conclusion": "马云现身麻省哈佛",
+      "attractive": "马云低调访美名校",
+      "minimal": "马云 麻省 哈佛",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T17:01:46.227143"
+  },
+  "xhqcankao_30387": {
+    "ai_title": "英国热浪致4000台手术取消",
+    "title_options": {
+      "conclusion": "英国热浪致4000台手术取消",
+      "attractive": "医院无空调，手术被取消",
+      "minimal": "热浪手术取消",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T17:01:46.473772"
+  },
+  "xhqcankao_30385": {
+    "ai_title": "俄要求苹果解释下架俄应用",
+    "title_options": {
+      "conclusion": "俄要求苹果解释下架俄应用",
+      "attractive": "苹果下架俄应用，俄方要说法",
+      "minimal": "俄苹果应用下架争议",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T17:01:46.552925"
   }
 }
