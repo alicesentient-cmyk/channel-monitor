@@ -1391,33 +1391,6 @@
       }
     },
     {
-      "id": "zaihuapd_42176",
-      "channel": "zaihuapd",
-      "text": "OpenAI ChatGPT 额度/tier系统疑似出现大规模异常6 月 25 日早上 8 点开始，大量 ChatGPT 用户反馈 Pro 订阅出现异常：多人 Plus 突然变成「20X」，Pro 用户也出现额度突然刷新（75%）或直接增加 4 倍的情况。账号 tier 显示混乱：订阅仍是 Pro，但行为像 Plus；设置里看不到 5.5 pro 模型。重置后消耗速度极快：有用户 5h 内 25 刀就限流，论坛帖主早上重置 8 刀 直接撞小时限制。via 群友·英文频道·",
-      "clean_text": "OpenAI ChatGPT 额度/tier系统疑似出现大规模异常6 月 25 日早上 8 点开始，大量 ChatGPT 用户反馈 Pro 订阅出现异常：多人 Plus 突然变成「20X」，Pro 用户也出现额度突然刷新（75%）或直接增加 4 倍的情况。账号 tier 显示混乱：订阅仍是 Pro，但行为像 Plus；设置里看不到 5.5 pro 模型。重置后消耗速度极快：有用户 5h 内 25 刀就限流，论坛帖主早上重置 8 刀 直接撞小时限制。via 群友·英文频道",
-      "datetime": "2026-06-25T10:21:55+00:00",
-      "views": "3.86K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42176",
-      "scraped_at": "2026-06-25T19:00:26.568970",
-      "title": "ChatGPT订阅额度现大规模异常",
-      "title_options": {
-        "conclusion": "ChatGPT订阅额度现大规模异常",
-        "attractive": "Plus突变20X，Pro额度翻倍",
-        "minimal": "ChatGPT额度异常",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1479,6 +1452,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-26T22:16:50.342232"
+  "count": 57,
+  "updated_at": "2026-06-26T22:21:55.436688"
 }
