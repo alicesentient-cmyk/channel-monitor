@@ -1548,41 +1548,6 @@
       }
     },
     {
-      "id": "zaihuapd_42163",
-      "channel": "zaihuapd",
-      "text": "Anthropic 指控阿里巴巴发动大规模“蒸馏攻击”窃取 Claude 能力美国 AI 公司 Anthropic 致信美国参议院银行委员会，指控阿里巴巴通过近 2.5 万个欺诈账户，在 2026 年 4 月 22 日至 6 月 5 日期间与 Claude 进行了超过 2880 万次交互，非法提取 Claude AI 模型能力。Anthropic 称这是针对该公司“迄今已知最大规模的蒸馏攻击”，参与方包括阿里巴巴及其 AI 实验室 Qwen。蒸馏是指用更弱模型学习更强模型输出以复制能力的技术，Anthropic 认为这可能帮助中国加速赶上其 Mythos Preview 等先进模型。这封信于 6 月 10 日发给委员会主席 Tim Scott 和资深成员 Elizabeth Warren，正值国会 AI 听证会前夕。阿里巴巴尚未回应置评请求。事件背景包括白宫 4 月指责中国大规模窃取美国 AI 知识产权，以及 6 月 12 日美国商务部以国家安全为由限制 Anthropic 的 Mythos 和 Fable 模型出口，导致 Anthropic 在全球禁用这两款模型。本月阿里巴巴还被列入五角大楼“中国军事公司”清单，公司正在起诉挑战。CNBC|Reuters·英文频道·",
-      "clean_text": "Anthropic 指控阿里巴巴发动大规模“蒸馏攻击”窃取 Claude 能力美国 AI 公司 Anthropic 致信美国参议院银行委员会，指控阿里巴巴通过近 2.5 万个欺诈账户，在 2026 年 4 月 22 日至 6 月 5 日期间与 Claude 进行了超过 2880 万次交互，非法提取 Claude AI 模型能力。Anthropic 称这是针对该公司“迄今已知最大规模的蒸馏攻击”，参与方包括阿里巴巴及其 AI 实验室 Qwen。蒸馏是指用更弱模型学习更强模型输出以复制能力的技术，Anthropic 认为这可能帮助中国加速赶上其 Mythos Preview 等先进模型。这封信于 6 月 10 日发给委员会主席 Tim Scott 和资深成员 Elizabeth Warren，正值国会 AI 听证会前夕。阿里巴巴尚未回应置评请求。事件背景包括白宫 4 月指责中国大规模窃取美国 AI 知识产权，以及 6 月 12 日美国商务部以国家安全为由限制 Anthropic 的 Mythos 和 Fable 模型出口，导致 Anthropic 在全球禁用这两款模型。本月阿里巴巴还被列入五角大楼“中国军事公司”清单，公司正在起诉挑战。CNBC|Reuters·英文频道",
-      "datetime": "2026-06-25T01:36:56+00:00",
-      "views": "2.92K",
-      "source_links": [
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html"
-        },
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42163",
-      "scraped_at": "2026-06-25T10:01:15.707219",
-      "title": "Anthropic指控阿里窃取AI能力",
-      "title_options": {
-        "conclusion": "Anthropic指控阿里窃取AI能力",
-        "attractive": "阿里被指发动2880万次攻击",
-        "minimal": "阿里Anthropic蒸馏攻击",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42136",
       "channel": "zaihuapd",
       "text": "消息称阿里巴巴计划出售游戏业务，售价 70-90 亿元游戏新知获悉，阿里巴巴集团计划出售游戏业务品牌灵犀互娱，目前已接触至少五位潜在买家，开价 70 亿至 90 亿元人民币。接触的买家包括三七互娱、中国儒意、世纪华通、巨人网络，以及两家私募股权巨头组成的收购团。有业内人士猜测，阿里此举或为获取更充足的现金流。新浪科技·英文频道·",
@@ -1675,6 +1640,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-06-26T13:33:35.772871"
+  "count": 63,
+  "updated_at": "2026-06-26T13:38:39.694965"
 }
