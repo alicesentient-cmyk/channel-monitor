@@ -9939,5 +9939,44 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T09:04:18.952138"
+  },
+  "xhqcankao_30372": {
+    "ai_title": "美政府要求OpenAI分阶段发布GPT…",
+    "title_options": {
+      "conclusion": "美政府要求OpenAI分阶段发布GPT…",
+      "attractive": "GPT-5.6发布被美政府限制",
+      "minimal": "OpenAI GPT-5.6 分阶段发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T10:05:00.252273"
+  },
+  "zaihuapd_42184": {
+    "ai_title": "苹果直接推M7 AI芯片",
+    "title_options": {
+      "conclusion": "苹果跳过M6 Pro/Max",
+      "attractive": "苹果直接推M7 AI芯片",
+      "minimal": "苹果M7 AI芯片",
+      "best": "attractive"
+    },
+    "generated_at": "2026-06-26T10:05:00.310825"
+  },
+  "zaihuapd_42183": {
+    "ai_title": "苹果多款产品涨价",
+    "title_options": {
+      "conclusion": "苹果多款产品涨价",
+      "attractive": "iPad Pro涨价200美元",
+      "minimal": "苹果产品涨价"
+    },
+    "generated_at": "2026-06-26T10:05:00.311958"
+  },
+  "xhqcankao_30371": {
+    "ai_title": "OpenAI推迟至明年上市",
+    "title_options": {
+      "conclusion": "OpenAI推迟至明年上市",
+      "attractive": "OpenAI万亿估值梦碎",
+      "minimal": "OpenAI推迟IPO",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T10:05:01.365103"
   }
 }

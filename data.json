@@ -1,6 +1,112 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42184",
+      "channel": "zaihuapd",
+      "text": "苹果据传将跳过 M6 Pro/Max 芯片，直接推 M7 AI 芯片苹果据传将跳过 M6 Pro 和 M6 Max 芯片，转而直接推出以 AI 为核心的 M7 系列。据彭博社报道，入门级 M6 仍将在 2026 年底随新款 MacBook Pro 登场，其内存带宽将从 M5 的每秒 153 GB 提升至 200 GB，GPU 核心数增至 12 个，但自转用 Apple Silicon 以来，苹果首次不为该代芯片推出 Pro 与 Max 变体。M7 预计会在 2027 上半年较快跟进，较以往年度更新周期缩短；M7 Pro 与 M7 Max 则押后至 2027 年底，M7 Ultra 预计 2028 年面世。M7 全线将侧重设备端 AI 性能，内存带宽有望达到每秒 240 GB。此外，搭载约 36 个 CPU 核心与 80 个 GPU 核心的 M5 Ultra 仍计划用于 Mac Studio。AppleInsider·英文频道·",
+      "clean_text": "苹果据传将跳过 M6 Pro/Max 芯片，直接推 M7 AI 芯片苹果据传将跳过 M6 Pro 和 M6 Max 芯片，转而直接推出以 AI 为核心的 M7 系列。据彭博社报道，入门级 M6 仍将在 2026 年底随新款 MacBook Pro 登场，其内存带宽将从 M5 的每秒 153 GB 提升至 200 GB，GPU 核心数增至 12 个，但自转用 Apple Silicon 以来，苹果首次不为该代芯片推出 Pro 与 Max 变体。M7 预计会在 2027 上半年较快跟进，较以往年度更新周期缩短；M7 Pro 与 M7 Max 则押后至 2027 年底，M7 Ultra 预计 2028 年面世。M7 全线将侧重设备端 AI 性能，内存带宽有望达到每秒 240 GB。此外，搭载约 36 个 CPU 核心与 80 个 GPU 核心的 M5 Ultra 仍计划用于 Mac Studio。AppleInsider·英文频道",
+      "datetime": "2026-06-26T01:48:17+00:00",
+      "views": "1.78K",
+      "source_links": [
+        {
+          "text": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42184",
+      "scraped_at": "2026-06-26T10:00:47.366712",
+      "title": "苹果直接推M7 AI芯片",
+      "title_options": {
+        "conclusion": "苹果跳过M6 Pro/Max",
+        "attractive": "苹果直接推M7 AI芯片",
+        "minimal": "苹果M7 AI芯片",
+        "best": "attractive"
+      }
+    },
+    {
+      "id": "xhqcankao_30372",
+      "channel": "xhqcankao",
+      "text": "美国政府要求OpenAI分阶段发布GPT-5.6知情人士称，美国政府已要求OpenAI分阶段发布一款即将推出的强大人工智能模型。就在不到两周前，Anthropic公司在监管压力下暂停了其最强大模型的市场投放。据知情人士透露，OpenAI CEO萨姆·奥尔特曼周三告诉员工，美国政府要求公司先将 GPT-5.6 模型提供给一小部分值得信赖的合作伙伴进行使用，随后再逐步向更广泛的用户开放。知情人士称，奥尔特曼在员工会议上表示，美国政府对最前沿人工智能模型所具备的能力愈发感到担忧。奥尔特曼强调，员工需要就特朗普政府官员可能对OpenAI即将推出的模型，在安全性和使用限制方面提出的任何意见进行配合，即使公司持有不同意见。",
+      "clean_text": "美国政府要求OpenAI分阶段发布GPT-5.6知情人士称，美国政府已要求OpenAI分阶段发布一款即将推出的强大人工智能模型。就在不到两周前，Anthropic公司在监管压力下暂停了其最强大模型的市场投放。据知情人士透露，OpenAI CEO萨姆·奥尔特曼周三告诉员工，美国政府要求公司先将 GPT-5.6 模型提供给一小部分值得信赖的合作伙伴进行使用，随后再逐步向更广泛的用户开放。知情人士称，奥尔特曼在员工会议上表示，美国政府对最前沿人工智能模型所具备的能力愈发感到担忧。奥尔特曼强调，员工需要就特朗普政府官员可能对OpenAI即将推出的模型，在安全性和使用限制方面提出的任何意见进行配合，即使公司持有不同意见。——凤凰网科技、彭博社",
+      "datetime": "2026-06-26T01:30:23+00:00",
+      "views": "1.19K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v0065OR3-_x1wBckwZCns-_TKXqE0IAs4D3hbr5--517cmir54qHCiBAwNO6dFXyiJamxwD"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30372",
+      "scraped_at": "2026-06-26T10:00:49.249299",
+      "title": "美政府要求OpenAI分阶段发布GPT…",
+      "title_options": {
+        "conclusion": "美政府要求OpenAI分阶段发布GPT…",
+        "attractive": "GPT-5.6发布被美政府限制",
+        "minimal": "OpenAI GPT-5.6 分阶段发布",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42183",
+      "channel": "zaihuapd",
+      "text": "苹果上调多个产品价格  苹果将 MacBook Neo 的起售价从 599 美元上调至 699 美元；将 iPad Pro 价格从 999 美元上调至 1,199 美元，iPad Air 价格上调至 749 美元；将 MacBook Air 价格提高至 1,299 美元，MacBook Pro 价格提高至 1,999 美元。  国行价格： iPhone 17 Pro 起售价 ¥8999 （没涨）； iPhone 17 起售价 ¥5999 （没涨）； iPhone Air 起售价 ¥7999 （没涨）；…",
+      "clean_text": "🍏苹果上调多个产品价格  苹果将 MacBook Neo 的起售价从 599 美元上调至 699 美元；将 iPad Pro 价格从 999 美元上调至 1,199 美元，iPad Air 价格上调至 749 美元；将 MacBook Air 价格提高至 1,299 美元，MacBook Pro 价格提高至 1,999 美元。  国行价格： iPhone 17 Pro 起售价 ¥8999 （没涨）； iPhone 17 起售价 ¥5999 （没涨）； iPhone Air 起售价 ¥7999 （没涨）；…",
+      "datetime": "2026-06-26T01:03:17+00:00",
+      "views": "4.87K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42183",
+      "scraped_at": "2026-06-26T10:00:47.366248",
+      "title": "苹果多款产品涨价",
+      "title_options": {
+        "conclusion": "苹果多款产品涨价",
+        "attractive": "iPad Pro涨价200美元",
+        "minimal": "苹果产品涨价"
+      }
+    },
+    {
+      "id": "xhqcankao_30371",
+      "channel": "xhqcankao",
+      "text": "OpenAI公司倾向于推迟至明年上市据三位参与内部讨论的人士透露，OpenAI倾向于将首次公开招股(IPO)推迟到明年，这一转变凸显了快速崛起的人工智能巨头所面临的不确定前景。这些知情人士称，OpenAI已聘请投行和律师，原本着眼于在今年第三季度或第四季度进行IPO。该公司CEO萨姆·奥尔特曼曾督促这些顾问寻找方案，使其创业公司的估值达到 1 万亿美元，高于其最近一次私募融资时7300亿美元的估值。但近期接连发生的一系列事件，促使OpenAI高管放弃了最激进的上市目标。其中最令他们关注的是马斯克旗下SpaceX本月IPO后的表现。近几周来，全球市场也持续波动，科技股拖累了主要股指，因为投资者开始质疑人工智能公司是否能够兑现其极高的增长承诺。",
+      "clean_text": "OpenAI公司倾向于推迟至明年上市据三位参与内部讨论的人士透露，OpenAI倾向于将首次公开招股(IPO)推迟到明年，这一转变凸显了快速崛起的人工智能巨头所面临的不确定前景。这些知情人士称，OpenAI已聘请投行和律师，原本着眼于在今年第三季度或第四季度进行IPO。该公司CEO萨姆·奥尔特曼曾督促这些顾问寻找方案，使其创业公司的估值达到 1 万亿美元，高于其最近一次私募融资时7300亿美元的估值。但近期接连发生的一系列事件，促使OpenAI高管放弃了最激进的上市目标。其中最令他们关注的是马斯克旗下SpaceX本月IPO后的表现。近几周来，全球市场也持续波动，科技股拖累了主要股指，因为投资者开始质疑人工智能公司是否能够兑现其极高的增长承诺。——凤凰网科技、彭博社、纽约时报",
+      "datetime": "2026-06-26T01:02:12+00:00",
+      "views": "1.84K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006Ow9OtcF1tUQRjwY29kbLKBquefIxyu5jt7ybtERSEIdW0MB-_dHJj5O6FgW0nh72i"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/openai-leans-toward-waiting-until-2027-for-ipo-ny-times-says"
+        },
+        {
+          "text": "纽约时报",
+          "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30371",
+      "scraped_at": "2026-06-26T10:00:49.248893",
+      "title": "OpenAI推迟至明年上市",
+      "title_options": {
+        "conclusion": "OpenAI推迟至明年上市",
+        "attractive": "OpenAI万亿估值梦碎",
+        "minimal": "OpenAI推迟IPO",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30370",
       "channel": "xhqcankao",
       "text": "DeepSeek拟将所有部门规模扩大至少一倍人工智能公司 DeepSeek 昨晚在一则微信帖文中披露，随着技术演进，公司正努力将所有部门的规模扩大至少一倍，并同步释放出大量技术岗位。根据帖文，此次招聘覆盖服务端开发工程师、预训练数据工程师、AI搜索算法/架构工程师、Agent Harness团队、Agent Infra研发工程师、前端/客户端开发工程师等多个方向，此外还专门列出“AI跨界技术人才”等职位，意在吸纳不同背景的研发力量。在招聘声明中， DeepSeek 将当前节点形容为 “人类正处于 AGI 的前夜”，邀请候选人加入并“亲历AGI的发展进程，坐在时代前排，见证一个新纪元的诞生”。这一表述延续了该公司一贯的技术路线主张，也透露出其在通用人工智能领域持续押注的意图。",
@@ -1523,6 +1629,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-06-26T09:59:55.711348"
+  "count": 62,
+  "updated_at": "2026-06-26T10:05:01.380296"
 }
