@@ -10137,5 +10137,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T15:05:04.253386"
+  },
+  "xhqcankao_30383": {
+    "ai_title": "Anthropic收入增长75%",
+    "title_options": {
+      "conclusion": "Anthropic收入增长75%",
+      "attractive": "Claude用户激增抢OpenAI市场",
+      "minimal": "Anthropic收入增长",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T16:00:58.444139"
+  },
+  "zaihuapd_42191": {
+    "ai_title": "GPT-5测试删23题",
+    "title_options": {
+      "conclusion": "GPT-5测试删23题",
+      "attractive": "GPT-5成绩造假？",
+      "minimal": "GPT-5删题美化",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T16:00:58.648845"
+  },
+  "xhqcankao_30384": {
+    "ai_title": "三星在韩投资1000万亿",
+    "title_options": {
+      "conclusion": "三星在韩投资1000万亿",
+      "attractive": "三星投资占GDP一半",
+      "minimal": "三星 1000万亿 投资",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T16:00:58.662148"
   }
 }

@@ -1,6 +1,74 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42191",
+      "channel": "zaihuapd",
+      "text": "GPT-5编程测试被曝\"作弊\"：自删23道题目美化成绩  有开发者发现，OpenAI在GPT-5编程能力测试中存在\"猫腻\"。官方声称使用SWE-bench Verified基准测试，但实际只用了477个问题，自行删除了原本500题中的23道。SWE-bench是评估AI模型自主编程能力的通用指标，而GPT-5使用的是\"子集的子集\"。如果被删除的23题按零分计算，GPT-5的实际得分将低于Claude Opus 4.1，目前两者仅有0.4%的微弱差距。",
+      "clean_text": "GPT-5编程测试被曝\"作弊\"：自删23道题目美化成绩  有开发者发现，OpenAI在GPT-5编程能力测试中存在\"猫腻\"。官方声称使用SWE-bench Verified基准测试，但实际只用了477个问题，自行删除了原本500题中的23道。SWE-bench是评估AI模型自主编程能力的通用指标，而GPT-5使用的是\"子集的子集\"。如果被删除的23题按零分计算，GPT-5的实际得分将低于Claude Opus 4.1，目前两者仅有0.4%的微弱差距。  新浪科技🍀频道🍵茶馆📮投稿",
+      "datetime": "2026-06-26T07:43:59+00:00",
+      "views": "2.39K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42191",
+      "scraped_at": "2026-06-26T16:00:52.619905",
+      "title": "GPT-5测试删23题",
+      "title_options": {
+        "conclusion": "GPT-5测试删23题",
+        "attractive": "GPT-5成绩造假？",
+        "minimal": "GPT-5删题美化",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30384",
+      "channel": "xhqcankao",
+      "text": "三星据称将宣布在韩投资1000万亿韩元三星集团将于下周一宣布未来十年在韩国投资1000万亿韩元的计划，包括可能斥资300万亿韩元在韩国西南部建设芯片工厂。这将是韩国公司宣布的金额最大的投资，相当于韩国国内生产总值的一半左右。报道称，这项投资是一项综合性蓝图，涵盖芯片、人工智能数据中心、储能电池和显示器等关键业务的战略。报道还称，此次投资计划将在韩国总统府举行的会议上正式公布。包括三星电子及其竞争对手SK海力士在内的多家企业的高管将出席此次会议，公布针对首尔以外地区及附近城市的投资计划。",
+      "clean_text": "三星据称将宣布在韩投资1000万亿韩元三星集团将于下周一宣布未来十年在韩国投资1000万亿韩元的计划，包括可能斥资300万亿韩元在韩国西南部建设芯片工厂。这将是韩国公司宣布的金额最大的投资，相当于韩国国内生产总值的一半左右。报道称，这项投资是一项综合性蓝图，涵盖芯片、人工智能数据中心、储能电池和显示器等关键业务的战略。报道还称，此次投资计划将在韩国总统府举行的会议上正式公布。包括三星电子及其竞争对手SK海力士在内的多家企业的高管将出席此次会议，公布针对首尔以外地区及附近城市的投资计划。——财联社",
+      "datetime": "2026-06-26T07:33:08+00:00",
+      "views": "1.19K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2409841?sv=8.5.9&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30384",
+      "scraped_at": "2026-06-26T16:00:54.776289",
+      "title": "三星在韩投资1000万亿",
+      "title_options": {
+        "conclusion": "三星在韩投资1000万亿",
+        "attractive": "三星投资占GDP一半",
+        "minimal": "三星 1000万亿 投资",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30383",
+      "channel": "xhqcankao",
+      "text": "Anthropic公司付费收入和用户持续增长美国顶尖AI企业OpenAI与Anthropic之间的竞争日益激烈。报告显示 Anthropic 正在快速抢占OpenAI的付费用户市场份额。据信用卡交易分析公司Indagari数据，Anthropic旗舰模型Claude付费用户和收入逐月增长，自2026年1月以来，该细分市场的收入增长了约75%。Indagari的数据来自2800万美国消费者的数千亿笔匿名信用卡交易记录，覆盖了 2025年至 2026年5月10日之间的每周交易。AI在线教育平台DataCamp也给出了类似的结论。指出平台上的用户今年对Claude的兴趣呈爆炸式增长，Claude已经成为该网站上搜索量最高的词条，甚至超过了AI。",
+      "clean_text": "Anthropic公司付费收入和用户持续增长美国顶尖AI企业OpenAI与Anthropic之间的竞争日益激烈。报告显示 Anthropic 正在快速抢占OpenAI的付费用户市场份额。据信用卡交易分析公司Indagari数据，Anthropic旗舰模型Claude付费用户和收入逐月增长，自2026年1月以来，该细分市场的收入增长了约75%。Indagari的数据来自2800万美国消费者的数千亿笔匿名信用卡交易记录，覆盖了 2025年至 2026年5月10日之间的每周交易。AI在线教育平台DataCamp也给出了类似的结论。指出平台上的用户今年对Claude的兴趣呈爆炸式增长，Claude已经成为该网站上搜索量最高的词条，甚至超过了AI。——财联社、Techcrunch",
+      "datetime": "2026-06-26T07:03:15+00:00",
+      "views": "1.97K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2409941?sv=8.7.9&amp;app=cailianpress"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30383",
+      "scraped_at": "2026-06-26T16:00:54.775921",
+      "title": "Anthropic收入增长75%",
+      "title_options": {
+        "conclusion": "Anthropic收入增长75%",
+        "attractive": "Claude用户激增抢OpenAI市场",
+        "minimal": "Anthropic收入增长",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42190",
       "channel": "zaihuapd",
       "text": "《2026 年世界幸福报告》称，重度社交媒体使用与年轻人幸福感下滑相关  《2026 年世界幸福报告》称，英语国家和西欧 25 岁以下人群过去 10 年的生活评价分数下降近 1 分，长时间刷社交媒体是这一趋势的重要因素之一，青少年女孩的负面关联尤其突出。报告举例称，15 岁女孩若每天使用社交媒体 5 小时或以上，其生活满意度低于使用时间更少者；每天使用不足 1 小时的年轻人幸福感最高，甚至高于完全不用社交媒体者。  报告还称，带有算法信息流、网红内容且以视觉材料为主的平台问题更突出，更容易引发社会比较。该报告基于约…",
@@ -1584,6 +1652,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-06-26T15:55:45.843771"
+  "count": 65,
+  "updated_at": "2026-06-26T16:00:58.679866"
 }
