@@ -10097,5 +10097,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-26T14:04:09.024203"
+  },
+  "xhqcankao_30382": {
+    "ai_title": "Win10安全支持延至2027年10月",
+    "title_options": {
+      "conclusion": "Win10安全支持延至2027年10月",
+      "attractive": "Win10用户可再获两年安全更新",
+      "minimal": "Win10 ESU延长至2027",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T15:05:03.032850"
+  },
+  "zaihuapd_42189": {
+    "ai_title": "三星十年投资6480亿美元",
+    "title_options": {
+      "conclusion": "三星十年投资6480亿美元",
+      "attractive": "三星海力士AI投资股价反跌",
+      "minimal": "三星海力士AI投资",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T15:05:03.705387"
+  },
+  "zaihuapd_42190": {
+    "ai_title": "社媒重度使用降低年轻人幸福感",
+    "title_options": {
+      "conclusion": "社媒重度使用降低年轻人幸福感",
+      "attractive": "刷5小时社媒女孩满意度低",
+      "minimal": "社媒使用与幸福感关联",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T15:05:03.793060"
+  },
+  "xhqcankao_30381": {
+    "ai_title": "YouTube更新Shorts功能",
+    "title_options": {
+      "conclusion": "YouTube更新Shorts功能",
+      "attractive": "Shorts新增清屏模式",
+      "minimal": "Shorts更新",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-26T15:05:04.253386"
   }
 }
