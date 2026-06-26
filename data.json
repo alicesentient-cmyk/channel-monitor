@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30370",
+      "channel": "xhqcankao",
+      "text": "DeepSeek拟将所有部门规模扩大至少一倍人工智能公司 DeepSeek 昨晚在一则微信帖文中披露，随着技术演进，公司正努力将所有部门的规模扩大至少一倍，并同步释放出大量技术岗位。根据帖文，此次招聘覆盖服务端开发工程师、预训练数据工程师、AI搜索算法/架构工程师、Agent Harness团队、Agent Infra研发工程师、前端/客户端开发工程师等多个方向，此外还专门列出“AI跨界技术人才”等职位，意在吸纳不同背景的研发力量。在招聘声明中， DeepSeek 将当前节点形容为 “人类正处于 AGI 的前夜”，邀请候选人加入并“亲历AGI的发展进程，坐在时代前排，见证一个新纪元的诞生”。这一表述延续了该公司一贯的技术路线主张，也透露出其在通用人工智能领域持续押注的意图。",
+      "clean_text": "DeepSeek拟将所有部门规模扩大至少一倍人工智能公司 DeepSeek 昨晚在一则微信帖文中披露，随着技术演进，公司正努力将所有部门的规模扩大至少一倍，并同步释放出大量技术岗位。根据帖文，此次招聘覆盖服务端开发工程师、预训练数据工程师、AI搜索算法/架构工程师、Agent Harness团队、Agent Infra研发工程师、前端/客户端开发工程师等多个方向，此外还专门列出“AI跨界技术人才”等职位，意在吸纳不同背景的研发力量。在招聘声明中， DeepSeek 将当前节点形容为 “人类正处于 AGI 的前夜”，邀请候选人加入并“亲历AGI的发展进程，坐在时代前排，见证一个新纪元的诞生”。这一表述延续了该公司一贯的技术路线主张，也透露出其在通用人工智能领域持续押注的意图。——凤凰网科技、彭博社",
+      "datetime": "2026-06-26T00:31:35+00:00",
+      "views": "1.12K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006ULmWCZyKhmLS3aAqREkXXmhLFdxIhxyfxOn--X2sesBmnkO0sK6--Ld0J5UzWD-_B5W"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30370",
+      "scraped_at": "2026-06-26T09:01:12.564245",
+      "title": "DeepSeek部门规模翻倍",
+      "title_options": {
+        "conclusion": "DeepSeek部门规模翻倍",
+        "attractive": "AGI前夜，DeepSeek扩招",
+        "minimal": "DeepSeek扩招",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42182",
+      "channel": "zaihuapd",
+      "text": "OpenAI 将根据联邦政府审查请求分阶段发布 GPT 5.6OpenAI CEO Sam Altman 告诉员工，GPT-5.6 将应联邦政府要求，先向少数合作伙伴开放限量预览。预览期间，政府将逐个客户批准访问。这一要求出现在 OpenAI 过去一个月与多个政府机构预览模型之后。商务部长 Howard Lutnick 据称曾提醒 OpenAI，不要在没有其他机构批准的情况下发布。Altman 称这不是公司偏好的长期模式，将与政府和行业寻找更可持续的发布流程，如果一切顺利，他希望几周后更大范围发布。The Information·英文频道·",
+      "clean_text": "OpenAI 将根据联邦政府审查请求分阶段发布 GPT 5.6OpenAI CEO Sam Altman 告诉员工，GPT-5.6 将应联邦政府要求，先向少数合作伙伴开放限量预览。预览期间，政府将逐个客户批准访问。这一要求出现在 OpenAI 过去一个月与多个政府机构预览模型之后。商务部长 Howard Lutnick 据称曾提醒 OpenAI，不要在没有其他机构批准的情况下发布。Altman 称这不是公司偏好的长期模式，将与政府和行业寻找更可持续的发布流程，如果一切顺利，他希望几周后更大范围发布。The Information·英文频道",
+      "datetime": "2026-06-26T00:03:51+00:00",
+      "views": "3.52K",
+      "source_links": [
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42182",
+      "scraped_at": "2026-06-26T09:01:10.863707",
+      "title": "OpenAI分阶段发布GPT-5.6",
+      "title_options": {
+        "conclusion": "OpenAI分阶段发布GPT-5.6",
+        "attractive": "政府逐个批准GPT-5.6访问",
+        "minimal": "GPT-5.6分阶段发布",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30369",
+      "channel": "xhqcankao",
+      "text": "美国拟取消Robotaxi刹车踏板硬性规定美国交通部正推动取消无人驾驶汽车必须配备刹车踏板的规定，此举有望为Waymo、特斯拉等企业部署更多自动驾驶出租车扫清障碍。根据本周四公布的通知，美国国家公路交通安全管理局（NHTSA）提议修改《联邦机动车辆安全标准》，取消专为无人驾驶设计、且完全不需要人类驾驶员介入的车辆必须配备手动刹车踏板的要求。不过，这项调整仅适用于纯自动驾驶车辆，其他类型汽车仍需保留刹车踏板。 NHTSA 表示，此次提案是其消除自动驾驶汽车发展障碍计划的一部分，未来还将推出更多监管改革措施。该机构强调，取消刹车踏板要求不会影响其他制动性能标准，例如严格的刹车距离要求。",
+      "clean_text": "美国拟取消Robotaxi刹车踏板硬性规定美国交通部正推动取消无人驾驶汽车必须配备刹车踏板的规定，此举有望为Waymo、特斯拉等企业部署更多自动驾驶出租车扫清障碍。根据本周四公布的通知，美国国家公路交通安全管理局（NHTSA）提议修改《联邦机动车辆安全标准》，取消专为无人驾驶设计、且完全不需要人类驾驶员介入的车辆必须配备手动刹车踏板的要求。不过，这项调整仅适用于纯自动驾驶车辆，其他类型汽车仍需保留刹车踏板。 NHTSA 表示，此次提案是其消除自动驾驶汽车发展障碍计划的一部分，未来还将推出更多监管改革措施。该机构强调，取消刹车踏板要求不会影响其他制动性能标准，例如严格的刹车距离要求。——财联社、Techcrunch",
+      "datetime": "2026-06-26T00:01:02+00:00",
+      "views": "1.57K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2409588?sv=8.7.8&amp;app=cailianpress"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30369",
+      "scraped_at": "2026-06-26T09:01:12.563835",
+      "title": "美拟取消Robotaxi刹车踏板",
+      "title_options": {
+        "conclusion": "美拟取消Robotaxi刹车踏板",
+        "attractive": "无人车刹车踏板将取消",
+        "minimal": "美拟取消刹车踏板",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30368",
       "channel": "xhqcankao",
       "text": "新版“谷歌财经”正式上线并推出独立App美国科技巨头谷歌周四宣布，公司去年开始悄悄布局的AI金融信息服务 “谷歌财经” 结束测试阶段并正式推出。谷歌还为这款产品推出单独应用，旨在移动端市场抢占 “AI炒股” 资讯服务的山头。谷歌在声明中表示，作为产品正式上线的新功能之一，投资者可以用简单的自然语言指令，让AI持续跟进持仓股票的情况、热门炒作题材或者大盘情况。据悉，投资者只需要用自然语言描述任务，例如 “每天盘前给我发送一份简报”，谷歌将会在后台开始工作，搜索信息并按照要求发送定制化简报。还推出了专门的 “谷歌财经” 应用，提供实时市场数据以及由AI驱动的“关键时刻”功能，主要用途是解释股票为何波动。",
@@ -1438,6 +1523,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-26T08:59:14.110545"
+  "count": 58,
+  "updated_at": "2026-06-26T09:04:18.968259"
 }
