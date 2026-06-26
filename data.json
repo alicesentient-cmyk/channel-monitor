@@ -1283,29 +1283,6 @@
       }
     },
     {
-      "id": "xhqcankao_30360",
-      "channel": "xhqcankao",
-      "text": "微软称8GB内存满足Windows 11日常使用微软公司悄悄更新了其 Surface 设备官方购买指南，将 8GB 内存描述为“非常适合日常使用，如浏览网页、流媒体、学校作业和生产力应用”。同时，微软还在常见问题解答中指出，16GB 或更大内存才能解锁 Copilot+ PC功能。今年 2 月，微软表示 32GB 内存对于 Windows 11 上的重度 PC 游戏玩家来说是理想的配置，并顺势推荐了Copilot+电脑，该博文后续引发舆论迫使微软删除。现在，Surface 商店的购买指南将 8GB 内存描述为适合“日常任务”，而当被问及 8GB 内存在 2026 年是否足够时，AI 商店助手则含糊其辞地称 16GB 内存是“更稳妥的选择”。",
-      "clean_text": "微软称8GB内存满足Windows 11日常使用微软公司悄悄更新了其 Surface 设备官方购买指南，将 8GB 内存描述为“非常适合日常使用，如浏览网页、流媒体、学校作业和生产力应用”。同时，微软还在常见问题解答中指出，16GB 或更大内存才能解锁 Copilot+ PC功能。今年 2 月，微软表示 32GB 内存对于 Windows 11 上的重度 PC 游戏玩家来说是理想的配置，并顺势推荐了Copilot+电脑，该博文后续引发舆论迫使微软删除。现在，Surface 商店的购买指南将 8GB 内存描述为适合“日常任务”，而当被问及 8GB 内存在 2026 年是否足够时，AI 商店助手则含糊其辞地称 16GB 内存是“更稳妥的选择”。——Windowslatest",
-      "datetime": "2026-06-25T12:32:10+00:00",
-      "views": "1.43K",
-      "source_links": [
-        {
-          "text": "Windowslatest",
-          "url": "https://www.windowslatest.com/2026/06/25/microsoft-now-says-8gb-ram-is-fine-for-everyday-use-right-after-years-of-pushing-you-to-buy-more/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30360",
-      "scraped_at": "2026-06-25T21:00:44.026098",
-      "title": "微软称8GB内存适合Win11日常",
-      "title_options": {
-        "conclusion": "微软称8GB内存适合Win11日常",
-        "attractive": "8GB内存够用？微软新指南",
-        "minimal": "8GB内存 Win11 日常",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1367,6 +1344,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-27T00:28:52.739164"
+  "count": 53,
+  "updated_at": "2026-06-27T00:33:57.775987"
 }
