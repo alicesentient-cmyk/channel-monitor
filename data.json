@@ -1067,29 +1067,6 @@
       }
     },
     {
-      "id": "xhqcankao_30379",
-      "channel": "xhqcankao",
-      "text": "SpaceX投资者称星舰为太空AI铺平道路SpaceX的投资者、Andreessen Horowitz LLC 普通合伙人戴维·乔治表示，新型星舰火箭的“快速可重复使用性”对于实现埃隆·马斯克关于轨道数据中心以扩展AI计算能力的押注至关重要。乔治周三在彭博电视采访中表示，一旦星舰投入使用，将这些算力推向太空是不可避免的，因为地面AI数据中心的容量正变得越来越受限。“至少，轨道数据中心将为我们在地球上已有的数据中心之外，在太空中增加额外的容量。”乔治说，并补充说道，经济因素最终可能使天基基础设施比地面设施更具优势。他说，SpaceX 公司已经展示了部署此类系统的技术能力。",
-      "clean_text": "SpaceX投资者称星舰为太空AI铺平道路SpaceX的投资者、Andreessen Horowitz LLC 普通合伙人戴维·乔治表示，新型星舰火箭的“快速可重复使用性”对于实现埃隆·马斯克关于轨道数据中心以扩展AI计算能力的押注至关重要。乔治周三在彭博电视采访中表示，一旦星舰投入使用，将这些算力推向太空是不可避免的，因为地面AI数据中心的容量正变得越来越受限。“至少，轨道数据中心将为我们在地球上已有的数据中心之外，在太空中增加额外的容量。”乔治说，并补充说道，经济因素最终可能使天基基础设施比地面设施更具优势。他说，SpaceX 公司已经展示了部署此类系统的技术能力。——彭博社",
-      "datetime": "2026-06-26T05:03:01+00:00",
-      "views": "1.92K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/spacex-holder-andreessen-says-starship-opens-path-to-ai-in-space"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30379",
-      "scraped_at": "2026-06-26T14:00:24.995386",
-      "title": "星舰可重复使用助力太空AI",
-      "title_options": {
-        "conclusion": "星舰可重复使用助力太空AI",
-        "attractive": "地面AI受限，太空数据中心来了",
-        "minimal": "星舰可重复使用，太空AI",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1151,6 +1128,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-06-27T17:01:03.001799"
+  "count": 45,
+  "updated_at": "2026-06-27T17:06:07.108504"
 }
