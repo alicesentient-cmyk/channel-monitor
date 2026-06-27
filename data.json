@@ -1210,33 +1210,6 @@
       }
     },
     {
-      "id": "xhqcankao_30372",
-      "channel": "xhqcankao",
-      "text": "美国政府要求OpenAI分阶段发布GPT-5.6知情人士称，美国政府已要求OpenAI分阶段发布一款即将推出的强大人工智能模型。就在不到两周前，Anthropic公司在监管压力下暂停了其最强大模型的市场投放。据知情人士透露，OpenAI CEO萨姆·奥尔特曼周三告诉员工，美国政府要求公司先将 GPT-5.6 模型提供给一小部分值得信赖的合作伙伴进行使用，随后再逐步向更广泛的用户开放。知情人士称，奥尔特曼在员工会议上表示，美国政府对最前沿人工智能模型所具备的能力愈发感到担忧。奥尔特曼强调，员工需要就特朗普政府官员可能对OpenAI即将推出的模型，在安全性和使用限制方面提出的任何意见进行配合，即使公司持有不同意见。",
-      "clean_text": "美国政府要求OpenAI分阶段发布GPT-5.6知情人士称，美国政府已要求OpenAI分阶段发布一款即将推出的强大人工智能模型。就在不到两周前，Anthropic公司在监管压力下暂停了其最强大模型的市场投放。据知情人士透露，OpenAI CEO萨姆·奥尔特曼周三告诉员工，美国政府要求公司先将 GPT-5.6 模型提供给一小部分值得信赖的合作伙伴进行使用，随后再逐步向更广泛的用户开放。知情人士称，奥尔特曼在员工会议上表示，美国政府对最前沿人工智能模型所具备的能力愈发感到担忧。奥尔特曼强调，员工需要就特朗普政府官员可能对OpenAI即将推出的模型，在安全性和使用限制方面提出的任何意见进行配合，即使公司持有不同意见。——凤凰网科技、彭博社",
-      "datetime": "2026-06-26T01:30:23+00:00",
-      "views": "1.19K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v0065OR3-_x1wBckwZCns-_TKXqE0IAs4D3hbr5--517cmir54qHCiBAwNO6dFXyiJamxwD"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30372",
-      "scraped_at": "2026-06-26T10:00:49.249299",
-      "title": "美政府要求OpenAI分阶段发布GPT…",
-      "title_options": {
-        "conclusion": "美政府要求OpenAI分阶段发布GPT…",
-        "attractive": "GPT-5.6发布被美政府限制",
-        "minimal": "OpenAI GPT-5.6 分阶段发布",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1298,6 +1271,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-06-27T13:28:12.025137"
+  "count": 51,
+  "updated_at": "2026-06-27T13:33:15.870118"
 }
