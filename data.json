@@ -996,33 +996,6 @@
       }
     },
     {
-      "id": "xhqcankao_30383",
-      "channel": "xhqcankao",
-      "text": "Anthropic公司付费收入和用户持续增长美国顶尖AI企业OpenAI与Anthropic之间的竞争日益激烈。报告显示 Anthropic 正在快速抢占OpenAI的付费用户市场份额。据信用卡交易分析公司Indagari数据，Anthropic旗舰模型Claude付费用户和收入逐月增长，自2026年1月以来，该细分市场的收入增长了约75%。Indagari的数据来自2800万美国消费者的数千亿笔匿名信用卡交易记录，覆盖了 2025年至 2026年5月10日之间的每周交易。AI在线教育平台DataCamp也给出了类似的结论。指出平台上的用户今年对Claude的兴趣呈爆炸式增长，Claude已经成为该网站上搜索量最高的词条，甚至超过了AI。",
-      "clean_text": "Anthropic公司付费收入和用户持续增长美国顶尖AI企业OpenAI与Anthropic之间的竞争日益激烈。报告显示 Anthropic 正在快速抢占OpenAI的付费用户市场份额。据信用卡交易分析公司Indagari数据，Anthropic旗舰模型Claude付费用户和收入逐月增长，自2026年1月以来，该细分市场的收入增长了约75%。Indagari的数据来自2800万美国消费者的数千亿笔匿名信用卡交易记录，覆盖了 2025年至 2026年5月10日之间的每周交易。AI在线教育平台DataCamp也给出了类似的结论。指出平台上的用户今年对Claude的兴趣呈爆炸式增长，Claude已经成为该网站上搜索量最高的词条，甚至超过了AI。——财联社、Techcrunch",
-      "datetime": "2026-06-26T07:03:15+00:00",
-      "views": "1.97K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2409941?sv=8.7.9&amp;app=cailianpress"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30383",
-      "scraped_at": "2026-06-26T16:00:54.775921",
-      "title": "Anthropic收入增长75%",
-      "title_options": {
-        "conclusion": "Anthropic收入增长75%",
-        "attractive": "Claude用户激增抢OpenAI市场",
-        "minimal": "Anthropic收入增长",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1084,6 +1057,6 @@
       }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-06-27T19:02:51.250758"
+  "count": 41,
+  "updated_at": "2026-06-27T19:07:54.722899"
 }
