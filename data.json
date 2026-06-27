@@ -1,6 +1,89 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42208",
+      "channel": "zaihuapd",
+      "text": "Linux 内核曝 DirtyClone 高危漏洞，本地用户可提权至 rootJFrog 安全研究团队披露了 Linux 内核本地提权漏洞 DirtyClone（CVE-2026-43503），CVSS 评分 8.8。该漏洞属于 DirtyFrag 家族的新变种，因 __pskb_copy_fclone() 等函数在克隆 socket buffer 时丢失 SKBFL_SHARED_FRAG 标志，导致内核将只读 page cache 内存误判为可写网络缓冲区。攻击者通过本地 IPsec 处理即可静默篡改内存中的特权可执行文件（如 /usr/bin/su）并获取 root 权限，且不留内核日志或审计痕迹。Debian、Ubuntu、Fedora 等默认启用非特权用户命名空间的发行版风险最高，多租户云环境和 Kubernetes 集群尤需警惕。该漏洞已于 5 月 21 日在 Linux v7.1-rc5 中修复，Ubuntu 等发行版已发布补丁内核。若无法立即更新，可临时将 kernel.unprivileged_userns_clone 设为 0，或屏蔽 esp4、esp6、rxrpc 内核模块作为缓解措施。JFrog Security Research|Linuxiac|The Hacker News|Ubuntu·茶馆水群·",
+      "clean_text": "Linux 内核曝 DirtyClone 高危漏洞，本地用户可提权至 rootJFrog 安全研究团队披露了 Linux 内核本地提权漏洞 DirtyClone（CVE-2026-43503），CVSS 评分 8.8。该漏洞属于 DirtyFrag 家族的新变种，因 __pskb_copy_fclone() 等函数在克隆 socket buffer 时丢失 SKBFL_SHARED_FRAG 标志，导致内核将只读 page cache 内存误判为可写网络缓冲区。攻击者通过本地 IPsec 处理即可静默篡改内存中的特权可执行文件（如 /usr/bin/su）并获取 root 权限，且不留内核日志或审计痕迹。Debian、Ubuntu、Fedora 等默认启用非特权用户命名空间的发行版风险最高，多租户云环境和 Kubernetes 集群尤需警惕。该漏洞已于 5 月 21 日在 Linux v7.1-rc5 中修复，Ubuntu 等发行版已发布补丁内核。若无法立即更新，可临时将 kernel.unprivileged_userns_clone 设为 0，或屏蔽 esp4、esp6、rxrpc 内核模块作为缓解措施。JFrog Security Research|Linuxiac|The Hacker News|Ubuntu·茶馆水群",
+      "datetime": "2026-06-27T08:00:16+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "JFrog Security Research",
+          "url": "https://research.jfrog.com/post/dissecting-and-exploiting-linux-lpe-variant-dirtyclone-cve-2026-43503/"
+        },
+        {
+          "text": "Linuxiac",
+          "url": "https://linuxiac.com/linux-gets-dirty-again-dirtyclone-kernel-flaw-can-lead-to-local-root-access/"
+        },
+        {
+          "text": "The Hacker News",
+          "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html"
+        },
+        {
+          "text": "Ubuntu",
+          "url": "https://ubuntu.com/security/CVE-2026-43503"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42208",
+      "scraped_at": "2026-06-27T16:00:58.796492",
+      "title": "Linux现高危提权漏洞",
+      "title_options": {
+        "conclusion": "Linux现高危提权漏洞",
+        "attractive": "本地用户可静默获root权限",
+        "minimal": "Linux内核漏洞提权",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42207",
+      "channel": "zaihuapd",
+      "text": "iPhone 18 芯片成本暴涨 80%，A20 处理器单价或达 280 美元  苹果 iPhone 18 搭载的 A20 芯片成本可能达到每颗 280 美元，比上一代增长约 80%，创下苹果处理器年度涨幅新高。这一涨幅远超此前预期，主要原因是台积电 2nm 工艺制造难度和成本大幅上升。  A20 芯片将采用台积电 2nm 工艺，引入全新的环绕栅极晶体管技术，能显著提升功耗效率和晶体管密度，但制造良品率仍不稳定。苹果历来愿意承担早期制程的高成本以获得技术优势，但此次成本增幅创历史新高。新工艺将为 iPhone…",
+      "clean_text": "🍏iPhone 18 芯片成本暴涨 80%，A20 处理器单价或达 280 美元  苹果 iPhone 18 搭载的 A20 芯片成本可能达到每颗 280 美元，比上一代增长约 80%，创下苹果处理器年度涨幅新高。这一涨幅远超此前预期，主要原因是台积电 2nm 工艺制造难度和成本大幅上升。  A20 芯片将采用台积电 2nm 工艺，引入全新的环绕栅极晶体管技术，能显著提升功耗效率和晶体管密度，但制造良品率仍不稳定。苹果历来愿意承担早期制程的高成本以获得技术优势，但此次成本增幅创历史新高。新工艺将为 iPhone…",
+      "datetime": "2026-06-27T07:00:15+00:00",
+      "views": "4.49K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42207",
+      "scraped_at": "2026-06-27T16:00:58.795977",
+      "title": "A20芯片成本涨80%",
+      "title_options": {
+        "conclusion": "A20芯片成本涨80%",
+        "attractive": "A20芯片单价280美元",
+        "minimal": "A20芯片成本飙升",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30402",
+      "channel": "xhqcankao",
+      "text": "苹果拟向中国长鑫存储科技采购内存芯片六名知情人士透露，苹果公司正在游说特朗普政府，寻求获准从长鑫存储科技采购内存芯片；而长鑫存储科技因被指与中国人民解放军有联系，已被五角大楼列入黑名单。这家iPhone制造商一直在游说白宫，希望获得批准，以缓解内存芯片价格上涨给公司带来的财务压力。知情人士透露，早在一个多月前，苹果就曾与美国商务部接触，此后这家科技公司又持续游说政府各部门的其他官员以及其在华盛顿的盟友。但多数知情人士表示，目前尚不清楚苹果是否会从美国政府那里获得任何保证，尤其是不清楚美方是否会承诺今后不将长鑫存储科技列入实体清单。",
+      "clean_text": "苹果拟向中国长鑫存储科技采购内存芯片六名知情人士透露，苹果公司正在游说特朗普政府，寻求获准从长鑫存储科技采购内存芯片；而长鑫存储科技因被指与中国人民解放军有联系，已被五角大楼列入黑名单。这家iPhone制造商一直在游说白宫，希望获得批准，以缓解内存芯片价格上涨给公司带来的财务压力。知情人士透露，早在一个多月前，苹果就曾与美国商务部接触，此后这家科技公司又持续游说政府各部门的其他官员以及其在华盛顿的盟友。但多数知情人士表示，目前尚不清楚苹果是否会从美国政府那里获得任何保证，尤其是不清楚美方是否会承诺今后不将长鑫存储科技列入实体清单。——英国金融时报",
+      "datetime": "2026-06-27T06:17:14+00:00",
+      "views": "2.81K",
+      "source_links": [
+        {
+          "text": "英国金融时报",
+          "url": "https://www.ftchinese.com/interactive/285075"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30402",
+      "scraped_at": "2026-06-27T16:01:00.644930",
+      "title": "苹果拟采购长鑫内存",
+      "title_options": {
+        "conclusion": "苹果拟采购长鑫内存",
+        "attractive": "苹果游说白宫买芯片",
+        "minimal": "苹果长鑫内存采购"
+      }
+    },
+    {
       "id": "zaihuapd_42206",
       "channel": "zaihuapd",
       "text": "B站视频播客单日播放时长突破 1 亿分钟  6 月 25 日，B站发布《哔哩哔哩视频播客创作手册》（1.0 版本），首次系统披露平台视频播客生态数据。今年 5 月 13 日，B站视频播客单日播放时长首次突破 1 亿分钟；预计明年日均播放时长将达 3 亿分钟，同比增长 300%。目前超过一半的视频播客内容时长超过 30 分钟，2 小时以上的超长播客投稿量增长近 9 倍。  东方财富网 · 英文频道 ·",
@@ -1030,47 +1113,6 @@
       }
     },
     {
-      "id": "zaihuapd_42187",
-      "channel": "zaihuapd",
-      "text": "苹果发布 Xcode 26.3 引入 代理式编码 并调整 App Store SDK 要求  苹果发布 Xcode 26.3 ，新增 代理式编码 功能，开发者可在 Xcode 内通过自然语言调用 OpenAI 与 Anthropic 的 AI 代理，自动理解项目、编写代码、构建应用、运行测试并修复错误。  另外苹果宣布自 2026 年 4 月 28 日起，提交至 App Store Connect 的应用与游戏需使用 iOS 26、iPadOS 26、tvOS 26、visionOS 26、watchOS…",
-      "clean_text": "🍏苹果发布 Xcode 26.3 引入 代理式编码 并调整 App Store SDK 要求  苹果发布 Xcode 26.3 ，新增 代理式编码 功能，开发者可在 Xcode 内通过自然语言调用 OpenAI 与 Anthropic 的 AI 代理，自动理解项目、编写代码、构建应用、运行测试并修复错误。  另外苹果宣布自 2026 年 4 月 28 日起，提交至 App Store Connect 的应用与游戏需使用 iOS 26、iPadOS 26、tvOS 26、visionOS 26、watchOS…",
-      "datetime": "2026-06-26T04:04:21+00:00",
-      "views": "4.47K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42187",
-      "scraped_at": "2026-06-26T13:00:53.802036",
-      "title": "苹果Xcode 26.3发布",
-      "title_options": {
-        "conclusion": "苹果Xcode 26.3发布",
-        "attractive": "Xcode引入AI编码",
-        "minimal": "Xcode 26.3 AI",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30377",
-      "channel": "xhqcankao",
-      "text": "广告巨头前中国区高管在1.76亿美元贿赂案中被判处无期徒刑据知情人士向媒体透露，全球最大广告公司之一WPP Plc旗下一名前高管因与其前同事收受总计12亿元人民币（1.76亿美元) 的贿赂，被中国法院判处无期徒刑。WPP旗下群邑媒介购买业务中国区前首席投资官底飞于今年三月被定罪，原因是他从代理公司收受回扣，以此作为向他们提供WPP部分广告投放业务的交换。在中国，获取法院文件和旁听听审受到严格管控，所以这些人士要求匿名。这起中国最大私营部门贿赂案之一的法院判决书未公开。据上述人士称，底飞的前同事姚岚和洪欣分别被判处14年半和4年有期徒刑。他们补充说，底飞正在上诉，预计结果将于今年年底或2027年初公布。",
-      "clean_text": "广告巨头前中国区高管在1.76亿美元贿赂案中被判处无期徒刑据知情人士向媒体透露，全球最大广告公司之一WPP Plc旗下一名前高管因与其前同事收受总计12亿元人民币（1.76亿美元) 的贿赂，被中国法院判处无期徒刑。WPP旗下群邑媒介购买业务中国区前首席投资官底飞于今年三月被定罪，原因是他从代理公司收受回扣，以此作为向他们提供WPP部分广告投放业务的交换。在中国，获取法院文件和旁听听审受到严格管控，所以这些人士要求匿名。这起中国最大私营部门贿赂案之一的法院判决书未公开。据上述人士称，底飞的前同事姚岚和洪欣分别被判处14年半和4年有期徒刑。他们补充说，底飞正在上诉，预计结果将于今年年底或2027年初公布。——彭博社",
-      "datetime": "2026-06-26T04:01:41+00:00",
-      "views": "1.94K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/ex-wpp-china-exec-sentenced-to-life-in-176-million-bribery-case"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30377",
-      "scraped_at": "2026-06-26T13:00:55.820732",
-      "title": "广告高管受贿1.76亿美元被判无期",
-      "title_options": {
-        "conclusion": "广告高管受贿1.76亿美元被判无期",
-        "attractive": "12亿回扣换来无期徒刑",
-        "minimal": "广告高管受贿判无期",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1132,6 +1174,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-06-27T16:00:04.498752"
+  "count": 47,
+  "updated_at": "2026-06-27T16:05:09.287103"
 }

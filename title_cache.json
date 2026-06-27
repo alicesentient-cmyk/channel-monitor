@@ -10473,5 +10473,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-27T14:03:42.284907"
+  },
+  "xhqcankao_30402": {
+    "ai_title": "苹果拟采购长鑫内存",
+    "title_options": {
+      "conclusion": "苹果拟采购长鑫内存",
+      "attractive": "苹果游说白宫买芯片",
+      "minimal": "苹果长鑫内存采购"
+    },
+    "generated_at": "2026-06-27T16:05:09.011347"
+  },
+  "zaihuapd_42207": {
+    "ai_title": "A20芯片成本涨80%",
+    "title_options": {
+      "conclusion": "A20芯片成本涨80%",
+      "attractive": "A20芯片单价280美元",
+      "minimal": "A20芯片成本飙升",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T16:05:09.247293"
+  },
+  "zaihuapd_42208": {
+    "ai_title": "Linux现高危提权漏洞",
+    "title_options": {
+      "conclusion": "Linux现高危提权漏洞",
+      "attractive": "本地用户可静默获root权限",
+      "minimal": "Linux内核漏洞提权",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T16:05:09.270535"
   }
 }
