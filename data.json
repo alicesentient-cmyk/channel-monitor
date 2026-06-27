@@ -1237,23 +1237,6 @@
       }
     },
     {
-      "id": "zaihuapd_42183",
-      "channel": "zaihuapd",
-      "text": "苹果上调多个产品价格  苹果将 MacBook Neo 的起售价从 599 美元上调至 699 美元；将 iPad Pro 价格从 999 美元上调至 1,199 美元，iPad Air 价格上调至 749 美元；将 MacBook Air 价格提高至 1,299 美元，MacBook Pro 价格提高至 1,999 美元。  国行价格： iPhone 17 Pro 起售价 ¥8999 （没涨）； iPhone 17 起售价 ¥5999 （没涨）； iPhone Air 起售价 ¥7999 （没涨）；…",
-      "clean_text": "🍏苹果上调多个产品价格  苹果将 MacBook Neo 的起售价从 599 美元上调至 699 美元；将 iPad Pro 价格从 999 美元上调至 1,199 美元，iPad Air 价格上调至 749 美元；将 MacBook Air 价格提高至 1,299 美元，MacBook Pro 价格提高至 1,999 美元。  国行价格： iPhone 17 Pro 起售价 ¥8999 （没涨）； iPhone 17 起售价 ¥5999 （没涨）； iPhone Air 起售价 ¥7999 （没涨）；…",
-      "datetime": "2026-06-26T01:03:17+00:00",
-      "views": "4.87K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42183",
-      "scraped_at": "2026-06-26T10:00:47.366248",
-      "title": "苹果多款产品涨价",
-      "title_options": {
-        "conclusion": "苹果多款产品涨价",
-        "attractive": "iPad Pro涨价200美元",
-        "minimal": "苹果产品涨价"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1315,6 +1298,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-06-27T13:02:53.280591"
+  "count": 52,
+  "updated_at": "2026-06-27T13:07:57.706606"
 }
