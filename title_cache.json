@@ -10314,5 +10314,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-27T02:01:11.506223"
+  },
+  "xhqcankao_30396": {
+    "ai_title": "OpenAI发布GPT-5.6系列",
+    "title_options": {
+      "conclusion": "OpenAI发布GPT-5.6系列",
+      "attractive": "GPT-5.6仅限美批准用户",
+      "minimal": "GPT-5.6系列发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T08:05:38.737246"
+  },
+  "xhqcankao_30395": {
+    "ai_title": "特朗普威胁征100%关税",
+    "title_options": {
+      "conclusion": "特朗普威胁征100%关税",
+      "attractive": "数字税或致商品加税",
+      "minimal": "特朗普关税威胁",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T08:05:38.825916"
+  },
+  "xhqcankao_30397": {
+    "ai_title": "首款触控MacBook将用M5芯片",
+    "title_options": {
+      "conclusion": "首款触控MacBook将用M5芯片",
+      "attractive": "触控MacBook首搭灵动岛",
+      "minimal": "触控MacBook M5芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T08:05:39.238065"
   }
 }
