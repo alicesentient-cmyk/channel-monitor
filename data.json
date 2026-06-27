@@ -1134,37 +1134,6 @@
       }
     },
     {
-      "id": "zaihuapd_42185",
-      "channel": "zaihuapd",
-      "text": "X 向美国 Premium+ 用户小范围推出 XMoney 支付功能作为打造超级 App 的关键一步，X 平台正小范围向美国 Premium+ 订阅用户推出 XMoney 支付功能。这一阶段性发布旨在收集用户反馈、修复问题，为更大规模上线做准备。早期用户可在限时内享受内部福利。Dhruv Batura(@dbatura)·英文频道·",
-      "clean_text": "🐦X 向美国 Premium+ 用户小范围推出 XMoney 支付功能作为打造超级 App 的关键一步，X 平台正小范围向美国 Premium+ 订阅用户推出 XMoney 支付功能。这一阶段性发布旨在收集用户反馈、修复问题，为更大规模上线做准备。早期用户可在限时内享受内部福利。Dhruv Batura(@dbatura)·英文频道",
-      "datetime": "2026-06-26T02:34:21+00:00",
-      "views": "2.95K",
-      "source_links": [
-        {
-          "text": "Dhruv Batura(@dbatura)",
-          "url": "https://x.com/dbatura/status/2070215008651448507"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42185",
-      "scraped_at": "2026-06-26T11:00:31.109775",
-      "title": "X向美用户推XMoney支付",
-      "title_options": {
-        "conclusion": "X向美用户推XMoney支付",
-        "attractive": "XMoney支付功能上线",
-        "minimal": "XMoney支付",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1226,6 +1195,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-06-27T14:34:02.077203"
+  "count": 49,
+  "updated_at": "2026-06-27T14:39:03.357783"
 }
