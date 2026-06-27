@@ -1059,60 +1059,6 @@
       }
     },
     {
-      "id": "zaihuapd_42188",
-      "channel": "zaihuapd",
-      "text": "Android 17 将给折叠屏手机加入虚拟游戏手柄模式Android 17 将为折叠屏手机加入专用游戏模式。展开设备后，屏幕一侧可显示带触控按键的虚拟手柄，在系统层模拟实体按键，适用于支持实体控制器的游戏。这项功能预计未来几个月推出，手柄可调整摇杆布局、按键大小和震动，也可隐藏；接入实体手柄后，虚拟手柄会自动关闭。它想解决的是，一些游戏更适合手柄操作，但用户未必愿意随身带蓝牙手柄。The Verge·英文频道·",
-      "clean_text": "Android 17 将给折叠屏手机加入虚拟游戏手柄模式Android 17 将为折叠屏手机加入专用游戏模式。展开设备后，屏幕一侧可显示带触控按键的虚拟手柄，在系统层模拟实体按键，适用于支持实体控制器的游戏。这项功能预计未来几个月推出，手柄可调整摇杆布局、按键大小和震动，也可隐藏；接入实体手柄后，虚拟手柄会自动关闭。它想解决的是，一些游戏更适合手柄操作，但用户未必愿意随身带蓝牙手柄。The Verge·英文频道",
-      "datetime": "2026-06-26T04:34:21+00:00",
-      "views": "2.6K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42188",
-      "scraped_at": "2026-06-26T13:00:53.802559",
-      "title": "安卓17为折叠屏加虚拟手柄",
-      "title_options": {
-        "conclusion": "安卓17为折叠屏加虚拟手柄",
-        "attractive": "折叠屏手机秒变游戏手柄",
-        "minimal": "安卓17 折叠屏 虚拟手柄",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30378",
-      "channel": "xhqcankao",
-      "text": "黑客窃取了预测市场Polymarket用户资金预测市场巨头Polymarket证实，在第三方系统遭到入侵后，黑客从数量不明的用户那里窃取了资金。在周四的一条社交平台 X 帖子中，Polymarket表示，第三方供应商的失陷导致黑客能够向其网站注入恶意代码，从而对某些用户造成影响。该公司表示已 “遏制” 该事件，并正在联系受影响受害者并向他们全额退款。截至周四下午，尚不清楚究竟发生了什么。当 TechCrunch 联系时，预测市场Polymarket发言人Connor Brandi确认该漏洞导致用户资金被盗，但拒绝提供更多信息，并且没有回应该事件的具体问题。",
-      "clean_text": "黑客窃取了预测市场Polymarket用户资金预测市场巨头Polymarket证实，在第三方系统遭到入侵后，黑客从数量不明的用户那里窃取了资金。在周四的一条社交平台 X 帖子中，Polymarket表示，第三方供应商的失陷导致黑客能够向其网站注入恶意代码，从而对某些用户造成影响。该公司表示已 “遏制” 该事件，并正在联系受影响受害者并向他们全额退款。截至周四下午，尚不清楚究竟发生了什么。当 TechCrunch 联系时，预测市场Polymarket发言人Connor Brandi确认该漏洞导致用户资金被盗，但拒绝提供更多信息，并且没有回应该事件的具体问题。——TechCrunch",
-      "datetime": "2026-06-26T04:31:31+00:00",
-      "views": "1.16K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30378",
-      "scraped_at": "2026-06-26T13:00:55.821099",
-      "title": "黑客窃取Polymarket用户资金",
-      "title_options": {
-        "conclusion": "黑客窃取Polymarket用户资金",
-        "attractive": "Polymarket用户资金被盗",
-        "minimal": "Polymarket遭黑客入侵",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1174,6 +1120,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-06-27T16:30:29.481852"
+  "count": 45,
+  "updated_at": "2026-06-27T16:35:32.825776"
 }
