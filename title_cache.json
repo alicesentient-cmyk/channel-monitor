@@ -10414,5 +10414,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-27T11:01:18.647475"
+  },
+  "zaihuapd_42203": {
+    "ai_title": "ICE执法致66.8万岗位流失",
+    "title_options": {
+      "conclusion": "ICE执法致66.8万岗位流失",
+      "attractive": "移民执法反损美国就业",
+      "minimal": "ICE执法岗位流失",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T12:02:05.838496"
+  },
+  "xhqcankao_30401": {
+    "ai_title": "全家便利店用狼形机器人驱熊",
+    "title_options": {
+      "conclusion": "全家便利店用狼形机器人驱熊",
+      "attractive": "狼形机器人驱熊，顾客安心",
+      "minimal": "狼形机器人驱熊试验",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T12:02:05.924144"
+  },
+  "xhqcankao_30400": {
+    "ai_title": "美扩大中国科技产品进口禁令",
+    "title_options": {
+      "conclusion": "美扩大中国科技产品进口禁令",
+      "attractive": "美再禁中国科技产品，含旧型号",
+      "minimal": "美禁中国科技产品进口",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T12:02:06.006334"
   }
 }
