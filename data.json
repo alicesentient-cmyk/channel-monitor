@@ -1268,33 +1268,6 @@
       }
     },
     {
-      "id": "xhqcankao_30370",
-      "channel": "xhqcankao",
-      "text": "DeepSeek拟将所有部门规模扩大至少一倍人工智能公司 DeepSeek 昨晚在一则微信帖文中披露，随着技术演进，公司正努力将所有部门的规模扩大至少一倍，并同步释放出大量技术岗位。根据帖文，此次招聘覆盖服务端开发工程师、预训练数据工程师、AI搜索算法/架构工程师、Agent Harness团队、Agent Infra研发工程师、前端/客户端开发工程师等多个方向，此外还专门列出“AI跨界技术人才”等职位，意在吸纳不同背景的研发力量。在招聘声明中， DeepSeek 将当前节点形容为 “人类正处于 AGI 的前夜”，邀请候选人加入并“亲历AGI的发展进程，坐在时代前排，见证一个新纪元的诞生”。这一表述延续了该公司一贯的技术路线主张，也透露出其在通用人工智能领域持续押注的意图。",
-      "clean_text": "DeepSeek拟将所有部门规模扩大至少一倍人工智能公司 DeepSeek 昨晚在一则微信帖文中披露，随着技术演进，公司正努力将所有部门的规模扩大至少一倍，并同步释放出大量技术岗位。根据帖文，此次招聘覆盖服务端开发工程师、预训练数据工程师、AI搜索算法/架构工程师、Agent Harness团队、Agent Infra研发工程师、前端/客户端开发工程师等多个方向，此外还专门列出“AI跨界技术人才”等职位，意在吸纳不同背景的研发力量。在招聘声明中， DeepSeek 将当前节点形容为 “人类正处于 AGI 的前夜”，邀请候选人加入并“亲历AGI的发展进程，坐在时代前排，见证一个新纪元的诞生”。这一表述延续了该公司一贯的技术路线主张，也透露出其在通用人工智能领域持续押注的意图。——凤凰网科技、彭博社",
-      "datetime": "2026-06-26T00:31:35+00:00",
-      "views": "1.12K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006ULmWCZyKhmLS3aAqREkXXmhLFdxIhxyfxOn--X2sesBmnkO0sK6--Ld0J5UzWD-_B5W"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30370",
-      "scraped_at": "2026-06-26T09:01:12.564245",
-      "title": "DeepSeek部门规模翻倍",
-      "title_options": {
-        "conclusion": "DeepSeek部门规模翻倍",
-        "attractive": "AGI前夜，DeepSeek扩招",
-        "minimal": "DeepSeek扩招",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1356,6 +1329,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-06-27T12:27:21.976866"
+  "count": 53,
+  "updated_at": "2026-06-27T12:32:25.255702"
 }
