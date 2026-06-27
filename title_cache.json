@@ -10394,5 +10394,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-27T10:11:48.365944"
+  },
+  "zaihuapd_42201": {
+    "ai_title": "Anthropic换代表推动谈判",
+    "title_options": {
+      "conclusion": "Anthropic换代表推动谈判",
+      "attractive": "白宫称CEO难沟通换人",
+      "minimal": "Anthropic换人谈判",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T11:01:18.538576"
+  },
+  "zaihuapd_42202": {
+    "ai_title": "FCC拟禁进口部分中国设备",
+    "title_options": {
+      "conclusion": "FCC拟禁进口部分中国设备",
+      "attractive": "FCC禁令扩大至已批设备",
+      "minimal": "FCC禁中国设备进口",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T11:01:18.647475"
   }
 }
