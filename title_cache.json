@@ -10502,5 +10502,15 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-27T16:05:09.270535"
+  },
+  "zaihuapd_42209": {
+    "ai_title": "北京航空器撞楼1死13伤",
+    "title_options": {
+      "conclusion": "北京航空器撞楼1死13伤",
+      "attractive": "轻型飞机撞楼致1死13伤",
+      "minimal": "航空器撞楼1死13伤",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T17:01:02.985119"
   }
 }

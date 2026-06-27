@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42209",
+      "channel": "zaihuapd",
+      "text": "北京朝阳一轻型航空器撞楼致 1 死 13 伤6 月 26 日 17 时 55 分，一架单发双座轻型运动航空器在北京朝阳区东三环附近飞行时碰撞一高层建筑。机上仅驾驶员一人，已当场死亡，现场另有 13 人受伤。目前伤者正在全力救治中，事故原因尚不清楚，相关情况已由主管部门进一步调查。北京朝阳·茶馆水群·",
+      "clean_text": "北京朝阳一轻型航空器撞楼致 1 死 13 伤6 月 26 日 17 时 55 分，一架单发双座轻型运动航空器在北京朝阳区东三环附近飞行时碰撞一高层建筑。机上仅驾驶员一人，已当场死亡，现场另有 13 人受伤。目前伤者正在全力救治中，事故原因尚不清楚，相关情况已由主管部门进一步调查。北京朝阳·茶馆水群",
+      "datetime": "2026-06-27T08:40:00+00:00",
+      "views": "3.02K",
+      "source_links": [
+        {
+          "text": "北京朝阳",
+          "url": "https://mp.weixin.qq.com/s/pJ-uTGYI1p5XPx0lyitAHw"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42209",
+      "scraped_at": "2026-06-27T17:00:43.577993",
+      "title": "北京航空器撞楼1死13伤",
+      "title_options": {
+        "conclusion": "北京航空器撞楼1死13伤",
+        "attractive": "轻型飞机撞楼致1死13伤",
+        "minimal": "航空器撞楼1死13伤",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42208",
       "channel": "zaihuapd",
       "text": "Linux 内核曝 DirtyClone 高危漏洞，本地用户可提权至 rootJFrog 安全研究团队披露了 Linux 内核本地提权漏洞 DirtyClone（CVE-2026-43503），CVSS 评分 8.8。该漏洞属于 DirtyFrag 家族的新变种，因 __pskb_copy_fclone() 等函数在克隆 socket buffer 时丢失 SKBFL_SHARED_FRAG 标志，导致内核将只读 page cache 内存误判为可写网络缓冲区。攻击者通过本地 IPsec 处理即可静默篡改内存中的特权可执行文件（如 /usr/bin/su）并获取 root 权限，且不留内核日志或审计痕迹。Debian、Ubuntu、Fedora 等默认启用非特权用户命名空间的发行版风险最高，多租户云环境和 Kubernetes 集群尤需警惕。该漏洞已于 5 月 21 日在 Linux v7.1-rc5 中修复，Ubuntu 等发行版已发布补丁内核。若无法立即更新，可临时将 kernel.unprivileged_userns_clone 设为 0，或屏蔽 esp4、esp6、rxrpc 内核模块作为缓解措施。JFrog Security Research|Linuxiac|The Hacker News|Ubuntu·茶馆水群·",
@@ -1120,6 +1151,6 @@
       }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-06-27T16:55:57.577405"
+  "count": 46,
+  "updated_at": "2026-06-27T17:01:03.001799"
 }
