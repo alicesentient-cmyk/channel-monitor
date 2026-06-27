@@ -1295,37 +1295,6 @@
       }
     },
     {
-      "id": "zaihuapd_42182",
-      "channel": "zaihuapd",
-      "text": "OpenAI 将根据联邦政府审查请求分阶段发布 GPT 5.6OpenAI CEO Sam Altman 告诉员工，GPT-5.6 将应联邦政府要求，先向少数合作伙伴开放限量预览。预览期间，政府将逐个客户批准访问。这一要求出现在 OpenAI 过去一个月与多个政府机构预览模型之后。商务部长 Howard Lutnick 据称曾提醒 OpenAI，不要在没有其他机构批准的情况下发布。Altman 称这不是公司偏好的长期模式，将与政府和行业寻找更可持续的发布流程，如果一切顺利，他希望几周后更大范围发布。The Information·英文频道·",
-      "clean_text": "OpenAI 将根据联邦政府审查请求分阶段发布 GPT 5.6OpenAI CEO Sam Altman 告诉员工，GPT-5.6 将应联邦政府要求，先向少数合作伙伴开放限量预览。预览期间，政府将逐个客户批准访问。这一要求出现在 OpenAI 过去一个月与多个政府机构预览模型之后。商务部长 Howard Lutnick 据称曾提醒 OpenAI，不要在没有其他机构批准的情况下发布。Altman 称这不是公司偏好的长期模式，将与政府和行业寻找更可持续的发布流程，如果一切顺利，他希望几周后更大范围发布。The Information·英文频道",
-      "datetime": "2026-06-26T00:03:51+00:00",
-      "views": "3.52K",
-      "source_links": [
-        {
-          "text": "The Information",
-          "url": "https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42182",
-      "scraped_at": "2026-06-26T09:01:10.863707",
-      "title": "OpenAI分阶段发布GPT-5.6",
-      "title_options": {
-        "conclusion": "OpenAI分阶段发布GPT-5.6",
-        "attractive": "政府逐个批准GPT-5.6访问",
-        "minimal": "GPT-5.6分阶段发布",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1387,6 +1356,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-27T12:02:06.030132"
+  "count": 54,
+  "updated_at": "2026-06-27T12:07:09.214839"
 }
