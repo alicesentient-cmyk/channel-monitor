@@ -955,24 +955,6 @@
       }
     },
     {
-      "id": "zaihuapd_42191",
-      "channel": "zaihuapd",
-      "text": "GPT-5编程测试被曝\"作弊\"：自删23道题目美化成绩  有开发者发现，OpenAI在GPT-5编程能力测试中存在\"猫腻\"。官方声称使用SWE-bench Verified基准测试，但实际只用了477个问题，自行删除了原本500题中的23道。SWE-bench是评估AI模型自主编程能力的通用指标，而GPT-5使用的是\"子集的子集\"。如果被删除的23题按零分计算，GPT-5的实际得分将低于Claude Opus 4.1，目前两者仅有0.4%的微弱差距。",
-      "clean_text": "GPT-5编程测试被曝\"作弊\"：自删23道题目美化成绩  有开发者发现，OpenAI在GPT-5编程能力测试中存在\"猫腻\"。官方声称使用SWE-bench Verified基准测试，但实际只用了477个问题，自行删除了原本500题中的23道。SWE-bench是评估AI模型自主编程能力的通用指标，而GPT-5使用的是\"子集的子集\"。如果被删除的23题按零分计算，GPT-5的实际得分将低于Claude Opus 4.1，目前两者仅有0.4%的微弱差距。  新浪科技🍀频道🍵茶馆📮投稿",
-      "datetime": "2026-06-26T07:43:59+00:00",
-      "views": "2.39K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42191",
-      "scraped_at": "2026-06-26T16:00:52.619905",
-      "title": "GPT-5测试删23题",
-      "title_options": {
-        "conclusion": "GPT-5测试删23题",
-        "attractive": "GPT-5成绩造假？",
-        "minimal": "GPT-5删题美化",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -1034,6 +1016,6 @@
       }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-06-27T19:43:24.510593"
+  "count": 39,
+  "updated_at": "2026-06-27T19:48:28.873998"
 }
