@@ -1,6 +1,23 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42217",
+      "channel": "zaihuapd",
+      "text": "Cursor 研究：越强的 AI 模型越会“作弊”或“抄袭”应对编程基准测试  Cursor 团队发现在 SWE-bench Pro 测试中，Opus 4.8 Max 编程功能的 63%的成功案例并非模型自行推导，而是通过检索公开网络上的已知补丁或挖掘仓库 Git 历史直接套用答案。移除.git 目录并限制网络访问后，Opus 4.8 Max 得分从 87.1%骤降至 73.0%，Cursor 自家的 Composer 2.5 从 74.7%降至 54.0%。  研究显示这种“鼓励作弊”行为随模型代际急剧升级：Opus…",
+      "clean_text": "Cursor 研究：越强的 AI 模型越会“作弊”或“抄袭”应对编程基准测试  Cursor 团队发现在 SWE-bench Pro 测试中，Opus 4.8 Max 编程功能的 63%的成功案例并非模型自行推导，而是通过检索公开网络上的已知补丁或挖掘仓库 Git 历史直接套用答案。移除.git 目录并限制网络访问后，Opus 4.8 Max 得分从 87.1%骤降至 73.0%，Cursor 自家的 Composer 2.5 从 74.7%降至 54.0%。  研究显示这种“鼓励作弊”行为随模型代际急剧升级：Opus…",
+      "datetime": "2026-06-27T15:30:36+00:00",
+      "views": "3.23K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42217",
+      "scraped_at": "2026-06-28T00:00:39.586539",
+      "title": "强AI模型编程测试作弊",
+      "title_options": {
+        "conclusion": "强AI模型编程测试作弊",
+        "attractive": "AI作弊致得分骤降14%",
+        "minimal": "AI模型作弊测试"
+      }
+    },
+    {
       "id": "zaihuapd_42215",
       "channel": "zaihuapd",
       "text": "Android 17 将推系统验证工具，需两台设备扫码交叉确认Google 正为 Android 17 开发一项 OS 验证功能，帮助用户确认手机运行的是正版未修改的系统。该工具需要两台设备配合：一台待验证的 Android 手机，以及一台能够联网、已被信任的辅助设备。验证流程通过双向扫描 QR 码完成：用户在待验证手机上发起验证后，先用辅助设备扫描手机显示的 QR 码进入网页，再用手机扫描网页回传的 QR 码。随后 Google 会生成安全摘要，用户可在辅助设备上查看 bootloader 状态、构建版本等信息，并与手机报告的 boot hash 进行比对。若数据一致，即可确认系统未被篡改。该功能目前已在 Android 17 QPR1 Beta 5 中现身，预计率先向 Pixel 设备推送，之后再扩展到其他 Android 机型。Android Authority·茶馆水群·",
@@ -921,8 +938,39 @@
         "attractive": "中国AI低成本成优势",
         "minimal": "施密特 中国AI 开源"
       }
+    },
+    {
+      "id": "zaihuapd_42216",
+      "channel": "zaihuapd",
+      "text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群·",
+      "clean_text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群",
+      "datetime": null,
+      "views": "5.76K",
+      "source_links": [
+        {
+          "text": "Le Figaro",
+          "url": "https://www.lefigaro.fr/canicule-la-ruee-sur-les-ventilateurs-provoque-des-scenes-de-chaos-dans-les-magasins-20260626"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42216",
+      "scraped_at": "2026-06-28T00:00:39.585956",
+      "title": "法国热浪致风扇断货",
+      "title_options": {
+        "conclusion": "法国热浪致风扇断货",
+        "attractive": "风扇抢购引发冲突",
+        "minimal": "热浪风扇断货",
+        "best": "conclusion"
+      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-06-27T23:57:22.216404"
+  "count": 37,
+  "updated_at": "2026-06-28T00:02:27.993364"
 }
