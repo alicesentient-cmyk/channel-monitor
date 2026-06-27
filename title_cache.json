@@ -10453,5 +10453,25 @@
       "minimal": "苹果 长鑫 长江存储 供应链"
     },
     "generated_at": "2026-06-27T13:02:53.263571"
+  },
+  "zaihuapd_42206": {
+    "ai_title": "B站播客单日播放破1亿分钟",
+    "title_options": {
+      "conclusion": "B站播客单日播放破1亿分钟",
+      "attractive": "B站播客时长超30分钟占半",
+      "minimal": "B站播客播放时长破亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T14:03:42.018808"
+  },
+  "zaihuapd_42205": {
+    "ai_title": "苹果游说白宫采购长鑫芯片",
+    "title_options": {
+      "conclusion": "苹果游说白宫采购长鑫芯片",
+      "attractive": "苹果为降成本欲购黑名单芯片",
+      "minimal": "苹果 长鑫 芯片 游说",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-27T14:03:42.284907"
   }
 }
