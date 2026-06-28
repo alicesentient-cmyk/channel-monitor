@@ -630,37 +630,6 @@
       }
     },
     {
-      "id": "zaihuapd_42198",
-      "channel": "zaihuapd",
-      "text": "苹果首款触屏 MacBook 确认搭载 M5 Pro/Max，M7 版计划 2027 年跟进苹果首款触屏笔记本电脑确定采用现有的 M5 Pro 和 M5 Max 芯片，而非下一代处理器，预计今年底至明年初上市。除了加入触控屏，还会首次引入 iPhone 灵动岛界面和 OLED 显示屏，外观设计同步更新。搭载 M7 Pro 和 M7 Max 的触屏 MacBook 计划最早 2027 年底推出，Mac Studio 则要等到 2028 年。Bloomberg·英文频道·",
-      "clean_text": "苹果首款触屏 MacBook 确认搭载 M5 Pro/Max，M7 版计划 2027 年跟进苹果首款触屏笔记本电脑确定采用现有的 M5 Pro 和 M5 Max 芯片，而非下一代处理器，预计今年底至明年初上市。除了加入触控屏，还会首次引入 iPhone 灵动岛界面和 OLED 显示屏，外观设计同步更新。搭载 M7 Pro 和 M7 Max 的触屏 MacBook 计划最早 2027 年底推出，Mac Studio 则要等到 2028 年。Bloomberg·英文频道",
-      "datetime": "2026-06-27T00:17:36+00:00",
-      "views": "2.44K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-touchscreen-macbook-to-use-m5-pro-max-chips-m7-pro-max-models-in-2027"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42198",
-      "scraped_at": "2026-06-27T09:01:04.913064",
-      "title": "苹果首款触屏 MacBook 确认搭载 M5 Pro/Max，M7 版计划 2027 年跟进苹果首款触屏笔记本电脑确定采用现有",
-      "title_options": {
-        "conclusion": "苹果首款触屏 MacBook 确认搭载 M5 Pro/Max，M7 版计划 2027 年跟进苹果首款触屏笔记本电脑确定采用现有",
-        "attractive": "苹果首款触屏 MacBook 确认搭载 M5 Pro/Max，M7 版计划 2027 年跟进苹果首款触屏笔记本电脑确定采用现有",
-        "minimal": "苹果首款触屏 MacBook 确认搭载 M5 Pro/Max，M7 版计划 2027 年跟进苹果首款触屏笔记本电脑确定采用现有",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -753,6 +722,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-06-28T12:15:53.188157"
+  "count": 27,
+  "updated_at": "2026-06-28T12:20:56.535313"
 }
