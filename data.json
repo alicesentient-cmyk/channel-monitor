@@ -148,45 +148,6 @@
       }
     },
     {
-      "id": "zaihuapd_42211",
-      "channel": "zaihuapd",
-      "text": "北大与 DeepSeek 联合开源 DSpark，大模型推理速度提升 60% 至 85%大模型生成文本时逐 token 串行计算，推理延迟随输出长度线性增长，这是 AI 对话偏慢的核心原因。6 月 27 日，DeepSeek 联合北京大学发布 DSpark 推理加速框架，通过半自回归候选生成与置信度调度验证两项机制，在同等吞吐量下将单用户生成速度提升 60% 至 85%。DSpark 的并行主干一次性产出全部候选 token 的隐藏状态，再由轻量顺序模块逐 token 注入前缀依赖，兼顾了并行效率与候选接受率；调度器则根据置信度动态决定验证长度，优先把算力分配给高存活概率的 token。该框架已部署于 DeepSeek-V4-Flash 与 V4-Pro 预览版，不同 SLA 条件下生产环境吞吐量提升显著，目前相关代码与模型已在 GitHub 和 Hugging Face 开源。GitHub|Hugging Face|IT之家·茶馆水群·",
-      "clean_text": "🤖北大与 DeepSeek 联合开源 DSpark，大模型推理速度提升 60% 至 85%大模型生成文本时逐 token 串行计算，推理延迟随输出长度线性增长，这是 AI 对话偏慢的核心原因。6 月 27 日，DeepSeek 联合北京大学发布 DSpark 推理加速框架，通过半自回归候选生成与置信度调度验证两项机制，在同等吞吐量下将单用户生成速度提升 60% 至 85%。DSpark 的并行主干一次性产出全部候选 token 的隐藏状态，再由轻量顺序模块逐 token 注入前缀依赖，兼顾了并行效率与候选接受率；调度器则根据置信度动态决定验证长度，优先把算力分配给高存活概率的 token。该框架已部署于 DeepSeek-V4-Flash 与 V4-Pro 预览版，不同 SLA 条件下生产环境吞吐量提升显著，目前相关代码与模型已在 GitHub 和 Hugging Face 开源。GitHub|Hugging Face|IT之家·茶馆水群",
-      "datetime": "2026-06-27T10:05:58+00:00",
-      "views": "4.51K",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/deepseek-ai/DeepSpec"
-        },
-        {
-          "text": "Hugging Face",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark"
-        },
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/969/379.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42211",
-      "scraped_at": "2026-06-27T19:01:05.177159",
-      "title": "北大与DeepSeek开源DSpark",
-      "title_options": {
-        "conclusion": "北大与DeepSeek开源DSpark",
-        "attractive": "AI推理速度提升85%",
-        "minimal": "DSpark加速框架",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -279,6 +240,6 @@
       }
     }
   ],
-  "count": 10,
-  "updated_at": "2026-06-28T22:04:13.242864"
+  "count": 9,
+  "updated_at": "2026-06-28T22:09:16.533676"
 }
