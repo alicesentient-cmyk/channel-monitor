@@ -661,33 +661,6 @@
       }
     },
     {
-      "id": "xhqcankao_30397",
-      "channel": "xhqcankao",
-      "text": "首款触控MacBook将使用M5 Pro/Max芯片即将亮相的苹果高端笔记本产品线，很有可能会以搭载现成芯片的过渡形式登场。将于今年晚些时候至明年初窗口期发布的苹果首款“触控屏Macbook”将配备现有的M5 Pro与M5 Max芯片。随后下一代产品最快于2027年底上市，直接用上M7 Pro 与 M7 Max芯片，通过大幅升级神经加速器、扩展内存带宽，来支持 “更高要求的AI工作负载”。除了触控屏外，这款新机器还将加入iPhone的灵动岛交互设计，并配备OLED显示屏，这三项均为Macbook首次引入。这款设备还将采用“更新的工业设计”，标志着高端MacBook自2021年以来的首次外观变化。",
-      "clean_text": "首款触控MacBook将使用M5 Pro/Max芯片即将亮相的苹果高端笔记本产品线，很有可能会以搭载现成芯片的过渡形式登场。将于今年晚些时候至明年初窗口期发布的苹果首款“触控屏Macbook”将配备现有的M5 Pro与M5 Max芯片。随后下一代产品最快于2027年底上市，直接用上M7 Pro 与 M7 Max芯片，通过大幅升级神经加速器、扩展内存带宽，来支持 “更高要求的AI工作负载”。除了触控屏外，这款新机器还将加入iPhone的灵动岛交互设计，并配备OLED显示屏，这三项均为Macbook首次引入。这款设备还将采用“更新的工业设计”，标志着高端MacBook自2021年以来的首次外观变化。——财联社、彭博社",
-      "datetime": "2026-06-27T00:00:23+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2410723?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-touchscreen-macbook-to-use-m5-pro-max-chips-m7-pro-max-models-in-2027"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30397",
-      "scraped_at": "2026-06-27T08:01:00.911745",
-      "title": "首款触控MacBook将用M5芯片",
-      "title_options": {
-        "conclusion": "首款触控MacBook将用M5芯片",
-        "attractive": "触控MacBook首搭灵动岛",
-        "minimal": "触控MacBook M5芯片",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -780,6 +753,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-06-28T11:55:38.847979"
+  "count": 28,
+  "updated_at": "2026-06-28T12:00:43.123699"
 }
