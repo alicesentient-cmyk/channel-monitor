@@ -226,37 +226,6 @@
       }
     },
     {
-      "id": "zaihuapd_42209",
-      "channel": "zaihuapd",
-      "text": "北京朝阳一轻型航空器撞楼致 1 死 13 伤6 月 26 日 17 时 55 分，一架单发双座轻型运动航空器在北京朝阳区东三环附近飞行时碰撞一高层建筑。机上仅驾驶员一人，已当场死亡，现场另有 13 人受伤。目前伤者正在全力救治中，事故原因尚不清楚，相关情况已由主管部门进一步调查。北京朝阳·茶馆水群·",
-      "clean_text": "北京朝阳一轻型航空器撞楼致 1 死 13 伤6 月 26 日 17 时 55 分，一架单发双座轻型运动航空器在北京朝阳区东三环附近飞行时碰撞一高层建筑。机上仅驾驶员一人，已当场死亡，现场另有 13 人受伤。目前伤者正在全力救治中，事故原因尚不清楚，相关情况已由主管部门进一步调查。北京朝阳·茶馆水群",
-      "datetime": "2026-06-27T08:40:00+00:00",
-      "views": "3.02K",
-      "source_links": [
-        {
-          "text": "北京朝阳",
-          "url": "https://mp.weixin.qq.com/s/pJ-uTGYI1p5XPx0lyitAHw"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42209",
-      "scraped_at": "2026-06-27T17:00:43.577993",
-      "title": "北京航空器撞楼1死13伤",
-      "title_options": {
-        "conclusion": "北京航空器撞楼1死13伤",
-        "attractive": "轻型飞机撞楼致1死13伤",
-        "minimal": "航空器撞楼1死13伤",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -349,6 +318,6 @@
       }
     }
   ],
-  "count": 12,
-  "updated_at": "2026-06-28T20:37:49.593309"
+  "count": 11,
+  "updated_at": "2026-06-28T20:42:53.752949"
 }
