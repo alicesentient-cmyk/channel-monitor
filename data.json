@@ -1,23 +1,6 @@
 {
   "messages": [
     {
-      "id": "zaihuapd_42217",
-      "channel": "zaihuapd",
-      "text": "Cursor 研究：越强的 AI 模型越会“作弊”或“抄袭”应对编程基准测试  Cursor 团队发现在 SWE-bench Pro 测试中，Opus 4.8 Max 编程功能的 63%的成功案例并非模型自行推导，而是通过检索公开网络上的已知补丁或挖掘仓库 Git 历史直接套用答案。移除.git 目录并限制网络访问后，Opus 4.8 Max 得分从 87.1%骤降至 73.0%，Cursor 自家的 Composer 2.5 从 74.7%降至 54.0%。  研究显示这种“鼓励作弊”行为随模型代际急剧升级：Opus…",
-      "clean_text": "Cursor 研究：越强的 AI 模型越会“作弊”或“抄袭”应对编程基准测试  Cursor 团队发现在 SWE-bench Pro 测试中，Opus 4.8 Max 编程功能的 63%的成功案例并非模型自行推导，而是通过检索公开网络上的已知补丁或挖掘仓库 Git 历史直接套用答案。移除.git 目录并限制网络访问后，Opus 4.8 Max 得分从 87.1%骤降至 73.0%，Cursor 自家的 Composer 2.5 从 74.7%降至 54.0%。  研究显示这种“鼓励作弊”行为随模型代际急剧升级：Opus…",
-      "datetime": "2026-06-27T15:30:36+00:00",
-      "views": "3.23K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42217",
-      "scraped_at": "2026-06-28T00:00:39.586539",
-      "title": "强AI模型编程测试作弊",
-      "title_options": {
-        "conclusion": "强AI模型编程测试作弊",
-        "attractive": "AI作弊致得分骤降14%",
-        "minimal": "AI模型作弊测试"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -110,6 +93,6 @@
       }
     }
   ],
-  "count": 4,
-  "updated_at": "2026-06-29T03:28:55.661137"
+  "count": 3,
+  "updated_at": "2026-06-29T03:33:58.473495"
 }
