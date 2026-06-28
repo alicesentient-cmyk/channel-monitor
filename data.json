@@ -257,49 +257,6 @@
       }
     },
     {
-      "id": "zaihuapd_42208",
-      "channel": "zaihuapd",
-      "text": "Linux 内核曝 DirtyClone 高危漏洞，本地用户可提权至 rootJFrog 安全研究团队披露了 Linux 内核本地提权漏洞 DirtyClone（CVE-2026-43503），CVSS 评分 8.8。该漏洞属于 DirtyFrag 家族的新变种，因 __pskb_copy_fclone() 等函数在克隆 socket buffer 时丢失 SKBFL_SHARED_FRAG 标志，导致内核将只读 page cache 内存误判为可写网络缓冲区。攻击者通过本地 IPsec 处理即可静默篡改内存中的特权可执行文件（如 /usr/bin/su）并获取 root 权限，且不留内核日志或审计痕迹。Debian、Ubuntu、Fedora 等默认启用非特权用户命名空间的发行版风险最高，多租户云环境和 Kubernetes 集群尤需警惕。该漏洞已于 5 月 21 日在 Linux v7.1-rc5 中修复，Ubuntu 等发行版已发布补丁内核。若无法立即更新，可临时将 kernel.unprivileged_userns_clone 设为 0，或屏蔽 esp4、esp6、rxrpc 内核模块作为缓解措施。JFrog Security Research|Linuxiac|The Hacker News|Ubuntu·茶馆水群·",
-      "clean_text": "Linux 内核曝 DirtyClone 高危漏洞，本地用户可提权至 rootJFrog 安全研究团队披露了 Linux 内核本地提权漏洞 DirtyClone（CVE-2026-43503），CVSS 评分 8.8。该漏洞属于 DirtyFrag 家族的新变种，因 __pskb_copy_fclone() 等函数在克隆 socket buffer 时丢失 SKBFL_SHARED_FRAG 标志，导致内核将只读 page cache 内存误判为可写网络缓冲区。攻击者通过本地 IPsec 处理即可静默篡改内存中的特权可执行文件（如 /usr/bin/su）并获取 root 权限，且不留内核日志或审计痕迹。Debian、Ubuntu、Fedora 等默认启用非特权用户命名空间的发行版风险最高，多租户云环境和 Kubernetes 集群尤需警惕。该漏洞已于 5 月 21 日在 Linux v7.1-rc5 中修复，Ubuntu 等发行版已发布补丁内核。若无法立即更新，可临时将 kernel.unprivileged_userns_clone 设为 0，或屏蔽 esp4、esp6、rxrpc 内核模块作为缓解措施。JFrog Security Research|Linuxiac|The Hacker News|Ubuntu·茶馆水群",
-      "datetime": "2026-06-27T08:00:16+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "JFrog Security Research",
-          "url": "https://research.jfrog.com/post/dissecting-and-exploiting-linux-lpe-variant-dirtyclone-cve-2026-43503/"
-        },
-        {
-          "text": "Linuxiac",
-          "url": "https://linuxiac.com/linux-gets-dirty-again-dirtyclone-kernel-flaw-can-lead-to-local-root-access/"
-        },
-        {
-          "text": "The Hacker News",
-          "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html"
-        },
-        {
-          "text": "Ubuntu",
-          "url": "https://ubuntu.com/security/CVE-2026-43503"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42208",
-      "scraped_at": "2026-06-27T16:00:58.796492",
-      "title": "Linux现高危提权漏洞",
-      "title_options": {
-        "conclusion": "Linux现高危提权漏洞",
-        "attractive": "本地用户可静默获root权限",
-        "minimal": "Linux内核漏洞提权",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -392,6 +349,6 @@
       }
     }
   ],
-  "count": 13,
-  "updated_at": "2026-06-28T19:57:09.065696"
+  "count": 12,
+  "updated_at": "2026-06-28T20:02:12.706181"
 }
