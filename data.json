@@ -545,68 +545,6 @@
       }
     },
     {
-      "id": "xhqcankao_30399",
-      "channel": "xhqcankao",
-      "text": "美国允许Anthropic向“可信任”合作伙伴发布Mythos模型美国商务部信函显示，美国政府于周五允许人工智能公司Anthropic向部分“可信任合作伙伴”提供功能强大的人工智能模型 Claude Mythos 5。一位知情人士表示，目前已有一百多家公司和机构获得 Mythos 5 的访问权限，包括许多财富全球500强企业。两周前，美国政府下令 Anthropic 暂停部分模型的访问权限，原因是担心这些模型可能被中国、俄罗斯或其他受关注国家的军事情报机构部署和使用。",
-      "clean_text": "美国允许Anthropic向“可信任”合作伙伴发布Mythos模型美国商务部信函显示，美国政府于周五允许人工智能公司Anthropic向部分“可信任合作伙伴”提供功能强大的人工智能模型 Claude Mythos 5。一位知情人士表示，目前已有一百多家公司和机构获得 Mythos 5 的访问权限，包括许多财富全球500强企业。两周前，美国政府下令 Anthropic 暂停部分模型的访问权限，原因是担心这些模型可能被中国、俄罗斯或其他受关注国家的军事情报机构部署和使用。——联合早报、彭博社、CNBC",
-      "datetime": "2026-06-27T01:03:38+00:00",
-      "views": "1.48K",
-      "source_links": [
-        {
-          "text": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/world/story20260627-9273198"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30399",
-      "scraped_at": "2026-06-27T10:00:44.823077",
-      "title": "美国允许Anthropic向“可信任”合作伙伴发布Mythos模型美国商务部信函显示，美国政府于周五允许人工智能公司Anthropic向部分“可信任合作伙伴”提供功能强大",
-      "title_options": {
-        "conclusion": "美国允许Anthropic向“可信任”合作伙伴发布Mythos模型美国商务部信函显示，美国政府于周五允许人工智能公司Anthropic向部分“可信任合作伙伴”提供功能强大",
-        "attractive": "美国允许Anthropic向“可信任”合作伙伴发布Mythos模型美国商务部信函显示，美国政府于周五允许人工智能公司Anthropic向部分“可信任合作伙伴”提供功能强大",
-        "minimal": "美国允许Anthropic向“可信任”合作伙伴发布Mythos模型美国商务部信函显示，美国政府于周五允许人工智能公司Anthropic向部分“可信任合作伙伴”提供功能强大",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42199",
-      "channel": "zaihuapd",
-      "text": "iOS 27 Beta 2 固件代码出现百度视觉搜索iOS 27 Beta 2 固件分析发现，苹果新增了一个名为 SearchPartnerInferenceProvider 的 ExtensionKit 组件，其本地化字符串明确引用了百度视觉搜索。这暗示苹果正为第三方视觉搜索与 AI 提供商搭建基础设施，可依据地区切换搜索合作伙伴，百度是目前固件内首个被发现的具名提供商OneJailbreak⁠·英文频道·",
-      "clean_text": "iOS 27 Beta 2 固件代码出现百度视觉搜索iOS 27 Beta 2 固件分析发现，苹果新增了一个名为 SearchPartnerInferenceProvider 的 ExtensionKit 组件，其本地化字符串明确引用了百度视觉搜索。这暗示苹果正为第三方视觉搜索与 AI 提供商搭建基础设施，可依据地区切换搜索合作伙伴，百度是目前固件内首个被发现的具名提供商OneJailbreak⁠·英文频道",
-      "datetime": "2026-06-27T01:02:42+00:00",
-      "views": "4.05K",
-      "source_links": [
-        {
-          "text": "OneJailbreak",
-          "url": "https://onejailbreak.com/blog/ios-27-beta-2-deep-analyze/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42199",
-      "scraped_at": "2026-06-27T10:00:43.088328",
-      "title": "iOS 27 Beta 2 固件代码出现百度视觉搜索iOS 27 Beta 2 固件分析发现，苹果新增了一个名为 SearchPartnerInferenceProvider ",
-      "title_options": {
-        "conclusion": "iOS 27 Beta 2 固件代码出现百度视觉搜索iOS 27 Beta 2 固件分析发现，苹果新增了一个名为 SearchPartnerInferenceProvider ",
-        "attractive": "iOS 27 Beta 2 固件代码出现百度视觉搜索iOS 27 Beta 2 固件分析发现，苹果新增了一个名为 SearchPartnerInferenceProvider ",
-        "minimal": "iOS 27 Beta 2 固件代码出现百度视觉搜索iOS 27 Beta 2 固件分析发现，苹果新增了一个名为 SearchPartnerInferenceProvider ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -699,6 +637,6 @@
       }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-06-28T13:01:24.916764"
+  "count": 24,
+  "updated_at": "2026-06-28T13:06:30.353390"
 }
