@@ -18,37 +18,6 @@
       }
     },
     {
-      "id": "zaihuapd_42215",
-      "channel": "zaihuapd",
-      "text": "Android 17 将推系统验证工具，需两台设备扫码交叉确认Google 正为 Android 17 开发一项 OS 验证功能，帮助用户确认手机运行的是正版未修改的系统。该工具需要两台设备配合：一台待验证的 Android 手机，以及一台能够联网、已被信任的辅助设备。验证流程通过双向扫描 QR 码完成：用户在待验证手机上发起验证后，先用辅助设备扫描手机显示的 QR 码进入网页，再用手机扫描网页回传的 QR 码。随后 Google 会生成安全摘要，用户可在辅助设备上查看 bootloader 状态、构建版本等信息，并与手机报告的 boot hash 进行比对。若数据一致，即可确认系统未被篡改。该功能目前已在 Android 17 QPR1 Beta 5 中现身，预计率先向 Pixel 设备推送，之后再扩展到其他 Android 机型。Android Authority·茶馆水群·",
-      "clean_text": "Android 17 将推系统验证工具，需两台设备扫码交叉确认Google 正为 Android 17 开发一项 OS 验证功能，帮助用户确认手机运行的是正版未修改的系统。该工具需要两台设备配合：一台待验证的 Android 手机，以及一台能够联网、已被信任的辅助设备。验证流程通过双向扫描 QR 码完成：用户在待验证手机上发起验证后，先用辅助设备扫描手机显示的 QR 码进入网页，再用手机扫描网页回传的 QR 码。随后 Google 会生成安全摘要，用户可在辅助设备上查看 bootloader 状态、构建版本等信息，并与手机报告的 boot hash 进行比对。若数据一致，即可确认系统未被篡改。该功能目前已在 Android 17 QPR1 Beta 5 中现身，预计率先向 Pixel 设备推送，之后再扩展到其他 Android 机型。Android Authority·茶馆水群",
-      "datetime": "2026-06-27T13:57:56+00:00",
-      "views": "528",
-      "source_links": [
-        {
-          "text": "Android Authority",
-          "url": "https://www.androidauthority.com/android-17-os-verification-demo-3681599/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42215",
-      "scraped_at": "2026-06-27T22:00:21.831323",
-      "title": "Android 17推双机验证",
-      "title_options": {
-        "conclusion": "Android 17推双机验证",
-        "attractive": "双机扫码防系统篡改",
-        "minimal": "Android 17验证工具",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -141,6 +110,6 @@
       }
     }
   ],
-  "count": 5,
-  "updated_at": "2026-06-29T01:52:53.265898"
+  "count": 4,
+  "updated_at": "2026-06-29T01:57:57.267202"
 }
