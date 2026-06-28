@@ -510,41 +510,6 @@
       }
     },
     {
-      "id": "zaihuapd_42200",
-      "channel": "zaihuapd",
-      "text": "郭明錤称 iPhone 18 将配 9 GB 内存，IDC 预测 Pro 系列或涨价 200 美元分析师郭明錤称苹果计划在 2027 年春季推出的低端 iPhone 18 和 iPhone 18e 将搭载 A20 芯片，RAM 从 iPhone 17 的 8 GB 增至 9 GB（采用 1.5 GB×6 封装方案），以便更好地支持 Apple Intelligence 等 AI 功能。而传闻中今年秋季亮相的 iPhone 18 Pro、Pro Max 和折叠屏 iPhone 则预计维持 12 GB RAM。IDC 同日上调涨价预期，认为 iPhone 18 Pro 和 Pro Max 可能各涨 200 美元，涨幅约 16.7% 至 18.2%，起售价或分别达到 1299 美元和 1399 美元（国行对应¥10999和¥11999），标准版也可能上涨 50 美元。该机构指出，全球存储器供应紧张推高了零部件成本，苹果消化成本的压力增大，因此新品涨价幅度可能较原先预期更激进。郭明錤|搜狐网·英文频道·",
-      "clean_text": "🍏郭明錤称 iPhone 18 将配 9 GB 内存，IDC 预测 Pro 系列或涨价 200 美元分析师郭明錤称苹果计划在 2027 年春季推出的低端 iPhone 18 和 iPhone 18e 将搭载 A20 芯片，RAM 从 iPhone 17 的 8 GB 增至 9 GB（采用 1.5 GB×6 封装方案），以便更好地支持 Apple Intelligence 等 AI 功能。而传闻中今年秋季亮相的 iPhone 18 Pro、Pro Max 和折叠屏 iPhone 则预计维持 12 GB RAM。IDC 同日上调涨价预期，认为 iPhone 18 Pro 和 Pro Max 可能各涨 200 美元，涨幅约 16.7% 至 18.2%，起售价或分别达到 1299 美元和 1399 美元（国行对应¥10999和¥11999），标准版也可能上涨 50 美元。该机构指出，全球存储器供应紧张推高了零部件成本，苹果消化成本的压力增大，因此新品涨价幅度可能较原先预期更激进。郭明錤|搜狐网·英文频道",
-      "datetime": "2026-06-27T01:41:37+00:00",
-      "views": "2K",
-      "source_links": [
-        {
-          "text": "郭明錤",
-          "url": "https://x.com/mingchikuo/status/2070545159620809003?s=46&amp;t=2xyarDq-gg4Xf5fKUGpsqg"
-        },
-        {
-          "text": "搜狐网",
-          "url": "https://www.sohu.com/a/1042269626_114760"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42200",
-      "scraped_at": "2026-06-27T10:00:43.089005",
-      "title": "郭明錤称 iPhone 18 将配 9 GB 内存，IDC 预测 Pro 系列或涨价 200 美元分析师郭明錤称苹果计划在 2027 年春季推出",
-      "title_options": {
-        "conclusion": "郭明錤称 iPhone 18 将配 9 GB 内存，IDC 预测 Pro 系列或涨价 200 美元分析师郭明錤称苹果计划在 2027 年春季推出",
-        "attractive": "郭明錤称 iPhone 18 将配 9 GB 内存，IDC 预测 Pro 系列或涨价 200 美元分析师郭明錤称苹果计划在 2027 年春季推出",
-        "minimal": "郭明錤称 iPhone 18 将配 9 GB 内存，IDC 预测 Pro 系列或涨价 200 美元分析师郭明錤称苹果计划在 2027 年春季推出",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42171",
       "channel": "zaihuapd",
       "text": "苹果如何防止新产品被截胡：在 PRB 阶段向员工发放诱饵包装的 iPhone苹果在 iPhone 17 系列发布前的 PRB 阶段，向内部员工发放装在诱饵盒中的 17 Pro 机型。盒子上的 iPhone 设计图采用 iPad Pro 风格的摄像头凸起，且没有苹果 logo，与此前 iPhone 16 的 PROTO1 设计风格相似。MWR(@MWRevamped)·英文频道·",
@@ -637,6 +602,6 @@
       }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-06-28T13:36:53.486173"
+  "count": 23,
+  "updated_at": "2026-06-28T13:41:57.930527"
 }
