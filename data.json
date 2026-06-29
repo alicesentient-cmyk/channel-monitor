@@ -1080,37 +1080,6 @@
       }
     },
     {
-      "id": "zaihuapd_42226",
-      "channel": "zaihuapd",
-      "text": "消息称苹果 M5 Ultra 版 Mac Studio 将于 2026 年推出，M7 Ultra 版 2028 年发布彭博社古尔曼透漏苹果仍计划在 2026 年推出搭载 M5 Ultra 芯片的 Mac Studio，M7 Ultra 版本预计于 2028 年发布。苹果已跳过 M4 Ultra，Ultra 芯片产品线自 M3 Ultra 后一直没有更新，Mac Studio 目前也是唯一搭载 Ultra 芯片的 Mac 产品。Appleinsider·茶馆水群·",
-      "clean_text": "🍏消息称苹果 M5 Ultra 版 Mac Studio 将于 2026 年推出，M7 Ultra 版 2028 年发布彭博社古尔曼透漏苹果仍计划在 2026 年推出搭载 M5 Ultra 芯片的 Mac Studio，M7 Ultra 版本预计于 2028 年发布。苹果已跳过 M4 Ultra，Ultra 芯片产品线自 M3 Ultra 后一直没有更新，Mac Studio 目前也是唯一搭载 Ultra 芯片的 Mac 产品。Appleinsider·茶馆水群",
-      "datetime": "2026-06-28T14:40:14+00:00",
-      "views": "15.6K",
-      "source_links": [
-        {
-          "text": "Appleinsider",
-          "url": "https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42226",
-      "scraped_at": "2026-06-29T12:01:01.257797",
-      "title": "苹果M5 Ultra版Mac Stud…",
-      "title_options": {
-        "conclusion": "苹果M5 Ultra版Mac Stud…",
-        "attractive": "苹果跳过M4 Ultra，M5 Ult…",
-        "minimal": "M5 Ultra Mac Studio…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42216",
       "channel": "zaihuapd",
       "text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群·",
@@ -1173,6 +1142,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-06-30T02:36:43.787357"
+  "count": 46,
+  "updated_at": "2026-06-30T02:41:48.154825"
 }
