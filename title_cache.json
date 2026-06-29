@@ -10888,5 +10888,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-29T12:04:26.167810"
+  },
+  "xhqcankao_30419": {
+    "ai_title": "中国通用航空全面停飞",
+    "title_options": {
+      "conclusion": "中国通用航空全面停飞",
+      "attractive": "小飞机撞中国尊后全国禁飞",
+      "minimal": "通用航空停飞"
+    },
+    "generated_at": "2026-06-29T13:05:09.200896"
+  },
+  "xhqcankao_30420": {
+    "ai_title": "中国对日启动第二轮军民两用物项禁令",
+    "title_options": {
+      "conclusion": "中国对日启动第二轮军民两用物项禁令",
+      "attractive": "中国扩大对日出口管制，涉40家实体",
+      "minimal": "中国对日第二轮军民两用物项禁令",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-29T13:05:09.499187"
   }
 }
