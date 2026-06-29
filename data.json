@@ -1111,29 +1111,6 @@
       }
     },
     {
-      "id": "xhqcankao_30410",
-      "channel": "xhqcankao",
-      "text": "Netflix现在要求每个用户资料绑定唯一的电子邮件地址Netflix已逐渐要求Netflix订阅下的每个用户资料绑定唯一的电子邮件地址，这一登录更新于2026年6月15日开始推行。此项改变意味着每个用户将拥有自己的登录凭据，方便辅助账户用户管理登录信息。电子邮件要求不适用于儿童的个人资料。然而，一些用户对此表示不满，认为Netflix此举是为更多地追踪观众和分享信息给广告商。同时，关于Netflix将从7月7日起要求多因素认证的传闻，Ars Technica了解到该公告仅与商业伙伴账户相关，不会影响普通用户登录。——Ars Technica",
-      "clean_text": "Netflix现在要求每个用户资料绑定唯一的电子邮件地址Netflix已逐渐要求Netflix订阅下的每个用户资料绑定唯一的电子邮件地址，这一登录更新于2026年6月15日开始推行。此项改变意味着每个用户将拥有自己的登录凭据，方便辅助账户用户管理登录信息。电子邮件要求不适用于儿童的个人资料。然而，一些用户对此表示不满，认为Netflix此举是为更多地追踪观众和分享信息给广告商。同时，关于Netflix将从7月7日起要求多因素认证的传闻，Ars Technica了解到该公告仅与商业伙伴账户相关，不会影响普通用户登录。——Ars Technica",
-      "datetime": "2026-06-28T13:35:38+00:00",
-      "views": "8.31K",
-      "source_links": [
-        {
-          "text": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30410",
-      "scraped_at": "2026-06-29T12:01:03.056410",
-      "title": "Netflix要求每用户绑定邮箱",
-      "title_options": {
-        "conclusion": "Netflix要求每用户绑定邮箱",
-        "attractive": "Netflix新规：每用户需独立邮箱",
-        "minimal": "Netflix 邮箱绑定",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42216",
       "channel": "zaihuapd",
       "text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群·",
@@ -1196,6 +1173,6 @@
       }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-06-30T01:30:51.358328"
+  "count": 47,
+  "updated_at": "2026-06-30T01:35:55.011157"
 }
