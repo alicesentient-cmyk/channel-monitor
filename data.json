@@ -1,6 +1,55 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30436",
+      "channel": "xhqcankao",
+      "text": "谷歌云将为科学研究提供专业AI模型谷歌将开始通过旗下云服务提供来自软件公司SandboxAQ的专业人工智能模型，从而扩大企业和研究机构对旨在加速药物发现、材料科学和半导体制造的技术获取。谷歌将把SandboxAQ所谓的大型定量模型添加到其云市场中，使研究人员能够将谷歌的Gemini语言模型与在科学方程和实验室数据上训练的人工智能系统相结合。与擅长生成文本的大型语言模型不同，大型定量模型是在数值数据上训练的，以帮助解决化学、生物学和物理学中的问题。SandboxAQ是Alphabet的衍生公司，属于日益增多的一批专注于利用AI来尝试回答棘手研究问题的公司之一。",
+      "clean_text": "谷歌云将为科学研究提供专业AI模型谷歌将开始通过旗下云服务提供来自软件公司SandboxAQ的专业人工智能模型，从而扩大企业和研究机构对旨在加速药物发现、材料科学和半导体制造的技术获取。谷歌将把SandboxAQ所谓的大型定量模型添加到其云市场中，使研究人员能够将谷歌的Gemini语言模型与在科学方程和实验室数据上训练的人工智能系统相结合。与擅长生成文本的大型语言模型不同，大型定量模型是在数值数据上训练的，以帮助解决化学、生物学和物理学中的问题。SandboxAQ是Alphabet的衍生公司，属于日益增多的一批专注于利用AI来尝试回答棘手研究问题的公司之一。——彭博社",
+      "datetime": "2026-06-29T23:34:07+00:00",
+      "views": "640",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30436",
+      "scraped_at": "2026-06-30T08:00:40.440146",
+      "title": "谷歌云提供专业AI模型",
+      "title_options": {
+        "conclusion": "谷歌云提供专业AI模型",
+        "attractive": "谷歌云加速药物发现",
+        "minimal": "谷歌云AI模型"
+      }
+    },
+    {
+      "id": "xhqcankao_30435",
+      "channel": "xhqcankao",
+      "text": "Rocket Lab豪掷80亿美元收购铱星通信美国商业航天公司Rocket Lab周一宣布，同意收购卫星通信运营商铱星通信(Iridium)，交易估值约80亿美元。这笔交易将使Rocket Lab获得一支现成的卫星星座以及宝贵的无线频谱资源，从而增强其与 SpaceX 竞争的能力。根据Rocket Lab发布的声明，此次交易将以现金加股票的方式进行，对铱星通信的估值为每股54美元，对应企业价值约80亿美元。Rocket Lab表示，此次收购将帮助公司绕开建设卫星通信业务面临的三大“关键障碍”：频谱获取难度高、基础设施部署周期长且在产生收入前需长期投入、以及构建客户基础与稳定经常性现金流所需的多年时间。",
+      "clean_text": "Rocket Lab豪掷80亿美元收购铱星通信美国商业航天公司Rocket Lab周一宣布，同意收购卫星通信运营商铱星通信(Iridium)，交易估值约80亿美元。这笔交易将使Rocket Lab获得一支现成的卫星星座以及宝贵的无线频谱资源，从而增强其与 SpaceX 竞争的能力。根据Rocket Lab发布的声明，此次交易将以现金加股票的方式进行，对铱星通信的估值为每股54美元，对应企业价值约80亿美元。Rocket Lab表示，此次收购将帮助公司绕开建设卫星通信业务面临的三大“关键障碍”：频谱获取难度高、基础设施部署周期长且在产生收入前需长期投入、以及构建客户基础与稳定经常性现金流所需的多年时间。——财联社、Theverge",
+      "datetime": "2026-06-29T23:03:40+00:00",
+      "views": "1.08K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2412087?sv=8.5.9&amp;app=cailianpress"
+        },
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30435",
+      "scraped_at": "2026-06-30T08:00:40.439802",
+      "title": "Rocket Lab 80亿美元收购铱星",
+      "title_options": {
+        "conclusion": "Rocket Lab 80亿美元收购铱星",
+        "attractive": "80亿美元收购，挑战SpaceX",
+        "minimal": "Rocket Lab收购铱星",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30434",
       "channel": "xhqcankao",
       "text": "WhatsApp将在几个月内逐步推出账号功能Meta 公司推出了 WhatsApp 账号功能。从本周开始，用户可以预留账号，以便在今年晚些时候Meta发布此功能时使用。某些用户可能希望保持一致的线上形象。对于这些用户，Meta 公司预留了在 WhatsApp 认领现有 Instagram 或Facebook 账号的选项。平台表示，为帮助控制谁可以在 WhatsApp 通过你的账号联系你，Meta公司打造了可选的账号密钥，其他人需要知道相应密钥才能给你发消息。推出账号功能后，如果你已启用自己的账号，那么当你首次给个人或商家发消息时，对方不会再看到你的电话号码。使用最新版WhatsApp，前往设置 > 账户 > 账号，只需几秒钟即可预留你的可选账号。",
@@ -1040,6 +1089,6 @@
       }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-06-30T08:00:06.453013"
+  "count": 43,
+  "updated_at": "2026-06-30T08:05:10.575017"
 }

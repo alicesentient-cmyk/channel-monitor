@@ -11166,5 +11166,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T01:05:30.215095"
+  },
+  "xhqcankao_30436": {
+    "ai_title": "谷歌云提供专业AI模型",
+    "title_options": {
+      "conclusion": "谷歌云提供专业AI模型",
+      "attractive": "谷歌云加速药物发现",
+      "minimal": "谷歌云AI模型"
+    },
+    "generated_at": "2026-06-30T08:05:10.537974"
+  },
+  "xhqcankao_30435": {
+    "ai_title": "Rocket Lab 80亿美元收购铱星",
+    "title_options": {
+      "conclusion": "Rocket Lab 80亿美元收购铱星",
+      "attractive": "80亿美元收购，挑战SpaceX",
+      "minimal": "Rocket Lab收购铱星",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T08:05:10.546813"
   }
 }
