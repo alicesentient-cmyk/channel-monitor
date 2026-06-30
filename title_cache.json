@@ -11592,5 +11592,32 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T21:00:45.911631"
+  },
+  "xhqcankao_30463": {
+    "ai_title": "美做市商起诉百人内幕交易",
+    "title_options": {
+      "conclusion": "美做市商起诉百人内幕交易",
+      "attractive": "内幕交易获利逾1亿美元",
+      "minimal": "美起诉百人内幕交易"
+    },
+    "generated_at": "2026-06-30T22:01:47.565378"
+  },
+  "zaihuapd_42270": {
+    "ai_title": "小红书IPO前遭前员工举报",
+    "title_options": {
+      "conclusion": "小红书IPO前遭前员工举报",
+      "attractive": "前员工举报小红书合规隐患",
+      "minimal": "小红书IPO举报"
+    },
+    "generated_at": "2026-06-30T22:01:47.607517"
+  },
+  "xhqcankao_30462": {
+    "ai_title": "优步终止与Waymo合作",
+    "title_options": {
+      "conclusion": "优步终止与Waymo合作",
+      "attractive": "Waymo撤出优步凤凰城",
+      "minimal": "优步Waymo终止合作"
+    },
+    "generated_at": "2026-06-30T22:01:47.883151"
   }
 }
