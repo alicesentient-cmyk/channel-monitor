@@ -11185,5 +11185,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T08:05:10.546813"
+  },
+  "zaihuapd_42250": {
+    "ai_title": "OpenClaw移动端上线",
+    "title_options": {
+      "conclusion": "OpenClaw移动端上线",
+      "attractive": "智能体随身运行",
+      "minimal": "OpenClaw iOS Android",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T09:05:47.919793"
+  },
+  "xhqcankao_30438": {
+    "ai_title": "苹果将采用更宽色域OLED",
+    "title_options": {
+      "conclusion": "苹果将采用更宽色域OLED",
+      "attractive": "苹果新屏覆盖95% BT.2020",
+      "minimal": "苹果OLED宽色域",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T09:05:48.093403"
+  },
+  "xhqcankao_30439": {
+    "ai_title": "OpenClaw发布iOS/安卓应用",
+    "title_options": {
+      "conclusion": "OpenClaw发布iOS/安卓应用",
+      "attractive": "智能体AI突破苹果审核",
+      "minimal": "OpenClaw iOS 安卓 应用",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T09:05:48.159338"
+  },
+  "xhqcankao_30437": {
+    "ai_title": "特朗普购Axon股票引争议",
+    "title_options": {
+      "conclusion": "特朗普购Axon股票引争议",
+      "attractive": "总统买股后合同即来",
+      "minimal": "特朗普 Axon 股票 冲突",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T09:05:49.112345"
   }
 }
