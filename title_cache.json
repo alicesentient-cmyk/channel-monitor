@@ -11482,5 +11482,35 @@
       "minimal": "手机定位 搜查令 最高法院"
     },
     "generated_at": "2026-06-30T17:02:09.679722"
+  },
+  "xhqcankao_30456": {
+    "ai_title": "郭文贵诈骗10亿美元被判有罪",
+    "title_options": {
+      "conclusion": "郭文贵诈骗10亿美元被判有罪",
+      "attractive": "郭文贵骗10亿买兰博基尼",
+      "minimal": "郭文贵诈骗10亿判刑",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T18:02:59.444496"
+  },
+  "zaihuapd_42266": {
+    "ai_title": "小米上线官方辟谣阵地",
+    "title_options": {
+      "conclusion": "小米上线官方辟谣阵地",
+      "attractive": "小米辟谣账号上线",
+      "minimal": "小米辟谣上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T18:02:59.488759"
+  },
+  "xhqcankao_30455": {
+    "ai_title": "Gemini生图免费向美国用户开放",
+    "title_options": {
+      "conclusion": "Gemini生图免费向美国用户开放",
+      "attractive": "免费！Gemini个性化生图来了",
+      "minimal": "Gemini免费生图",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T18:02:59.717616"
   }
 }
