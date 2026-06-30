@@ -11708,5 +11708,25 @@
       "minimal": "谷歌新模型开放"
     },
     "generated_at": "2026-07-01T01:04:42.361112"
+  },
+  "zaihuapd_42276": {
+    "ai_title": "Claude上线Linux桌面版",
+    "title_options": {
+      "conclusion": "Claude上线Linux桌面版",
+      "attractive": "Linux用户终获桌面版",
+      "minimal": "Claude Linux桌面版",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T02:05:41.919052"
+  },
+  "zaihuapd_42277": {
+    "ai_title": "Anthropic发布Claude S…",
+    "title_options": {
+      "conclusion": "Anthropic发布Claude S…",
+      "attractive": "Claude Sonnet 4.6性能…",
+      "minimal": "Claude Sonnet 4.6发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T02:05:42.012606"
   }
 }

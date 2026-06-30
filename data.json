@@ -1,6 +1,55 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42277",
+      "channel": "zaihuapd",
+      "text": "Anthropic 发布 Claude Sonnet 4.6，性能与计算机使用能力显著提升  Anthropic 发布 Claude Sonnet 4.6 模型，在编程、计算机操作及长文本推理方面实现全面升级。该模型现已作为 Free 和 Pro 用户的默认版本，并提供 1M token 上下文窗口。测试数据显示，Sonnet 4.6 在处理复杂代码和办公任务时表现优于前代，其计算机使用（Computer Use）能力在 OSWorld 评测中取得显著进步。目前，该模型已在 API 及主流云平台同步上线，定价与…",
+      "clean_text": "🤖Anthropic 发布 Claude Sonnet 4.6，性能与计算机使用能力显著提升  Anthropic 发布 Claude Sonnet 4.6 模型，在编程、计算机操作及长文本推理方面实现全面升级。该模型现已作为 Free 和 Pro 用户的默认版本，并提供 1M token 上下文窗口。测试数据显示，Sonnet 4.6 在处理复杂代码和办公任务时表现优于前代，其计算机使用（Computer Use）能力在 OSWorld 评测中取得显著进步。目前，该模型已在 API 及主流云平台同步上线，定价与…",
+      "datetime": "2026-06-30T17:58:43+00:00",
+      "views": "255",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42277",
+      "scraped_at": "2026-07-01T02:00:54.714609",
+      "title": "Anthropic发布Claude S…",
+      "title_options": {
+        "conclusion": "Anthropic发布Claude S…",
+        "attractive": "Claude Sonnet 4.6性能…",
+        "minimal": "Claude Sonnet 4.6发布",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42276",
+      "channel": "zaihuapd",
+      "text": "Claude Desktop 上线 Linux beta，支持 Ubuntu 与 DebianClaude Desktop 于 6 月 30 日推出 Linux beta 版本，支持 Ubuntu 与 Debian 系统。除浏览器和终端外，付费用户现在可在桌面端直接使用 Claude Code、Claude Cowork 及聊天功能，获得原生的桌面体验。此前，Claude 主要通过浏览器和终端与 Linux 用户交互。此次上线意味着所有付费计划的用户在 Linux 平台也能使用完整的桌面级功能。ClaudeDevs·茶馆水群·",
+      "clean_text": "Claude Desktop 上线 Linux beta，支持 Ubuntu 与 DebianClaude Desktop 于 6 月 30 日推出 Linux beta 版本，支持 Ubuntu 与 Debian 系统。除浏览器和终端外，付费用户现在可在桌面端直接使用 Claude Code、Claude Cowork 及聊天功能，获得原生的桌面体验。此前，Claude 主要通过浏览器和终端与 Linux 用户交互。此次上线意味着所有付费计划的用户在 Linux 平台也能使用完整的桌面级功能。ClaudeDevs·茶馆水群",
+      "datetime": "2026-06-30T17:12:45+00:00",
+      "views": "2.27K",
+      "source_links": [
+        {
+          "text": "ClaudeDevs",
+          "url": "https://x.com/ClaudeDevs/status/2071988881717871065"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42276",
+      "scraped_at": "2026-07-01T02:00:54.713928",
+      "title": "Claude上线Linux桌面版",
+      "title_options": {
+        "conclusion": "Claude上线Linux桌面版",
+        "attractive": "Linux用户终获桌面版",
+        "minimal": "Claude Linux桌面版",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30468",
       "channel": "xhqcankao",
       "text": "英国敦促苹果放宽应用商店支付和NFC规则英国竞争监管机构已提议允许应用开发者引导用户选择苹果App Store和 谷歌Play商店之外的支付选项，此举旨在增加竞争并降低这两家公司收取的费用。英国竞争与市场管理局(CMA)表示，这些提案将取消目前阻止英国开发者引导用户使用平台外支付选项的限制。该监管机构表示，苹果和谷歌为启用此类 “引导” 而向开发者收取的任何费用都必须公平合理，保持低于现有App Store和Play商店的佣金水平，并允许开发者将节省的费用转嫁给消费者或将其再投资于创新。还考虑让苹果开放其NFC技术的访问，该技术用于Apple Pay非接触式支付。这将允许开发者有可能在其应用内提供替代支付选项。",
@@ -1465,37 +1514,6 @@
       }
     },
     {
-      "id": "zaihuapd_42218",
-      "channel": "zaihuapd",
-      "text": "央视曝光手机测评作弊乱象：厂商通过特供机与代码识别博主身份美化数据央视调查发现，数码产品测评领域存在系统性作弊。部分厂商向测评博主提供特供媒体机，固件内置识别程序可在检测到博主身份时自动开启高性能模式，并配合云端远程下发作弊配置。整套作弊体系分为硬件筛选、固件识别与云端调控三层。识别到博主测评后，系统会自动拉高 CPU 性能、调高亮度、仅加载软件界面而非完整应用，营造流畅假象。三重手段叠加使普通消费者难以分辨真假，数码测评公信力持续受损，技术造假取证难度极大，给监管带来很大挑战。央视新闻·茶馆水群·",
-      "clean_text": "央视曝光手机测评作弊乱象：厂商通过特供机与代码识别博主身份美化数据央视调查发现，数码产品测评领域存在系统性作弊。部分厂商向测评博主提供特供媒体机，固件内置识别程序可在检测到博主身份时自动开启高性能模式，并配合云端远程下发作弊配置。整套作弊体系分为硬件筛选、固件识别与云端调控三层。识别到博主测评后，系统会自动拉高 CPU 性能、调高亮度、仅加载软件界面而非完整应用，营造流畅假象。三重手段叠加使普通消费者难以分辨真假，数码测评公信力持续受损，技术造假取证难度极大，给监管带来很大挑战。央视新闻·茶馆水群",
-      "datetime": null,
-      "views": "21K",
-      "source_links": [
-        {
-          "text": "央视新闻",
-          "url": "https://weibo.com/2656274875/5314693197725859"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42218",
-      "scraped_at": "2026-06-29T12:01:01.253511",
-      "title": "央视曝光测评作弊",
-      "title_options": {
-        "conclusion": "央视曝光测评作弊",
-        "attractive": "特供机暗改性能",
-        "minimal": "测评作弊曝光",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1564,6 +1582,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-01T02:00:36.804883"
+  "count": 62,
+  "updated_at": "2026-07-01T02:05:42.030430"
 }
