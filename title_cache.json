@@ -11619,5 +11619,45 @@
       "minimal": "优步Waymo终止合作"
     },
     "generated_at": "2026-06-30T22:01:47.883151"
+  },
+  "zaihuapd_42272": {
+    "ai_title": "多所高校延长硕博学制",
+    "title_options": {
+      "conclusion": "多所高校延长硕博学制",
+      "attractive": "博士改4年硕士延至3年",
+      "minimal": "硕博学制延长",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T23:02:43.514004"
+  },
+  "xhqcankao_30465": {
+    "ai_title": "亚马逊被澳大利亚起诉",
+    "title_options": {
+      "conclusion": "亚马逊被澳大利亚起诉",
+      "attractive": "Prime广告致百万用户多付费",
+      "minimal": "亚马逊Prime广告诉讼",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T23:02:43.571530"
+  },
+  "zaihuapd_42273": {
+    "ai_title": "白宫推SAVE法案要求选民证",
+    "title_options": {
+      "conclusion": "白宫推SAVE法案要求选民证",
+      "attractive": "投票须出示身份证及公民证明",
+      "minimal": "SAVE法案选民证",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T23:02:43.640657"
+  },
+  "xhqcankao_30464": {
+    "ai_title": "韩国拟缩短核电站建设时长",
+    "title_options": {
+      "conclusion": "韩国拟缩短核电站建设时长",
+      "attractive": "AI用电荒促韩加速核电",
+      "minimal": "韩国核电建设缩短",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T23:02:45.004587"
   }
 }
