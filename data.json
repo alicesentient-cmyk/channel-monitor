@@ -1460,29 +1460,6 @@
       }
     },
     {
-      "id": "xhqcankao_30433",
-      "channel": "xhqcankao",
-      "text": "康卡斯特拟将媒体和科技业务分拆为两家独立公司康卡斯特计划通过免税分拆 NBCUniversal 和 Sky，将自身拆分为两家公司。分拆后将诞生两家上市公司：一家保留有线电视和科技业务，另一家则包含NBCUniversal和Sky媒体业务。预计分拆工作将在未来一年内完成。康卡斯特公司现任联席首席执行官迈克·卡瓦纳将挂帅新组建的 NBCUniversal 媒体和娱乐公司，前首席财务官迈克尔·安杰拉基斯则将回归执掌康卡斯特。卡瓦纳表示：“康卡斯特将继续巩固其在网络连接领域的领导地位；而NBCUniversal携手Sky，将拥有足够的规模、品牌、内容及财务资源，作为一家顶尖全球媒体和娱乐公司参与竞争。”",
-      "clean_text": "康卡斯特拟将媒体和科技业务分拆为两家独立公司康卡斯特计划通过免税分拆 NBCUniversal 和 Sky，将自身拆分为两家公司。分拆后将诞生两家上市公司：一家保留有线电视和科技业务，另一家则包含NBCUniversal和Sky媒体业务。预计分拆工作将在未来一年内完成。康卡斯特公司现任联席首席执行官迈克·卡瓦纳将挂帅新组建的 NBCUniversal 媒体和娱乐公司，前首席财务官迈克尔·安杰拉基斯则将回归执掌康卡斯特。卡瓦纳表示：“康卡斯特将继续巩固其在网络连接领域的领导地位；而NBCUniversal携手Sky，将拥有足够的规模、品牌、内容及财务资源，作为一家顶尖全球媒体和娱乐公司参与竞争。”——华尔街日报",
-      "datetime": "2026-06-29T14:42:49+00:00",
-      "views": "3.08K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/comcast-to-split-media-and-tech-businesses-into-two-separate-companies-27e94061?mod=cn_hp_featst_pos5"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30433",
-      "scraped_at": "2026-06-30T01:05:15.786382",
-      "title": "康卡斯特分拆媒体科技业务",
-      "title_options": {
-        "conclusion": "康卡斯特分拆媒体科技业务",
-        "attractive": "康卡斯特分拆为两家上市公司",
-        "minimal": "康卡斯特分拆",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1551,6 +1528,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-01T02:41:09.950048"
+  "count": 60,
+  "updated_at": "2026-07-01T02:46:13.945428"
 }
