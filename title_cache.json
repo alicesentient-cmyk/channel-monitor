@@ -11453,5 +11453,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T16:01:21.167270"
+  },
+  "xhqcankao_30454": {
+    "ai_title": "加州半价用Claude",
+    "title_options": {
+      "conclusion": "加州半价用Claude",
+      "attractive": "AI订阅半价省成本",
+      "minimal": "加州Claude协议",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T17:02:09.301052"
+  },
+  "zaihuapd_42265": {
+    "ai_title": "存储涨价致手机砍单",
+    "title_options": {
+      "conclusion": "存储涨价致手机砍单",
+      "attractive": "手机厂商集体砍单20%",
+      "minimal": "存储涨价 手机砍单",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T17:02:09.331766"
+  },
+  "xhqcankao_30453": {
+    "ai_title": "美最高法院：获取手机定位需搜查令",
+    "title_options": {
+      "conclusion": "美最高法院：获取手机定位需搜查令",
+      "attractive": "手机定位数据隐私权获保障",
+      "minimal": "手机定位 搜查令 最高法院"
+    },
+    "generated_at": "2026-06-30T17:02:09.679722"
   }
 }

@@ -1,6 +1,73 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42265",
+      "channel": "zaihuapd",
+      "text": "存储芯片涨价致手机厂商集体砍单，行业或迎下滑周期  受存储芯片价格持续上涨影响，多家手机厂商已下调2026年生产目标。其中，小米、OPPO订单下调超20%，vivo下调近15%，传音亦调低目标。厂商普遍将调整重点放在中低端及海外机型。  TrendForce预测，2026年智能手机产量或下滑7%，终端售价可能被迫上涨，市场整体将进入收缩阶段。",
+      "clean_text": "存储芯片涨价致手机厂商集体砍单，行业或迎下滑周期  受存储芯片价格持续上涨影响，多家手机厂商已下调2026年生产目标。其中，小米、OPPO订单下调超20%，vivo下调近15%，传音亦调低目标。厂商普遍将调整重点放在中低端及海外机型。  TrendForce预测，2026年智能手机产量或下滑7%，终端售价可能被迫上涨，市场整体将进入收缩阶段。  IT之家🍀在花频道🍵茶馆聊天📮投稿",
+      "datetime": "2026-06-30T08:44:31+00:00",
+      "views": "2.69K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42265",
+      "scraped_at": "2026-06-30T17:01:14.605923",
+      "title": "存储涨价致手机砍单",
+      "title_options": {
+        "conclusion": "存储涨价致手机砍单",
+        "attractive": "手机厂商集体砍单20%",
+        "minimal": "存储涨价 手机砍单",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30454",
+      "channel": "xhqcankao",
+      "text": "加州与Anthropic达成半价使用Claude协议美国加州州长加文·纽森与Anthropic公司达成了一项协议，允许加州政府机构以半价使用 Claude 。这项协议达成之际，企业正在努力应对企业级人工智能工具订阅的高昂成本。根据该协议，所有州机构和地方政府都将获得Anthropic的AI聊天机器人Claude的使用权，以及Anthropic提供的培训和支持。州长办公室发布的一份新闻稿称，Claude将帮助州政府雇员起草文件和分析信息。州长纽森在一份声明中表示：“人工智能不应取代政府的人力工作；它应该帮助我们的工作人员更快地行动、更有效地解决问题，并为加州人民带来更好的结果。”",
+      "clean_text": "加州与Anthropic达成半价使用Claude协议美国加州州长加文·纽森与Anthropic公司达成了一项协议，允许加州政府机构以半价使用 Claude 。这项协议达成之际，企业正在努力应对企业级人工智能工具订阅的高昂成本。根据该协议，所有州机构和地方政府都将获得Anthropic的AI聊天机器人Claude的使用权，以及Anthropic提供的培训和支持。州长办公室发布的一份新闻稿称，Claude将帮助州政府雇员起草文件和分析信息。州长纽森在一份声明中表示：“人工智能不应取代政府的人力工作；它应该帮助我们的工作人员更快地行动、更有效地解决问题，并为加州人民带来更好的结果。”——Techcrunch",
+      "datetime": "2026-06-30T08:34:37+00:00",
+      "views": "1.28K",
+      "source_links": [
+        {
+          "text": "以半价",
+          "url": "https://www.inside.com.tw/article/41680-anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30454",
+      "scraped_at": "2026-06-30T17:01:16.332750",
+      "title": "加州半价用Claude",
+      "title_options": {
+        "conclusion": "加州半价用Claude",
+        "attractive": "AI订阅半价省成本",
+        "minimal": "加州Claude协议",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30453",
+      "channel": "xhqcankao",
+      "text": "美最高法院称获取手机定位数据需要搜查令美国最高法院对执法部门的一项侦查技术做出了限制，该技术利用手机用户定位历史数据来识别犯罪现场附近的人员。大法官们在周一以六比三的裁决表示，执法部门获取此类定位历史数据构成第四修正案意义上的搜查，并需要搜查令。然而，多数派的裁决拒绝就此类搜查令何时合法或侵犯个人宪法权利的界限发表意见。执法部门部署所谓的地理围栏搜查令，以试图发现在犯罪发生时间前后在犯罪现场附近被记录的手机。大法官埃琳娜·卡根代表法院撰文表示，由于现代手机的普遍性，个人对于其手机定位的记录享有合理的隐私期待。",
+      "clean_text": "美最高法院称获取手机定位数据需要搜查令美国最高法院对执法部门的一项侦查技术做出了限制，该技术利用手机用户定位历史数据来识别犯罪现场附近的人员。大法官们在周一以六比三的裁决表示，执法部门获取此类定位历史数据构成第四修正案意义上的搜查，并需要搜查令。然而，多数派的裁决拒绝就此类搜查令何时合法或侵犯个人宪法权利的界限发表意见。执法部门部署所谓的地理围栏搜查令，以试图发现在犯罪发生时间前后在犯罪现场附近被记录的手机。大法官埃琳娜·卡根代表法院撰文表示，由于现代手机的普遍性，个人对于其手机定位的记录享有合理的隐私期待。——彭博社",
+      "datetime": "2026-06-30T08:01:30+00:00",
+      "views": "2.22K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/supreme-court-says-warrant-needed-for-phone-location-data"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30453",
+      "scraped_at": "2026-06-30T17:01:16.332388",
+      "title": "美最高法院：获取手机定位需搜查令",
+      "title_options": {
+        "conclusion": "美最高法院：获取手机定位需搜查令",
+        "attractive": "手机定位数据隐私权获保障",
+        "minimal": "手机定位 搜查令 最高法院"
+      }
+    },
+    {
       "id": "zaihuapd_42261",
       "channel": "zaihuapd",
       "text": "iPhone 18 Pro 耐用性测试视频曝光一段 iPhone 18 Pro 耐用性测试内容已在网上出现。发布者称，这次曝光是苹果 iPhone 机型史上规模最大的信息泄露。Majin (@MajinBuofficia)另外，塔塔电子据称遭勒索软件攻击，超过 20 万份文件被 World Leaks 发布到暗网，涉及苹果供应链数据。新文件显示，至少 6 份文件把 iPhone 18 Pro 的主电路板、电池、相机等部件对应到具体供应商，部分文件带有苹果“机密”标记和内部代号。路透社·茶馆水群·",
@@ -1481,6 +1548,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-06-30T16:57:02.769309"
+  "count": 60,
+  "updated_at": "2026-06-30T17:02:09.698017"
 }
