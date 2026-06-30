@@ -1336,36 +1336,6 @@
       }
     },
     {
-      "id": "zaihuapd_42233",
-      "channel": "zaihuapd",
-      "text": "微软回应 Mac 用户嘲讽：Edge 是“最好的浏览器”一名用户在 X 上嘲讽 Mac 用户使用 Edge，相关帖子浏览量超过 38 万次。微软 Edge 官方账号随后转发回应，称 Edge 是“最好的浏览器”。不少 Mac 用户则在评论区为 Edge 辩护，主要理由包括内存占用较低、性能较好，以及与 Microsoft 365、Intune 和跨设备同步功能衔接更顺畅。Windows Latest⁠·茶馆水群·",
-      "clean_text": "微软回应 Mac 用户嘲讽：Edge 是“最好的浏览器”一名用户在 X 上嘲讽 Mac 用户使用 Edge，相关帖子浏览量超过 38 万次。微软 Edge 官方账号随后转发回应，称 Edge 是“最好的浏览器”。不少 Mac 用户则在评论区为 Edge 辩护，主要理由包括内存占用较低、性能较好，以及与 Microsoft 365、Intune 和跨设备同步功能衔接更顺畅。Windows Latest⁠·茶馆水群",
-      "datetime": "2026-06-29T02:47:59+00:00",
-      "views": "6.13K",
-      "source_links": [
-        {
-          "text": "Windows Latest",
-          "url": "https://www.windowslatest.com/2026/06/28/microsoft-edge-claps-back-at-users-mocking-mac-usage-calls-itself-the-best-browser/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42233",
-      "scraped_at": "2026-06-29T12:01:01.261877",
-      "title": "微软称Edge最佳浏览器",
-      "title_options": {
-        "conclusion": "微软称Edge最佳浏览器",
-        "attractive": "38万浏览后微软回应",
-        "minimal": "微软Edge最佳浏览器"
-      }
-    },
-    {
       "id": "zaihuapd_42216",
       "channel": "zaihuapd",
       "text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群·",
@@ -1466,6 +1436,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-06-30T14:45:16.266070"
+  "count": 55,
+  "updated_at": "2026-06-30T14:50:21.087357"
 }
