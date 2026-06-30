@@ -1388,29 +1388,6 @@
       }
     },
     {
-      "id": "xhqcankao_30434",
-      "channel": "xhqcankao",
-      "text": "WhatsApp将在几个月内逐步推出账号功能Meta 公司推出了 WhatsApp 账号功能。从本周开始，用户可以预留账号，以便在今年晚些时候Meta发布此功能时使用。某些用户可能希望保持一致的线上形象。对于这些用户，Meta 公司预留了在 WhatsApp 认领现有 Instagram 或Facebook 账号的选项。平台表示，为帮助控制谁可以在 WhatsApp 通过你的账号联系你，Meta公司打造了可选的账号密钥，其他人需要知道相应密钥才能给你发消息。推出账号功能后，如果你已启用自己的账号，那么当你首次给个人或商家发消息时，对方不会再看到你的电话号码。使用最新版WhatsApp，前往设置 > 账户 > 账号，只需几秒钟即可预留你的可选账号。",
-      "clean_text": "WhatsApp将在几个月内逐步推出账号功能Meta 公司推出了 WhatsApp 账号功能。从本周开始，用户可以预留账号，以便在今年晚些时候Meta发布此功能时使用。某些用户可能希望保持一致的线上形象。对于这些用户，Meta 公司预留了在 WhatsApp 认领现有 Instagram 或Facebook 账号的选项。平台表示，为帮助控制谁可以在 WhatsApp 通过你的账号联系你，Meta公司打造了可选的账号密钥，其他人需要知道相应密钥才能给你发消息。推出账号功能后，如果你已启用自己的账号，那么当你首次给个人或商家发消息时，对方不会再看到你的电话号码。使用最新版WhatsApp，前往设置 > 账户 > 账号，只需几秒钟即可预留你的可选账号。——WhatsApp博客",
-      "datetime": "2026-06-29T16:24:18+00:00",
-      "views": "1.16K",
-      "source_links": [
-        {
-          "text": "WhatsApp博客",
-          "url": "https://blog.whatsapp.com/its-time-to-reserve-your-whatsapp-username"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30434",
-      "scraped_at": "2026-06-30T01:05:15.786876",
-      "title": "WhatsApp隐藏手机号",
-      "title_options": {
-        "conclusion": "WhatsApp推账号功能",
-        "attractive": "WhatsApp隐藏手机号",
-        "minimal": "WhatsApp账号",
-        "best": "attractive"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1479,6 +1456,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-01T04:22:18.910452"
+  "count": 57,
+  "updated_at": "2026-07-01T04:27:21.609689"
 }
