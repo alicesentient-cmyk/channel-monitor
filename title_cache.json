@@ -11512,5 +11512,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T18:02:59.717616"
+  },
+  "zaihuapd_42267": {
+    "ai_title": "Claude Code被指隐蔽遥测",
+    "title_options": {
+      "conclusion": "Claude Code被指隐蔽遥测",
+      "attractive": "Claude Code暗传中国数据",
+      "minimal": "Claude Code遥测争议",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T19:03:48.944739"
+  },
+  "xhqcankao_30458": {
+    "ai_title": "OpenAI将推Codex硬件",
+    "title_options": {
+      "conclusion": "OpenAI将推Codex硬件",
+      "attractive": "Codex实体按键配件",
+      "minimal": "OpenAI硬件配件",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T19:03:48.951199"
+  },
+  "xhqcankao_30457": {
+    "ai_title": "美提案禁售健康数据",
+    "title_options": {
+      "conclusion": "美提案禁售健康数据",
+      "attractive": "AI聊天数据也禁售",
+      "minimal": "健康数据禁售",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T19:03:49.043913"
   }
 }
