@@ -11562,5 +11562,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T20:04:52.764198"
+  },
+  "zaihuapd_42269": {
+    "ai_title": "英国拟放宽应用支付规则",
+    "title_options": {
+      "conclusion": "英国拟放宽应用支付规则",
+      "attractive": "苹果谷歌支付规则将变",
+      "minimal": "英国放宽支付规则",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T21:00:45.714023"
+  },
+  "xhqcankao_30460": {
+    "ai_title": "首尔抽检5款中国儿童用品不达标",
+    "title_options": {
+      "conclusion": "首尔抽检5款中国儿童用品不达标",
+      "attractive": "海淘童鞋增塑剂超标284倍",
+      "minimal": "首尔·海淘·儿童用品·不达标",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T21:00:45.754790"
+  },
+  "xhqcankao_30461": {
+    "ai_title": "英伟达老款GPU在美重售",
+    "title_options": {
+      "conclusion": "英伟达老款GPU在美重售",
+      "attractive": "RTX 3060涨价10美元",
+      "minimal": "英伟达RTX 3060重售",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T21:00:45.911631"
   }
 }
