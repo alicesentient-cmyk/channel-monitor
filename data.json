@@ -1483,37 +1483,6 @@
       }
     },
     {
-      "id": "zaihuapd_42247",
-      "channel": "zaihuapd",
-      "text": "OpenAI 查 Codex 额度异常消耗并重置上限OpenAI 正调查 Codex 用户额度异常快速消耗问题，并已重置所有用户的额度上限。状态页面显示，部分用户的 Codex 额度“消耗速度超出预期”，根源是平台防滥用、反欺诈风控系统错误地对部分账户限流。IT之家·茶馆水群·",
-      "clean_text": "OpenAI 查 Codex 额度异常消耗并重置上限OpenAI 正调查 Codex 用户额度异常快速消耗问题，并已重置所有用户的额度上限。状态页面显示，部分用户的 Codex 额度“消耗速度超出预期”，根源是平台防滥用、反欺诈风控系统错误地对部分账户限流。IT之家·茶馆水群",
-      "datetime": "2026-06-29T14:29:40+00:00",
-      "views": "8.53K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/970/200.htm"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42247",
-      "scraped_at": "2026-06-30T01:05:13.691657",
-      "title": "OpenAI重置Codex额度上限",
-      "title_options": {
-        "conclusion": "OpenAI重置Codex额度上限",
-        "attractive": "Codex额度异常消耗被查",
-        "minimal": "Codex额度异常重置",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1582,6 +1551,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-01T02:25:58.876875"
+  "count": 61,
+  "updated_at": "2026-07-01T02:31:02.620722"
 }
