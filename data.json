@@ -1542,41 +1542,6 @@
       }
     },
     {
-      "id": "zaihuapd_42242",
-      "channel": "zaihuapd",
-      "text": "LINE 8 月起适配 iOS 26：部分主题菜单图标暂回退默认样式LINE 将从 2026 年 8 月起更新 LINE app 以适配 iOS 26，更新涉及整体外观调整，包括设计、布局、颜色、字体和图像，主题设计也将同步变化。新设计仅对运行 iOS 26 且 LINE 版本不低于 26.12 的用户生效，Android 与旧版 iOS 用户不受影响。由于适配进度不一，部分主题届时可能无法完全兼容 iOS 26，其菜单图标将替换为 LINE 默认样式；后续会逐步推送各主题的兼容更新，但具体时间未定。LINE STORE|LINE Help Center·茶馆水群·",
-      "clean_text": "LINE 8 月起适配 iOS 26：部分主题菜单图标暂回退默认样式LINE 将从 2026 年 8 月起更新 LINE app 以适配 iOS 26，更新涉及整体外观调整，包括设计、布局、颜色、字体和图像，主题设计也将同步变化。新设计仅对运行 iOS 26 且 LINE 版本不低于 26.12 的用户生效，Android 与旧版 iOS 用户不受影响。由于适配进度不一，部分主题届时可能无法完全兼容 iOS 26，其菜单图标将替换为 LINE 默认样式；后续会逐步推送各主题的兼容更新，但具体时间未定。LINE STORE|LINE Help Center·茶馆水群",
-      "datetime": "2026-06-29T12:16:17+00:00",
-      "views": "11.6K",
-      "source_links": [
-        {
-          "text": "LINE STORE",
-          "url": "https://store.line.me/notice/100026633/"
-        },
-        {
-          "text": "LINE Help Center",
-          "url": "https://help2.line.me/line/smartphone?contentId=200002215"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42242",
-      "scraped_at": "2026-06-30T01:05:13.690184",
-      "title": "LINE 8月起适配iOS 26",
-      "title_options": {
-        "conclusion": "LINE 8月起适配iOS 26",
-        "attractive": "部分主题图标回退默认",
-        "minimal": "LINE iOS 26适配",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42216",
       "channel": "zaihuapd",
       "text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群·",
@@ -1677,6 +1642,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-07-01T00:13:56.223882"
+  "count": 64,
+  "updated_at": "2026-07-01T00:19:00.600039"
 }
