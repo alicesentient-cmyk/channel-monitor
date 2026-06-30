@@ -1425,29 +1425,6 @@
       }
     },
     {
-      "id": "xhqcankao_30421",
-      "channel": "xhqcankao",
-      "text": "Anthropic或于本周恢复提供AI模型“Fable”预计Anthropic继尖端AI“Claude Mythos”之后，近期将恢复提供同等性能的“Fable”。中国企业也出现了先进模型，有声音担忧美国企业能否保持竞争优势。据称 Anthropic 最早将在一周内重新向大众提供“Fable”。由于安全保障方面的理由，美政府6月12日下令停止提供服务，但预计将被允许解禁。关于安全对策，据称美国政府与 Anthropic 的协商已朝着达成一致取得进展。 Anthropic的尖端AI模型有两种，分别是发现系统漏洞的能力高、不向大众公开的Mythos，以及调低网络领域等的性能、向大众提供的Fable。美国政府本月12日将这两种产品列为出口管制对象，Anthropic停止提供服务。",
-      "clean_text": "Anthropic或于本周恢复提供AI模型“Fable”预计Anthropic继尖端AI“Claude Mythos”之后，近期将恢复提供同等性能的“Fable”。中国企业也出现了先进模型，有声音担忧美国企业能否保持竞争优势。据称 Anthropic 最早将在一周内重新向大众提供“Fable”。由于安全保障方面的理由，美政府6月12日下令停止提供服务，但预计将被允许解禁。关于安全对策，据称美国政府与 Anthropic 的协商已朝着达成一致取得进展。 Anthropic的尖端AI模型有两种，分别是发现系统漏洞的能力高、不向大众公开的Mythos，以及调低网络领域等的性能、向大众提供的Fable。美国政府本月12日将这两种产品列为出口管制对象，Anthropic停止提供服务。——日经新闻",
-      "datetime": "2026-06-29T05:06:27+00:00",
-      "views": "5.3K",
-      "source_links": [
-        {
-          "text": "日经新闻",
-          "url": "http://cn.nikkei.com/industry/itelectric-appliance/63046-2026-06-29-11-03-29.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30421",
-      "scraped_at": "2026-06-29T18:00:20.388247",
-      "title": "Anthropic将恢复提供Fable",
-      "title_options": {
-        "conclusion": "Anthropic将恢复提供Fable",
-        "attractive": "美政府解禁Anthropic AI",
-        "minimal": "Anthropic Fable 恢复",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42216",
       "channel": "zaihuapd",
       "text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群·",
@@ -1548,6 +1525,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-06-30T17:02:09.698017"
+  "count": 59,
+  "updated_at": "2026-06-30T17:07:14.385010"
 }
