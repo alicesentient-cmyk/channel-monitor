@@ -11244,5 +11244,54 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T10:01:27.644375"
+  },
+  "xhqcankao_30443": {
+    "ai_title": "苹果担忧塔塔泄露iPhone18数据",
+    "title_options": {
+      "conclusion": "苹果担忧塔塔泄露iPhone18数据",
+      "attractive": "塔塔泄露iPhone18 Pro机密",
+      "minimal": "塔塔泄露iPhone18数据",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T11:02:13.109284"
+  },
+  "zaihuapd_42253": {
+    "ai_title": "Tesla推送FSD v14 Lite",
+    "title_options": {
+      "conclusion": "Tesla推送FSD v14 Lite",
+      "attractive": "HW3获HW4级智驾",
+      "minimal": "FSD v14 Lite发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T11:02:13.171349"
+  },
+  "xhqcankao_30442": {
+    "ai_title": "欧洲热浪东移多国发高温预警",
+    "title_options": {
+      "conclusion": "欧洲热浪东移多国发高温预警",
+      "attractive": "欧洲热浪已致上千人死亡",
+      "minimal": "热浪东移高温预警",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T11:02:13.171363"
+  },
+  "xhqcankao_30441": {
+    "ai_title": "苹果提前发布安全更新",
+    "title_options": {
+      "conclusion": "苹果提前发布安全更新",
+      "attractive": "AI加速黑客，苹果急更新",
+      "minimal": "苹果安全更新提前",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T11:02:14.358266"
+  },
+  "zaihuapd_42254": {
+    "ai_title": "OpenAI联手Work Louder…",
+    "title_options": {
+      "conclusion": "OpenAI联手Work Louder…",
+      "attractive": "Codex快捷键升级，7月15日发布",
+      "minimal": "OpenAI Work Louder …"
+    },
+    "generated_at": "2026-06-30T11:02:14.659632"
   }
 }

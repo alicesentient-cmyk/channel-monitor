@@ -1,6 +1,114 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30443",
+      "channel": "xhqcankao",
+      "text": "苹果对塔塔泄露iPhone18 Pro数据表示担忧苹果公司对其印度制造合作伙伴之一塔塔电子近期发生的数据泄露事件表示担忧。塔塔电子成为了网络攻击的目标，导致苹果公司的机密文件被盗并在暗网上分享。黑客得以窃取有关 iPhone 18 Pro 和 iPhone 18 Pro Max 的信息，包括供应商列表、部件以及这些设备的图像。包含组件设计和规格的详细文件已被泄露，泄露的部分数据包括电子邮件、事件日志、来自台积电和高通的文件以及关于旧款iPhone的信息。路透社报道，至少六份文件显示了“数百个”iPhone 18 Pro组件，包括主电路板上的芯片细节以及电池和摄像头组件。泄露的文件带有 “机密” 苹果水印和 iPhone 18 Pro 型号的苹果内部代号以及iPhone在跌落测试中的图片。",
+      "clean_text": "苹果对塔塔泄露iPhone18 Pro数据表示担忧苹果公司对其印度制造合作伙伴之一塔塔电子近期发生的数据泄露事件表示担忧。塔塔电子成为了网络攻击的目标，导致苹果公司的机密文件被盗并在暗网上分享。黑客得以窃取有关 iPhone 18 Pro 和 iPhone 18 Pro Max 的信息，包括供应商列表、部件以及这些设备的图像。包含组件设计和规格的详细文件已被泄露，泄露的部分数据包括电子邮件、事件日志、来自台积电和高通的文件以及关于旧款iPhone的信息。路透社报道，至少六份文件显示了“数百个”iPhone 18 Pro组件，包括主电路板上的芯片细节以及电池和摄像头组件。泄露的文件带有 “机密” 苹果水印和 iPhone 18 Pro 型号的苹果内部代号以及iPhone在跌落测试中的图片。——Macrumors",
+      "datetime": "2026-06-30T03:01:04+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "——Macrumors",
+          "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30443",
+      "scraped_at": "2026-06-30T11:01:08.487208",
+      "title": "苹果担忧塔塔泄露iPhone18数据",
+      "title_options": {
+        "conclusion": "苹果担忧塔塔泄露iPhone18数据",
+        "attractive": "塔塔泄露iPhone18 Pro机密",
+        "minimal": "塔塔泄露iPhone18数据",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30442",
+      "channel": "xhqcankao",
+      "text": "欧洲热浪持续东移 多国发布高温红色预警随着席卷西欧并刷新多项高温纪录的\"热穹顶(heat dome)\"继续向东移动，欧洲中部、东部及南部地区周一遭遇持续高温天气，新一轮危险高温正笼罩更大范围的欧洲大陆。根据欧洲中期天气预报中心的预测模型，匈牙利首都布达佩斯本周二最高气温预计将超过40摄氏度。随着热浪东移，塞尔维亚首都贝尔格莱德和罗马尼亚首都布加勒斯特周一最高气温分别达到38摄氏度和37摄氏度。自6月21日以来，欧洲已有上千例超额死亡记录与高温天气有关。为帮助居民避暑，匈牙利政府公布了全国逾2000处配备空调的避暑中心，供家中无法有效降温的居民使用。",
+      "clean_text": "欧洲热浪持续东移 多国发布高温红色预警随着席卷西欧并刷新多项高温纪录的\"热穹顶(heat dome)\"继续向东移动，欧洲中部、东部及南部地区周一遭遇持续高温天气，新一轮危险高温正笼罩更大范围的欧洲大陆。根据欧洲中期天气预报中心的预测模型，匈牙利首都布达佩斯本周二最高气温预计将超过40摄氏度。随着热浪东移，塞尔维亚首都贝尔格莱德和罗马尼亚首都布加勒斯特周一最高气温分别达到38摄氏度和37摄氏度。自6月21日以来，欧洲已有上千例超额死亡记录与高温天气有关。为帮助居民避暑，匈牙利政府公布了全国逾2000处配备空调的避暑中心，供家中无法有效降温的居民使用。——财联社",
+      "datetime": "2026-06-30T02:30:22+00:00",
+      "views": "1.18K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2412219?sv=8.7.9&amp;app=cailianpress"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30442",
+      "scraped_at": "2026-06-30T11:01:08.486898",
+      "title": "欧洲热浪东移多国发高温预警",
+      "title_options": {
+        "conclusion": "欧洲热浪东移多国发高温预警",
+        "attractive": "欧洲热浪已致上千人死亡",
+        "minimal": "热浪东移高温预警",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42253",
+      "channel": "zaihuapd",
+      "text": "Tesla 推送 FSD v14 Lite，HW3 车型获 HW4 级智驾与自动泊车能力Tesla 于 6 月 29 日发布 FSD v14 Lite，将 HW4 版 V14 的智能提炼至 HW3 硬件，使 HW3 车辆可直接学习 HW4 的处理方式，从而解锁强化学习（RL）与离线模型等此前 HW4 独占的能力。新版本在导航处理、并线分叉、行人交互、交通灯和车辆切入等场景的主动与被动响应均有提升，同时减少错误减速、优化转向平顺性与车道居中表现。此外，该更新首次引入停车、出库和倒车功能，用户可预设停车场、街道、车道或路边等到达选项；速度配置文件也改为全时段可用，以进一步自定义驾驶风格。Tesla AI·茶馆水群·",
+      "clean_text": "Tesla 推送 FSD v14 Lite，HW3 车型获 HW4 级智驾与自动泊车能力Tesla 于 6 月 29 日发布 FSD v14 Lite，将 HW4 版 V14 的智能提炼至 HW3 硬件，使 HW3 车辆可直接学习 HW4 的处理方式，从而解锁强化学习（RL）与离线模型等此前 HW4 独占的能力。新版本在导航处理、并线分叉、行人交互、交通灯和车辆切入等场景的主动与被动响应均有提升，同时减少错误减速、优化转向平顺性与车道居中表现。此外，该更新首次引入停车、出库和倒车功能，用户可预设停车场、街道、车道或路边等到达选项；速度配置文件也改为全时段可用，以进一步自定义驾驶风格。Tesla AI·茶馆水群",
+      "datetime": "2026-06-30T02:26:36+00:00",
+      "views": "3.57K",
+      "source_links": [
+        {
+          "text": "Tesla AI",
+          "url": "https://x.com/Tesla_AI/status/2071592820889260101"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42253",
+      "scraped_at": "2026-06-30T11:01:06.784877",
+      "title": "Tesla推送FSD v14 Lite",
+      "title_options": {
+        "conclusion": "Tesla推送FSD v14 Lite",
+        "attractive": "HW3获HW4级智驾",
+        "minimal": "FSD v14 Lite发布",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30441",
+      "channel": "xhqcankao",
+      "text": "苹果提前发布更新应对AI网络安全问题苹果公司今天发布了 iOS 26.5.2、iPadOS 26.5.2 和macOS Tahoe 26.5.2，其中包含大量安全修复程序。对此，苹果公司称，将提前推出一系列软件更新。这些更新原本会与新版 iOS 操作系统一同打包发布，但为了应对人工智能带来的安全风险，将比以往更早向用户开放。苹果表示，鉴于人工智能能够加速恶意黑客工具的开发，苹果正在适应这一现实。以前，除非安全专家发现针对某个此前未知软件漏洞的黑客攻击活动，否则苹果通常会在 iOS 版本升级时一并发布安全更新，例如从当前的26.5版本升级到计划中的26.6版本。不过，苹果表示，最新一轮安全更新将改变这一惯例，在iOS 26.6正式广泛发布之前，就会提前向所有用户开放。",
+      "clean_text": "苹果提前发布更新应对AI网络安全问题苹果公司今天发布了 iOS 26.5.2、iPadOS 26.5.2 和macOS Tahoe 26.5.2，其中包含大量安全修复程序。对此，苹果公司称，将提前推出一系列软件更新。这些更新原本会与新版 iOS 操作系统一同打包发布，但为了应对人工智能带来的安全风险，将比以往更早向用户开放。苹果表示，鉴于人工智能能够加速恶意黑客工具的开发，苹果正在适应这一现实。以前，除非安全专家发现针对某个此前未知软件漏洞的黑客攻击活动，否则苹果通常会在 iOS 版本升级时一并发布安全更新，例如从当前的26.5版本升级到计划中的26.6版本。不过，苹果表示，最新一轮安全更新将改变这一惯例，在iOS 26.6正式广泛发布之前，就会提前向所有用户开放。——凤凰网科技、路透社、Macrumors",
+      "datetime": "2026-06-30T02:02:46+00:00",
+      "views": "2.03K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006A4XwVu1JgOZanmPXXY--ssbHf8ecOhnlQUUC25bEnK8tcwllougjOYETTzD--Zw6Kx"
+        },
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/"
+        },
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30441",
+      "scraped_at": "2026-06-30T11:01:08.486521",
+      "title": "苹果提前发布安全更新",
+      "title_options": {
+        "conclusion": "苹果提前发布安全更新",
+        "attractive": "AI加速黑客，苹果急更新",
+        "minimal": "苹果安全更新提前",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42251",
       "channel": "zaihuapd",
       "text": "广州地铁新增境外银行卡\"拍卡过闸\"功能  自 10 月 12 日起，广州地铁新增支持四大国际卡组织的银行卡非接触式\"拍卡过闸\"功能，包括境外发行的万事达卡、美国运通卡、维萨卡、JCB 卡，以及境内发行并支持人民币交易的万事达卡、美国运通卡。外籍乘客持卡可在所有车站标有卡组织标识的闸机直接过闸，无需提前购票或下载应用程序。  此举在第 138 届广交会举办前夕上线，旨在提升外籍乘客出行便利性，有效满足外商多样化支付需求。广州地铁\"地铁悠选\"超市也将于 10 月底前全面实现五大卡组织支付服务。  21 经济网…",
@@ -1216,8 +1324,46 @@
         "minimal": "测评作弊曝光",
         "best": "conclusion"
       }
+    },
+    {
+      "id": "zaihuapd_42254",
+      "channel": "zaihuapd",
+      "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
+      "clean_text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群",
+      "datetime": null,
+      "views": "1.78K",
+      "source_links": [
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder"
+        },
+        {
+          "text": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/"
+        },
+        {
+          "text": "新浪财经",
+          "url": "https://finance.sina.com.cn/stock/t/2026-01-20/doc-inhhxkqz6259678.shtml"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42254",
+      "scraped_at": "2026-06-30T11:01:06.785975",
+      "title": "OpenAI联手Work Louder…",
+      "title_options": {
+        "conclusion": "OpenAI联手Work Louder…",
+        "attractive": "Codex快捷键升级，7月15日发布",
+        "minimal": "OpenAI Work Louder …"
+      }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-06-30T10:57:08.187735"
+  "count": 53,
+  "updated_at": "2026-06-30T11:02:14.677609"
 }
