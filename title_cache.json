@@ -11293,5 +11293,35 @@
       "minimal": "OpenAI Work Louder …"
     },
     "generated_at": "2026-06-30T11:02:14.659632"
+  },
+  "zaihuapd_42256": {
+    "ai_title": "美最高法：查手机位置需搜查令",
+    "title_options": {
+      "conclusion": "美最高法：查手机位置需搜查令",
+      "attractive": "手机位置数据受第四修正案保护",
+      "minimal": "手机位置数据需搜查令",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T12:03:01.884545"
+  },
+  "zaihuapd_42255": {
+    "ai_title": "寒武纪成科创板首家万亿市值公司",
+    "title_options": {
+      "conclusion": "寒武纪成科创板首家万亿市值公司",
+      "attractive": "寒武纪市值破万亿，年初涨超75%",
+      "minimal": "寒武纪万亿市值科创板首例",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T12:03:01.969878"
+  },
+  "xhqcankao_30444": {
+    "ai_title": "美最高院裁定特朗普可解职FTC成员",
+    "title_options": {
+      "conclusion": "美最高院裁定特朗普可解职FTC成员",
+      "attractive": "总统权力扩大，独立机构受控",
+      "minimal": "特朗普解职FTC成员",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T12:03:02.078991"
   }
 }
