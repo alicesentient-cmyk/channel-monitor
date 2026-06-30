@@ -11383,5 +11383,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T14:04:43.093291"
+  },
+  "xhqcankao_30449": {
+    "ai_title": "阿里腾讯失华盛顿游说代表",
+    "title_options": {
+      "conclusion": "阿里腾讯失华盛顿游说代表",
+      "attractive": "美新规致阿里腾讯游说公司流失",
+      "minimal": "阿里腾讯游说代表流失",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T15:05:34.838058"
+  },
+  "zaihuapd_42259": {
+    "ai_title": "华为开源盘古2.0模型",
+    "title_options": {
+      "conclusion": "华为开源盘古2.0模型",
+      "attractive": "余承东称盘古将世界第一",
+      "minimal": "华为开源盘古2.0",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T15:05:34.885730"
+  },
+  "xhqcankao_30450": {
+    "ai_title": "特斯拉向HW3车主推送FSD",
+    "title_options": {
+      "conclusion": "特斯拉向HW3车主推送FSD",
+      "attractive": "HW3老车主终获FSD更新",
+      "minimal": "特斯拉HW3 FSD更新",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T15:05:34.909645"
   }
 }
