@@ -11413,5 +11413,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T15:05:34.909645"
+  },
+  "xhqcankao_30452": {
+    "ai_title": "TIDAL禁止AI音乐盈利",
+    "title_options": {
+      "conclusion": "TIDAL禁止AI音乐盈利",
+      "attractive": "AI音乐在TIDAL无法赚钱",
+      "minimal": "TIDAL AI音乐禁盈利",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T16:01:19.766409"
+  },
+  "zaihuapd_42261": {
+    "ai_title": "iPhone 18 Pro测试曝光",
+    "title_options": {
+      "conclusion": "iPhone 18 Pro测试曝光",
+      "attractive": "苹果供应链数据泄露",
+      "minimal": "iPhone 18 Pro泄露",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T16:01:19.825604"
+  },
+  "zaihuapd_42260": {
+    "ai_title": "Anthropic获准恢复Mythos…",
+    "title_options": {
+      "conclusion": "Anthropic获准恢复Mythos…",
+      "attractive": "美政府批准Mythos5重部署",
+      "minimal": "Mythos5恢复部署",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T16:01:19.831956"
+  },
+  "xhqcankao_30451": {
+    "ai_title": "巴菲特暂停向盖茨基金会捐款",
+    "title_options": {
+      "conclusion": "巴菲特暂停向盖茨基金会捐款",
+      "attractive": "爱泼斯坦案致巴菲特暂停捐款",
+      "minimal": "巴菲特暂停捐款",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T16:01:21.167270"
   }
 }

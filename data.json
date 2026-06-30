@@ -1,6 +1,105 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42261",
+      "channel": "zaihuapd",
+      "text": "iPhone 18 Pro 耐用性测试视频曝光一段 iPhone 18 Pro 耐用性测试内容已在网上出现。发布者称，这次曝光是苹果 iPhone 机型史上规模最大的信息泄露。Majin (@MajinBuofficia)另外，塔塔电子据称遭勒索软件攻击，超过 20 万份文件被 World Leaks 发布到暗网，涉及苹果供应链数据。新文件显示，至少 6 份文件把 iPhone 18 Pro 的主电路板、电池、相机等部件对应到具体供应商，部分文件带有苹果“机密”标记和内部代号。路透社·茶馆水群·",
+      "clean_text": "🍏iPhone 18 Pro 耐用性测试视频曝光一段 iPhone 18 Pro 耐用性测试内容已在网上出现。发布者称，这次曝光是苹果 iPhone 机型史上规模最大的信息泄露。Majin (@MajinBuofficia)另外，塔塔电子据称遭勒索软件攻击，超过 20 万份文件被 World Leaks 发布到暗网，涉及苹果供应链数据。新文件显示，至少 6 份文件把 iPhone 18 Pro 的主电路板、电池、相机等部件对应到具体供应商，部分文件带有苹果“机密”标记和内部代号。路透社·茶馆水群",
+      "datetime": "2026-06-30T07:42:15+00:00",
+      "views": "3.12K",
+      "source_links": [
+        {
+          "text": "Majin (@MajinBuofficia)",
+          "url": "https://x.com/MajinBuofficia/status/2071804522364625155"
+        },
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42261",
+      "scraped_at": "2026-06-30T16:01:13.300675",
+      "title": "iPhone 18 Pro测试曝光",
+      "title_options": {
+        "conclusion": "iPhone 18 Pro测试曝光",
+        "attractive": "苹果供应链数据泄露",
+        "minimal": "iPhone 18 Pro泄露",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30452",
+      "channel": "xhqcankao",
+      "text": "流媒体TIDAL通过切断盈利来打击AI音乐音乐流媒体服务TIDAL是最新一个针对AI生成音乐采取行动的平台，其推出了一项新政策，将阻止完全由AI生成的音乐在其平台上赚钱。此外，公司表示，TIDAL将使用自动化工具删除那些试图冒充艺术家或团体的AI生成音乐。公司高管澄清说，TIDAL的新政策并非旨在 “抨击技术进步”，而是侧重于保护和奖励艺术家的 “有机创造力”。随着这些变更，TIDAL上的完全AI生成音乐将被识别并打上相应标签，使听众能够在任何被认为100%由AI生成的曲目旁边看到“AI”徽章。这些曲目将无法盈利或收取版税，也不具备参与直接面向粉丝销售的资格，公司指出。",
+      "clean_text": "流媒体TIDAL通过切断盈利来打击AI音乐音乐流媒体服务TIDAL是最新一个针对AI生成音乐采取行动的平台，其推出了一项新政策，将阻止完全由AI生成的音乐在其平台上赚钱。此外，公司表示，TIDAL将使用自动化工具删除那些试图冒充艺术家或团体的AI生成音乐。公司高管澄清说，TIDAL的新政策并非旨在 “抨击技术进步”，而是侧重于保护和奖励艺术家的 “有机创造力”。随着这些变更，TIDAL上的完全AI生成音乐将被识别并打上相应标签，使听众能够在任何被认为100%由AI生成的曲目旁边看到“AI”徽章。这些曲目将无法盈利或收取版税，也不具备参与直接面向粉丝销售的资格，公司指出。——Techcrunch",
+      "datetime": "2026-06-30T07:32:03+00:00",
+      "views": "1.29K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30452",
+      "scraped_at": "2026-06-30T16:01:15.778999",
+      "title": "TIDAL禁止AI音乐盈利",
+      "title_options": {
+        "conclusion": "TIDAL禁止AI音乐盈利",
+        "attractive": "AI音乐在TIDAL无法赚钱",
+        "minimal": "TIDAL AI音乐禁盈利",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42260",
+      "channel": "zaihuapd",
+      "text": "Anthropic 获美政府批准，恢复 Mythos 5 模型对关键基础设施组织的部署  自 6 月 12 日起，Anthropic 一直与美国政府密切合作，推动恢复 Claude Mythos 5 和 Fable 5 两款模型的访问权限。6 月 27 日，美国政府通知 Anthropic，其最强网络安全模型 Mythos 5 可重新部署给一批运营和守卫美国关键基础设施的组织。Anthropic 表示正在迅速为这些组织恢复访问，同时继续与政府协商，争取扩大 Mythos 5 的适用范围，并推动 Fable…",
+      "clean_text": "🤖Anthropic 获美政府批准，恢复 Mythos 5 模型对关键基础设施组织的部署  自 6 月 12 日起，Anthropic 一直与美国政府密切合作，推动恢复 Claude Mythos 5 和 Fable 5 两款模型的访问权限。6 月 27 日，美国政府通知 Anthropic，其最强网络安全模型 Mythos 5 可重新部署给一批运营和守卫美国关键基础设施的组织。Anthropic 表示正在迅速为这些组织恢复访问，同时继续与政府协商，争取扩大 Mythos 5 的适用范围，并推动 Fable…",
+      "datetime": "2026-06-30T07:04:31+00:00",
+      "views": "5.72K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42260",
+      "scraped_at": "2026-06-30T16:01:13.300005",
+      "title": "Anthropic获准恢复Mythos…",
+      "title_options": {
+        "conclusion": "Anthropic获准恢复Mythos…",
+        "attractive": "美政府批准Mythos5重部署",
+        "minimal": "Mythos5恢复部署",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30451",
+      "channel": "xhqcankao",
+      "text": "巴菲特暂停向盖茨基金会捐赠，等待爱泼斯坦案审查结果据知情人士透露，沃伦·巴菲特二十年来首次暂停了通常在年中向盖茨基金会提供的捐款，以等待该基金会与杰弗里·爱泼斯坦关系审查结果的出炉。知情人士称，现年95岁的巴菲特将把决定推迟到今年晚些时候，可能会在他发布感恩节信函时再作定夺。作为伯克希尔哈撒韦公司董事长，巴菲特通常在每年6月或7月初捐赠价值数十亿美元的伯克希尔股票。这是他当年与盖茨基金会建立紧密联系时所作 “终身” 捐赠承诺的一部分。盖茨基金会已聘请威凯平和而德律师事务所审查其与这位已故性犯罪者的关系，预计审查结果将于今夏出炉。",
+      "clean_text": "巴菲特暂停向盖茨基金会捐赠，等待爱泼斯坦案审查结果据知情人士透露，沃伦·巴菲特二十年来首次暂停了通常在年中向盖茨基金会提供的捐款，以等待该基金会与杰弗里·爱泼斯坦关系审查结果的出炉。知情人士称，现年95岁的巴菲特将把决定推迟到今年晚些时候，可能会在他发布感恩节信函时再作定夺。作为伯克希尔哈撒韦公司董事长，巴菲特通常在每年6月或7月初捐赠价值数十亿美元的伯克希尔股票。这是他当年与盖茨基金会建立紧密联系时所作 “终身” 捐赠承诺的一部分。盖茨基金会已聘请威凯平和而德律师事务所审查其与这位已故性犯罪者的关系，预计审查结果将于今夏出炉。——华尔街日报",
+      "datetime": "2026-06-30T07:03:47+00:00",
+      "views": "2.12K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%9A%82%E5%81%9C%E5%90%91%E7%9B%96%E8%8C%A8%E5%9F%BA%E9%87%91%E4%BC%9A%E6%8D%90%E8%B5%A0-%E7%AD%89%E5%BE%85%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%AE%A1%E6%9F%A5%E7%BB%93%E6%9E%9C-3a3e9edd?mod=cn_hp_featst_pos1"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30451",
+      "scraped_at": "2026-06-30T16:01:15.778616",
+      "title": "巴菲特暂停向盖茨基金会捐款",
+      "title_options": {
+        "conclusion": "巴菲特暂停向盖茨基金会捐款",
+        "attractive": "爱泼斯坦案致巴菲特暂停捐款",
+        "minimal": "巴菲特暂停捐款",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30450",
       "channel": "xhqcankao",
       "text": "特斯拉开始向HW3老车主推送FSD更新美国特斯拉公司周一表示，将开始向部分拥有旧款车型的车主提供其FSD（受驾驶员监督)高级辅助驾驶系统“V14 Lite”版本的早期体验。特斯拉AI负责人阿肖克·埃卢斯瓦米表示，在获得初步反馈后，该更新可能会进行更大范围的推送。对于约350万辆配备特斯拉旧款Hardware 3 (简称HW3) 硬件的车辆而言，这是其一年多来迎来的首次重大FSD更新。“该版本把AI4 v14系列的驾驶行为模型进行了精简，使其适配 AI3 的车载摄像头和算力芯片。V14 Lite包含了城市道路的目的地选项和速度曲线，但更重要的是显著提升了安全性，”埃卢斯瓦米在X上发帖称。",
@@ -1427,6 +1526,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-06-30T15:56:14.304090"
+  "count": 59,
+  "updated_at": "2026-06-30T16:01:21.186790"
 }
