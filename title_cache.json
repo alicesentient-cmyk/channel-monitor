@@ -11225,5 +11225,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T09:05:49.112345"
+  },
+  "xhqcankao_30440": {
+    "ai_title": "法国立法罚款超快时尚",
+    "title_options": {
+      "conclusion": "法国立法罚款超快时尚",
+      "attractive": "每件最高罚10欧元",
+      "minimal": "法国罚款超快时尚"
+    },
+    "generated_at": "2026-06-30T10:01:27.580895"
+  },
+  "zaihuapd_42251": {
+    "ai_title": "广州地铁支持境外卡过闸",
+    "title_options": {
+      "conclusion": "广州地铁支持境外卡过闸",
+      "attractive": "境外银行卡拍卡过闸",
+      "minimal": "境外卡过闸",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T10:01:27.644375"
   }
 }
