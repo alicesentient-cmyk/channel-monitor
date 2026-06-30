@@ -11323,5 +11323,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T12:03:02.078991"
+  },
+  "xhqcankao_30446": {
+    "ai_title": "特斯拉工厂电池11次被盗",
+    "title_options": {
+      "conclusion": "特斯拉工厂电池11次被盗",
+      "attractive": "货未出厂即被盗",
+      "minimal": "特斯拉电池被盗",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T13:03:52.240514"
+  },
+  "zaihuapd_42257": {
+    "ai_title": "韩红退出公益行业",
+    "title_options": {
+      "conclusion": "韩红退出公益行业",
+      "attractive": "韩红不再做公益",
+      "minimal": "韩红退出公益",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T13:03:52.298460"
+  },
+  "xhqcankao_30447": {
+    "ai_title": "欧盟7月起征3欧元关税",
+    "title_options": {
+      "conclusion": "欧盟7月起征3欧元关税",
+      "attractive": "中国小包裹面临欧盟新税",
+      "minimal": "欧盟小额包裹关税",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T13:03:52.393713"
+  },
+  "xhqcankao_30445": {
+    "ai_title": "台搜查超微涉走私芯片",
+    "title_options": {
+      "conclusion": "台搜查超微涉走私芯片",
+      "attractive": "芯片走私案台首执法",
+      "minimal": "超微涉走私被查",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-06-30T13:03:53.772136"
   }
 }
