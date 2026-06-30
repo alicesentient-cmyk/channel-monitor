@@ -11659,5 +11659,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-06-30T23:02:45.004587"
+  },
+  "xhqcankao_30467": {
+    "ai_title": "Cursor推出移动端应用",
+    "title_options": {
+      "conclusion": "Cursor推出移动端应用",
+      "attractive": "手机也能编程了",
+      "minimal": "Cursor移动端上线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T00:08:50.135039"
+  },
+  "xhqcankao_30468": {
+    "ai_title": "英国促苹果开放支付",
+    "title_options": {
+      "conclusion": "英国促苹果开放支付",
+      "attractive": "苹果支付规则或放宽",
+      "minimal": "英国 苹果 支付 NFC",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T00:08:50.519355"
+  },
+  "zaihuapd_42274": {
+    "ai_title": "iPhone 18 Pro测试泄露",
+    "title_options": {
+      "conclusion": "iPhone 18 Pro测试泄露",
+      "attractive": "苹果供应链数据遭泄",
+      "minimal": "iPhone 18 Pro泄露",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T00:08:51.045683"
+  },
+  "xhqcankao_30466": {
+    "ai_title": "保时捷多门店终止销售",
+    "title_options": {
+      "conclusion": "保时捷多门店终止销售",
+      "attractive": "保时捷取消多店授权",
+      "minimal": "保时捷门店终止",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T00:08:51.219492"
   }
 }
