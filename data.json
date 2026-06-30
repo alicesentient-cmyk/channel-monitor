@@ -1519,37 +1519,6 @@
       }
     },
     {
-      "id": "zaihuapd_42216",
-      "channel": "zaihuapd",
-      "text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群·",
-      "clean_text": "法国热浪致风扇断货，多地商店现抢购冲突法国热浪下，风扇在多地迅速断货。6 月 25 日起，斯特拉斯堡、塞夫朗和巴黎等地有顾客在商店开门后冲向货架抢最后几台风扇，现场出现奔跑、推搡，并有人与店员发生争执。这轮高温自 6 月 17 日袭击法国，部分地区气温升至 42°C，成为 2003 年以来记录最强的 6 月高温过程之一。夜间持续闷热也让不少人难以入睡，当局提醒民众多喝水、给身体降温，并避开最热时段活动。Le Figaro·茶馆水群",
-      "datetime": null,
-      "views": "5.76K",
-      "source_links": [
-        {
-          "text": "Le Figaro",
-          "url": "https://www.lefigaro.fr/canicule-la-ruee-sur-les-ventilateurs-provoque-des-scenes-de-chaos-dans-les-magasins-20260626"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42216",
-      "scraped_at": "2026-06-28T00:00:39.585956",
-      "title": "法国热浪致风扇断货",
-      "title_options": {
-        "conclusion": "法国热浪致风扇断货",
-        "attractive": "风扇抢购引发冲突",
-        "minimal": "热浪风扇断货",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42218",
       "channel": "zaihuapd",
       "text": "央视曝光手机测评作弊乱象：厂商通过特供机与代码识别博主身份美化数据央视调查发现，数码产品测评领域存在系统性作弊。部分厂商向测评博主提供特供媒体机，固件内置识别程序可在检测到博主身份时自动开启高性能模式，并配合云端远程下发作弊配置。整套作弊体系分为硬件筛选、固件识别与云端调控三层。识别到博主测评后，系统会自动拉高 CPU 性能、调高亮度、仅加载软件界面而非完整应用，营造流畅假象。三重手段叠加使普通消费者难以分辨真假，数码测评公信力持续受损，技术造假取证难度极大，给监管带来很大挑战。央视新闻·茶馆水群·",
@@ -1617,8 +1586,38 @@
         "attractive": "Codex快捷键升级，7月15日发布",
         "minimal": "OpenAI Work Louder …"
       }
+    },
+    {
+      "id": "zaihuapd_42275",
+      "channel": "zaihuapd",
+      "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
+      "clean_text": "🤖谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群",
+      "datetime": null,
+      "views": "3.55K",
+      "source_links": [
+        {
+          "text": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42275",
+      "scraped_at": "2026-07-01T01:01:01.466792",
+      "title": "谷歌开放4秒出图模型",
+      "title_options": {
+        "conclusion": "谷歌开放4秒出图模型",
+        "attractive": "4秒出图仅0.034美元",
+        "minimal": "谷歌新模型开放"
+      }
     }
   ],
   "count": 63,
-  "updated_at": "2026-07-01T00:59:35.894823"
+  "updated_at": "2026-07-01T01:04:42.378847"
 }
