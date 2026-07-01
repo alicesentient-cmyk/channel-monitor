@@ -12124,5 +12124,53 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T19:03:14.822110"
+  },
+  "xhqcankao_30494": {
+    "ai_title": "特朗普加密货币进账逾10亿美元",
+    "title_options": {
+      "conclusion": "特朗普加密货币进账逾10亿美元",
+      "attractive": "特朗普靠币赚10亿？",
+      "minimal": "特朗普加密货币10亿"
+    },
+    "generated_at": "2026-07-01T20:09:18.096681"
+  },
+  "xhqcankao_30495": {
+    "ai_title": "币安遭1700名投资者起诉",
+    "title_options": {
+      "conclusion": "币安遭1700名投资者起诉",
+      "attractive": "币安被索赔1.5亿英镑",
+      "minimal": "币安投资者起诉",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T20:09:18.322831"
+  },
+  "zaihuapd_42296": {
+    "ai_title": "加州付费游戏停服法案搁浅",
+    "title_options": {
+      "conclusion": "加州付费游戏停服法案搁浅",
+      "attractive": "私服盗版争议致法案搁浅",
+      "minimal": "停服法案搁浅",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T20:09:18.474889"
+  },
+  "zaihuapd_42295": {
+    "ai_title": "140家企业联合推稳定币网络",
+    "title_options": {
+      "conclusion": "140家企业联合推稳定币网络",
+      "attractive": "企业可免费铸造稳定币",
+      "minimal": "稳定币网络Open Standard",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T20:09:19.196117"
+  },
+  "xhqcankao_30493": {
+    "ai_title": "Claude Code检测中国用户",
+    "title_options": {
+      "conclusion": "Claude Code检测中国用户",
+      "attractive": "代理暴露你的位置",
+      "minimal": "Claude Code 检测"
+    },
+    "generated_at": "2026-07-01T20:09:19.537506"
   }
 }
