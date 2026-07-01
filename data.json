@@ -1536,29 +1536,6 @@
       }
     },
     {
-      "id": "xhqcankao_30467",
-      "channel": "xhqcankao",
-      "text": "人工智能编程工具Cursor推出移动端应用当地时间周一，Cursor公司宣布推出一款全新应用——Cursor Mobile，专为希望直接用手机操控编程智能体的用户打造。这款应用与去年10月推出的Cursor 2.0版本更新相呼应，该更新推动服务向独立代码生成智能体转型。借助移动端 App，用户既可新建编程智能体，也能对接电脑客户端上已启动的智能体。此前，Anthropic与OpenAI均已推出同类移动端应用，这也是AI编程工具行业整体转型趋势的缩影，这类工具正逐步脱离纯手写代码模式，转向以管控代码生成智能体为核心。开发者无需调取庞大代码库，越来越多人放弃多显示器桌面办公，转而使用手机，随时和云端智能体持续对话协作。",
-      "clean_text": "人工智能编程工具Cursor推出移动端应用当地时间周一，Cursor公司宣布推出一款全新应用——Cursor Mobile，专为希望直接用手机操控编程智能体的用户打造。这款应用与去年10月推出的Cursor 2.0版本更新相呼应，该更新推动服务向独立代码生成智能体转型。借助移动端 App，用户既可新建编程智能体，也能对接电脑客户端上已启动的智能体。此前，Anthropic与OpenAI均已推出同类移动端应用，这也是AI编程工具行业整体转型趋势的缩影，这类工具正逐步脱离纯手写代码模式，转向以管控代码生成智能体为核心。开发者无需调取庞大代码库，越来越多人放弃多显示器桌面办公，转而使用手机，随时和云端智能体持续对话协作。——Techcrunch",
-      "datetime": "2026-06-30T15:33:25+00:00",
-      "views": "1.34K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30467",
-      "scraped_at": "2026-07-01T00:06:15.446367",
-      "title": "Cursor推出移动端应用",
-      "title_options": {
-        "conclusion": "Cursor推出移动端应用",
-        "attractive": "手机也能编程了",
-        "minimal": "Cursor移动端上线",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1627,6 +1604,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-07-02T03:30:36.419339"
+  "count": 64,
+  "updated_at": "2026-07-02T03:35:40.246755"
 }
