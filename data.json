@@ -1,6 +1,89 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30486",
+      "channel": "xhqcankao",
+      "text": "韩反垄断机构指控谷歌滥用安卓支配地位韩国反垄断监管机构周三指控谷歌滥用其在安卓应用市场的主导地位，阻碍市场竞争，将建议对谷歌采取整改措施并处以罚款。报告称，从2019年7月至2026年3月，谷歌的 “游戏/Google Velocity计划” 向国内外游戏开发商提供财务支持，以鼓励他们使用谷歌云、广告和YouTube等谷歌服务，但前提条件是他们在谷歌应用商店上架游戏时，所提供的合作条款至少不差于竞争对手的应用市场。该计划大幅削弱了开发商通过其他应用商店分发游戏的动力，其中包括韩本土应用商店OneStore，阻碍了对手的商业活动，迫使开发者与谷歌形成事实上的排他性交易。",
+      "clean_text": "韩反垄断机构指控谷歌滥用安卓支配地位韩国反垄断监管机构周三指控谷歌滥用其在安卓应用市场的主导地位，阻碍市场竞争，将建议对谷歌采取整改措施并处以罚款。报告称，从2019年7月至2026年3月，谷歌的 “游戏/Google Velocity计划” 向国内外游戏开发商提供财务支持，以鼓励他们使用谷歌云、广告和YouTube等谷歌服务，但前提条件是他们在谷歌应用商店上架游戏时，所提供的合作条款至少不差于竞争对手的应用市场。该计划大幅削弱了开发商通过其他应用商店分发游戏的动力，其中包括韩本土应用商店OneStore，阻碍了对手的商业活动，迫使开发者与谷歌形成事实上的排他性交易。——凤凰网科技、路透社",
+      "datetime": "2026-07-01T07:30:55+00:00",
+      "views": "1.27K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006tW16Fz9Obc93h5dscAPoeny1emH0--5ROKL087sLHV1Av4lhKP5FlXPQxqCdRMT0B"
+        },
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/legal/litigation/south-korean-trade-watchdog-alleges-google-abused-its-position-android-app-store-2026-07-01/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30486",
+      "scraped_at": "2026-07-01T16:00:43.682773",
+      "title": "韩指控谷歌滥用安卓市场支配地位",
+      "title_options": {
+        "conclusion": "韩指控谷歌滥用安卓市场支配地位",
+        "attractive": "谷歌被指用钱换排他性合作",
+        "minimal": "谷歌安卓市场支配地位被控",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42288",
+      "channel": "zaihuapd",
+      "text": "儿童旅客可购买铁路旅游计次票  6 月 11 日起，儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策。票价为成人旅客的 5 折，在旅游计次票原有折扣基础上再优惠。  每个订单最多包含 9 名旅客，儿童需至少 1 名成人随行，且使用时仍符合儿童票优惠年龄。旅客可通过铁路 12306 网站或 App“计次·定期票”专区购买。  新华网",
+      "clean_text": "儿童旅客可购买铁路旅游计次票  6 月 11 日起，儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策。票价为成人旅客的 5 折，在旅游计次票原有折扣基础上再优惠。  每个订单最多包含 9 名旅客，儿童需至少 1 名成人随行，且使用时仍符合儿童票优惠年龄。旅客可通过铁路 12306 网站或 App“计次·定期票”专区购买。  新华网 · 备用频道 · 投稿通道",
+      "datetime": "2026-07-01T07:28:36+00:00",
+      "views": "3.89K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42288",
+      "scraped_at": "2026-07-01T16:00:41.763769",
+      "title": "儿童可购铁路计次票",
+      "title_options": {
+        "conclusion": "儿童可购铁路计次票",
+        "attractive": "儿童票5折再优惠",
+        "minimal": "儿童铁路计次票",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42287",
+      "channel": "zaihuapd",
+      "text": "sing-box uTLS Chrome 指纹缺少后量子密钥交换，与真实 Chrome 产生可区分特征sing-box 的 uTLS \"chrome\" 指纹未包含 X25519MLKEM768 混合后量子密钥交换曲线，而 Chrome 131+ 已将其作为默认密钥交换组。两者在 supported groups 和 ClientHello 结构上存在差异，使得 sing-box 的 TLS 指纹可被高级检测区分。sing-box 曾提供 chrome_pq 等后量子专用指纹，但在 1.10.0 版本移除并回退到普通 chrome，原因是该指纹与 Reality 协议不兼容（触发 nil ecdhe_key 错误）。值得注意的是，sing-box 的 curve_preferences 配置项默认列表确实包含 X25519MLKEM768，但这属于标准 TLS 引擎的逻辑，uTLS fingerprint 模块走的是独立的 ClientHello 模仿机制，二者互不影响。sing-box 官方文档已明确不推荐 uTLS，指出其反复被发现指纹漏洞、无法完美模仿 BoringSSL 等浏览器栈行为，建议改用 NaiveProxy 获取更强的抗指纹能力。sing-box|Cloudflare Docs|GitHub·茶馆水群·",
+      "clean_text": "sing-box uTLS Chrome 指纹缺少后量子密钥交换，与真实 Chrome 产生可区分特征sing-box 的 uTLS \"chrome\" 指纹未包含 X25519MLKEM768 混合后量子密钥交换曲线，而 Chrome 131+ 已将其作为默认密钥交换组。两者在 supported groups 和 ClientHello 结构上存在差异，使得 sing-box 的 TLS 指纹可被高级检测区分。sing-box 曾提供 chrome_pq 等后量子专用指纹，但在 1.10.0 版本移除并回退到普通 chrome，原因是该指纹与 Reality 协议不兼容（触发 nil ecdhe_key 错误）。值得注意的是，sing-box 的 curve_preferences 配置项默认列表确实包含 X25519MLKEM768，但这属于标准 TLS 引擎的逻辑，uTLS fingerprint 模块走的是独立的 ClientHello 模仿机制，二者互不影响。sing-box 官方文档已明确不推荐 uTLS，指出其反复被发现指纹漏洞、无法完美模仿 BoringSSL 等浏览器栈行为，建议改用 NaiveProxy 获取更强的抗指纹能力。sing-box|Cloudflare Docs|GitHub·茶馆水群",
+      "datetime": "2026-07-01T07:04:11+00:00",
+      "views": "5.93K",
+      "source_links": [
+        {
+          "text": "sing-box",
+          "url": "https://sing-box.sagernet.org/configuration/shared/tls/"
+        },
+        {
+          "text": "Cloudflare Docs",
+          "url": "https://developers.cloudflare.com/ssl/post-quantum-cryptography/pqc-support/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/SagerNet/sing-box/issues/2084"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42287",
+      "scraped_at": "2026-07-01T16:00:41.763198",
+      "title": "sing-box uTLS指纹缺后量子…",
+      "title_options": {
+        "conclusion": "sing-box uTLS指纹缺后量子…",
+        "attractive": "Chrome指纹被检测，后量子缺失",
+        "minimal": "uTLS Chrome指纹缺后量子"
+      }
+    },
+    {
       "id": "xhqcankao_30485",
       "channel": "xhqcankao",
       "text": "撞上“中国尊”小型飞机险些与海航客机相撞上周五(6月26日)下午，北京中央商务区发生一起罕见意外。一架小型飞机撞上中信集团总部大厦(又称“中国尊”)。Flightradar24记录显示，这架小型飞机飞入了海航空中客车 A330 客机的飞行航线。后者原定降落在北京首都国际机场，但在着陆前几分钟中止下降。数据显示，由于海航客机疑似采取规避动作，两架飞机上周最近时相距仅1500英尺。从乌鲁木齐飞往北京的海航客机，在北京六环路上空进入最终进近阶段时，下降至约3250英尺高度。随后，飞机在六分钟内迅速爬升至9150英尺，并偏离原定航线。当这架小型飞机横穿北京首都国际机场的进场航道时，至少有两架飞机被迫中止降落。",
@@ -1584,33 +1667,6 @@
       }
     },
     {
-      "id": "xhqcankao_30445",
-      "channel": "xhqcankao",
-      "text": "因涉嫌向中国走私芯片台湾突击搜查超微电脑办公室台湾政府当局周一突击搜查了超微电脑公司的办公室，此举是针对该公司涉嫌利用其服务器将英伟达芯片走私至中国大陆一事展开调查的一部分。据台湾基隆地方检察署发表的声明，调查人员周一搜查了六名相关人士的住所及三家关联企业的办公地点。检察署拒绝透露被搜查对象的姓名，但超微电脑的台湾办公室确为搜查地点之一。此次突击搜查标志着台湾针对人工智能芯片转口问题首次公开执法行动的进一步扩大。美国已以相关硬件可能资助北京军事发展为由，限制向中国出口先进人工智能芯片，而这类芯片绝大多数均在台湾生产。目前，台湾尚未将人工智能芯片出口至大陆列为刑事罪行。",
-      "clean_text": "因涉嫌向中国走私芯片台湾突击搜查超微电脑办公室台湾政府当局周一突击搜查了超微电脑公司的办公室，此举是针对该公司涉嫌利用其服务器将英伟达芯片走私至中国大陆一事展开调查的一部分。据台湾基隆地方检察署发表的声明，调查人员周一搜查了六名相关人士的住所及三家关联企业的办公地点。检察署拒绝透露被搜查对象的姓名，但超微电脑的台湾办公室确为搜查地点之一。此次突击搜查标志着台湾针对人工智能芯片转口问题首次公开执法行动的进一步扩大。美国已以相关硬件可能资助北京军事发展为由，限制向中国出口先进人工智能芯片，而这类芯片绝大多数均在台湾生产。目前，台湾尚未将人工智能芯片出口至大陆列为刑事罪行。——雅虎新闻、彭博社",
-      "datetime": "2026-06-30T04:04:25+00:00",
-      "views": "2.3K",
-      "source_links": [
-        {
-          "text": "雅虎新闻",
-          "url": "https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E5%8F%B0%E7%81%A3%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E8%B6%85%E5%BE%AE%E9%9B%BB%E8%85%A6%E8%BE%A6%E5%85%AC%E5%AE%A4-%E8%AA%BF%E6%9F%A5%E8%8B%B1%E5%81%89%E9%81%94%E6%99%B6%E7%89%87%E5%87%BA%E5%8F%A3-%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C-190920607.html"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-29/super-micro-office-raided-as-taiwan-expands-chip-smuggling-probe"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30445",
-      "scraped_at": "2026-06-30T13:00:55.458046",
-      "title": "台搜查超微涉走私芯片",
-      "title_options": {
-        "conclusion": "台搜查超微涉走私芯片",
-        "attractive": "芯片走私案台首执法",
-        "minimal": "超微涉走私被查",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1679,6 +1735,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-01T16:00:34.002627"
+  "count": 70,
+  "updated_at": "2026-07-01T16:05:40.363287"
 }

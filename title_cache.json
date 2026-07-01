@@ -11985,5 +11985,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T15:04:48.197109"
+  },
+  "zaihuapd_42288": {
+    "ai_title": "儿童可购铁路计次票",
+    "title_options": {
+      "conclusion": "儿童可购铁路计次票",
+      "attractive": "儿童票5折再优惠",
+      "minimal": "儿童铁路计次票",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T16:05:40.073585"
+  },
+  "zaihuapd_42287": {
+    "ai_title": "sing-box uTLS指纹缺后量子…",
+    "title_options": {
+      "conclusion": "sing-box uTLS指纹缺后量子…",
+      "attractive": "Chrome指纹被检测，后量子缺失",
+      "minimal": "uTLS Chrome指纹缺后量子"
+    },
+    "generated_at": "2026-07-01T16:05:40.118365"
+  },
+  "xhqcankao_30486": {
+    "ai_title": "韩指控谷歌滥用安卓市场支配地位",
+    "title_options": {
+      "conclusion": "韩指控谷歌滥用安卓市场支配地位",
+      "attractive": "谷歌被指用钱换排他性合作",
+      "minimal": "谷歌安卓市场支配地位被控",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T16:05:40.343530"
   }
 }
