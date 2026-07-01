@@ -1720,29 +1720,6 @@
       }
     },
     {
-      "id": "xhqcankao_30438",
-      "channel": "xhqcankao",
-      "text": "苹果计划为未来的MacBook Pro、iMac和iPad Pro配备更宽色域根据研究公司TrendForce的一份新报告，苹果公司计划采用能够显示更宽泛色彩范围的OLED面板。新面板将覆盖 BT.2020 色彩标准的95%，该标准描述的色谱比苹果屏幕目前所针对的DCI-P3标准要宽广得多。在实际应用中，这意味着更深、更准确的红色、绿色和蓝色。达到那些更丰富的色彩需要对显示屏发出的光进行更精确的控制，同时还要有更好的能效，因此TrendForce预计下一轮OLED竞争将较少取决于亮度和厚度等熟悉规格，而更多取决于色彩、功耗和整体性能之间的平衡。苹果于2024年首次将OLED 引入iPad Pro，该技术预计将在2026年至2027年初之间来到MacBook Pro。",
-      "clean_text": "苹果计划为未来的MacBook Pro、iMac和iPad Pro配备更宽色域根据研究公司TrendForce的一份新报告，苹果公司计划采用能够显示更宽泛色彩范围的OLED面板。新面板将覆盖 BT.2020 色彩标准的95%，该标准描述的色谱比苹果屏幕目前所针对的DCI-P3标准要宽广得多。在实际应用中，这意味着更深、更准确的红色、绿色和蓝色。达到那些更丰富的色彩需要对显示屏发出的光进行更精确的控制，同时还要有更好的能效，因此TrendForce预计下一轮OLED竞争将较少取决于亮度和厚度等熟悉规格，而更多取决于色彩、功耗和整体性能之间的平衡。苹果于2024年首次将OLED 引入iPad Pro，该技术预计将在2026年至2027年初之间来到MacBook Pro。——Macrumors",
-      "datetime": "2026-06-30T00:32:41+00:00",
-      "views": "1.21K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/29/apple-plans-wider-color-gamut-for-future-devices/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30438",
-      "scraped_at": "2026-06-30T09:05:16.377020",
-      "title": "苹果将采用更宽色域OLED",
-      "title_options": {
-        "conclusion": "苹果将采用更宽色域OLED",
-        "attractive": "苹果新屏覆盖95% BT.2020",
-        "minimal": "苹果OLED宽色域",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1811,6 +1788,6 @@
       }
     }
   ],
-  "count": 72,
-  "updated_at": "2026-07-01T12:27:41.880907"
+  "count": 71,
+  "updated_at": "2026-07-01T12:32:44.802483"
 }
