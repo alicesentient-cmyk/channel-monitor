@@ -12014,5 +12014,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T16:05:40.343530"
+  },
+  "zaihuapd_42289": {
+    "ai_title": "日元跌破162.80创40年新低",
+    "title_options": {
+      "conclusion": "日元跌破162.80创40年新低",
+      "attractive": "日元贬值加重家庭负担",
+      "minimal": "日元跌破162.80",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T17:01:30.347578"
+  },
+  "zaihuapd_42290": {
+    "ai_title": "安兔兔否认发布会跑分",
+    "title_options": {
+      "conclusion": "安兔兔否认发布会跑分",
+      "attractive": "跑分无记录，品牌被警告",
+      "minimal": "安兔兔跑分存疑",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T17:01:30.393248"
+  },
+  "xhqcankao_30488": {
+    "ai_title": "谷歌关闭Tenor API",
+    "title_options": {
+      "conclusion": "谷歌关闭Tenor API",
+      "attractive": "GIF库API停用",
+      "minimal": "Tenor API关闭",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T17:01:30.415854"
+  },
+  "xhqcankao_30487": {
+    "ai_title": "微软取消合作致IOI裁员",
+    "title_options": {
+      "conclusion": "微软取消合作致IOI裁员",
+      "attractive": "微软砍合作，IOI游戏停摆",
+      "minimal": "IOI裁员，微软取消合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T17:01:31.734834"
   }
 }
