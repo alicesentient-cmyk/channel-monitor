@@ -1652,60 +1652,6 @@
       }
     },
     {
-      "id": "zaihuapd_42258",
-      "channel": "zaihuapd",
-      "text": "Gemini 个性化 AI 图像生成功能对美国用户免费开放Google 宣布，Gemini 应用的个性化 Nano Banana 驱动图像生成功能现已对美国所有符合条件的用户免费开放。此前仅限 Plus、Pro 和 Ultra 订阅者使用。该功能利用 Google 账号连接的数据，如 Gmail、Google Photos、YouTube 和 Search，理解用户喜好，无需在提示中指定细节，还能直接从 Google Photos 提取实际图片。Google 最初在今年 4 月推出这一功能，现扩大免费范围。Personal Intelligence 为自选加入，用户可决定 Gemini 访问哪些应用，并可通过工具菜单中的切换按钮禁用。TechCrunch·茶馆水群·",
-      "clean_text": "Gemini 个性化 AI 图像生成功能对美国用户免费开放Google 宣布，Gemini 应用的个性化 Nano Banana 驱动图像生成功能现已对美国所有符合条件的用户免费开放。此前仅限 Plus、Pro 和 Ultra 订阅者使用。该功能利用 Google 账号连接的数据，如 Gmail、Google Photos、YouTube 和 Search，理解用户喜好，无需在提示中指定细节，还能直接从 Google Photos 提取实际图片。Google 最初在今年 4 月推出这一功能，现扩大免费范围。Personal Intelligence 为自选加入，用户可决定 Gemini 访问哪些应用，并可通过工具菜单中的切换按钮禁用。TechCrunch·茶馆水群",
-      "datetime": "2026-06-30T05:35:00+00:00",
-      "views": "3.07K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42258",
-      "scraped_at": "2026-06-30T14:00:58.840498",
-      "title": "Gemini图像生成免费",
-      "title_options": {
-        "conclusion": "Gemini图像生成免费",
-        "attractive": "免费生成个性化图像",
-        "minimal": "Gemini图像免费",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30448",
-      "channel": "xhqcankao",
-      "text": "Meta内部项目曝光：数百合同工装成未成年人，诱导对手AI聊敏感话题根据内部文件，数百名合同工正在从事一个Meta内部项目，他们被指示在网上伪装成未成年人，测试竞争对手的聊天机器人如何回应涉及自杀、性、饮食失调及其他高风险主题的提示词。该项目由Meta承包商Covalen管理，直到4月21日仍在进行中。该项目内部代号为“戛纳”，目标包括ChatGPT、谷歌的Gemini以及Character.AI。该项目要求工作人员创建虚构的18岁以下账号，向竞争对手的聊天机器人发送文字提示和图片，并将回复复制到电子表格中。合同工发送的部分图片包括药片、刀具、绞索以及妇科手术的医学示意图。根据项目说明，这些提示词通常被专门设计用来诱导聊天机器人给出其安全系统本应拒绝的回应。",
-      "clean_text": "Meta内部项目曝光：数百合同工装成未成年人，诱导对手AI聊敏感话题根据内部文件，数百名合同工正在从事一个Meta内部项目，他们被指示在网上伪装成未成年人，测试竞争对手的聊天机器人如何回应涉及自杀、性、饮食失调及其他高风险主题的提示词。该项目由Meta承包商Covalen管理，直到4月21日仍在进行中。该项目内部代号为“戛纳”，目标包括ChatGPT、谷歌的Gemini以及Character.AI。该项目要求工作人员创建虚构的18岁以下账号，向竞争对手的聊天机器人发送文字提示和图片，并将回复复制到电子表格中。合同工发送的部分图片包括药片、刀具、绞索以及妇科手术的医学示意图。根据项目说明，这些提示词通常被专门设计用来诱导聊天机器人给出其安全系统本应拒绝的回应。——凤凰网科技",
-      "datetime": "2026-06-30T05:34:55+00:00",
-      "views": "1.3K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006EbVGDsbFhcRTFRHXZ1yLYN7-_SrCgKy5e2WeHLZqle9aroFn0f3z6VWmBSiBnzpYX"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30448",
-      "scraped_at": "2026-06-30T14:01:00.517302",
-      "title": "Meta雇工伪装未成年人",
-      "title_options": {
-        "conclusion": "Meta雇工伪装未成年人",
-        "attractive": "Meta诱导对手AI聊敏感话题",
-        "minimal": "Meta伪装未成年人",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1774,6 +1720,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-01T17:31:54.304207"
+  "count": 69,
+  "updated_at": "2026-07-01T17:36:57.753715"
 }
