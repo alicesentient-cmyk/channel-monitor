@@ -1648,28 +1648,6 @@
       }
     },
     {
-      "id": "xhqcankao_30436",
-      "channel": "xhqcankao",
-      "text": "谷歌云将为科学研究提供专业AI模型谷歌将开始通过旗下云服务提供来自软件公司SandboxAQ的专业人工智能模型，从而扩大企业和研究机构对旨在加速药物发现、材料科学和半导体制造的技术获取。谷歌将把SandboxAQ所谓的大型定量模型添加到其云市场中，使研究人员能够将谷歌的Gemini语言模型与在科学方程和实验室数据上训练的人工智能系统相结合。与擅长生成文本的大型语言模型不同，大型定量模型是在数值数据上训练的，以帮助解决化学、生物学和物理学中的问题。SandboxAQ是Alphabet的衍生公司，属于日益增多的一批专注于利用AI来尝试回答棘手研究问题的公司之一。",
-      "clean_text": "谷歌云将为科学研究提供专业AI模型谷歌将开始通过旗下云服务提供来自软件公司SandboxAQ的专业人工智能模型，从而扩大企业和研究机构对旨在加速药物发现、材料科学和半导体制造的技术获取。谷歌将把SandboxAQ所谓的大型定量模型添加到其云市场中，使研究人员能够将谷歌的Gemini语言模型与在科学方程和实验室数据上训练的人工智能系统相结合。与擅长生成文本的大型语言模型不同，大型定量模型是在数值数据上训练的，以帮助解决化学、生物学和物理学中的问题。SandboxAQ是Alphabet的衍生公司，属于日益增多的一批专注于利用AI来尝试回答棘手研究问题的公司之一。——彭博社",
-      "datetime": "2026-06-29T23:34:07+00:00",
-      "views": "640",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30436",
-      "scraped_at": "2026-06-30T08:00:40.440146",
-      "title": "谷歌云提供专业AI模型",
-      "title_options": {
-        "conclusion": "谷歌云提供专业AI模型",
-        "attractive": "谷歌云加速药物发现",
-        "minimal": "谷歌云AI模型"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1738,6 +1716,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-01T11:31:57.651992"
+  "count": 68,
+  "updated_at": "2026-07-01T11:37:02.255209"
 }
