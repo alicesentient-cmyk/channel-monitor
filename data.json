@@ -1670,33 +1670,6 @@
       }
     },
     {
-      "id": "xhqcankao_30435",
-      "channel": "xhqcankao",
-      "text": "Rocket Lab豪掷80亿美元收购铱星通信美国商业航天公司Rocket Lab周一宣布，同意收购卫星通信运营商铱星通信(Iridium)，交易估值约80亿美元。这笔交易将使Rocket Lab获得一支现成的卫星星座以及宝贵的无线频谱资源，从而增强其与 SpaceX 竞争的能力。根据Rocket Lab发布的声明，此次交易将以现金加股票的方式进行，对铱星通信的估值为每股54美元，对应企业价值约80亿美元。Rocket Lab表示，此次收购将帮助公司绕开建设卫星通信业务面临的三大“关键障碍”：频谱获取难度高、基础设施部署周期长且在产生收入前需长期投入、以及构建客户基础与稳定经常性现金流所需的多年时间。",
-      "clean_text": "Rocket Lab豪掷80亿美元收购铱星通信美国商业航天公司Rocket Lab周一宣布，同意收购卫星通信运营商铱星通信(Iridium)，交易估值约80亿美元。这笔交易将使Rocket Lab获得一支现成的卫星星座以及宝贵的无线频谱资源，从而增强其与 SpaceX 竞争的能力。根据Rocket Lab发布的声明，此次交易将以现金加股票的方式进行，对铱星通信的估值为每股54美元，对应企业价值约80亿美元。Rocket Lab表示，此次收购将帮助公司绕开建设卫星通信业务面临的三大“关键障碍”：频谱获取难度高、基础设施部署周期长且在产生收入前需长期投入、以及构建客户基础与稳定经常性现金流所需的多年时间。——财联社、Theverge",
-      "datetime": "2026-06-29T23:03:40+00:00",
-      "views": "1.08K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2412087?sv=8.5.9&amp;app=cailianpress"
-        },
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30435",
-      "scraped_at": "2026-06-30T08:00:40.439802",
-      "title": "Rocket Lab 80亿美元收购铱星",
-      "title_options": {
-        "conclusion": "Rocket Lab 80亿美元收购铱星",
-        "attractive": "80亿美元收购，挑战SpaceX",
-        "minimal": "Rocket Lab收购铱星",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1765,6 +1738,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-07-01T11:01:36.123361"
+  "count": 69,
+  "updated_at": "2026-07-01T11:06:40.231615"
 }
