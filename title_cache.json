@@ -12172,5 +12172,35 @@
       "minimal": "Claude Code 检测"
     },
     "generated_at": "2026-07-01T20:09:19.537506"
+  },
+  "zaihuapd_42297": {
+    "ai_title": "超龄劳动者权益规定7月施行",
+    "title_options": {
+      "conclusion": "超龄劳动者权益规定7月施行",
+      "attractive": "超龄加班？新规说不",
+      "minimal": "超龄劳动者权益新规",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T21:05:04.706388"
+  },
+  "xhqcankao_30497": {
+    "ai_title": "索尼2028年停售PS光盘",
+    "title_options": {
+      "conclusion": "索尼2028年停售PS光盘",
+      "attractive": "PS光盘将成绝版",
+      "minimal": "索尼停售光盘",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T21:05:04.749091"
+  },
+  "xhqcankao_30496": {
+    "ai_title": "库克与欧盟会谈Siri",
+    "title_options": {
+      "conclusion": "库克与欧盟会谈Siri",
+      "attractive": "Siri入欧面临罚款风险",
+      "minimal": "苹果欧盟Siri会谈",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T21:05:04.852862"
   }
 }
