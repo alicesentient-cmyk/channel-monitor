@@ -11827,5 +11827,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T10:00:52.470786"
+  },
+  "xhqcankao_30475": {
+    "ai_title": "美光称客户压价致内存短缺",
+    "title_options": {
+      "conclusion": "美光称客户压价致内存短缺",
+      "attractive": "客户压价三倍致芯片短缺",
+      "minimal": "美光客户压价短缺",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T11:01:35.810454"
+  },
+  "zaihuapd_42282": {
+    "ai_title": "欧盟称苹果不推Siri AI是自身决定",
+    "title_options": {
+      "conclusion": "欧盟称苹果不推Siri AI是自身决定",
+      "attractive": "苹果Siri AI欧盟缺席，谁之过？",
+      "minimal": "苹果Siri AI欧盟不上线"
+    },
+    "generated_at": "2026-07-01T11:01:35.889364"
+  },
+  "xhqcankao_30476": {
+    "ai_title": "美国起草禁令禁中国逆变器",
+    "title_options": {
+      "conclusion": "美国起草禁令禁中国逆变器",
+      "attractive": "中国逆变器被指威胁美国电网",
+      "minimal": "美国 禁令 中国 逆变器",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T11:01:36.103717"
   }
 }
