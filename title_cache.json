@@ -12252,5 +12252,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T23:02:11.946476"
+  },
+  "xhqcankao_30502": {
+    "ai_title": "苹果隐藏邮件漏洞暴露",
+    "title_options": {
+      "conclusion": "苹果隐藏邮件漏洞暴露",
+      "attractive": "隐藏邮件地址可被破解",
+      "minimal": "苹果漏洞 电邮暴露",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T00:08:13.154257"
+  },
+  "zaihuapd_42300": {
+    "ai_title": "PS新游戏2028年停发实体光盘",
+    "title_options": {
+      "conclusion": "PS新游戏2028年停发实体光盘",
+      "attractive": "PS游戏光盘2028年全面停发",
+      "minimal": "PS停发实体光盘",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T00:08:13.285113"
+  },
+  "xhqcankao_30503": {
+    "ai_title": "一加官网引导顾客买OPPO",
+    "title_options": {
+      "conclusion": "一加官网引导顾客买OPPO",
+      "attractive": "一加官网推荐OPPO替代品",
+      "minimal": "一加转向OPPO",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T00:08:13.358694"
+  },
+  "xhqcankao_30501": {
+    "ai_title": "TikTok欧洲总部再裁300人",
+    "title_options": {
+      "conclusion": "TikTok欧洲总部再裁300人",
+      "attractive": "TikTok欧洲总部裁员300",
+      "minimal": "TikTok欧洲裁员300",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T00:08:14.671544"
   }
 }
