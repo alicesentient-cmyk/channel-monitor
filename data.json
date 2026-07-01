@@ -1719,60 +1719,6 @@
       }
     },
     {
-      "id": "xhqcankao_30458",
-      "channel": "xhqcankao",
-      "text": "OpenAI预告首款硬件设备 专为Codex打造OpenAI近年频频释出对硬件市场的野心，当外界原本以为首款登场的会是与乔尼·艾维合作、针对消费市场的人工智能设备。令人意外的是，OpenAI 近日在社交平台 X 发布预告，宣布将于7月15日推出一款与Codex编码助手相关的全新硬件配件，为其硬件布局揭开截然不同的序幕。OpenAI最新在X平台上发布预告，宣布将于7月15日推出第一件硬件配件。预告片展示一个方形、配备多个按键的装置轮廓，并暗示新产品将以实体按键强化Codex的操作体验。虽然OpenAI公司未透露具体功能，但已确认该产品由硬件品牌Work Louder合作开发。Work Louder以制作可编程键盘与 macro pad闻名。",
-      "clean_text": "OpenAI预告首款硬件设备 专为Codex打造OpenAI近年频频释出对硬件市场的野心，当外界原本以为首款登场的会是与乔尼·艾维合作、针对消费市场的人工智能设备。令人意外的是，OpenAI 近日在社交平台 X 发布预告，宣布将于7月15日推出一款与Codex编码助手相关的全新硬件配件，为其硬件布局揭开截然不同的序幕。OpenAI最新在X平台上发布预告，宣布将于7月15日推出第一件硬件配件。预告片展示一个方形、配备多个按键的装置轮廓，并暗示新产品将以实体按键强化Codex的操作体验。虽然OpenAI公司未透露具体功能，但已确认该产品由硬件品牌Work Louder合作开发。Work Louder以制作可编程键盘与 macro pad闻名。——香港经济日报",
-      "datetime": "2026-06-30T10:34:33+00:00",
-      "views": "1.18K",
-      "source_links": [
-        {
-          "text": "香港经济日报",
-          "url": "https://inews.hket.com/article/4153963/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30458",
-      "scraped_at": "2026-06-30T19:01:02.360641",
-      "title": "OpenAI将推Codex硬件",
-      "title_options": {
-        "conclusion": "OpenAI将推Codex硬件",
-        "attractive": "Codex实体按键配件",
-        "minimal": "OpenAI硬件配件",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42267",
-      "channel": "zaihuapd",
-      "text": "Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。帖文还称，这段逻辑经过 XOR 密钥 91 混淆，更新日志未披露，目的在于识别中国地区的未授权转售、账号滥用或模型蒸馏。争议在于它究竟是隐蔽遥测还是越界监控：反对者指其未告知用户，支持者则认为反滥用措施可以理解，但应更透明。Reddit·茶馆水群·",
-      "clean_text": "🤖Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。帖文还称，这段逻辑经过 XOR 密钥 91 混淆，更新日志未披露，目的在于识别中国地区的未授权转售、账号滥用或模型蒸馏。争议在于它究竟是隐蔽遥测还是越界监控：反对者指其未告知用户，支持者则认为反滥用措施可以理解，但应更透明。Reddit·茶馆水群",
-      "datetime": "2026-06-30T10:34:19+00:00",
-      "views": "3.66K",
-      "source_links": [
-        {
-          "text": "Reddit",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42267",
-      "scraped_at": "2026-06-30T19:01:00.566557",
-      "title": "Claude Code被指隐蔽遥测",
-      "title_options": {
-        "conclusion": "Claude Code被指隐蔽遥测",
-        "attractive": "Claude Code暗传中国数据",
-        "minimal": "Claude Code遥测争议",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1841,6 +1787,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-07-01T22:31:40.447170"
+  "count": 71,
+  "updated_at": "2026-07-01T22:36:44.519066"
 }
