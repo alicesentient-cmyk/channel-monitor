@@ -11748,5 +11748,54 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T08:04:34.357539"
+  },
+  "zaihuapd_42279": {
+    "ai_title": "苹果史上最大泄露",
+    "title_options": {
+      "conclusion": "iPhone 18 Pro测试曝光",
+      "attractive": "苹果史上最大泄露",
+      "minimal": "iPhone 18 Pro 泄露",
+      "best": "attractive"
+    },
+    "generated_at": "2026-07-01T09:10:17.190563"
+  },
+  "xhqcankao_30473": {
+    "ai_title": "SpaceX推星链半价服务",
+    "title_options": {
+      "conclusion": "SpaceX推星链半价服务",
+      "attractive": "星链半价救场数据中心",
+      "minimal": "星链半价优惠"
+    },
+    "generated_at": "2026-07-01T09:10:17.291926"
+  },
+  "xhqcankao_30472": {
+    "ai_title": "NASA再授三份月球着陆器合同",
+    "title_options": {
+      "conclusion": "NASA再授三份月球着陆器合同",
+      "attractive": "5.9亿美元月球着陆器合同",
+      "minimal": "NASA月球着陆器合同",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T09:10:17.393378"
+  },
+  "zaihuapd_42278": {
+    "ai_title": "美解除两模型出口管制",
+    "title_options": {
+      "conclusion": "美解除两模型出口管制",
+      "attractive": "Claude模型恢复访问",
+      "minimal": "出口管制解除",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T09:10:18.238602"
+  },
+  "xhqcankao_30471": {
+    "ai_title": "中兴WiFi强推上网认证",
+    "title_options": {
+      "conclusion": "中兴WiFi强推上网认证",
+      "attractive": "不认证将断网",
+      "minimal": "中兴WiFi认证",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T09:10:18.526601"
   }
 }
