@@ -1741,33 +1741,6 @@
       }
     },
     {
-      "id": "xhqcankao_30454",
-      "channel": "xhqcankao",
-      "text": "加州与Anthropic达成半价使用Claude协议美国加州州长加文·纽森与Anthropic公司达成了一项协议，允许加州政府机构以半价使用 Claude 。这项协议达成之际，企业正在努力应对企业级人工智能工具订阅的高昂成本。根据该协议，所有州机构和地方政府都将获得Anthropic的AI聊天机器人Claude的使用权，以及Anthropic提供的培训和支持。州长办公室发布的一份新闻稿称，Claude将帮助州政府雇员起草文件和分析信息。州长纽森在一份声明中表示：“人工智能不应取代政府的人力工作；它应该帮助我们的工作人员更快地行动、更有效地解决问题，并为加州人民带来更好的结果。”",
-      "clean_text": "加州与Anthropic达成半价使用Claude协议美国加州州长加文·纽森与Anthropic公司达成了一项协议，允许加州政府机构以半价使用 Claude 。这项协议达成之际，企业正在努力应对企业级人工智能工具订阅的高昂成本。根据该协议，所有州机构和地方政府都将获得Anthropic的AI聊天机器人Claude的使用权，以及Anthropic提供的培训和支持。州长办公室发布的一份新闻稿称，Claude将帮助州政府雇员起草文件和分析信息。州长纽森在一份声明中表示：“人工智能不应取代政府的人力工作；它应该帮助我们的工作人员更快地行动、更有效地解决问题，并为加州人民带来更好的结果。”——Techcrunch",
-      "datetime": "2026-06-30T08:34:37+00:00",
-      "views": "1.28K",
-      "source_links": [
-        {
-          "text": "以半价",
-          "url": "https://www.inside.com.tw/article/41680-anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30454",
-      "scraped_at": "2026-06-30T17:01:16.332750",
-      "title": "加州半价用Claude",
-      "title_options": {
-        "conclusion": "加州半价用Claude",
-        "attractive": "AI订阅半价省成本",
-        "minimal": "加州Claude协议",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1836,6 +1809,6 @@
       }
     }
   ],
-  "count": 73,
-  "updated_at": "2026-07-01T20:29:36.656627"
+  "count": 72,
+  "updated_at": "2026-07-01T20:34:40.863357"
 }
