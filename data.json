@@ -1696,29 +1696,6 @@
       }
     },
     {
-      "id": "xhqcankao_30452",
-      "channel": "xhqcankao",
-      "text": "流媒体TIDAL通过切断盈利来打击AI音乐音乐流媒体服务TIDAL是最新一个针对AI生成音乐采取行动的平台，其推出了一项新政策，将阻止完全由AI生成的音乐在其平台上赚钱。此外，公司表示，TIDAL将使用自动化工具删除那些试图冒充艺术家或团体的AI生成音乐。公司高管澄清说，TIDAL的新政策并非旨在 “抨击技术进步”，而是侧重于保护和奖励艺术家的 “有机创造力”。随着这些变更，TIDAL上的完全AI生成音乐将被识别并打上相应标签，使听众能够在任何被认为100%由AI生成的曲目旁边看到“AI”徽章。这些曲目将无法盈利或收取版税，也不具备参与直接面向粉丝销售的资格，公司指出。",
-      "clean_text": "流媒体TIDAL通过切断盈利来打击AI音乐音乐流媒体服务TIDAL是最新一个针对AI生成音乐采取行动的平台，其推出了一项新政策，将阻止完全由AI生成的音乐在其平台上赚钱。此外，公司表示，TIDAL将使用自动化工具删除那些试图冒充艺术家或团体的AI生成音乐。公司高管澄清说，TIDAL的新政策并非旨在 “抨击技术进步”，而是侧重于保护和奖励艺术家的 “有机创造力”。随着这些变更，TIDAL上的完全AI生成音乐将被识别并打上相应标签，使听众能够在任何被认为100%由AI生成的曲目旁边看到“AI”徽章。这些曲目将无法盈利或收取版税，也不具备参与直接面向粉丝销售的资格，公司指出。——Techcrunch",
-      "datetime": "2026-06-30T07:32:03+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30452",
-      "scraped_at": "2026-06-30T16:01:15.778999",
-      "title": "TIDAL禁止AI音乐盈利",
-      "title_options": {
-        "conclusion": "TIDAL禁止AI音乐盈利",
-        "attractive": "AI音乐在TIDAL无法赚钱",
-        "minimal": "TIDAL AI音乐禁盈利",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1787,6 +1764,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-01T19:28:42.235354"
+  "count": 70,
+  "updated_at": "2026-07-01T19:33:47.154940"
 }
