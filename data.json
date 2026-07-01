@@ -1446,24 +1446,6 @@
       }
     },
     {
-      "id": "zaihuapd_42277",
-      "channel": "zaihuapd",
-      "text": "Anthropic 发布 Claude Sonnet 4.6，性能与计算机使用能力显著提升  Anthropic 发布 Claude Sonnet 4.6 模型，在编程、计算机操作及长文本推理方面实现全面升级。该模型现已作为 Free 和 Pro 用户的默认版本，并提供 1M token 上下文窗口。测试数据显示，Sonnet 4.6 在处理复杂代码和办公任务时表现优于前代，其计算机使用（Computer Use）能力在 OSWorld 评测中取得显著进步。目前，该模型已在 API 及主流云平台同步上线，定价与…",
-      "clean_text": "🤖Anthropic 发布 Claude Sonnet 4.6，性能与计算机使用能力显著提升  Anthropic 发布 Claude Sonnet 4.6 模型，在编程、计算机操作及长文本推理方面实现全面升级。该模型现已作为 Free 和 Pro 用户的默认版本，并提供 1M token 上下文窗口。测试数据显示，Sonnet 4.6 在处理复杂代码和办公任务时表现优于前代，其计算机使用（Computer Use）能力在 OSWorld 评测中取得显著进步。目前，该模型已在 API 及主流云平台同步上线，定价与…",
-      "datetime": "2026-06-30T17:58:43+00:00",
-      "views": "255",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42277",
-      "scraped_at": "2026-07-01T02:00:54.714609",
-      "title": "Anthropic发布Claude S…",
-      "title_options": {
-        "conclusion": "Anthropic发布Claude S…",
-        "attractive": "Claude Sonnet 4.6性能…",
-        "minimal": "Claude Sonnet 4.6发布",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1532,6 +1514,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-02T05:57:01.988443"
+  "count": 60,
+  "updated_at": "2026-07-02T06:02:05.411504"
 }
