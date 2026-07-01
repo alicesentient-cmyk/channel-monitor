@@ -12084,5 +12084,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T18:02:21.664184"
+  },
+  "xhqcankao_30491": {
+    "ai_title": "微软计划裁员数千人",
+    "title_options": {
+      "conclusion": "微软计划裁员数千人",
+      "attractive": "微软将裁数千岗位",
+      "minimal": "微软裁员数千",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T19:03:13.360191"
+  },
+  "zaihuapd_42294": {
+    "ai_title": "英伟达刷新DeepSeek V4纪录",
+    "title_options": {
+      "conclusion": "英伟达刷新DeepSeek V4纪录",
+      "attractive": "推理成本降至五分之一",
+      "minimal": "英伟达DeepSeek V4",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T19:03:13.452298"
+  },
+  "xhqcankao_30492": {
+    "ai_title": "比亚迪在韩失去补贴",
+    "title_options": {
+      "conclusion": "比亚迪在韩失去补贴",
+      "attractive": "比亚迪韩国补贴落选",
+      "minimal": "比亚迪韩国补贴取消",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T19:03:13.499344"
+  },
+  "zaihuapd_42293": {
+    "ai_title": "特朗普加密货币获利5740万",
+    "title_options": {
+      "conclusion": "特朗普加密货币获利5740万",
+      "attractive": "特朗普从币圈赚了5740万",
+      "minimal": "特朗普 加密货币 5740万",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T19:03:14.822110"
   }
 }
