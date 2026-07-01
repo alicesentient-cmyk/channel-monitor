@@ -1681,45 +1681,6 @@
       }
     },
     {
-      "id": "zaihuapd_42250",
-      "channel": "zaihuapd",
-      "text": "OpenClaw 原生移动端上线 iOS 与 AndroidOpenClaw 原生移动端已上线 iOS 与 Android，用户可随时运行智能体。官方介绍，该应用支持频道、任务和消息回复，主打随身使用智能体，目前已上架 App Store 和 Google Play。App Store|Google PlayOpenClaw·茶馆水群·",
-      "clean_text": "OpenClaw 原生移动端上线 iOS 与 AndroidOpenClaw 原生移动端已上线 iOS 与 Android，用户可随时运行智能体。官方介绍，该应用支持频道、任务和消息回复，主打随身使用智能体，目前已上架 App Store 和 Google Play。App Store|Google PlayOpenClaw·茶馆水群",
-      "datetime": "2026-06-30T00:49:27+00:00",
-      "views": "1.87K",
-      "source_links": [
-        {
-          "text": "App Store",
-          "url": "https://apps.apple.com/app/openclaw-ai-that-does-things/id6780396132"
-        },
-        {
-          "text": "Google Play",
-          "url": "https://play.google.com/store/apps/details?id=ai.openclaw.app"
-        },
-        {
-          "text": "OpenClaw",
-          "url": "https://x.com/openclaw/status/2071688039114342592"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42250",
-      "scraped_at": "2026-06-30T09:05:14.735810",
-      "title": "OpenClaw移动端上线",
-      "title_options": {
-        "conclusion": "OpenClaw移动端上线",
-        "attractive": "智能体随身运行",
-        "minimal": "OpenClaw iOS Android",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1788,6 +1749,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-01T12:47:55.937922"
+  "count": 70,
+  "updated_at": "2026-07-01T12:52:59.019895"
 }
