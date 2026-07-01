@@ -1765,37 +1765,6 @@
       }
     },
     {
-      "id": "zaihuapd_42269",
-      "channel": "zaihuapd",
-      "text": "英国拟放宽苹果和 Google 应用支付规则英国竞争与市场管理局 6 月 30 日提议，允许应用开发者把用户引向苹果和 Google 应用商店之外的支付选项，以降低费用并促进竞争。监管机构称，两家公司若为这种引导收费，费用必须公平合理，并低于现有应用商店佣金，节省部分应让消费者受益或用于创新。CMA 还考虑要求苹果开放用于非接触式支付的 NFC 技术，让开发者可在 iOS 应用内提供支付服务。提案属于英国新数字市场制度下的咨询；苹果和 Google 去年被认定在移动生态中具有战略市场地位。Google 称本月已允许开发者引导用户到平台外交易，CMA 将在今年晚些时候决定是否提出正式要求。Reuters·茶馆水群·",
-      "clean_text": "英国拟放宽苹果和 Google 应用支付规则英国竞争与市场管理局 6 月 30 日提议，允许应用开发者把用户引向苹果和 Google 应用商店之外的支付选项，以降低费用并促进竞争。监管机构称，两家公司若为这种引导收费，费用必须公平合理，并低于现有应用商店佣金，节省部分应让消费者受益或用于创新。CMA 还考虑要求苹果开放用于非接触式支付的 NFC 技术，让开发者可在 iOS 应用内提供支付服务。提案属于英国新数字市场制度下的咨询；苹果和 Google 去年被认定在移动生态中具有战略市场地位。Google 称本月已允许开发者引导用户到平台外交易，CMA 将在今年晚些时候决定是否提出正式要求。Reuters·茶馆水群",
-      "datetime": "2026-06-30T12:12:05+00:00",
-      "views": "3.86K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/world/uk-regulator-proposes-easing-apple-google-app-store-payment-rules-2026-06-30/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42269",
-      "scraped_at": "2026-06-30T21:00:26.780045",
-      "title": "英国拟放宽应用支付规则",
-      "title_options": {
-        "conclusion": "英国拟放宽应用支付规则",
-        "attractive": "苹果谷歌支付规则将变",
-        "minimal": "英国放宽支付规则",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1864,6 +1833,6 @@
       }
     }
   ],
-  "count": 74,
-  "updated_at": "2026-07-02T00:11:03.286589"
+  "count": 73,
+  "updated_at": "2026-07-02T00:13:18.324915"
 }
