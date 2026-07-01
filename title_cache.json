@@ -11955,5 +11955,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T14:03:52.224004"
+  },
+  "xhqcankao_30485": {
+    "ai_title": "小飞机撞中国尊",
+    "title_options": {
+      "conclusion": "小飞机撞中国尊",
+      "attractive": "距客机仅1500英尺",
+      "minimal": "小飞机撞中国尊",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T15:04:48.007707"
+  },
+  "xhqcankao_30483": {
+    "ai_title": "蓝色起源不知火箭爆炸原因",
+    "title_options": {
+      "conclusion": "蓝色起源不知火箭爆炸原因",
+      "attractive": "新格伦火箭爆炸原因成谜",
+      "minimal": "蓝色起源火箭爆炸",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T15:04:48.056664"
+  },
+  "xhqcankao_30484": {
+    "ai_title": "美宇航员完成太空行走",
+    "title_options": {
+      "conclusion": "美宇航员完成太空行走",
+      "attractive": "更换机械臂故障部件",
+      "minimal": "太空行走 换机械臂",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T15:04:48.197109"
   }
 }
