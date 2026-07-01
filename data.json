@@ -1,6 +1,82 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42286",
+      "channel": "zaihuapd",
+      "text": "优必选发布消费级 U1 人形机器人，最高 99 万元优必选 6 月 30 日在深圳发布消费级品牌“优世界”首款全尺寸超仿生人形机器人 U1 系列，Ultra 男款 99 万元、女款 88 万元，Pro 和 Lite 分别售 16.98 万元和 11.98 万元。U1 面向成年用户家庭情感陪伴，配备 88 个高自由度关节，Ultra 版具备自主行动能力；交互数据本地加密存储、不强制上传云端，也不承担清洁和烹饪等家务。产品已于 6 月 2 日在京东预售至 7 月 15 日，付 3000 元定金可锁定首批资格；优必选称全渠道订单已超 1.1 万台，首批预计 9 月中旬交付。IT之家·茶馆水群·",
+      "clean_text": "优必选发布消费级 U1 人形机器人，最高 99 万元优必选 6 月 30 日在深圳发布消费级品牌“优世界”首款全尺寸超仿生人形机器人 U1 系列，Ultra 男款 99 万元、女款 88 万元，Pro 和 Lite 分别售 16.98 万元和 11.98 万元。U1 面向成年用户家庭情感陪伴，配备 88 个高自由度关节，Ultra 版具备自主行动能力；交互数据本地加密存储、不强制上传云端，也不承担清洁和烹饪等家务。产品已于 6 月 2 日在京东预售至 7 月 15 日，付 3000 元定金可锁定首批资格；优必选称全渠道订单已超 1.1 万台，首批预计 9 月中旬交付。IT之家·茶馆水群",
+      "datetime": "2026-07-01T05:47:36+00:00",
+      "views": "1.83K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/970/624.htm"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42286",
+      "scraped_at": "2026-07-01T14:00:32.252369",
+      "title": "优必选发布U1人形机器人",
+      "title_options": {
+        "conclusion": "优必选发布U1人形机器人",
+        "attractive": "最高99万的人形机器人",
+        "minimal": "U1人形机器人 99万",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30482",
+      "channel": "xhqcankao",
+      "text": "特斯拉开始测试无方向盘和踏板的Robotaxi特斯拉公司已开始在美国得克萨斯州奥斯汀测试其Cybercab的量产版本，该车有两个座位，但没有方向盘或踏板。目前，根据发布在社交平台 X 上的一段视频，测试是在右侧乘客座椅上配有一名安全监控员的情况下进行的。这次测试发生在特斯拉公布Cybercab设计近两年之后，该车旨在成为一款完全自动驾驶的自动驾驶出租车，可通过特斯拉的应用叫车。上周，美国国家公路交通安全管理局公布了一项提案，对于“专为由自动驾驶系统驾驶而设计的车辆”，该提案将不再强制要求配备制动踏板。该提案仍处于公众意见征询期，但预计将在今年晚些时候通过。",
+      "clean_text": "特斯拉开始测试无方向盘和踏板的Robotaxi特斯拉公司已开始在美国得克萨斯州奥斯汀测试其Cybercab的量产版本，该车有两个座位，但没有方向盘或踏板。目前，根据发布在社交平台 X 上的一段视频，测试是在右侧乘客座椅上配有一名安全监控员的情况下进行的。这次测试发生在特斯拉公布Cybercab设计近两年之后，该车旨在成为一款完全自动驾驶的自动驾驶出租车，可通过特斯拉的应用叫车。上周，美国国家公路交通安全管理局公布了一项提案，对于“专为由自动驾驶系统驾驶而设计的车辆”，该提案将不再强制要求配备制动踏板。该提案仍处于公众意见征询期，但预计将在今年晚些时候通过。——Techcrunch",
+      "datetime": "2026-07-01T05:30:41+00:00",
+      "views": "1.25K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30482",
+      "scraped_at": "2026-07-01T14:00:33.964058",
+      "title": "特斯拉测试无方向盘Robotaxi",
+      "title_options": {
+        "conclusion": "特斯拉测试无方向盘Robotaxi",
+        "attractive": "无方向盘踏板，特斯拉测试",
+        "minimal": "特斯拉Robotaxi测试",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30481",
+      "channel": "xhqcankao",
+      "text": "谷歌推出Nano Banana 2 Lite模型 四秒出图、价格更低谷歌于周二发布了 Nano Banana 2 Lite 模型，这是其自主研发的AI视频和图像生成器的最新版本。谷歌声称，该版本比其之前发布的版本速度明显更快、更经济实惠。谷歌表示，该模型具有更低的延迟，可以在四秒内生成图像，这使得其成为你需要快速迭代图像并连续大量生成时的一个不错选择。其成本为每 1,000 张图像 0.034 美元，这对于希望大规模草拟和完善其内容的人来说相当实惠。Nano Banana 2 Lite现可通过谷歌AI Studio和Gemini API，以及谷歌的Gemini Enterprise Agent Platform获取。",
+      "clean_text": "谷歌推出Nano Banana 2 Lite模型 四秒出图、价格更低谷歌于周二发布了 Nano Banana 2 Lite 模型，这是其自主研发的AI视频和图像生成器的最新版本。谷歌声称，该版本比其之前发布的版本速度明显更快、更经济实惠。谷歌表示，该模型具有更低的延迟，可以在四秒内生成图像，这使得其成为你需要快速迭代图像并连续大量生成时的一个不错选择。其成本为每 1,000 张图像 0.034 美元，这对于希望大规模草拟和完善其内容的人来说相当实惠。Nano Banana 2 Lite现可通过谷歌AI Studio和Gemini API，以及谷歌的Gemini Enterprise Agent Platform获取。——Techcrunch",
+      "datetime": "2026-07-01T05:01:04+00:00",
+      "views": "2.03K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30481",
+      "scraped_at": "2026-07-01T14:00:33.963657",
+      "title": "谷歌推Nano Banana 2 Li…",
+      "title_options": {
+        "conclusion": "谷歌推Nano Banana 2 Li…",
+        "attractive": "四秒出图仅0.034美元",
+        "minimal": "谷歌新模型低价"
+      }
+    },
+    {
       "id": "zaihuapd_42285",
       "channel": "zaihuapd",
       "text": "Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息  一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。…",
@@ -1628,37 +1704,6 @@
       }
     },
     {
-      "id": "xhqcankao_30441",
-      "channel": "xhqcankao",
-      "text": "苹果提前发布更新应对AI网络安全问题苹果公司今天发布了 iOS 26.5.2、iPadOS 26.5.2 和macOS Tahoe 26.5.2，其中包含大量安全修复程序。对此，苹果公司称，将提前推出一系列软件更新。这些更新原本会与新版 iOS 操作系统一同打包发布，但为了应对人工智能带来的安全风险，将比以往更早向用户开放。苹果表示，鉴于人工智能能够加速恶意黑客工具的开发，苹果正在适应这一现实。以前，除非安全专家发现针对某个此前未知软件漏洞的黑客攻击活动，否则苹果通常会在 iOS 版本升级时一并发布安全更新，例如从当前的26.5版本升级到计划中的26.6版本。不过，苹果表示，最新一轮安全更新将改变这一惯例，在iOS 26.6正式广泛发布之前，就会提前向所有用户开放。",
-      "clean_text": "苹果提前发布更新应对AI网络安全问题苹果公司今天发布了 iOS 26.5.2、iPadOS 26.5.2 和macOS Tahoe 26.5.2，其中包含大量安全修复程序。对此，苹果公司称，将提前推出一系列软件更新。这些更新原本会与新版 iOS 操作系统一同打包发布，但为了应对人工智能带来的安全风险，将比以往更早向用户开放。苹果表示，鉴于人工智能能够加速恶意黑客工具的开发，苹果正在适应这一现实。以前，除非安全专家发现针对某个此前未知软件漏洞的黑客攻击活动，否则苹果通常会在 iOS 版本升级时一并发布安全更新，例如从当前的26.5版本升级到计划中的26.6版本。不过，苹果表示，最新一轮安全更新将改变这一惯例，在iOS 26.6正式广泛发布之前，就会提前向所有用户开放。——凤凰网科技、路透社、Macrumors",
-      "datetime": "2026-06-30T02:02:46+00:00",
-      "views": "2.03K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006A4XwVu1JgOZanmPXXY--ssbHf8ecOhnlQUUC25bEnK8tcwllougjOYETTzD--Zw6Kx"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/"
-        },
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30441",
-      "scraped_at": "2026-06-30T11:01:08.486521",
-      "title": "苹果提前发布安全更新",
-      "title_options": {
-        "conclusion": "苹果提前发布安全更新",
-        "attractive": "AI加速黑客，苹果急更新",
-        "minimal": "苹果安全更新提前",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1727,6 +1772,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-01T13:58:47.401690"
+  "count": 71,
+  "updated_at": "2026-07-01T14:03:52.244653"
 }

@@ -11926,5 +11926,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T13:03:09.896891"
+  },
+  "xhqcankao_30481": {
+    "ai_title": "谷歌推Nano Banana 2 Li…",
+    "title_options": {
+      "conclusion": "谷歌推Nano Banana 2 Li…",
+      "attractive": "四秒出图仅0.034美元",
+      "minimal": "谷歌新模型低价"
+    },
+    "generated_at": "2026-07-01T14:03:52.065720"
+  },
+  "xhqcankao_30482": {
+    "ai_title": "特斯拉测试无方向盘Robotaxi",
+    "title_options": {
+      "conclusion": "特斯拉测试无方向盘Robotaxi",
+      "attractive": "无方向盘踏板，特斯拉测试",
+      "minimal": "特斯拉Robotaxi测试",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T14:03:52.207906"
+  },
+  "zaihuapd_42286": {
+    "ai_title": "优必选发布U1人形机器人",
+    "title_options": {
+      "conclusion": "优必选发布U1人形机器人",
+      "attractive": "最高99万的人形机器人",
+      "minimal": "U1人形机器人 99万",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T14:03:52.224004"
   }
 }
