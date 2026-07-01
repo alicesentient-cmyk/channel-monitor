@@ -1,6 +1,70 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30499",
+      "channel": "xhqcankao",
+      "text": "Meta将进军云业务出售过剩的AI算力Meta 正在制定一项云基础设施业务计划，旨在出售人工智能计算能力和模型的使用权，从而与亚马逊云服务 (AWS)、微软 Azure 和谷歌云等行业领导者展开新的竞争。据知情人士透露，Meta 一直在竞相购置昂贵的数据中心和其他基础设施，以支持其自身的人工智能发展。一项潜在计划包括出售托管在 Meta 现有AI基础设施上的各种模型的使用权，这与 AWS 的 Bedrock 服务类似。Meta 将运营支持这些模型的数据中心和芯片，包括其自主研发的 Muse Spark 模型，并向开发者收取使用费。该公司也正在考虑出售“原始”计算能力的使用权，类似于 CoreWeave 等其他所谓的“新云”公司。这些新业务线的开发是 Meta Compute 项目的一部分，该项目是 Meta 公司内部的一项计划，旨在构建和管理公司的人工智能基础设施。",
+      "clean_text": "Meta将进军云业务出售过剩的AI算力Meta 正在制定一项云基础设施业务计划，旨在出售人工智能计算能力和模型的使用权，从而与亚马逊云服务 (AWS)、微软 Azure 和谷歌云等行业领导者展开新的竞争。据知情人士透露，Meta 一直在竞相购置昂贵的数据中心和其他基础设施，以支持其自身的人工智能发展。一项潜在计划包括出售托管在 Meta 现有AI基础设施上的各种模型的使用权，这与 AWS 的 Bedrock 服务类似。Meta 将运营支持这些模型的数据中心和芯片，包括其自主研发的 Muse Spark 模型，并向开发者收取使用费。该公司也正在考虑出售“原始”计算能力的使用权，类似于 CoreWeave 等其他所谓的“新云”公司。这些新业务线的开发是 Meta Compute 项目的一部分，该项目是 Meta 公司内部的一项计划，旨在构建和管理公司的人工智能基础设施。——彭博社",
+      "datetime": "2026-07-01T13:50:14+00:00",
+      "views": "587",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?embedded-checkout=true"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30499",
+      "scraped_at": "2026-07-01T22:00:32.726548",
+      "title": "Meta进军云业务售AI算力",
+      "title_options": {
+        "conclusion": "Meta进军云业务售AI算力",
+        "attractive": "Meta出售AI算力挑战AWS",
+        "minimal": "Meta云业务AI算力",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30498",
+      "channel": "xhqcankao",
+      "text": "索尼将关闭PS3和Vita主机数字商店索尼现计划关闭在PS3和PS Vita上的数字分发服务，这对于这两款主机上的PlayStation 商店来说是一个时代的终结。PS3游戏主机上的 PlayStation 商店将于今年晚些时候在部分市场关闭，墨西哥、洪都拉斯和尼加拉瓜从八月开始；随后其他的拉丁美洲和中东国家将在2026年末跟进。在“所有其他国家” 中，PS3和PS Vita两者的关闭将于2027年7月生效。在此日期之后，索尼表示主机所有者将无法购买新内容，但可以在截止日期过后 “在可预见的未来” 继续下载他们之前购买的游戏。这意味着如果你还没有为这些老主机购买特定游戏，仍有一些时间来这样做。",
+      "clean_text": "索尼将关闭PS3和Vita主机数字商店索尼现计划关闭在PS3和PS Vita上的数字分发服务，这对于这两款主机上的PlayStation 商店来说是一个时代的终结。PS3游戏主机上的 PlayStation 商店将于今年晚些时候在部分市场关闭，墨西哥、洪都拉斯和尼加拉瓜从八月开始；随后其他的拉丁美洲和中东国家将在2026年末跟进。在“所有其他国家” 中，PS3和PS Vita两者的关闭将于2027年7月生效。在此日期之后，索尼表示主机所有者将无法购买新内容，但可以在截止日期过后 “在可预见的未来” 继续下载他们之前购买的游戏。这意味着如果你还没有为这些老主机购买特定游戏，仍有一些时间来这样做。——Theverge",
+      "datetime": "2026-07-01T13:18:46+00:00",
+      "views": "1.58K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30498",
+      "scraped_at": "2026-07-01T22:00:32.726329",
+      "title": "索尼将关闭PS3和Vita商店",
+      "title_options": {
+        "conclusion": "索尼将关闭PS3和Vita商店",
+        "attractive": "PS3/Vita商店2027年关闭",
+        "minimal": "PS3/Vita商店关闭",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42298",
+      "channel": "zaihuapd",
+      "text": "ChatGPT每周用户数量在不到一年内翻倍，达到2亿  OpenAI宣布，现在每周有超过2亿人使用ChatGPT，这一数字是去年11月报告的1亿活跃用户的两倍。92%的财富500强公司正在使用OpenAI的产品，自公司发布更智能且成本更低的GPT-4o Mini模型后，API使用量也翻了一番。尽管谷歌、微软和Meta自ChatGPT推出以来也推出了自己的AI聊天界面，但OpenAI的用户基础仍在持续增长。还有传言称苹果和英伟达可能是OpenAI下一轮的投资者。  The Verge关注频道 @ZaiHua…",
+      "clean_text": "ChatGPT每周用户数量在不到一年内翻倍，达到2亿  OpenAI宣布，现在每周有超过2亿人使用ChatGPT，这一数字是去年11月报告的1亿活跃用户的两倍。92%的财富500强公司正在使用OpenAI的产品，自公司发布更智能且成本更低的GPT-4o Mini模型后，API使用量也翻了一番。尽管谷歌、微软和Meta自ChatGPT推出以来也推出了自己的AI聊天界面，但OpenAI的用户基础仍在持续增长。还有传言称苹果和英伟达可能是OpenAI下一轮的投资者。  The Verge☘️关注频道 @ZaiHua…",
+      "datetime": "2026-07-01T13:01:09+00:00",
+      "views": "4.97K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42298",
+      "scraped_at": "2026-07-01T22:00:30.724457",
+      "title": "ChatGPT周用户达2亿",
+      "title_options": {
+        "conclusion": "ChatGPT周用户达2亿",
+        "attractive": "ChatGPT用户翻倍至2亿",
+        "minimal": "ChatGPT 2亿用户",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30497",
       "channel": "xhqcankao",
       "text": "索尼将停产所有实体PlayStation游戏光盘日本索尼公司已宣布，从2028年1月起，将完全停止生产新款PlayStation游戏的实体光盘。届时新发售的游戏将仅通过PlayStation Store及其他零售商提供数字版本。2028年1月之前发售的游戏仍将提供光盘版。“这对索尼互动娱乐来说是顺应消费者趋势的自然方向，因为数字媒体的普遍偏好已大幅超过实体光盘，”索尼在公告中表示。“这一转变将使我们能够更紧密地与当下大多数社区用户偏好获取和游玩游戏的方式保持一致。”",
@@ -1800,6 +1864,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-01T21:56:00.902856"
+  "count": 74,
+  "updated_at": "2026-07-01T22:01:10.025979"
 }
