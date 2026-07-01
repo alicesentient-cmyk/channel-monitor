@@ -11728,5 +11728,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T02:05:42.012606"
+  },
+  "xhqcankao_30470": {
+    "ai_title": "Anthropic推科研自动化平台",
+    "title_options": {
+      "conclusion": "Anthropic推科研自动化平台",
+      "attractive": "科学家可用自然语言提问",
+      "minimal": "Claude Science平台",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T08:04:34.306170"
+  },
+  "xhqcankao_30469": {
+    "ai_title": "AWS斥10亿美元建AI部门",
+    "title_options": {
+      "conclusion": "AWS斥10亿美元建AI部门",
+      "attractive": "AWS派驻工程师帮企业部署AI",
+      "minimal": "AWS 10亿 AI 部门",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T08:04:34.357539"
   }
 }

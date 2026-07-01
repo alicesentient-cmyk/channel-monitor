@@ -1,6 +1,56 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30470",
+      "channel": "xhqcankao",
+      "text": "Anthropic推出新平台自动化完成研究任务美国人工智能公司Anthropic推出了一款旨在帮助科学家实现科研自动化的新软件，希望借此减少科研工作中繁琐、重复的环节。这家AI公司周二发布的声明表示，公司推出AI工作平台“Claude Science”，可用于自动化完成一系列生物学和化学研究任务，例如预测蛋白质结构。Anthropic称，这款软件整合了科学家常用的多种工具，包括60多个科学数据库，目标是让科学家能够更轻松地自动化执行多步骤任务，使用自然语言提问，并在无需逐一查询多个信息来源的情况下获得答案。Claude Science将首先以测试版的形式向企业的付费用户开放。",
+      "clean_text": "Anthropic推出新平台自动化完成研究任务美国人工智能公司Anthropic推出了一款旨在帮助科学家实现科研自动化的新软件，希望借此减少科研工作中繁琐、重复的环节。这家AI公司周二发布的声明表示，公司推出AI工作平台“Claude Science”，可用于自动化完成一系列生物学和化学研究任务，例如预测蛋白质结构。Anthropic称，这款软件整合了科学家常用的多种工具，包括60多个科学数据库，目标是让科学家能够更轻松地自动化执行多步骤任务，使用自然语言提问，并在无需逐一查询多个信息来源的情况下获得答案。Claude Science将首先以测试版的形式向企业的付费用户开放。——财联社、彭博社",
+      "datetime": "2026-06-30T23:31:37+00:00",
+      "views": "750",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2413573?sv=8.5.9&amp;"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30470",
+      "scraped_at": "2026-07-01T08:00:35.416716",
+      "title": "Anthropic推科研自动化平台",
+      "title_options": {
+        "conclusion": "Anthropic推科研自动化平台",
+        "attractive": "科学家可用自然语言提问",
+        "minimal": "Claude Science平台",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30469",
+      "channel": "xhqcankao",
+      "text": "亚马逊AWS斥资10亿美元成立新AI部门亚马逊 AWS 于本周二宣布，将斥资10亿美元成立前线派驻工程部，专门为企业客户提供人工智能系统的搭建与落地部署服务。前线派驻工程师(简称FDE)，指直接派驻入驻合作企业内部、帮助客户加速技术数字化转型的技术人员。这一岗位概念最早由军工软件企业帕兰蒂尔在十余年前提出，如今被众多软件厂商再度推崇",
+      "clean_text": "亚马逊AWS斥资10亿美元成立新AI部门亚马逊 AWS 于本周二宣布，将斥资10亿美元成立前线派驻工程部，专门为企业客户提供人工智能系统的搭建与落地部署服务。前线派驻工程师(简称FDE)，指直接派驻入驻合作企业内部、帮助客户加速技术数字化转型的技术人员。这一岗位概念最早由军工软件企业帕兰蒂尔在十余年前提出，如今被众多软件厂商再度推崇 —— 企业直接派遣技术团队进驻客户现场，以此提升自家技术产品的落地渗透率。亚马逊高管说：“多年来我们其实一直具备相关服务能力，但本次是首次从组织架构层面，把相关人员整合至同一个业务部门，统一制定标准化落地部署体系。”——CNBC",
+      "datetime": "2026-06-30T23:02:29+00:00",
+      "views": "1.06K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30469",
+      "scraped_at": "2026-07-01T08:00:35.416345",
+      "title": "AWS斥10亿美元建AI部门",
+      "title_options": {
+        "conclusion": "AWS斥10亿美元建AI部门",
+        "attractive": "AWS派驻工程师帮企业部署AI",
+        "minimal": "AWS 10亿 AI 部门",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42277",
       "channel": "zaihuapd",
       "text": "Anthropic 发布 Claude Sonnet 4.6，性能与计算机使用能力显著提升  Anthropic 发布 Claude Sonnet 4.6 模型，在编程、计算机操作及长文本推理方面实现全面升级。该模型现已作为 Free 和 Pro 用户的默认版本，并提供 1M token 上下文窗口。测试数据显示，Sonnet 4.6 在处理复杂代码和办公任务时表现优于前代，其计算机使用（Computer Use）能力在 OSWorld 评测中取得显著进步。目前，该模型已在 API 及主流云平台同步上线，定价与…",
@@ -1456,6 +1506,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-01T07:59:30.385648"
+  "count": 59,
+  "updated_at": "2026-07-01T08:04:34.376856"
 }
