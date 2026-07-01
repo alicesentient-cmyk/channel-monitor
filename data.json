@@ -1,6 +1,51 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42285",
+      "channel": "zaihuapd",
+      "text": "Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息  一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。…",
+      "clean_text": "🤖Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息  一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。…",
+      "datetime": "2026-07-01T04:42:42+00:00",
+      "views": "2.7K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42285",
+      "scraped_at": "2026-07-01T13:00:40.252746",
+      "title": "Claude Code暗传代理与时区",
+      "title_options": {
+        "conclusion": "Claude Code暗传代理与时区",
+        "attractive": "Claude Code偷传中国时区",
+        "minimal": "Claude Code遥测",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30480",
+      "channel": "xhqcankao",
+      "text": "Anthropic宣布推出Claude Sonnet 5模型美东时间30日 周二，Anthropic 正式发布全新中端模型 Claude Sonnet 5 ，定位为兼顾性能、成本与智能体执行能力的新一代主力模型，并将其设为Claude平台默认模型，面向免费及付费用户全面开放。 Anthropic 表示，Claude Sonnet 5是公司“迄今智能体能力最强的Sonnet模型”，能够完成浏览网页、编写代码、制定计划、多步骤办公等复杂任务，同时，价格仅为旗舰模型的六成，在最近两个月的价格优惠期，定价只有旗舰模型的四成，希望成为企业部署AI智能体最具成本效益的选择。Anthropic称，截至今年8月31日，Claude Sonnet 5的API定价为2美元/百万输入token、10美元/百万输出token，9月，定价将分别升至3美元和15美元。",
+      "clean_text": "Anthropic宣布推出Claude Sonnet 5模型美东时间30日 周二，Anthropic 正式发布全新中端模型 Claude Sonnet 5 ，定位为兼顾性能、成本与智能体执行能力的新一代主力模型，并将其设为Claude平台默认模型，面向免费及付费用户全面开放。 Anthropic 表示，Claude Sonnet 5是公司“迄今智能体能力最强的Sonnet模型”，能够完成浏览网页、编写代码、制定计划、多步骤办公等复杂任务，同时，价格仅为旗舰模型的六成，在最近两个月的价格优惠期，定价只有旗舰模型的四成，希望成为企业部署AI智能体最具成本效益的选择。Anthropic称，截至今年8月31日，Claude Sonnet 5的API定价为2美元/百万输入token、10美元/百万输出token，9月，定价将分别升至3美元和15美元。——华尔街见闻、Techcrunch",
+      "datetime": "2026-07-01T04:34:13+00:00",
+      "views": "1.14K",
+      "source_links": [
+        {
+          "text": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775881"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30480",
+      "scraped_at": "2026-07-01T13:00:42.405763",
+      "title": "Anthropic发布Claude S…",
+      "title_options": {
+        "conclusion": "Anthropic发布Claude S…",
+        "attractive": "旗舰六成价，智能体最强",
+        "minimal": "Claude Sonnet 5发布",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42284",
       "channel": "zaihuapd",
       "text": "Vercel 支持用 Dockerfile 部署容器Vercel 支持通过 Dockerfile.vercel 部署容器：项目加入该文件后，平台会构建、存储、部署镜像，并在 Fluid compute 上自动伸缩。服务只需监听 $PORT（默认 80）并提供 HTTP，Go、Rails、Spring Boot、FastAPI 或 nginx 后端等可运行。每次 git push 会重建镜像并生成预览 URL，也可用 vercel 命令直接部署。容器按代码实际运行的 CPU 计费，空闲时收缩；日志、追踪和指标在同一仪表盘。镜像以优化启动镜像保存，启动时按需流式解压，状态放在数据库或缓存等外部服务中。Vercel·茶馆水群·",
@@ -1654,33 +1699,6 @@
       }
     },
     {
-      "id": "xhqcankao_30439",
-      "channel": "xhqcankao",
-      "text": "开源AI智能体OpenClaw获得原生iOS和Android应用OpenClaw基金会宣布在App Store和Play Store应用商店已发布适用于iOS和Android设备的独立应用程序。用户可以将该应用与为开源 AI 助手提供支持的“网关”配对。连接后，用户可以通过实时语音对话与 OpenClaw 聊天，批准助手的操作，并控制对设备摄像头或位置等功能的访问权限。在苹果阵营，智能体AI一直是一个棘手的问题，因为苹果的官方审核流程更为严格。iOS用户不得不使用Telegram或WhatsApp等聊天应用与他们的智能体进行沟通。",
-      "clean_text": "开源AI智能体OpenClaw获得原生iOS和Android应用OpenClaw基金会宣布在App Store和Play Store应用商店已发布适用于iOS和Android设备的独立应用程序。用户可以将该应用与为开源 AI 助手提供支持的“网关”配对。连接后，用户可以通过实时语音对话与 OpenClaw 聊天，批准助手的操作，并控制对设备摄像头或位置等功能的访问权限。在苹果阵营，智能体AI一直是一个棘手的问题，因为苹果的官方审核流程更为严格。iOS用户不得不使用Telegram或WhatsApp等聊天应用与他们的智能体进行沟通。——Engadget，Macrumors",
-      "datetime": "2026-06-30T01:02:14+00:00",
-      "views": "261",
-      "source_links": [
-        {
-          "text": "Engadget",
-          "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/"
-        },
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/06/29/openclaw-ios-app/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30439",
-      "scraped_at": "2026-06-30T09:05:16.377690",
-      "title": "OpenClaw发布iOS/安卓应用",
-      "title_options": {
-        "conclusion": "OpenClaw发布iOS/安卓应用",
-        "attractive": "智能体AI突破苹果审核",
-        "minimal": "OpenClaw iOS 安卓 应用",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1749,6 +1767,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-07-01T12:58:03.814558"
+  "count": 71,
+  "updated_at": "2026-07-01T13:03:09.915765"
 }

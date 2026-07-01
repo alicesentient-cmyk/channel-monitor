@@ -11906,5 +11906,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T12:02:21.752972"
+  },
+  "xhqcankao_30480": {
+    "ai_title": "Anthropic发布Claude S…",
+    "title_options": {
+      "conclusion": "Anthropic发布Claude S…",
+      "attractive": "旗舰六成价，智能体最强",
+      "minimal": "Claude Sonnet 5发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T13:03:09.626568"
+  },
+  "zaihuapd_42285": {
+    "ai_title": "Claude Code暗传代理与时区",
+    "title_options": {
+      "conclusion": "Claude Code暗传代理与时区",
+      "attractive": "Claude Code偷传中国时区",
+      "minimal": "Claude Code遥测",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T13:03:09.896891"
   }
 }
