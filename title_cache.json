@@ -11797,5 +11797,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T09:10:18.526601"
+  },
+  "xhqcankao_30474": {
+    "ai_title": "美解除Anthropic出口管制",
+    "title_options": {
+      "conclusion": "美解除Anthropic出口管制",
+      "attractive": "Anthropic模型恢复访问",
+      "minimal": "Anthropic出口管制解除",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T10:00:52.280101"
+  },
+  "zaihuapd_42281": {
+    "ai_title": "特斯拉FSD入华",
+    "title_options": {
+      "conclusion": "特斯拉FSD入华",
+      "attractive": "FSD中国可用",
+      "minimal": "特斯拉FSD入华",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T10:00:52.349885"
+  },
+  "zaihuapd_42280": {
+    "ai_title": "Claude Sonnet 5发布",
+    "title_options": {
+      "conclusion": "Claude Sonnet 5发布",
+      "attractive": "最强代理能力Sonnet",
+      "minimal": "Sonnet 5发布",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T10:00:52.470786"
   }
 }

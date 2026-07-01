@@ -1,6 +1,69 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30474",
+      "channel": "xhqcankao",
+      "text": "美国政府解除Anthropic大模型出口管制Anthropic 周二宣布，美国商务部已解除对其Claude Fable 5和Mythos 5模型的出口管制，从而结束了这家人工智能公司与特朗普政府之间最新一轮激烈对峙。Anthropic在X上发帖称，已接到美国商务部解除出口管制的通知，将于当地时间明天 (周三) 开始恢复访问权限，并将尽快分享最新进展。“我们感谢用户的耐心等待，也感谢所有与我们合作重新部署模型的人。”Anthropic表示。Anthropic在本月早些时候暂停了Fable 5和Mythos 5的访问权限，以遵守美国政府的一项出口管制指令。该指令要求暂停“任何外国公民”的一切访问权限，“无论其身处美国境内还是境外，包括Anthropic的外籍员工”。",
+      "clean_text": "美国政府解除Anthropic大模型出口管制Anthropic 周二宣布，美国商务部已解除对其Claude Fable 5和Mythos 5模型的出口管制，从而结束了这家人工智能公司与特朗普政府之间最新一轮激烈对峙。Anthropic在X上发帖称，已接到美国商务部解除出口管制的通知，将于当地时间明天 (周三) 开始恢复访问权限，并将尽快分享最新进展。“我们感谢用户的耐心等待，也感谢所有与我们合作重新部署模型的人。”Anthropic表示。Anthropic在本月早些时候暂停了Fable 5和Mythos 5的访问权限，以遵守美国政府的一项出口管制指令。该指令要求暂停“任何外国公民”的一切访问权限，“无论其身处美国境内还是境外，包括Anthropic的外籍员工”。——凤凰网科技、CNBC",
+      "datetime": "2026-07-01T01:32:37+00:00",
+      "views": "1.36K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006P4s-_ifECmq8lv6gi3ht1umPMTmP7JvggIFZAyze-_iJfykWHXRKChPTSh-_ZH8aR-_f"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30474",
+      "scraped_at": "2026-07-01T10:00:26.576943",
+      "title": "美解除Anthropic出口管制",
+      "title_options": {
+        "conclusion": "美解除Anthropic出口管制",
+        "attractive": "Anthropic模型恢复访问",
+        "minimal": "Anthropic出口管制解除",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42281",
+      "channel": "zaihuapd",
+      "text": "特斯拉监督版 FSD 入华  特斯拉今早在社交媒体 X 发文公布了监督版 FSD 的最新布局，其中提到监督版 FSD 可以在中国使用。  Telsa",
+      "clean_text": "特斯拉监督版 FSD 入华  特斯拉今早在社交媒体 X 发文公布了监督版 FSD 的最新布局，其中提到监督版 FSD 可以在中国使用。  Telsa · 备用频道 · 投稿通道",
+      "datetime": "2026-07-01T01:22:19+00:00",
+      "views": "3.46K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42281",
+      "scraped_at": "2026-07-01T10:00:24.710086",
+      "title": "特斯拉FSD入华",
+      "title_options": {
+        "conclusion": "特斯拉FSD入华",
+        "attractive": "FSD中国可用",
+        "minimal": "特斯拉FSD入华",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42280",
+      "channel": "zaihuapd",
+      "text": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强的 Sonnet 模型，可规划、使用浏览器和终端等工具并自主运行。它在推理、工具使用、编码和知识工作上强于 Sonnet 4.6，性能接近 Opus 4.8，但价格更低。  Claude Sonnet 5 即日起面向所有套餐开放，并成为 Free 和 Pro 默认模型；Claude Platform 限时价截至 2026 年 8 月 31 日为每百万输入 token 2 美元、输出 token…",
+      "clean_text": "🤖Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强的 Sonnet 模型，可规划、使用浏览器和终端等工具并自主运行。它在推理、工具使用、编码和知识工作上强于 Sonnet 4.6，性能接近 Opus 4.8，但价格更低。  Claude Sonnet 5 即日起面向所有套餐开放，并成为 Free 和 Pro 默认模型；Claude Platform 限时价截至 2026 年 8 月 31 日为每百万输入 token 2 美元、输出 token…",
+      "datetime": "2026-07-01T01:12:49+00:00",
+      "views": "4.16K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42280",
+      "scraped_at": "2026-07-01T10:00:24.709527",
+      "title": "Claude Sonnet 5发布",
+      "title_options": {
+        "conclusion": "Claude Sonnet 5发布",
+        "attractive": "最强代理能力Sonnet",
+        "minimal": "Sonnet 5发布",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30473",
       "channel": "xhqcankao",
       "text": "数据中心遭反对 SpaceX推星链半价服务救场SpaceX 正在田纳西州孟菲斯市为其星链互联网套餐提供折扣优惠。此前，该公司因在该地区及邻近的密西西比州建设数据中心而遭到反对者的强烈抵制和法律挑战。参与该优惠活动的客户可以以月费半价的价格使用星链服务套餐，原月费在55美元至130美元之间。该折扣还可分享给亲友使用。新用户无需支付硬件预付款。 SpaceX 在今年早些时候收购了 xAI ，后者在孟菲斯和密西西比州南海文两地均运营着数据中心。此次优惠活动推出之际， SpaceX 正因其数据中心造成的污染问题面临社区和环保人士的反对。",
@@ -1631,6 +1694,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-07-01T09:55:47.860549"
+  "count": 67,
+  "updated_at": "2026-07-01T10:00:52.488990"
 }
