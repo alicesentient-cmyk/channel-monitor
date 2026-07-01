@@ -11856,5 +11856,55 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-01T11:01:36.103717"
+  },
+  "zaihuapd_42284": {
+    "ai_title": "Vercel支持Dockerfile部署",
+    "title_options": {
+      "conclusion": "Vercel支持Dockerfile部署",
+      "attractive": "Vercel容器按CPU计费",
+      "minimal": "Vercel Docker部署",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T12:02:20.355995"
+  },
+  "xhqcankao_30478": {
+    "ai_title": "亚马逊被罚225万美元",
+    "title_options": {
+      "conclusion": "亚马逊被罚225万美元",
+      "attractive": "不提供记录被罚225万",
+      "minimal": "亚马逊 FTC 罚款",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T12:02:20.437689"
+  },
+  "xhqcankao_30479": {
+    "ai_title": "互联网之父温顿·瑟夫退休",
+    "title_options": {
+      "conclusion": "互联网之父温顿·瑟夫退休",
+      "attractive": "83岁互联网之父卸任谷歌",
+      "minimal": "温顿·瑟夫退休",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T12:02:20.501738"
+  },
+  "zaihuapd_42283": {
+    "ai_title": "哪吒2票房159.09亿下映",
+    "title_options": {
+      "conclusion": "哪吒2票房159.09亿下映",
+      "attractive": "哪吒2下映前再获国际奖",
+      "minimal": "哪吒2下映159亿",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T12:02:21.620143"
+  },
+  "xhqcankao_30477": {
+    "ai_title": "TikTok敲定成瘾诉讼和解",
+    "title_options": {
+      "conclusion": "TikTok敲定成瘾诉讼和解",
+      "attractive": "TikTok和解避免庭审",
+      "minimal": "TikTok诉讼和解",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-01T12:02:21.752972"
   }
 }
