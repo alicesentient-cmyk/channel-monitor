@@ -1611,37 +1611,6 @@
       }
     },
     {
-      "id": "zaihuapd_42256",
-      "channel": "zaihuapd",
-      "text": "美国最高法院裁定政府须凭搜查令获取手机位置数据，包括向第三方科技公司索取美国最高法院 6 月 29 日以 6 比 3 裁定，政府调取公民手机位置数据须事先获得司法搜查令。此案源于 2019 年一起银行劫案，警方使用“地理围栏令”要求 Google 提供案发前后特定区域内的用户数据；Google 最终从数百万用户中筛选出 19 个匿名账户，并进一步锁定 3 人身份，其中一人为嫌犯。多数意见由大法官 Elena Kagan 撰写，称个人对手机位置记录享有合理隐私期待，警方即便向第三方科技公司索取也构成侵权。裁决将该数据纳入第四修正案保护范围。案件将发回下级法院，以裁定当年的案件是否合法。Android Police·茶馆水群·",
-      "clean_text": "美国最高法院裁定政府须凭搜查令获取手机位置数据，包括向第三方科技公司索取美国最高法院 6 月 29 日以 6 比 3 裁定，政府调取公民手机位置数据须事先获得司法搜查令。此案源于 2019 年一起银行劫案，警方使用“地理围栏令”要求 Google 提供案发前后特定区域内的用户数据；Google 最终从数百万用户中筛选出 19 个匿名账户，并进一步锁定 3 人身份，其中一人为嫌犯。多数意见由大法官 Elena Kagan 撰写，称个人对手机位置记录享有合理隐私期待，警方即便向第三方科技公司索取也构成侵权。裁决将该数据纳入第四修正案保护范围。案件将发回下级法院，以裁定当年的案件是否合法。Android Police·茶馆水群",
-      "datetime": "2026-06-30T04:00:00+00:00",
-      "views": "52",
-      "source_links": [
-        {
-          "text": "Android Police",
-          "url": "https://www.androidpolice.com/supreme-court-protects-your-cell-phone-location-data-after-googles-role-in-a-conviction/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42256",
-      "scraped_at": "2026-06-30T12:00:58.672966",
-      "title": "美最高法：查手机位置需搜查令",
-      "title_options": {
-        "conclusion": "美最高法：查手机位置需搜查令",
-        "attractive": "手机位置数据受第四修正案保护",
-        "minimal": "手机位置数据需搜查令",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1710,6 +1679,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-01T15:55:30.025257"
+  "count": 68,
+  "updated_at": "2026-07-01T16:00:34.002627"
 }
