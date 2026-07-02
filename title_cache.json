@@ -12559,5 +12559,45 @@
       "minimal": "OpenAI 5%股权 政府"
     },
     "generated_at": "2026-07-02T16:04:02.863247"
+  },
+  "xhqcankao_30523": {
+    "ai_title": "亚马逊自研AI芯片",
+    "title_options": {
+      "conclusion": "亚马逊自研AI芯片",
+      "attractive": "亚马逊造AI芯片",
+      "minimal": "亚马逊AI芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T17:27:48.951452"
+  },
+  "zaihuapd_42311": {
+    "ai_title": "北京航空器撞楼1死13伤",
+    "title_options": {
+      "conclusion": "北京航空器撞楼1死13伤",
+      "attractive": "航空器撞楼致1死13伤",
+      "minimal": "航空器撞楼1死13伤",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T17:27:49.320892"
+  },
+  "xhqcankao_30524": {
+    "ai_title": "轻型飞机撞楼致1死13伤",
+    "title_options": {
+      "conclusion": "轻型飞机撞楼致1死13伤",
+      "attractive": "失眠焦虑飞行员撞楼身亡",
+      "minimal": "飞机撞楼1死13伤",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T17:27:49.752603"
+  },
+  "xhqcankao_30522": {
+    "ai_title": "蚂蚁集团领投具身智能企业乐享科技融资7…",
+    "title_options": {
+      "conclusion": "蚂蚁集团领投具身智能企业乐享科技融资7…",
+      "attractive": "蚂蚁集团领投具身智能企业乐享科技融资7…",
+      "minimal": "蚂蚁集团领投具身智能企业乐享科技融资7…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T17:27:59.184759"
   }
 }
