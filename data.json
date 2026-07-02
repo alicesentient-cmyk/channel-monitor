@@ -1629,51 +1629,6 @@
       }
     },
     {
-      "id": "xhqcankao_30486",
-      "channel": "xhqcankao",
-      "text": "韩反垄断机构指控谷歌滥用安卓支配地位韩国反垄断监管机构周三指控谷歌滥用其在安卓应用市场的主导地位，阻碍市场竞争，将建议对谷歌采取整改措施并处以罚款。报告称，从2019年7月至2026年3月，谷歌的 “游戏/Google Velocity计划” 向国内外游戏开发商提供财务支持，以鼓励他们使用谷歌云、广告和YouTube等谷歌服务，但前提条件是他们在谷歌应用商店上架游戏时，所提供的合作条款至少不差于竞争对手的应用市场。该计划大幅削弱了开发商通过其他应用商店分发游戏的动力，其中包括韩本土应用商店OneStore，阻碍了对手的商业活动，迫使开发者与谷歌形成事实上的排他性交易。",
-      "clean_text": "韩反垄断机构指控谷歌滥用安卓支配地位韩国反垄断监管机构周三指控谷歌滥用其在安卓应用市场的主导地位，阻碍市场竞争，将建议对谷歌采取整改措施并处以罚款。报告称，从2019年7月至2026年3月，谷歌的 “游戏/Google Velocity计划” 向国内外游戏开发商提供财务支持，以鼓励他们使用谷歌云、广告和YouTube等谷歌服务，但前提条件是他们在谷歌应用商店上架游戏时，所提供的合作条款至少不差于竞争对手的应用市场。该计划大幅削弱了开发商通过其他应用商店分发游戏的动力，其中包括韩本土应用商店OneStore，阻碍了对手的商业活动，迫使开发者与谷歌形成事实上的排他性交易。——凤凰网科技、路透社",
-      "datetime": "2026-07-01T07:30:55+00:00",
-      "views": "1.27K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006tW16Fz9Obc93h5dscAPoeny1emH0--5ROKL087sLHV1Av4lhKP5FlXPQxqCdRMT0B"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/legal/litigation/south-korean-trade-watchdog-alleges-google-abused-its-position-android-app-store-2026-07-01/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30486",
-      "scraped_at": "2026-07-01T16:00:43.682773",
-      "title": "韩指控谷歌滥用安卓市场支配地位",
-      "title_options": {
-        "conclusion": "韩指控谷歌滥用安卓市场支配地位",
-        "attractive": "谷歌被指用钱换排他性合作",
-        "minimal": "谷歌安卓市场支配地位被控",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42288",
-      "channel": "zaihuapd",
-      "text": "儿童旅客可购买铁路旅游计次票  6 月 11 日起，儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策。票价为成人旅客的 5 折，在旅游计次票原有折扣基础上再优惠。  每个订单最多包含 9 名旅客，儿童需至少 1 名成人随行，且使用时仍符合儿童票优惠年龄。旅客可通过铁路 12306 网站或 App“计次·定期票”专区购买。  新华网",
-      "clean_text": "儿童旅客可购买铁路旅游计次票  6 月 11 日起，儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策。票价为成人旅客的 5 折，在旅游计次票原有折扣基础上再优惠。  每个订单最多包含 9 名旅客，儿童需至少 1 名成人随行，且使用时仍符合儿童票优惠年龄。旅客可通过铁路 12306 网站或 App“计次·定期票”专区购买。  新华网 · 备用频道 · 投稿通道",
-      "datetime": "2026-07-01T07:28:36+00:00",
-      "views": "3.89K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42288",
-      "scraped_at": "2026-07-01T16:00:41.763769",
-      "title": "儿童可购铁路计次票",
-      "title_options": {
-        "conclusion": "儿童可购铁路计次票",
-        "attractive": "儿童票5折再优惠",
-        "minimal": "儿童铁路计次票",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1704,6 +1659,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-02T19:26:55.750189"
+  "count": 65,
+  "updated_at": "2026-07-02T19:31:59.795646"
 }
