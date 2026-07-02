@@ -1424,33 +1424,6 @@
       }
     },
     {
-      "id": "xhqcankao_30496",
-      "channel": "xhqcankao",
-      "text": "苹果CEO与欧盟就Siri AI进行“建设性”会谈苹果公司首席执行官蒂姆·库克周二与欧盟科技事务专员亨娜·维尔库宁就如何在遵守欧盟数字规则的同时在欧盟境内推出 Siri 人工智能进行了建设性会谈。欧盟发言人表示，双方就 “共同关心的议题” 进行了讨论，相关工作仍在继续。两名知情人士透露，双方重点讨论了苹果如何在欧洲推出新版 Siri，同时避免因违反欧盟核心竞争法规而遭到数百万美元罚款。此前，苹果公司表示，其 Siri 人工智能服务最初不会在欧盟地区的iPhone或iPad设备上提供，并指责欧盟委员会拒绝与其进行建设性对话以确保其设备的隐私和安全；而欧盟委员会则指责苹果，称该公司未能开发出符合欧盟标准的“互操作性”。",
-      "clean_text": "苹果CEO与欧盟就Siri AI进行“建设性”会谈苹果公司首席执行官蒂姆·库克周二与欧盟科技事务专员亨娜·维尔库宁就如何在遵守欧盟数字规则的同时在欧盟境内推出 Siri 人工智能进行了建设性会谈。欧盟发言人表示，双方就 “共同关心的议题” 进行了讨论，相关工作仍在继续。两名知情人士透露，双方重点讨论了苹果如何在欧洲推出新版 Siri，同时避免因违反欧盟核心竞争法规而遭到数百万美元罚款。此前，苹果公司表示，其 Siri 人工智能服务最初不会在欧盟地区的iPhone或iPad设备上提供，并指责欧盟委员会拒绝与其进行建设性对话以确保其设备的隐私和安全；而欧盟委员会则指责苹果，称该公司未能开发出符合欧盟标准的“互操作性”。——新浪财经、英国金融时报",
-      "datetime": "2026-07-01T12:33:03+00:00",
-      "views": "1.22K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-07-01%2Fdoc-inifhvww6353620.shtml"
-        },
-        {
-          "text": "英国金融时报",
-          "url": "https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30496",
-      "scraped_at": "2026-07-01T21:00:37.266594",
-      "title": "库克与欧盟会谈Siri",
-      "title_options": {
-        "conclusion": "库克与欧盟会谈Siri",
-        "attractive": "Siri入欧面临罚款风险",
-        "minimal": "苹果欧盟Siri会谈",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1481,6 +1454,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-03T00:31:54.252307"
+  "count": 57,
+  "updated_at": "2026-07-03T00:36:57.304838"
 }
