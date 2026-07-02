@@ -1260,29 +1260,6 @@
       }
     },
     {
-      "id": "xhqcankao_30501",
-      "channel": "xhqcankao",
-      "text": "TikTok计划在欧洲总部再裁员大约300人TikTok正在考虑在其位于都柏林的欧洲总部裁减约 300个岗位，这紧随去年一轮规模相当的裁员之后。据彭博新闻社周三看到的一封发给员工的邮件，这家由字节跳动有限公司拥有的科技公司可能会重组该国的AI数据服务和运营团队，并将质量保证业务整合到其他区域中心。TikTok平台的一位发言人表示，一些面临裁员风险的员工将被提供其他职位，并拟议的重组也将创造新的岗位，从而导致总体员工人数减少约300人。“我们正在探索一项重组，以加强我们在信任与安全方面的全球运营模式，包括改进我们工作方式的提议，以确保团队保持可扩展性和敏捷性，”该发言人在一份声明中表示。",
-      "clean_text": "TikTok计划在欧洲总部再裁员大约300人TikTok正在考虑在其位于都柏林的欧洲总部裁减约 300个岗位，这紧随去年一轮规模相当的裁员之后。据彭博新闻社周三看到的一封发给员工的邮件，这家由字节跳动有限公司拥有的科技公司可能会重组该国的AI数据服务和运营团队，并将质量保证业务整合到其他区域中心。TikTok平台的一位发言人表示，一些面临裁员风险的员工将被提供其他职位，并拟议的重组也将创造新的岗位，从而导致总体员工人数减少约300人。“我们正在探索一项重组，以加强我们在信任与安全方面的全球运营模式，包括改进我们工作方式的提议，以确保团队保持可扩展性和敏捷性，”该发言人在一份声明中表示。——彭博社",
-      "datetime": "2026-07-01T15:03:38+00:00",
-      "views": "2.17K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-eyes-about-300-more-job-cuts-at-european-hub-in-dublin"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30501",
-      "scraped_at": "2026-07-02T00:05:40.781847",
-      "title": "TikTok欧洲总部再裁300人",
-      "title_options": {
-        "conclusion": "TikTok欧洲总部再裁300人",
-        "attractive": "TikTok欧洲总部裁员300",
-        "minimal": "TikTok欧洲裁员300",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1313,6 +1290,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-03T02:58:44.064776"
+  "count": 50,
+  "updated_at": "2026-07-03T03:03:47.812986"
 }
