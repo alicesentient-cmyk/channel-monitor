@@ -1609,29 +1609,6 @@
       }
     },
     {
-      "id": "xhqcankao_30489",
-      "channel": "xhqcankao",
-      "text": "X推出官方托管MCP服务器简化AI工具接入社交平台 X 正在通过一个新的托管MCP服务器，让Claude、Cursor、Grok Build等AI助手以及其他兼容MCP的应用更容易直接连接到该平台。周一，这家埃隆·马斯克旗下的社交网络推出了一个托管的MCP服务器，允许AI工具使用用户自己的账户权限与X API通信。作为背景，MCP是一个开放标准，定义了AI模型连接到外部工具和服务的通用方式。以前，如果开发者想让Claude或Cursor等AI助手访问X，他们必须构建自己的MCP服务器、托管该服务器、连接到 X API 并处理身份验证。现在，X托管MCP，用户只需使用自己的 X 账户权限进行身份验证。",
-      "clean_text": "X推出官方托管MCP服务器简化AI工具接入社交平台 X 正在通过一个新的托管MCP服务器，让Claude、Cursor、Grok Build等AI助手以及其他兼容MCP的应用更容易直接连接到该平台。周一，这家埃隆·马斯克旗下的社交网络推出了一个托管的MCP服务器，允许AI工具使用用户自己的账户权限与X API通信。作为背景，MCP是一个开放标准，定义了AI模型连接到外部工具和服务的通用方式。以前，如果开发者想让Claude或Cursor等AI助手访问X，他们必须构建自己的MCP服务器、托管该服务器、连接到 X API 并处理身份验证。现在，X托管MCP，用户只需使用自己的 X 账户权限进行身份验证。——Techcrunch",
-      "datetime": "2026-07-01T09:04:50+00:00",
-      "views": "2.12K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30489",
-      "scraped_at": "2026-07-01T18:00:37.276954",
-      "title": "X推托管MCP服务器",
-      "title_options": {
-        "conclusion": "X推托管MCP服务器",
-        "attractive": "AI工具一键连X",
-        "minimal": "X托管MCP",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1662,6 +1639,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-07-02T21:03:44.954718"
+  "count": 65,
+  "updated_at": "2026-07-02T21:08:48.470600"
 }
