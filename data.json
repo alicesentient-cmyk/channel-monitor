@@ -1695,32 +1695,6 @@
       }
     },
     {
-      "id": "xhqcankao_30473",
-      "channel": "xhqcankao",
-      "text": "数据中心遭反对 SpaceX推星链半价服务救场SpaceX 正在田纳西州孟菲斯市为其星链互联网套餐提供折扣优惠。此前，该公司因在该地区及邻近的密西西比州建设数据中心而遭到反对者的强烈抵制和法律挑战。参与该优惠活动的客户可以以月费半价的价格使用星链服务套餐，原月费在55美元至130美元之间。该折扣还可分享给亲友使用。新用户无需支付硬件预付款。 SpaceX 在今年早些时候收购了 xAI ，后者在孟菲斯和密西西比州南海文两地均运营着数据中心。此次优惠活动推出之际， SpaceX 正因其数据中心造成的污染问题面临社区和环保人士的反对。",
-      "clean_text": "数据中心遭反对 SpaceX推星链半价服务救场SpaceX 正在田纳西州孟菲斯市为其星链互联网套餐提供折扣优惠。此前，该公司因在该地区及邻近的密西西比州建设数据中心而遭到反对者的强烈抵制和法律挑战。参与该优惠活动的客户可以以月费半价的价格使用星链服务套餐，原月费在55美元至130美元之间。该折扣还可分享给亲友使用。新用户无需支付硬件预付款。 SpaceX 在今年早些时候收购了 xAI ，后者在孟菲斯和密西西比州南海文两地均运营着数据中心。此次优惠活动推出之际， SpaceX 正因其数据中心造成的污染问题面临社区和环保人士的反对。——凤凰网科技、彭博社",
-      "datetime": "2026-07-01T01:03:04+00:00",
-      "views": "205",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006QnfBVdf3g0yhYaUI-_vWVTSFNxEzBlw072Hw8fOIrUPzo9qYJxdHpkN6--KC02xaCI"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30473",
-      "scraped_at": "2026-07-01T09:05:20.554401",
-      "title": "SpaceX推星链半价服务",
-      "title_options": {
-        "conclusion": "SpaceX推星链半价服务",
-        "attractive": "星链半价救场数据中心",
-        "minimal": "星链半价优惠"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1789,6 +1763,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-02T13:01:41.162285"
+  "count": 70,
+  "updated_at": "2026-07-02T13:06:44.192916"
 }
