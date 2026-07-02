@@ -12411,5 +12411,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T11:05:17.482316"
+  },
+  "xhqcankao_30512": {
+    "ai_title": "AI发展超科学认知",
+    "title_options": {
+      "conclusion": "AI发展超科学认知",
+      "attractive": "AI欺骗行为引担忧",
+      "minimal": "AI发展超监管",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T12:00:56.738929"
+  },
+  "zaihuapd_42306": {
+    "ai_title": "张雪峰因心源性猝死逝世",
+    "title_options": {
+      "conclusion": "张雪峰因心源性猝死逝世",
+      "attractive": "张雪峰逝世，年仅？",
+      "minimal": "张雪峰逝世",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T12:00:56.758354"
+  },
+  "xhqcankao_30513": {
+    "ai_title": "Cloudflare新规阻AI爬虫",
+    "title_options": {
+      "conclusion": "Cloudflare新规阻AI爬虫",
+      "attractive": "AI公司内容付费倒计时",
+      "minimal": "Cloudflare阻爬虫",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T12:00:56.819339"
   }
 }
