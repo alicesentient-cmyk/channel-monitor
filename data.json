@@ -1383,24 +1383,6 @@
       }
     },
     {
-      "id": "zaihuapd_42298",
-      "channel": "zaihuapd",
-      "text": "ChatGPT每周用户数量在不到一年内翻倍，达到2亿  OpenAI宣布，现在每周有超过2亿人使用ChatGPT，这一数字是去年11月报告的1亿活跃用户的两倍。92%的财富500强公司正在使用OpenAI的产品，自公司发布更智能且成本更低的GPT-4o Mini模型后，API使用量也翻了一番。尽管谷歌、微软和Meta自ChatGPT推出以来也推出了自己的AI聊天界面，但OpenAI的用户基础仍在持续增长。还有传言称苹果和英伟达可能是OpenAI下一轮的投资者。  The Verge关注频道 @ZaiHua…",
-      "clean_text": "ChatGPT每周用户数量在不到一年内翻倍，达到2亿  OpenAI宣布，现在每周有超过2亿人使用ChatGPT，这一数字是去年11月报告的1亿活跃用户的两倍。92%的财富500强公司正在使用OpenAI的产品，自公司发布更智能且成本更低的GPT-4o Mini模型后，API使用量也翻了一番。尽管谷歌、微软和Meta自ChatGPT推出以来也推出了自己的AI聊天界面，但OpenAI的用户基础仍在持续增长。还有传言称苹果和英伟达可能是OpenAI下一轮的投资者。  The Verge☘️关注频道 @ZaiHua…",
-      "datetime": "2026-07-01T13:01:09+00:00",
-      "views": "4.97K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42298",
-      "scraped_at": "2026-07-01T22:00:30.724457",
-      "title": "ChatGPT周用户达2亿",
-      "title_options": {
-        "conclusion": "ChatGPT周用户达2亿",
-        "attractive": "ChatGPT用户翻倍至2亿",
-        "minimal": "ChatGPT 2亿用户",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1431,6 +1413,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-03T00:57:16.750612"
+  "count": 55,
+  "updated_at": "2026-07-03T01:02:20.466424"
 }
