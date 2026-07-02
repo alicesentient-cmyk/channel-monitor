@@ -1555,37 +1555,6 @@
       }
     },
     {
-      "id": "zaihuapd_42292",
-      "channel": "zaihuapd",
-      "text": "SpaceX 或向特朗普儿童储蓄账户捐股票，账户定于 7 月 4 日上线SpaceX 正与特朗普政府商谈向即将推出的“特朗普账户”捐赠股票，知情人士称目前尚未确定是否成行。该儿童储蓄账户将于 7 月 4 日上线，已有约 600 万名儿童完成注册。账户面向 18 岁以下持社保号的儿童，2025 至 2028 年间出生者可获政府一次性注资 1000 美元，家庭每年最多存入 5000 美元并由政府代投所谓“已证实的赢家”企业。除 SpaceX 外，迈克尔·戴尔夫妇已捐赠 62.5 亿美元，贝莱德与美国银行也同意匹配员工捐款。Ars Technica·茶馆水群·",
-      "clean_text": "SpaceX 或向特朗普儿童储蓄账户捐股票，账户定于 7 月 4 日上线SpaceX 正与特朗普政府商谈向即将推出的“特朗普账户”捐赠股票，知情人士称目前尚未确定是否成行。该儿童储蓄账户将于 7 月 4 日上线，已有约 600 万名儿童完成注册。账户面向 18 岁以下持社保号的儿童，2025 至 2028 年间出生者可获政府一次性注资 1000 美元，家庭每年最多存入 5000 美元并由政府代投所谓“已证实的赢家”企业。除 SpaceX 外，迈克尔·戴尔夫妇已捐赠 62.5 亿美元，贝莱德与美国银行也同意匹配员工捐款。Ars Technica·茶馆水群",
-      "datetime": "2026-07-01T09:36:09+00:00",
-      "views": "2.76K",
-      "source_links": [
-        {
-          "text": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42292",
-      "scraped_at": "2026-07-01T18:00:33.819465",
-      "title": "SpaceX或捐股票给特朗普账户",
-      "title_options": {
-        "conclusion": "SpaceX或捐股票给特朗普账户",
-        "attractive": "600万儿童注册特朗普账户",
-        "minimal": "SpaceX捐股票特朗普账户",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1616,6 +1585,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-07-02T21:34:12.000610"
+  "count": 63,
+  "updated_at": "2026-07-02T21:39:16.888393"
 }
