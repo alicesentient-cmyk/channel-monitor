@@ -1617,68 +1617,6 @@
       }
     },
     {
-      "id": "zaihuapd_42289",
-      "channel": "zaihuapd",
-      "text": "日元兑美元跌破 162.80，创近 40 年新低7 月 1 日，东京外汇市场日元持续走低，一度跌破 1 美元兑 162.80 日元，创 1986 年 12 月以来新低。市场对美联储加息的预期升温，投资者押注日美利差进一步扩大，转向抛售日元、买入美元。业内人士认为利差大概率继续拉大，抛售势头难停；日元贬值将推高日本食品和能源进口成本，加重家庭负担，市场普遍预期日本政府和央行会干预汇率。联合早报·茶馆水群·",
-      "clean_text": "日元兑美元跌破 162.80，创近 40 年新低7 月 1 日，东京外汇市场日元持续走低，一度跌破 1 美元兑 162.80 日元，创 1986 年 12 月以来新低。市场对美联储加息的预期升温，投资者押注日美利差进一步扩大，转向抛售日元、买入美元。业内人士认为利差大概率继续拉大，抛售势头难停；日元贬值将推高日本食品和能源进口成本，加重家庭负担，市场普遍预期日本政府和央行会干预汇率。联合早报·茶馆水群",
-      "datetime": "2026-07-01T08:06:09+00:00",
-      "views": "5.53K",
-      "source_links": [
-        {
-          "text": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/world/story20260701-9294271"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42289",
-      "scraped_at": "2026-07-01T17:00:39.717999",
-      "title": "日元跌破162.80创40年新低",
-      "title_options": {
-        "conclusion": "日元跌破162.80创40年新低",
-        "attractive": "日元贬值加重家庭负担",
-        "minimal": "日元跌破162.80",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30487",
-      "channel": "xhqcankao",
-      "text": "游戏开发商IOI因微软取消新作合作而裁员《007初露锋芒》的开发商IO Interactive昨晚在社交平台上宣布，由于一位“外部合作伙伴结束了合作关系”，IOI面临一次“人员调整”，正在开发的原创IP“Project Fantasy”也将受到一定程度的影响。据了解，在IOI的构想中，“Project Fantasy”被描述为一款“在线奇幻RPG”，而原本计划作为该游戏发行商的正是微软。微软目前正计划作为Xbox业务整体“重组”的一部分进行大规模裁员。目前尚不清楚IOI此次人员调整将影响多少员工。公司表示：“我们将全力支持所有受到影响的员工，帮助他们度过这一艰难的过渡阶段。”——游民星空、The Verge",
-      "clean_text": "游戏开发商IOI因微软取消新作合作而裁员《007初露锋芒》的开发商IO Interactive昨晚在社交平台上宣布，由于一位“外部合作伙伴结束了合作关系”，IOI面临一次“人员调整”，正在开发的原创IP“Project Fantasy”也将受到一定程度的影响。据了解，在IOI的构想中，“Project Fantasy”被描述为一款“在线奇幻RPG”，而原本计划作为该游戏发行商的正是微软。微软目前正计划作为Xbox业务整体“重组”的一部分进行大规模裁员。目前尚不清楚IOI此次人员调整将影响多少员工。公司表示：“我们将全力支持所有受到影响的员工，帮助他们度过这一艰难的过渡阶段。”——游民星空、The Verge",
-      "datetime": "2026-07-01T08:03:10+00:00",
-      "views": "2.12K",
-      "source_links": [
-        {
-          "text": "微软目前正计划作为Xbox业务整体“重组”的一部分进行大规模裁员",
-          "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure"
-        },
-        {
-          "text": "游民星空",
-          "url": "https://wap.gamersky.com/news/Content-2164919.html"
-        },
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30487",
-      "scraped_at": "2026-07-01T17:00:42.082409",
-      "title": "微软取消合作致IOI裁员",
-      "title_options": {
-        "conclusion": "微软取消合作致IOI裁员",
-        "attractive": "微软砍合作，IOI游戏停摆",
-        "minimal": "IOI裁员，微软取消合作",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1709,6 +1647,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-02T20:02:32.992533"
+  "count": 65,
+  "updated_at": "2026-07-02T20:07:37.547988"
 }
