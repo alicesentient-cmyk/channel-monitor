@@ -1663,33 +1663,6 @@
       }
     },
     {
-      "id": "xhqcankao_30472",
-      "channel": "xhqcankao",
-      "text": "NASA再向三家公司授予月球着陆器合同美国宇航局 (NASA) 又选定了三家公司向月球发射机器人着陆器，这是该机构在2030年前建立月球基地计划的一部分。美国宇航局在周二宣布，向 Astrobotic Technology 公司授予两份合同，总金额约2.98亿美元；向Firefly Aerospace公司授予一份合同，金额约1.44亿美元；向Intuitive Machines公司授予一份合同，金额约1.48亿美元。三项合同总金额约5.9亿美元。Astrobotic将于今年或2027年初向月球发射一台着陆器，该着陆器将是该公司 “游隼” 号着陆器的升级版本。美国宇航局还在考虑将“极地观测、测绘与原位探测月球车”(Promise)送往月球，该月球车是美国宇航局火星探测车的测试版本。",
-      "clean_text": "NASA再向三家公司授予月球着陆器合同美国宇航局 (NASA) 又选定了三家公司向月球发射机器人着陆器，这是该机构在2030年前建立月球基地计划的一部分。美国宇航局在周二宣布，向 Astrobotic Technology 公司授予两份合同，总金额约2.98亿美元；向Firefly Aerospace公司授予一份合同，金额约1.44亿美元；向Intuitive Machines公司授予一份合同，金额约1.48亿美元。三项合同总金额约5.9亿美元。Astrobotic将于今年或2027年初向月球发射一台着陆器，该着陆器将是该公司 “游隼” 号着陆器的升级版本。美国宇航局还在考虑将“极地观测、测绘与原位探测月球车”(Promise)送往月球，该月球车是美国宇航局火星探测车的测试版本。——凤凰网科技、彭博社",
-      "datetime": "2026-07-01T00:31:14+00:00",
-      "views": "1.07K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006hKI38nurBAdT7q4qg1V3NhJQmcL9WO8vTMKZAQCpFb72WJUeq56xYfUfugIIKnBI"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-30/nasa-gives-more-lunar-lander-contracts-to-three-us-companies"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30472",
-      "scraped_at": "2026-07-01T09:05:20.554045",
-      "title": "NASA再授三份月球着陆器合同",
-      "title_options": {
-        "conclusion": "NASA再授三份月球着陆器合同",
-        "attractive": "5.9亿美元月球着陆器合同",
-        "minimal": "NASA月球着陆器合同",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1758,6 +1731,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-07-02T12:26:14.279135"
+  "count": 69,
+  "updated_at": "2026-07-02T12:31:17.222313"
 }
