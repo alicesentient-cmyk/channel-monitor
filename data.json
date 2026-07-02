@@ -1337,29 +1337,6 @@
       }
     },
     {
-      "id": "xhqcankao_30499",
-      "channel": "xhqcankao",
-      "text": "Meta将进军云业务出售过剩的AI算力Meta 正在制定一项云基础设施业务计划，旨在出售人工智能计算能力和模型的使用权，从而与亚马逊云服务 (AWS)、微软 Azure 和谷歌云等行业领导者展开新的竞争。据知情人士透露，Meta 一直在竞相购置昂贵的数据中心和其他基础设施，以支持其自身的人工智能发展。一项潜在计划包括出售托管在 Meta 现有AI基础设施上的各种模型的使用权，这与 AWS 的 Bedrock 服务类似。Meta 将运营支持这些模型的数据中心和芯片，包括其自主研发的 Muse Spark 模型，并向开发者收取使用费。该公司也正在考虑出售“原始”计算能力的使用权，类似于 CoreWeave 等其他所谓的“新云”公司。这些新业务线的开发是 Meta Compute 项目的一部分，该项目是 Meta 公司内部的一项计划，旨在构建和管理公司的人工智能基础设施。",
-      "clean_text": "Meta将进军云业务出售过剩的AI算力Meta 正在制定一项云基础设施业务计划，旨在出售人工智能计算能力和模型的使用权，从而与亚马逊云服务 (AWS)、微软 Azure 和谷歌云等行业领导者展开新的竞争。据知情人士透露，Meta 一直在竞相购置昂贵的数据中心和其他基础设施，以支持其自身的人工智能发展。一项潜在计划包括出售托管在 Meta 现有AI基础设施上的各种模型的使用权，这与 AWS 的 Bedrock 服务类似。Meta 将运营支持这些模型的数据中心和芯片，包括其自主研发的 Muse Spark 模型，并向开发者收取使用费。该公司也正在考虑出售“原始”计算能力的使用权，类似于 CoreWeave 等其他所谓的“新云”公司。这些新业务线的开发是 Meta Compute 项目的一部分，该项目是 Meta 公司内部的一项计划，旨在构建和管理公司的人工智能基础设施。——彭博社",
-      "datetime": "2026-07-01T13:50:14+00:00",
-      "views": "587",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?embedded-checkout=true"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30499",
-      "scraped_at": "2026-07-01T22:00:32.726548",
-      "title": "Meta进军云业务售AI算力",
-      "title_options": {
-        "conclusion": "Meta进军云业务售AI算力",
-        "attractive": "Meta出售AI算力挑战AWS",
-        "minimal": "Meta云业务AI算力",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1390,6 +1367,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-03T01:47:56.839279"
+  "count": 53,
+  "updated_at": "2026-07-03T01:52:59.857446"
 }
