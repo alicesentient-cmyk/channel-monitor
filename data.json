@@ -1677,24 +1677,6 @@
       }
     },
     {
-      "id": "zaihuapd_42280",
-      "channel": "zaihuapd",
-      "text": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强的 Sonnet 模型，可规划、使用浏览器和终端等工具并自主运行。它在推理、工具使用、编码和知识工作上强于 Sonnet 4.6，性能接近 Opus 4.8，但价格更低。  Claude Sonnet 5 即日起面向所有套餐开放，并成为 Free 和 Pro 默认模型；Claude Platform 限时价截至 2026 年 8 月 31 日为每百万输入 token 2 美元、输出 token…",
-      "clean_text": "🤖Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强的 Sonnet 模型，可规划、使用浏览器和终端等工具并自主运行。它在推理、工具使用、编码和知识工作上强于 Sonnet 4.6，性能接近 Opus 4.8，但价格更低。  Claude Sonnet 5 即日起面向所有套餐开放，并成为 Free 和 Pro 默认模型；Claude Platform 限时价截至 2026 年 8 月 31 日为每百万输入 token 2 美元、输出 token…",
-      "datetime": "2026-07-01T01:12:49+00:00",
-      "views": "4.16K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42280",
-      "scraped_at": "2026-07-01T10:00:24.709527",
-      "title": "Claude Sonnet 5发布",
-      "title_options": {
-        "conclusion": "Claude Sonnet 5发布",
-        "attractive": "最强代理能力Sonnet",
-        "minimal": "Sonnet 5发布",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1763,6 +1745,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-07-02T13:11:48.900190"
+  "count": 69,
+  "updated_at": "2026-07-02T13:16:52.130719"
 }
