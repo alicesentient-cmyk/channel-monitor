@@ -12668,5 +12668,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T20:02:32.963528"
+  },
+  "xhqcankao_30530": {
+    "ai_title": "证监会同意宇树科技IPO注册",
+    "title_options": {
+      "conclusion": "证监会同意宇树科技IPO注册",
+      "attractive": "具身智能第一股获批上市",
+      "minimal": "宇树科技IPO获批",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T21:03:44.596760"
+  },
+  "xhqcankao_30531": {
+    "ai_title": "企业因成本限制员工用AI",
+    "title_options": {
+      "conclusion": "企业因成本限制员工用AI",
+      "attractive": "AI支出月超1500万美元",
+      "minimal": "企业限制AI使用",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T21:03:44.745793"
+  },
+  "xhqcankao_30532": {
+    "ai_title": "特斯拉Optimus产线就绪",
+    "title_options": {
+      "conclusion": "特斯拉Optimus产线就绪",
+      "attractive": "Model S产线改产机器人",
+      "minimal": "Optimus产线已就绪",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T21:03:44.934764"
   }
 }

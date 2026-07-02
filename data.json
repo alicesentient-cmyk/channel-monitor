@@ -1,6 +1,75 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30532",
+      "channel": "xhqcankao",
+      "text": "特斯拉弗里蒙特工厂Optimus产线或已就绪周三，马斯克发布了一张大合照，并且配文称，在弗里蒙特工厂参观Optimus机器人生产线。这一言论可能代表着特斯拉的人形机器人Optimus正进入关键的量产阶段。特斯拉弗里蒙特工厂一直是这家公司在美国的先锋制造中心，曾经用于生产特斯拉旗舰车型Model S轿车和Model X SUV，如今已成为该公司人形机器人生产线的所在地。今年一月下旬，马斯克在财报会议上宣布Model S和Model X将于2026年第二季度停产，最后一批车辆于5月初下线。随后，特斯拉并没有将生产线改造用于生产其他车型，而是选择将原先的Model S和Model X装配线改造成一条专门用于生产第三代Optimus的生产线。",
+      "clean_text": "特斯拉弗里蒙特工厂Optimus产线或已就绪周三，马斯克发布了一张大合照，并且配文称，在弗里蒙特工厂参观Optimus机器人生产线。这一言论可能代表着特斯拉的人形机器人Optimus正进入关键的量产阶段。特斯拉弗里蒙特工厂一直是这家公司在美国的先锋制造中心，曾经用于生产特斯拉旗舰车型Model S轿车和Model X SUV，如今已成为该公司人形机器人生产线的所在地。今年一月下旬，马斯克在财报会议上宣布Model S和Model X将于2026年第二季度停产，最后一批车辆于5月初下线。随后，特斯拉并没有将生产线改造用于生产其他车型，而是选择将原先的Model S和Model X装配线改造成一条专门用于生产第三代Optimus的生产线。——财联社",
+      "datetime": "2026-07-02T12:58:11+00:00",
+      "views": "247",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2415009?sv=8.5.9"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30532",
+      "scraped_at": "2026-07-02T21:01:15.049540",
+      "title": "特斯拉Optimus产线就绪",
+      "title_options": {
+        "conclusion": "特斯拉Optimus产线就绪",
+        "attractive": "Model S产线改产机器人",
+        "minimal": "Optimus产线已就绪",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30531",
+      "channel": "xhqcankao",
+      "text": "企业因为费用太高正在限制员工使用AI据从包括Atlassian、Adobe和亚马逊在内的六家公司获取的泄露Slack聊天记录、内部仪表板截图、电子邮件等更多材料，科技、娱乐、银行业以及许多其他行业的公司正在限制员工使用AI，并恳求员工使用性能较低的模型，以防止AI成本失控。至少在一个案例中，AI支出已增长两倍，达到每月超过1500万美元。这一消息显示出企业尽快采用AI所带来的潜在后果，以及AI供应商根据企业使用AI的量而非固定费用来收费的做法所带来的影响。电子邮件甚至显示，一些公司完全切断了对某些AI模型的访问权限，以试图停止消耗其AI词元，而像Adobe这样的大型科企也正在终止对Claude的无限制访问。",
+      "clean_text": "企业因为费用太高正在限制员工使用AI据从包括Atlassian、Adobe和亚马逊在内的六家公司获取的泄露Slack聊天记录、内部仪表板截图、电子邮件等更多材料，科技、娱乐、银行业以及许多其他行业的公司正在限制员工使用AI，并恳求员工使用性能较低的模型，以防止AI成本失控。至少在一个案例中，AI支出已增长两倍，达到每月超过1500万美元。这一消息显示出企业尽快采用AI所带来的潜在后果，以及AI供应商根据企业使用AI的量而非固定费用来收费的做法所带来的影响。电子邮件甚至显示，一些公司完全切断了对某些AI模型的访问权限，以试图停止消耗其AI词元，而像Adobe这样的大型科企也正在终止对Claude的无限制访问。——404media",
+      "datetime": "2026-07-02T12:30:23+00:00",
+      "views": "1.91K",
+      "source_links": [
+        {
+          "text": "404media",
+          "url": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30531",
+      "scraped_at": "2026-07-02T21:01:15.049317",
+      "title": "企业因成本限制员工用AI",
+      "title_options": {
+        "conclusion": "企业因成本限制员工用AI",
+        "attractive": "AI支出月超1500万美元",
+        "minimal": "企业限制AI使用",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30530",
+      "channel": "xhqcankao",
+      "text": "中国证监会同意宇树科技IPO注册7月2日，中国证监会同意宇树科技股份有限公司首次公开发行股票注册。此次获批标志着这家 “具身智能第一股”距离正式登陆A股仅一步之遥，其发行将严格依据招股说明书及承销方案实施，批文有效期为12个月。‌‌宇树科技招股书披露，本次发行前宇树科技总股本3.64亿股，拟公开发行不低于4044.64万股，新股发行比例不低于 10% 。拟募资42.02亿元，用于智能机器人模型研发等项目。公开资料显示，宇树科技是中国国内头部的民用足式、人形机器人研发企业，也是全球四足机器人销量领先的厂商。",
+      "clean_text": "中国证监会同意宇树科技IPO注册7月2日，中国证监会同意宇树科技股份有限公司首次公开发行股票注册。此次获批标志着这家 “具身智能第一股”距离正式登陆A股仅一步之遥，其发行将严格依据招股说明书及承销方案实施，批文有效期为12个月。‌‌宇树科技招股书披露，本次发行前宇树科技总股本3.64亿股，拟公开发行不低于4044.64万股，新股发行比例不低于 10% 。拟募资42.02亿元，用于智能机器人模型研发等项目。公开资料显示，宇树科技是中国国内头部的民用足式、人形机器人研发企业，也是全球四足机器人销量领先的厂商。——凤凰网科技",
+      "datetime": "2026-07-02T12:03:29+00:00",
+      "views": "2.06K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006gKZiU-_ZG5540pGKFRNNzPmeErHcsxBW0j2fdds-_laZ-_ux2--G4go3qnUWcq5vtFIH?spss=np&amp;channelId=&amp;aman=eMf7ac7ed6a6cTb44M5fd"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30530",
+      "scraped_at": "2026-07-02T21:01:15.048988",
+      "title": "证监会同意宇树科技IPO注册",
+      "title_options": {
+        "conclusion": "证监会同意宇树科技IPO注册",
+        "attractive": "具身智能第一股获批上市",
+        "minimal": "宇树科技IPO获批",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30529",
       "channel": "xhqcankao",
       "text": "英伟达推出AI基础设施新合作模式 与AI云厂商共享收入助力算力建设英伟达周三宣布推出全新的AI基础设施合作模式，将通过收入分成(Revenue-sharing)和信用支持(Credit-support)机制，与AI云服务商共同建设大规模、多租户AI工厂，帮助初创企业、模型开发者、企业及科研机构更快获得AI算力，同时为英伟达创造与算力使用量挂钩的持续性收入。根据方案，AI云厂商将部署基于英伟达DSX AI Factory架构的AI工厂，对外提供云计算服务。首批合作伙伴包括Sharon AI和Firmus。其中，Sharon AI计划部署最多4万块NVIDIA Grace Blackwell GB300 GPU；Firmus将在印尼巴淡岛建设DSX AI工厂园区，规划扩展至360兆瓦电力规模，并部署最多17万块英伟达GPU。",
@@ -1593,6 +1662,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-02T20:58:38.957708"
+  "count": 66,
+  "updated_at": "2026-07-02T21:03:44.954718"
 }
