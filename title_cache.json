@@ -12599,5 +12599,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T17:27:59.184759"
+  },
+  "zaihuapd_42312": {
+    "ai_title": "证监会同意宇树科技科创板IPO注册",
+    "title_options": {
+      "conclusion": "证监会同意宇树科技科创板IPO注册",
+      "attractive": "宇树科技科创板IPO注册获批",
+      "minimal": "宇树科技科创板IPO",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T18:00:40.719993"
+  },
+  "xhqcankao_30525": {
+    "ai_title": "英伟达合作Valar核能供电",
+    "title_options": {
+      "conclusion": "英伟达合作Valar核能供电",
+      "attractive": "微型反应堆首次驱动AI芯片",
+      "minimal": "英伟达Valar核能AI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T18:00:41.051286"
   }
 }
