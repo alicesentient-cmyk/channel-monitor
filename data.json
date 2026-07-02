@@ -1183,29 +1183,6 @@
       }
     },
     {
-      "id": "xhqcankao_30503",
-      "channel": "xhqcankao",
-      "text": "一加正在悄然引导顾客转向OPPO产品一加逐渐丧失自身特色的迹象层出不穷，而最新出现的这一迹象更是令人无法忽视。该公司在一些欧洲市场的官方网站现在鼓励顾客购买OPPO设备，而非预告即将推出的一加硬件，这为数月来关于这家智能手机品牌正逐渐被并入其母公司的猜测增添了新的佐证。出现在一加德国官方网站上的横幅告诉那些寻求 “您所信赖的体验” 的访客，OPPO提供一加用户所期待的相同的速度、性能和兼容性。横幅陈列了从耳机、平板到OPPO最新折叠屏等各类设备，每个按钮都将用户直接带往OPPO网站。换句话说，如果你正打算升级换机，一加官网的横幅似乎是在暗示：OPPO眼下就有你想要的产品。",
-      "clean_text": "一加正在悄然引导顾客转向OPPO产品一加逐渐丧失自身特色的迹象层出不穷，而最新出现的这一迹象更是令人无法忽视。该公司在一些欧洲市场的官方网站现在鼓励顾客购买OPPO设备，而非预告即将推出的一加硬件，这为数月来关于这家智能手机品牌正逐渐被并入其母公司的猜测增添了新的佐证。出现在一加德国官方网站上的横幅告诉那些寻求 “您所信赖的体验” 的访客，OPPO提供一加用户所期待的相同的速度、性能和兼容性。横幅陈列了从耳机、平板到OPPO最新折叠屏等各类设备，每个按钮都将用户直接带往OPPO网站。换句话说，如果你正打算升级换机，一加官网的横幅似乎是在暗示：OPPO眼下就有你想要的产品。——Androidauthority",
-      "datetime": "2026-07-01T15:59:01+00:00",
-      "views": "449",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/oneplus-website-redirecting-to-oppo-3683330/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30503",
-      "scraped_at": "2026-07-02T00:05:40.782287",
-      "title": "一加官网引导顾客买OPPO",
-      "title_options": {
-        "conclusion": "一加官网引导顾客买OPPO",
-        "attractive": "一加官网推荐OPPO替代品",
-        "minimal": "一加转向OPPO",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1236,6 +1213,6 @@
       }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-07-03T03:54:17.164577"
+  "count": 47,
+  "updated_at": "2026-07-03T03:59:19.891510"
 }
