@@ -1594,29 +1594,6 @@
       }
     },
     {
-      "id": "xhqcankao_30488",
-      "channel": "xhqcankao",
-      "text": "谷歌关闭GIF表情图库Tenor的API服务谷歌即日起将关闭GIF表情图库Tenor的API服务。虽然Tenor网站及其可搜索的GIF库将继续保持在线，但此前集成了该 API 的平台X、Discord、Bluesky 和 WhatsApp等，现在不得不迁移到替代的GIF选取服务。谷歌于2018年收购了Tenor GIF平台。其网站和API都允许用户使用关键词搜索GIF。谷歌将继续在其自身服务中使用Tenor。根据其Tenor常见问题解答页面，该公司于 1月13日停止接受新的API注册和集成请求。谷歌表示，6月30日之后，任何Tenor API协议和当前集成都将完全停用，在过渡截止日期之后任何尝试发出API请求都将失败并产生错误消息。——The Verge",
-      "clean_text": "谷歌关闭GIF表情图库Tenor的API服务谷歌即日起将关闭GIF表情图库Tenor的API服务。虽然Tenor网站及其可搜索的GIF库将继续保持在线，但此前集成了该 API 的平台X、Discord、Bluesky 和 WhatsApp等，现在不得不迁移到替代的GIF选取服务。谷歌于2018年收购了Tenor GIF平台。其网站和API都允许用户使用关键词搜索GIF。谷歌将继续在其自身服务中使用Tenor。根据其Tenor常见问题解答页面，该公司于 1月13日停止接受新的API注册和集成请求。谷歌表示，6月30日之后，任何Tenor API协议和当前集成都将完全停用，在过渡截止日期之后任何尝试发出API请求都将失败并产生错误消息。——The Verge",
-      "datetime": "2026-07-01T08:31:14+00:00",
-      "views": "1.35K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30488",
-      "scraped_at": "2026-07-01T17:00:42.082774",
-      "title": "谷歌关闭Tenor API",
-      "title_options": {
-        "conclusion": "谷歌关闭Tenor API",
-        "attractive": "GIF库API停用",
-        "minimal": "Tenor API关闭",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1647,6 +1624,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-07-02T20:28:04.894116"
+  "count": 64,
+  "updated_at": "2026-07-02T20:33:08.934772"
 }
