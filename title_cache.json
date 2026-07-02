@@ -12500,5 +12500,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T14:02:25.146823"
+  },
+  "xhqcankao_30520": {
+    "ai_title": "美团限制使用豆包大模型",
+    "title_options": {
+      "conclusion": "美团限制使用豆包大模型",
+      "attractive": "美团禁用豆包大模型",
+      "minimal": "美团 豆包 限制",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T15:03:10.983624"
+  },
+  "xhqcankao_30519": {
+    "ai_title": "美政府将公布AI模型标准",
+    "title_options": {
+      "conclusion": "美政府将公布AI模型标准",
+      "attractive": "AI模型标准下周公布",
+      "minimal": "美AI模型标准",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T15:03:11.041605"
+  },
+  "xhqcankao_30518": {
+    "ai_title": "阿里支付6亿美元和解",
+    "title_options": {
+      "conclusion": "阿里支付6亿美元和解",
+      "attractive": "阿里6亿换不起诉",
+      "minimal": "阿里6亿美元和解",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T15:03:11.042749"
+  },
+  "zaihuapd_42309": {
+    "ai_title": "OpenAI提议政府持股5%",
+    "title_options": {
+      "conclusion": "OpenAI提议政府持股5%",
+      "attractive": "政府入股AI巨头分收益",
+      "minimal": "OpenAI政府持股5%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T15:03:12.331838"
   }
 }
