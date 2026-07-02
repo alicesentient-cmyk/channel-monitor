@@ -1,6 +1,97 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42302",
+      "channel": "zaihuapd",
+      "text": "Apple 协助 FBI “开盒”用 iCloud 匿名邮箱发送威胁信息的用户  Apple 在一宗威胁邮件调查中向 FBI 提供了“隐藏邮箱地址”功能的匿名地址对应的真实 iCloud 邮箱及账户资料。涉案账户登记名为 Alden Ruml，曾生成 134 个匿名邮箱。  宣誓书称，Ruml 随后承认曾向 FBI 局长 Kash Patel 女友 Alexis Wilkins 发送威胁邮件。iCloud+ 的这项匿名邮箱功能在执法调查中仍可追溯到账户信息。  404 Media｜｜",
+      "clean_text": "🍏Apple 协助 FBI “开盒”用 iCloud 匿名邮箱发送威胁信息的用户  Apple 在一宗威胁邮件调查中向 FBI 提供了“隐藏邮箱地址”功能的匿名地址对应的真实 iCloud 邮箱及账户资料。涉案账户登记名为 Alden Ruml，曾生成 134 个匿名邮箱。  宣誓书称，Ruml 随后承认曾向 FBI 局长 Kash Patel 女友 Alexis Wilkins 发送威胁邮件。iCloud+ 的这项匿名邮箱功能在执法调查中仍可追溯到账户信息。  404 Media｜茶馆讨论｜投稿通道",
+      "datetime": "2026-07-02T01:03:59+00:00",
+      "views": "288",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42302",
+      "scraped_at": "2026-07-02T09:05:14.747669",
+      "title": "Apple助FBI查匿名邮箱",
+      "title_options": {
+        "conclusion": "Apple助FBI查匿名邮箱",
+        "attractive": "iCloud匿名邮箱可追踪",
+        "minimal": "Apple FBI 匿名邮箱",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30508",
+      "channel": "xhqcankao",
+      "text": "SpaceX向投资者展示全新AI设备原型机埃隆·马斯克旗下的SpaceX最近向投资者展示了一款类似手机的设备原型机。该设备旨在重塑人类与人工智能的交互方式。知情人士透露，在这家火箭和AI公司进行巨型 IPO 前夕，该公司向部分投资者和其他利益相关者展示了这款原型机。该设备设计时尚，机身比iPhone更纤薄。部分知情人士称，这款原型机将运行专有操作系统，并集成SpaceX旗下xAI的人工智能技术。他们还透露，该设备将搭载高通的骁龙芯片。SpaceX向一些投资者表示，该项目尚处于早期阶段。其设计可能会改变，也不确定该设备最终是否会投产。对此，马斯克在 X 平台上发文对此回应称，“完全失实”，但未进一步说明。",
+      "clean_text": "SpaceX向投资者展示全新AI设备原型机埃隆·马斯克旗下的SpaceX最近向投资者展示了一款类似手机的设备原型机。该设备旨在重塑人类与人工智能的交互方式。知情人士透露，在这家火箭和AI公司进行巨型 IPO 前夕，该公司向部分投资者和其他利益相关者展示了这款原型机。该设备设计时尚，机身比iPhone更纤薄。部分知情人士称，这款原型机将运行专有操作系统，并集成SpaceX旗下xAI的人工智能技术。他们还透露，该设备将搭载高通的骁龙芯片。SpaceX向一些投资者表示，该项目尚处于早期阶段。其设计可能会改变，也不确定该设备最终是否会投产。对此，马斯克在 X 平台上发文对此回应称，“完全失实”，但未进一步说明。——华尔街日报",
+      "datetime": "2026-07-02T01:01:20+00:00",
+      "views": "216",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-4632ed1c?mod=cn_hp_tech_pos1"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30508",
+      "scraped_at": "2026-07-02T09:05:16.024348",
+      "title": "SpaceX展示AI设备原型",
+      "title_options": {
+        "conclusion": "SpaceX展示AI设备原型",
+        "attractive": "比iPhone更薄？马斯克否认",
+        "minimal": "SpaceX AI设备原型",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30507",
+      "channel": "xhqcankao",
+      "text": "Meta：WhatsApp的新功能具备防诈骗防御措施Meta周三表示，其将允许高知名度名称只能由合法所有者认领，作为其在 WhatsApp 新用户名功能中打击冒充行为努力的一部分。Meta旗下的WhatsApp即时通讯应用本周开始允许用户预留一个唯一用户名，并计划于今年晚些时候使其投入运行。据透露，此举已受到印度政府的审查，预计印度政府将要求WhatsApp解释该功能及其影响。Meta表示，其已在 WhatsApp 的用户名功能中建立了多层防诈骗防御措施。“其他用户需要知道准确的用户名才能给您发消息，我们将限制一个帐户可以联系的新用户数量，阻止反复尝试猜测某人用户名密钥的行为，并设有系统来检测和删除显示常见冒充和滥用模式的活动，”WhatsApp在声明中表示。",
+      "clean_text": "Meta：WhatsApp的新功能具备防诈骗防御措施Meta周三表示，其将允许高知名度名称只能由合法所有者认领，作为其在 WhatsApp 新用户名功能中打击冒充行为努力的一部分。Meta旗下的WhatsApp即时通讯应用本周开始允许用户预留一个唯一用户名，并计划于今年晚些时候使其投入运行。据透露，此举已受到印度政府的审查，预计印度政府将要求WhatsApp解释该功能及其影响。Meta表示，其已在 WhatsApp 的用户名功能中建立了多层防诈骗防御措施。“其他用户需要知道准确的用户名才能给您发消息，我们将限制一个帐户可以联系的新用户数量，阻止反复尝试猜测某人用户名密钥的行为，并设有系统来检测和删除显示常见冒充和滥用模式的活动，”WhatsApp在声明中表示。——彭博社",
+      "datetime": "2026-07-02T00:31:29+00:00",
+      "views": "1.08K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/whatsapp-s-new-feature-has-defenses-against-scams-meta-says"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30507",
+      "scraped_at": "2026-07-02T09:05:16.024150",
+      "title": "WhatsApp新功能防诈骗",
+      "title_options": {
+        "conclusion": "WhatsApp新功能防诈骗",
+        "attractive": "用户名防冒充，印度审查",
+        "minimal": "WhatsApp防诈骗",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30506",
+      "channel": "xhqcankao",
+      "text": "苹果洽谈为中国市场设备采购长鑫、长江存储芯片苹果公司正与两家中国芯片制造商谈判，拟采购其芯片，以帮助缓解全球存储芯片短缺带来的影响。据知情人士透露，苹果正寻求从长鑫存储、长江存储采购存储芯片，用于在中国销售的设备。苹果与这两家公司的谈判仍在进行中，目前尚未达成最终协议。知情人士称，苹果为此已展开一系列努力，其中包括CEO蒂姆·库克对美国财政部长斯科特·贝森特等特朗普政府官员进行游说，希望减轻与中国芯片制造商达成任何潜在交易可能引发的政治影响。长鑫存储和长江存储均被美国国防部列入了所谓的实体清单。尽管苹果从长鑫存储或长江存储采购芯片无需获得美国的正式批准，但此举可能面临华盛顿国家安全鹰派人士的强烈反弹。",
+      "clean_text": "苹果洽谈为中国市场设备采购长鑫、长江存储芯片苹果公司正与两家中国芯片制造商谈判，拟采购其芯片，以帮助缓解全球存储芯片短缺带来的影响。据知情人士透露，苹果正寻求从长鑫存储、长江存储采购存储芯片，用于在中国销售的设备。苹果与这两家公司的谈判仍在进行中，目前尚未达成最终协议。知情人士称，苹果为此已展开一系列努力，其中包括CEO蒂姆·库克对美国财政部长斯科特·贝森特等特朗普政府官员进行游说，希望减轻与中国芯片制造商达成任何潜在交易可能引发的政治影响。长鑫存储和长江存储均被美国国防部列入了所谓的实体清单。尽管苹果从长鑫存储或长江存储采购芯片无需获得美国的正式批准，但此举可能面临华盛顿国家安全鹰派人士的强烈反弹。——凤凰网科技、彭博社",
+      "datetime": "2026-07-02T00:04:50+00:00",
+      "views": "1.66K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006--AKvr2TahIhU-_GuyTxWV2iMmskekB1DXTxE4zE6Yfe3wwOkr7bTQrlIfv7ZrSt82"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30506",
+      "scraped_at": "2026-07-02T09:05:16.023933",
+      "title": "苹果洽谈采购中国芯片",
+      "title_options": {
+        "conclusion": "苹果洽谈采购中国芯片",
+        "attractive": "苹果拟用中国芯片",
+        "minimal": "苹果 长鑫 长江 芯片",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30505",
       "channel": "xhqcankao",
       "text": "谷歌被勒令向Klarna子公司支付15亿美元瑞典一家法院周三勒令谷歌向 PriceRunner 支付约15亿美元的损害赔偿金，后者是支付平台Klarna旗下的购物比价企业，原因是谷歌在搜索结果中偏袒自己的购物服务。该赔偿金额相当于约 143亿瑞典克朗，目前正值欧洲对美国大型科技公司的审查日益加强之际。这是瑞典法院在竞争案件中判出的最大赔偿金额，尽管远低于 PriceRunner 所寻求的 780亿克朗，其中包括应计利息。谷歌发言人表示，该公司自2017年以来已对其购物广告进行了更改，这些更改效果良好，并为比较购物服务提供了就业和增长支持。发言人说：“我们不同意法院的裁决，我们正在审查并将考虑我们的法律选择。”",
@@ -1560,6 +1651,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-02T09:03:53.561555"
+  "count": 66,
+  "updated_at": "2026-07-02T09:08:59.322957"
 }

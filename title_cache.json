@@ -12321,5 +12321,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T08:03:18.511769"
+  },
+  "xhqcankao_30507": {
+    "ai_title": "WhatsApp新功能防诈骗",
+    "title_options": {
+      "conclusion": "WhatsApp新功能防诈骗",
+      "attractive": "用户名防冒充，印度审查",
+      "minimal": "WhatsApp防诈骗",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T09:08:58.264407"
+  },
+  "xhqcankao_30508": {
+    "ai_title": "SpaceX展示AI设备原型",
+    "title_options": {
+      "conclusion": "SpaceX展示AI设备原型",
+      "attractive": "比iPhone更薄？马斯克否认",
+      "minimal": "SpaceX AI设备原型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T09:08:58.322027"
+  },
+  "zaihuapd_42302": {
+    "ai_title": "Apple助FBI查匿名邮箱",
+    "title_options": {
+      "conclusion": "Apple助FBI查匿名邮箱",
+      "attractive": "iCloud匿名邮箱可追踪",
+      "minimal": "Apple FBI 匿名邮箱",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T09:08:58.329728"
+  },
+  "xhqcankao_30506": {
+    "ai_title": "苹果洽谈采购中国芯片",
+    "title_options": {
+      "conclusion": "苹果洽谈采购中国芯片",
+      "attractive": "苹果拟用中国芯片",
+      "minimal": "苹果 长鑫 长江 芯片",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T09:08:59.295440"
   }
 }
