@@ -1632,33 +1632,6 @@
       }
     },
     {
-      "id": "xhqcankao_30474",
-      "channel": "xhqcankao",
-      "text": "美国政府解除Anthropic大模型出口管制Anthropic 周二宣布，美国商务部已解除对其Claude Fable 5和Mythos 5模型的出口管制，从而结束了这家人工智能公司与特朗普政府之间最新一轮激烈对峙。Anthropic在X上发帖称，已接到美国商务部解除出口管制的通知，将于当地时间明天 (周三) 开始恢复访问权限，并将尽快分享最新进展。“我们感谢用户的耐心等待，也感谢所有与我们合作重新部署模型的人。”Anthropic表示。Anthropic在本月早些时候暂停了Fable 5和Mythos 5的访问权限，以遵守美国政府的一项出口管制指令。该指令要求暂停“任何外国公民”的一切访问权限，“无论其身处美国境内还是境外，包括Anthropic的外籍员工”。",
-      "clean_text": "美国政府解除Anthropic大模型出口管制Anthropic 周二宣布，美国商务部已解除对其Claude Fable 5和Mythos 5模型的出口管制，从而结束了这家人工智能公司与特朗普政府之间最新一轮激烈对峙。Anthropic在X上发帖称，已接到美国商务部解除出口管制的通知，将于当地时间明天 (周三) 开始恢复访问权限，并将尽快分享最新进展。“我们感谢用户的耐心等待，也感谢所有与我们合作重新部署模型的人。”Anthropic表示。Anthropic在本月早些时候暂停了Fable 5和Mythos 5的访问权限，以遵守美国政府的一项出口管制指令。该指令要求暂停“任何外国公民”的一切访问权限，“无论其身处美国境内还是境外，包括Anthropic的外籍员工”。——凤凰网科技、CNBC",
-      "datetime": "2026-07-01T01:32:37+00:00",
-      "views": "1.36K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006P4s-_ifECmq8lv6gi3ht1umPMTmP7JvggIFZAyze-_iJfykWHXRKChPTSh-_ZH8aR-_f"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30474",
-      "scraped_at": "2026-07-01T10:00:26.576943",
-      "title": "美解除Anthropic出口管制",
-      "title_options": {
-        "conclusion": "美解除Anthropic出口管制",
-        "attractive": "Anthropic模型恢复访问",
-        "minimal": "Anthropic出口管制解除",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1727,6 +1700,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-02T13:32:03.457193"
+  "count": 67,
+  "updated_at": "2026-07-02T13:37:07.388838"
 }
