@@ -1614,28 +1614,6 @@
       }
     },
     {
-      "id": "xhqcankao_30481",
-      "channel": "xhqcankao",
-      "text": "谷歌推出Nano Banana 2 Lite模型 四秒出图、价格更低谷歌于周二发布了 Nano Banana 2 Lite 模型，这是其自主研发的AI视频和图像生成器的最新版本。谷歌声称，该版本比其之前发布的版本速度明显更快、更经济实惠。谷歌表示，该模型具有更低的延迟，可以在四秒内生成图像，这使得其成为你需要快速迭代图像并连续大量生成时的一个不错选择。其成本为每 1,000 张图像 0.034 美元，这对于希望大规模草拟和完善其内容的人来说相当实惠。Nano Banana 2 Lite现可通过谷歌AI Studio和Gemini API，以及谷歌的Gemini Enterprise Agent Platform获取。",
-      "clean_text": "谷歌推出Nano Banana 2 Lite模型 四秒出图、价格更低谷歌于周二发布了 Nano Banana 2 Lite 模型，这是其自主研发的AI视频和图像生成器的最新版本。谷歌声称，该版本比其之前发布的版本速度明显更快、更经济实惠。谷歌表示，该模型具有更低的延迟，可以在四秒内生成图像，这使得其成为你需要快速迭代图像并连续大量生成时的一个不错选择。其成本为每 1,000 张图像 0.034 美元，这对于希望大规模草拟和完善其内容的人来说相当实惠。Nano Banana 2 Lite现可通过谷歌AI Studio和Gemini API，以及谷歌的Gemini Enterprise Agent Platform获取。——Techcrunch",
-      "datetime": "2026-07-01T05:01:04+00:00",
-      "views": "2.03K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30481",
-      "scraped_at": "2026-07-01T14:00:33.963657",
-      "title": "谷歌推Nano Banana 2 Li…",
-      "title_options": {
-        "conclusion": "谷歌推Nano Banana 2 Li…",
-        "attractive": "四秒出图仅0.034美元",
-        "minimal": "谷歌新模型低价"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1666,6 +1644,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-07-02T16:59:42.404346"
+  "count": 64,
+  "updated_at": "2026-07-02T17:04:52.910130"
 }
