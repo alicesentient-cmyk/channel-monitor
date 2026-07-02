@@ -1690,37 +1690,6 @@
       }
     },
     {
-      "id": "zaihuapd_42278",
-      "channel": "zaihuapd",
-      "text": "美商务部解除 Claude Fable 5 和 Mythos 5 出口管制，Anthropic 将恢复访问Anthropic 刚刚宣布，美国商务部已解除对 Claude Fable 5 和 Mythos 5 的出口管制，公司将于次日开始恢复用户访问，并将尽快发布进一步更新。Anthropic 感谢用户的耐心等待，并向所有协助重新部署模型的人员致谢。Anthropic·茶馆水群·",
-      "clean_text": "🤖美商务部解除 Claude Fable 5 和 Mythos 5 出口管制，Anthropic 将恢复访问Anthropic 刚刚宣布，美国商务部已解除对 Claude Fable 5 和 Mythos 5 的出口管制，公司将于次日开始恢复用户访问，并将尽快发布进一步更新。Anthropic 感谢用户的耐心等待，并向所有协助重新部署模型的人员致谢。Anthropic·茶馆水群",
-      "datetime": "2026-07-01T00:13:27+00:00",
-      "views": "4.14K",
-      "source_links": [
-        {
-          "text": "Anthropic",
-          "url": "https://x.com/AnthropicAI/status/2072106151890809341"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42278",
-      "scraped_at": "2026-07-01T09:05:18.680988",
-      "title": "美解除两模型出口管制",
-      "title_options": {
-        "conclusion": "美解除两模型出口管制",
-        "attractive": "Claude模型恢复访问",
-        "minimal": "出口管制解除",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1789,6 +1758,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-02T12:11:02.815394"
+  "count": 70,
+  "updated_at": "2026-07-02T12:16:06.429246"
 }
