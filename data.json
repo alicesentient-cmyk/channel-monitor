@@ -1636,24 +1636,6 @@
       }
     },
     {
-      "id": "zaihuapd_42285",
-      "channel": "zaihuapd",
-      "text": "Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息  一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。…",
-      "clean_text": "🤖Claude Code 2.1.91 被指隐蔽进行遥测，暗传代理与时区信息  一名发布逆向分析的用户称，Claude Code 自 2026 年 4 月发布的 2.1.91 起，会在启用 proxy 时检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，并判断 proxy URL 是否指向中国域名或中国 AI 实验室，再通过改写 system prompt 中的日期格式和“Today’s date is”的 Unicode 撇号，把结果编码进发往 Anthropic API 的提示词。…",
-      "datetime": "2026-07-01T04:42:42+00:00",
-      "views": "2.7K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42285",
-      "scraped_at": "2026-07-01T13:00:40.252746",
-      "title": "Claude Code暗传代理与时区",
-      "title_options": {
-        "conclusion": "Claude Code暗传代理与时区",
-        "attractive": "Claude Code偷传中国时区",
-        "minimal": "Claude Code遥测",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1684,6 +1666,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-07-02T16:39:28.216448"
+  "count": 65,
+  "updated_at": "2026-07-02T16:44:32.005638"
 }
