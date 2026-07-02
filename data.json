@@ -1,6 +1,87 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42308",
+      "channel": "zaihuapd",
+      "text": "Cloudflare 9 月起默认拦截部分 AI 爬虫，Google 被点名Cloudflare 宣布，9 月 15 日起，默认阻止同时用于搜索、AI 问答和训练的“混合用途”爬虫抓取带广告的页面。Cloudflare 还点名暗批 Google，认为网站很难做到“允许搜索收录，但拒绝内容被用于 AI”。未来，AI 公司使用网站内容，可能不只要为抓取付费，还要按实际使用付费。TechCrunch简单一句话：很多网站阻止了 AI 爬虫，但是没有阻止谷歌搜索。谷歌就用了这个漏洞训练它的 AI。·茶馆水群·",
+      "clean_text": "Cloudflare 9 月起默认拦截部分 AI 爬虫，Google 被点名Cloudflare 宣布，9 月 15 日起，默认阻止同时用于搜索、AI 问答和训练的“混合用途”爬虫抓取带广告的页面。Cloudflare 还点名暗批 Google，认为网站很难做到“允许搜索收录，但拒绝内容被用于 AI”。未来，AI 公司使用网站内容，可能不只要为抓取付费，还要按实际使用付费。TechCrunch简单一句话：很多网站阻止了 AI 爬虫，但是没有阻止谷歌搜索。谷歌就用了这个漏洞训练它的 AI。·茶馆水群",
+      "datetime": "2026-07-02T05:37:58+00:00",
+      "views": "2.87K",
+      "source_links": [
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42308",
+      "scraped_at": "2026-07-02T14:01:14.406188",
+      "title": "Cloudflare拦截AI爬虫",
+      "title_options": {
+        "conclusion": "Cloudflare拦截AI爬虫",
+        "attractive": "谷歌借搜索漏洞训练AI",
+        "minimal": "Cloudflare AI爬虫 拦截",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30517",
+      "channel": "xhqcankao",
+      "text": "特朗普乘坐卡塔尔赠送的新“空军一号”首航美国总统特朗普本周三乘坐他期待已久的新 “空军一号” 进行了首航，这是一架由卡塔尔政府赠送给美国的波音747-8豪华客机。一小批记者参加了这次行程。这架新飞机接受了耗资四亿美元的翻新改造，为总统配备最先进的安全和技术设备，例如全新的通信系统。此次翻新改造还对这架卡塔尔王室私人飞机奢华的内饰作了部分改动。特朗普亲自审阅了该飞机的外部设计方案，新涂装摒弃了老款 “空军一号” 标志性的白色和淡蓝色搭配，采用了红、白、海军蓝和金色的涂装配色，使其外观类似于特朗普的私人飞机。特朗普周三乘机抵达北达科他州，出席西奥多·罗斯福总统图书馆的开馆活动。",
+      "clean_text": "特朗普乘坐卡塔尔赠送的新“空军一号”首航美国总统特朗普本周三乘坐他期待已久的新 “空军一号” 进行了首航，这是一架由卡塔尔政府赠送给美国的波音747-8豪华客机。一小批记者参加了这次行程。这架新飞机接受了耗资四亿美元的翻新改造，为总统配备最先进的安全和技术设备，例如全新的通信系统。此次翻新改造还对这架卡塔尔王室私人飞机奢华的内饰作了部分改动。特朗普亲自审阅了该飞机的外部设计方案，新涂装摒弃了老款 “空军一号” 标志性的白色和淡蓝色搭配，采用了红、白、海军蓝和金色的涂装配色，使其外观类似于特朗普的私人飞机。特朗普周三乘机抵达北达科他州，出席西奥多·罗斯福总统图书馆的开馆活动。——华尔街日报",
+      "datetime": "2026-07-02T05:31:45+00:00",
+      "views": "1.38K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/trumpto-take-maiden-flight-on-qatari-gifted-air-force-one-9fbc10df?mod=cn_hp_lead_pos8"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30517",
+      "scraped_at": "2026-07-02T14:01:15.774363",
+      "title": "特朗普乘新空军一号首航",
+      "title_options": {
+        "conclusion": "特朗普乘新空军一号首航",
+        "attractive": "卡塔尔赠机特朗普首飞",
+        "minimal": "新空军一号首航",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30516",
+      "channel": "xhqcankao",
+      "text": "XBOX新功能：实体版游戏可转化为数字版微软可能正在为 Xbox 平台测试一项备受关注的 “光盘转数字版” 功能，旨在帮助玩家将现有的实体游戏库转化为数字版，以迎接可能完全数字化的次世代主机时代。该功能的使用方式相对简单：用户只需将兼容的实体光盘（Xbox One与Xbox Series X|S游戏）放入带光驱的 Xbox 主机中。系统验证光盘后，便会为玩家的微软账户授予该游戏的数字授权。获取授权后，玩家无需光盘即可直接游玩该游戏的数字版本。这一 “数字授权” 与特定光盘绑定。如果玩家将光盘借给或卖给他人，该数字授权也会随之转移给新的持有者。这意味着数字授权是 “跟随光盘” 的，而非永久绑定在玩家账户上。",
+      "clean_text": "XBOX新功能：实体版游戏可转化为数字版微软可能正在为 Xbox 平台测试一项备受关注的 “光盘转数字版” 功能，旨在帮助玩家将现有的实体游戏库转化为数字版，以迎接可能完全数字化的次世代主机时代。该功能的使用方式相对简单：用户只需将兼容的实体光盘（Xbox One与Xbox Series X|S游戏）放入带光驱的 Xbox 主机中。系统验证光盘后，便会为玩家的微软账户授予该游戏的数字授权。获取授权后，玩家无需光盘即可直接游玩该游戏的数字版本。这一 “数字授权” 与特定光盘绑定。如果玩家将光盘借给或卖给他人，该数字授权也会随之转移给新的持有者。这意味着数字授权是 “跟随光盘” 的，而非永久绑定在玩家账户上。——游民星空、Theverge",
+      "datetime": "2026-07-02T05:02:28+00:00",
+      "views": "2.14K",
+      "source_links": [
+        {
+          "text": "游民星空",
+          "url": "https://wap.gamersky.com/news/Content-2165495.html"
+        },
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30516",
+      "scraped_at": "2026-07-02T14:01:15.774137",
+      "title": "Xbox光盘可转数字版",
+      "title_options": {
+        "conclusion": "Xbox光盘可转数字版",
+        "attractive": "光盘变数字，授权跟盘走",
+        "minimal": "Xbox光盘转数字",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42307",
       "channel": "zaihuapd",
       "text": "OnePlus 德法西官网挂横幅，引导用户转购 OppoOnePlus 德国、西班牙和法国官方商店近日出现横幅，直接向现有用户推荐 Oppo 的耳机、平板及 Find N9 系列等产品，称 Oppo 拥有\"你需要的速度和你信赖的体验\"，所有链接均跳转至 Oppo 官网。此举被外界视为 OnePlus 在自家渠道为兄弟品牌让路的明确信号。近月来，OnePlus 已陆续撤出美国 Best Buy 线下渠道，并在欧洲进行裁员，如今又在官网主动引导用户转向 Oppo，显示其正逐步收缩市场布局。不过，现有 OnePlus 手机仍可正常获得软件更新与支持，美国用户亦不受直接影响，因 Oppo 并未在当地销售手机。PhoneArena·茶馆水群·",
@@ -1605,33 +1686,6 @@
       }
     },
     {
-      "id": "xhqcankao_30475",
-      "channel": "xhqcankao",
-      "text": "美光：客户在价格上讨价还价导致内存短缺美光科技CEO桑杰·梅赫罗特拉周二表示，当前内存芯片供需失衡不应完全归咎于芯片制造商。这种失衡近期已导致智能手机、电脑及其他消费电子产品价格上涨。近年来在价格谈判中 “强势压价” 的客户同样加剧了这种紧张局面，这也使得整个行业在AI需求爆发前投资不足。“某些客户把我们的行业价格压得非常低。2023年，我们的价格跌到了原来的三分之一。”他表示价格暴跌导致美光及其他内存芯片供应商陷入负毛利率困境，使得整个行业在人工智能驱动的需求开始加速增长之际，大多缺乏投资新制造产能的财务灵活性。“各家公司当时都在亏损，无力承担新投资。这严重影响了整个行业的投资能力。”",
-      "clean_text": "美光：客户在价格上讨价还价导致内存短缺美光科技CEO桑杰·梅赫罗特拉周二表示，当前内存芯片供需失衡不应完全归咎于芯片制造商。这种失衡近期已导致智能手机、电脑及其他消费电子产品价格上涨。近年来在价格谈判中 “强势压价” 的客户同样加剧了这种紧张局面，这也使得整个行业在AI需求爆发前投资不足。“某些客户把我们的行业价格压得非常低。2023年，我们的价格跌到了原来的三分之一。”他表示价格暴跌导致美光及其他内存芯片供应商陷入负毛利率困境，使得整个行业在人工智能驱动的需求开始加速增长之际，大多缺乏投资新制造产能的财务灵活性。“各家公司当时都在亏损，无力承担新投资。这严重影响了整个行业的投资能力。”——凤凰网科技、CNBC",
-      "datetime": "2026-07-01T02:02:07+00:00",
-      "views": "2.29K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v0061vZf11zxsgArzu7k8E6l2E6--eU0j2xUZCUANR3Rer79DcvdurBLZgREEQV50kWx8"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/30/micron-ceo-customers-driving-hard-bargain-on-price-contributed-to-memory-shortage.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30475",
-      "scraped_at": "2026-07-01T11:00:41.049261",
-      "title": "美光称客户压价致内存短缺",
-      "title_options": {
-        "conclusion": "美光称客户压价致内存短缺",
-        "attractive": "客户压价三倍致芯片短缺",
-        "minimal": "美光客户压价短缺",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1700,6 +1754,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-02T13:57:19.926270"
+  "count": 69,
+  "updated_at": "2026-07-02T14:02:25.175364"
 }
