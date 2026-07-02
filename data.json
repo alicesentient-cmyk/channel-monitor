@@ -1360,29 +1360,6 @@
       }
     },
     {
-      "id": "xhqcankao_30498",
-      "channel": "xhqcankao",
-      "text": "索尼将关闭PS3和Vita主机数字商店索尼现计划关闭在PS3和PS Vita上的数字分发服务，这对于这两款主机上的PlayStation 商店来说是一个时代的终结。PS3游戏主机上的 PlayStation 商店将于今年晚些时候在部分市场关闭，墨西哥、洪都拉斯和尼加拉瓜从八月开始；随后其他的拉丁美洲和中东国家将在2026年末跟进。在“所有其他国家” 中，PS3和PS Vita两者的关闭将于2027年7月生效。在此日期之后，索尼表示主机所有者将无法购买新内容，但可以在截止日期过后 “在可预见的未来” 继续下载他们之前购买的游戏。这意味着如果你还没有为这些老主机购买特定游戏，仍有一些时间来这样做。",
-      "clean_text": "索尼将关闭PS3和Vita主机数字商店索尼现计划关闭在PS3和PS Vita上的数字分发服务，这对于这两款主机上的PlayStation 商店来说是一个时代的终结。PS3游戏主机上的 PlayStation 商店将于今年晚些时候在部分市场关闭，墨西哥、洪都拉斯和尼加拉瓜从八月开始；随后其他的拉丁美洲和中东国家将在2026年末跟进。在“所有其他国家” 中，PS3和PS Vita两者的关闭将于2027年7月生效。在此日期之后，索尼表示主机所有者将无法购买新内容，但可以在截止日期过后 “在可预见的未来” 继续下载他们之前购买的游戏。这意味着如果你还没有为这些老主机购买特定游戏，仍有一些时间来这样做。——Theverge",
-      "datetime": "2026-07-01T13:18:46+00:00",
-      "views": "1.58K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30498",
-      "scraped_at": "2026-07-01T22:00:32.726329",
-      "title": "索尼将关闭PS3和Vita商店",
-      "title_options": {
-        "conclusion": "索尼将关闭PS3和Vita商店",
-        "attractive": "PS3/Vita商店2027年关闭",
-        "minimal": "PS3/Vita商店关闭",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1413,6 +1390,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-07-03T01:17:32.393758"
+  "count": 54,
+  "updated_at": "2026-07-03T01:22:35.579772"
 }
