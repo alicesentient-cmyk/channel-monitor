@@ -1401,29 +1401,6 @@
       }
     },
     {
-      "id": "xhqcankao_30497",
-      "channel": "xhqcankao",
-      "text": "索尼将停产所有实体PlayStation游戏光盘日本索尼公司已宣布，从2028年1月起，将完全停止生产新款PlayStation游戏的实体光盘。届时新发售的游戏将仅通过PlayStation Store及其他零售商提供数字版本。2028年1月之前发售的游戏仍将提供光盘版。“这对索尼互动娱乐来说是顺应消费者趋势的自然方向，因为数字媒体的普遍偏好已大幅超过实体光盘，”索尼在公告中表示。“这一转变将使我们能够更紧密地与当下大多数社区用户偏好获取和游玩游戏的方式保持一致。”",
-      "clean_text": "索尼将停产所有实体PlayStation游戏光盘日本索尼公司已宣布，从2028年1月起，将完全停止生产新款PlayStation游戏的实体光盘。届时新发售的游戏将仅通过PlayStation Store及其他零售商提供数字版本。2028年1月之前发售的游戏仍将提供光盘版。“这对索尼互动娱乐来说是顺应消费者趋势的自然方向，因为数字媒体的普遍偏好已大幅超过实体光盘，”索尼在公告中表示。“这一转变将使我们能够更紧密地与当下大多数社区用户偏好获取和游玩游戏的方式保持一致。”——Theverge",
-      "datetime": "2026-07-01T12:56:31+00:00",
-      "views": "423",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30497",
-      "scraped_at": "2026-07-01T21:00:37.266802",
-      "title": "索尼2028年停售PS光盘",
-      "title_options": {
-        "conclusion": "索尼2028年停售PS光盘",
-        "attractive": "PS光盘将成绝版",
-        "minimal": "索尼停售光盘",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1454,6 +1431,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-03T00:52:12.993729"
+  "count": 56,
+  "updated_at": "2026-07-03T00:57:16.750612"
 }
