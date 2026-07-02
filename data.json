@@ -1678,29 +1678,6 @@
       }
     },
     {
-      "id": "xhqcankao_30482",
-      "channel": "xhqcankao",
-      "text": "特斯拉开始测试无方向盘和踏板的Robotaxi特斯拉公司已开始在美国得克萨斯州奥斯汀测试其Cybercab的量产版本，该车有两个座位，但没有方向盘或踏板。目前，根据发布在社交平台 X 上的一段视频，测试是在右侧乘客座椅上配有一名安全监控员的情况下进行的。这次测试发生在特斯拉公布Cybercab设计近两年之后，该车旨在成为一款完全自动驾驶的自动驾驶出租车，可通过特斯拉的应用叫车。上周，美国国家公路交通安全管理局公布了一项提案，对于“专为由自动驾驶系统驾驶而设计的车辆”，该提案将不再强制要求配备制动踏板。该提案仍处于公众意见征询期，但预计将在今年晚些时候通过。",
-      "clean_text": "特斯拉开始测试无方向盘和踏板的Robotaxi特斯拉公司已开始在美国得克萨斯州奥斯汀测试其Cybercab的量产版本，该车有两个座位，但没有方向盘或踏板。目前，根据发布在社交平台 X 上的一段视频，测试是在右侧乘客座椅上配有一名安全监控员的情况下进行的。这次测试发生在特斯拉公布Cybercab设计近两年之后，该车旨在成为一款完全自动驾驶的自动驾驶出租车，可通过特斯拉的应用叫车。上周，美国国家公路交通安全管理局公布了一项提案，对于“专为由自动驾驶系统驾驶而设计的车辆”，该提案将不再强制要求配备制动踏板。该提案仍处于公众意见征询期，但预计将在今年晚些时候通过。——Techcrunch",
-      "datetime": "2026-07-01T05:30:41+00:00",
-      "views": "1.25K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30482",
-      "scraped_at": "2026-07-01T14:00:33.964058",
-      "title": "特斯拉测试无方向盘Robotaxi",
-      "title_options": {
-        "conclusion": "特斯拉测试无方向盘Robotaxi",
-        "attractive": "无方向盘踏板，特斯拉测试",
-        "minimal": "特斯拉Robotaxi测试",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1731,6 +1708,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-02T17:30:16.424121"
+  "count": 67,
+  "updated_at": "2026-07-02T17:35:20.507373"
 }
