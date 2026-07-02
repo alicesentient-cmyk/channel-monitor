@@ -1457,37 +1457,6 @@
       }
     },
     {
-      "id": "zaihuapd_42295",
-      "channel": "zaihuapd",
-      "text": "Visa、Mastercard 等超 140 家企业联合发起 Open Standard 稳定币网络Visa、Mastercard 与 Coinbase 等超过 140 家企业于 6 月 30 日联合发起名为 Open Standard 的稳定币网络，计划今年晚些时候推出锚定美元的 Open USD。企业可免费、无限制地铸造和赎回该代币，其储备收益在扣除管理费后由合作伙伴共享。该联盟意在解决企业大规模采用稳定币的障碍，推动数字代币在全球支付中的应用。Open Standard 称现有稳定币虽有优势，但商业级应用需要更开放、低成本且高吞吐量的基础设施。目前稳定币多用于加密货币交易，尚未成为日常支付主流。美国去年签署 GENIUS Act，为稳定币设立了首部联邦监管框架。Reuters·茶馆水群·",
-      "clean_text": "Visa、Mastercard 等超 140 家企业联合发起 Open Standard 稳定币网络Visa、Mastercard 与 Coinbase 等超过 140 家企业于 6 月 30 日联合发起名为 Open Standard 的稳定币网络，计划今年晚些时候推出锚定美元的 Open USD。企业可免费、无限制地铸造和赎回该代币，其储备收益在扣除管理费后由合作伙伴共享。该联盟意在解决企业大规模采用稳定币的障碍，推动数字代币在全球支付中的应用。Open Standard 称现有稳定币虽有优势，但商业级应用需要更开放、低成本且高吞吐量的基础设施。目前稳定币多用于加密货币交易，尚未成为日常支付主流。美国去年签署 GENIUS Act，为稳定币设立了首部联邦监管框架。Reuters·茶馆水群",
-      "datetime": "2026-07-01T11:06:09+00:00",
-      "views": "4.71K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/business/consortium-including-visa-mastercard-jointly-launch-new-global-stablecoin-2026-06-30/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42295",
-      "scraped_at": "2026-07-01T20:05:29.395685",
-      "title": "140家企业联合推稳定币网络",
-      "title_options": {
-        "conclusion": "140家企业联合推稳定币网络",
-        "attractive": "企业可免费铸造稳定币",
-        "minimal": "稳定币网络Open Standard",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1518,6 +1487,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-02T23:05:39.084675"
+  "count": 59,
+  "updated_at": "2026-07-02T23:10:43.599322"
 }
