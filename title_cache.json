@@ -12718,5 +12718,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T23:05:39.065827"
+  },
+  "zaihuapd_42315": {
+    "ai_title": "PS3商店2027年关闭",
+    "title_options": {
+      "conclusion": "PS3商店2027年关闭",
+      "attractive": "数字游戏抢救倒计时",
+      "minimal": "PS3商店关闭",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T00:06:35.439380"
+  },
+  "zaihuapd_42316": {
+    "ai_title": "特斯拉股价单日跌超6%",
+    "title_options": {
+      "conclusion": "特斯拉股价单日跌超6%",
+      "attractive": "特斯拉股价暴跌6%",
+      "minimal": "特斯拉股价跌超6%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T00:06:35.589927"
+  },
+  "zaihuapd_42317": {
+    "ai_title": "Anthropic洽谈三星代工AI芯片",
+    "title_options": {
+      "conclusion": "Anthropic洽谈三星代工AI芯片",
+      "attractive": "Anthropic自研芯片找三星代工",
+      "minimal": "Anthropic三星芯片代工",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T00:06:35.772904"
   }
 }
