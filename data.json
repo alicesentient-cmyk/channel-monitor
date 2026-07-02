@@ -1404,37 +1404,6 @@
       }
     },
     {
-      "id": "zaihuapd_42296",
-      "channel": "zaihuapd",
-      "text": "加州付费游戏停服法案搁浅 游说团体称《我的世界》《使命召唤》社区私服属盗版遭反驳加州 AB 1921 法案在州参议院委员会因差 3 票未获多数而搁置。该法案要求发行商为付费纯网游停服时提前 60 天通知、停售，并提供离线模式或退款等补救措施，订阅及免费游戏除外。听证会上，ESA 游说人士称《我的世界》《使命召唤》社区私服属盗版。倡议团体 Stop Killing Games 反驳称《我的世界》用户协议本就允许私服，官网亦提供相关文件。该组织将败因归于游说资源不足，计划向其他州及联邦法院继续推进。此前其在欧洲推动同类立法亦受挫，尽管获近 130 万人联署，欧盟委员会仅提议与出版商达成非约束性协议。TechSpot·茶馆水群·",
-      "clean_text": "加州付费游戏停服法案搁浅 游说团体称《我的世界》《使命召唤》社区私服属盗版遭反驳加州 AB 1921 法案在州参议院委员会因差 3 票未获多数而搁置。该法案要求发行商为付费纯网游停服时提前 60 天通知、停售，并提供离线模式或退款等补救措施，订阅及免费游戏除外。听证会上，ESA 游说人士称《我的世界》《使命召唤》社区私服属盗版。倡议团体 Stop Killing Games 反驳称《我的世界》用户协议本就允许私服，官网亦提供相关文件。该组织将败因归于游说资源不足，计划向其他州及联邦法院继续推进。此前其在欧洲推动同类立法亦受挫，尽管获近 130 万人联署，欧盟委员会仅提议与出版商达成非约束性协议。TechSpot·茶馆水群",
-      "datetime": "2026-07-01T11:36:09+00:00",
-      "views": "2.63K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/112951-us-bill-against-paid-game-server-shutdowns-fails.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42296",
-      "scraped_at": "2026-07-01T20:05:29.395990",
-      "title": "加州付费游戏停服法案搁浅",
-      "title_options": {
-        "conclusion": "加州付费游戏停服法案搁浅",
-        "attractive": "私服盗版争议致法案搁浅",
-        "minimal": "停服法案搁浅",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1465,6 +1434,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-02T23:36:07.386388"
+  "count": 57,
+  "updated_at": "2026-07-02T23:41:11.817451"
 }
