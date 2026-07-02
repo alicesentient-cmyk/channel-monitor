@@ -12371,5 +12371,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T10:04:33.983780"
+  },
+  "xhqcankao_30511": {
+    "ai_title": "苹果筹备新iPad Pro与MacBo…",
+    "title_options": {
+      "conclusion": "苹果筹备新iPad Pro与MacBo…",
+      "attractive": "苹果2027年推4款新iPad Pro",
+      "minimal": "iPad Pro MacBook Pr…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T11:05:16.404700"
+  },
+  "zaihuapd_42304": {
+    "ai_title": "阿里支付6亿美元和解",
+    "title_options": {
+      "conclusion": "阿里支付6亿美元和解",
+      "attractive": "阿里支付6亿解决调查",
+      "minimal": "阿里6亿美元和解",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T11:05:16.404715"
+  },
+  "zaihuapd_42305": {
+    "ai_title": "Meta拟出售AI算力",
+    "title_options": {
+      "conclusion": "Meta拟出售AI算力",
+      "attractive": "AI算力过剩？Meta卖云",
+      "minimal": "Meta卖算力",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T11:05:16.506943"
+  },
+  "xhqcankao_30510": {
+    "ai_title": "币安因无牌照停止欧盟服务",
+    "title_options": {
+      "conclusion": "币安因无牌照停止欧盟服务",
+      "attractive": "币安退出欧盟，牌照申请被拒",
+      "minimal": "币安 欧盟 停运 无牌照",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T11:05:17.482316"
   }
 }

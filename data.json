@@ -1,6 +1,126 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30511",
+      "channel": "xhqcankao",
+      "text": "苹果筹备全新iPad Pro与重新设计的入门级MacBook Pro苹果公司正为明年筹备升级款iPad Pro产品线与经过重新设计的入门级MacBook Pro，进一步扩充iPhone诞生二十周年年份规划的多款重磅新品阵容。据知情人士透露，苹果正在测试4款计划于2027年春季推出的全新iPad Pro机型。消息人士称，新机将保留现有的11英寸与13英寸两种屏幕尺寸，核心升级点包含性能更强的芯片，同时还在打造外观重新设计的入门级MacBook Pro。苹果还计划于明年上半年推出基础版 M7 芯片，目标是在即将发布的 M6 代芯片之后快速完成迭代，全力推进芯片优化工作，以适配要求更高的人工智能运算负载。",
+      "clean_text": "苹果筹备全新iPad Pro与重新设计的入门级MacBook Pro苹果公司正为明年筹备升级款iPad Pro产品线与经过重新设计的入门级MacBook Pro，进一步扩充iPhone诞生二十周年年份规划的多款重磅新品阵容。据知情人士透露，苹果正在测试4款计划于2027年春季推出的全新iPad Pro机型。消息人士称，新机将保留现有的11英寸与13英寸两种屏幕尺寸，核心升级点包含性能更强的芯片，同时还在打造外观重新设计的入门级MacBook Pro。苹果还计划于明年上半年推出基础版 M7 芯片，目标是在即将发布的 M6 代芯片之后快速完成迭代，全力推进芯片优化工作，以适配要求更高的人工智能运算负载。——财联社、彭博社",
+      "datetime": "2026-07-02T02:31:57+00:00",
+      "views": "1.35K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2414783?&amp;sv=8.5.9&amp;"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30511",
+      "scraped_at": "2026-07-02T11:00:41.516774",
+      "title": "苹果筹备新iPad Pro与MacBo…",
+      "title_options": {
+        "conclusion": "苹果筹备新iPad Pro与MacBo…",
+        "attractive": "苹果2027年推4款新iPad Pro",
+        "minimal": "iPad Pro MacBook Pr…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42305",
+      "channel": "zaihuapd",
+      "text": "Meta 拟出售富余 AI 算力，进军云计算市场韩国股市 7 月 2 日大跌，Kospi 指数盘中最多跌 7%，三星电子和 SK 海力士一度都跌至少 8%，韩国交易所还一度暂停 Kospi 期货的程序化卖出。这轮抛售与两则 AI 相关消息叠加有关：Meta 正筹划向外部客户出售多余的 AI 算力和模型服务，市场担心 Meta 和其他大公司在 AI 上的投入可能放缓，AI 上游投入乃至产能整体可能过剩；同时苹果则在洽谈向两家中国存储芯片厂采购面向中国市场设备所用芯片，此举引发对三星和 SK 海力士在内存竞争优势的担忧。Bloomberg(1,2,3)·茶馆水群·",
+      "clean_text": "Meta 拟出售富余 AI 算力，进军云计算市场韩国股市 7 月 2 日大跌，Kospi 指数盘中最多跌 7%，三星电子和 SK 海力士一度都跌至少 8%，韩国交易所还一度暂停 Kospi 期货的程序化卖出。这轮抛售与两则 AI 相关消息叠加有关：Meta 正筹划向外部客户出售多余的 AI 算力和模型服务，市场担心 Meta 和其他大公司在 AI 上的投入可能放缓，AI 上游投入乃至产能整体可能过剩；同时苹果则在洽谈向两家中国存储芯片厂采购面向中国市场设备所用芯片，此举引发对三星和 SK 海力士在内存竞争优势的担忧。Bloomberg(1,2,3)·茶馆水群",
+      "datetime": "2026-07-02T02:29:45+00:00",
+      "views": "3.06K",
+      "source_links": [
+        {
+          "text": "1",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers"
+        },
+        {
+          "text": "2",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute"
+        },
+        {
+          "text": "3",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42305",
+      "scraped_at": "2026-07-02T11:00:40.242527",
+      "title": "Meta拟出售AI算力",
+      "title_options": {
+        "conclusion": "Meta拟出售AI算力",
+        "attractive": "AI算力过剩？Meta卖云",
+        "minimal": "Meta卖算力",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42304",
+      "channel": "zaihuapd",
+      "text": "阿里巴巴及支付服务商支付 6 亿美元解决美国调查阿里巴巴及其美国支付服务商 AUS Merchant Services 同意支付合计 6 亿美元，与美国司法部就非法药品和制药设备销售问题达成和解。两家公司将分别签署不起诉协议，并加强合规措施。相关交易发生在 2016 年至 2024 年间，涉及约 8 万笔违反美国法律的商品销售。AUS Merchant Services 还承认，其反洗钱体系未能阻止商户通过支付服务完成相关交易。彭博社⁠·茶馆水群·",
+      "clean_text": "阿里巴巴及支付服务商支付 6 亿美元解决美国调查阿里巴巴及其美国支付服务商 AUS Merchant Services 同意支付合计 6 亿美元，与美国司法部就非法药品和制药设备销售问题达成和解。两家公司将分别签署不起诉协议，并加强合规措施。相关交易发生在 2016 年至 2024 年间，涉及约 8 万笔违反美国法律的商品销售。AUS Merchant Services 还承认，其反洗钱体系未能阻止商户通过支付服务完成相关交易。彭博社⁠·茶馆水群",
+      "datetime": "2026-07-02T02:02:02+00:00",
+      "views": "4.91K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-01/alibiba-payment-firm-will-pay-600-million-to-resolve-us-probe"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42304",
+      "scraped_at": "2026-07-02T11:00:40.242204",
+      "title": "阿里支付6亿美元和解",
+      "title_options": {
+        "conclusion": "阿里支付6亿美元和解",
+        "attractive": "阿里支付6亿解决调查",
+        "minimal": "阿里6亿美元和解",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30510",
+      "channel": "xhqcankao",
+      "text": "币安因未取得牌照停止在欧盟提供服务全球最大的加密货币交易所币安未能获得欧盟的运营牌照。此前，一家关键监管机构对该交易所过往的金融犯罪违规记录表达了担忧。币安上周表示，已撤回在希腊提交的牌照申请。根据欧盟新的加密货币法规，如果该申请获批，币安本可从七月起在整个欧盟境内提供服务。据知情人士透露，欧盟市场监管机构曾私下建议各国监管机构拒绝币安的任何申请，理由是担忧这家交易所在防范金融犯罪方面的合规表现。希腊监管机构未在7月1日的最后期限前批准币安的申请，而根据规定，未获牌照的加密货币公司必须在该期限前逐步结束当地业务。币安表示，接下来将在欧盟其他地方申请牌照。",
+      "clean_text": "币安因未取得牌照停止在欧盟提供服务全球最大的加密货币交易所币安未能获得欧盟的运营牌照。此前，一家关键监管机构对该交易所过往的金融犯罪违规记录表达了担忧。币安上周表示，已撤回在希腊提交的牌照申请。根据欧盟新的加密货币法规，如果该申请获批，币安本可从七月起在整个欧盟境内提供服务。据知情人士透露，欧盟市场监管机构曾私下建议各国监管机构拒绝币安的任何申请，理由是担忧这家交易所在防范金融犯罪方面的合规表现。希腊监管机构未在7月1日的最后期限前批准币安的申请，而根据规定，未获牌照的加密货币公司必须在该期限前逐步结束当地业务。币安表示，接下来将在欧盟其他地方申请牌照。——华尔街日报",
+      "datetime": "2026-07-02T02:01:12+00:00",
+      "views": "2.13K",
+      "source_links": [
+        {
+          "text": "华尔街日报",
+          "url": "https://cn.wsj.com/articles/%E5%B8%81%E5%AE%89%E5%9B%A0%E6%9C%AA%E5%8F%96%E5%BE%97%E7%89%8C%E7%85%A7%E5%81%9C%E6%AD%A2%E5%9C%A8%E6%AC%A7%E7%9B%9F%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1-0e1ebfc2?mod=cn_hp_featst_pos1"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30510",
+      "scraped_at": "2026-07-02T11:00:41.516538",
+      "title": "币安因无牌照停止欧盟服务",
+      "title_options": {
+        "conclusion": "币安因无牌照停止欧盟服务",
+        "attractive": "币安退出欧盟，牌照申请被拒",
+        "minimal": "币安 欧盟 停运 无牌照",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30509",
       "channel": "xhqcankao",
       "text": "俄罗斯警告苹果：再不预装本土应用将罚款俄罗斯反垄断监管机构已向苹果公司发出警告，敦促其整改针对俄罗斯搜索引擎和软件采取的歧视性做公司法。俄罗斯联邦反垄断局表示，苹果必须确保其设备上预装了包括搜索引擎、Max即时通讯工具在内的俄罗斯本土软件。该机构表示，如果苹果未能在今年7月15日前纠正这些违规行为，可能面临最高达40亿卢布的罚款。接近一年前，俄罗斯政府出台了一项规定，该规定要求在俄罗斯境内销售的所有手机和平板电脑，必须预装其国家支持的即时通讯应用MAX。",
@@ -1587,29 +1707,6 @@
       }
     },
     {
-      "id": "xhqcankao_30469",
-      "channel": "xhqcankao",
-      "text": "亚马逊AWS斥资10亿美元成立新AI部门亚马逊 AWS 于本周二宣布，将斥资10亿美元成立前线派驻工程部，专门为企业客户提供人工智能系统的搭建与落地部署服务。前线派驻工程师(简称FDE)，指直接派驻入驻合作企业内部、帮助客户加速技术数字化转型的技术人员。这一岗位概念最早由军工软件企业帕兰蒂尔在十余年前提出，如今被众多软件厂商再度推崇",
-      "clean_text": "亚马逊AWS斥资10亿美元成立新AI部门亚马逊 AWS 于本周二宣布，将斥资10亿美元成立前线派驻工程部，专门为企业客户提供人工智能系统的搭建与落地部署服务。前线派驻工程师(简称FDE)，指直接派驻入驻合作企业内部、帮助客户加速技术数字化转型的技术人员。这一岗位概念最早由军工软件企业帕兰蒂尔在十余年前提出，如今被众多软件厂商再度推崇 —— 企业直接派遣技术团队进驻客户现场，以此提升自家技术产品的落地渗透率。亚马逊高管说：“多年来我们其实一直具备相关服务能力，但本次是首次从组织架构层面，把相关人员整合至同一个业务部门，统一制定标准化落地部署体系。”——CNBC",
-      "datetime": "2026-06-30T23:02:29+00:00",
-      "views": "1.06K",
-      "source_links": [
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30469",
-      "scraped_at": "2026-07-01T08:00:35.416345",
-      "title": "AWS斥10亿美元建AI部门",
-      "title_options": {
-        "conclusion": "AWS斥10亿美元建AI部门",
-        "attractive": "AWS派驻工程师帮企业部署AI",
-        "minimal": "AWS 10亿 AI 部门",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1678,6 +1775,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-02T11:00:11.217744"
+  "count": 70,
+  "updated_at": "2026-07-02T11:05:17.502598"
 }
