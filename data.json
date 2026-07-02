@@ -1283,37 +1283,6 @@
       }
     },
     {
-      "id": "zaihuapd_42299",
-      "channel": "zaihuapd",
-      "text": "国巨 7 月 1 日起全线调涨电容价格，涨幅约五成，为近年最大范围涨价国巨自 7 月 1 日起调涨全系列电容产品价格，涵盖 MLCC、铝电解电容、钽电容等全线产品，为近年最大范围涨价。据产业消息，官方报价涨幅约 50%，现货市场更陡，高端电容现货价近一个月内甚至上涨近十倍。涨价主因地缘政治、能源与原材料成本上升及运费波动。与此同时，AI 服务器与电动车需求推高高端被动元件用量，被动元件在 AI 服务器 BOM 成本中已升至仅次于 GPU 与内存。由于日韩厂商全力投入高阶 AI 用 MLCC，常规产能受限，国巨有望承接转单。电容占国巨营收约一半，且此次首度对占比过半的直接客户涨价，预计显著拉动营收与利润。TrendForce·茶馆水群·",
-      "clean_text": "国巨 7 月 1 日起全线调涨电容价格，涨幅约五成，为近年最大范围涨价国巨自 7 月 1 日起调涨全系列电容产品价格，涵盖 MLCC、铝电解电容、钽电容等全线产品，为近年最大范围涨价。据产业消息，官方报价涨幅约 50%，现货市场更陡，高端电容现货价近一个月内甚至上涨近十倍。涨价主因地缘政治、能源与原材料成本上升及运费波动。与此同时，AI 服务器与电动车需求推高高端被动元件用量，被动元件在 AI 服务器 BOM 成本中已升至仅次于 GPU 与内存。由于日韩厂商全力投入高阶 AI 用 MLCC，常规产能受限，国巨有望承接转单。电容占国巨营收约一半，且此次首度对占比过半的直接客户涨价，预计显著拉动营收与利润。TrendForce·茶馆水群",
-      "datetime": "2026-07-01T14:34:10+00:00",
-      "views": "3.18K",
-      "source_links": [
-        {
-          "text": "TrendForce",
-          "url": "https://www.trendforce.com/news/2026/07/01/news-passive-component-prices-rise-as-yageo-reportedly-begins-broadest-capacitor-hike-in-years-on-july-1/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42299",
-      "scraped_at": "2026-07-01T23:00:53.544602",
-      "title": "国巨7月起电容涨价五成",
-      "title_options": {
-        "conclusion": "国巨7月起电容涨价五成",
-        "attractive": "电容涨价十倍，AI需求推波助澜",
-        "minimal": "国巨电容涨价50%",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1344,6 +1313,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-03T02:33:26.815686"
+  "count": 51,
+  "updated_at": "2026-07-03T02:38:30.972759"
 }
