@@ -12441,5 +12441,34 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T12:00:56.819339"
+  },
+  "zaihuapd_42307": {
+    "ai_title": "OnePlus官网引导用户转购Oppo",
+    "title_options": {
+      "conclusion": "OnePlus官网引导用户转购Oppo",
+      "attractive": "OnePlus为Oppo让路？官网推荐",
+      "minimal": "OnePlus转购Oppo",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T13:01:40.850550"
+  },
+  "xhqcankao_30514": {
+    "ai_title": "Gemini Spark登陆Mac",
+    "title_options": {
+      "conclusion": "Gemini Spark登陆Mac",
+      "attractive": "AI自动整理本地文件",
+      "minimal": "谷歌AI智能体Mac"
+    },
+    "generated_at": "2026-07-02T13:01:40.956925"
+  },
+  "xhqcankao_30515": {
+    "ai_title": "Redmi Note销量破5亿",
+    "title_options": {
+      "conclusion": "Redmi Note销量破5亿",
+      "attractive": "千元机配置缩水严重",
+      "minimal": "小米手机行业困境",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T13:01:41.141689"
   }
 }
