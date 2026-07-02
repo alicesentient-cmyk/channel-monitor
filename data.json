@@ -1487,41 +1487,6 @@
       }
     },
     {
-      "id": "zaihuapd_42294",
-      "channel": "zaihuapd",
-      "text": "英伟达刷新 DeepSeek V4 推理纪录：单 Token 成本降至五分之一NVIDIA 推理软件栈在 Blackwell 平台上持续优化，使得 DeepSeek V4 模型的 Token 生成成本在一个月内降至原先的五分之一。来自 PyTorch 社区的数据显示，在 GB300 离散式部署下，SGLang 引擎的吞吐量从 4 月初的约 2,200 Tokens/秒/GPU，提升至 6 月的约 11,200 Tokens/秒/GPU。这意味着在保持用户约 50 Tokens/秒的高流畅交互体验不变的同时，性能实现了 5 倍的增长。此外，Blackwell Ultra 的聚合部署方案也获得了近 3 倍的提升。这一性能飞跃得益于多项内核与运行时的深度优化，包括融合技术、显存压缩、量化精度路径，以及改进后的内存预算、可中断计算图支持与推理稳定性修复。NVIDIA 方面表示，若后续再叠加分解式服务、新浮点精度与多 Token 预测等高级优化，系统级吞吐量最高有望提升至 20 倍。NVIDIA Blog|PyTorch·茶馆水群·",
-      "clean_text": "英伟达刷新 DeepSeek V4 推理纪录：单 Token 成本降至五分之一NVIDIA 推理软件栈在 Blackwell 平台上持续优化，使得 DeepSeek V4 模型的 Token 生成成本在一个月内降至原先的五分之一。来自 PyTorch 社区的数据显示，在 GB300 离散式部署下，SGLang 引擎的吞吐量从 4 月初的约 2,200 Tokens/秒/GPU，提升至 6 月的约 11,200 Tokens/秒/GPU。这意味着在保持用户约 50 Tokens/秒的高流畅交互体验不变的同时，性能实现了 5 倍的增长。此外，Blackwell Ultra 的聚合部署方案也获得了近 3 倍的提升。这一性能飞跃得益于多项内核与运行时的深度优化，包括融合技术、显存压缩、量化精度路径，以及改进后的内存预算、可中断计算图支持与推理稳定性修复。NVIDIA 方面表示，若后续再叠加分解式服务、新浮点精度与多 Token 预测等高级优化，系统级吞吐量最高有望提升至 20 倍。NVIDIA Blog|PyTorch·茶馆水群",
-      "datetime": "2026-07-01T10:36:09+00:00",
-      "views": "2.99K",
-      "source_links": [
-        {
-          "text": "NVIDIA Blog",
-          "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
-        },
-        {
-          "text": "PyTorch",
-          "url": "https://pytorch.org/blog/serving-deepseek-v4-on-gb300-with-sglang-5x-higher-throughput-at-the-same-interactivity-since-day-0/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42294",
-      "scraped_at": "2026-07-01T19:00:48.916470",
-      "title": "英伟达刷新DeepSeek V4纪录",
-      "title_options": {
-        "conclusion": "英伟达刷新DeepSeek V4纪录",
-        "attractive": "推理成本降至五分之一",
-        "minimal": "英伟达DeepSeek V4",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1552,6 +1517,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-02T22:35:10.080545"
+  "count": 60,
+  "updated_at": "2026-07-02T22:40:14.780084"
 }
