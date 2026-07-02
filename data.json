@@ -1674,44 +1674,6 @@
       }
     },
     {
-      "id": "zaihuapd_42287",
-      "channel": "zaihuapd",
-      "text": "sing-box uTLS Chrome 指纹缺少后量子密钥交换，与真实 Chrome 产生可区分特征sing-box 的 uTLS \"chrome\" 指纹未包含 X25519MLKEM768 混合后量子密钥交换曲线，而 Chrome 131+ 已将其作为默认密钥交换组。两者在 supported groups 和 ClientHello 结构上存在差异，使得 sing-box 的 TLS 指纹可被高级检测区分。sing-box 曾提供 chrome_pq 等后量子专用指纹，但在 1.10.0 版本移除并回退到普通 chrome，原因是该指纹与 Reality 协议不兼容（触发 nil ecdhe_key 错误）。值得注意的是，sing-box 的 curve_preferences 配置项默认列表确实包含 X25519MLKEM768，但这属于标准 TLS 引擎的逻辑，uTLS fingerprint 模块走的是独立的 ClientHello 模仿机制，二者互不影响。sing-box 官方文档已明确不推荐 uTLS，指出其反复被发现指纹漏洞、无法完美模仿 BoringSSL 等浏览器栈行为，建议改用 NaiveProxy 获取更强的抗指纹能力。sing-box|Cloudflare Docs|GitHub·茶馆水群·",
-      "clean_text": "sing-box uTLS Chrome 指纹缺少后量子密钥交换，与真实 Chrome 产生可区分特征sing-box 的 uTLS \"chrome\" 指纹未包含 X25519MLKEM768 混合后量子密钥交换曲线，而 Chrome 131+ 已将其作为默认密钥交换组。两者在 supported groups 和 ClientHello 结构上存在差异，使得 sing-box 的 TLS 指纹可被高级检测区分。sing-box 曾提供 chrome_pq 等后量子专用指纹，但在 1.10.0 版本移除并回退到普通 chrome，原因是该指纹与 Reality 协议不兼容（触发 nil ecdhe_key 错误）。值得注意的是，sing-box 的 curve_preferences 配置项默认列表确实包含 X25519MLKEM768，但这属于标准 TLS 引擎的逻辑，uTLS fingerprint 模块走的是独立的 ClientHello 模仿机制，二者互不影响。sing-box 官方文档已明确不推荐 uTLS，指出其反复被发现指纹漏洞、无法完美模仿 BoringSSL 等浏览器栈行为，建议改用 NaiveProxy 获取更强的抗指纹能力。sing-box|Cloudflare Docs|GitHub·茶馆水群",
-      "datetime": "2026-07-01T07:04:11+00:00",
-      "views": "5.93K",
-      "source_links": [
-        {
-          "text": "sing-box",
-          "url": "https://sing-box.sagernet.org/configuration/shared/tls/"
-        },
-        {
-          "text": "Cloudflare Docs",
-          "url": "https://developers.cloudflare.com/ssl/post-quantum-cryptography/pqc-support/"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/SagerNet/sing-box/issues/2084"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42287",
-      "scraped_at": "2026-07-01T16:00:41.763198",
-      "title": "sing-box uTLS指纹缺后量子…",
-      "title_options": {
-        "conclusion": "sing-box uTLS指纹缺后量子…",
-        "attractive": "Chrome指纹被检测，后量子缺失",
-        "minimal": "uTLS Chrome指纹缺后量子"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1742,6 +1704,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-02T19:01:33.538289"
+  "count": 67,
+  "updated_at": "2026-07-02T19:06:37.261784"
 }
