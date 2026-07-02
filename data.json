@@ -1229,37 +1229,6 @@
       }
     },
     {
-      "id": "zaihuapd_42300",
-      "channel": "zaihuapd",
-      "text": "PlayStation 宣布 2028 年 1 月起新游戏全面停发实体光盘Sony Interactive Entertainment 宣布，自 2028 年 1 月起，所有在 PlayStation 主机发售的新游戏将全面停止生产实体光盘，仅通过 PlayStation Store 及零售商提供数字版下载。已发售或将在 2028 年 1 月前发售的实体光盘游戏不受影响。公司称这一决定顺应消费者偏好与娱乐行业整体向数字化转型的趋势，数字媒体的受欢迎程度已远超实体光盘。Sony 表示将集中资源推动游戏获取方式的创新，玩家仍可选择通过零售商或 PlayStation Store 购买新作。该公告由 Sony Interactive Entertainment 内容传播高级总监 Sid Shuman 于 7 月 1 日发布，同日 Sony 还公布了 PlayStation Store 对 PS3 和 PS Vita 的相关更新。PlayStation.BlogSony PlayStation Logo·茶馆水群·",
-      "clean_text": "PlayStation 宣布 2028 年 1 月起新游戏全面停发实体光盘Sony Interactive Entertainment 宣布，自 2028 年 1 月起，所有在 PlayStation 主机发售的新游戏将全面停止生产实体光盘，仅通过 PlayStation Store 及零售商提供数字版下载。已发售或将在 2028 年 1 月前发售的实体光盘游戏不受影响。公司称这一决定顺应消费者偏好与娱乐行业整体向数字化转型的趋势，数字媒体的受欢迎程度已远超实体光盘。Sony 表示将集中资源推动游戏获取方式的创新，玩家仍可选择通过零售商或 PlayStation Store 购买新作。该公告由 Sony Interactive Entertainment 内容传播高级总监 Sid Shuman 于 7 月 1 日发布，同日 Sony 还公布了 PlayStation Store 对 PS3 和 PS Vita 的相关更新。PlayStation.BlogSony PlayStation Logo·茶馆水群",
-      "datetime": "2026-07-01T15:04:33+00:00",
-      "views": "4.64K",
-      "source_links": [
-        {
-          "text": "PlayStation.BlogSony PlayStation Logo",
-          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42300",
-      "scraped_at": "2026-07-02T00:05:36.124626",
-      "title": "PS新游戏2028年停发实体光盘",
-      "title_options": {
-        "conclusion": "PS新游戏2028年停发实体光盘",
-        "attractive": "PS游戏光盘2028年全面停发",
-        "minimal": "PS停发实体光盘",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1290,6 +1259,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-03T03:03:47.812986"
+  "count": 49,
+  "updated_at": "2026-07-03T03:08:50.661164"
 }
