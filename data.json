@@ -1,6 +1,63 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42310",
+      "channel": "zaihuapd",
+      "text": "Android 17 大幅收紧密码尝试限制，20 次错误即永久锁定Android 17 将显著压缩暴力破解手机解锁密码的窗口。新系统把错误尝试上限收紧到首分钟仅 6 次、6 分钟内 7 次、25 分钟内 8 次、24 小时内 12 次、5 年内 19 次；连续输错 20 次后将彻底拒绝进一步尝试。相比之下，Android 16 在同等时间内分别允许约 10、20、50、110 乃至 1800 次猜测。为降低误锁正常用户的风险，Android 17 加入了重复错误检测：若用户连续输入同一个错误密码，系统不会重复计入失败次数。同时，锁屏界面会显示更清晰的提示，避免用户因迷惑的倒计时而被意外锁定。Digital Trends·茶馆水群·",
+      "clean_text": "📱Android 17 大幅收紧密码尝试限制，20 次错误即永久锁定Android 17 将显著压缩暴力破解手机解锁密码的窗口。新系统把错误尝试上限收紧到首分钟仅 6 次、6 分钟内 7 次、25 分钟内 8 次、24 小时内 12 次、5 年内 19 次；连续输错 20 次后将彻底拒绝进一步尝试。相比之下，Android 16 在同等时间内分别允许约 10、20、50、110 乃至 1800 次猜测。为降低误锁正常用户的风险，Android 17 加入了重复错误检测：若用户连续输入同一个错误密码，系统不会重复计入失败次数。同时，锁屏界面会显示更清晰的提示，避免用户因迷惑的倒计时而被意外锁定。Digital Trends·茶馆水群",
+      "datetime": "2026-07-02T07:35:17+00:00",
+      "views": "3.35K",
+      "source_links": [
+        {
+          "text": "Digital Trends",
+          "url": "https://www.digitaltrends.com/phones/android-17-makes-it-harder-for-bad-actors-to-guess-and-crack-the-pin-on-your-phone/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42310",
+      "scraped_at": "2026-07-02T16:00:25.164531",
+      "title": "安卓17限制20次错误锁定",
+      "title_options": {
+        "conclusion": "安卓17限制20次错误锁定",
+        "attractive": "20次输错永久锁定手机",
+        "minimal": "安卓17密码限制",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30521",
+      "channel": "xhqcankao",
+      "text": "OpenAI公司提议向美国政府提供5%股权据两位知情人士透露，OpenAI已开始讨论将 5% 的股份给予美国政府的事宜。OpenAI首席执行官山姆·奥尔特曼及其他高管提议，每家美国顶尖AI开发商都把5%的股份交给一个政府平台机构。这就可能包括 Anthropic 以及已经上市的行业领头羊谷歌、Meta，但目前还不清楚其他公司会否同意这一提议。奥尔特曼认为，让公众持有OpenAI的一部分股份，是分享AI红利的最佳方式。当前，特朗普政府正在加码向美国主要人工智能公司施压。上个月，在美国政府以国家安全为由勒令 Anthropic 限制外国人使用其最强大的模型之后，该公司停用了相关模型。",
+      "clean_text": "OpenAI公司提议向美国政府提供5%股权据两位知情人士透露，OpenAI已开始讨论将 5% 的股份给予美国政府的事宜。OpenAI首席执行官山姆·奥尔特曼及其他高管提议，每家美国顶尖AI开发商都把5%的股份交给一个政府平台机构。这就可能包括 Anthropic 以及已经上市的行业领头羊谷歌、Meta，但目前还不清楚其他公司会否同意这一提议。奥尔特曼认为，让公众持有OpenAI的一部分股份，是分享AI红利的最佳方式。当前，特朗普政府正在加码向美国主要人工智能公司施压。上个月，在美国政府以国家安全为由勒令 Anthropic 限制外国人使用其最强大的模型之后，该公司停用了相关模型。——雅虎新闻、彭博社",
+      "datetime": "2026-07-02T07:32:03+00:00",
+      "views": "1.34K",
+      "source_links": [
+        {
+          "text": "雅虎新闻",
+          "url": "https://hk.finance.yahoo.com/news/%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1%E7%A8%B1openai%E8%A8%AD%E6%83%B3%E6%94%BF%E5%BA%9C%E6%8C%81%E8%82%A1-%E6%8F%90%E8%AD%B0%E7%BE%8E%E5%9C%8B%E6%AF%8F%E5%AE%B6ai%E5%B7%A8%E9%A0%AD%E9%83%BD%E4%B8%8A%E4%BA%A45-%E8%82%A1%E4%BB%BD-044658108.html"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30521",
+      "scraped_at": "2026-07-02T16:00:26.570706",
+      "title": "OpenAI提议给政府5%股权",
+      "title_options": {
+        "conclusion": "OpenAI提议给政府5%股权",
+        "attractive": "AI公司5%股份换政府支持？",
+        "minimal": "OpenAI 5%股权 政府"
+      }
+    },
+    {
       "id": "xhqcankao_30520",
       "channel": "xhqcankao",
       "text": "美团内部开始全面限制使用豆包大模型7月2日消息，美团公司内部下发通知，开始限制使用豆包大模型了。通知显示，所有业务团队需完成现有豆包相关业务自查，并规划迁移至 LongCat、DeepSeek 等模型，无法从火山(doubao)大模型迁移的，需要提交原因加必要性说明，走单独的审批流程。据了解，这并非美团首次收紧外部大模型使用门槛。今年四月，美团公司对内部大模型使用做出调整，不再推荐业务使用阿里云提供的 Qwen 模型。若业务仍需使用，需提交详细使用原因，上报至X3级别（老板级）进行审批。公开信息显示，LongCat是美团自主研发的大语言模型，2023年启动研发，已开源并深度应用于美团内部多项业务场景。",
@@ -1624,44 +1681,6 @@
       }
     },
     {
-      "id": "zaihuapd_42254",
-      "channel": "zaihuapd",
-      "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
-      "clean_text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群",
-      "datetime": null,
-      "views": "1.78K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder"
-        },
-        {
-          "text": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/"
-        },
-        {
-          "text": "新浪财经",
-          "url": "https://finance.sina.com.cn/stock/t/2026-01-20/doc-inhhxkqz6259678.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42254",
-      "scraped_at": "2026-06-30T11:01:06.785975",
-      "title": "OpenAI联手Work Louder…",
-      "title_options": {
-        "conclusion": "OpenAI联手Work Louder…",
-        "attractive": "Codex快捷键升级，7月15日发布",
-        "minimal": "OpenAI Work Louder …"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1692,6 +1711,6 @@
       }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-07-02T15:58:57.414785"
+  "count": 67,
+  "updated_at": "2026-07-02T16:04:02.881504"
 }

@@ -12540,5 +12540,24 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-02T15:03:12.331838"
+  },
+  "zaihuapd_42310": {
+    "ai_title": "安卓17限制20次错误锁定",
+    "title_options": {
+      "conclusion": "安卓17限制20次错误锁定",
+      "attractive": "20次输错永久锁定手机",
+      "minimal": "安卓17密码限制",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-02T16:04:02.487997"
+  },
+  "xhqcankao_30521": {
+    "ai_title": "OpenAI提议给政府5%股权",
+    "title_options": {
+      "conclusion": "OpenAI提议给政府5%股权",
+      "attractive": "AI公司5%股份换政府支持？",
+      "minimal": "OpenAI 5%股权 政府"
+    },
+    "generated_at": "2026-07-02T16:04:02.863247"
   }
 }
