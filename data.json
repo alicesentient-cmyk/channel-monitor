@@ -1680,33 +1680,6 @@
       }
     },
     {
-      "id": "xhqcankao_30470",
-      "channel": "xhqcankao",
-      "text": "Anthropic推出新平台自动化完成研究任务美国人工智能公司Anthropic推出了一款旨在帮助科学家实现科研自动化的新软件，希望借此减少科研工作中繁琐、重复的环节。这家AI公司周二发布的声明表示，公司推出AI工作平台“Claude Science”，可用于自动化完成一系列生物学和化学研究任务，例如预测蛋白质结构。Anthropic称，这款软件整合了科学家常用的多种工具，包括60多个科学数据库，目标是让科学家能够更轻松地自动化执行多步骤任务，使用自然语言提问，并在无需逐一查询多个信息来源的情况下获得答案。Claude Science将首先以测试版的形式向企业的付费用户开放。",
-      "clean_text": "Anthropic推出新平台自动化完成研究任务美国人工智能公司Anthropic推出了一款旨在帮助科学家实现科研自动化的新软件，希望借此减少科研工作中繁琐、重复的环节。这家AI公司周二发布的声明表示，公司推出AI工作平台“Claude Science”，可用于自动化完成一系列生物学和化学研究任务，例如预测蛋白质结构。Anthropic称，这款软件整合了科学家常用的多种工具，包括60多个科学数据库，目标是让科学家能够更轻松地自动化执行多步骤任务，使用自然语言提问，并在无需逐一查询多个信息来源的情况下获得答案。Claude Science将首先以测试版的形式向企业的付费用户开放。——财联社、彭博社",
-      "datetime": "2026-06-30T23:31:37+00:00",
-      "views": "750",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2413573?sv=8.5.9&amp;"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30470",
-      "scraped_at": "2026-07-01T08:00:35.416716",
-      "title": "Anthropic推科研自动化平台",
-      "title_options": {
-        "conclusion": "Anthropic推科研自动化平台",
-        "attractive": "科学家可用自然语言提问",
-        "minimal": "Claude Science平台",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42254",
       "channel": "zaihuapd",
       "text": "OpenAI 联手 Work Louder 推出 Codex 专属宏键盘，7 月 15 日发布OpenAI 6 月 29 日在 X 发布预告视频，展示一款方形、带多个按钮的输入设备，配文称\"你最爱的 Codex 快捷键即将升级\"，发布日期定于 7 月 15 日。视频显示该设备由 OpenAI 与机械键盘厂商 Work Louder 合作打造，外形轮廓与 Work Louder 现有的 Creator Micro 2 宏键盘相似——后者配备 13 个机械开关、摇杆和触控传感器，可为不同应用映射快捷键与自定义动作。Figma 此前也曾与 Work Louder 合作推出过预配置快捷键的宏键盘。The Verge|9to5Mac|新浪财经·茶馆水群·",
@@ -1775,6 +1748,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-07-02T11:30:35.227283"
+  "count": 69,
+  "updated_at": "2026-07-02T11:35:38.193811"
 }
