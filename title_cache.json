@@ -13092,5 +13092,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T20:00:39.982340"
+  },
+  "zaihuapd_42333": {
+    "ai_title": "韩国登月提前至2030年",
+    "title_options": {
+      "conclusion": "韩国登月提前至2030年",
+      "attractive": "韩国2030年登月计划",
+      "minimal": "韩国2030登月",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T21:01:40.753819"
+  },
+  "zaihuapd_42334": {
+    "ai_title": "阿里下令全员卸载Claude",
+    "title_options": {
+      "conclusion": "阿里下令全员卸载Claude",
+      "attractive": "阿里禁用Claude立即生效",
+      "minimal": "阿里卸载Claude",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T21:01:40.851137"
+  },
+  "xhqcankao_30555": {
+    "ai_title": "欧洲限制儿童游戏与战利品箱",
+    "title_options": {
+      "conclusion": "欧洲限制儿童游戏与战利品箱",
+      "attractive": "战利品箱被禁，16岁以下禁玩",
+      "minimal": "欧洲游戏新规",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T21:01:41.016148"
   }
 }
