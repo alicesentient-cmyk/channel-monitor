@@ -1508,33 +1508,6 @@
       }
     },
     {
-      "id": "xhqcankao_30511",
-      "channel": "xhqcankao",
-      "text": "苹果筹备全新iPad Pro与重新设计的入门级MacBook Pro苹果公司正为明年筹备升级款iPad Pro产品线与经过重新设计的入门级MacBook Pro，进一步扩充iPhone诞生二十周年年份规划的多款重磅新品阵容。据知情人士透露，苹果正在测试4款计划于2027年春季推出的全新iPad Pro机型。消息人士称，新机将保留现有的11英寸与13英寸两种屏幕尺寸，核心升级点包含性能更强的芯片，同时还在打造外观重新设计的入门级MacBook Pro。苹果还计划于明年上半年推出基础版 M7 芯片，目标是在即将发布的 M6 代芯片之后快速完成迭代，全力推进芯片优化工作，以适配要求更高的人工智能运算负载。",
-      "clean_text": "苹果筹备全新iPad Pro与重新设计的入门级MacBook Pro苹果公司正为明年筹备升级款iPad Pro产品线与经过重新设计的入门级MacBook Pro，进一步扩充iPhone诞生二十周年年份规划的多款重磅新品阵容。据知情人士透露，苹果正在测试4款计划于2027年春季推出的全新iPad Pro机型。消息人士称，新机将保留现有的11英寸与13英寸两种屏幕尺寸，核心升级点包含性能更强的芯片，同时还在打造外观重新设计的入门级MacBook Pro。苹果还计划于明年上半年推出基础版 M7 芯片，目标是在即将发布的 M6 代芯片之后快速完成迭代，全力推进芯片优化工作，以适配要求更高的人工智能运算负载。——财联社、彭博社",
-      "datetime": "2026-07-02T02:31:57+00:00",
-      "views": "1.35K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2414783?&amp;sv=8.5.9&amp;"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30511",
-      "scraped_at": "2026-07-02T11:00:41.516774",
-      "title": "苹果筹备新iPad Pro与MacBo…",
-      "title_options": {
-        "conclusion": "苹果筹备新iPad Pro与MacBo…",
-        "attractive": "苹果2027年推4款新iPad Pro",
-        "minimal": "iPad Pro MacBook Pr…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1565,6 +1538,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-03T14:31:17.537743"
+  "count": 58,
+  "updated_at": "2026-07-03T14:36:20.484632"
 }
