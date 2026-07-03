@@ -1346,39 +1346,8 @@
         "minimal": "蚂蚁集团领投具身智能企业乐享科技融资7…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42310",
-      "channel": "zaihuapd",
-      "text": "Android 17 大幅收紧密码尝试限制，20 次错误即永久锁定Android 17 将显著压缩暴力破解手机解锁密码的窗口。新系统把错误尝试上限收紧到首分钟仅 6 次、6 分钟内 7 次、25 分钟内 8 次、24 小时内 12 次、5 年内 19 次；连续输错 20 次后将彻底拒绝进一步尝试。相比之下，Android 16 在同等时间内分别允许约 10、20、50、110 乃至 1800 次猜测。为降低误锁正常用户的风险，Android 17 加入了重复错误检测：若用户连续输入同一个错误密码，系统不会重复计入失败次数。同时，锁屏界面会显示更清晰的提示，避免用户因迷惑的倒计时而被意外锁定。Digital Trends·茶馆水群·",
-      "clean_text": "📱Android 17 大幅收紧密码尝试限制，20 次错误即永久锁定Android 17 将显著压缩暴力破解手机解锁密码的窗口。新系统把错误尝试上限收紧到首分钟仅 6 次、6 分钟内 7 次、25 分钟内 8 次、24 小时内 12 次、5 年内 19 次；连续输错 20 次后将彻底拒绝进一步尝试。相比之下，Android 16 在同等时间内分别允许约 10、20、50、110 乃至 1800 次猜测。为降低误锁正常用户的风险，Android 17 加入了重复错误检测：若用户连续输入同一个错误密码，系统不会重复计入失败次数。同时，锁屏界面会显示更清晰的提示，避免用户因迷惑的倒计时而被意外锁定。Digital Trends·茶馆水群",
-      "datetime": "2026-07-02T07:35:17+00:00",
-      "views": "3.35K",
-      "source_links": [
-        {
-          "text": "Digital Trends",
-          "url": "https://www.digitaltrends.com/phones/android-17-makes-it-harder-for-bad-actors-to-guess-and-crack-the-pin-on-your-phone/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42310",
-      "scraped_at": "2026-07-02T16:00:25.164531",
-      "title": "安卓17限制20次错误锁定",
-      "title_options": {
-        "conclusion": "安卓17限制20次错误锁定",
-        "attractive": "20次输错永久锁定手机",
-        "minimal": "安卓17密码限制",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-03T19:35:15.683628"
+  "count": 51,
+  "updated_at": "2026-07-03T19:40:20.945491"
 }
