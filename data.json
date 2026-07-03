@@ -1244,43 +1244,8 @@
         "minimal": "特斯拉股价跌超6%",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42315",
-      "channel": "zaihuapd",
-      "text": "PS3 商店 2027 年永久关闭，档案员紧急抢救游戏数据索尼宣布将于 2027 年 7 月关闭 PS3 和 PS Vita 的 PlayStation Store。为防止数字内容永久消失，数字档案管理员正紧急备份 PS3 游戏数据，知名模拟器团队 RPCS3 也呼吁用户参与保存。RPCS3 推荐使用no-intro.org数据库协作，该平台记录游戏的加密签名、文件大小、序列号等元数据，帮助社区确认哪些内容已备份、哪些仍需抢救。团队警告，一旦商店关闭，从未推出实体版的数字游戏可能彻底丢失，这再次引发人们对\"全数字化\"未来的担忧。Tom's Hardware·茶馆水群·",
-      "clean_text": "PS3 商店 2027 年永久关闭，档案员紧急抢救游戏数据索尼宣布将于 2027 年 7 月关闭 PS3 和 PS Vita 的 PlayStation Store。为防止数字内容永久消失，数字档案管理员正紧急备份 PS3 游戏数据，知名模拟器团队 RPCS3 也呼吁用户参与保存。RPCS3 推荐使用no-intro.org数据库协作，该平台记录游戏的加密签名、文件大小、序列号等元数据，帮助社区确认哪些内容已备份、哪些仍需抢救。团队警告，一旦商店关闭，从未推出实体版的数字游戏可能彻底丢失，这再次引发人们对\"全数字化\"未来的担忧。Tom's Hardware·茶馆水群",
-      "datetime": "2026-07-02T15:04:32+00:00",
-      "views": "5.22K",
-      "source_links": [
-        {
-          "text": "no-intro.org",
-          "url": "http://no-intro.org/"
-        },
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/video-games/playstation/digital-archivists-rush-to-save-ps3-game-data-before-sony-shuts-down-the-store-forever-in-2027-rpcs3-emulator-urges-users-to-preserve-all-content"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42315",
-      "scraped_at": "2026-07-03T00:05:36.941081",
-      "title": "PS3商店2027年关闭",
-      "title_options": {
-        "conclusion": "PS3商店2027年关闭",
-        "attractive": "数字游戏抢救倒计时",
-        "minimal": "PS3商店关闭",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-07-04T03:01:30.243624"
+  "count": 46,
+  "updated_at": "2026-07-04T03:06:33.371538"
 }
