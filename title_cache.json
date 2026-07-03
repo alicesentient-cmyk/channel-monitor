@@ -12975,5 +12975,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T14:05:58.237807"
+  },
+  "xhqcankao_30549": {
+    "ai_title": "影石反诉大疆专利侵权",
+    "title_options": {
+      "conclusion": "影石反诉大疆专利侵权",
+      "attractive": "全景相机专利战升级",
+      "minimal": "影石诉大疆专利",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T15:01:41.349113"
+  },
+  "zaihuapd_42327": {
+    "ai_title": "Anthropic指控阿里窃取Clau…",
+    "title_options": {
+      "conclusion": "Anthropic指控阿里窃取Clau…",
+      "attractive": "阿里被指2880万次攻击AI",
+      "minimal": "阿里Anthropic蒸馏攻击",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T15:01:41.615139"
   }
 }
