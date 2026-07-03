@@ -1485,29 +1485,6 @@
       }
     },
     {
-      "id": "xhqcankao_30513",
-      "channel": "xhqcankao",
-      "text": "Cloudflare的新政策推动AI公司为內容付费Cloudflare公司刚刚给AI行业设定了一个新的最后期限，以将用于 “传统搜索目的” 的网络爬虫与用于AI智能体和训练的爬虫区分开来。Cloudflare于周三宣布，从2026年9月15日起，其默认设置将阻止 “混合用途”爬虫访问任何投放广告的页面。这意味着，融合了搜索、智能体使用和训练的爬虫将被默认阻止抓取这些网站，除非网站所有者另行调整设置。该公司表示，这些默认设置的变更将适用于新的Cloudflare客户、现有客户新建的网站以及所有现有免费客户。此举可能会影响AI模型提供商获取网络内容以用于训练目的并帮助支持其智能体服务的能力。",
-      "clean_text": "Cloudflare的新政策推动AI公司为內容付费Cloudflare公司刚刚给AI行业设定了一个新的最后期限，以将用于 “传统搜索目的” 的网络爬虫与用于AI智能体和训练的爬虫区分开来。Cloudflare于周三宣布，从2026年9月15日起，其默认设置将阻止 “混合用途”爬虫访问任何投放广告的页面。这意味着，融合了搜索、智能体使用和训练的爬虫将被默认阻止抓取这些网站，除非网站所有者另行调整设置。该公司表示，这些默认设置的变更将适用于新的Cloudflare客户、现有客户新建的网站以及所有现有免费客户。此举可能会影响AI模型提供商获取网络内容以用于训练目的并帮助支持其智能体服务的能力。——Techcrunch",
-      "datetime": "2026-07-02T03:33:22+00:00",
-      "views": "1.45K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30513",
-      "scraped_at": "2026-07-02T12:00:36.810582",
-      "title": "Cloudflare新规阻AI爬虫",
-      "title_options": {
-        "conclusion": "Cloudflare新规阻AI爬虫",
-        "attractive": "AI公司内容付费倒计时",
-        "minimal": "Cloudflare阻爬虫",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1538,6 +1515,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-03T15:32:03.918910"
+  "count": 57,
+  "updated_at": "2026-07-03T15:37:07.305015"
 }
