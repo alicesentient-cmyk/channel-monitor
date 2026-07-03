@@ -1385,35 +1385,8 @@
         "minimal": "宇树科技科创板IPO",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30525",
-      "channel": "xhqcankao",
-      "text": "英伟达携手Valar探索微型反应堆为AI数据中心供电当地时间7月1日，Valar 在犹他州一处微型反应堆基地展示其 Ward 250 反应堆，并用该反应堆产生的电力驱动英伟达 Blackwell AI芯片，同时临时托管了一个网站。两家公司称，这是小型反应堆首次为数据中心相关设备供电；从规模看，此次供电仍属于小型验证，不代表商业化部署已经完成。演示当天，Valar 与英伟达宣布建立合作关系，计划在犹他州建设一座小型数据中心，重点验证AI计算设施如何通过先进核能供电和闭环液冷技术，降低对外部电网及水资源依赖。",
-      "clean_text": "英伟达携手Valar探索微型反应堆为AI数据中心供电当地时间7月1日，Valar 在犹他州一处微型反应堆基地展示其 Ward 250 反应堆，并用该反应堆产生的电力驱动英伟达 Blackwell AI芯片，同时临时托管了一个网站。两家公司称，这是小型反应堆首次为数据中心相关设备供电；从规模看，此次供电仍属于小型验证，不代表商业化部署已经完成。演示当天，Valar 与英伟达宣布建立合作关系，计划在犹他州建设一座小型数据中心，重点验证AI计算设施如何通过先进核能供电和闭环液冷技术，降低对外部电网及水资源依赖。——中国核电网、彭博社",
-      "datetime": "2026-07-02T09:30:13+00:00",
-      "views": "1.24K",
-      "source_links": [
-        {
-          "text": "中国核电网",
-          "url": "https://www.cnnpn.cn/article/55563.html"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/nvidia-ai-chip-gets-power-from-valar-s-nuclear-reactor"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30525",
-      "scraped_at": "2026-07-02T18:00:33.781974",
-      "title": "英伟达合作Valar核能供电",
-      "title_options": {
-        "conclusion": "英伟达合作Valar核能供电",
-        "attractive": "微型反应堆首次驱动AI芯片",
-        "minimal": "英伟达Valar核能AI",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-07-03T21:27:01.880394"
+  "count": 52,
+  "updated_at": "2026-07-03T21:32:05.917334"
 }
