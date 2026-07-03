@@ -1491,33 +1491,6 @@
       }
     },
     {
-      "id": "xhqcankao_30509",
-      "channel": "xhqcankao",
-      "text": "俄罗斯警告苹果：再不预装本土应用将罚款俄罗斯反垄断监管机构已向苹果公司发出警告，敦促其整改针对俄罗斯搜索引擎和软件采取的歧视性做公司法。俄罗斯联邦反垄断局表示，苹果必须确保其设备上预装了包括搜索引擎、Max即时通讯工具在内的俄罗斯本土软件。该机构表示，如果苹果未能在今年7月15日前纠正这些违规行为，可能面临最高达40亿卢布的罚款。接近一年前，俄罗斯政府出台了一项规定，该规定要求在俄罗斯境内销售的所有手机和平板电脑，必须预装其国家支持的即时通讯应用MAX。",
-      "clean_text": "俄罗斯警告苹果：再不预装本土应用将罚款俄罗斯反垄断监管机构已向苹果公司发出警告，敦促其整改针对俄罗斯搜索引擎和软件采取的歧视性做公司法。俄罗斯联邦反垄断局表示，苹果必须确保其设备上预装了包括搜索引擎、Max即时通讯工具在内的俄罗斯本土软件。该机构表示，如果苹果未能在今年7月15日前纠正这些违规行为，可能面临最高达40亿卢布的罚款。接近一年前，俄罗斯政府出台了一项规定，该规定要求在俄罗斯境内销售的所有手机和平板电脑，必须预装其国家支持的即时通讯应用MAX。——凤凰网科技、路透社",
-      "datetime": "2026-07-02T01:32:31+00:00",
-      "views": "1.23K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006aI8x6HaE4ZfTFHCEA8Q1ldWkrxA6QReuyFIfZw15mPXvDDU7d55BkRy0zmtujQpI"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/business/russia-warns-apple-52-million-fine-over-alleged-bias-against-local-apps-2026-07-01/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30509",
-      "scraped_at": "2026-07-02T10:01:06.755697",
-      "title": "俄警告苹果预装本土软件",
-      "title_options": {
-        "conclusion": "俄警告苹果预装本土软件",
-        "attractive": "苹果不预装俄软件罚40亿",
-        "minimal": "俄警告苹果预装",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1548,6 +1521,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-03T13:30:29.672861"
+  "count": 57,
+  "updated_at": "2026-07-03T13:35:32.996777"
 }
