@@ -13122,5 +13122,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T21:01:41.016148"
+  },
+  "xhqcankao_30557": {
+    "ai_title": "韩国2035年建成低轨卫星网",
+    "title_options": {
+      "conclusion": "韩国2035年建成低轨卫星网",
+      "attractive": "韩国登月提前至2030年",
+      "minimal": "低轨卫星网 登月2030",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T22:02:33.869429"
+  },
+  "zaihuapd_42335": {
+    "ai_title": "4.9W功耗跑原神60帧",
+    "title_options": {
+      "conclusion": "Mate 80 Pro能效超骁龙8 G…",
+      "attractive": "4.9W功耗跑原神60帧",
+      "minimal": "麒麟9030能效超越骁龙",
+      "best": "attractive"
+    },
+    "generated_at": "2026-07-03T22:02:34.103165"
+  },
+  "xhqcankao_30556": {
+    "ai_title": "美政府干预恐加剧芯片短缺",
+    "title_options": {
+      "conclusion": "美政府干预恐加剧芯片短缺",
+      "attractive": "AI热潮下美政策反致缺芯",
+      "minimal": "美干预储存芯片短缺",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T22:02:34.251070"
   }
 }
