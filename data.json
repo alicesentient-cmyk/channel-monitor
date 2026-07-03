@@ -1302,39 +1302,8 @@
         "minimal": "特斯拉Q2交付48万辆",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42314",
-      "channel": "zaihuapd",
-      "text": "花旗禁用 GPT-5.5，多家大公司因 AI 成本飙升限制员工多家科技、金融和娱乐公司正在限制员工使用 AI 工具，原因是按用量计费模式下 AI 成本急剧膨胀。根据 404 Media 获取的内部邮件、Slack 聊天记录和仪表板截图，花旗银行已于 6 月 24 日完全禁用 Claude Opus 4.6、4.7 以及 GPT-5.5 等最新模型，理由是这些模型消耗的 AI 积分远超普通模型。Atlassian 的内部仪表板显示，其 AI 月支出从 2025 年 8 月的 500 万美元飙升至 2026 年 5 月的逾 1500 万美元，公司已终止无限使用并推出成本追踪面板。Adobe 也宣布不再续签无限使用 Claude 的合同，6 月 30 日到期。此外，Amazon 此前关闭了鼓励 AI 使用的内部排行榜，员工随后发现存在此前未知的 token 使用上限。咨询巨头埃森哲则一边推动客户快速采用 AI，一边将解决 AI 成本问题包装为新商机。404 Media·茶馆水群·",
-      "clean_text": "花旗禁用 GPT-5.5，多家大公司因 AI 成本飙升限制员工多家科技、金融和娱乐公司正在限制员工使用 AI 工具，原因是按用量计费模式下 AI 成本急剧膨胀。根据 404 Media 获取的内部邮件、Slack 聊天记录和仪表板截图，花旗银行已于 6 月 24 日完全禁用 Claude Opus 4.6、4.7 以及 GPT-5.5 等最新模型，理由是这些模型消耗的 AI 积分远超普通模型。Atlassian 的内部仪表板显示，其 AI 月支出从 2025 年 8 月的 500 万美元飙升至 2026 年 5 月的逾 1500 万美元，公司已终止无限使用并推出成本追踪面板。Adobe 也宣布不再续签无限使用 Claude 的合同，6 月 30 日到期。此外，Amazon 此前关闭了鼓励 AI 使用的内部排行榜，员工随后发现存在此前未知的 token 使用上限。咨询巨头埃森哲则一边推动客户快速采用 AI，一边将解决 AI 成本问题包装为新商机。404 Media·茶馆水群",
-      "datetime": "2026-07-02T13:59:53+00:00",
-      "views": "325",
-      "source_links": [
-        {
-          "text": "404 Media",
-          "url": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42314",
-      "scraped_at": "2026-07-02T22:00:56.317031",
-      "title": "花旗禁用GPT-5.5",
-      "title_options": {
-        "conclusion": "花旗禁用GPT-5.5",
-        "attractive": "AI成本飙升，花旗禁用",
-        "minimal": "花旗禁用GPT-5.5",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-04T01:55:49.227676"
+  "count": 48,
+  "updated_at": "2026-07-04T02:00:52.191689"
 }
