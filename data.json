@@ -1377,34 +1377,8 @@
         "minimal": "安卓17密码限制",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30521",
-      "channel": "xhqcankao",
-      "text": "OpenAI公司提议向美国政府提供5%股权据两位知情人士透露，OpenAI已开始讨论将 5% 的股份给予美国政府的事宜。OpenAI首席执行官山姆·奥尔特曼及其他高管提议，每家美国顶尖AI开发商都把5%的股份交给一个政府平台机构。这就可能包括 Anthropic 以及已经上市的行业领头羊谷歌、Meta，但目前还不清楚其他公司会否同意这一提议。奥尔特曼认为，让公众持有OpenAI的一部分股份，是分享AI红利的最佳方式。当前，特朗普政府正在加码向美国主要人工智能公司施压。上个月，在美国政府以国家安全为由勒令 Anthropic 限制外国人使用其最强大的模型之后，该公司停用了相关模型。",
-      "clean_text": "OpenAI公司提议向美国政府提供5%股权据两位知情人士透露，OpenAI已开始讨论将 5% 的股份给予美国政府的事宜。OpenAI首席执行官山姆·奥尔特曼及其他高管提议，每家美国顶尖AI开发商都把5%的股份交给一个政府平台机构。这就可能包括 Anthropic 以及已经上市的行业领头羊谷歌、Meta，但目前还不清楚其他公司会否同意这一提议。奥尔特曼认为，让公众持有OpenAI的一部分股份，是分享AI红利的最佳方式。当前，特朗普政府正在加码向美国主要人工智能公司施压。上个月，在美国政府以国家安全为由勒令 Anthropic 限制外国人使用其最强大的模型之后，该公司停用了相关模型。——雅虎新闻、彭博社",
-      "datetime": "2026-07-02T07:32:03+00:00",
-      "views": "1.34K",
-      "source_links": [
-        {
-          "text": "雅虎新闻",
-          "url": "https://hk.finance.yahoo.com/news/%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1%E7%A8%B1openai%E8%A8%AD%E6%83%B3%E6%94%BF%E5%BA%9C%E6%8C%81%E8%82%A1-%E6%8F%90%E8%AD%B0%E7%BE%8E%E5%9C%8B%E6%AF%8F%E5%AE%B6ai%E5%B7%A8%E9%A0%AD%E9%83%BD%E4%B8%8A%E4%BA%A45-%E8%82%A1%E4%BB%BD-044658108.html"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30521",
-      "scraped_at": "2026-07-02T16:00:26.570706",
-      "title": "OpenAI提议给政府5%股权",
-      "title_options": {
-        "conclusion": "OpenAI提议给政府5%股权",
-        "attractive": "AI公司5%股份换政府支持？",
-        "minimal": "OpenAI 5%股权 政府"
-      }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-07-03T19:30:08.527658"
+  "count": 52,
+  "updated_at": "2026-07-03T19:35:15.683628"
 }
