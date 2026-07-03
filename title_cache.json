@@ -13182,5 +13182,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-04T01:05:11.015702"
+  },
+  "xhqcankao_30558": {
+    "ai_title": "特朗普称马斯克将捐股票",
+    "title_options": {
+      "conclusion": "特朗普称马斯克将捐股票",
+      "attractive": "马斯克被点名捐股票",
+      "minimal": "特朗普 马斯克 捐股票",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-04T07:03:49.066090"
+  },
+  "xhqcankao_30559": {
+    "ai_title": "黄仁勋皮夹克拍卖价或超40万",
+    "title_options": {
+      "conclusion": "黄仁勋皮夹克拍卖价或超40万",
+      "attractive": "黄仁勋签名皮夹克起拍价4万美元",
+      "minimal": "黄仁勋皮夹克拍卖",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-04T07:03:49.099890"
   }
 }
