@@ -1302,31 +1302,8 @@
         "minimal": "花旗禁用GPT-5.5",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30532",
-      "channel": "xhqcankao",
-      "text": "特斯拉弗里蒙特工厂Optimus产线或已就绪周三，马斯克发布了一张大合照，并且配文称，在弗里蒙特工厂参观Optimus机器人生产线。这一言论可能代表着特斯拉的人形机器人Optimus正进入关键的量产阶段。特斯拉弗里蒙特工厂一直是这家公司在美国的先锋制造中心，曾经用于生产特斯拉旗舰车型Model S轿车和Model X SUV，如今已成为该公司人形机器人生产线的所在地。今年一月下旬，马斯克在财报会议上宣布Model S和Model X将于2026年第二季度停产，最后一批车辆于5月初下线。随后，特斯拉并没有将生产线改造用于生产其他车型，而是选择将原先的Model S和Model X装配线改造成一条专门用于生产第三代Optimus的生产线。",
-      "clean_text": "特斯拉弗里蒙特工厂Optimus产线或已就绪周三，马斯克发布了一张大合照，并且配文称，在弗里蒙特工厂参观Optimus机器人生产线。这一言论可能代表着特斯拉的人形机器人Optimus正进入关键的量产阶段。特斯拉弗里蒙特工厂一直是这家公司在美国的先锋制造中心，曾经用于生产特斯拉旗舰车型Model S轿车和Model X SUV，如今已成为该公司人形机器人生产线的所在地。今年一月下旬，马斯克在财报会议上宣布Model S和Model X将于2026年第二季度停产，最后一批车辆于5月初下线。随后，特斯拉并没有将生产线改造用于生产其他车型，而是选择将原先的Model S和Model X装配线改造成一条专门用于生产第三代Optimus的生产线。——财联社",
-      "datetime": "2026-07-02T12:58:11+00:00",
-      "views": "247",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2415009?sv=8.5.9"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30532",
-      "scraped_at": "2026-07-02T21:01:15.049540",
-      "title": "特斯拉Optimus产线就绪",
-      "title_options": {
-        "conclusion": "特斯拉Optimus产线就绪",
-        "attractive": "Model S产线改产机器人",
-        "minimal": "Optimus产线已就绪",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-04T00:54:59.378666"
+  "count": 48,
+  "updated_at": "2026-07-04T01:00:03.182328"
 }
