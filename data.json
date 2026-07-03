@@ -1446,39 +1446,8 @@
         "minimal": "OpenAI政府持股5%",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42308",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 9 月起默认拦截部分 AI 爬虫，Google 被点名Cloudflare 宣布，9 月 15 日起，默认阻止同时用于搜索、AI 问答和训练的“混合用途”爬虫抓取带广告的页面。Cloudflare 还点名暗批 Google，认为网站很难做到“允许搜索收录，但拒绝内容被用于 AI”。未来，AI 公司使用网站内容，可能不只要为抓取付费，还要按实际使用付费。TechCrunch简单一句话：很多网站阻止了 AI 爬虫，但是没有阻止谷歌搜索。谷歌就用了这个漏洞训练它的 AI。·茶馆水群·",
-      "clean_text": "Cloudflare 9 月起默认拦截部分 AI 爬虫，Google 被点名Cloudflare 宣布，9 月 15 日起，默认阻止同时用于搜索、AI 问答和训练的“混合用途”爬虫抓取带广告的页面。Cloudflare 还点名暗批 Google，认为网站很难做到“允许搜索收录，但拒绝内容被用于 AI”。未来，AI 公司使用网站内容，可能不只要为抓取付费，还要按实际使用付费。TechCrunch简单一句话：很多网站阻止了 AI 爬虫，但是没有阻止谷歌搜索。谷歌就用了这个漏洞训练它的 AI。·茶馆水群",
-      "datetime": "2026-07-02T05:37:58+00:00",
-      "views": "2.87K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42308",
-      "scraped_at": "2026-07-02T14:01:14.406188",
-      "title": "Cloudflare拦截AI爬虫",
-      "title_options": {
-        "conclusion": "Cloudflare拦截AI爬虫",
-        "attractive": "谷歌借搜索漏洞训练AI",
-        "minimal": "Cloudflare AI爬虫 拦截",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-03T17:33:39.030023"
+  "count": 55,
+  "updated_at": "2026-07-03T17:38:42.106060"
 }
