@@ -1486,39 +1486,8 @@
         "minimal": "Xbox光盘转数字",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42307",
-      "channel": "zaihuapd",
-      "text": "OnePlus 德法西官网挂横幅，引导用户转购 OppoOnePlus 德国、西班牙和法国官方商店近日出现横幅，直接向现有用户推荐 Oppo 的耳机、平板及 Find N9 系列等产品，称 Oppo 拥有\"你需要的速度和你信赖的体验\"，所有链接均跳转至 Oppo 官网。此举被外界视为 OnePlus 在自家渠道为兄弟品牌让路的明确信号。近月来，OnePlus 已陆续撤出美国 Best Buy 线下渠道，并在欧洲进行裁员，如今又在官网主动引导用户转向 Oppo，显示其正逐步收缩市场布局。不过，现有 OnePlus 手机仍可正常获得软件更新与支持，美国用户亦不受直接影响，因 Oppo 并未在当地销售手机。PhoneArena·茶馆水群·",
-      "clean_text": "OnePlus 德法西官网挂横幅，引导用户转购 OppoOnePlus 德国、西班牙和法国官方商店近日出现横幅，直接向现有用户推荐 Oppo 的耳机、平板及 Find N9 系列等产品，称 Oppo 拥有\"你需要的速度和你信赖的体验\"，所有链接均跳转至 Oppo 官网。此举被外界视为 OnePlus 在自家渠道为兄弟品牌让路的明确信号。近月来，OnePlus 已陆续撤出美国 Best Buy 线下渠道，并在欧洲进行裁员，如今又在官网主动引导用户转向 Oppo，显示其正逐步收缩市场布局。不过，现有 OnePlus 手机仍可正常获得软件更新与支持，美国用户亦不受直接影响，因 Oppo 并未在当地销售手机。PhoneArena·茶馆水群",
-      "datetime": "2026-07-02T04:34:50+00:00",
-      "views": "2.87K",
-      "source_links": [
-        {
-          "text": "PhoneArena",
-          "url": "https://www.phonearena.com/news/oneplus-is-pushing-you-toward-a-different-brand-now_id181522"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42307",
-      "scraped_at": "2026-07-02T13:00:23.875895",
-      "title": "OnePlus官网引导用户转购Oppo",
-      "title_options": {
-        "conclusion": "OnePlus官网引导用户转购Oppo",
-        "attractive": "OnePlus为Oppo让路？官网推荐",
-        "minimal": "OnePlus转购Oppo",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-03T16:32:52.407985"
+  "count": 56,
+  "updated_at": "2026-07-03T16:37:56.141405"
 }
