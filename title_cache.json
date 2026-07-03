@@ -13062,5 +13062,35 @@
       "minimal": "OPPO整合一加真我系统"
     },
     "generated_at": "2026-07-03T19:04:50.231797"
+  },
+  "zaihuapd_42332": {
+    "ai_title": "半年未登录账号或被注销",
+    "title_options": {
+      "conclusion": "半年未登录账号或被注销",
+      "attractive": "账号超半年不用将被注销",
+      "minimal": "账号注销新规",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T20:00:39.908750"
+  },
+  "xhqcankao_30554": {
+    "ai_title": "一加真我将停用自有系统",
+    "title_options": {
+      "conclusion": "一加真我将停用自有系统",
+      "attractive": "一加真我系统停用",
+      "minimal": "一加真我系统停用",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T20:00:39.950885"
+  },
+  "xhqcankao_30553": {
+    "ai_title": "波音子公司被诉解雇举报经理",
+    "title_options": {
+      "conclusion": "波音子公司被诉解雇举报经理",
+      "attractive": "提安全担忧后遭解雇",
+      "minimal": "波音Wisk解雇举报经理",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T20:00:39.982340"
   }
 }
