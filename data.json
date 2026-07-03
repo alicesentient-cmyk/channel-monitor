@@ -1178,39 +1178,8 @@
         "minimal": "微软6000人AI部署",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42317",
-      "channel": "zaihuapd",
-      "text": "Anthropic 洽谈由三星代工自研 AI 芯片Anthropic 已开始开发自有 AI 芯片，并与三星电子洽谈潜在制造合作。此举旨在加强对 Claude 模型底层计算系统的控制，方向与 OpenAI 的芯片计划类似。目前项目仍处于早期阶段。相比已推进自研服务器芯片的其他公司，Anthropic 入场时间较晚。The Information⁠·茶馆水群·",
-      "clean_text": "Anthropic 洽谈由三星代工自研 AI 芯片Anthropic 已开始开发自有 AI 芯片，并与三星电子洽谈潜在制造合作。此举旨在加强对 Claude 模型底层计算系统的控制，方向与 OpenAI 的芯片计划类似。目前项目仍处于早期阶段。相比已推进自研服务器芯片的其他公司，Anthropic 入场时间较晚。The Information⁠·茶馆水群",
-      "datetime": "2026-07-02T15:57:15+00:00",
-      "views": "1.08K",
-      "source_links": [
-        {
-          "text": "The Information",
-          "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42317",
-      "scraped_at": "2026-07-03T00:05:36.941688",
-      "title": "Anthropic洽谈三星代工AI芯片",
-      "title_options": {
-        "conclusion": "Anthropic洽谈三星代工AI芯片",
-        "attractive": "Anthropic自研芯片找三星代工",
-        "minimal": "Anthropic三星芯片代工",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-07-04T03:57:01.953296"
+  "count": 44,
+  "updated_at": "2026-07-04T04:02:05.043146"
 }
