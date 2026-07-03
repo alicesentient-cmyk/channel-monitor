@@ -1,6 +1,64 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30539",
+      "channel": "xhqcankao",
+      "text": "Robinhood CEO：AI智能体很快将媲美人类交易员周四，美国在线券商平台Robinhood首席执行官弗拉德·特涅夫预测称，AI智能体很快将具备与人类交易员相当的能力。特涅夫周四在接受采访时说：“所谓智能体交易的理念，就是人类能够完成的所有交易能力，最终都将能够由AI智能体实现。在创办Robinhood公司之前，我曾作为机构投资者从事程序化交易。很多人没有意识到，如今相当大一部分交易实际上已经实现自动化，并且由AI驱动。但这种级别的智能和复杂能力，过去一直是普通投资者无法获得的。Robinhood智能体交易的最终目标，是让普通投资者能够使用与高频交易机构数十年来一直享有的相同工具、相同算力以及相同能力”。",
+      "clean_text": "Robinhood CEO：AI智能体很快将媲美人类交易员周四，美国在线券商平台Robinhood首席执行官弗拉德·特涅夫预测称，AI智能体很快将具备与人类交易员相当的能力。特涅夫周四在接受采访时说：“所谓智能体交易的理念，就是人类能够完成的所有交易能力，最终都将能够由AI智能体实现。在创办Robinhood公司之前，我曾作为机构投资者从事程序化交易。很多人没有意识到，如今相当大一部分交易实际上已经实现自动化，并且由AI驱动。但这种级别的智能和复杂能力，过去一直是普通投资者无法获得的。Robinhood智能体交易的最终目标，是让普通投资者能够使用与高频交易机构数十年来一直享有的相同工具、相同算力以及相同能力”。——财联社",
+      "datetime": "2026-07-03T01:33:08+00:00",
+      "views": "1.1K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2415850?sv=8.5.9"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30539",
+      "scraped_at": "2026-07-03T10:00:56.172232",
+      "title": "AI智能体将媲美人类交易员",
+      "title_options": {
+        "conclusion": "AI智能体将媲美人类交易员",
+        "attractive": "AI交易员即将上线",
+        "minimal": "AI智能体交易",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42320",
+      "channel": "zaihuapd",
+      "text": "GitHub 宣布可将公开仓库刻录成 CD-ROM 永久保存GitHub 7 月 2 日宣布，用户现在可以将自己的公开仓库代码获取到 CD-ROM 上。官方表示，此举是为了让代码以物理介质的形式真正属于用户——你可以自己留着、借给朋友，甚至传给子孙后代。GitHub 还调侃道：\"你的代码在物理上永远是你的，直到你弄丢为止，说真的。\"目前用户已可通过gh.io/cd订购该服务。GitHub(@github)·茶馆水群·",
+      "clean_text": "GitHub 宣布可将公开仓库刻录成 CD-ROM 永久保存GitHub 7 月 2 日宣布，用户现在可以将自己的公开仓库代码获取到 CD-ROM 上。官方表示，此举是为了让代码以物理介质的形式真正属于用户——你可以自己留着、借给朋友，甚至传给子孙后代。GitHub 还调侃道：\"你的代码在物理上永远是你的，直到你弄丢为止，说真的。\"目前用户已可通过gh.io/cd订购该服务。GitHub(@github)·茶馆水群",
+      "datetime": "2026-07-03T01:23:27+00:00",
+      "views": "3.87K",
+      "source_links": [
+        {
+          "text": "gh.io/cd",
+          "url": "http://gh.io/cd"
+        },
+        {
+          "text": "GitHub(@github)",
+          "url": "https://x.com/github/status/2072801888525840476"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42320",
+      "scraped_at": "2026-07-03T10:00:54.925656",
+      "title": "GitHub公开仓库可刻录CD-ROM",
+      "title_options": {
+        "conclusion": "GitHub公开仓库可刻录CD-ROM",
+        "attractive": "你的代码可刻成CD传后代",
+        "minimal": "GitHub CD-ROM 仓库",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30538",
       "channel": "xhqcankao",
       "text": "Pixel 7/8/9即将迎来Linux 6.12内核更新看起来谷歌Pixel手机即将迎来又一次内核升级。一则新的爆料声称，谷歌正准备为Pixel 7、8、9和10系列手机更新 Android 所基于的 Linux 内核，虽然内核升级不会带来面向用户的新功能，但Pixel手机将升级到的版本仍可能带来性能改进。Mystic Leaks电报频道中的一则帖子声称，大多数搭载Tensor芯片的Pixel手机将很快收到内核版本6.12的升级。根据该爆料，Pixel 6手机将不会获得此更新。Pixel 7、Pixel 8和Pixel 9手机目前处于6.1-android14，而Pixel 10系列手机处于 6.6-android15 。一旦更新落地，它们应该都会使用 6.12-android16 内核版本。",
@@ -1358,6 +1416,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-03T09:57:59.868093"
+  "count": 54,
+  "updated_at": "2026-07-03T10:03:04.191514"
 }
