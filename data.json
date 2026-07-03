@@ -1209,43 +1209,8 @@
         "minimal": "Anthropic三星芯片代工",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42316",
-      "channel": "zaihuapd",
-      "text": "特斯拉股价 7 月 2 日单日跌超 6%2026 年 7 月 2 日，特斯拉（TSLA）股价大幅下挫，收盘较前一交易日（7 月 1 日）的 425.30 美元下跌超过 6%。Yahoo Finance 数据显示，当日盘中最高触及 432.35 美元，最低跌至 394.92 美元，最终收于约 395 美元附近，振幅明显。特斯拉今年以来股价表现承压，2026 年均价约 404.94 美元，年内高点为 451.67 美元，低点仅 343.25 美元，截至 7 月 1 日年度累计跌幅约 5.4%。Yahoo Finance|Tmacrotrends·茶馆水群·",
-      "clean_text": "特斯拉股价 7 月 2 日单日跌超 6%2026 年 7 月 2 日，特斯拉（TSLA）股价大幅下挫，收盘较前一交易日（7 月 1 日）的 425.30 美元下跌超过 6%。Yahoo Finance 数据显示，当日盘中最高触及 432.35 美元，最低跌至 394.92 美元，最终收于约 395 美元附近，振幅明显。特斯拉今年以来股价表现承压，2026 年均价约 404.94 美元，年内高点为 451.67 美元，低点仅 343.25 美元，截至 7 月 1 日年度累计跌幅约 5.4%。Yahoo Finance|Tmacrotrends·茶馆水群",
-      "datetime": "2026-07-02T15:22:37+00:00",
-      "views": "4.02K",
-      "source_links": [
-        {
-          "text": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/quote/TSLA/history/"
-        },
-        {
-          "text": "Tmacrotrends",
-          "url": "https://www.macrotrends.net/stocks/charts/TSLA/tesla/stock-price-history"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42316",
-      "scraped_at": "2026-07-03T00:05:36.941399",
-      "title": "特斯拉股价单日跌超6%",
-      "title_options": {
-        "conclusion": "特斯拉股价单日跌超6%",
-        "attractive": "特斯拉股价暴跌6%",
-        "minimal": "特斯拉股价跌超6%",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-07-04T03:21:42.093541"
+  "count": 45,
+  "updated_at": "2026-07-04T03:26:45.126783"
 }
