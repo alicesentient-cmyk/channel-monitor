@@ -12995,5 +12995,33 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T15:01:41.615139"
+  },
+  "zaihuapd_42328": {
+    "ai_title": "Claude Fable 5体验缩水",
+    "title_options": {
+      "conclusion": "Claude Fable 5体验缩水",
+      "attractive": "安全误判频发遭吐槽",
+      "minimal": "Fable 5体验缩水"
+    },
+    "generated_at": "2026-07-03T16:02:29.163800"
+  },
+  "xhqcankao_30551": {
+    "ai_title": "阿里禁用Claude",
+    "title_options": {
+      "conclusion": "阿里禁用Claude",
+      "attractive": "阿里禁用Claude原因",
+      "minimal": "阿里禁用Claude",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T16:02:29.191132"
+  },
+  "xhqcankao_30550": {
+    "ai_title": "希腊政客手机遭间谍软件入侵",
+    "title_options": {
+      "conclusion": "希腊政客手机遭间谍软件入侵",
+      "attractive": "政客调查间谍软件反被黑",
+      "minimal": "希腊政客手机被黑"
+    },
+    "generated_at": "2026-07-03T16:02:29.319911"
   }
 }

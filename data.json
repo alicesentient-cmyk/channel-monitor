@@ -1,6 +1,85 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30551",
+      "channel": "xhqcankao",
+      "text": "阿里为何禁用Claude？ 内部回应来了7月3日，针对阿里内部禁用Claude一事，内部人士回应表示，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。今日阿里巴巴内部宣布反向禁用Claude。阿里全员被要求卸载Anthropic相关产品，包括Sonnet、Opus、Fable等多个系列模型，以及Claude Code在内的Agent产品。",
+      "clean_text": "阿里为何禁用Claude？ 内部回应来了7月3日，针对阿里内部禁用Claude一事，内部人士回应表示，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。今日阿里巴巴内部宣布反向禁用Claude。阿里全员被要求卸载Anthropic相关产品，包括Sonnet、Opus、Fable等多个系列模型，以及Claude Code在内的Agent产品。——凤凰网科技",
+      "datetime": "2026-07-03T07:22:25+00:00",
+      "views": "2.01K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006980-_OWRK9-_kVp2FiK52Ifj--QL1jgrJqkl6dwm4ojpB9gqlBdYMxLLA3clLILLkaN"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30551",
+      "scraped_at": "2026-07-03T16:00:28.568971",
+      "title": "阿里禁用Claude",
+      "title_options": {
+        "conclusion": "阿里禁用Claude",
+        "attractive": "阿里禁用Claude原因",
+        "minimal": "阿里禁用Claude",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42328",
+      "channel": "zaihuapd",
+      "text": "Claude Fable 5 重新上线后体验缩水，安全误判频发遭开发者吐槽美国解除出口管制后，Anthropic 旗舰模型 Claude Fable 5 重新上线，但大量用户投诉体验大幅缩水。过渡期内至 7 月 7 日前，Pro、Max 等订阅用户仅能使用每周 50% 额度调用该模型；7 日后订阅将不再内置 Fable 5，需按量付费。官方称算力紧张，产能充足后会重新纳入订阅。用户的主要不满集中在安全机制阈值过高、误判频发：处理 C/C++、Rust 底层代码，或出现漏洞、hook 等关键词时，模型会自动降级至 Opus 4.8。媒体确认模型本体性能并未削弱，只是安全防护裕度设置过大，频繁干扰正常开发工作。目前 API 与按量付费企业版可完整调用 Fable 5，官方暂未出台安全误判优化方案。bleepingcomputer(1)|(2)·茶馆水群·",
+      "clean_text": "Claude Fable 5 重新上线后体验缩水，安全误判频发遭开发者吐槽美国解除出口管制后，Anthropic 旗舰模型 Claude Fable 5 重新上线，但大量用户投诉体验大幅缩水。过渡期内至 7 月 7 日前，Pro、Max 等订阅用户仅能使用每周 50% 额度调用该模型；7 日后订阅将不再内置 Fable 5，需按量付费。官方称算力紧张，产能充足后会重新纳入订阅。用户的主要不满集中在安全机制阈值过高、误判频发：处理 C/C++、Rust 底层代码，或出现漏洞、hook 等关键词时，模型会自动降级至 Opus 4.8。媒体确认模型本体性能并未削弱，只是安全防护裕度设置过大，频繁干扰正常开发工作。目前 API 与按量付费企业版可完整调用 Fable 5，官方暂未出台安全误判优化方案。bleepingcomputer(1)|(2)·茶馆水群",
+      "datetime": "2026-07-03T07:20:00+00:00",
+      "views": "4.42K",
+      "source_links": [
+        {
+          "text": "(1)",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/"
+        },
+        {
+          "text": "(2)",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42328",
+      "scraped_at": "2026-07-03T16:00:26.913857",
+      "title": "Claude Fable 5体验缩水",
+      "title_options": {
+        "conclusion": "Claude Fable 5体验缩水",
+        "attractive": "安全误判频发遭吐槽",
+        "minimal": "Fable 5体验缩水"
+      }
+    },
+    {
+      "id": "xhqcankao_30550",
+      "channel": "xhqcankao",
+      "text": "调查间谍软件的希腊政客手机遭黑客入侵据一项新研究发现，一位希腊政客的手机在他参与欧洲议会关于监控技术销售商的调查期间，多次被间谍软件入侵。根据多伦多大学数字监督组织公民实验室周五发布的一份报告，记者、欧洲议会前议员斯特利奥斯·库洛格卢的iPhone在2022年至2023年间至少两次被以色列公司NSO集团制造的间谍软件入侵。NSO将其被称为“飞马”的间谍软件独家出售给政府和执法机构，其用途是监控恐怖分子和其他严重刑事罪犯。然而，根据研究人员和媒体报道，飞马已被政府反复用于针对记者、活动人士和政治对手。在被入侵时，库洛格卢正在参与欧洲议会的 PEGA 委员会，该委员会是为审查NSO的飞马及其他政府所用监控技术的交易而设立的。",
+      "clean_text": "调查间谍软件的希腊政客手机遭黑客入侵据一项新研究发现，一位希腊政客的手机在他参与欧洲议会关于监控技术销售商的调查期间，多次被间谍软件入侵。根据多伦多大学数字监督组织公民实验室周五发布的一份报告，记者、欧洲议会前议员斯特利奥斯·库洛格卢的iPhone在2022年至2023年间至少两次被以色列公司NSO集团制造的间谍软件入侵。NSO将其被称为“飞马”的间谍软件独家出售给政府和执法机构，其用途是监控恐怖分子和其他严重刑事罪犯。然而，根据研究人员和媒体报道，飞马已被政府反复用于针对记者、活动人士和政治对手。在被入侵时，库洛格卢正在参与欧洲议会的 PEGA 委员会，该委员会是为审查NSO的飞马及其他政府所用监控技术的交易而设立的。——彭博社",
+      "datetime": "2026-07-03T07:06:51+00:00",
+      "views": "2.28K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30550",
+      "scraped_at": "2026-07-03T16:00:28.568725",
+      "title": "希腊政客手机遭间谍软件入侵",
+      "title_options": {
+        "conclusion": "希腊政客手机遭间谍软件入侵",
+        "attractive": "政客调查间谍软件反被黑",
+        "minimal": "希腊政客手机被黑"
+      }
+    },
+    {
       "id": "xhqcankao_30549",
       "channel": "xhqcankao",
       "text": "影石反诉大疆 指控全景相机等产品侵犯专利影石在中国多个城市对大疆提起六起专利侵权诉讼，指控大疆的全景相机及云台设备等主力产品侵犯其多项专利。所涉技术包括全景拍摄与剪辑、子弹时间拍摄、相机热管理方案、相机扩展方案及云台支撑技术等。同日，影石还向中国国家知识产权局就大疆持有的相关专利提出无效宣告请求。公开信息显示，大疆已从美国撤回对影石的专利诉讼，并在中国国内法院另行对影石提起诉讼。双方之间的专利纠纷已持续一段时间。今年6月10日，影石在全球市场发售云台相机Luna Ultra后，大疆随后在美国发起专利诉讼，影石在美进行反诉。",
@@ -1483,38 +1562,8 @@
         "attractive": "AI自动整理本地文件",
         "minimal": "谷歌AI智能体Mac"
       }
-    },
-    {
-      "id": "zaihuapd_42275",
-      "channel": "zaihuapd",
-      "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
-      "clean_text": "🤖谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群",
-      "datetime": null,
-      "views": "3.55K",
-      "source_links": [
-        {
-          "text": "Google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42275",
-      "scraped_at": "2026-07-01T01:01:01.466792",
-      "title": "谷歌开放4秒出图模型",
-      "title_options": {
-        "conclusion": "谷歌开放4秒出图模型",
-        "attractive": "4秒出图仅0.034美元",
-        "minimal": "谷歌新模型开放"
-      }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-03T15:57:23.688304"
+  "count": 59,
+  "updated_at": "2026-07-03T16:02:29.340201"
 }
