@@ -1,6 +1,86 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30545",
+      "channel": "xhqcankao",
+      "text": "亚马逊Leo低轨卫星互联网今年稍晚上线亚马逊表示，公司目前已在太空轨道部署足够数量的卫星，有望于今年晚些时候正式推出 Amazon Leo低轨卫星互联网的“初期服务”。亚马逊于美东时间周四凌晨12点30分左右，通过联合发射联盟的 Atlas V 火箭将29枚卫星送入轨道。完成此次任务后，Leo卫星总数已超过390枚。 Leo 业务与产品副总裁克里斯·韦伯在 X平台表示，目前卫星数量已足以在首批服务区域提供持续性的网络服务。这对亚马逊公司而言是一项重要里程碑，公司正积极让Leo成为星链在低轨卫星市场的竞争对手。去年11月，亚马逊已针对部分企业客户推出 Leo “企业预览版”，但尚未向普通消费者及政府客户提供服务。",
+      "clean_text": "亚马逊Leo低轨卫星互联网今年稍晚上线亚马逊表示，公司目前已在太空轨道部署足够数量的卫星，有望于今年晚些时候正式推出 Amazon Leo低轨卫星互联网的“初期服务”。亚马逊于美东时间周四凌晨12点30分左右，通过联合发射联盟的 Atlas V 火箭将29枚卫星送入轨道。完成此次任务后，Leo卫星总数已超过390枚。 Leo 业务与产品副总裁克里斯·韦伯在 X平台表示，目前卫星数量已足以在首批服务区域提供持续性的网络服务。这对亚马逊公司而言是一项重要里程碑，公司正积极让Leo成为星链在低轨卫星市场的竞争对手。去年11月，亚马逊已针对部分企业客户推出 Leo “企业预览版”，但尚未向普通消费者及政府客户提供服务。——雅虎新闻、CNBC",
+      "datetime": "2026-07-03T04:32:42+00:00",
+      "views": "981",
+      "source_links": [
+        {
+          "text": "雅虎新闻",
+          "url": "https://hk.finance.yahoo.com/news/%E6%8C%91%E6%88%B0starlink-%E4%BA%9E%E9%A6%AC%E9%81%9Cleo%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E7%B6%B2%E8%B7%AF%E4%BB%8A%E5%B9%B4%E7%A8%8D%E6%99%9A%E4%B8%8A%E7%B7%9A-013003545.html"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30545",
+      "scraped_at": "2026-07-03T13:00:27.946327",
+      "title": "亚马逊Leo卫星互联网今年上线",
+      "title_options": {
+        "conclusion": "亚马逊Leo卫星互联网今年上线",
+        "attractive": "亚马逊Leo卫星数超390枚",
+        "minimal": "亚马逊Leo卫星互联网上线",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42324",
+      "channel": "zaihuapd",
+      "text": "国家烟草专卖局修订电子烟产业政策，引导产能向优势地区集中，禁止外资投资零售批发国家烟草专卖局修订电子烟产业政策，新版文件自发布之日起实施，2022年版同时废止。文件提出，引导产能向具备产业基础和条件的地区适度集中，严控新增产能，并推动缺乏竞争力的企业有序退出。新规禁止外商投资电子烟批发零售，对外商投资生产领域实施审查。拟上市企业须接受烟草主管部门前置审查；同一品规产品实行全国统一售价，零售商不得排他性经营单一品牌。搜狐网·茶馆水群·",
+      "clean_text": "国家烟草专卖局修订电子烟产业政策，引导产能向优势地区集中，禁止外资投资零售批发国家烟草专卖局修订电子烟产业政策，新版文件自发布之日起实施，2022年版同时废止。文件提出，引导产能向具备产业基础和条件的地区适度集中，严控新增产能，并推动缺乏竞争力的企业有序退出。新规禁止外商投资电子烟批发零售，对外商投资生产领域实施审查。拟上市企业须接受烟草主管部门前置审查；同一品规产品实行全国统一售价，零售商不得排他性经营单一品牌。搜狐网·茶馆水群",
+      "datetime": "2026-07-03T04:21:23+00:00",
+      "views": "3.49K",
+      "source_links": [
+        {
+          "text": "搜狐网",
+          "url": "https://www.sohu.com/a/1045151034_313745"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42324",
+      "scraped_at": "2026-07-03T13:00:26.321399",
+      "title": "电子烟产能向优势地区集中",
+      "title_options": {
+        "conclusion": "电子烟产能向优势地区集中",
+        "attractive": "外资禁入电子烟批发零售",
+        "minimal": "电子烟新规实施"
+      }
+    },
+    {
+      "id": "xhqcankao_30544",
+      "channel": "xhqcankao",
+      "text": "索尼的PS游戏光盘工厂已经在被改作他用领导索尼光盘制造业务的索尼DADC总裁迪特马尔·坦策告诉奥地利当地电视台，该公司在塔尔高工厂每天生产60万张光盘，其中一半是为PlayStation生产的。但由于到2028年其产量将仅为该数量的10%，公司正计划将所有三百名员工再培训，转而从事光学微透镜的工作。塔尔高不仅是索尼的光盘工厂之一，还是光盘制造部门总部所在地，并且看起来是其仅存的全资光盘制造设施。索尼在美国制造光盘已有数十年，最初在印第安纳州特雷霍特，后来在新泽西州，但索尼在2011年关闭后者的工厂，并于2022年将所有制造业务从印第安纳州转移到了塔尔高。",
+      "clean_text": "索尼的PS游戏光盘工厂已经在被改作他用领导索尼光盘制造业务的索尼DADC总裁迪特马尔·坦策告诉奥地利当地电视台，该公司在塔尔高工厂每天生产60万张光盘，其中一半是为PlayStation生产的。但由于到2028年其产量将仅为该数量的10%，公司正计划将所有三百名员工再培训，转而从事光学微透镜的工作。塔尔高不仅是索尼的光盘工厂之一，还是光盘制造部门总部所在地，并且看起来是其仅存的全资光盘制造设施。索尼在美国制造光盘已有数十年，最初在印第安纳州特雷霍特，后来在新泽西州，但索尼在2011年关闭后者的工厂，并于2022年将所有制造业务从印第安纳州转移到了塔尔高。——Theverge",
+      "datetime": "2026-07-03T04:02:02+00:00",
+      "views": "1.84K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30544",
+      "scraped_at": "2026-07-03T13:00:27.946106",
+      "title": "索尼PS光盘厂将转型",
+      "title_options": {
+        "conclusion": "索尼PS光盘厂将转型",
+        "attractive": "PS光盘产量将锐减90%",
+        "minimal": "索尼光盘厂转型",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42323",
       "channel": "zaihuapd",
       "text": "腾讯游戏暑期新增声纹检测等 AI 手段打击未成年人冒用账号腾讯游戏今日公布 2026 年暑期未成年人保护专项行动，升级\"AI 双引擎防沉迷\"模式。游戏外推出\"AI 版成长守护\"，家长通过与 AI 对话即可管理游戏账号；游戏内上线\"AI 巡航\"，新增声纹特征检测、年龄识别、代过特征检测等手段，打击\"账号冒用\"和\"代过人脸\"行为。IT之家·茶馆水群·",
@@ -1438,47 +1518,6 @@
       }
     },
     {
-      "id": "zaihuapd_42302",
-      "channel": "zaihuapd",
-      "text": "Apple 协助 FBI “开盒”用 iCloud 匿名邮箱发送威胁信息的用户  Apple 在一宗威胁邮件调查中向 FBI 提供了“隐藏邮箱地址”功能的匿名地址对应的真实 iCloud 邮箱及账户资料。涉案账户登记名为 Alden Ruml，曾生成 134 个匿名邮箱。  宣誓书称，Ruml 随后承认曾向 FBI 局长 Kash Patel 女友 Alexis Wilkins 发送威胁邮件。iCloud+ 的这项匿名邮箱功能在执法调查中仍可追溯到账户信息。  404 Media｜｜",
-      "clean_text": "🍏Apple 协助 FBI “开盒”用 iCloud 匿名邮箱发送威胁信息的用户  Apple 在一宗威胁邮件调查中向 FBI 提供了“隐藏邮箱地址”功能的匿名地址对应的真实 iCloud 邮箱及账户资料。涉案账户登记名为 Alden Ruml，曾生成 134 个匿名邮箱。  宣誓书称，Ruml 随后承认曾向 FBI 局长 Kash Patel 女友 Alexis Wilkins 发送威胁邮件。iCloud+ 的这项匿名邮箱功能在执法调查中仍可追溯到账户信息。  404 Media｜茶馆讨论｜投稿通道",
-      "datetime": "2026-07-02T01:03:59+00:00",
-      "views": "288",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42302",
-      "scraped_at": "2026-07-02T09:05:14.747669",
-      "title": "Apple助FBI查匿名邮箱",
-      "title_options": {
-        "conclusion": "Apple助FBI查匿名邮箱",
-        "attractive": "iCloud匿名邮箱可追踪",
-        "minimal": "Apple FBI 匿名邮箱",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30508",
-      "channel": "xhqcankao",
-      "text": "SpaceX向投资者展示全新AI设备原型机埃隆·马斯克旗下的SpaceX最近向投资者展示了一款类似手机的设备原型机。该设备旨在重塑人类与人工智能的交互方式。知情人士透露，在这家火箭和AI公司进行巨型 IPO 前夕，该公司向部分投资者和其他利益相关者展示了这款原型机。该设备设计时尚，机身比iPhone更纤薄。部分知情人士称，这款原型机将运行专有操作系统，并集成SpaceX旗下xAI的人工智能技术。他们还透露，该设备将搭载高通的骁龙芯片。SpaceX向一些投资者表示，该项目尚处于早期阶段。其设计可能会改变，也不确定该设备最终是否会投产。对此，马斯克在 X 平台上发文对此回应称，“完全失实”，但未进一步说明。",
-      "clean_text": "SpaceX向投资者展示全新AI设备原型机埃隆·马斯克旗下的SpaceX最近向投资者展示了一款类似手机的设备原型机。该设备旨在重塑人类与人工智能的交互方式。知情人士透露，在这家火箭和AI公司进行巨型 IPO 前夕，该公司向部分投资者和其他利益相关者展示了这款原型机。该设备设计时尚，机身比iPhone更纤薄。部分知情人士称，这款原型机将运行专有操作系统，并集成SpaceX旗下xAI的人工智能技术。他们还透露，该设备将搭载高通的骁龙芯片。SpaceX向一些投资者表示，该项目尚处于早期阶段。其设计可能会改变，也不确定该设备最终是否会投产。对此，马斯克在 X 平台上发文对此回应称，“完全失实”，但未进一步说明。——华尔街日报",
-      "datetime": "2026-07-02T01:01:20+00:00",
-      "views": "216",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-4632ed1c?mod=cn_hp_tech_pos1"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30508",
-      "scraped_at": "2026-07-02T09:05:16.024348",
-      "title": "SpaceX展示AI设备原型",
-      "title_options": {
-        "conclusion": "SpaceX展示AI设备原型",
-        "attractive": "比iPhone更薄？马斯克否认",
-        "minimal": "SpaceX AI设备原型",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1509,6 +1548,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-03T13:00:06.162989"
+  "count": 58,
+  "updated_at": "2026-07-03T13:05:11.178342"
 }
