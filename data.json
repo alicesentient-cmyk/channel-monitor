@@ -1540,30 +1540,8 @@
         "minimal": "小米手机行业困境",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30514",
-      "channel": "xhqcankao",
-      "text": "谷歌智能体助手Gemini Spark登陆苹果电脑谷歌为其 macOS 桌面应用推出了 Gemini Spark，使该AI智能体自动执行涉及本地文件和桌面工作流的任务。谷歌周三宣布了此次更新，在 macOS 版 Gemini 应用的侧边栏中添加了一个专用的Spark标签页。该功能允许AI智能体对用户计算机上本地存储的文件采取行动，而不仅仅是在聊天窗口中回答问题。用户可以执行诸如将下载文件夹中的PDF整理到带标签的子文件夹中，或者从本地保存的发票中提取数据以按设定时间表构建 Google Workspace 预算电子表格等操作。用户通过将文件夹链接到侧边栏来控制 Spark 可以查看哪些文件夹，并且可以随时撤销该访问权限。谷歌表示，未来的更新将允许用户从手机在其 Mac 上启动任务。",
-      "clean_text": "谷歌智能体助手Gemini Spark登陆苹果电脑谷歌为其 macOS 桌面应用推出了 Gemini Spark，使该AI智能体自动执行涉及本地文件和桌面工作流的任务。谷歌周三宣布了此次更新，在 macOS 版 Gemini 应用的侧边栏中添加了一个专用的Spark标签页。该功能允许AI智能体对用户计算机上本地存储的文件采取行动，而不仅仅是在聊天窗口中回答问题。用户可以执行诸如将下载文件夹中的PDF整理到带标签的子文件夹中，或者从本地保存的发票中提取数据以按设定时间表构建 Google Workspace 预算电子表格等操作。用户通过将文件夹链接到侧边栏来控制 Spark 可以查看哪些文件夹，并且可以随时撤销该访问权限。谷歌表示，未来的更新将允许用户从手机在其 Mac 上启动任务。——Macrumors",
-      "datetime": "2026-07-02T04:04:17+00:00",
-      "views": "2.12K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30514",
-      "scraped_at": "2026-07-02T13:00:25.271630",
-      "title": "Gemini Spark登陆Mac",
-      "title_options": {
-        "conclusion": "Gemini Spark登陆Mac",
-        "attractive": "AI自动整理本地文件",
-        "minimal": "谷歌AI智能体Mac"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-03T16:02:29.340201"
+  "count": 58,
+  "updated_at": "2026-07-03T16:07:33.518308"
 }
