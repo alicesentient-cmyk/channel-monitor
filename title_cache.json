@@ -12927,5 +12927,53 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T13:05:11.158067"
+  },
+  "xhqcankao_30547": {
+    "ai_title": "扎克伯格称AI开发未达预期",
+    "title_options": {
+      "conclusion": "扎克伯格称AI开发未达预期",
+      "attractive": "Meta AI开发速度放缓",
+      "minimal": "AI智能体开发不及预期",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T14:05:56.752398"
+  },
+  "zaihuapd_42326": {
+    "ai_title": "谷歌视频模型重回榜首",
+    "title_options": {
+      "conclusion": "谷歌视频模型重回榜首",
+      "attractive": "领先字节101分",
+      "minimal": "Gemini登顶"
+    },
+    "generated_at": "2026-07-03T14:05:56.835343"
+  },
+  "xhqcankao_30548": {
+    "ai_title": "AI发现4种新超导材料",
+    "title_options": {
+      "conclusion": "AI发现4种新超导材料",
+      "attractive": "28小时筛选240万晶体",
+      "minimal": "AI发现4种超导材料",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T14:05:56.893016"
+  },
+  "zaihuapd_42325": {
+    "ai_title": "iPhone 18 Pro电池曝光",
+    "title_options": {
+      "conclusion": "iPhone 18 Pro电池曝光",
+      "attractive": "美版电池比国版大",
+      "minimal": "iPhone 18 Pro电池"
+    },
+    "generated_at": "2026-07-03T14:05:57.728123"
+  },
+  "xhqcankao_30546": {
+    "ai_title": "特斯拉限制员工AI支出",
+    "title_options": {
+      "conclusion": "特斯拉限制员工AI支出",
+      "attractive": "每周200美元AI上限",
+      "minimal": "特斯拉AI支出限制",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T14:05:58.237807"
   }
 }

@@ -1,6 +1,143 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30548",
+      "channel": "xhqcankao",
+      "text": "阿里达摩院：AI自主发现4种全新超导材料7月3日消息，阿里达摩院宣布，其联合中国人民大学、中国科学院大学等机构研发的AI智能体 ElementsClaw，成功自主发现并实验验证了四种全新超导材料。据阿里达摩院介绍，ElementsClaw采用 “专通融合” 架构：基于1.25亿分子和晶体结构数据预训练出1B参数原子基础模型，预测超导性AUC达0.996，临界温度平均误差在1K以内。AI仅用28个GPU小时完成240万晶体结构筛选，预测出6.8万个超导候选材料。团队验证的4种材料包括Hf21Re25、Zr4VRe7、HfZrRe4和Zr3ScRe8，临界温度最高达6.5K。达摩院称，研究成果发表于arXiv预印本平台。",
+      "clean_text": "阿里达摩院：AI自主发现4种全新超导材料7月3日消息，阿里达摩院宣布，其联合中国人民大学、中国科学院大学等机构研发的AI智能体 ElementsClaw，成功自主发现并实验验证了四种全新超导材料。据阿里达摩院介绍，ElementsClaw采用 “专通融合” 架构：基于1.25亿分子和晶体结构数据预训练出1B参数原子基础模型，预测超导性AUC达0.996，临界温度平均误差在1K以内。AI仅用28个GPU小时完成240万晶体结构筛选，预测出6.8万个超导候选材料。团队验证的4种材料包括Hf21Re25、Zr4VRe7、HfZrRe4和Zr3ScRe8，临界温度最高达6.5K。达摩院称，研究成果发表于arXiv预印本平台。——凤凰网科技、arXiv",
+      "datetime": "2026-07-03T06:00:18+00:00",
+      "views": "125",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v0068hDJlomRLXZOnY3goIY2rJa70uVTAFiumUpTsLbu-_sDXI2yT3WBYC5y9heSO1Rxf"
+        },
+        {
+          "text": "arXiv",
+          "url": "https://arxiv.org/abs/2604.23758"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30548",
+      "scraped_at": "2026-07-03T14:01:17.187102",
+      "title": "AI发现4种新超导材料",
+      "title_options": {
+        "conclusion": "AI发现4种新超导材料",
+        "attractive": "28小时筛选240万晶体",
+        "minimal": "AI发现4种超导材料",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42326",
+      "channel": "zaihuapd",
+      "text": "Google 视频模型重回榜首，Gemini Omni Flash 登顶 Video ArenaGoogle DeepMind 公测视频生成模型 Gemini Omni Flash 以 1404 分登顶 Video Arena 盲测榜，领先第二名字节跳动 Seedance 2.0 Mini 达 101 分。Google 的视频模型排名也由 Veo 系列时期提升 7 位。Video Arena 根据用户盲测投票生成排名。此前，Seedance 系列长期占据榜单前列，其中 Seedance 2.0 Mini 以 1303 分位居第一。Design Arena·茶馆水群·",
+      "clean_text": "Google 视频模型重回榜首，Gemini Omni Flash 登顶 Video ArenaGoogle DeepMind 公测视频生成模型 Gemini Omni Flash 以 1404 分登顶 Video Arena 盲测榜，领先第二名字节跳动 Seedance 2.0 Mini 达 101 分。Google 的视频模型排名也由 Veo 系列时期提升 7 位。Video Arena 根据用户盲测投票生成排名。此前，Seedance 系列长期占据榜单前列，其中 Seedance 2.0 Mini 以 1303 分位居第一。Design Arena·茶馆水群",
+      "datetime": "2026-07-03T05:51:23+00:00",
+      "views": "1.68K",
+      "source_links": [
+        {
+          "text": "Design Arena",
+          "url": "https://x.com/Designarena/status/2072759122366509130"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42326",
+      "scraped_at": "2026-07-03T14:01:15.773719",
+      "title": "谷歌视频模型重回榜首",
+      "title_options": {
+        "conclusion": "谷歌视频模型重回榜首",
+        "attractive": "领先字节101分",
+        "minimal": "Gemini登顶"
+      }
+    },
+    {
+      "id": "xhqcankao_30547",
+      "channel": "xhqcankao",
+      "text": "扎克伯格：AI智能体开发速度不及预期扎克伯格周四在公司内部员工大会上说，尽管Meta正投入海量资源发展AI，但在过去4个月里，AI智能体的开发并没有像我们预期的那样加速。扎克伯格还补充称，公司近期的重组执行得不够 “干净利落”，高管们在调整的时间节点上出现了误判。扎克伯格还提到，今年一二月筹划重组之初，他与公司核心管理层沟通时，大家都担心企业调整步伐跟不上行业节奏。他表示，当时管理层对AI公司Anthropic推出的ClaudeCode这类工具十分乐观。但回过头来看，“我认为，至少在过去四个月里，智能体技术的发展轨迹并没有按照我们的预期加速，公司对新架构的布局目前也暂未见成效，”扎克伯格说。",
+      "clean_text": "扎克伯格：AI智能体开发速度不及预期扎克伯格周四在公司内部员工大会上说，尽管Meta正投入海量资源发展AI，但在过去4个月里，AI智能体的开发并没有像我们预期的那样加速。扎克伯格还补充称，公司近期的重组执行得不够 “干净利落”，高管们在调整的时间节点上出现了误判。扎克伯格还提到，今年一二月筹划重组之初，他与公司核心管理层沟通时，大家都担心企业调整步伐跟不上行业节奏。他表示，当时管理层对AI公司Anthropic推出的ClaudeCode这类工具十分乐观。但回过头来看，“我认为，至少在过去四个月里，智能体技术的发展轨迹并没有按照我们的预期加速，公司对新架构的布局目前也暂未见成效，”扎克伯格说。——财联社、路透社",
+      "datetime": "2026-07-03T05:33:59+00:00",
+      "views": "1.23K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2415999?sv=8.7.9"
+        },
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30547",
+      "scraped_at": "2026-07-03T14:01:17.186869",
+      "title": "扎克伯格称AI开发未达预期",
+      "title_options": {
+        "conclusion": "扎克伯格称AI开发未达预期",
+        "attractive": "Meta AI开发速度放缓",
+        "minimal": "AI智能体开发不及预期",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42325",
+      "channel": "zaihuapd",
+      "text": "iPhone 18 Pro 电池容量曝光，美国版增至 4288 mAhiPhone 18 Pro 中国实体 SIM 卡版电池容量或为 4056 mAh，较 iPhone 17 Pro 增加 68 mAh，增幅 1.7%；美国纯 eSIM 版或为 4288 mAh，增加 36 mAh，增幅 0.8%。美国版因取消实体 SIM 卡槽，电池容量仍高于中国版。MacRumors⁠·茶馆水群·",
+      "clean_text": "iPhone 18 Pro 电池容量曝光，美国版增至 4288 mAhiPhone 18 Pro 中国实体 SIM 卡版电池容量或为 4056 mAh，较 iPhone 17 Pro 增加 68 mAh，增幅 1.7%；美国纯 eSIM 版或为 4288 mAh，增加 36 mAh，增幅 0.8%。美国版因取消实体 SIM 卡槽，电池容量仍高于中国版。MacRumors⁠·茶馆水群",
+      "datetime": "2026-07-03T05:06:23+00:00",
+      "views": "5.32K",
+      "source_links": [
+        {
+          "text": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42325",
+      "scraped_at": "2026-07-03T14:01:15.773391",
+      "title": "iPhone 18 Pro电池曝光",
+      "title_options": {
+        "conclusion": "iPhone 18 Pro电池曝光",
+        "attractive": "美版电池比国版大",
+        "minimal": "iPhone 18 Pro电池"
+      }
+    },
+    {
+      "id": "xhqcankao_30546",
+      "channel": "xhqcankao",
+      "text": "特斯拉限制员工AI支出至多每周200美元AI正进入一个更为理性投入的时代。据特斯拉公司内部备忘录显示，从7月6日起，员工在人工智能方面的支出将限制在每周 200美元以内。此前，特斯拉一些团队甚至建立了内部仪表盘，根据员工的词元消耗量进行排名，以鼓励他们更多地使用词元。然而，这种鼓励措施可能过于激进。两位知情人士透露，有软件工程师每周消耗价值数千美元的词元。根据新政策，员工每周花费超过 200美元需要获得批准，不过备忘录指出，该限制政策不包括 xAI 产品的测试版。此外，这项政策的另一个有趣点在于，特斯拉并未限制 xAI 的使用，某种程度上是在引导特斯拉公司员工转向 xAI。",
+      "clean_text": "特斯拉限制员工AI支出至多每周200美元AI正进入一个更为理性投入的时代。据特斯拉公司内部备忘录显示，从7月6日起，员工在人工智能方面的支出将限制在每周 200美元以内。此前，特斯拉一些团队甚至建立了内部仪表盘，根据员工的词元消耗量进行排名，以鼓励他们更多地使用词元。然而，这种鼓励措施可能过于激进。两位知情人士透露，有软件工程师每周消耗价值数千美元的词元。根据新政策，员工每周花费超过 200美元需要获得批准，不过备忘录指出，该限制政策不包括 xAI 产品的测试版。此外，这项政策的另一个有趣点在于，特斯拉并未限制 xAI 的使用，某种程度上是在引导特斯拉公司员工转向 xAI。——财联社",
+      "datetime": "2026-07-03T05:04:41+00:00",
+      "views": "2.01K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2416224?sv=8.5.9&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30546",
+      "scraped_at": "2026-07-03T14:01:17.186639",
+      "title": "特斯拉限制员工AI支出",
+      "title_options": {
+        "conclusion": "特斯拉限制员工AI支出",
+        "attractive": "每周200美元AI上限",
+        "minimal": "特斯拉AI支出限制",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30545",
       "channel": "xhqcankao",
       "text": "亚马逊Leo低轨卫星互联网今年稍晚上线亚马逊表示，公司目前已在太空轨道部署足够数量的卫星，有望于今年晚些时候正式推出 Amazon Leo低轨卫星互联网的“初期服务”。亚马逊于美东时间周四凌晨12点30分左右，通过联合发射联盟的 Atlas V 火箭将29枚卫星送入轨道。完成此次任务后，Leo卫星总数已超过390枚。 Leo 业务与产品副总裁克里斯·韦伯在 X平台表示，目前卫星数量已足以在首批服务区域提供持续性的网络服务。这对亚马逊公司而言是一项重要里程碑，公司正积极让Leo成为星链在低轨卫星市场的竞争对手。去年11月，亚马逊已针对部分企业客户推出 Leo “企业预览版”，但尚未向普通消费者及政府客户提供服务。",
@@ -1437,60 +1574,6 @@
       }
     },
     {
-      "id": "zaihuapd_42304",
-      "channel": "zaihuapd",
-      "text": "阿里巴巴及支付服务商支付 6 亿美元解决美国调查阿里巴巴及其美国支付服务商 AUS Merchant Services 同意支付合计 6 亿美元，与美国司法部就非法药品和制药设备销售问题达成和解。两家公司将分别签署不起诉协议，并加强合规措施。相关交易发生在 2016 年至 2024 年间，涉及约 8 万笔违反美国法律的商品销售。AUS Merchant Services 还承认，其反洗钱体系未能阻止商户通过支付服务完成相关交易。彭博社⁠·茶馆水群·",
-      "clean_text": "阿里巴巴及支付服务商支付 6 亿美元解决美国调查阿里巴巴及其美国支付服务商 AUS Merchant Services 同意支付合计 6 亿美元，与美国司法部就非法药品和制药设备销售问题达成和解。两家公司将分别签署不起诉协议，并加强合规措施。相关交易发生在 2016 年至 2024 年间，涉及约 8 万笔违反美国法律的商品销售。AUS Merchant Services 还承认，其反洗钱体系未能阻止商户通过支付服务完成相关交易。彭博社⁠·茶馆水群",
-      "datetime": "2026-07-02T02:02:02+00:00",
-      "views": "4.91K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/alibiba-payment-firm-will-pay-600-million-to-resolve-us-probe"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42304",
-      "scraped_at": "2026-07-02T11:00:40.242204",
-      "title": "阿里支付6亿美元和解",
-      "title_options": {
-        "conclusion": "阿里支付6亿美元和解",
-        "attractive": "阿里支付6亿解决调查",
-        "minimal": "阿里6亿美元和解",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30510",
-      "channel": "xhqcankao",
-      "text": "币安因未取得牌照停止在欧盟提供服务全球最大的加密货币交易所币安未能获得欧盟的运营牌照。此前，一家关键监管机构对该交易所过往的金融犯罪违规记录表达了担忧。币安上周表示，已撤回在希腊提交的牌照申请。根据欧盟新的加密货币法规，如果该申请获批，币安本可从七月起在整个欧盟境内提供服务。据知情人士透露，欧盟市场监管机构曾私下建议各国监管机构拒绝币安的任何申请，理由是担忧这家交易所在防范金融犯罪方面的合规表现。希腊监管机构未在7月1日的最后期限前批准币安的申请，而根据规定，未获牌照的加密货币公司必须在该期限前逐步结束当地业务。币安表示，接下来将在欧盟其他地方申请牌照。",
-      "clean_text": "币安因未取得牌照停止在欧盟提供服务全球最大的加密货币交易所币安未能获得欧盟的运营牌照。此前，一家关键监管机构对该交易所过往的金融犯罪违规记录表达了担忧。币安上周表示，已撤回在希腊提交的牌照申请。根据欧盟新的加密货币法规，如果该申请获批，币安本可从七月起在整个欧盟境内提供服务。据知情人士透露，欧盟市场监管机构曾私下建议各国监管机构拒绝币安的任何申请，理由是担忧这家交易所在防范金融犯罪方面的合规表现。希腊监管机构未在7月1日的最后期限前批准币安的申请，而根据规定，未获牌照的加密货币公司必须在该期限前逐步结束当地业务。币安表示，接下来将在欧盟其他地方申请牌照。——华尔街日报",
-      "datetime": "2026-07-02T02:01:12+00:00",
-      "views": "2.13K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/%E5%B8%81%E5%AE%89%E5%9B%A0%E6%9C%AA%E5%8F%96%E5%BE%97%E7%89%8C%E7%85%A7%E5%81%9C%E6%AD%A2%E5%9C%A8%E6%AC%A7%E7%9B%9F%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1-0e1ebfc2?mod=cn_hp_featst_pos1"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30510",
-      "scraped_at": "2026-07-02T11:00:41.516538",
-      "title": "币安因无牌照停止欧盟服务",
-      "title_options": {
-        "conclusion": "币安因无牌照停止欧盟服务",
-        "attractive": "币安退出欧盟，牌照申请被拒",
-        "minimal": "币安 欧盟 停运 无牌照",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1521,6 +1604,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-03T14:00:51.881561"
+  "count": 60,
+  "updated_at": "2026-07-03T14:05:58.267565"
 }
