@@ -1535,45 +1535,6 @@
       }
     },
     {
-      "id": "zaihuapd_42305",
-      "channel": "zaihuapd",
-      "text": "Meta 拟出售富余 AI 算力，进军云计算市场韩国股市 7 月 2 日大跌，Kospi 指数盘中最多跌 7%，三星电子和 SK 海力士一度都跌至少 8%，韩国交易所还一度暂停 Kospi 期货的程序化卖出。这轮抛售与两则 AI 相关消息叠加有关：Meta 正筹划向外部客户出售多余的 AI 算力和模型服务，市场担心 Meta 和其他大公司在 AI 上的投入可能放缓，AI 上游投入乃至产能整体可能过剩；同时苹果则在洽谈向两家中国存储芯片厂采购面向中国市场设备所用芯片，此举引发对三星和 SK 海力士在内存竞争优势的担忧。Bloomberg(1,2,3)·茶馆水群·",
-      "clean_text": "Meta 拟出售富余 AI 算力，进军云计算市场韩国股市 7 月 2 日大跌，Kospi 指数盘中最多跌 7%，三星电子和 SK 海力士一度都跌至少 8%，韩国交易所还一度暂停 Kospi 期货的程序化卖出。这轮抛售与两则 AI 相关消息叠加有关：Meta 正筹划向外部客户出售多余的 AI 算力和模型服务，市场担心 Meta 和其他大公司在 AI 上的投入可能放缓，AI 上游投入乃至产能整体可能过剩；同时苹果则在洽谈向两家中国存储芯片厂采购面向中国市场设备所用芯片，此举引发对三星和 SK 海力士在内存竞争优势的担忧。Bloomberg(1,2,3)·茶馆水群",
-      "datetime": "2026-07-02T02:29:45+00:00",
-      "views": "3.06K",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers"
-        },
-        {
-          "text": "2",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute"
-        },
-        {
-          "text": "3",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42305",
-      "scraped_at": "2026-07-02T11:00:40.242527",
-      "title": "Meta拟出售AI算力",
-      "title_options": {
-        "conclusion": "Meta拟出售AI算力",
-        "attractive": "AI算力过剩？Meta卖云",
-        "minimal": "Meta卖算力",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1604,6 +1565,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-03T14:26:13.789311"
+  "count": 59,
+  "updated_at": "2026-07-03T14:31:17.537743"
 }
