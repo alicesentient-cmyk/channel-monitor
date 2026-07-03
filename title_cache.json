@@ -12768,5 +12768,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T08:01:46.847064"
+  },
+  "zaihuapd_42318": {
+    "ai_title": "kernel.org镜像故障恢复中",
+    "title_options": {
+      "conclusion": "kernel.org镜像故障恢复中",
+      "attractive": "pub目录变空数据未丢",
+      "minimal": "镜像故障/pub恢复",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T09:07:28.666497"
+  },
+  "xhqcankao_30538": {
+    "ai_title": "Pixel 7-9获内核更新",
+    "title_options": {
+      "conclusion": "Pixel 7-9获内核更新",
+      "attractive": "Pixel 7-9内核升级",
+      "minimal": "Pixel 7-9内核6.12",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T09:07:28.845161"
+  },
+  "xhqcankao_30537": {
+    "ai_title": "Anthropic与三星洽谈AI芯片",
+    "title_options": {
+      "conclusion": "Anthropic与三星洽谈AI芯片",
+      "attractive": "Anthropic自研芯片，三星代工？",
+      "minimal": "Anthropic三星芯片合作",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T09:07:29.060340"
+  },
+  "xhqcankao_30536": {
+    "ai_title": "全球百万富翁新增百万",
+    "title_options": {
+      "conclusion": "全球百万富翁新增百万",
+      "attractive": "美国日增1200名百万富翁",
+      "minimal": "百万富翁 新增 百万",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T09:07:29.733525"
   }
 }

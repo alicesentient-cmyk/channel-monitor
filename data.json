@@ -1,6 +1,118 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30538",
+      "channel": "xhqcankao",
+      "text": "Pixel 7/8/9即将迎来Linux 6.12内核更新看起来谷歌Pixel手机即将迎来又一次内核升级。一则新的爆料声称，谷歌正准备为Pixel 7、8、9和10系列手机更新 Android 所基于的 Linux 内核，虽然内核升级不会带来面向用户的新功能，但Pixel手机将升级到的版本仍可能带来性能改进。Mystic Leaks电报频道中的一则帖子声称，大多数搭载Tensor芯片的Pixel手机将很快收到内核版本6.12的升级。根据该爆料，Pixel 6手机将不会获得此更新。Pixel 7、Pixel 8和Pixel 9手机目前处于6.1-android14，而Pixel 10系列手机处于 6.6-android15 。一旦更新落地，它们应该都会使用 6.12-android16 内核版本。",
+      "clean_text": "Pixel 7/8/9即将迎来Linux 6.12内核更新看起来谷歌Pixel手机即将迎来又一次内核升级。一则新的爆料声称，谷歌正准备为Pixel 7、8、9和10系列手机更新 Android 所基于的 Linux 内核，虽然内核升级不会带来面向用户的新功能，但Pixel手机将升级到的版本仍可能带来性能改进。Mystic Leaks电报频道中的一则帖子声称，大多数搭载Tensor芯片的Pixel手机将很快收到内核版本6.12的升级。根据该爆料，Pixel 6手机将不会获得此更新。Pixel 7、Pixel 8和Pixel 9手机目前处于6.1-android14，而Pixel 10系列手机处于 6.6-android15 。一旦更新落地，它们应该都会使用 6.12-android16 内核版本。——Androidauthority",
+      "datetime": "2026-07-03T00:54:34+00:00",
+      "views": "550",
+      "source_links": [
+        {
+          "text": "Androidauthority",
+          "url": "https://www.androidauthority.com/pixel-kernel-6-12-leak-3683790"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30538",
+      "scraped_at": "2026-07-03T09:06:05.617089",
+      "title": "Pixel 7-9获内核更新",
+      "title_options": {
+        "conclusion": "Pixel 7-9获内核更新",
+        "attractive": "Pixel 7-9内核升级",
+        "minimal": "Pixel 7-9内核6.12",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30537",
+      "channel": "xhqcankao",
+      "text": "Anthropic正与三星洽谈定制人工智能芯片据三位知情人士透露， Anthropic 公司已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。Anthropic表示，亚马逊的Trainium芯片、谷歌的张量处理单元（TPU）以及英伟达的图形处理器将继续作为其计算战略的核心；该公司拒绝就其芯片相关计划置评。",
+      "clean_text": "Anthropic正与三星洽谈定制人工智能芯片据三位知情人士透露， Anthropic 公司已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。Anthropic表示，亚马逊的Trainium芯片、谷歌的张量处理单元（TPU）以及英伟达的图形处理器将继续作为其计算战略的核心；该公司拒绝就其芯片相关计划置评。——彭博社",
+      "datetime": "2026-07-03T00:32:15+00:00",
+      "views": "1.17K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30537",
+      "scraped_at": "2026-07-03T09:06:05.616882",
+      "title": "Anthropic与三星洽谈AI芯片",
+      "title_options": {
+        "conclusion": "Anthropic与三星洽谈AI芯片",
+        "attractive": "Anthropic自研芯片，三星代工？",
+        "minimal": "Anthropic三星芯片合作",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42318",
+      "channel": "zaihuapd",
+      "text": "kernel.org镜像基础设施出错致 /pub 目录变空，数据未丢失正在恢复7 月 2 日，Linux 内核开发者 K. Ryabitsev-Prime 发文称，kernel.org的主/从镜像基础设施在切换过程中出现意外错误，导致 /pub 目录突然变空。他强调没有数据丢失，受影响的只是公开镜像副本，目前正在进行恢复。由于删除操作很快而恢复过程较慢，完成修复需要一些时间。用户可通过 Linux Foundation 官方状态页面跟踪此次事件的最新进展。social.kernel.org|status.linuxfoundation.org·茶馆水群·",
+      "clean_text": "kernel.org镜像基础设施出错致 /pub 目录变空，数据未丢失正在恢复7 月 2 日，Linux 内核开发者 K. Ryabitsev-Prime 发文称，kernel.org的主/从镜像基础设施在切换过程中出现意外错误，导致 /pub 目录突然变空。他强调没有数据丢失，受影响的只是公开镜像副本，目前正在进行恢复。由于删除操作很快而恢复过程较慢，完成修复需要一些时间。用户可通过 Linux Foundation 官方状态页面跟踪此次事件的最新进展。social.kernel.org|status.linuxfoundation.org·茶馆水群",
+      "datetime": "2026-07-03T00:28:02+00:00",
+      "views": "2.72K",
+      "source_links": [
+        {
+          "text": "kernel.org",
+          "url": "http://kernel.org/"
+        },
+        {
+          "text": "kernel.org",
+          "url": "http://kernel.org/"
+        },
+        {
+          "text": "social.kernel.org",
+          "url": "https://social.kernel.org/notice/B7viUNMy1UsGX9pwHY"
+        },
+        {
+          "text": "status.linuxfoundation.org",
+          "url": "https://status.linuxfoundation.org/incidents/3y1k8b4ky71t"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42318",
+      "scraped_at": "2026-07-03T09:06:04.323288",
+      "title": "kernel.org镜像故障恢复中",
+      "title_options": {
+        "conclusion": "kernel.org镜像故障恢复中",
+        "attractive": "pub目录变空数据未丢",
+        "minimal": "镜像故障/pub恢复",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30536",
+      "channel": "xhqcankao",
+      "text": "瑞银：AI重塑全球财富版图 2025年全球近百万人成为百万富翁根据瑞银(UBS)本周发布的一份报告，2025年全球约有100万人跻身百万 (美元) 富翁行列，其中近一半来自美国。报告预计，美国去年平均每天新增逾1200名百万富翁，全年新增约44.1万人，占全球新增人数近一半。瑞银数据显示，在股市上涨带动下，2025年全球个人财富增长10.8%，创下2017年以来最大年度增幅，也超过2024年和2023年增速的两倍。不过，财富总量的快速增长掩盖了财富分配进一步失衡的现实。瑞银追踪的56个市场中，大多数经济体的成年人财富中位数出现下降。瑞银估计，目前全球约有5800万名百万富翁，他们合计拥有约250.6万亿美元财富，占全球财富总量的近一半。",
+      "clean_text": "瑞银：AI重塑全球财富版图 2025年全球近百万人成为百万富翁根据瑞银(UBS)本周发布的一份报告，2025年全球约有100万人跻身百万 (美元) 富翁行列，其中近一半来自美国。报告预计，美国去年平均每天新增逾1200名百万富翁，全年新增约44.1万人，占全球新增人数近一半。瑞银数据显示，在股市上涨带动下，2025年全球个人财富增长10.8%，创下2017年以来最大年度增幅，也超过2024年和2023年增速的两倍。不过，财富总量的快速增长掩盖了财富分配进一步失衡的现实。瑞银追踪的56个市场中，大多数经济体的成年人财富中位数出现下降。瑞银估计，目前全球约有5800万名百万富翁，他们合计拥有约250.6万亿美元财富，占全球财富总量的近一半。——财联社",
+      "datetime": "2026-07-03T00:03:09+00:00",
+      "views": "1.57K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2415901?sv=8.7.6&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30536",
+      "scraped_at": "2026-07-03T09:06:05.616667",
+      "title": "全球百万富翁新增百万",
+      "title_options": {
+        "conclusion": "全球百万富翁新增百万",
+        "attractive": "美国日增1200名百万富翁",
+        "minimal": "百万富翁 新增 百万",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30535",
       "channel": "xhqcankao",
       "text": "苹果把折叠屏iPhone备货预期调至1000万台知情人士称，苹果已经要求供应商为今年生产约 1000万台可折叠iPhone做好准备，这一数字高于几个月前预计的 700万至 800万台。苹果在解决可折叠iPhone铰链相关技术问题方面已取得进展，因此能够在秋季发布后立即开始小批量发货。但由于可折叠设备在制造工艺上还存在诸多挑战，大规模生产很可能要等到年底才能实现。整体来看，苹果此前已经为2026年下半年即将推出的首款折叠屏，以及iPhone 18 Pro/Pro Max预订了能够生产八千万台智能手机的零部件。消息显示，苹果已经向部分供应商透露，下半年新款iPhone的产量可能高达8500万台。",
@@ -1246,6 +1358,6 @@
       }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-07-03T09:02:24.630968"
+  "count": 52,
+  "updated_at": "2026-07-03T09:07:29.752786"
 }
