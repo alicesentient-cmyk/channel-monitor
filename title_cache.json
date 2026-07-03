@@ -12878,5 +12878,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T11:03:45.108469"
+  },
+  "xhqcankao_30543": {
+    "ai_title": "Opera新增剪贴板保护",
+    "title_options": {
+      "conclusion": "Opera新增剪贴板保护",
+      "attractive": "防恶意粘贴命令",
+      "minimal": "Opera剪贴板保护",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T12:04:25.294408"
+  },
+  "zaihuapd_42323": {
+    "ai_title": "腾讯暑期AI防沉迷升级",
+    "title_options": {
+      "conclusion": "腾讯暑期AI防沉迷升级",
+      "attractive": "声纹检测打击冒用账号",
+      "minimal": "AI防沉迷声纹检测",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T12:04:25.323219"
   }
 }
