@@ -13023,5 +13023,25 @@
       "minimal": "希腊政客手机被黑"
     },
     "generated_at": "2026-07-03T16:02:29.319911"
+  },
+  "zaihuapd_42329": {
+    "ai_title": "华为发布Atlas 350加速卡",
+    "title_options": {
+      "conclusion": "华为发布Atlas 350加速卡",
+      "attractive": "算力达H20近三倍",
+      "minimal": "华为Atlas 350",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T17:03:15.887091"
+  },
+  "xhqcankao_30552": {
+    "ai_title": "三星Q3通用DRAM拟涨价20%",
+    "title_options": {
+      "conclusion": "三星Q3通用DRAM拟涨价20%",
+      "attractive": "三星DRAM涨价20%谈判开启",
+      "minimal": "三星DRAM涨价20%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T17:03:16.283067"
   }
 }
