@@ -1,6 +1,56 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30535",
+      "channel": "xhqcankao",
+      "text": "苹果把折叠屏iPhone备货预期调至1000万台知情人士称，苹果已经要求供应商为今年生产约 1000万台可折叠iPhone做好准备，这一数字高于几个月前预计的 700万至 800万台。苹果在解决可折叠iPhone铰链相关技术问题方面已取得进展，因此能够在秋季发布后立即开始小批量发货。但由于可折叠设备在制造工艺上还存在诸多挑战，大规模生产很可能要等到年底才能实现。整体来看，苹果此前已经为2026年下半年即将推出的首款折叠屏，以及iPhone 18 Pro/Pro Max预订了能够生产八千万台智能手机的零部件。消息显示，苹果已经向部分供应商透露，下半年新款iPhone的产量可能高达8500万台。",
+      "clean_text": "苹果把折叠屏iPhone备货预期调至1000万台知情人士称，苹果已经要求供应商为今年生产约 1000万台可折叠iPhone做好准备，这一数字高于几个月前预计的 700万至 800万台。苹果在解决可折叠iPhone铰链相关技术问题方面已取得进展，因此能够在秋季发布后立即开始小批量发货。但由于可折叠设备在制造工艺上还存在诸多挑战，大规模生产很可能要等到年底才能实现。整体来看，苹果此前已经为2026年下半年即将推出的首款折叠屏，以及iPhone 18 Pro/Pro Max预订了能够生产八千万台智能手机的零部件。消息显示，苹果已经向部分供应商透露，下半年新款iPhone的产量可能高达8500万台。——财联社",
+      "datetime": "2026-07-02T23:31:34+00:00",
+      "views": "772",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2415328?sv=8.5.9&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30535",
+      "scraped_at": "2026-07-03T08:00:39.095010",
+      "title": "苹果折叠屏备货调至1000万",
+      "title_options": {
+        "conclusion": "苹果折叠屏备货调至1000万",
+        "attractive": "折叠iPhone备货激增300万",
+        "minimal": "苹果折叠屏1000万备货",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30534",
+      "channel": "xhqcankao",
+      "text": "微软组建6000人团队 加速企业AI部署战略微软正投入25亿美元成立一家新的独立运营实体，旨在帮助企业企业理解并应用快速发展的生成式AI技术。据公司周四宣布，新公司名为Microsoft Frontier Company，由微软提供25亿美元初始资金启动，将有约六千名员工直接嵌入客户企业内部，这种模式被称为“前沿部署工程”(FDE)。该部门将整合微软现有的FDE工程师、技术顾问、支持人员以及具备行业经验的销售团队。该部门负责人将由现任微软亚洲业务主管Rodrigo Kede Lima出任。微软表示，Frontier Company将为客户提供AI技术选型与系统集成服务，涵盖微软自有模型及外部模型，并与企业自身的专有数据进行深度结合。",
+      "clean_text": "微软组建6000人团队 加速企业AI部署战略微软正投入25亿美元成立一家新的独立运营实体，旨在帮助企业企业理解并应用快速发展的生成式AI技术。据公司周四宣布，新公司名为Microsoft Frontier Company，由微软提供25亿美元初始资金启动，将有约六千名员工直接嵌入客户企业内部，这种模式被称为“前沿部署工程”(FDE)。该部门将整合微软现有的FDE工程师、技术顾问、支持人员以及具备行业经验的销售团队。该部门负责人将由现任微软亚洲业务主管Rodrigo Kede Lima出任。微软表示，Frontier Company将为客户提供AI技术选型与系统集成服务，涵盖微软自有模型及外部模型，并与企业自身的专有数据进行深度结合。——财联社、彭博社",
+      "datetime": "2026-07-02T23:01:38+00:00",
+      "views": "1.12K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2415857?sv=8.5.9&amp;"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30534",
+      "scraped_at": "2026-07-03T08:00:39.094794",
+      "title": "微软组建6000人AI团队",
+      "title_options": {
+        "conclusion": "微软组建6000人AI团队",
+        "attractive": "微软投25亿加速企业AI",
+        "minimal": "微软6000人AI部署",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42317",
       "channel": "zaihuapd",
       "text": "Anthropic 洽谈由三星代工自研 AI 芯片Anthropic 已开始开发自有 AI 芯片，并与三星电子洽谈潜在制造合作。此举旨在加强对 Claude 模型底层计算系统的控制，方向与 OpenAI 的芯片计划类似。目前项目仍处于早期阶段。相比已推进自研服务器芯片的其他公司，Anthropic 入场时间较晚。The Information⁠·茶馆水群·",
@@ -1196,6 +1246,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-07-03T07:56:42.780060"
+  "count": 48,
+  "updated_at": "2026-07-03T08:01:46.867346"
 }
