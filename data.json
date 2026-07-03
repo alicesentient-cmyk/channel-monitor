@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42342",
+      "channel": "zaihuapd",
+      "text": "腾讯玄武实验室阿图因 AI 在 CyberGym 测试中超越 Mythos腾讯玄武实验室宣布，其研发的阿图因 AI 在加州大学伯克利分校主导的 CyberGym 网络安全基准测试中获得 84.0% 的得分，超过 Anthropic 的 Claude Mythos Preview。该工具基于可本地部署的开源模型 GLM-5.1 构建，消耗的预算不到 Mythos「玻璃翼计划」的 0.1%。阿图因 AI 还在 curl、gnark、OpenSSL、Python cryptography、Java bc-java 等重要项目中发现了多个 Mythos 未检出的高危逻辑漏洞，评分最高达 9.3。在伯克利 BVI 真实世界漏洞榜单中，阿图因 AI 的严重漏洞严重程度排名第 1，总数排名第 5。腾讯玄武实验室·茶馆水群·",
+      "clean_text": "腾讯玄武实验室阿图因 AI 在 CyberGym 测试中超越 Mythos腾讯玄武实验室宣布，其研发的阿图因 AI 在加州大学伯克利分校主导的 CyberGym 网络安全基准测试中获得 84.0% 的得分，超过 Anthropic 的 Claude Mythos Preview。该工具基于可本地部署的开源模型 GLM-5.1 构建，消耗的预算不到 Mythos「玻璃翼计划」的 0.1%。阿图因 AI 还在 curl、gnark、OpenSSL、Python cryptography、Java bc-java 等重要项目中发现了多个 Mythos 未检出的高危逻辑漏洞，评分最高达 9.3。在伯克利 BVI 真实世界漏洞榜单中，阿图因 AI 的严重漏洞严重程度排名第 1，总数排名第 5。腾讯玄武实验室·茶馆水群",
+      "datetime": "2026-07-03T16:12:41+00:00",
+      "views": "3.63K",
+      "source_links": [
+        {
+          "text": "腾讯玄武实验室",
+          "url": "https://mp.weixin.qq.com/s/BzU7g-2iG7d6h4ViwMhxyg"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42342",
+      "scraped_at": "2026-07-04T01:00:41.266111",
+      "title": "腾讯AI超越Mythos",
+      "title_options": {
+        "conclusion": "腾讯AI超越Mythos",
+        "attractive": "0.1%预算击败对手",
+        "minimal": "腾讯AI超越Mythos",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42341",
       "channel": "zaihuapd",
       "text": "NASA 发射“救援卫星”，抢救即将坠落的太空望远镜NASA 于 7 月 3 日发射 LINK 航天器，准备在太空中抓住运行超过 20 年的“雨燕”空间望远镜，并将其抬升至更安全的轨道。受太阳活动影响，“雨燕”轨道持续下降，若不干预，最快可能在今年 10 月坠入大气层烧毁。LINK 将用机械臂固定望远镜，再通过推进器缓慢抬升约 240 公里。任务成功后，“雨燕”最快可于 9 月恢复观测，这也将成为私人航天器首次尝试抓取美国政府的无人卫星。美联社｜Space.com·茶馆水群·",
@@ -1304,6 +1335,6 @@
       }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-07-04T01:00:03.182328"
+  "count": 49,
+  "updated_at": "2026-07-04T01:05:11.036372"
 }
