@@ -12828,5 +12828,55 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-03T10:03:04.171907"
+  },
+  "zaihuapd_42322": {
+    "ai_title": "马斯克：AI让工作可选",
+    "title_options": {
+      "conclusion": "马斯克：AI让工作可选",
+      "attractive": "工作不再是必需？",
+      "minimal": "AI机器人工作可选",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T11:03:43.865764"
+  },
+  "xhqcankao_30542": {
+    "ai_title": "特朗普爆买科技股",
+    "title_options": {
+      "conclusion": "特朗普爆买科技股",
+      "attractive": "关税取消前日买入",
+      "minimal": "特朗普 买入 科技股",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T11:03:43.948742"
+  },
+  "xhqcankao_30541": {
+    "ai_title": "美政府遭黑客攻击",
+    "title_options": {
+      "conclusion": "美政府遭黑客攻击",
+      "attractive": "黑客入侵美情报网",
+      "minimal": "美黑客攻击",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T11:03:44.005867"
+  },
+  "xhqcankao_30540": {
+    "ai_title": "特斯拉撞民宅致1死",
+    "title_options": {
+      "conclusion": "特斯拉撞民宅致1死",
+      "attractive": "FSD模式下超速撞人",
+      "minimal": "特斯拉撞人致死",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T11:03:45.076209"
+  },
+  "zaihuapd_42321": {
+    "ai_title": "黄仁勋签名皮衣估价6万美元",
+    "title_options": {
+      "conclusion": "黄仁勋签名皮衣估价6万美元",
+      "attractive": "黄仁勋旧皮衣拍卖价超40万",
+      "minimal": "黄仁勋皮衣拍卖",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-03T11:03:45.108469"
   }
 }
