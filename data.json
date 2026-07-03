@@ -1325,31 +1325,8 @@
         "minimal": "Optimus产线已就绪",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30531",
-      "channel": "xhqcankao",
-      "text": "企业因为费用太高正在限制员工使用AI据从包括Atlassian、Adobe和亚马逊在内的六家公司获取的泄露Slack聊天记录、内部仪表板截图、电子邮件等更多材料，科技、娱乐、银行业以及许多其他行业的公司正在限制员工使用AI，并恳求员工使用性能较低的模型，以防止AI成本失控。至少在一个案例中，AI支出已增长两倍，达到每月超过1500万美元。这一消息显示出企业尽快采用AI所带来的潜在后果，以及AI供应商根据企业使用AI的量而非固定费用来收费的做法所带来的影响。电子邮件甚至显示，一些公司完全切断了对某些AI模型的访问权限，以试图停止消耗其AI词元，而像Adobe这样的大型科企也正在终止对Claude的无限制访问。",
-      "clean_text": "企业因为费用太高正在限制员工使用AI据从包括Atlassian、Adobe和亚马逊在内的六家公司获取的泄露Slack聊天记录、内部仪表板截图、电子邮件等更多材料，科技、娱乐、银行业以及许多其他行业的公司正在限制员工使用AI，并恳求员工使用性能较低的模型，以防止AI成本失控。至少在一个案例中，AI支出已增长两倍，达到每月超过1500万美元。这一消息显示出企业尽快采用AI所带来的潜在后果，以及AI供应商根据企业使用AI的量而非固定费用来收费的做法所带来的影响。电子邮件甚至显示，一些公司完全切断了对某些AI模型的访问权限，以试图停止消耗其AI词元，而像Adobe这样的大型科企也正在终止对Claude的无限制访问。——404media",
-      "datetime": "2026-07-02T12:30:23+00:00",
-      "views": "1.91K",
-      "source_links": [
-        {
-          "text": "404media",
-          "url": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30531",
-      "scraped_at": "2026-07-02T21:01:15.049317",
-      "title": "企业因成本限制员工用AI",
-      "title_options": {
-        "conclusion": "企业因成本限制员工用AI",
-        "attractive": "AI支出月超1500万美元",
-        "minimal": "企业限制AI使用",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-04T00:29:42.147229"
+  "count": 49,
+  "updated_at": "2026-07-04T00:34:45.477006"
 }
