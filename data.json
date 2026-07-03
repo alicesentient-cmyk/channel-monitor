@@ -1508,24 +1508,6 @@
       }
     },
     {
-      "id": "zaihuapd_42306",
-      "channel": "zaihuapd",
-      "text": "张雪峰讣告  张雪峰老师因心源性猝死全力抢救无效，于2026年3月24日15时50分在苏州逝世。  张雪峰老师  此前消息：网传张雪峰本人心脏骤停生死未卜，助理表示暂不知情（来源已失效）其各平台主页陆续变灰｜｜",
-      "clean_text": "张雪峰讣告  张雪峰老师因心源性猝死全力抢救无效，于2026年3月24日15时50分在苏州逝世。  张雪峰老师  此前消息：网传张雪峰本人心脏骤停生死未卜，助理表示暂不知情（来源已失效）其各平台主页陆续变灰｜茶馆讨论｜投稿通道",
-      "datetime": "2026-07-02T03:31:27+00:00",
-      "views": "3.97K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42306",
-      "scraped_at": "2026-07-02T12:00:35.578602",
-      "title": "张雪峰因心源性猝死逝世",
-      "title_options": {
-        "conclusion": "张雪峰因心源性猝死逝世",
-        "attractive": "张雪峰逝世，年仅？",
-        "minimal": "张雪峰逝世",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42275",
       "channel": "zaihuapd",
       "text": "谷歌开放 Nano Banana 2 Lite 和 Gemini Omni Flash：4 秒出图、10 秒视频生成Google 推出两项生成媒体模型更新：Nano Banana 2 Lite 面向高速图像生成，文本生成图像延迟为 4 秒，1K 图像成本为 0.034 美元，已在 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 开放，并将进入搜索 AI Mode、Gemini app 等消费端产品。Gemini Omni Flash 首次向开发者开放，支持用文本、图像和视频输入生成视频并进行自然语言编辑，视频输出价格为每秒 0.10 美元。该模型目前生成 10 秒视频；在 API 中暂不支持音频参考和场景延展，视频参考与跨场景角色一致性仍有限。Google·茶馆水群·",
@@ -1556,6 +1538,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-03T15:27:00.023456"
+  "count": 58,
+  "updated_at": "2026-07-03T15:32:03.918910"
 }
