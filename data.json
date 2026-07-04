@@ -524,39 +524,8 @@
         "minimal": "特朗普 马斯克 捐股票",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42342",
-      "channel": "zaihuapd",
-      "text": "腾讯玄武实验室阿图因 AI 在 CyberGym 测试中超越 Mythos腾讯玄武实验室宣布，其研发的阿图因 AI 在加州大学伯克利分校主导的 CyberGym 网络安全基准测试中获得 84.0% 的得分，超过 Anthropic 的 Claude Mythos Preview。该工具基于可本地部署的开源模型 GLM-5.1 构建，消耗的预算不到 Mythos「玻璃翼计划」的 0.1%。阿图因 AI 还在 curl、gnark、OpenSSL、Python cryptography、Java bc-java 等重要项目中发现了多个 Mythos 未检出的高危逻辑漏洞，评分最高达 9.3。在伯克利 BVI 真实世界漏洞榜单中，阿图因 AI 的严重漏洞严重程度排名第 1，总数排名第 5。腾讯玄武实验室·茶馆水群·",
-      "clean_text": "腾讯玄武实验室阿图因 AI 在 CyberGym 测试中超越 Mythos腾讯玄武实验室宣布，其研发的阿图因 AI 在加州大学伯克利分校主导的 CyberGym 网络安全基准测试中获得 84.0% 的得分，超过 Anthropic 的 Claude Mythos Preview。该工具基于可本地部署的开源模型 GLM-5.1 构建，消耗的预算不到 Mythos「玻璃翼计划」的 0.1%。阿图因 AI 还在 curl、gnark、OpenSSL、Python cryptography、Java bc-java 等重要项目中发现了多个 Mythos 未检出的高危逻辑漏洞，评分最高达 9.3。在伯克利 BVI 真实世界漏洞榜单中，阿图因 AI 的严重漏洞严重程度排名第 1，总数排名第 5。腾讯玄武实验室·茶馆水群",
-      "datetime": "2026-07-03T16:12:41+00:00",
-      "views": "3.63K",
-      "source_links": [
-        {
-          "text": "腾讯玄武实验室",
-          "url": "https://mp.weixin.qq.com/s/BzU7g-2iG7d6h4ViwMhxyg"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42342",
-      "scraped_at": "2026-07-04T01:00:41.266111",
-      "title": "腾讯AI超越Mythos",
-      "title_options": {
-        "conclusion": "腾讯AI超越Mythos",
-        "attractive": "0.1%预算击败对手",
-        "minimal": "腾讯AI超越Mythos",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 22,
-  "updated_at": "2026-07-05T04:10:53.569228"
+  "count": 21,
+  "updated_at": "2026-07-05T04:14:54.851061"
 }
