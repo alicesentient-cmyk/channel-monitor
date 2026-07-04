@@ -13231,5 +13231,25 @@
       "minimal": "任天堂Switch2涨价"
     },
     "generated_at": "2026-07-04T12:02:06.065305"
+  },
+  "zaihuapd_42346": {
+    "ai_title": "华为发布韬定律",
+    "title_options": {
+      "conclusion": "华为发布韬定律",
+      "attractive": "华为新芯片逻辑折叠",
+      "minimal": "韬定律半导体",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-04T13:02:55.734325"
+  },
+  "xhqcankao_30560": {
+    "ai_title": "特朗普不设AI审批机构",
+    "title_options": {
+      "conclusion": "特朗普不设AI审批机构",
+      "attractive": "AI革命无需律师团队",
+      "minimal": "特朗普AI无审批",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-04T13:02:55.846305"
   }
 }
