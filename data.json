@@ -752,65 +752,8 @@
         "minimal": "华为Atlas 350",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30551",
-      "channel": "xhqcankao",
-      "text": "阿里为何禁用Claude？ 内部回应来了7月3日，针对阿里内部禁用Claude一事，内部人士回应表示，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。今日阿里巴巴内部宣布反向禁用Claude。阿里全员被要求卸载Anthropic相关产品，包括Sonnet、Opus、Fable等多个系列模型，以及Claude Code在内的Agent产品。",
-      "clean_text": "阿里为何禁用Claude？ 内部回应来了7月3日，针对阿里内部禁用Claude一事，内部人士回应表示，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。今日阿里巴巴内部宣布反向禁用Claude。阿里全员被要求卸载Anthropic相关产品，包括Sonnet、Opus、Fable等多个系列模型，以及Claude Code在内的Agent产品。——凤凰网科技",
-      "datetime": "2026-07-03T07:22:25+00:00",
-      "views": "2.01K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006980-_OWRK9-_kVp2FiK52Ifj--QL1jgrJqkl6dwm4ojpB9gqlBdYMxLLA3clLILLkaN"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30551",
-      "scraped_at": "2026-07-03T16:00:28.568971",
-      "title": "阿里禁用Claude",
-      "title_options": {
-        "conclusion": "阿里禁用Claude",
-        "attractive": "阿里禁用Claude原因",
-        "minimal": "阿里禁用Claude",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42328",
-      "channel": "zaihuapd",
-      "text": "Claude Fable 5 重新上线后体验缩水，安全误判频发遭开发者吐槽美国解除出口管制后，Anthropic 旗舰模型 Claude Fable 5 重新上线，但大量用户投诉体验大幅缩水。过渡期内至 7 月 7 日前，Pro、Max 等订阅用户仅能使用每周 50% 额度调用该模型；7 日后订阅将不再内置 Fable 5，需按量付费。官方称算力紧张，产能充足后会重新纳入订阅。用户的主要不满集中在安全机制阈值过高、误判频发：处理 C/C++、Rust 底层代码，或出现漏洞、hook 等关键词时，模型会自动降级至 Opus 4.8。媒体确认模型本体性能并未削弱，只是安全防护裕度设置过大，频繁干扰正常开发工作。目前 API 与按量付费企业版可完整调用 Fable 5，官方暂未出台安全误判优化方案。bleepingcomputer(1)|(2)·茶馆水群·",
-      "clean_text": "Claude Fable 5 重新上线后体验缩水，安全误判频发遭开发者吐槽美国解除出口管制后，Anthropic 旗舰模型 Claude Fable 5 重新上线，但大量用户投诉体验大幅缩水。过渡期内至 7 月 7 日前，Pro、Max 等订阅用户仅能使用每周 50% 额度调用该模型；7 日后订阅将不再内置 Fable 5，需按量付费。官方称算力紧张，产能充足后会重新纳入订阅。用户的主要不满集中在安全机制阈值过高、误判频发：处理 C/C++、Rust 底层代码，或出现漏洞、hook 等关键词时，模型会自动降级至 Opus 4.8。媒体确认模型本体性能并未削弱，只是安全防护裕度设置过大，频繁干扰正常开发工作。目前 API 与按量付费企业版可完整调用 Fable 5，官方暂未出台安全误判优化方案。bleepingcomputer(1)|(2)·茶馆水群",
-      "datetime": "2026-07-03T07:20:00+00:00",
-      "views": "4.42K",
-      "source_links": [
-        {
-          "text": "(1)",
-          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/"
-        },
-        {
-          "text": "(2)",
-          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42328",
-      "scraped_at": "2026-07-03T16:00:26.913857",
-      "title": "Claude Fable 5体验缩水",
-      "title_options": {
-        "conclusion": "Claude Fable 5体验缩水",
-        "attractive": "安全误判频发遭吐槽",
-        "minimal": "Fable 5体验缩水"
-      }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-04T19:17:58.913893"
+  "count": 29,
+  "updated_at": "2026-07-04T19:23:01.877461"
 }
