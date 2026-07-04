@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42343",
+      "channel": "zaihuapd",
+      "text": "Apple Watch Series 12 或把传感器放进表带Apple Watch Series 12 可能在硅胶表带中直接加入一枚健康传感器，通过注塑嵌入表带；相关爆料未说明它用于测量什么，也称目前只限硅胶材质。这一说法尚未得到其他来源证实，爆料者过往可信度不稳定。苹果过去多次申请过表带传感相关专利，但截至目前尚未推出相关产品。MacRumors·茶馆水群·",
+      "clean_text": "🍏Apple Watch Series 12 或把传感器放进表带Apple Watch Series 12 可能在硅胶表带中直接加入一枚健康传感器，通过注塑嵌入表带；相关爆料未说明它用于测量什么，也称目前只限硅胶材质。这一说法尚未得到其他来源证实，爆料者过往可信度不稳定。苹果过去多次申请过表带传感相关专利，但截至目前尚未推出相关产品。MacRumors·茶馆水群",
+      "datetime": "2026-07-04T01:03:25+00:00",
+      "views": "3.55K",
+      "source_links": [
+        {
+          "text": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/03/apple-watch-series-12-sensor-in-band/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42343",
+      "scraped_at": "2026-07-04T10:00:58.035847",
+      "title": "Apple Watch表带嵌入传感器",
+      "title_options": {
+        "conclusion": "Apple Watch表带嵌入传感器",
+        "attractive": "表带藏传感器？苹果新专利",
+        "minimal": "表带传感器",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30559",
       "channel": "xhqcankao",
       "text": "黄仁勋皮夹克将被拍卖 成交价或超40万！黄仁勋的狂热粉丝们：如果你手头有至少四万美元的闲钱，就有机会入手来自这位英伟达掌门人的一件极具收藏价值的“硬件”——不过这可不是芯片。苏富比拍卖行将于7月7日起开始展出并拍卖黄仁勋穿过的一件黑色皮夹克。这件皮夹克由奢侈品牌Tom Ford打造，上面有黄仁勋的亲笔签名。据拍卖行预估，这件皮夹克的成交价将在4万至6万美元之间。苏富比的一位发言人表示，这件皮夹克将在苏富比纽约展厅展出，直至7月16日，竞拍则将于7月17日截止。据称，这件皮夹克正是黄仁勋于2023年10月18日在台北地区出席鸿海科技日时穿过的那件。",
@@ -1226,6 +1257,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-07-04T10:00:41.993057"
+  "count": 47,
+  "updated_at": "2026-07-04T10:05:46.655725"
 }
