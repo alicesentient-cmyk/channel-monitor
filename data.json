@@ -702,26 +702,8 @@
         "minimal": "美干预储存芯片短缺",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42334",
-      "channel": "zaihuapd",
-      "text": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内的 Agent 产品，禁令将于 7 月 10 日生效。  阿里此前曾报销员工使用 Claude、GPT、Gemini 等外部模型的费用。此次禁令前，Anthropic 曾指控阿里在 4 月 22 日至 6 月 5 日间用约 2.5 万个虚假账号与 Claude 交互超 2800 万次，并随后收紧风控策略。…",
-      "clean_text": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内的 Agent 产品，禁令将于 7 月 10 日生效。  阿里此前曾报销员工使用 Claude、GPT、Gemini 等外部模型的费用。此次禁令前，Anthropic 曾指控阿里在 4 月 22 日至 6 月 5 日间用约 2.5 万个虚假账号与 Claude 交互超 2800 万次，并随后收紧风控策略。…",
-      "datetime": "2026-07-03T13:00:11+00:00",
-      "views": "119",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42334",
-      "scraped_at": "2026-07-03T21:01:11.684514",
-      "title": "阿里下令全员卸载Claude",
-      "title_options": {
-        "conclusion": "阿里下令全员卸载Claude",
-        "attractive": "阿里禁用Claude立即生效",
-        "minimal": "阿里卸载Claude",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-07-05T00:57:50.940832"
+  "count": 27,
+  "updated_at": "2026-07-05T01:02:54.999982"
 }
