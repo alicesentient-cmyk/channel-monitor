@@ -775,38 +775,8 @@
         "minimal": "账号注销新规",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42331",
-      "channel": "zaihuapd",
-      "text": "OPPO 整合一加与真我系统，全球统一启用 ColorOS2026 年 7 月，OPPO 宣布对其智能手机业务实施全面整合。一加氧 OS 与真我 realme UI 即日起停止开发，全球新机将统一搭载 ColorOS。此举旨在优化系统研发资源，强化品牌协同。整合涉及中国、印度等核心市场：一加聚焦中印两地，售后并入 OPPO 网络；真我则收缩中国业务，专注海外。7 月 1 日，真我服务账号已完成迁移至 OPPO 服务体系。此前，真我商城已于 4 月 25 日关停。Donews·茶馆水群·",
-      "clean_text": "OPPO 整合一加与真我系统，全球统一启用 ColorOS2026 年 7 月，OPPO 宣布对其智能手机业务实施全面整合。一加氧 OS 与真我 realme UI 即日起停止开发，全球新机将统一搭载 ColorOS。此举旨在优化系统研发资源，强化品牌协同。整合涉及中国、印度等核心市场：一加聚焦中印两地，售后并入 OPPO 网络；真我则收缩中国业务，专注海外。7 月 1 日，真我服务账号已完成迁移至 OPPO 服务体系。此前，真我商城已于 4 月 25 日关停。Donews·茶馆水群",
-      "datetime": "2026-07-03T10:45:37+00:00",
-      "views": "1.95K",
-      "source_links": [
-        {
-          "text": "Donews",
-          "url": "https://www.donews.com/news/detail/8/6620374.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42331",
-      "scraped_at": "2026-07-03T19:00:27.443084",
-      "title": "OPPO统一系统整合一加真我",
-      "title_options": {
-        "conclusion": "OPPO统一系统整合一加真我",
-        "attractive": "一加真我系统停止开发",
-        "minimal": "OPPO整合一加真我系统"
-      }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-04T22:40:54.338989"
+  "count": 30,
+  "updated_at": "2026-07-04T22:45:58.485107"
 }
