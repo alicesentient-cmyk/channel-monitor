@@ -806,38 +806,8 @@
         "minimal": "AI发现4种超导材料",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42326",
-      "channel": "zaihuapd",
-      "text": "Google 视频模型重回榜首，Gemini Omni Flash 登顶 Video ArenaGoogle DeepMind 公测视频生成模型 Gemini Omni Flash 以 1404 分登顶 Video Arena 盲测榜，领先第二名字节跳动 Seedance 2.0 Mini 达 101 分。Google 的视频模型排名也由 Veo 系列时期提升 7 位。Video Arena 根据用户盲测投票生成排名。此前，Seedance 系列长期占据榜单前列，其中 Seedance 2.0 Mini 以 1303 分位居第一。Design Arena·茶馆水群·",
-      "clean_text": "Google 视频模型重回榜首，Gemini Omni Flash 登顶 Video ArenaGoogle DeepMind 公测视频生成模型 Gemini Omni Flash 以 1404 分登顶 Video Arena 盲测榜，领先第二名字节跳动 Seedance 2.0 Mini 达 101 分。Google 的视频模型排名也由 Veo 系列时期提升 7 位。Video Arena 根据用户盲测投票生成排名。此前，Seedance 系列长期占据榜单前列，其中 Seedance 2.0 Mini 以 1303 分位居第一。Design Arena·茶馆水群",
-      "datetime": "2026-07-03T05:51:23+00:00",
-      "views": "1.68K",
-      "source_links": [
-        {
-          "text": "Design Arena",
-          "url": "https://x.com/Designarena/status/2072759122366509130"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42326",
-      "scraped_at": "2026-07-03T14:01:15.773719",
-      "title": "谷歌视频模型重回榜首",
-      "title_options": {
-        "conclusion": "谷歌视频模型重回榜首",
-        "attractive": "领先字节101分",
-        "minimal": "Gemini登顶"
-      }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-07-04T17:46:45.249346"
+  "count": 32,
+  "updated_at": "2026-07-04T17:51:49.439446"
 }
