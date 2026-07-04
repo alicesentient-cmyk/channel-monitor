@@ -987,31 +987,8 @@
         "minimal": "AI防沉迷声纹检测",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30543",
-      "channel": "xhqcankao",
-      "text": "Opera浏览器获得针对恶意剪贴板命令的保护Opera浏览器宣布了名为Paste Protect的新安全功能，旨在在基于剪贴板的网络攻击的恶意命令被意外执行之前阻止它们。Opera表示它是首款提供针对 ClickFix 攻击的原生保护的主流浏览器 —— 这是一种日益增长的社会工程形式，诱骗用户将恶意命令复制粘贴到计算机的终端中。一旦粘贴并执行，这些命令可以安装恶意软件、窃取密码，或让攻击者远程访问设备。Opera具有现有的剪贴板劫持保护功能，可防止外部应用静默替换已复制的内容。Paste Protect将此与一个新的注入保护系统相结合，该系统监视来自网站的复制可疑命令的剪贴板活动，并在潜在恶意内容到达剪贴板之前将其阻止。",
-      "clean_text": "Opera浏览器获得针对恶意剪贴板命令的保护Opera浏览器宣布了名为Paste Protect的新安全功能，旨在在基于剪贴板的网络攻击的恶意命令被意外执行之前阻止它们。Opera表示它是首款提供针对 ClickFix 攻击的原生保护的主流浏览器 —— 这是一种日益增长的社会工程形式，诱骗用户将恶意命令复制粘贴到计算机的终端中。一旦粘贴并执行，这些命令可以安装恶意软件、窃取密码，或让攻击者远程访问设备。Opera具有现有的剪贴板劫持保护功能，可防止外部应用静默替换已复制的内容。Paste Protect将此与一个新的注入保护系统相结合，该系统监视来自网站的复制可疑命令的剪贴板活动，并在潜在恶意内容到达剪贴板之前将其阻止。——Macrumors",
-      "datetime": "2026-07-03T03:31:07+00:00",
-      "views": "1.18K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/02/opera-browser-clipboard-command-protection/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30543",
-      "scraped_at": "2026-07-03T12:00:37.529866",
-      "title": "Opera新增剪贴板保护",
-      "title_options": {
-        "conclusion": "Opera新增剪贴板保护",
-        "attractive": "防恶意粘贴命令",
-        "minimal": "Opera剪贴板保护",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-07-04T15:29:55.431014"
+  "count": 38,
+  "updated_at": "2026-07-04T15:35:00.135741"
 }
