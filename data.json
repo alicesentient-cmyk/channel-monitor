@@ -1134,43 +1134,8 @@
         "minimal": "AI智能体交易",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42320",
-      "channel": "zaihuapd",
-      "text": "GitHub 宣布可将公开仓库刻录成 CD-ROM 永久保存GitHub 7 月 2 日宣布，用户现在可以将自己的公开仓库代码获取到 CD-ROM 上。官方表示，此举是为了让代码以物理介质的形式真正属于用户——你可以自己留着、借给朋友，甚至传给子孙后代。GitHub 还调侃道：\"你的代码在物理上永远是你的，直到你弄丢为止，说真的。\"目前用户已可通过gh.io/cd订购该服务。GitHub(@github)·茶馆水群·",
-      "clean_text": "GitHub 宣布可将公开仓库刻录成 CD-ROM 永久保存GitHub 7 月 2 日宣布，用户现在可以将自己的公开仓库代码获取到 CD-ROM 上。官方表示，此举是为了让代码以物理介质的形式真正属于用户——你可以自己留着、借给朋友，甚至传给子孙后代。GitHub 还调侃道：\"你的代码在物理上永远是你的，直到你弄丢为止，说真的。\"目前用户已可通过gh.io/cd订购该服务。GitHub(@github)·茶馆水群",
-      "datetime": "2026-07-03T01:23:27+00:00",
-      "views": "3.87K",
-      "source_links": [
-        {
-          "text": "gh.io/cd",
-          "url": "http://gh.io/cd"
-        },
-        {
-          "text": "GitHub(@github)",
-          "url": "https://x.com/github/status/2072801888525840476"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42320",
-      "scraped_at": "2026-07-03T10:00:54.925656",
-      "title": "GitHub公开仓库可刻录CD-ROM",
-      "title_options": {
-        "conclusion": "GitHub公开仓库可刻录CD-ROM",
-        "attractive": "你的代码可刻成CD传后代",
-        "minimal": "GitHub CD-ROM 仓库",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-07-04T13:23:10.526604"
+  "count": 44,
+  "updated_at": "2026-07-04T13:28:13.812773"
 }
