@@ -823,26 +823,8 @@
         "minimal": "影石诉大疆专利",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42327",
-      "channel": "zaihuapd",
-      "text": "Anthropic 指控阿里巴巴发动大规模“蒸馏攻击”窃取 Claude 能力  美国 AI 公司 Anthropic 致信美国参议院银行委员会，指控阿里巴巴通过近 2.5 万个欺诈账户，在 2026 年 4 月 22 日至 6 月 5 日期间与 Claude 进行了超过 2880 万次交互，非法提取 Claude AI 模型能力。Anthropic 称这是针对该公司“迄今已知最大规模的蒸馏攻击”，参与方包括阿里巴巴及其 AI 实验室 Qwen。蒸馏是指用更弱模型学习更强模型输出以复制能力的技术，Anthropic…",
-      "clean_text": "🤖Anthropic 指控🤖阿里巴巴发动大规模“蒸馏攻击”窃取 Claude 能力  美国 AI 公司 Anthropic 致信美国参议院银行委员会，指控阿里巴巴通过近 2.5 万个欺诈账户，在 2026 年 4 月 22 日至 6 月 5 日期间与 Claude 进行了超过 2880 万次交互，非法提取 Claude AI 模型能力。Anthropic 称这是针对该公司“迄今已知最大规模的蒸馏攻击”，参与方包括阿里巴巴及其 AI 实验室 Qwen。蒸馏是指用更弱模型学习更强模型输出以复制能力的技术，Anthropic…",
-      "datetime": "2026-07-03T06:21:25+00:00",
-      "views": "5.3K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42327",
-      "scraped_at": "2026-07-03T15:01:03.725489",
-      "title": "Anthropic指控阿里窃取Clau…",
-      "title_options": {
-        "conclusion": "Anthropic指控阿里窃取Clau…",
-        "attractive": "阿里被指2880万次攻击AI",
-        "minimal": "阿里Anthropic蒸馏攻击",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-07-04T18:17:09.309757"
+  "count": 32,
+  "updated_at": "2026-07-04T18:22:13.376111"
 }
