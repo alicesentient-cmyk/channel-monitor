@@ -863,38 +863,8 @@
         "minimal": "AI智能体开发不及预期",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42325",
-      "channel": "zaihuapd",
-      "text": "iPhone 18 Pro 电池容量曝光，美国版增至 4288 mAhiPhone 18 Pro 中国实体 SIM 卡版电池容量或为 4056 mAh，较 iPhone 17 Pro 增加 68 mAh，增幅 1.7%；美国纯 eSIM 版或为 4288 mAh，增加 36 mAh，增幅 0.8%。美国版因取消实体 SIM 卡槽，电池容量仍高于中国版。MacRumors⁠·茶馆水群·",
-      "clean_text": "iPhone 18 Pro 电池容量曝光，美国版增至 4288 mAhiPhone 18 Pro 中国实体 SIM 卡版电池容量或为 4056 mAh，较 iPhone 17 Pro 增加 68 mAh，增幅 1.7%；美国纯 eSIM 版或为 4288 mAh，增加 36 mAh，增幅 0.8%。美国版因取消实体 SIM 卡槽，电池容量仍高于中国版。MacRumors⁠·茶馆水群",
-      "datetime": "2026-07-03T05:06:23+00:00",
-      "views": "5.32K",
-      "source_links": [
-        {
-          "text": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42325",
-      "scraped_at": "2026-07-03T14:01:15.773391",
-      "title": "iPhone 18 Pro电池曝光",
-      "title_options": {
-        "conclusion": "iPhone 18 Pro电池曝光",
-        "attractive": "美版电池比国版大",
-        "minimal": "iPhone 18 Pro电池"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-04T17:06:15.894519"
+  "count": 34,
+  "updated_at": "2026-07-04T17:11:09.218538"
 }
