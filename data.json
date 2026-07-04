@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42356",
+      "channel": "zaihuapd",
+      "text": "iOS 27 将用 Trust Insights 反诈功能iOS 27 将加入 Trust Insights 功能，在 iPhone 后台分析用户的操作模式、时机、上下文和设备端传感器数据，识别疑似被诈骗分子“电话指导”转账或改账户的行为。系统判定中高风险后，应用可显示警告、加入短暂延迟，或在付款前要求额外身份验证。Apple 称该功能不会读取信息、邮件或照片内容，原始数据会立即删除，只向服务器发送单一输出值。Trust Insights 可关闭，但更改生效前有冷却期，避免诈骗分子在通话中诱导用户立刻关闭。功能目前仍偏开发者端，效果取决于应用是否接入。Cult of Mac·茶馆水群·",
+      "clean_text": "🍏iOS 27 将用 Trust Insights 反诈功能iOS 27 将加入 Trust Insights 功能，在 iPhone 后台分析用户的操作模式、时机、上下文和设备端传感器数据，识别疑似被诈骗分子“电话指导”转账或改账户的行为。系统判定中高风险后，应用可显示警告、加入短暂延迟，或在付款前要求额外身份验证。Apple 称该功能不会读取信息、邮件或照片内容，原始数据会立即删除，只向服务器发送单一输出值。Trust Insights 可关闭，但更改生效前有冷却期，避免诈骗分子在通话中诱导用户立刻关闭。功能目前仍偏开发者端，效果取决于应用是否接入。Cult of Mac·茶馆水群",
+      "datetime": "2026-07-04T14:30:56+00:00",
+      "views": "3.36K",
+      "source_links": [
+        {
+          "text": "Cult of Mac",
+          "url": "https://www.cultofmac.com/news/ios-27-trust-insights-feature"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42356",
+      "scraped_at": "2026-07-04T23:00:36.746872",
+      "title": "iOS 27 加入反诈功能",
+      "title_options": {
+        "conclusion": "iOS 27 加入反诈功能",
+        "attractive": "iPhone 防骗：延迟转账",
+        "minimal": "iOS 27 反诈",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42355",
       "channel": "zaihuapd",
       "text": "国内航线燃油附加费明起降至 50/100 元7 月 5 日起销售的国内航线客票下调燃油附加费：800 公里（含）以下航线每航段 50 元，800 公里以上每航段 100 元。婴儿旅客免收燃油附加费；儿童、革命伤残军人、因公致残人民警察按实际收取标准减半收取。7 月 5 日前销售的国内客票，如在 7 月 5 日及以后变更，不再退还已收取的燃油附加费用。微博·茶馆水群·",
@@ -777,6 +808,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-04T22:56:05.934726"
+  "count": 31,
+  "updated_at": "2026-07-04T23:01:12.220681"
 }
