@@ -13368,5 +13368,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-04T23:01:12.199116"
+  },
+  "zaihuapd_42358": {
+    "ai_title": "Linux漏洞多反是好事",
+    "title_options": {
+      "conclusion": "Linux登顶2026漏洞榜",
+      "attractive": "Linux漏洞多反是好事",
+      "minimal": "Linux CVE榜首",
+      "best": "attractive"
+    },
+    "generated_at": "2026-07-05T00:07:12.726936"
+  },
+  "zaihuapd_42357": {
+    "ai_title": "韩国投800万亿建半导体集群",
+    "title_options": {
+      "conclusion": "韩国投800万亿建半导体集群",
+      "attractive": "DRAM五年内翻倍？韩国豪赌",
+      "minimal": "韩国半导体集群投资",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T00:07:12.762301"
   }
 }
