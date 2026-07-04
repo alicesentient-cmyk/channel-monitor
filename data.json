@@ -752,31 +752,8 @@
         "minimal": "一加真我系统停用",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30553",
-      "channel": "xhqcankao",
-      "text": "波音Wisk Aero被指控解雇了提出安全担忧的经理波音旗下电动空中出租车公司Wisk Aero遭到一名前员工提起诉讼，该员工声称她在提出安全担忧后被解雇。前软件经理 Briahna O’Neill本周早些时候在圣克拉拉高等法院起诉 Wisk，指控歧视和不当解雇。O’Neill 表示，她提交了两份内部安全报告，其中概述了Wisk如何让工程师减少美国联邦航空管理局要求的软件测试量，以便赶上2025年的试飞截止期限。O’Neill声称她在提交第二份投诉仅数周后就被解雇。Wisk成立于2019年，是众多试图开发商业可行的电动垂直起降飞行器的公司之一。是为数不多的致力于实现完全自动驾驶的公司之一。针对诉讼，Wisk表示，无法对正在进行的诉讼发表评论。",
-      "clean_text": "波音Wisk Aero被指控解雇了提出安全担忧的经理波音旗下电动空中出租车公司Wisk Aero遭到一名前员工提起诉讼，该员工声称她在提出安全担忧后被解雇。前软件经理 Briahna O’Neill本周早些时候在圣克拉拉高等法院起诉 Wisk，指控歧视和不当解雇。O’Neill 表示，她提交了两份内部安全报告，其中概述了Wisk如何让工程师减少美国联邦航空管理局要求的软件测试量，以便赶上2025年的试飞截止期限。O’Neill声称她在提交第二份投诉仅数周后就被解雇。Wisk成立于2019年，是众多试图开发商业可行的电动垂直起降飞行器的公司之一。是为数不多的致力于实现完全自动驾驶的公司之一。针对诉讼，Wisk表示，无法对正在进行的诉讼发表评论。——Techcrunch",
-      "datetime": "2026-07-03T11:37:46+00:00",
-      "views": "1.04K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30553",
-      "scraped_at": "2026-07-03T20:00:22.006297",
-      "title": "波音子公司被诉解雇举报经理",
-      "title_options": {
-        "conclusion": "波音子公司被诉解雇举报经理",
-        "attractive": "提安全担忧后遭解雇",
-        "minimal": "波音Wisk解雇举报经理",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-04T23:36:45.534583"
+  "count": 29,
+  "updated_at": "2026-07-04T23:41:48.517832"
 }
