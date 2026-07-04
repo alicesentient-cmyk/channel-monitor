@@ -725,35 +725,8 @@
         "minimal": "韩国2030登月",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30554",
-      "channel": "xhqcankao",
-      "text": "一加OxygenOS、真我realme UI将停止开发业内人士透露，OPPO 已经对其智能手机业务启动了全面整合，氧OS（OxygenOS）与真我 realme UI 将停止开发。一加和真我手机品牌将使用同一套安卓定制系统，内部人士确认，未来的设备将停止搭载氧OS和真我 realme UI，并在全球范围内全面转用 ColorOS。一加正将业务重心收缩至其最大的两个市场",
-      "clean_text": "一加OxygenOS、真我realme UI将停止开发业内人士透露，OPPO 已经对其智能手机业务启动了全面整合，氧OS（OxygenOS）与真我 realme UI 将停止开发。一加和真我手机品牌将使用同一套安卓定制系统，内部人士确认，未来的设备将停止搭载氧OS和真我 realme UI，并在全球范围内全面转用 ColorOS。一加正将业务重心收缩至其最大的两个市场 —— 中国和印度，一加在印度的售后系统也已被并入OPPO的服务网络中。真我则在逐步收缩中国区业务，专注于海外市场。——IT之家、Smartprix",
-      "datetime": "2026-07-03T11:48:25+00:00",
-      "views": "754",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/972/369.htm"
-        },
-        {
-          "text": "Smartprix",
-          "url": "https://www.smartprix.com/bytes/exclusive-oxygenos-and-realme-ui-being-discontinued-ending-a-golden-era/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30554",
-      "scraped_at": "2026-07-03T20:00:22.006574",
-      "title": "一加真我将停用自有系统",
-      "title_options": {
-        "conclusion": "一加真我将停用自有系统",
-        "attractive": "一加真我系统停用",
-        "minimal": "一加真我系统停用",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-07-04T23:46:52.542141"
+  "count": 28,
+  "updated_at": "2026-07-04T23:51:57.775699"
 }
