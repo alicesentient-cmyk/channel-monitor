@@ -876,35 +876,8 @@
         "minimal": "特斯拉AI支出限制",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30545",
-      "channel": "xhqcankao",
-      "text": "亚马逊Leo低轨卫星互联网今年稍晚上线亚马逊表示，公司目前已在太空轨道部署足够数量的卫星，有望于今年晚些时候正式推出 Amazon Leo低轨卫星互联网的“初期服务”。亚马逊于美东时间周四凌晨12点30分左右，通过联合发射联盟的 Atlas V 火箭将29枚卫星送入轨道。完成此次任务后，Leo卫星总数已超过390枚。 Leo 业务与产品副总裁克里斯·韦伯在 X平台表示，目前卫星数量已足以在首批服务区域提供持续性的网络服务。这对亚马逊公司而言是一项重要里程碑，公司正积极让Leo成为星链在低轨卫星市场的竞争对手。去年11月，亚马逊已针对部分企业客户推出 Leo “企业预览版”，但尚未向普通消费者及政府客户提供服务。",
-      "clean_text": "亚马逊Leo低轨卫星互联网今年稍晚上线亚马逊表示，公司目前已在太空轨道部署足够数量的卫星，有望于今年晚些时候正式推出 Amazon Leo低轨卫星互联网的“初期服务”。亚马逊于美东时间周四凌晨12点30分左右，通过联合发射联盟的 Atlas V 火箭将29枚卫星送入轨道。完成此次任务后，Leo卫星总数已超过390枚。 Leo 业务与产品副总裁克里斯·韦伯在 X平台表示，目前卫星数量已足以在首批服务区域提供持续性的网络服务。这对亚马逊公司而言是一项重要里程碑，公司正积极让Leo成为星链在低轨卫星市场的竞争对手。去年11月，亚马逊已针对部分企业客户推出 Leo “企业预览版”，但尚未向普通消费者及政府客户提供服务。——雅虎新闻、CNBC",
-      "datetime": "2026-07-03T04:32:42+00:00",
-      "views": "981",
-      "source_links": [
-        {
-          "text": "雅虎新闻",
-          "url": "https://hk.finance.yahoo.com/news/%E6%8C%91%E6%88%B0starlink-%E4%BA%9E%E9%A6%AC%E9%81%9Cleo%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E7%B6%B2%E8%B7%AF%E4%BB%8A%E5%B9%B4%E7%A8%8D%E6%99%9A%E4%B8%8A%E7%B7%9A-013003545.html"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30545",
-      "scraped_at": "2026-07-03T13:00:27.946327",
-      "title": "亚马逊Leo卫星互联网今年上线",
-      "title_options": {
-        "conclusion": "亚马逊Leo卫星互联网今年上线",
-        "attractive": "亚马逊Leo卫星数超390枚",
-        "minimal": "亚马逊Leo卫星互联网上线",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-04T16:30:45.252697"
+  "count": 34,
+  "updated_at": "2026-07-04T16:35:48.537508"
 }
