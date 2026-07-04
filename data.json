@@ -644,39 +644,8 @@
         "minimal": "低轨卫星网 登月2030",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42335",
-      "channel": "zaihuapd",
-      "text": "极客湾华为 Mate 80 Pro 系列评测，原生鸿蒙优化下游戏能效超越骁龙 8 Gen3极客湾发布 Mate 80 Pro 系列测评，系列搭载全新麒麟 9030 及 9030 Pro 自研芯片，满血版 9030 Pro 采用 9 核 14 线程 CPU 与 6 核马良 935 GPU，晶体管规模约 150 亿，CPU 多核能效介于骁龙 8 Gen2 与 8 Gen3 之间。评测显示，虽然其理论性能仍落后当代旗舰平台，但得益于鸿蒙原生应用与软硬芯云协同优化，实际游戏表现远超纸面规格。Mate 80 Pro Max 运行《原神》极高画质 60 帧时整机功耗仅 4.9W，能效优于骁龙 8 Gen3；《王者荣耀》120fps 极致画质平均功耗约 3W，系统流畅度与续航也因更智能的调度和应用优化得到提升。极客湾·茶馆水群·",
-      "clean_text": "极客湾华为 Mate 80 Pro 系列评测，原生鸿蒙优化下游戏能效超越骁龙 8 Gen3极客湾发布 Mate 80 Pro 系列测评，系列搭载全新麒麟 9030 及 9030 Pro 自研芯片，满血版 9030 Pro 采用 9 核 14 线程 CPU 与 6 核马良 935 GPU，晶体管规模约 150 亿，CPU 多核能效介于骁龙 8 Gen2 与 8 Gen3 之间。评测显示，虽然其理论性能仍落后当代旗舰平台，但得益于鸿蒙原生应用与软硬芯云协同优化，实际游戏表现远超纸面规格。Mate 80 Pro Max 运行《原神》极高画质 60 帧时整机功耗仅 4.9W，能效优于骁龙 8 Gen3；《王者荣耀》120fps 极致画质平均功耗约 3W，系统流畅度与续航也因更智能的调度和应用优化得到提升。极客湾·茶馆水群",
-      "datetime": "2026-07-03T13:27:40+00:00",
-      "views": "3.79K",
-      "source_links": [
-        {
-          "text": "极客湾",
-          "url": "https://www.bilibili.com/video/BV1F7T46wEyT"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42335",
-      "scraped_at": "2026-07-03T22:01:17.615636",
-      "title": "4.9W功耗跑原神60帧",
-      "title_options": {
-        "conclusion": "Mate 80 Pro能效超骁龙8 G…",
-        "attractive": "4.9W功耗跑原神60帧",
-        "minimal": "麒麟9030能效超越骁龙",
-        "best": "attractive"
-      }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-07-05T01:23:10.651773"
+  "count": 25,
+  "updated_at": "2026-07-05T01:28:14.630592"
 }
