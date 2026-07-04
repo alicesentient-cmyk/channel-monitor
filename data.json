@@ -1128,31 +1128,8 @@
         "minimal": "GitHub CD-ROM 仓库",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30538",
-      "channel": "xhqcankao",
-      "text": "Pixel 7/8/9即将迎来Linux 6.12内核更新看起来谷歌Pixel手机即将迎来又一次内核升级。一则新的爆料声称，谷歌正准备为Pixel 7、8、9和10系列手机更新 Android 所基于的 Linux 内核，虽然内核升级不会带来面向用户的新功能，但Pixel手机将升级到的版本仍可能带来性能改进。Mystic Leaks电报频道中的一则帖子声称，大多数搭载Tensor芯片的Pixel手机将很快收到内核版本6.12的升级。根据该爆料，Pixel 6手机将不会获得此更新。Pixel 7、Pixel 8和Pixel 9手机目前处于6.1-android14，而Pixel 10系列手机处于 6.6-android15 。一旦更新落地，它们应该都会使用 6.12-android16 内核版本。",
-      "clean_text": "Pixel 7/8/9即将迎来Linux 6.12内核更新看起来谷歌Pixel手机即将迎来又一次内核升级。一则新的爆料声称，谷歌正准备为Pixel 7、8、9和10系列手机更新 Android 所基于的 Linux 内核，虽然内核升级不会带来面向用户的新功能，但Pixel手机将升级到的版本仍可能带来性能改进。Mystic Leaks电报频道中的一则帖子声称，大多数搭载Tensor芯片的Pixel手机将很快收到内核版本6.12的升级。根据该爆料，Pixel 6手机将不会获得此更新。Pixel 7、Pixel 8和Pixel 9手机目前处于6.1-android14，而Pixel 10系列手机处于 6.6-android15 。一旦更新落地，它们应该都会使用 6.12-android16 内核版本。——Androidauthority",
-      "datetime": "2026-07-03T00:54:34+00:00",
-      "views": "550",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/pixel-kernel-6-12-leak-3683790"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30538",
-      "scraped_at": "2026-07-03T09:06:05.617089",
-      "title": "Pixel 7-9获内核更新",
-      "title_options": {
-        "conclusion": "Pixel 7-9获内核更新",
-        "attractive": "Pixel 7-9内核升级",
-        "minimal": "Pixel 7-9内核6.12",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 44,
-  "updated_at": "2026-07-04T12:52:42.803064"
+  "count": 43,
+  "updated_at": "2026-07-04T12:57:51.090595"
 }
