@@ -555,43 +555,8 @@
         "minimal": "腾讯AI超越Mythos",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42341",
-      "channel": "zaihuapd",
-      "text": "NASA 发射“救援卫星”，抢救即将坠落的太空望远镜NASA 于 7 月 3 日发射 LINK 航天器，准备在太空中抓住运行超过 20 年的“雨燕”空间望远镜，并将其抬升至更安全的轨道。受太阳活动影响，“雨燕”轨道持续下降，若不干预，最快可能在今年 10 月坠入大气层烧毁。LINK 将用机械臂固定望远镜，再通过推进器缓慢抬升约 240 公里。任务成功后，“雨燕”最快可于 9 月恢复观测，这也将成为私人航天器首次尝试抓取美国政府的无人卫星。美联社｜Space.com·茶馆水群·",
-      "clean_text": "NASA 发射“救援卫星”，抢救即将坠落的太空望远镜NASA 于 7 月 3 日发射 LINK 航天器，准备在太空中抓住运行超过 20 年的“雨燕”空间望远镜，并将其抬升至更安全的轨道。受太阳活动影响，“雨燕”轨道持续下降，若不干预，最快可能在今年 10 月坠入大气层烧毁。LINK 将用机械臂固定望远镜，再通过推进器缓慢抬升约 240 公里。任务成功后，“雨燕”最快可于 9 月恢复观测，这也将成为私人航天器首次尝试抓取美国政府的无人卫星。美联社｜Space.com·茶馆水群",
-      "datetime": "2026-07-03T15:43:53+00:00",
-      "views": "2.27K",
-      "source_links": [
-        {
-          "text": "美联社",
-          "url": "https://apnews.com/article/swift-nasa-satellite-rescue-katalyst-a7ddd740ca099587c58865f583c7245a"
-        },
-        {
-          "text": "Space.com",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-successfully-launches-rescue-mission-to-save-swift-space-telescope-from-burning-up-in-earths-atmosphere"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42341",
-      "scraped_at": "2026-07-04T00:06:06.855801",
-      "title": "NASA发射救援卫星",
-      "title_options": {
-        "conclusion": "NASA发射救援卫星",
-        "attractive": "雨燕望远镜10月坠毁",
-        "minimal": "NASA救援雨燕",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 23,
-  "updated_at": "2026-07-05T03:39:33.551986"
+  "count": 22,
+  "updated_at": "2026-07-05T03:44:36.871703"
 }
