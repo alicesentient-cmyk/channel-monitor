@@ -13260,5 +13260,24 @@
       "minimal": "Chrome扩展新规"
     },
     "generated_at": "2026-07-04T15:04:32.893749"
+  },
+  "xhqcankao_30561": {
+    "ai_title": "耿同学举报学术造假",
+    "title_options": {
+      "conclusion": "耿同学举报学术造假",
+      "attractive": "举报后当天调查",
+      "minimal": "学术造假举报"
+    },
+    "generated_at": "2026-07-04T17:06:15.063180"
+  },
+  "zaihuapd_42348": {
+    "ai_title": "豆包智能体7月15日下线",
+    "title_options": {
+      "conclusion": "豆包智能体7月15日下线",
+      "attractive": "智能体下线，速备份数据",
+      "minimal": "豆包智能体下线",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-04T17:06:15.867480"
   }
 }
