@@ -1151,74 +1151,8 @@
         "minimal": "Pixel 7-9内核6.12",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30537",
-      "channel": "xhqcankao",
-      "text": "Anthropic正与三星洽谈定制人工智能芯片据三位知情人士透露， Anthropic 公司已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。Anthropic表示，亚马逊的Trainium芯片、谷歌的张量处理单元（TPU）以及英伟达的图形处理器将继续作为其计算战略的核心；该公司拒绝就其芯片相关计划置评。",
-      "clean_text": "Anthropic正与三星洽谈定制人工智能芯片据三位知情人士透露， Anthropic 公司已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。Anthropic表示，亚马逊的Trainium芯片、谷歌的张量处理单元（TPU）以及英伟达的图形处理器将继续作为其计算战略的核心；该公司拒绝就其芯片相关计划置评。——彭博社",
-      "datetime": "2026-07-03T00:32:15+00:00",
-      "views": "1.17K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30537",
-      "scraped_at": "2026-07-03T09:06:05.616882",
-      "title": "Anthropic与三星洽谈AI芯片",
-      "title_options": {
-        "conclusion": "Anthropic与三星洽谈AI芯片",
-        "attractive": "Anthropic自研芯片，三星代工？",
-        "minimal": "Anthropic三星芯片合作",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42318",
-      "channel": "zaihuapd",
-      "text": "kernel.org镜像基础设施出错致 /pub 目录变空，数据未丢失正在恢复7 月 2 日，Linux 内核开发者 K. Ryabitsev-Prime 发文称，kernel.org的主/从镜像基础设施在切换过程中出现意外错误，导致 /pub 目录突然变空。他强调没有数据丢失，受影响的只是公开镜像副本，目前正在进行恢复。由于删除操作很快而恢复过程较慢，完成修复需要一些时间。用户可通过 Linux Foundation 官方状态页面跟踪此次事件的最新进展。social.kernel.org|status.linuxfoundation.org·茶馆水群·",
-      "clean_text": "kernel.org镜像基础设施出错致 /pub 目录变空，数据未丢失正在恢复7 月 2 日，Linux 内核开发者 K. Ryabitsev-Prime 发文称，kernel.org的主/从镜像基础设施在切换过程中出现意外错误，导致 /pub 目录突然变空。他强调没有数据丢失，受影响的只是公开镜像副本，目前正在进行恢复。由于删除操作很快而恢复过程较慢，完成修复需要一些时间。用户可通过 Linux Foundation 官方状态页面跟踪此次事件的最新进展。social.kernel.org|status.linuxfoundation.org·茶馆水群",
-      "datetime": "2026-07-03T00:28:02+00:00",
-      "views": "2.72K",
-      "source_links": [
-        {
-          "text": "kernel.org",
-          "url": "http://kernel.org/"
-        },
-        {
-          "text": "kernel.org",
-          "url": "http://kernel.org/"
-        },
-        {
-          "text": "social.kernel.org",
-          "url": "https://social.kernel.org/notice/B7viUNMy1UsGX9pwHY"
-        },
-        {
-          "text": "status.linuxfoundation.org",
-          "url": "https://status.linuxfoundation.org/incidents/3y1k8b4ky71t"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42318",
-      "scraped_at": "2026-07-03T09:06:04.323288",
-      "title": "kernel.org镜像故障恢复中",
-      "title_options": {
-        "conclusion": "kernel.org镜像故障恢复中",
-        "attractive": "pub目录变空数据未丢",
-        "minimal": "镜像故障/pub恢复",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-07-04T12:27:24.229586"
+  "count": 44,
+  "updated_at": "2026-07-04T12:32:27.811421"
 }
