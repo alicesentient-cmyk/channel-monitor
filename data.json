@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42344",
+      "channel": "zaihuapd",
+      "text": "苹果 iPhone Air 2 传言反转：未被取消，将增加双摄像头  此前有报道称苹果取消了 2026 年 iPhone Air 更新计划，但现在该消息被部分撤回。  苹果工程师希望在 2027 年春季推出第二代 iPhone Air，但部分消息源称重新设计可能无法按时完成。  AppleInsider茶馆投稿新鲜事",
+      "clean_text": "🍏苹果 iPhone Air 2 传言反转：未被取消，将增加双摄像头  此前有报道称苹果取消了 2026 年 iPhone Air 更新计划，但现在该消息被部分撤回。  苹果工程师希望在 2027 年春季推出第二代 iPhone Air，但部分消息源称重新设计可能无法按时完成。  AppleInsider🍀在花频道🍵茶馆📮投稿新鲜事",
+      "datetime": "2026-07-04T02:01:50+00:00",
+      "views": "4.05K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42344",
+      "scraped_at": "2026-07-04T11:00:48.374089",
+      "title": "iPhone Air 2未取消",
+      "title_options": {
+        "conclusion": "iPhone Air 2未取消",
+        "attractive": "双摄iPhone Air 2",
+        "minimal": "Air 2双摄",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42343",
       "channel": "zaihuapd",
       "text": "Apple Watch Series 12 或把传感器放进表带Apple Watch Series 12 可能在硅胶表带中直接加入一枚健康传感器，通过注塑嵌入表带；相关爆料未说明它用于测量什么，也称目前只限硅胶材质。这一说法尚未得到其他来源证实，爆料者过往可信度不稳定。苹果过去多次申请过表带传感相关专利，但截至目前尚未推出相关产品。MacRumors·茶馆水群·",
@@ -1257,6 +1275,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-07-04T10:56:20.450647"
+  "count": 48,
+  "updated_at": "2026-07-04T11:01:24.468235"
 }
