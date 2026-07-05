@@ -13408,5 +13408,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-05T08:02:00.957800"
+  },
+  "xhqcankao_30566": {
+    "ai_title": "华为发布韬定律V2版",
+    "title_options": {
+      "conclusion": "华为发布韬定律V2版",
+      "attractive": "华为新论文细化齿比概念",
+      "minimal": "华为韬定律V2",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T09:02:35.417478"
+  },
+  "zaihuapd_42359": {
+    "ai_title": "F-Droid称Google ADV为…",
+    "title_options": {
+      "conclusion": "F-Droid称Google ADV为…",
+      "attractive": "40亿安卓设备预装ADV",
+      "minimal": "F-Droid ADV 恶意软件",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T09:02:35.533158"
+  },
+  "xhqcankao_30567": {
+    "ai_title": "三星4nm产能售罄",
+    "title_options": {
+      "conclusion": "三星4nm产能售罄",
+      "attractive": "三星代工开始挑单",
+      "minimal": "三星4nm售罄",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T09:02:35.533177"
   }
 }
