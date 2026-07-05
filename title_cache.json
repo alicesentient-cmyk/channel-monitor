@@ -13476,5 +13476,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-05T11:03:47.300708"
+  },
+  "xhqcankao_30571": {
+    "ai_title": "电影院引入AI智能体",
+    "title_options": {
+      "conclusion": "电影院引入AI智能体",
+      "attractive": "电影院可唱卡拉OK",
+      "minimal": "AI智能体卡拉OK",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T12:04:26.518924"
+  },
+  "xhqcankao_30570": {
+    "ai_title": "印度传唤Meta涉儿童色情",
+    "title_options": {
+      "conclusion": "印度传唤Meta涉儿童色情",
+      "attractive": "Meta被曝儿童性虐待内容",
+      "minimal": "印度传唤Meta",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T12:04:26.676644"
+  },
+  "xhqcankao_30572": {
+    "ai_title": "救援飞船升空防NASA卫星坠落",
+    "title_options": {
+      "conclusion": "救援飞船升空防NASA卫星坠落",
+      "attractive": "老卫星坠落，救援飞船升空",
+      "minimal": "救援飞船升空",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T12:04:26.875108"
   }
 }
