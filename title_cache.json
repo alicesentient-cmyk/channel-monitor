@@ -13506,5 +13506,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-05T12:04:26.875108"
+  },
+  "xhqcankao_30573": {
+    "ai_title": "美三座微型核堆达临界",
+    "title_options": {
+      "conclusion": "美三座微型核堆达临界",
+      "attractive": "150天建成微型核堆",
+      "minimal": "微型核堆临界",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T13:05:08.112275"
+  },
+  "zaihuapd_42362": {
+    "ai_title": "三星拟三季度DRAM涨价20%",
+    "title_options": {
+      "conclusion": "三星拟三季度DRAM涨价20%",
+      "attractive": "DRAM涨价20%已通知客户",
+      "minimal": "三星DRAM涨价20%",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T13:05:08.243635"
+  },
+  "xhqcankao_30574": {
+    "ai_title": "俄燃油危机致中国电动车抢购",
+    "title_options": {
+      "conclusion": "俄燃油危机致中国电动车抢购",
+      "attractive": "俄加油站排长龙，中国电动车热销",
+      "minimal": "燃油危机，中国电动车抢购",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-05T13:05:08.304863"
   }
 }
