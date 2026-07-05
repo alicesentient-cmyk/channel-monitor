@@ -852,25 +852,8 @@
         "minimal": "特朗普AI无审批",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42345",
-      "channel": "zaihuapd",
-      "text": "任天堂上调日本市场 Switch 2/Switch 及多国 Switch 2 售价，在线会员同步涨价  任天堂宣布调涨日本市场 Switch 2 日版（日本专用版本）至 ¥59,980，Switch OLED 至 ¥47,980，普通版至 ¥43,980，Lite 至 ¥29,980；美国、加拿大、欧洲的 Switch 2 分别涨至 $499.99、$679.99、€499.99，其他地区也将跟进。Nintendo Switch Online 个人 1/3/12 个月及家庭 12 个月、扩展包价格均上调，…",
-      "clean_text": "任天堂上调日本市场 Switch 2/Switch 及多国 Switch 2 售价，在线会员同步涨价  任天堂宣布调涨日本市场 Switch 2 日版（日本专用版本）至 ¥59,980，Switch OLED 至 ¥47,980，普通版至 ¥43,980，Lite 至 ¥29,980；美国、加拿大、欧洲的 Switch 2 分别涨至 $499.99、$679.99、€499.99，其他地区也将跟进。Nintendo Switch Online 个人 1/3/12 个月及家庭 12 个月、扩展包价格均上调，…",
-      "datetime": "2026-07-04T03:53:46+00:00",
-      "views": "898",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42345",
-      "scraped_at": "2026-07-04T12:00:37.207133",
-      "title": "任天堂多国Switch2涨价",
-      "title_options": {
-        "conclusion": "任天堂多国Switch2涨价",
-        "attractive": "Switch2最高涨至$499.99",
-        "minimal": "任天堂Switch2涨价"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-05T15:52:19.743809"
+  "count": 34,
+  "updated_at": "2026-07-05T15:57:23.722199"
 }
