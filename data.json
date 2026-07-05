@@ -854,42 +854,8 @@
         "minimal": "豆包智能体下线",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42347",
-      "channel": "zaihuapd",
-      "text": "谷歌 7 月 Chrome 扩展新规：禁 AI 越狱与预测市场，过度收集数据或将被下架Google 于 2026 年 7 月 1 日宣布更新 Chrome Web Store 开发者政策，新规将于 8 月 1 日起执行，违规扩展可能面临下架等处罚。主要变化包括：扩展只能收集与其声明用途“严格必要”的用户数据，且必须显著披露所有数据收集行为；若安装后数据处理方式发生变化，开发者须主动告知用户。同时，预测市场类扩展被列为禁止产品，不允许通过扩展进行预测结果的真实货币交易；专门用于绕过 AI 服务安全护栏、使用限制或保护措施（即 AI 越狱）的扩展也被明确禁止。Google 呼吁开发者尽快自查合规。Chrome for Developers|Cybernews·茶馆水群·",
-      "clean_text": "📱谷歌 7 月 Chrome 扩展新规：禁 AI 越狱与预测市场，过度收集数据或将被下架Google 于 2026 年 7 月 1 日宣布更新 Chrome Web Store 开发者政策，新规将于 8 月 1 日起执行，违规扩展可能面临下架等处罚。主要变化包括：扩展只能收集与其声明用途“严格必要”的用户数据，且必须显著披露所有数据收集行为；若安装后数据处理方式发生变化，开发者须主动告知用户。同时，预测市场类扩展被列为禁止产品，不允许通过扩展进行预测结果的真实货币交易；专门用于绕过 AI 服务安全护栏、使用限制或保护措施（即 AI 越狱）的扩展也被明确禁止。Google 呼吁开发者尽快自查合规。Chrome for Developers|Cybernews·茶馆水群",
-      "datetime": "2026-07-04T06:30:34+00:00",
-      "views": "2.81K",
-      "source_links": [
-        {
-          "text": "Chrome for Developers",
-          "url": "https://developer.chrome.com/blog/cws-policy-updates-2026"
-        },
-        {
-          "text": "Cybernews",
-          "url": "https://cybernews.com/security/new-chrome-extension-rules-on-data-ai-prediction-markets/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42347",
-      "scraped_at": "2026-07-04T15:01:01.731509",
-      "title": "谷歌7月禁AI越狱扩展",
-      "title_options": {
-        "conclusion": "谷歌7月禁AI越狱扩展",
-        "attractive": "扩展过度收集数据将下架",
-        "minimal": "Chrome扩展新规"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-05T18:29:24.501701"
+  "count": 34,
+  "updated_at": "2026-07-05T18:34:28.741644"
 }
