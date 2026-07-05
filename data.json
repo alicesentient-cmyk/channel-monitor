@@ -845,39 +845,8 @@
         "minimal": "奈雪股价跌96%",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42349",
-      "channel": "zaihuapd",
-      "text": "字节申请“咕咕嘎嘎“等网络梗的著作权据网友查询，北京字跳网络技术有限公司近日申请了「咕咕嘎嘎」、「刀盾狗」、「香蕉猫」等网络梗的著作权。游戏动力·茶馆水群·",
-      "clean_text": "字节申请“咕咕嘎嘎“等网络梗的著作权据网友查询，北京字跳网络技术有限公司近日申请了「咕咕嘎嘎」、「刀盾狗」、「香蕉猫」等网络梗的著作权。游戏动力·茶馆水群",
-      "datetime": "2026-07-04T09:04:26+00:00",
-      "views": "5.2K",
-      "source_links": [
-        {
-          "text": "游戏动力",
-          "url": "https://weibo.com/5762457113/5316887664658410"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42349",
-      "scraped_at": "2026-07-04T18:00:38.545528",
-      "title": "字节申请网络梗著作权",
-      "title_options": {
-        "conclusion": "字节申请网络梗著作权",
-        "attractive": "网络梗也能申请版权？",
-        "minimal": "字节 申请 梗 著作权",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-07-05T21:02:05.008989"
+  "count": 33,
+  "updated_at": "2026-07-05T21:07:08.871397"
 }
