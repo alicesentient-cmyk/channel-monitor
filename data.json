@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42366",
+      "channel": "zaihuapd",
+      "text": "iPhone 17 Pro Max 被埋入美国 250 周年时间胶囊，2276 年开启为庆祝美国 250 周年，一个巨型时间胶囊近期被埋入地下，囊括了来自各州的当代物品，其中包含一部宇宙橙配色（Cosmic Orange）的 iPhone 17 Pro Max。该时间胶囊计划在 2276 年美国 500 周年时解封。届时这部手机能否正常运作仍是未知数，电池极有可能在此之前就已损坏。不过，若手机仍能启动，人们可通过备忘录应用查看其中保存的一些\"数字工艺品\"。作者感慨，iPhone 问世尚不足 20 年，难以想象 250 年后的科技会是什么样子。9To5Mac·茶馆水群·",
+      "clean_text": "iPhone 17 Pro Max 被埋入美国 250 周年时间胶囊，2276 年开启为庆祝美国 250 周年，一个巨型时间胶囊近期被埋入地下，囊括了来自各州的当代物品，其中包含一部宇宙橙配色（Cosmic Orange）的 iPhone 17 Pro Max。该时间胶囊计划在 2276 年美国 500 周年时解封。届时这部手机能否正常运作仍是未知数，电池极有可能在此之前就已损坏。不过，若手机仍能启动，人们可通过备忘录应用查看其中保存的一些\"数字工艺品\"。作者感慨，iPhone 问世尚不足 20 年，难以想象 250 年后的科技会是什么样子。9To5Mac·茶馆水群",
+      "datetime": "2026-07-05T10:38:58+00:00",
+      "views": "49.7K",
+      "source_links": [
+        {
+          "text": "9To5Mac",
+          "url": "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42366",
+      "scraped_at": "2026-07-05T19:01:07.354714",
+      "title": "iPhone 17 Pro Max 埋…",
+      "title_options": {
+        "conclusion": "iPhone 17 Pro Max 埋…",
+        "attractive": "2276年开iPhone 17 Pro…",
+        "minimal": "iPhone 17 Pro Max 时…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42365",
       "channel": "zaihuapd",
       "text": "4 名大学生出题让 AI 考 0 分，复旦期末考改人考 AI复旦大学“数据挖掘技术”课改为期末“人考 AI”：51 名学生各出 10 道有唯一答案的计算题考三个 AI 模型，AI 答错越多得分越高。结果 50 人至少难倒过某个模型一次，仅 4 人能让任一模型整张试卷得 0 分，最强模型 Claude 未被完全考倒，全班平均分 85.7 分。授课教师肖仰华表示，传统考算法和记忆的方式在 AI 时代已失效，未来考核将重点转向评价能力、判断能力和创造性思维，课堂也从训练学生“怎么做”转向训练他们“怎么指挥 AI、怎么评判 AI 的结果”。新华社·茶馆水群·",
@@ -856,6 +887,6 @@
       }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-07-05T18:59:46.827836"
+  "count": 35,
+  "updated_at": "2026-07-05T19:04:52.862196"
 }
