@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42367",
+      "channel": "zaihuapd",
+      "text": "Meta 将于明日关闭 Llama API 公共预览版Meta 宣布其 Llama API 公共预览版将于 2026 年 7 月 6 日正式下线，届时 API 请求将返回 sunset 响应并附带重定向指引。Llama 模型本身不会下架，开发者仍可前往 Meta Llama 下载页面获取模型。Meta 建议现有用户迁移至支持 Llama 的第三方托管服务商，同时表示未来将推出新的开发者工具。Llama API·茶馆水群·",
+      "clean_text": "Meta 将于明日关闭 Llama API 公共预览版Meta 宣布其 Llama API 公共预览版将于 2026 年 7 月 6 日正式下线，届时 API 请求将返回 sunset 响应并附带重定向指引。Llama 模型本身不会下架，开发者仍可前往 Meta Llama 下载页面获取模型。Meta 建议现有用户迁移至支持 Llama 的第三方托管服务商，同时表示未来将推出新的开发者工具。Llama API·茶馆水群",
+      "datetime": "2026-07-05T12:48:53+00:00",
+      "views": "24.4K",
+      "source_links": [
+        {
+          "text": "Llama API",
+          "url": "https://llama.developer.meta.com/docs/llama-api-deprecation/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42367",
+      "scraped_at": "2026-07-05T21:00:51.900775",
+      "title": "Meta Llama API 明日关闭",
+      "title_options": {
+        "conclusion": "Meta Llama API 明日关闭",
+        "attractive": "Llama API 即将下线",
+        "minimal": "Llama API 关闭",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42366",
       "channel": "zaihuapd",
       "text": "iPhone 17 Pro Max 被埋入美国 250 周年时间胶囊，2276 年开启为庆祝美国 250 周年，一个巨型时间胶囊近期被埋入地下，囊括了来自各州的当代物品，其中包含一部宇宙橙配色（Cosmic Orange）的 iPhone 17 Pro Max。该时间胶囊计划在 2276 年美国 500 周年时解封。届时这部手机能否正常运作仍是未知数，电池极有可能在此之前就已损坏。不过，若手机仍能启动，人们可通过备忘录应用查看其中保存的一些\"数字工艺品\"。作者感慨，iPhone 问世尚不足 20 年，难以想象 250 年后的科技会是什么样子。9To5Mac·茶馆水群·",
@@ -847,6 +878,6 @@
       }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-07-05T20:57:00.077681"
+  "count": 34,
+  "updated_at": "2026-07-05T21:02:05.008989"
 }
