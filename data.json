@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42369",
+      "channel": "zaihuapd",
+      "text": "SpaceX 原型手机现身投资人面前SpaceX 正把业务从家庭宽带和偏远地区手机连接，进一步推向移动通信。一些投资人已看过一款原型手持设备，知情者称它比 iPhone 更薄，并运行自有操作系统。在上月推进上市前，SpaceX 总裁 Gwynne Shotwell 还谈到，公司可能建设地面网络提供移动服务，也考虑与蜂窝运营商合作。SpaceX 的未来重点之一，是用 Starlink 卫星连接移动设备。The Wall Street Journal·茶馆水群·",
+      "clean_text": "SpaceX 原型手机现身投资人面前SpaceX 正把业务从家庭宽带和偏远地区手机连接，进一步推向移动通信。一些投资人已看过一款原型手持设备，知情者称它比 iPhone 更薄，并运行自有操作系统。在上月推进上市前，SpaceX 总裁 Gwynne Shotwell 还谈到，公司可能建设地面网络提供移动服务，也考虑与蜂窝运营商合作。SpaceX 的未来重点之一，是用 Starlink 卫星连接移动设备。The Wall Street Journal·茶馆水群",
+      "datetime": "2026-07-05T14:10:31+00:00",
+      "views": "51.5K",
+      "source_links": [
+        {
+          "text": "The Wall Street Journal",
+          "url": "https://www.wsj.com/tech/spacexs-telecom-dreams-d461e568"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42369",
+      "scraped_at": "2026-07-05T23:00:33.918138",
+      "title": "SpaceX原型手机亮相",
+      "title_options": {
+        "conclusion": "SpaceX原型手机亮相",
+        "attractive": "比iPhone更薄的原型机",
+        "minimal": "SpaceX原型机",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42368",
       "channel": "zaihuapd",
       "text": "中国公司试验用碳酸饮料气体冷发射火箭中国航天初创公司湖南智宇航天科技正在测试用超临界二氧化碳弹射火箭的冷发射技术。与传统发射台点火不同，该系统先将火箭推至空中再启动发动机，可避免超过 3000°C 的高温废气损坏发射设施，从而降低维护成本、提高发射频率。公司表示，CO₂ 无毒，还能减少低空段燃料消耗。该项目由湖南智宇航空科技与奇阳空间动力科技合作推进，创始人张子涵称若成功商业化，将根本改变小型液体燃料火箭的发射模式。此项技术能否落地仍有待观察。TechRadar·茶馆水群·",
@@ -839,6 +870,6 @@
       }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-07-05T22:58:46.372464"
+  "count": 34,
+  "updated_at": "2026-07-05T23:03:51.103684"
 }
