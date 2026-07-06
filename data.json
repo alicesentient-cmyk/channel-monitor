@@ -1,6 +1,68 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30591",
+      "channel": "xhqcankao",
+      "text": "“哔哩漫游”项目收到律师函，已删库哔哩漫游是一个解除 B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。几个小时前，哔哩漫游项目主页已存档，并删除全部代码，附上了律师函。据侵权告知函显示：上海市弘安律师事务所接受哔哩哔哩委托，就贵方侵害委托人合法权益一事郑重致函。现委托人发现，贵方未经授权，向GitHub仓库“BiliRoaming”等提交针对哔哩哔哩平台的相关代码更新及技术方案，通过技术手段对哔哩哔哩平台的非公开接口、认证体系、访问控制机制、付费内容保护与会员体系进行逆向分析与适配，并以 Xposed 模块、脚本等形式向不特定公众传播。侵权告知函要求开发者立即停止一切侵权行为。",
+      "clean_text": "“哔哩漫游”项目收到律师函，已删库哔哩漫游是一个解除 B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。几个小时前，哔哩漫游项目主页已存档，并删除全部代码，附上了律师函。据侵权告知函显示：上海市弘安律师事务所接受哔哩哔哩委托，就贵方侵害委托人合法权益一事郑重致函。现委托人发现，贵方未经授权，向GitHub仓库“BiliRoaming”等提交针对哔哩哔哩平台的相关代码更新及技术方案，通过技术手段对哔哩哔哩平台的非公开接口、认证体系、访问控制机制、付费内容保护与会员体系进行逆向分析与适配，并以 Xposed 模块、脚本等形式向不特定公众传播。侵权告知函要求开发者立即停止一切侵权行为。——小众软件",
+      "datetime": "2026-07-06T08:28:44+00:00",
+      "views": "2.04K",
+      "source_links": [
+        {
+          "text": "小众软件",
+          "url": "https://www.appinn.com/biliroaming-shutdown/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30591",
+      "scraped_at": "2026-07-06T17:01:45.079272",
+      "title": "“哔哩漫游”项目收到律师函，已删库哔哩漫游是一个解除 B站客户端番剧区域限制",
+      "title_options": {
+        "conclusion": "“哔哩漫游”项目收到律师函，已删库哔哩漫游是一个解除 B站客户端番剧区域限制",
+        "attractive": "“哔哩漫游”项目收到律师函，已删库哔哩漫游是一个解除 B站客户端番剧区域限制",
+        "minimal": "“哔哩漫游”项目收到律师函，已删库哔哩漫游是一个解除 B站客户端番剧区域限制",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42383",
+      "channel": "zaihuapd",
+      "text": "B站向 BiliRoaming 发律师函，要求停止逆向并删除代码B站委托律师事务所向开源项目 BiliRoaming 发出侵权告知函，要求项目方停止对非公开接口、认证体系、访问控制和付费内容保护机制进行逆向分析与适配，并删除或回滚相关代码。函件提到的行为包括播放鉴权 Hook、将付费番剧改写为可观看、绕过安全传输锁定和改写 CDN 回源等，项目方被要求在 2 日内回复。BiliRoaming 是一个解除B站客户端番剧区域的Xposed模块，并提供其他小功能。GitHub|SourceForge|Gitee·茶馆水群·",
+      "clean_text": "B站向 BiliRoaming 发律师函，要求停止逆向并删除代码B站委托律师事务所向开源项目 BiliRoaming 发出侵权告知函，要求项目方停止对非公开接口、认证体系、访问控制和付费内容保护机制进行逆向分析与适配，并删除或回滚相关代码。函件提到的行为包括播放鉴权 Hook、将付费番剧改写为可观看、绕过安全传输锁定和改写 CDN 回源等，项目方被要求在 2 日内回复。BiliRoaming 是一个解除B站客户端番剧区域的Xposed模块，并提供其他小功能。GitHub|SourceForge|Gitee·茶馆水群",
+      "datetime": "2026-07-06T08:21:56+00:00",
+      "views": "51.6K",
+      "source_links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/yujincheng08/BiliRoaming"
+        },
+        {
+          "text": "SourceForge",
+          "url": "https://sourceforge.net/projects/biliroaming.mirror/"
+        },
+        {
+          "text": "Gitee",
+          "url": "https://gitee.com/mirrors/biliroaming"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42383",
+      "scraped_at": "2026-07-06T17:01:43.739634",
+      "title": "B站向 BiliRoaming 发律师…",
+      "title_options": {
+        "conclusion": "B站向 BiliRoaming 发律师…",
+        "attractive": "B站向 BiliRoaming 发律师…",
+        "minimal": "B站向 BiliRoaming 发律师…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30590",
       "channel": "xhqcankao",
       "text": "美国地方政府被发现向黑客支付100万美元封口费 轻信黑客承诺的已删除数据致力于研究勒索软件攻击的机构 Ransom-ISAC 近期发布的案例显示，美国俄亥俄州的某个地方政府机构向黑客支付 100 万美元的赎金以换取数据不会被公开发布。值得注意的是，在这起案例中黑客实际上都没有加密任何数据，仅仅只是威胁要泄露这些窃取的数据，就迫使俄亥俄州的某个郡政府支付高额赎金。黑客称成功窃取约2TB的数据，其中至关重要的是该郡检察官办公室的机密资料。最终该地方政府在2025年6月13日向黑客支付了约 100 万美元。数据泄露确实可能会造成严重后果，但受害者盲目支付赎金很可能是徒劳，因为黑客很可能仍保存这些文件。",
@@ -936,6 +998,6 @@
       }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-06T17:01:22.560838"
+  "count": 37,
+  "updated_at": "2026-07-06T17:06:26.381903"
 }
