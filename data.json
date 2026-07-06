@@ -1065,39 +1065,8 @@
         "minimal": "SpaceX原型机",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42368",
-      "channel": "zaihuapd",
-      "text": "中国公司试验用碳酸饮料气体冷发射火箭中国航天初创公司湖南智宇航天科技正在测试用超临界二氧化碳弹射火箭的冷发射技术。与传统发射台点火不同，该系统先将火箭推至空中再启动发动机，可避免超过 3000°C 的高温废气损坏发射设施，从而降低维护成本、提高发射频率。公司表示，CO₂ 无毒，还能减少低空段燃料消耗。该项目由湖南智宇航空科技与奇阳空间动力科技合作推进，创始人张子涵称若成功商业化，将根本改变小型液体燃料火箭的发射模式。此项技术能否落地仍有待观察。TechRadar·茶馆水群·",
-      "clean_text": "中国公司试验用碳酸饮料气体冷发射火箭中国航天初创公司湖南智宇航天科技正在测试用超临界二氧化碳弹射火箭的冷发射技术。与传统发射台点火不同，该系统先将火箭推至空中再启动发动机，可避免超过 3000°C 的高温废气损坏发射设施，从而降低维护成本、提高发射频率。公司表示，CO₂ 无毒，还能减少低空段燃料消耗。该项目由湖南智宇航空科技与奇阳空间动力科技合作推进，创始人张子涵称若成功商业化，将根本改变小型液体燃料火箭的发射模式。此项技术能否落地仍有待观察。TechRadar·茶馆水群",
-      "datetime": "2026-07-05T13:29:35+00:00",
-      "views": "50K",
-      "source_links": [
-        {
-          "text": "TechRadar",
-          "url": "https://www.techradar.com/pro/chinese-tests-rocket-using-the-same-gas-used-by-coca-cola-to-make-space-flights-cheaper-safer-cleaner-and-cooler"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42368",
-      "scraped_at": "2026-07-05T22:00:39.668223",
-      "title": "中国公司试验CO₂冷发射火箭",
-      "title_options": {
-        "conclusion": "中国公司试验CO₂冷发射火箭",
-        "attractive": "碳酸饮料气体能发射火箭？",
-        "minimal": "CO₂冷发射火箭试验",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-07-07T01:28:36.209694"
+  "count": 40,
+  "updated_at": "2026-07-07T01:33:39.176462"
 }
