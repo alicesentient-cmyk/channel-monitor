@@ -966,38 +966,8 @@
         "minimal": "iPhone 18 Siri AI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42363",
-      "channel": "zaihuapd",
-      "text": "卫报：OpenAI 从未实地造访“星际之门”英国核心选址，300 亿投资承诺恐为噱头英国《卫报》调查发现，OpenAI 从未实地造访 Stargate UK 项目的核心选址——位于北泰恩赛德的 Cobalt Park 商业园区，当地政府也从未与 OpenAI 或合作方 Nscale 举行过任何会议。该项目去年在特朗普访英期间高调宣布，被定为英美 AI 合作的旗舰工程，但知情人士直言\"这从来就不是一个真实存在的项目，不过是政府的公关噱头\"。Stargate UK 已于今年 4 月以监管环境和能源成本过高为由宣告暂停，当地保守党议员表示，项目落地\"看起来极不可能\"。The Guardian·茶馆水群·",
-      "clean_text": "卫报：OpenAI 从未实地造访“星际之门”英国核心选址，300 亿投资承诺恐为噱头英国《卫报》调查发现，OpenAI 从未实地造访 Stargate UK 项目的核心选址——位于北泰恩赛德的 Cobalt Park 商业园区，当地政府也从未与 OpenAI 或合作方 Nscale 举行过任何会议。该项目去年在特朗普访英期间高调宣布，被定为英美 AI 合作的旗舰工程，但知情人士直言\"这从来就不是一个真实存在的项目，不过是政府的公关噱头\"。Stargate UK 已于今年 4 月以监管环境和能源成本过高为由宣告暂停，当地保守党议员表示，项目落地\"看起来极不可能\"。The Guardian·茶馆水群",
-      "datetime": "2026-07-05T05:09:50+00:00",
-      "views": "49.6K",
-      "source_links": [
-        {
-          "text": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42363",
-      "scraped_at": "2026-07-05T14:00:53.015866",
-      "title": "OpenAI从未实地考察英国选址",
-      "title_options": {
-        "conclusion": "OpenAI从未实地考察英国选址",
-        "attractive": "300亿投资承诺恐为噱头",
-        "minimal": "OpenAI 英国选址 噱头"
-      }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-07-06T17:06:26.381903"
+  "count": 36,
+  "updated_at": "2026-07-06T17:11:00.610077"
 }
