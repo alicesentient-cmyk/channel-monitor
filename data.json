@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30586",
+      "channel": "xhqcankao",
+      "text": "英特尔因市场环境变化上调部分CPU价格英特尔已上调部分消费级和服务器 CPU 价格，理由是市场环境变化、成本上升以及相关产品需求持续旺盛。此次涨价中，部分消费级CPU价格上涨30-50美元，数据中心级产品的涨幅则达到数百甚至上千美元。英特尔发言人表示：“近期的价格调整反映了当前的市场环境，包括供应链成本上升，以及消费者对Intel Core Ultra 200S Plus处理器的强劲需求。”从具体产品涨价情况来看，英特尔已上调最新Core Ultra 200系列Plus台式机处理器的建议客户价格。其中，Core Ultra 7 270K Plus和Core Ultra 7 250K Plus根据具体型号不同，上涨30至50美元。这两款处理器均属于Arrow Lake家族。——财联社、Tom's Hardware",
+      "clean_text": "英特尔因市场环境变化上调部分CPU价格英特尔已上调部分消费级和服务器 CPU 价格，理由是市场环境变化、成本上升以及相关产品需求持续旺盛。此次涨价中，部分消费级CPU价格上涨30-50美元，数据中心级产品的涨幅则达到数百甚至上千美元。英特尔发言人表示：“近期的价格调整反映了当前的市场环境，包括供应链成本上升，以及消费者对Intel Core Ultra 200S Plus处理器的强劲需求。”从具体产品涨价情况来看，英特尔已上调最新Core Ultra 200系列Plus台式机处理器的建议客户价格。其中，Core Ultra 7 270K Plus和Core Ultra 7 250K Plus根据具体型号不同，上涨30至50美元。这两款处理器均属于Arrow Lake家族。——财联社、Tom's Hardware",
+      "datetime": "2026-07-06T03:48:02+00:00",
+      "views": "678",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2417648?sv=8.5.9&amp;"
+        },
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-price-hikes-on-select-consumer-and-server-cpus-citing-supply-costs-and-demand-select-xeon-processors-now-over-usd1-000-more-expensive"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30586",
+      "scraped_at": "2026-07-06T12:00:21.366931",
+      "title": "英特尔因市场环境变化上调部分CPU价格…",
+      "title_options": {
+        "conclusion": "英特尔因市场环境变化上调部分CPU价格…",
+        "attractive": "英特尔因市场环境变化上调部分CPU价格…",
+        "minimal": "英特尔因市场环境变化上调部分CPU价格…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30585",
+      "channel": "xhqcankao",
+      "text": "制造工艺问题 英伟达Kyber机架或遇延迟据半导体行业研究机构 SemiAnalysis 在社交平台发布一系列文章，指出英伟达Kyber NVL144机架架构或将遭遇延迟。该机构表示：“就在黄仁勋于GTC展示Kyber NVL144仅三个月后，该产品就遭遇了重大挫折，并被延迟超过12个月，推迟至2028年。”关于产品延迟的原因，该机构将其归结为“PCB中板的制造工艺仍面临重大挑战”。PCB中板(Midplane PCB)是多层印刷电路板(PCB)的一种特殊类型，主要应用于高端AI服务器、大型计算机和通信设备中，充当系统内部的“核心互联枢纽”。英伟达官方通常称其为“正交背板（Orthogonal Backplane）”。",
+      "clean_text": "制造工艺问题 英伟达Kyber机架或遇延迟据半导体行业研究机构 SemiAnalysis 在社交平台发布一系列文章，指出英伟达Kyber NVL144机架架构或将遭遇延迟。该机构表示：“就在黄仁勋于GTC展示Kyber NVL144仅三个月后，该产品就遭遇了重大挫折，并被延迟超过12个月，推迟至2028年。”关于产品延迟的原因，该机构将其归结为“PCB中板的制造工艺仍面临重大挑战”。PCB中板(Midplane PCB)是多层印刷电路板(PCB)的一种特殊类型，主要应用于高端AI服务器、大型计算机和通信设备中，充当系统内部的“核心互联枢纽”。英伟达官方通常称其为“正交背板（Orthogonal Backplane）”。——财联社、CNBC",
+      "datetime": "2026-07-06T03:41:49+00:00",
+      "views": "925",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2417600?sv=8.6.2&amp;"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30585",
+      "scraped_at": "2026-07-06T12:00:21.366683",
+      "title": "制造工艺问题 英伟达Kyber机架或遇…",
+      "title_options": {
+        "conclusion": "制造工艺问题 英伟达Kyber机架或遇…",
+        "attractive": "制造工艺问题 英伟达Kyber机架或遇…",
+        "minimal": "制造工艺问题 英伟达Kyber机架或遇…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42377",
+      "channel": "zaihuapd",
+      "text": "全球最大动漫盗版站 HiAnime 运营者在越南被捕全球最大动漫盗版网站 HiAnime 的疑似运营者近日在越南被捕。越南警方表示，该团伙自 2020 年起运营超过 100 个盗版网站，上传影片逾 26,000 部，通过广告获利约 1,285 万美元。目前 4 名嫌疑人已被拘留，另有 3 人被限制出境。此次行动是在美国国土安全调查局、司法部及反盗版联盟 ACE 支持的多方多年调查后展开的。International Cyber Digest·茶馆水群·",
+      "clean_text": "全球最大动漫盗版站 HiAnime 运营者在越南被捕全球最大动漫盗版网站 HiAnime 的疑似运营者近日在越南被捕。越南警方表示，该团伙自 2020 年起运营超过 100 个盗版网站，上传影片逾 26,000 部，通过广告获利约 1,285 万美元。目前 4 名嫌疑人已被拘留，另有 3 人被限制出境。此次行动是在美国国土安全调查局、司法部及反盗版联盟 ACE 支持的多方多年调查后展开的。International Cyber Digest·茶馆水群",
+      "datetime": "2026-07-06T03:30:32+00:00",
+      "views": "50.2K",
+      "source_links": [
+        {
+          "text": "International Cyber Digest",
+          "url": "https://x.com/IntCyberDigest/status/2073827560048263671"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42377",
+      "scraped_at": "2026-07-06T12:00:20.046328",
+      "title": "全球最大动漫盗版站 HiAnime 运营者在越南被捕全球最大动漫盗版网站 HiAnime ",
+      "title_options": {
+        "conclusion": "全球最大动漫盗版站 HiAnime 运营者在越南被捕全球最大动漫盗版网站 HiAnime ",
+        "attractive": "全球最大动漫盗版站 HiAnime 运营者在越南被捕全球最大动漫盗版网站 HiAnime ",
+        "minimal": "全球最大动漫盗版站 HiAnime 运营者在越南被捕全球最大动漫盗版网站 HiAnime ",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30584",
       "channel": "xhqcankao",
       "text": "美团开源万亿参数大模型LongCat-2.07月6日消息，美团正式开源其万亿参数大模型LongCat-2.0。该模型总参数1.6T，平均激活约48B，架构上引入LongCat稀疏注意力和N-gram Embedding，旨在提升长上下文处理效率与代码理解能力。美团称为业界首个在五万卡国产算力集群上完成推理的万亿参数模型。针对国产算力芯片显存与带宽受限的特点，LongCat-2.0从模型、芯片适配与部署三方面进行了协同优化：模型层通过稀疏注意力和ScMoE架构缓解I/O与显存压力；芯片适配层利用Super Kernel减少算子启动开销；部署层采用 PD 分离部署兼顾首 Token延迟与每个输出 Token的生成时间。开源包含BF16、FP8 及 INT8等多精度版本，和针对国产算力优化的推理代码。",
@@ -899,31 +984,8 @@
         "minimal": "三星4nm售罄",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30566",
-      "channel": "xhqcankao",
-      "text": "华为发布“韬定律”V2版论文据中国科学院科技论文预发布平台ChinaXiv最新公示论文，华为半导体负责人何庭波于7月3日发布《面向多层级电子系统的时间缩微理论》（韬定律）V2版本。新版论文新增多张原理与实物示意图，覆盖τ分层时空模型、LogicFolding架构、键合界面截面、Unified Bus互连架构、Hi-ONE光引擎等核心技术，使 “时间缩微” 理论从概念阐述进一步延伸到系统级技术路径展示。在工程落地层面，V2版本重点细化了LogicFolding的齿比（gear ratio）概念。当混合键合间距接近顶层金属布线尺寸时，3D 设计空间可由传统“宏块级离散优化”转向“单元级连续优化”，从而实现更接近全局最优的垂直逻辑划分。",
-      "clean_text": "华为发布“韬定律”V2版论文据中国科学院科技论文预发布平台ChinaXiv最新公示论文，华为半导体负责人何庭波于7月3日发布《面向多层级电子系统的时间缩微理论》（韬定律）V2版本。新版论文新增多张原理与实物示意图，覆盖τ分层时空模型、LogicFolding架构、键合界面截面、Unified Bus互连架构、Hi-ONE光引擎等核心技术，使 “时间缩微” 理论从概念阐述进一步延伸到系统级技术路径展示。在工程落地层面，V2版本重点细化了LogicFolding的齿比（gear ratio）概念。当混合键合间距接近顶层金属布线尺寸时，3D 设计空间可由传统“宏块级离散优化”转向“单元级连续优化”，从而实现更接近全局最优的垂直逻辑划分。——观察者网",
-      "datetime": "2026-07-05T00:02:09+00:00",
-      "views": "1.42K",
-      "source_links": [
-        {
-          "text": "观察者网",
-          "url": "https://m.guancha.cn/economy/2026_07_04_822592.shtml"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30566",
-      "scraped_at": "2026-07-05T09:00:38.184889",
-      "title": "华为发布韬定律V2版",
-      "title_options": {
-        "conclusion": "华为发布韬定律V2版",
-        "attractive": "华为新论文细化齿比概念",
-        "minimal": "华为韬定律V2",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-07-06T11:57:26.127579"
+  "count": 38,
+  "updated_at": "2026-07-06T12:02:29.663917"
 }
