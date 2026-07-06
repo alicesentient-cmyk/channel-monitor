@@ -957,35 +957,8 @@
         "minimal": "燃油危机，中国电动车抢购",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30573",
-      "channel": "xhqcankao",
-      "text": "美国三座新私营微型核反应堆达成“临界”状态美国能源部近期宣布，在特朗普总统设定的独立日目标日期前，三座由私营企业开发、并获得联邦政府支持的先进微型核反应堆已先后实现“临界”运行状态，能够维持受控的核链式反应，这被视为下一代核能技术迈向示范应用的重要节点。最新实现临界的是总部位于休斯敦的 Deployable Energy 公司研发的“Unity”微型反应堆，其运行属于能源部加速先进核反应堆示范的项目之一，仅用150天达成临界状态；此前， Antares 公司与 Valar Atomics 公司所建反应堆已在今年 6 月完成同样的里程碑。与传统大型核电站相比，这三座装置体积要小得多，主要用于验证新一代反应堆堆型与燃料体系的安全性与可行性。尽管这些微型与小型反应堆尚未在美国形成真正的商业发电应用，但随着数据中心用电需求持续攀升，相关项目已引起基础设施开发商的密切关注。",
-      "clean_text": "美国三座新私营微型核反应堆达成“临界”状态美国能源部近期宣布，在特朗普总统设定的独立日目标日期前，三座由私营企业开发、并获得联邦政府支持的先进微型核反应堆已先后实现“临界”运行状态，能够维持受控的核链式反应，这被视为下一代核能技术迈向示范应用的重要节点。最新实现临界的是总部位于休斯敦的 Deployable Energy 公司研发的“Unity”微型反应堆，其运行属于能源部加速先进核反应堆示范的项目之一，仅用150天达成临界状态；此前， Antares 公司与 Valar Atomics 公司所建反应堆已在今年 6 月完成同样的里程碑。与传统大型核电站相比，这三座装置体积要小得多，主要用于验证新一代反应堆堆型与燃料体系的安全性与可行性。尽管这些微型与小型反应堆尚未在美国形成真正的商业发电应用，但随着数据中心用电需求持续攀升，相关项目已引起基础设施开发商的密切关注。——福布斯，美国能源部",
-      "datetime": "2026-07-05T04:11:26+00:00",
-      "views": "1.65K",
-      "source_links": [
-        {
-          "text": "福布斯",
-          "url": "https://www.forbes.com/sites/christopherhelman/2026/07/02/new-atomic-age-underway-as-three-mini-reactors-go-critical-by-trumps-july-4-deadline/"
-        },
-        {
-          "text": "美国能源部",
-          "url": "https://www.energy.gov/articles/us-department-energy-meets-president-trumps-goal-delivers-third-advanced-reactor"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30573",
-      "scraped_at": "2026-07-05T13:01:07.365858",
-      "title": "美三座微型核堆达临界",
-      "title_options": {
-        "conclusion": "美三座微型核堆达临界",
-        "attractive": "150天建成微型核堆",
-        "minimal": "微型核堆临界",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-07-06T16:10:43.513255"
+  "count": 36,
+  "updated_at": "2026-07-06T16:15:46.624889"
 }
