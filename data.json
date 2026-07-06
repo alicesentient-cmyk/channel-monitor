@@ -997,31 +997,8 @@
         "minimal": "能源部删六千网页",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30576",
-      "channel": "xhqcankao",
-      "text": "印度政府对Telegram下达15天整改通知 要求对盗版频道采取行动印度信息与广播部 7 月 4 日向即时通讯平台 Telegram 发出正式通知，要求其采取更有力措施，打击平台上流传的盗版电影、OTT 剧集以及其他受版权保护的视听内容，并在 15 天内提交“已采取行动报告”。此举延续了3月11日要求Telegram屏蔽逾3,000个盗版频道的指令。MIB强调，本次通知标志着监管逻辑从“零散下架”转向“平台整体问责”，要求Telegram作为网络中介机构履行充分的尽职尽责，不能仅依赖外部举报。通知还要求加大对屡次违规的频道、群组、机器人、账号及相关实体等的处置力度。",
-      "clean_text": "印度政府对Telegram下达15天整改通知 要求对盗版频道采取行动印度信息与广播部 7 月 4 日向即时通讯平台 Telegram 发出正式通知，要求其采取更有力措施，打击平台上流传的盗版电影、OTT 剧集以及其他受版权保护的视听内容，并在 15 天内提交“已采取行动报告”。此举延续了3月11日要求Telegram屏蔽逾3,000个盗版频道的指令。MIB强调，本次通知标志着监管逻辑从“零散下架”转向“平台整体问责”，要求Telegram作为网络中介机构履行充分的尽职尽责，不能仅依赖外部举报。通知还要求加大对屡次违规的频道、群组、机器人、账号及相关实体等的处置力度。——cnBeta",
-      "datetime": "2026-07-05T07:12:14+00:00",
-      "views": "1.9K",
-      "source_links": [
-        {
-          "text": "cnBeta",
-          "url": "https://www.cnbeta.com.tw/articles/tech/1567898.htm"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30576",
-      "scraped_at": "2026-07-05T16:00:32.543231",
-      "title": "印度要求Telegram15天整改",
-      "title_options": {
-        "conclusion": "印度要求Telegram15天整改",
-        "attractive": "Telegram盗版频道遭印度严查",
-        "minimal": "印度Telegram整改通知",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 38,
-  "updated_at": "2026-07-06T19:10:31.464993"
+  "count": 37,
+  "updated_at": "2026-07-06T19:13:05.697271"
 }
