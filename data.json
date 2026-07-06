@@ -1030,39 +1030,8 @@
         "minimal": "Llama API 关闭",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42366",
-      "channel": "zaihuapd",
-      "text": "iPhone 17 Pro Max 被埋入美国 250 周年时间胶囊，2276 年开启为庆祝美国 250 周年，一个巨型时间胶囊近期被埋入地下，囊括了来自各州的当代物品，其中包含一部宇宙橙配色（Cosmic Orange）的 iPhone 17 Pro Max。该时间胶囊计划在 2276 年美国 500 周年时解封。届时这部手机能否正常运作仍是未知数，电池极有可能在此之前就已损坏。不过，若手机仍能启动，人们可通过备忘录应用查看其中保存的一些\"数字工艺品\"。作者感慨，iPhone 问世尚不足 20 年，难以想象 250 年后的科技会是什么样子。9To5Mac·茶馆水群·",
-      "clean_text": "iPhone 17 Pro Max 被埋入美国 250 周年时间胶囊，2276 年开启为庆祝美国 250 周年，一个巨型时间胶囊近期被埋入地下，囊括了来自各州的当代物品，其中包含一部宇宙橙配色（Cosmic Orange）的 iPhone 17 Pro Max。该时间胶囊计划在 2276 年美国 500 周年时解封。届时这部手机能否正常运作仍是未知数，电池极有可能在此之前就已损坏。不过，若手机仍能启动，人们可通过备忘录应用查看其中保存的一些\"数字工艺品\"。作者感慨，iPhone 问世尚不足 20 年，难以想象 250 年后的科技会是什么样子。9To5Mac·茶馆水群",
-      "datetime": "2026-07-05T10:38:58+00:00",
-      "views": "49.7K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42366",
-      "scraped_at": "2026-07-05T19:01:07.354714",
-      "title": "iPhone 17 Pro Max 埋…",
-      "title_options": {
-        "conclusion": "iPhone 17 Pro Max 埋…",
-        "attractive": "2276年开iPhone 17 Pro…",
-        "minimal": "iPhone 17 Pro Max 时…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-07-06T22:36:16.214152"
+  "count": 39,
+  "updated_at": "2026-07-06T22:41:20.183153"
 }
