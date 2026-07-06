@@ -1,6 +1,64 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42389",
+      "channel": "zaihuapd",
+      "text": "Claude Cowork 漏洞可逃逸沙箱Anthropic 的 Claude Desktop for Windows 的 Claude Cowork 功能存在沙箱逃逸链。攻击者一旦先在本地执行代码，就能在隔离的 Ubuntu VM 内拿到 root 权限，绕过网络外连限制，并借助 nsenter 跳出 bubblewrap 沙箱。这条链路利用了 claude.exe 的 DLL sideloading，以及 spawn 接口里 isResume 和 allowedDomains 两个未过滤参数；两者结合后，可一步把 /etc/shadow 发到外部服务器。问题在 2026 年 3 月报告后，Anthropic 将其归类为“不构成安全问题”，因为利用前提是主机已在本机执行恶意代码。Cyber Press·茶馆水群·",
+      "clean_text": "Claude Cowork 漏洞可逃逸沙箱Anthropic 的 Claude Desktop for Windows 的 Claude Cowork 功能存在沙箱逃逸链。攻击者一旦先在本地执行代码，就能在隔离的 Ubuntu VM 内拿到 root 权限，绕过网络外连限制，并借助 nsenter 跳出 bubblewrap 沙箱。这条链路利用了 claude.exe 的 DLL sideloading，以及 spawn 接口里 isResume 和 allowedDomains 两个未过滤参数；两者结合后，可一步把 /etc/shadow 发到外部服务器。问题在 2026 年 3 月报告后，Anthropic 将其归类为“不构成安全问题”，因为利用前提是主机已在本机执行恶意代码。Cyber Press·茶馆水群",
+      "datetime": "2026-07-06T14:53:06+00:00",
+      "views": "39K",
+      "source_links": [
+        {
+          "text": "Cyber Press",
+          "url": "https://cyberpress.org/claude-cowork-flaw/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42389",
+      "scraped_at": "2026-07-06T23:01:37.309324",
+      "title": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
+      "title_options": {
+        "conclusion": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
+        "attractive": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
+        "minimal": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30597",
+      "channel": "xhqcankao",
+      "text": "Xbox拟裁员3200人 将关闭多家游戏工作室微软将裁减6400个工作岗位。其中，Xbox计划在未来一年内裁减3200个职位，约占该部门员工总数的20%，旨在精简业务并将资源重新投入到规模更大的项目中。作为重组计划的一部分，Xbox还将剥离四家电子游戏开发工作室。微软首席人力资源官、拥有27年公司工作经验的艾米·科尔曼周一在给员工的一封信中写道：“在我任职期间，技术的构建、部署和使用方式正在发生比任何时候都更快的变革。”科尔曼写道：“做出这样的决定从来都不容易，我向你们保证，我们会不断寻找减少裁员的方法。”",
+      "clean_text": "Xbox拟裁员3200人 将关闭多家游戏工作室微软将裁减6400个工作岗位。其中，Xbox计划在未来一年内裁减3200个职位，约占该部门员工总数的20%，旨在精简业务并将资源重新投入到规模更大的项目中。作为重组计划的一部分，Xbox还将剥离四家电子游戏开发工作室。微软首席人力资源官、拥有27年公司工作经验的艾米·科尔曼周一在给员工的一封信中写道：“在我任职期间，技术的构建、部署和使用方式正在发生比任何时候都更快的变革。”科尔曼写道：“做出这样的决定从来都不容易，我向你们保证，我们会不断寻找减少裁员的方法。”——界面新闻、CNBC",
+      "datetime": "2026-07-06T14:04:02+00:00",
+      "views": "1.97K",
+      "source_links": [
+        {
+          "text": "界面新闻",
+          "url": "https://m.jiemian.com/article/14710836.html"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30597",
+      "scraped_at": "2026-07-06T23:01:39.145340",
+      "title": "Xbox拟裁员3200人 将关闭多家游…",
+      "title_options": {
+        "conclusion": "Xbox拟裁员3200人 将关闭多家游…",
+        "attractive": "Xbox拟裁员3200人 将关闭多家游…",
+        "minimal": "Xbox拟裁员3200人 将关闭多家游…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42388",
       "channel": "zaihuapd",
       "text": "我国正在论证构建小行星防御系统我国正在论证构建小行星防御系统，以提升应对近地天体撞击风险的能力。该防御系统将以天地一体化监测预警网络为核心，地面部署大口径望远镜，太空部署天基星座，实现昼夜连续观测。国家航天局专家李明涛介绍，直径 1 公里以上近地小行星已发现超 95%，百年内无撞击风险；但 140 米级的仅发现约 45%，更小尺寸发现率更低。防御手段包括动能撞击等瞬时处置技术和引力牵引等持续作用技术。我国已初步突破撞击风险预警模型，正开发业务化预警系统。人民日报·茶馆水群·",
@@ -1032,6 +1090,6 @@
       }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-07-06T23:01:37.089940"
+  "count": 41,
+  "updated_at": "2026-07-06T23:06:41.455296"
 }
