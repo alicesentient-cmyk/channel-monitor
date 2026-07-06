@@ -930,39 +930,8 @@
         "minimal": "铠侠闪存样品",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42359",
-      "channel": "zaihuapd",
-      "text": "F-Droid：Google ADV 即恶意软件，40 亿安卓设备已被预装Android 开发者验证（ADV）是一个由 Google 通过 Play Protect 植入安卓设备的系统进程，伪装为“Android Developer Verifier”，拥有 root 权限且无法移除，约 40 亿台设备已被预装。9 月 30 日起，该程序将在巴西、印尼、新加坡和泰国首批激活，届时将阻止用户运行未经 Google 集中批准的软件，全球推广定于 2027 年及以后。F-Droid 在官方博客中将 ADV 定性为恶意软件，并指出 Google 在开发者服务条款中刻意不对“恶意软件”下定义，从而可任意将不喜欢的软件——如广告拦截器——归入此类，并可据此封禁开发者。尽管已有数十万人联署反对、超过 70 个组织（包括 EFF、FSF、ACLU）签署公开信谴责，该计划仍在推进。F-Droid·茶馆水群·",
-      "clean_text": "📱F-Droid：Google ADV 即恶意软件，40 亿安卓设备已被预装Android 开发者验证（ADV）是一个由 Google 通过 Play Protect 植入安卓设备的系统进程，伪装为“Android Developer Verifier”，拥有 root 权限且无法移除，约 40 亿台设备已被预装。9 月 30 日起，该程序将在巴西、印尼、新加坡和泰国首批激活，届时将阻止用户运行未经 Google 集中批准的软件，全球推广定于 2027 年及以后。F-Droid 在官方博客中将 ADV 定性为恶意软件，并指出 Google 在开发者服务条款中刻意不对“恶意软件”下定义，从而可任意将不喜欢的软件——如广告拦截器——归入此类，并可据此封禁开发者。尽管已有数十万人联署反对、超过 70 个组织（包括 EFF、FSF、ACLU）签署公开信谴责，该计划仍在推进。F-Droid·茶馆水群",
-      "datetime": "2026-07-05T00:41:11+00:00",
-      "views": "1.48K",
-      "source_links": [
-        {
-          "text": "F-Droid",
-          "url": "https://f-droid.org/2026/07/01/adv-malware.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42359",
-      "scraped_at": "2026-07-05T09:00:36.935503",
-      "title": "F-Droid称Google ADV为…",
-      "title_options": {
-        "conclusion": "F-Droid称Google ADV为…",
-        "attractive": "40亿安卓设备预装ADV",
-        "minimal": "F-Droid ADV 恶意软件",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-07-06T12:37:54.276135"
+  "count": 36,
+  "updated_at": "2026-07-06T12:42:58.330735"
 }
