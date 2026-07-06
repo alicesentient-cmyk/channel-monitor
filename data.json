@@ -1,6 +1,45 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42378",
+      "channel": "zaihuapd",
+      "text": "19 岁黑客被引渡美国受审，微软 GDID 设备识别码成执法人员追踪用户的关键美国联邦调查局借助微软 Windows 设备的全球设备标识符（GDID），锁定并逮捕了 19 岁少年黑客 Peter Stokes。斯托克斯虽使用 VPN 隐藏网络地址，但并未改变或隐藏 Windows 系统的 GDID 设备标识符。在其设备访问相关服务或页面时，微软侧会记录与该 GDID 关联的访问时间、目标地址及所使用的出口 IP。调查人员将 GDID 设备标识与代理工具访问记录及 Snapchat、苹果和 Facebook 的登录数据交叉比对，发现其在多地的设备活动与账号登录、旅行轨迹高度重合，从而串联起来完成定位。GDID 是 Windows 安装生成的持久设备级标识符，Windows 更新不会改变它，用户也无法像修改电脑名、IP 地址或浏览器指纹那样通过普通设置直接更改；重新安装 Windows会生成新的 GDID。iTnews|美国司法部(新闻稿|法庭文件)·茶馆水群·",
+      "clean_text": "📱19 岁黑客被引渡美国受审，微软 GDID 设备识别码成执法人员追踪用户的关键美国联邦调查局借助微软 Windows 设备的全球设备标识符（GDID），锁定并逮捕了 19 岁少年黑客 Peter Stokes。斯托克斯虽使用 VPN 隐藏网络地址，但并未改变或隐藏 Windows 系统的 GDID 设备标识符。在其设备访问相关服务或页面时，微软侧会记录与该 GDID 关联的访问时间、目标地址及所使用的出口 IP。调查人员将 GDID 设备标识与代理工具访问记录及 Snapchat、苹果和 Facebook 的登录数据交叉比对，发现其在多地的设备活动与账号登录、旅行轨迹高度重合，从而串联起来完成定位。GDID 是 Windows 安装生成的持久设备级标识符，Windows 更新不会改变它，用户也无法像修改电脑名、IP 地址或浏览器指纹那样通过普通设置直接更改；重新安装 Windows会生成新的 GDID。iTnews|美国司法部(新闻稿|法庭文件)·茶馆水群",
+      "datetime": "2026-07-06T04:15:22+00:00",
+      "views": "51.4K",
+      "source_links": [
+        {
+          "text": "iTnews",
+          "url": "https://www.itnews.com.au/news/microsoft-device-telemetry-key-to-unmasking-alleged-scattered-spider-hacker-627148"
+        },
+        {
+          "text": "美国司法部(新闻稿",
+          "url": "https://www.justice.gov/opa/pr/alleged-member-criminal-cyber-hacking-group-scattered-spider-arrested-finland-and-extradited"
+        },
+        {
+          "text": "法庭文件",
+          "url": "https://www.justice.gov/usao-ndil/media/1450651/dl?inline"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42378",
+      "scraped_at": "2026-07-06T13:01:51.680332",
+      "title": "19 岁黑客被引渡美国受审，微软 GDID 设备识别码成执法人员追踪用户",
+      "title_options": {
+        "conclusion": "19 岁黑客被引渡美国受审，微软 GDID 设备识别码成执法人员追踪用户",
+        "attractive": "19 岁黑客被引渡美国受审，微软 GDID 设备识别码成执法人员追踪用户",
+        "minimal": "19 岁黑客被引渡美国受审，微软 GDID 设备识别码成执法人员追踪用户",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30586",
       "channel": "xhqcankao",
       "text": "英特尔因市场环境变化上调部分CPU价格英特尔已上调部分消费级和服务器 CPU 价格，理由是市场环境变化、成本上升以及相关产品需求持续旺盛。此次涨价中，部分消费级CPU价格上涨30-50美元，数据中心级产品的涨幅则达到数百甚至上千美元。英特尔发言人表示：“近期的价格调整反映了当前的市场环境，包括供应链成本上升，以及消费者对Intel Core Ultra 200S Plus处理器的强劲需求。”从具体产品涨价情况来看，英特尔已上调最新Core Ultra 200系列Plus台式机处理器的建议客户价格。其中，Core Ultra 7 270K Plus和Core Ultra 7 250K Plus根据具体型号不同，上涨30至50美元。这两款处理器均属于Arrow Lake家族。——财联社、Tom's Hardware",
@@ -932,6 +971,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-07-06T12:58:10.451735"
+  "count": 37,
+  "updated_at": "2026-07-06T13:03:16.353717"
 }
