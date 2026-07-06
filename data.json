@@ -998,39 +998,8 @@
         "minimal": "AI智能体卡拉OK",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30570",
-      "channel": "xhqcankao",
-      "text": "印度将就儿童性虐待内容问题传唤Meta政府官员周五透露，印度技术部长Ashwini Vaishnaw已要求其团队就Instagram平台上涉及儿童的色情内容问题，传唤Meta平台公司。下达这一指令的当天，Meta团队正与技术部官员会面，以了解后者对 WhatsApp 新推出的“用户名”功能的担忧。Meta并未对此次传唤作出评论。不过，针对周五早些时候BBC一项揭露 Instagram 广告中存在儿童性虐待材料的调查，Meta作出了回应。Meta 在一份声明中表示，对“招揽或分享”此类内容持“零容忍态度”，并补充称其团队正在不断努力加强防御措施。",
-      "clean_text": "印度将就儿童性虐待内容问题传唤Meta政府官员周五透露，印度技术部长Ashwini Vaishnaw已要求其团队就Instagram平台上涉及儿童的色情内容问题，传唤Meta平台公司。下达这一指令的当天，Meta团队正与技术部官员会面，以了解后者对 WhatsApp 新推出的“用户名”功能的担忧。Meta并未对此次传唤作出评论。不过，针对周五早些时候BBC一项揭露 Instagram 广告中存在儿童性虐待材料的调查，Meta作出了回应。Meta 在一份声明中表示，对“招揽或分享”此类内容持“零容忍态度”，并补充称其团队正在不断努力加强防御措施。——华尔街见闻、BBC、彭博社",
-      "datetime": "2026-07-05T03:07:36+00:00",
-      "views": "1.63K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3128776"
-        },
-        {
-          "text": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvgm4e0316zo"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/india-to-summon-meta-over-child-sexual-abuse-content"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30570",
-      "scraped_at": "2026-07-05T12:01:16.668048",
-      "title": "印度传唤Meta涉儿童色情",
-      "title_options": {
-        "conclusion": "印度传唤Meta涉儿童色情",
-        "attractive": "Meta被曝儿童性虐待内容",
-        "minimal": "印度传唤Meta",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-07-06T15:04:46.023980"
+  "count": 38,
+  "updated_at": "2026-07-06T15:09:49.039629"
 }
