@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42390",
+      "channel": "zaihuapd",
+      "text": "任天堂将在欧洲推出可换电池版 Switch 2，旧 Switch 明年停售为应对 2027 年 2 月中旬生效的欧洲电池法规，任天堂宣布从 2026 年夏季起，将在欧洲陆续推出内置用户可更换电池的改版产品。首批改版产品包括 Nintendo Switch 2 主机（预计秋季上市，附带改版 Joy-Con 2）、Joy-Con 2 手柄（冬季单独发售）、Switch 2 Pro 手柄（冬季）以及 N64、GameCube 手柄（2027 年初）。改版产品在功能上与现有版本无差异，电池更换套件未来也将在欧洲任天堂商城销售。值得注意的是，旧款 Switch、Switch Lite 和 Switch OLED 不会推出可换电池版本。任天堂表示，这三款主机将在 2026 年继续生产，但从 2027 年 2 月中旬起将停止在欧洲向零售商供货，任天堂商城也将同步停售。不过 eShop、Nintendo Switch Online 等在线服务将继续运营。Nintendo of Europe SE·茶馆水群·",
+      "clean_text": "任天堂将在欧洲推出可换电池版 Switch 2，旧 Switch 明年停售为应对 2027 年 2 月中旬生效的欧洲电池法规，任天堂宣布从 2026 年夏季起，将在欧洲陆续推出内置用户可更换电池的改版产品。首批改版产品包括 Nintendo Switch 2 主机（预计秋季上市，附带改版 Joy-Con 2）、Joy-Con 2 手柄（冬季单独发售）、Switch 2 Pro 手柄（冬季）以及 N64、GameCube 手柄（2027 年初）。改版产品在功能上与现有版本无差异，电池更换套件未来也将在欧洲任天堂商城销售。值得注意的是，旧款 Switch、Switch Lite 和 Switch OLED 不会推出可换电池版本。任天堂表示，这三款主机将在 2026 年继续生产，但从 2027 年 2 月中旬起将停止在欧洲向零售商供货，任天堂商城也将同步停售。不过 eShop、Nintendo Switch Online 等在线服务将继续运营。Nintendo of Europe SE·茶馆水群",
+      "datetime": "2026-07-06T15:53:49+00:00",
+      "views": "48.1K",
+      "source_links": [
+        {
+          "text": "Nintendo of Europe SE",
+          "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42390",
+      "scraped_at": "2026-07-07T00:06:46.980846",
+      "title": "任天堂将在欧洲推出可换电池版 Switch 2，旧 Switch 明年停售为应对 2027 年 2 月中旬生效",
+      "title_options": {
+        "conclusion": "任天堂将在欧洲推出可换电池版 Switch 2，旧 Switch 明年停售为应对 2027 年 2 月中旬生效",
+        "attractive": "任天堂将在欧洲推出可换电池版 Switch 2，旧 Switch 明年停售为应对 2027 年 2 月中旬生效",
+        "minimal": "任天堂将在欧洲推出可换电池版 Switch 2，旧 Switch 明年停售为应对 2027 年 2 月中旬生效",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42389",
       "channel": "zaihuapd",
       "text": "Claude Cowork 漏洞可逃逸沙箱Anthropic 的 Claude Desktop for Windows 的 Claude Cowork 功能存在沙箱逃逸链。攻击者一旦先在本地执行代码，就能在隔离的 Ubuntu VM 内拿到 root 权限，绕过网络外连限制，并借助 nsenter 跳出 bubblewrap 沙箱。这条链路利用了 claude.exe 的 DLL sideloading，以及 spawn 接口里 isResume 和 allowedDomains 两个未过滤参数；两者结合后，可一步把 /etc/shadow 发到外部服务器。问题在 2026 年 3 月报告后，Anthropic 将其归类为“不构成安全问题”，因为利用前提是主机已在本机执行恶意代码。Cyber Press·茶馆水群·",
@@ -1090,6 +1121,6 @@
       }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-07-07T00:02:30.465242"
+  "count": 42,
+  "updated_at": "2026-07-07T00:07:34.124840"
 }
