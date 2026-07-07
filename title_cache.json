@@ -14374,5 +14374,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-07T18:04:39.926291"
+  },
+  "zaihuapd_42407": {
+    "ai_title": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+    "title_options": {
+      "conclusion": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+      "attractive": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+      "minimal": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-07T19:05:28.722775"
+  },
+  "xhqcankao_30620": {
+    "ai_title": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+    "title_options": {
+      "conclusion": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+      "attractive": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+      "minimal": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-07T19:05:28.749833"
   }
 }

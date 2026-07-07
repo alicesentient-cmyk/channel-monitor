@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30620",
+      "channel": "xhqcankao",
+      "text": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况的人士表示，过去一个月内，中国主管部门已与顶级科技公司举行会议，讨论可能限制海外访问中国最先进的AI模型，包括那些尚未发布的模型。出席会谈的公司包括科技巨头阿里巴巴、字节跳动以及初创公司智谱。据其中两位消息人士称，在这些由中国商务部牵头的会议上，与会者讨论了限制最先进AI模型的问题",
+      "clean_text": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况的人士表示，过去一个月内，中国主管部门已与顶级科技公司举行会议，讨论可能限制海外访问中国最先进的AI模型，包括那些尚未发布的模型。出席会谈的公司包括科技巨头阿里巴巴、字节跳动以及初创公司智谱。据其中两位消息人士称，在这些由中国商务部牵头的会议上，与会者讨论了限制最先进AI模型的问题——既包括闭源版本，也包括更开放的版本。其中一位消息人士说，官员们谈到将任何专有AI技术的泄露或盗窃行为定为违反中国严格国家安全法的罪行。该消息人士补充说，官员们还提出了实施新措施以限制谁可以为国内AI初创企业提供资金的可能性。——路透社",
+      "datetime": "2026-07-07T10:59:50+00:00",
+      "views": "169",
+      "source_links": [
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30620",
+      "scraped_at": "2026-07-07T19:01:01.254372",
+      "title": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+      "title_options": {
+        "conclusion": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+        "attractive": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+        "minimal": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42407",
+      "channel": "zaihuapd",
+      "text": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发的 KVM/x86 虚拟机逃逸漏洞。该漏洞源于 shadow MMU 模拟中的 use-after-free 缺陷，客户机仅通过内部操作即可破坏宿主机内核的 shadow page，直接威胁公有云等多租户 KVM 宿主机的隔离边界。该漏洞影响范围横跨 2010 年至 2026 年 6 月，在 Linux 内核中潜伏约 16 年，曾被用作 Google kvmCTF 的 0-day 攻击。其 PoC 代码已发布，可在客户机内触发宿主机内核 panic。此外，在 RHEL 等发行版中，本地普通用户还可利用该缺陷提权至 root。GitHub·茶馆水群·",
+      "clean_text": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发的 KVM/x86 虚拟机逃逸漏洞。该漏洞源于 shadow MMU 模拟中的 use-after-free 缺陷，客户机仅通过内部操作即可破坏宿主机内核的 shadow page，直接威胁公有云等多租户 KVM 宿主机的隔离边界。该漏洞影响范围横跨 2010 年至 2026 年 6 月，在 Linux 内核中潜伏约 16 年，曾被用作 Google kvmCTF 的 0-day 攻击。其 PoC 代码已发布，可在客户机内触发宿主机内核 panic。此外，在 RHEL 等发行版中，本地普通用户还可利用该缺陷提权至 root。GitHub·茶馆水群",
+      "datetime": "2026-07-07T10:14:30+00:00",
+      "views": "51.3K",
+      "source_links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/V4bel/Januscape"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42407",
+      "scraped_at": "2026-07-07T19:00:59.389937",
+      "title": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+      "title_options": {
+        "conclusion": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+        "attractive": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+        "minimal": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42405",
       "channel": "zaihuapd",
       "text": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制的 4NP 制程。英特尔当地 Fab 52 也已投产 18A 制程，美国已具备先进逻辑芯片的本土制造能力。但亚利桑那生产的 Blackwell 晶圆仍需运往约 7000 英里外的台湾，完成切割、堆叠和 CoWoS-L 封装，美国目前也没有量产或封装 HBM 的设施。Amkor、台积电和 SK 海力士正建设相关产能，完整的美国本土供应链预计最早要到 2028 至 2029 年形成。Tom’s Hardware⁠·茶馆水群·",
@@ -1333,6 +1387,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-07T19:00:23.906042"
+  "count": 53,
+  "updated_at": "2026-07-07T19:05:28.771891"
 }
