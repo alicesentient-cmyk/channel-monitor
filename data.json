@@ -1278,31 +1278,8 @@
         "minimal": "全球最大动漫盗版站 HiAnime 运营者在越南被捕全球最大动漫盗版网站 HiAnime ",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30584",
-      "channel": "xhqcankao",
-      "text": "美团开源万亿参数大模型LongCat-2.07月6日消息，美团正式开源其万亿参数大模型LongCat-2.0。该模型总参数1.6T，平均激活约48B，架构上引入LongCat稀疏注意力和N-gram Embedding，旨在提升长上下文处理效率与代码理解能力。美团称为业界首个在五万卡国产算力集群上完成推理的万亿参数模型。针对国产算力芯片显存与带宽受限的特点，LongCat-2.0从模型、芯片适配与部署三方面进行了协同优化：模型层通过稀疏注意力和ScMoE架构缓解I/O与显存压力；芯片适配层利用Super Kernel减少算子启动开销；部署层采用 PD 分离部署兼顾首 Token延迟与每个输出 Token的生成时间。开源包含BF16、FP8 及 INT8等多精度版本，和针对国产算力优化的推理代码。",
-      "clean_text": "美团开源万亿参数大模型LongCat-2.07月6日消息，美团正式开源其万亿参数大模型LongCat-2.0。该模型总参数1.6T，平均激活约48B，架构上引入LongCat稀疏注意力和N-gram Embedding，旨在提升长上下文处理效率与代码理解能力。美团称为业界首个在五万卡国产算力集群上完成推理的万亿参数模型。针对国产算力芯片显存与带宽受限的特点，LongCat-2.0从模型、芯片适配与部署三方面进行了协同优化：模型层通过稀疏注意力和ScMoE架构缓解I/O与显存压力；芯片适配层利用Super Kernel减少算子启动开销；部署层采用 PD 分离部署兼顾首 Token延迟与每个输出 Token的生成时间。开源包含BF16、FP8 及 INT8等多精度版本，和针对国产算力优化的推理代码。——凤凰网科技",
-      "datetime": "2026-07-06T02:43:18+00:00",
-      "views": "1.01K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v0062YD8qtgPEjFAZnH25p--R-_fiDS1VDUB5p4yh2-_gOsEXX7pbSHbBzr2-_RVvu1sS-_cf"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30584",
-      "scraped_at": "2026-07-06T11:00:28.213745",
-      "title": "美团开源万亿参数大模型LongCat-…",
-      "title_options": {
-        "conclusion": "美团开源万亿参数大模型LongCat-…",
-        "attractive": "美团开源万亿参数大模型LongCat-…",
-        "minimal": "美团开源万亿参数大模型LongCat-…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-07T14:41:53.772159"
+  "count": 48,
+  "updated_at": "2026-07-07T14:47:00.576575"
 }
