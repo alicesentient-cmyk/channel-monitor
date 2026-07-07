@@ -14334,5 +14334,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-07T17:03:44.963039"
+  },
+  "xhqcankao_30618": {
+    "ai_title": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+    "title_options": {
+      "conclusion": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+      "attractive": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+      "minimal": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-07T18:04:39.079520"
+  },
+  "xhqcankao_30619": {
+    "ai_title": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+    "title_options": {
+      "conclusion": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+      "attractive": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+      "minimal": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-07T18:04:39.086093"
+  },
+  "zaihuapd_42405": {
+    "ai_title": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+    "title_options": {
+      "conclusion": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+      "attractive": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+      "minimal": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-07T18:04:39.096476"
+  },
+  "zaihuapd_42404": {
+    "ai_title": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+    "title_options": {
+      "conclusion": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+      "attractive": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+      "minimal": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-07T18:04:39.926291"
   }
 }

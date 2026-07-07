@@ -1,6 +1,101 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42405",
+      "channel": "zaihuapd",
+      "text": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制的 4NP 制程。英特尔当地 Fab 52 也已投产 18A 制程，美国已具备先进逻辑芯片的本土制造能力。但亚利桑那生产的 Blackwell 晶圆仍需运往约 7000 英里外的台湾，完成切割、堆叠和 CoWoS-L 封装，美国目前也没有量产或封装 HBM 的设施。Amkor、台积电和 SK 海力士正建设相关产能，完整的美国本土供应链预计最早要到 2028 至 2029 年形成。Tom’s Hardware⁠·茶馆水群·",
+      "clean_text": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制的 4NP 制程。英特尔当地 Fab 52 也已投产 18A 制程，美国已具备先进逻辑芯片的本土制造能力。但亚利桑那生产的 Blackwell 晶圆仍需运往约 7000 英里外的台湾，完成切割、堆叠和 CoWoS-L 封装，美国目前也没有量产或封装 HBM 的设施。Amkor、台积电和 SK 海力士正建设相关产能，完整的美国本土供应链预计最早要到 2028 至 2029 年形成。Tom’s Hardware⁠·茶馆水群",
+      "datetime": "2026-07-07T09:47:58+00:00",
+      "views": "48.1K",
+      "source_links": [
+        {
+          "text": "Tom’s Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42405",
+      "scraped_at": "2026-07-07T18:01:45.710037",
+      "title": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+      "title_options": {
+        "conclusion": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+        "attractive": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+        "minimal": "英伟达 Blackwell 晶圆已在美国量产，但仍需运往台湾完成先进封装台积电亚利桑那州 Fab 21 已量产英伟达 Blackwell 晶圆，采用为英伟达定制",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30619",
+      "channel": "xhqcankao",
+      "text": "阿里巴巴AI模型备受欢迎，但难以变现阿里巴巴于2023年推出了通义千问这个AI模型系列，并很快将其开源。到今年一月，通义千问已成为全球下载量最高的开源人工智能系统。据 Hugging Face 平台的数据，通义千问模型每天的下载量约为 100万次。然而，如此广泛的覆盖范围并未带来丰厚的真金白银。今年一季度，阿里巴巴来自人工智能相关产品的营收为13亿美元，在总营收的占比不到4%。而且与公司计划在明年底前投入逾 550亿美元建设人工智能基础设施的规模相比，这一数字显得微不足道。通义千问首席工程师林俊旸三月宣布离开阿里。与此同时，另外几位核心工程师也相继离职。两名知情人士透露，团队内部因如何才能最好地实现通义千问的商业化而产生了分歧。",
+      "clean_text": "阿里巴巴AI模型备受欢迎，但难以变现阿里巴巴于2023年推出了通义千问这个AI模型系列，并很快将其开源。到今年一月，通义千问已成为全球下载量最高的开源人工智能系统。据 Hugging Face 平台的数据，通义千问模型每天的下载量约为 100万次。然而，如此广泛的覆盖范围并未带来丰厚的真金白银。今年一季度，阿里巴巴来自人工智能相关产品的营收为13亿美元，在总营收的占比不到4%。而且与公司计划在明年底前投入逾 550亿美元建设人工智能基础设施的规模相比，这一数字显得微不足道。通义千问首席工程师林俊旸三月宣布离开阿里。与此同时，另外几位核心工程师也相继离职。两名知情人士透露，团队内部因如何才能最好地实现通义千问的商业化而产生了分歧。——纽约时报",
+      "datetime": "2026-07-07T09:30:53+00:00",
+      "views": "1.64K",
+      "source_links": [
+        {
+          "text": "纽约时报",
+          "url": "https://cn.nytimes.com/business/20260707/alibaba-ai-qwen/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30619",
+      "scraped_at": "2026-07-07T18:01:47.595736",
+      "title": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+      "title_options": {
+        "conclusion": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+        "attractive": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+        "minimal": "阿里巴巴AI模型备受欢迎，但难以变现阿…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30618",
+      "channel": "xhqcankao",
+      "text": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月的 618购物节期间，中国智能手机销量按年下跌13%，主要是因为各品牌上调售价以抵销较高的内存成本。5月26日-6月21日期间，除华为外，所有主要中国品牌的销量均出现两位数下滑，促销活动较去年同期减少抑制了需求。荣耀的销量下降了33%，小米的销量下降了24%。今年，随着AI基础设施的快速建设，内存价格上涨，推高了手机成本，使得品牌商在被视为该国蓬勃发展的电商行业风向标的 618购物节期间，提供大幅折扣的空间较小。华为以21%的市场份额领跑市场，并且是唯一在 618期间录得同比正增长的主要品牌，销售额增长19%。",
+      "clean_text": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月的 618购物节期间，中国智能手机销量按年下跌13%，主要是因为各品牌上调售价以抵销较高的内存成本。5月26日-6月21日期间，除华为外，所有主要中国品牌的销量均出现两位数下滑，促销活动较去年同期减少抑制了需求。荣耀的销量下降了33%，小米的销量下降了24%。今年，随着AI基础设施的快速建设，内存价格上涨，推高了手机成本，使得品牌商在被视为该国蓬勃发展的电商行业风向标的 618购物节期间，提供大幅折扣的空间较小。华为以21%的市场份额领跑市场，并且是唯一在 618期间录得同比正增长的主要品牌，销售额增长19%。——路透社",
+      "datetime": "2026-07-07T09:04:24+00:00",
+      "views": "2.61K",
+      "source_links": [
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/business/media-telecom/china-smartphone-sales-drop-13-during-618-festival-memory-costs-limit-discounts-2026-07-07/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30618",
+      "scraped_at": "2026-07-07T18:01:47.595326",
+      "title": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+      "title_options": {
+        "conclusion": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+        "attractive": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+        "minimal": "中国智能手机销量在618购物节期间跌13%Counterpoint Research数据显示，在为期一个月",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42404",
+      "channel": "zaihuapd",
+      "text": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强的 Sonnet 模型，可规划、使用浏览器和终端等工具并自主运行。它在推理、工具使用、编码和知识工作上强于 Sonnet 4.6，性能接近 Opus 4.8，但价格更低。  Claude Sonnet 5 即日起面向所有套餐开放，并成为 Free 和 Pro 默认模型；Claude Platform 限时价截至 2026 年 8 月 31 日为每百万输入 token 2 美元、输出 token…",
+      "clean_text": "🤖Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强的 Sonnet 模型，可规划、使用浏览器和终端等工具并自主运行。它在推理、工具使用、编码和知识工作上强于 Sonnet 4.6，性能接近 Opus 4.8，但价格更低。  Claude Sonnet 5 即日起面向所有套餐开放，并成为 Free 和 Pro 默认模型；Claude Platform 限时价截至 2026 年 8 月 31 日为每百万输入 token 2 美元、输出 token…",
+      "datetime": "2026-07-07T09:02:58+00:00",
+      "views": "52.5K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42404",
+      "scraped_at": "2026-07-07T18:01:45.709377",
+      "title": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+      "title_options": {
+        "conclusion": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+        "attractive": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+        "minimal": "Claude Sonnet 5 发布  Anthropic 发布 Claude Sonnet 5，称其是迄今代理能力最强",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30617",
       "channel": "xhqcankao",
       "text": "中国AI模型在美国公司中日益受到青睐中国AI模型正在缩小与美国顶尖竞争对手性能差距的同时，使用成本却显著更低。DeepSeek 和Z.ai等中国公司近期发布新模型，正值美国AI实验室上调最先进模型Token使用价格之际。根据 OpenRouter 的数据，美国企业对中国AI模型的使用占比自2月8日以来每周均保持在30%以上，最高甚至达到46%。相比之下，过去12个月的平均占比仅为11%，而在2025年上半年这一数字曾一度降至4.5%。“价格才是关键，当一项任务不需要最好的模型时，团队就会开始选择价格最低且足够好的模型，而最近来自中国的模型浪潮正在赢得这种竞争。”中国开源模型可能比领先的Anthropic和OpenAI模型“便宜60%到90%”，且性能“接近美国顶尖的前沿模型”。",
@@ -1354,6 +1449,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-07T17:59:34.532772"
+  "count": 55,
+  "updated_at": "2026-07-07T18:04:39.948980"
 }
