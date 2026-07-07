@@ -1412,43 +1412,8 @@
         "minimal": "华为Mate90系列搭载",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42380",
-      "channel": "zaihuapd",
-      "text": "Token 支出指数较 5 月份高点大幅下跌近 20%衡量全市场每百万 LLM Token 支付价格的 Silicon Data LLM Token 支出指数在经历了自去年 12 月创立以来近乎翻倍的狂飙后，目前已较 5 月份的高点大幅下跌了近 20%。对于这场支撑起整个 AI 板块、规模超 7000 亿美元的资本支出热潮而言，该指数是外界目前所能获取的最清晰、最直接的市场风向标。需要澄清的是，该指数的走软并不完全等同于 AI 服务正在变得更便宜。该指标综合了价格与使用量两大维度——这意味着其下滑可能蕴含着截然不同的图景：要么是官方的 Token 标价在下调，要么是市场需求正在向更廉价的大模型分流。这也可能表明，买家愿意承担的成本确实有所降低。财联社|Bloomberg·茶馆水群·",
-      "clean_text": "Token 支出指数较 5 月份高点大幅下跌近 20%衡量全市场每百万 LLM Token 支付价格的 Silicon Data LLM Token 支出指数在经历了自去年 12 月创立以来近乎翻倍的狂飙后，目前已较 5 月份的高点大幅下跌了近 20%。对于这场支撑起整个 AI 板块、规模超 7000 亿美元的资本支出热潮而言，该指数是外界目前所能获取的最清晰、最直接的市场风向标。需要澄清的是，该指数的走软并不完全等同于 AI 服务正在变得更便宜。该指标综合了价格与使用量两大维度——这意味着其下滑可能蕴含着截然不同的图景：要么是官方的 Token 标价在下调，要么是市场需求正在向更廉价的大模型分流。这也可能表明，买家愿意承担的成本确实有所降低。财联社|Bloomberg·茶馆水群",
-      "datetime": "2026-07-06T06:07:12+00:00",
-      "views": "52.1K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2417668?os=android&amp;sv=8.8.0&amp;app=cailianpress&amp;selected="
-        },
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42380",
-      "scraped_at": "2026-07-06T15:02:14.588316",
-      "title": "Token 支出指数较 5 月份高点大幅下跌近 20%衡量全市场每百万 LLM Token 支付价格",
-      "title_options": {
-        "conclusion": "Token 支出指数较 5 月份高点大幅下跌近 20%衡量全市场每百万 LLM Token 支付价格",
-        "attractive": "Token 支出指数较 5 月份高点大幅下跌近 20%衡量全市场每百万 LLM Token 支付价格",
-        "minimal": "Token 支出指数较 5 月份高点大幅下跌近 20%衡量全市场每百万 LLM Token 支付价格",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-07-07T18:04:39.948980"
+  "count": 54,
+  "updated_at": "2026-07-07T18:09:44.964106"
 }
