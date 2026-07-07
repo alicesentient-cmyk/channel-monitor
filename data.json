@@ -1301,35 +1301,8 @@
         "minimal": "英特尔因市场环境变化上调部分CPU价格…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30585",
-      "channel": "xhqcankao",
-      "text": "制造工艺问题 英伟达Kyber机架或遇延迟据半导体行业研究机构 SemiAnalysis 在社交平台发布一系列文章，指出英伟达Kyber NVL144机架架构或将遭遇延迟。该机构表示：“就在黄仁勋于GTC展示Kyber NVL144仅三个月后，该产品就遭遇了重大挫折，并被延迟超过12个月，推迟至2028年。”关于产品延迟的原因，该机构将其归结为“PCB中板的制造工艺仍面临重大挑战”。PCB中板(Midplane PCB)是多层印刷电路板(PCB)的一种特殊类型，主要应用于高端AI服务器、大型计算机和通信设备中，充当系统内部的“核心互联枢纽”。英伟达官方通常称其为“正交背板（Orthogonal Backplane）”。",
-      "clean_text": "制造工艺问题 英伟达Kyber机架或遇延迟据半导体行业研究机构 SemiAnalysis 在社交平台发布一系列文章，指出英伟达Kyber NVL144机架架构或将遭遇延迟。该机构表示：“就在黄仁勋于GTC展示Kyber NVL144仅三个月后，该产品就遭遇了重大挫折，并被延迟超过12个月，推迟至2028年。”关于产品延迟的原因，该机构将其归结为“PCB中板的制造工艺仍面临重大挑战”。PCB中板(Midplane PCB)是多层印刷电路板(PCB)的一种特殊类型，主要应用于高端AI服务器、大型计算机和通信设备中，充当系统内部的“核心互联枢纽”。英伟达官方通常称其为“正交背板（Orthogonal Backplane）”。——财联社、CNBC",
-      "datetime": "2026-07-06T03:41:49+00:00",
-      "views": "925",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2417600?sv=8.6.2&amp;"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30585",
-      "scraped_at": "2026-07-06T12:00:21.366683",
-      "title": "制造工艺问题 英伟达Kyber机架或遇…",
-      "title_options": {
-        "conclusion": "制造工艺问题 英伟达Kyber机架或遇…",
-        "attractive": "制造工艺问题 英伟达Kyber机架或遇…",
-        "minimal": "制造工艺问题 英伟达Kyber机架或遇…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-07T15:37:37.982535"
+  "count": 49,
+  "updated_at": "2026-07-07T15:42:41.598748"
 }
