@@ -1321,39 +1321,8 @@
         "minimal": "任天堂将在欧洲推出可换电池版 Switch 2，旧 Switch 明年停售为应对 2027 年 2 月中旬生效",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42389",
-      "channel": "zaihuapd",
-      "text": "Claude Cowork 漏洞可逃逸沙箱Anthropic 的 Claude Desktop for Windows 的 Claude Cowork 功能存在沙箱逃逸链。攻击者一旦先在本地执行代码，就能在隔离的 Ubuntu VM 内拿到 root 权限，绕过网络外连限制，并借助 nsenter 跳出 bubblewrap 沙箱。这条链路利用了 claude.exe 的 DLL sideloading，以及 spawn 接口里 isResume 和 allowedDomains 两个未过滤参数；两者结合后，可一步把 /etc/shadow 发到外部服务器。问题在 2026 年 3 月报告后，Anthropic 将其归类为“不构成安全问题”，因为利用前提是主机已在本机执行恶意代码。Cyber Press·茶馆水群·",
-      "clean_text": "Claude Cowork 漏洞可逃逸沙箱Anthropic 的 Claude Desktop for Windows 的 Claude Cowork 功能存在沙箱逃逸链。攻击者一旦先在本地执行代码，就能在隔离的 Ubuntu VM 内拿到 root 权限，绕过网络外连限制，并借助 nsenter 跳出 bubblewrap 沙箱。这条链路利用了 claude.exe 的 DLL sideloading，以及 spawn 接口里 isResume 和 allowedDomains 两个未过滤参数；两者结合后，可一步把 /etc/shadow 发到外部服务器。问题在 2026 年 3 月报告后，Anthropic 将其归类为“不构成安全问题”，因为利用前提是主机已在本机执行恶意代码。Cyber Press·茶馆水群",
-      "datetime": "2026-07-06T14:53:06+00:00",
-      "views": "39K",
-      "source_links": [
-        {
-          "text": "Cyber Press",
-          "url": "https://cyberpress.org/claude-cowork-flaw/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42389",
-      "scraped_at": "2026-07-06T23:01:37.309324",
-      "title": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
-      "title_options": {
-        "conclusion": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
-        "attractive": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
-        "minimal": "Claude Cowork 漏洞可逃逸沙箱Anthropic ",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-08T02:51:52.195002"
+  "count": 50,
+  "updated_at": "2026-07-08T02:56:55.889464"
 }
