@@ -1400,47 +1400,8 @@
         "minimal": "“哔哩漫游”项目收到律师函，已删库哔哩漫游是一个解除 B站客户端番剧区域限制",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42383",
-      "channel": "zaihuapd",
-      "text": "B站向 BiliRoaming 发律师函，要求停止逆向并删除代码B站委托律师事务所向开源项目 BiliRoaming 发出侵权告知函，要求项目方停止对非公开接口、认证体系、访问控制和付费内容保护机制进行逆向分析与适配，并删除或回滚相关代码。函件提到的行为包括播放鉴权 Hook、将付费番剧改写为可观看、绕过安全传输锁定和改写 CDN 回源等，项目方被要求在 2 日内回复。BiliRoaming 是一个解除B站客户端番剧区域的Xposed模块，并提供其他小功能。GitHub|SourceForge|Gitee·茶馆水群·",
-      "clean_text": "B站向 BiliRoaming 发律师函，要求停止逆向并删除代码B站委托律师事务所向开源项目 BiliRoaming 发出侵权告知函，要求项目方停止对非公开接口、认证体系、访问控制和付费内容保护机制进行逆向分析与适配，并删除或回滚相关代码。函件提到的行为包括播放鉴权 Hook、将付费番剧改写为可观看、绕过安全传输锁定和改写 CDN 回源等，项目方被要求在 2 日内回复。BiliRoaming 是一个解除B站客户端番剧区域的Xposed模块，并提供其他小功能。GitHub|SourceForge|Gitee·茶馆水群",
-      "datetime": "2026-07-06T08:21:56+00:00",
-      "views": "51.6K",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/yujincheng08/BiliRoaming"
-        },
-        {
-          "text": "SourceForge",
-          "url": "https://sourceforge.net/projects/biliroaming.mirror/"
-        },
-        {
-          "text": "Gitee",
-          "url": "https://gitee.com/mirrors/biliroaming"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42383",
-      "scraped_at": "2026-07-06T17:01:43.739634",
-      "title": "B站向 BiliRoaming 发律师…",
-      "title_options": {
-        "conclusion": "B站向 BiliRoaming 发律师…",
-        "attractive": "B站向 BiliRoaming 发律师…",
-        "minimal": "B站向 BiliRoaming 发律师…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-07-07T20:21:34.779896"
+  "count": 54,
+  "updated_at": "2026-07-07T20:26:38.231129"
 }
