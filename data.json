@@ -1427,26 +1427,8 @@
         "minimal": "日本15岁男孩用ChatGPT入侵万代南梦宫删除4万用户一名15岁少年因涉嫌通过网络攻击干扰“万代频道”",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42385",
-      "channel": "zaihuapd",
-      "text": "腾讯混元 Hy3 preview 模型发布并开源  腾讯正式发布并开源混元 Hy3 preview 语言模型。作为架构重建后的首个混合专家模型（MoE），该模型总参数量达 295B，激活参数 21B，支持 256K 上下文长度。其核心能力定位于复杂推理与智能体（Agent）应用，在数学、科学等理工科推理任务及代码开发场景中表现显著提升。  受模型架构与推理框架深度协同影响，Hy3 preview 的推理性能大幅优化，其中 CodeBuddy 等产品首 token 延迟降低 54%。目前该模型已在元宝、腾讯文档、QQ…",
-      "clean_text": "腾讯混元 Hy3 preview 模型发布并开源  腾讯正式发布并开源混元 Hy3 preview 语言模型。作为架构重建后的首个混合专家模型（MoE），该模型总参数量达 295B，激活参数 21B，支持 256K 上下文长度。其核心能力定位于复杂推理与智能体（Agent）应用，在数学、科学等理工科推理任务及代码开发场景中表现显著提升。  受模型架构与推理框架深度协同影响，Hy3 preview 的推理性能大幅优化，其中 CodeBuddy 等产品首 token 延迟降低 54%。目前该模型已在元宝、腾讯文档、QQ…",
-      "datetime": "2026-07-06T10:09:41+00:00",
-      "views": "51.5K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42385",
-      "scraped_at": "2026-07-06T19:01:41.728195",
-      "title": "腾讯混元 Hy3 preview 模型…",
-      "title_options": {
-        "conclusion": "腾讯混元 Hy3 preview 模型…",
-        "attractive": "腾讯混元 Hy3 preview 模型…",
-        "minimal": "腾讯混元 Hy3 preview 模型…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-07T22:08:03.823091"
+  "count": 55,
+  "updated_at": "2026-07-07T22:10:46.360779"
 }
