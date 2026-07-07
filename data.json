@@ -1274,35 +1274,8 @@
         "minimal": "19 岁黑客被引渡美国受审，微软 GDID 设备识别码成执法人员追踪用户",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30586",
-      "channel": "xhqcankao",
-      "text": "英特尔因市场环境变化上调部分CPU价格英特尔已上调部分消费级和服务器 CPU 价格，理由是市场环境变化、成本上升以及相关产品需求持续旺盛。此次涨价中，部分消费级CPU价格上涨30-50美元，数据中心级产品的涨幅则达到数百甚至上千美元。英特尔发言人表示：“近期的价格调整反映了当前的市场环境，包括供应链成本上升，以及消费者对Intel Core Ultra 200S Plus处理器的强劲需求。”从具体产品涨价情况来看，英特尔已上调最新Core Ultra 200系列Plus台式机处理器的建议客户价格。其中，Core Ultra 7 270K Plus和Core Ultra 7 250K Plus根据具体型号不同，上涨30至50美元。这两款处理器均属于Arrow Lake家族。——财联社、Tom's Hardware",
-      "clean_text": "英特尔因市场环境变化上调部分CPU价格英特尔已上调部分消费级和服务器 CPU 价格，理由是市场环境变化、成本上升以及相关产品需求持续旺盛。此次涨价中，部分消费级CPU价格上涨30-50美元，数据中心级产品的涨幅则达到数百甚至上千美元。英特尔发言人表示：“近期的价格调整反映了当前的市场环境，包括供应链成本上升，以及消费者对Intel Core Ultra 200S Plus处理器的强劲需求。”从具体产品涨价情况来看，英特尔已上调最新Core Ultra 200系列Plus台式机处理器的建议客户价格。其中，Core Ultra 7 270K Plus和Core Ultra 7 250K Plus根据具体型号不同，上涨30至50美元。这两款处理器均属于Arrow Lake家族。——财联社、Tom's Hardware",
-      "datetime": "2026-07-06T03:48:02+00:00",
-      "views": "678",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2417648?sv=8.5.9&amp;"
-        },
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-price-hikes-on-select-consumer-and-server-cpus-citing-supply-costs-and-demand-select-xeon-processors-now-over-usd1-000-more-expensive"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30586",
-      "scraped_at": "2026-07-06T12:00:21.366931",
-      "title": "英特尔因市场环境变化上调部分CPU价格…",
-      "title_options": {
-        "conclusion": "英特尔因市场环境变化上调部分CPU价格…",
-        "attractive": "英特尔因市场环境变化上调部分CPU价格…",
-        "minimal": "英特尔因市场环境变化上调部分CPU价格…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-07T15:47:45.690991"
+  "count": 48,
+  "updated_at": "2026-07-07T15:52:48.739332"
 }
