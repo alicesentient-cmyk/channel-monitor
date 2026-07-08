@@ -1,6 +1,95 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42421",
+      "channel": "zaihuapd",
+      "text": "Claude Cowork 上线：AI 可后台自动完成复杂任务Anthropic 推出 Claude Cowork，面向 Pro、Max、Team 及 Enterprise 付费用户开放，支持桌面端、网页与移动端。网页及移动端的测试版正从 Max 套餐开始逐步推送。该功能可自主完成多步骤复杂任务，例如整理文件、生成带公式的 Excel 表格与演示文稿、整合研究报告等。任务在 Anthropic 服务器上远程运行，即使用户关闭电脑，工作仍会在后台继续。桌面端支持直接读写本地文件与浏览器操作，用户还可设置定时自动任务，并通过项目功能分组管理工作。系统在删除文件前会要求用户明确授权。Claude Help Center·茶馆水群·",
+      "clean_text": "Claude Cowork 上线：AI 可后台自动完成复杂任务Anthropic 推出 Claude Cowork，面向 Pro、Max、Team 及 Enterprise 付费用户开放，支持桌面端、网页与移动端。网页及移动端的测试版正从 Max 套餐开始逐步推送。该功能可自主完成多步骤复杂任务，例如整理文件、生成带公式的 Excel 表格与演示文稿、整合研究报告等。任务在 Anthropic 服务器上远程运行，即使用户关闭电脑，工作仍会在后台继续。桌面端支持直接读写本地文件与浏览器操作，用户还可设置定时自动任务，并通过项目功能分组管理工作。系统在删除文件前会要求用户明确授权。Claude Help Center·茶馆水群",
+      "datetime": "2026-07-08T03:50:00+00:00",
+      "views": "47.4K",
+      "source_links": [
+        {
+          "text": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42421",
+      "scraped_at": "2026-07-08T12:01:50.161058",
+      "title": "Claude Cowork 上线：AI…",
+      "title_options": {
+        "conclusion": "Claude Cowork 上线：AI…",
+        "attractive": "Claude Cowork 上线：AI…",
+        "minimal": "Claude Cowork 上线：AI…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42420",
+      "channel": "zaihuapd",
+      "text": "谷歌定于 8 月 12 日发布 Pixel 11 系列，基础款或涨价 100 美元谷歌将于 8 月 12 日在纽约举行新品发布会，预计推出 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold，并发布 Pixel Watch 5。发布会将于美国东部时间 18 时开始。新机可能加入背部状态提示灯，并取消部分机型的 128 GB 版本。若谷歌沿用现有定价换算方式，Pixel 11 在美国的起售价可能升至 899 美元，较上一代上涨 100 美元。Ars Technica·茶馆水群·",
+      "clean_text": "谷歌定于 8 月 12 日发布 Pixel 11 系列，基础款或涨价 100 美元谷歌将于 8 月 12 日在纽约举行新品发布会，预计推出 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold，并发布 Pixel Watch 5。发布会将于美国东部时间 18 时开始。新机可能加入背部状态提示灯，并取消部分机型的 128 GB 版本。若谷歌沿用现有定价换算方式，Pixel 11 在美国的起售价可能升至 899 美元，较上一代上涨 100 美元。Ars Technica·茶馆水群",
+      "datetime": "2026-07-08T03:30:29+00:00",
+      "views": "50.6K",
+      "source_links": [
+        {
+          "text": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42420",
+      "scraped_at": "2026-07-08T12:01:50.160520",
+      "title": "谷歌定于 8 月 12 日发布 Pix…",
+      "title_options": {
+        "conclusion": "谷歌定于 8 月 12 日发布 Pix…",
+        "attractive": "谷歌定于 8 月 12 日发布 Pix…",
+        "minimal": "谷歌定于 8 月 12 日发布 Pix…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30635",
+      "channel": "xhqcankao",
+      "text": "600亿收购Cursor后 SpaceX将发首款模型内部备忘录显示，SpaceX 公司旗下 AI 部门SpaceXAI 与 Cursor计划最早于周三推出双方联合开发的首款AI模型。SpaceXAI的前身是xAI，被SpaceX收购后更名为SpaceXAI。今年6月，SpaceX宣布以600亿美元全股票交易收购Cursor，增强其在利润丰厚的企业AI工具市场中的布局。Cursor是Anthropic和OpenAI的重要竞争对手之一，但由于缺乏足够的计算资源支持，其增长面临挑战。SpaceXAI 与 Cursor在本周初推迟了该模型的发布计划，以便提升其运行效率。报道指出，新模型信息处理速度突出，部分性能可对标Opus 4.8与OpenAI GPT 5.5。——凤凰网科技、The Information",
+      "clean_text": "600亿收购Cursor后 SpaceX将发首款模型内部备忘录显示，SpaceX 公司旗下 AI 部门SpaceXAI 与 Cursor计划最早于周三推出双方联合开发的首款AI模型。SpaceXAI的前身是xAI，被SpaceX收购后更名为SpaceXAI。今年6月，SpaceX宣布以600亿美元全股票交易收购Cursor，增强其在利润丰厚的企业AI工具市场中的布局。Cursor是Anthropic和OpenAI的重要竞争对手之一，但由于缺乏足够的计算资源支持，其增长面临挑战。SpaceXAI 与 Cursor在本周初推迟了该模型的发布计划，以便提升其运行效率。报道指出，新模型信息处理速度突出，部分性能可对标Opus 4.8与OpenAI GPT 5.5。——凤凰网科技、The Information",
+      "datetime": "2026-07-08T03:30:18+00:00",
+      "views": "1.39K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006F1FoLv8WDjpWIuAvW20--FOCjFmx5E1zw-_pybB9KbclfFQn8dAzsKtNPhvrU8LApl"
+        },
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/briefings/exclusive-spacexai-plans-launch-new-model-cursor-soon-wednesday"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30635",
+      "scraped_at": "2026-07-08T12:01:51.949176",
+      "title": "600亿收购Cursor后 SpaceX将发首款模型内部备忘录显示，SpaceX 公司旗下 AI 部门SpaceXAI 与 Cursor计划最早于周三推出双方联合开发",
+      "title_options": {
+        "conclusion": "600亿收购Cursor后 SpaceX将发首款模型内部备忘录显示，SpaceX 公司旗下 AI 部门SpaceXAI 与 Cursor计划最早于周三推出双方联合开发",
+        "attractive": "600亿收购Cursor后 SpaceX将发首款模型内部备忘录显示，SpaceX 公司旗下 AI 部门SpaceXAI 与 Cursor计划最早于周三推出双方联合开发",
+        "minimal": "600亿收购Cursor后 SpaceX将发首款模型内部备忘录显示，SpaceX 公司旗下 AI 部门SpaceXAI 与 Cursor计划最早于周三推出双方联合开发",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30634",
       "channel": "xhqcankao",
       "text": "谷歌为Voice服务新增两项个人付费套餐Google Voice已新增两项个人套餐选项。到目前为止，Google Voice基本上分为两个主要层级：面向个人用户的免费版本，让您方便地将所有设备连接到同一电话号码，以及面向寻求强大多用户解决方案的企业和机构的付费Workspace访问。我们所熟悉的那个个人套餐将被称为Voice Basic，并将继续免费使用。每月支付10美元，用户可以升级到Voice Starter，这增加了对客户支持、三方通话等功能的访问，并承诺如果您长时间不活跃使用服务，不会收回您的Google Voice号码。在此之上，Voice Standard每月20美元，可以通过 “自动接线员” 功能智能路由您的来电，并添加了Gemini笔记功能。",
@@ -1580,6 +1669,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-08T11:57:16.455432"
+  "count": 63,
+  "updated_at": "2026-07-08T12:02:19.934211"
 }
