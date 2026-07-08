@@ -1,6 +1,52 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30647",
+      "channel": "xhqcankao",
+      "text": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达的新型CPU芯片。这将帮助英伟达撬动由英特尔和AMD等传统芯片制造商主导的CPU市场。英伟达Vera处理器的优势在于，它是从零开始为AI智能体时代而构建。AI智能体是一种自主程序，可以不断编写代码、执行任务并协调复杂的工作流程，而无需像人类计算机用户那样休息。英特尔和AMD的CPU则从笔记本电脑时代开始兴盛，实际无法完美应对AI智能体持续不断的循环运算。Perplexity 公司负责计算机企业和基础设施的副总裁表示，英伟达的CPU执行AI智能体编码任务的速度比传统CPU快约1.5倍，这与他们核心架构完美契合。",
+      "clean_text": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达的新型CPU芯片。这将帮助英伟达撬动由英特尔和AMD等传统芯片制造商主导的CPU市场。英伟达Vera处理器的优势在于，它是从零开始为AI智能体时代而构建。AI智能体是一种自主程序，可以不断编写代码、执行任务并协调复杂的工作流程，而无需像人类计算机用户那样休息。英特尔和AMD的CPU则从笔记本电脑时代开始兴盛，实际无法完美应对AI智能体持续不断的循环运算。Perplexity 公司负责计算机企业和基础设施的副总裁表示，英伟达的CPU执行AI智能体编码任务的速度比传统CPU快约1.5倍，这与他们核心架构完美契合。——财联社",
+      "datetime": "2026-07-08T09:32:45+00:00",
+      "views": "1.29K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2420008?sv=8.5.9"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30647",
+      "scraped_at": "2026-07-08T18:01:32.450003",
+      "title": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
+      "title_options": {
+        "conclusion": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
+        "attractive": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
+        "minimal": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30646",
+      "channel": "xhqcankao",
+      "text": "腾讯挖角OpenAI前研究员田永龙 参与VLM研发7月8日，澎湃新闻记者从腾讯相关负责人处获悉，OpenAI前研究员Yonglong Tian（田永龙）已于近期加入腾讯大语言模型部，后续将参与VLM(视觉语言模型)相关研发。据公开资料显示，田永龙此前在 OpenAI 公司的核心研究方向包括计算机视觉、视觉表征学习（Representation Learning）以及生成式模型。在 OpenAI 之前，他曾在 “谷歌系” 深耕多年。2022年底，他加入位于剑桥的谷歌 Research 担任高级研究科学家，随后于 2024 年 5 月转入Google DeepMind。据了解，田永龙与现任腾讯首席科学家姚顺雨有过OpenAI阶段的共事经历。",
+      "clean_text": "腾讯挖角OpenAI前研究员田永龙 参与VLM研发7月8日，澎湃新闻记者从腾讯相关负责人处获悉，OpenAI前研究员Yonglong Tian（田永龙）已于近期加入腾讯大语言模型部，后续将参与VLM(视觉语言模型)相关研发。据公开资料显示，田永龙此前在 OpenAI 公司的核心研究方向包括计算机视觉、视觉表征学习（Representation Learning）以及生成式模型。在 OpenAI 之前，他曾在 “谷歌系” 深耕多年。2022年底，他加入位于剑桥的谷歌 Research 担任高级研究科学家，随后于 2024 年 5 月转入Google DeepMind。据了解，田永龙与现任腾讯首席科学家姚顺雨有过OpenAI阶段的共事经历。——澎湃新闻",
+      "datetime": "2026-07-08T09:03:16+00:00",
+      "views": "2.22K",
+      "source_links": [
+        {
+          "text": "澎湃新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33540343"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30646",
+      "scraped_at": "2026-07-08T18:01:32.449611",
+      "title": "腾讯挖角OpenAI前研究员田永龙 参…",
+      "title_options": {
+        "conclusion": "腾讯挖角OpenAI前研究员田永龙 参…",
+        "attractive": "腾讯挖角OpenAI前研究员田永龙 参…",
+        "minimal": "腾讯挖角OpenAI前研究员田永龙 参…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30645",
       "channel": "xhqcankao",
       "text": "X加强编辑功能 希望成为原创内容首发平台社交平台 X 正在引入新的视频编辑和录制功能，以期鼓励创作者在其平台上发布原创内容，而不是重复使用他人的素材。此次更新将带来新功能，包括叠加多种语言的视频字幕并自定义其外观的能力，以及可与手机相册或其他 X 帖子中的照片配合使用的绿屏工具。X的产品负责人Nikita Bier在一篇帖子中写道：“我们最大的优先事项之一是为创作者提供创作原创内容的工具，并奖励那些创作者。未来几周内，我们还会有更多针对视频编辑器的更新。”其想法是提供一个“实用型”视频编辑器，以便X上的一些视频“最终能成为在其他平台上不存在的原创内容”。",
@@ -1549,6 +1595,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-08T17:56:51.227274"
+  "count": 61,
+  "updated_at": "2026-07-08T18:01:55.761629"
 }
