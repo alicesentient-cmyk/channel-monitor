@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42441",
+      "channel": "zaihuapd",
+      "text": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出的首个联合模型。Grok 4.5 在 Harvey 法律代理基准测试中排名第一，专注编码、法律和金融服务等高难度专业任务，同时强化了网络安全能力。模型以 80 TPS 速度运行，token 效率达到同类领先模型的两倍，价格定为每百万输入 tokens 2 美元、输出 6 美元。现已上线 Grok Build、Cursor 各付费计划及 API，并集成 Word、PowerPoint、Excel 插件。EU 地区预计 7 月中旬可用。Xai|Bloomberg·茶馆水群·",
+      "clean_text": "🤖SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出的首个联合模型。Grok 4.5 在 Harvey 法律代理基准测试中排名第一，专注编码、法律和金融服务等高难度专业任务，同时强化了网络安全能力。模型以 80 TPS 速度运行，token 效率达到同类领先模型的两倍，价格定为每百万输入 tokens 2 美元、输出 6 美元。现已上线 Grok Build、Cursor 各付费计划及 API，并集成 Word、PowerPoint、Excel 插件。EU 地区预计 7 月中旬可用。Xai|Bloomberg·茶馆水群",
+      "datetime": "2026-07-08T18:05:26+00:00",
+      "views": "48.5K",
+      "source_links": [
+        {
+          "text": "Xai",
+          "url": "https://x.ai/news/grok-4-5"
+        },
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42441",
+      "scraped_at": "2026-07-09T03:01:28.382765",
+      "title": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+      "title_options": {
+        "conclusion": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+        "attractive": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+        "minimal": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42439",
       "channel": "zaihuapd",
       "text": "研究人员可通过电磁信号识别手机应用，准确率最高达 99.07%研究人员开发出一种非接触式取证技术，可分析手机运行时泄漏的低频电磁信号，判断设备正在使用的应用及部分操作。该方法无需访问手机系统或存储数据，即使设备处于离线、飞行模式、加密或锁定状态也能工作。研究团队在 iPhone 15 Pro、小米 15 Pro 和 OPPO Reno 13 上进行测试，对抖音、微信视频通话、百度地图、短信、浏览器、相机和云存储等应用的识别准确率最高达到 99.07%。南华早报⁠ ｜期刊·茶馆水群·",
@@ -1565,6 +1600,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-09T02:59:10.763295"
+  "count": 60,
+  "updated_at": "2026-07-09T03:04:14.582611"
 }
