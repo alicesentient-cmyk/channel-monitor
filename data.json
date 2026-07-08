@@ -1561,39 +1561,8 @@
         "minimal": "中国金融科技专利超越美国 占全球近四成…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42398",
-      "channel": "zaihuapd",
-      "text": "谷歌新增“保存媒体”设置，Lens 图片和语音搜索等内容可用于 AI 训练谷歌近期调整搜索服务隐私设置，新增“搜索服务历史记录”及“保存媒体”选项。用户通过 Google Lens、Search Live、语音搜索、翻译口语练习等功能上传的图片、文件、音频和视频，可能会被保存，并用于改进 Google 服务及 AI 模型。用户如不希望相关媒体被保存，可在 Google 账号的“搜索服务历史记录”中关闭“保存媒体”。TechCrunch·茶馆水群·",
-      "clean_text": "谷歌新增“保存媒体”设置，Lens 图片和语音搜索等内容可用于 AI 训练谷歌近期调整搜索服务隐私设置，新增“搜索服务历史记录”及“保存媒体”选项。用户通过 Google Lens、Search Live、语音搜索、翻译口语练习等功能上传的图片、文件、音频和视频，可能会被保存，并用于改进 Google 服务及 AI 模型。用户如不希望相关媒体被保存，可在 Google 账号的“搜索服务历史记录”中关闭“保存媒体”。TechCrunch·茶馆水群",
-      "datetime": "2026-07-07T04:00:07+00:00",
-      "views": "7.01K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42398",
-      "scraped_at": "2026-07-07T12:02:12.392524",
-      "title": "谷歌新增“保存媒体”设置，Lens 图…",
-      "title_options": {
-        "conclusion": "谷歌新增“保存媒体”设置，Lens 图…",
-        "attractive": "谷歌新增“保存媒体”设置，Lens 图…",
-        "minimal": "谷歌新增“保存媒体”设置，Lens 图…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-08T15:55:16.147682"
+  "count": 60,
+  "updated_at": "2026-07-08T16:00:20.050764"
 }
