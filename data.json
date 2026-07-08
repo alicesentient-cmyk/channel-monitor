@@ -1,6 +1,87 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42416",
+      "channel": "zaihuapd",
+      "text": "Google Voice 首次向个人开放付费套餐，支持通话录音与 GeminiGoogle Voice 首次向个人用户开放付费套餐，无需 Google Workspace 订阅即可升级。两个新套餐主要面向小企业和副业人士，但任何人都可购买。Starter 套餐月费 10 美元，包含三方通话、通话转接、通话录音、桌面电话支持及 24/7 客服，号码不会因不活跃被回收。Standard 套餐月费 20 美元（前 6 个月半价），额外提供自动话务员呼叫路由和 Gemini 功能，可自动转录通话、总结要点并生成行动项，通话结束后将自动创建的 Google Doc 通过邮件发送。用户可在应用头像处找到升级入口，通过g.co/voice/upgrade页面订阅。9To5Google·茶馆水群·",
+      "clean_text": "🐶Google Voice 首次向个人开放付费套餐，支持通话录音与 GeminiGoogle Voice 首次向个人用户开放付费套餐，无需 Google Workspace 订阅即可升级。两个新套餐主要面向小企业和副业人士，但任何人都可购买。Starter 套餐月费 10 美元，包含三方通话、通话转接、通话录音、桌面电话支持及 24/7 客服，号码不会因不活跃被回收。Standard 套餐月费 20 美元（前 6 个月半价），额外提供自动话务员呼叫路由和 Gemini 功能，可自动转录通话、总结要点并生成行动项，通话结束后将自动创建的 Google Doc 通过邮件发送。用户可在应用头像处找到升级入口，通过g.co/voice/upgrade页面订阅。9To5Google·茶馆水群",
+      "datetime": "2026-07-08T01:00:29+00:00",
+      "views": "15K",
+      "source_links": [
+        {
+          "text": "g.co/voice/upgrade",
+          "url": "http://g.co/voice/upgrade"
+        },
+        {
+          "text": "9To5Google",
+          "url": "https://9to5google.com/2026/07/07/paid-google-voice/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42416",
+      "scraped_at": "2026-07-08T09:03:34.298832",
+      "title": "Google Voice 首次向个人开…",
+      "title_options": {
+        "conclusion": "Google Voice 首次向个人开…",
+        "attractive": "Google Voice 首次向个人开…",
+        "minimal": "Google Voice 首次向个人开…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30630",
+      "channel": "xhqcankao",
+      "text": "微软修复占用大量存储空间的文件夹问题微软正在解决一个导致某个文件夹占用数GB存储空间的 Windows 11 系统错误。据媒体报道，微软将该补丁包含在其 2026年6月可选更新（KB5095093）中，该更新「改进了CapabilityAccessManager.db-wal文件的磁盘空间使用情况」。CapabilityAccessManager.db-wal文件默认安装在Windows 11电脑上，并且与应用权限相关。过去几个月里，几位用户遇到了该文件的问题，其中一人表示该文件占用了其设备上500GB的存储空间。其他人也报告该文件增长到同样大的规模，范围从 12GB 到200GB不等。据了解，该文件增长的原因可能是Windows 11“一直在记录访问请求或其他隐私控制（如位置）的重复事件”。",
+      "clean_text": "微软修复占用大量存储空间的文件夹问题微软正在解决一个导致某个文件夹占用数GB存储空间的 Windows 11 系统错误。据媒体报道，微软将该补丁包含在其 2026年6月可选更新（KB5095093）中，该更新「改进了CapabilityAccessManager.db-wal文件的磁盘空间使用情况」。CapabilityAccessManager.db-wal文件默认安装在Windows 11电脑上，并且与应用权限相关。过去几个月里，几位用户遇到了该文件的问题，其中一人表示该文件占用了其设备上500GB的存储空间。其他人也报告该文件增长到同样大的规模，范围从 12GB 到200GB不等。据了解，该文件增长的原因可能是Windows 11“一直在记录访问请求或其他隐私控制（如位置）的重复事件”。——Theverge",
+      "datetime": "2026-07-08T01:00:13+00:00",
+      "views": "250",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30630",
+      "scraped_at": "2026-07-08T09:03:35.999461",
+      "title": "微软修复占用大量存储空间",
+      "title_options": {
+        "conclusion": "微软修复占用大量存储空间",
+        "attractive": "微软修复占用大量存储空间",
+        "minimal": "微软修复占用大量存储空间",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30629",
+      "channel": "xhqcankao",
+      "text": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座根据美国联邦通信委员会（FCC）官网的信披文件显示，SpaceX公司已在本周正式申请FCC批准其发射并运营一个由10万颗卫星组成的第三代（Gen3）卫星星座。第三代星座将由10万颗卫星组成，部署在两组薄层、紧密堆叠的运行轨道壳层中，标称高度分别位于323至327.5公里之间，以及473至477.5公里之间。毫无疑问，当部署规模达到10万颗卫星，这套系统就不再是连接偏远地区和航班Wi-Fi的“卫星互联网”，而是AI时代的全球通信底座。具备“承载全球大部分互联网流量的能力”，为全球政府用户、企业、消费者，以及数十亿台AI驱动设备提供极低延迟、多吉比特级别的上下行对称吞吐能力。",
+      "clean_text": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座根据美国联邦通信委员会（FCC）官网的信披文件显示，SpaceX公司已在本周正式申请FCC批准其发射并运营一个由10万颗卫星组成的第三代（Gen3）卫星星座。第三代星座将由10万颗卫星组成，部署在两组薄层、紧密堆叠的运行轨道壳层中，标称高度分别位于323至327.5公里之间，以及473至477.5公里之间。毫无疑问，当部署规模达到10万颗卫星，这套系统就不再是连接偏远地区和航班Wi-Fi的“卫星互联网”，而是AI时代的全球通信底座。具备“承载全球大部分互联网流量的能力”，为全球政府用户、企业、消费者，以及数十亿台AI驱动设备提供极低延迟、多吉比特级别的上下行对称吞吐能力。——财联社",
+      "datetime": "2026-07-08T00:31:53+00:00",
+      "views": "1.08K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2419748?sv=8.8.0"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30629",
+      "scraped_at": "2026-07-08T09:03:35.999127",
+      "title": "SpaceX申请部署10万颗卫星 建立面向AI时代",
+      "title_options": {
+        "conclusion": "SpaceX申请部署10万颗卫星 建立面向AI时代",
+        "attractive": "SpaceX申请部署10万颗卫星 建立面向AI时代",
+        "minimal": "SpaceX申请部署10万颗卫星 建立面向AI时代",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30628",
       "channel": "xhqcankao",
       "text": "微软扩大自研模型应用场景 办公软件逐步减少依赖外部竞品为了降低人工智能成本，微软公司正开始在Excel、Outlook等软件产品中，以自研AI模型取代OpenAI和Anthropic的模型。知情人士透露，目前Excel和Outlook这两款广泛使用的办公软件中，每周已有数万条AI提示由微软自主研发的MAI模型完成处理。此前，这两款产品主要依赖OpenAI和Anthropic提供的大模型。这是微软自研MAI模型在办公软件中应用规模首次曝光。尽管目前MAI模型占微软整体AI使用量的比例仍然较小，但这一举措显示，公司正在以更低成本打造具有竞争力的AI模型方面取得进展。",
@@ -1356,6 +1437,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-08T09:00:25.322222"
+  "count": 55,
+  "updated_at": "2026-07-08T09:05:29.678236"
 }
