@@ -1,6 +1,87 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30656",
+      "channel": "xhqcankao",
+      "text": "欧盟强制所有新车搭载防分心驾驶摄像头欧盟更新后的《通用安全法规》于7月7日正式进入全面落地的最终阶段，从当日起，所有在欧盟地区完成注册的全新车辆，必须强制配备面向驾驶员面部的监测摄像头，这标志着这项酝酿近七年的道路安全新规完成全范围覆盖。本次强制落地的核心系统名为“高级驾驶员分心警告（ADDW)”，该系统通过车载摄像头实时追踪驾驶员的视线方向、头部位置与眼球运动轨迹，精准判断驾驶员注意力是否偏离路面：当车辆处于高速行驶状态下，驾驶员分心时长达到 3.5 秒就会触发警报；在城市低速行驶场景下，分心时长达到六秒时系统也会及时发出预警，从根源上减少因驾驶员走神引发的交通事故。——环球网、The deepdive",
+      "clean_text": "欧盟强制所有新车搭载防分心驾驶摄像头欧盟更新后的《通用安全法规》于7月7日正式进入全面落地的最终阶段，从当日起，所有在欧盟地区完成注册的全新车辆，必须强制配备面向驾驶员面部的监测摄像头，这标志着这项酝酿近七年的道路安全新规完成全范围覆盖。本次强制落地的核心系统名为“高级驾驶员分心警告（ADDW)”，该系统通过车载摄像头实时追踪驾驶员的视线方向、头部位置与眼球运动轨迹，精准判断驾驶员注意力是否偏离路面：当车辆处于高速行驶状态下，驾驶员分心时长达到 3.5 秒就会触发警报；在城市低速行驶场景下，分心时长达到六秒时系统也会及时发出预警，从根源上减少因驾驶员走神引发的交通事故。——环球网、The deepdive",
+      "datetime": "2026-07-08T14:00:28+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "环球网",
+          "url": "https://tech.huanqiu.com/article/4SIQitZV8fX"
+        },
+        {
+          "text": "The deepdive",
+          "url": "https://thedeepdive.ca/every-new-eu-car-now-has-a-camera-watching-the-drivers-face/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30656",
+      "scraped_at": "2026-07-08T22:01:09.468385",
+      "title": "欧盟强制所有新车搭载防分心驾驶摄像头欧盟更新后",
+      "title_options": {
+        "conclusion": "欧盟强制所有新车搭载防分心驾驶摄像头欧盟更新后",
+        "attractive": "欧盟强制所有新车搭载防分心驾驶摄像头欧盟更新后",
+        "minimal": "欧盟强制所有新车搭载防分心驾驶摄像头欧盟更新后",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42432",
+      "channel": "zaihuapd",
+      "text": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上的公开测试的免费模型 OWL 疑似发生模型对话数据泄露。相关数据曾出现在GitHub 仓库，目前该仓库已无法公开访问。该仓库至少曾在 2026 年 7 月 7 日 23:32:33 北京时间公开出现。用户截图称，该仓库随后被 Discord 机器人 token 扫描器发现，提示令牌已暴露并被重置。此前 Google、DeepSeek 等模型厂商均在隐私说明中表示，用户对话数据可能被用于服务改进、分析或模型训练。此次事件再次提醒群友们：不要在大模型中输入 API Key、私钥、企业源码、客户数据等敏感信息。大模型 Agent 会话日志本身，已经成为新的敏感数据资产。·茶馆水群·",
+      "clean_text": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上的公开测试的免费模型 OWL 疑似发生模型对话数据泄露。相关数据曾出现在GitHub 仓库，目前该仓库已无法公开访问。该仓库至少曾在 2026 年 7 月 7 日 23:32:33 北京时间公开出现。用户截图称，该仓库随后被 Discord 机器人 token 扫描器发现，提示令牌已暴露并被重置。⚠️此前 Google、DeepSeek 等模型厂商均在隐私说明中表示，用户对话数据可能被用于服务改进、分析或模型训练。此次事件再次提醒群友们：不要在大模型中输入 API Key、私钥、企业源码、客户数据等敏感信息。大模型 Agent 会话日志本身，已经成为新的敏感数据资产。·茶馆水群",
+      "datetime": "2026-07-08T13:35:37+00:00",
+      "views": "49.8K",
+      "source_links": [
+        {
+          "text": "GitHub 仓库",
+          "url": "https://github.com/gumusserv/ProducerBenchV2/blob/83cad6007ef3fe8df33386e8f43738fe62337e16/parsed_source_data/data/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42432",
+      "scraped_at": "2026-07-08T22:01:07.740870",
+      "title": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
+      "title_options": {
+        "conclusion": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
+        "attractive": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
+        "minimal": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30655",
+      "channel": "xhqcankao",
+      "text": "LineageOS 项目宣布推出网页刷机工具安卓ROM LineageOS团队宣布了一项重大开发更新，带来了若干改进。该平台夏季更新公告中的一些最突出亮点包括基于浏览器的刷机工具、经过重新设计的 Updater 应用和扩展的设备支持，及确认基于安卓17的下一个主要版本的开发已在进行中。也许最大的新增功能是新的基于网页的刷机工具，该工具允许用户直接从浏览器安装LineageOS系统。该工具可通过项目的下载门户获取，并支持 Fastboot、ADB，甚至三星的Odin 刷机协议。但用户仍然需要遵循LineageOS维基中针对具体设备的说明。同时，该项目还对其Updater应用进行了全面革新，采用了全新的 Material 3 Expressive 设计。",
+      "clean_text": "LineageOS 项目宣布推出网页刷机工具安卓ROM LineageOS团队宣布了一项重大开发更新，带来了若干改进。该平台夏季更新公告中的一些最突出亮点包括基于浏览器的刷机工具、经过重新设计的 Updater 应用和扩展的设备支持，及确认基于安卓17的下一个主要版本的开发已在进行中。也许最大的新增功能是新的基于网页的刷机工具，该工具允许用户直接从浏览器安装LineageOS系统。该工具可通过项目的下载门户获取，并支持 Fastboot、ADB，甚至三星的Odin 刷机协议。但用户仍然需要遵循LineageOS维基中针对具体设备的说明。同时，该项目还对其Updater应用进行了全面革新，采用了全新的 Material 3 Expressive 设计。——Androidauthority",
+      "datetime": "2026-07-08T13:24:54+00:00",
+      "views": "1.62K",
+      "source_links": [
+        {
+          "text": "Androidauthority",
+          "url": "https://www.androidauthority.com/lineageos-summertime-update-2026-3685112/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30655",
+      "scraped_at": "2026-07-08T22:01:09.467928",
+      "title": "LineageOS 项目宣布推出网页刷…",
+      "title_options": {
+        "conclusion": "LineageOS 项目宣布推出网页刷…",
+        "attractive": "LineageOS 项目宣布推出网页刷…",
+        "minimal": "LineageOS 项目宣布推出网页刷…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42430",
       "channel": "zaihuapd",
       "text": "安卓高危漏洞曝光，点击恶意链接即可远程 Root 全版本安卓设备7 月 8 日，网络安全公司 Nebula 曝光一套安卓远程 Root 漏洞链，安卓 17 及全系列旧版设备均受波及，谷歌 Pixel 机型已实测可被攻破。该攻击链结合 Firefox 151.0.2 及更早版本浏览器漏洞、潜伏 15 年的 Linux 内核漏洞，用户仅点击恶意链接，一分钟内即可被植入权限文件、获取持久 Root 权限，攻击者能通过 adb 操控设备。目前相关漏洞概念验证代码已上传 GitHub，厂商已收到漏洞通报，Linux 内核已完成漏洞修复。完整漏洞细节暂未披露，但业内预判通用简易 Root 方案很快会流出。酷安｜X·茶馆水群·",
@@ -1566,6 +1647,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-08T22:00:11.019110"
+  "count": 62,
+  "updated_at": "2026-07-08T22:05:17.034927"
 }
