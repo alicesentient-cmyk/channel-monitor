@@ -14724,5 +14724,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-08T13:03:03.216017"
+  },
+  "xhqcankao_30639": {
+    "ai_title": "中国存储器厂商面向AI需求将产能倍增中国",
+    "title_options": {
+      "conclusion": "中国存储器厂商面向AI需求将产能倍增中国",
+      "attractive": "中国存储器厂商面向AI需求将产能倍增中国",
+      "minimal": "中国存储器厂商面向AI需求将产能倍增中国",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-08T14:03:48.322581"
+  },
+  "zaihuapd_42423": {
+    "ai_title": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
+    "title_options": {
+      "conclusion": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
+      "attractive": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
+      "minimal": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-08T14:03:48.361098"
   }
 }
