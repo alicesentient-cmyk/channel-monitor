@@ -1471,24 +1471,6 @@
       }
     },
     {
-      "id": "zaihuapd_42415",
-      "channel": "zaihuapd",
-      "text": "Claude Fable 5 重新上线后体验缩水，安全误判频发遭开发者吐槽  美国解除出口管制后，Anthropic 旗舰模型 Claude Fable 5 重新上线，但大量用户投诉体验大幅缩水。过渡期内至 7 月 7 日前，Pro、Max 等订阅用户仅能使用每周 50% 额度调用该模型；7 日后订阅将不再内置 Fable 5，需按量付费。官方称算力紧张，产能充足后会重新纳入订阅。  用户的主要不满集中在安全机制阈值过高、误判频发：处理 C/C++、Rust 底层代码，或出现漏洞、hook 等关键词时，模型会自动降级至…",
-      "clean_text": "🤖Claude Fable 5 重新上线后体验缩水，安全误判频发遭开发者吐槽  美国解除出口管制后，Anthropic 旗舰模型 Claude Fable 5 重新上线，但大量用户投诉体验大幅缩水。过渡期内至 7 月 7 日前，Pro、Max 等订阅用户仅能使用每周 50% 额度调用该模型；7 日后订阅将不再内置 Fable 5，需按量付费。官方称算力紧张，产能充足后会重新纳入订阅。  用户的主要不满集中在安全机制阈值过高、误判频发：处理 C/C++、Rust 底层代码，或出现漏洞、hook 等关键词时，模型会自动降级至…",
-      "datetime": "2026-07-07T18:01:35+00:00",
-      "views": "49.1K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42415",
-      "scraped_at": "2026-07-08T03:01:25.334162",
-      "title": "Claude Fable 5 重新上线…",
-      "title_options": {
-        "conclusion": "Claude Fable 5 重新上线…",
-        "attractive": "Claude Fable 5 重新上线…",
-        "minimal": "Claude Fable 5 重新上线…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1538,6 +1520,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-09T06:00:58.588047"
+  "count": 57,
+  "updated_at": "2026-07-09T06:06:01.411942"
 }
