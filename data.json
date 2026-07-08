@@ -1652,31 +1652,8 @@
         "minimal": "爆料：iPhone 18 Pro 美版用高通基带、其他地区用苹果 C2 自研基带，后续国行 iPhone 或配置 eSIM  苹果 iPhone 18 Pro ",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30603",
-      "channel": "xhqcankao",
-      "text": "任天堂明年将在欧洲停止销售初代Switch任天堂正在欧洲推出一款配备可更换电池的新版Switch 2",
-      "clean_text": "任天堂明年将在欧洲停止销售初代Switch任天堂正在欧洲推出一款配备可更换电池的新版Switch 2 —— 但其前代产品则有着截然不同的未来。作为关于任天堂欧洲硬件修订的常见问题更新的一部分，该公司确认将从明年起在欧洲大陆停止销售初代Switch的所有迭代型号。这一消息传出之际，任天堂正因欧盟要求用户可更换电池的法规而对其其余产品线进行一系列调整。该公司表示，从今年夏天开始，将在2027年2月18日法规生效之前，“以滚动方式”陆续推出各种设备的更新版本。“现有产品与包含用户可更换电池的修订产品之间在功能上没有差异，”任天堂表示。——Theverge",
-      "datetime": "2026-07-07T01:31:23+00:00",
-      "views": "1.19K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30603",
-      "scraped_at": "2026-07-07T10:02:19.453453",
-      "title": "任天堂明年将在欧洲停止销售初代Switch任天堂正在欧洲推出一款配备可更换电池",
-      "title_options": {
-        "conclusion": "任天堂明年将在欧洲停止销售初代Switch任天堂正在欧洲推出一款配备可更换电池",
-        "attractive": "任天堂明年将在欧洲停止销售初代Switch任天堂正在欧洲推出一款配备可更换电池",
-        "minimal": "任天堂明年将在欧洲停止销售初代Switch任天堂正在欧洲推出一款配备可更换电池",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-08T13:28:20.488934"
+  "count": 62,
+  "updated_at": "2026-07-08T13:33:23.423635"
 }
