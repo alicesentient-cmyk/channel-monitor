@@ -14744,5 +14744,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-08T14:03:48.361098"
+  },
+  "xhqcankao_30642": {
+    "ai_title": "中国工信部：Claude Code存安…",
+    "title_options": {
+      "conclusion": "中国工信部：Claude Code存安…",
+      "attractive": "中国工信部：Claude Code存安…",
+      "minimal": "中国工信部：Claude Code存安…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-08T15:04:35.646359"
+  },
+  "xhqcankao_30641": {
+    "ai_title": "美国调查企业日益追捧中国AI模型",
+    "title_options": {
+      "conclusion": "美国调查企业日益追捧中国AI模型",
+      "attractive": "美国调查企业日益追捧中国AI模型",
+      "minimal": "美国调查企业日益追捧中国AI模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-08T15:04:35.669041"
+  },
+  "zaihuapd_42424": {
+    "ai_title": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
+    "title_options": {
+      "conclusion": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
+      "attractive": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
+      "minimal": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-08T15:04:36.258461"
+  },
+  "xhqcankao_30640": {
+    "ai_title": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
+    "title_options": {
+      "conclusion": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
+      "attractive": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
+      "minimal": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-08T15:04:36.444168"
   }
 }
