@@ -1512,66 +1512,8 @@
         "minimal": "加拿大间谍机构反向入侵勒索软件团伙加拿大通信安全局表示，去年其实施了几次国家授权",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30613",
-      "channel": "xhqcankao",
-      "text": "腾讯混元Hy3正式发布：坚持高性价比路线腾讯混元Hy3正式发布。相比preview版本，新模型在智能水平上显著提升，以较小尺寸比肩参数规模两至五倍的旗舰模型，同时定价进一步降低，总体稳定性和性价比大幅增强。Hy3 是一款快慢思考融合的 MoE 架构模型，总参数 295B、激活参数 21B，支持256K上下文长度。模型在软件开发、办公生产、金融建模、前端设计、游戏制作等生产力任务上进步尤为突出。在内部270位专家基于真实工作的盲测中，Hy3以2.67分（满分4分)优于GLM 5.1的2.51分，前端、数据与存储等类别优势显著。定价方面，Hy3输入1元/百万tokens，输出4元/百万tokens。",
-      "clean_text": "腾讯混元Hy3正式发布：坚持高性价比路线腾讯混元Hy3正式发布。相比preview版本，新模型在智能水平上显著提升，以较小尺寸比肩参数规模两至五倍的旗舰模型，同时定价进一步降低，总体稳定性和性价比大幅增强。Hy3 是一款快慢思考融合的 MoE 架构模型，总参数 295B、激活参数 21B，支持256K上下文长度。模型在软件开发、办公生产、金融建模、前端设计、游戏制作等生产力任务上进步尤为突出。在内部270位专家基于真实工作的盲测中，Hy3以2.67分（满分4分)优于GLM 5.1的2.51分，前端、数据与存储等类别优势显著。定价方面，Hy3输入1元/百万tokens，输出4元/百万tokens。——环球网",
-      "datetime": "2026-07-07T06:35:04+00:00",
-      "views": "1.39K",
-      "source_links": [
-        {
-          "text": "环球网",
-          "url": "https://tech.huanqiu.com/article/4SGvLS8lgfO"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30613",
-      "scraped_at": "2026-07-07T15:01:33.050085",
-      "title": "腾讯混元Hy3正式发布：坚持高性价比路…",
-      "title_options": {
-        "conclusion": "腾讯混元Hy3正式发布：坚持高性价比路…",
-        "attractive": "腾讯混元Hy3正式发布：坚持高性价比路…",
-        "minimal": "腾讯混元Hy3正式发布：坚持高性价比路…",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42401",
-      "channel": "zaihuapd",
-      "text": "Windows 11 Bug 可吞 513 GB 硬盘Windows 11 的 Capability Access Manager 出现存储 Bug，相关 WAL 文件 CapabilityAccessManager.db-wal 可能异常膨胀，占用几十到数百 GB 磁盘空间，已有用户报告最高约 513 GB。该服务用于记录应用访问摄像头、麦克风、位置、屏幕捕获等隐私权限。问题在于 WAL 日志没有正常合并回主数据库。微软已在 2026 年 6 月可选更新 KB5095093 中改善该文件的磁盘占用，并计划随 7 月补丁推送修复。Windows Latest|搜狐网·茶馆水群·",
-      "clean_text": "Windows 11 Bug 可吞 513 GB 硬盘Windows 11 的 Capability Access Manager 出现存储 Bug，相关 WAL 文件 CapabilityAccessManager.db-wal 可能异常膨胀，占用几十到数百 GB 磁盘空间，已有用户报告最高约 513 GB。该服务用于记录应用访问摄像头、麦克风、位置、屏幕捕获等隐私权限。问题在于 WAL 日志没有正常合并回主数据库。微软已在 2026 年 6 月可选更新 KB5095093 中改善该文件的磁盘占用，并计划随 7 月补丁推送修复。Windows Latest|搜狐网·茶馆水群",
-      "datetime": "2026-07-07T06:34:17+00:00",
-      "views": "50.2K",
-      "source_links": [
-        {
-          "text": "Windows Latest",
-          "url": "https://www.windowslatest.com/2026/07/06/microsoft-admits-a-windows-11-bug-is-eating-up-to-500gb-of-storage-verify-if-you-are-affected/"
-        },
-        {
-          "text": "搜狐网",
-          "url": "https://m.sohu.com/a/1046529373_163726/?pvid=000115_3w_a"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42401",
-      "scraped_at": "2026-07-07T15:01:31.110128",
-      "title": "Windows 11 Bug 可吞 513 GB 硬盘Windows 11 ",
-      "title_options": {
-        "conclusion": "Windows 11 Bug 可吞 513 GB 硬盘Windows 11 ",
-        "attractive": "Windows 11 Bug 可吞 513 GB 硬盘Windows 11 ",
-        "minimal": "Windows 11 Bug 可吞 513 GB 硬盘Windows 11 ",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-08T18:32:18.531146"
+  "count": 58,
+  "updated_at": "2026-07-08T18:37:22.800811"
 }
