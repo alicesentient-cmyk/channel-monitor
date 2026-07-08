@@ -1531,43 +1531,8 @@
         "minimal": "特朗普一句话让戴尔市值暴涨超百亿美元美…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42402",
-      "channel": "zaihuapd",
-      "text": "new-api 修复计费漏洞：超大参数可触发负数扣费QuantumNous/new-api 项目提交两个修复，堵住了计费系统中的一个安全漏洞。该漏洞源于部分用户可控参数缺少严格的边界校验，当数值过大的参数进入 quota 计算后，可能触发整数溢出，导致原本应扣除的费用被错误计算为负数，产生类似\"反向充值\"的效果。修复提交针对核心计费乘数问题，对参数增加上限校验，并引入饱和转换逻辑，避免 quota 计算结果在转为整数时回绕为负数。随后进一步补齐其他入口，增加边界检查，防止攻击者通过传入超大数字绕过类型检查，影响预扣费或结算逻辑。Github(1,2)·茶馆水群·",
-      "clean_text": "new-api 修复计费漏洞：超大参数可触发负数扣费QuantumNous/new-api 项目提交两个修复，堵住了计费系统中的一个安全漏洞。该漏洞源于部分用户可控参数缺少严格的边界校验，当数值过大的参数进入 quota 计算后，可能触发整数溢出，导致原本应扣除的费用被错误计算为负数，产生类似\"反向充值\"的效果。修复提交针对核心计费乘数问题，对参数增加上限校验，并引入饱和转换逻辑，避免 quota 计算结果在转为整数时回绕为负数。随后进一步补齐其他入口，增加边界检查，防止攻击者通过传入超大数字绕过类型检查，影响预扣费或结算逻辑。Github(1,2)·茶馆水群",
-      "datetime": "2026-07-07T07:26:30+00:00",
-      "views": "50.9K",
-      "source_links": [
-        {
-          "text": "1",
-          "url": "https://github.com/QuantumNous/new-api/commit/d0bd8aa"
-        },
-        {
-          "text": "2",
-          "url": "https://github.com/QuantumNous/new-api/commit/c9943d3"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42402",
-      "scraped_at": "2026-07-07T16:01:06.529592",
-      "title": "new-api 修复计费漏洞：超大参数可触发负数扣费QuantumNous/new-api 项目提交两个修复，堵住了计费系统中",
-      "title_options": {
-        "conclusion": "new-api 修复计费漏洞：超大参数可触发负数扣费QuantumNous/new-api 项目提交两个修复，堵住了计费系统中",
-        "attractive": "new-api 修复计费漏洞：超大参数可触发负数扣费QuantumNous/new-api 项目提交两个修复，堵住了计费系统中",
-        "minimal": "new-api 修复计费漏洞：超大参数可触发负数扣费QuantumNous/new-api 项目提交两个修复，堵住了计费系统中",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-08T19:22:56.006640"
+  "count": 59,
+  "updated_at": "2026-07-08T19:28:00.120061"
 }
