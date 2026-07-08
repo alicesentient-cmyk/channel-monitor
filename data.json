@@ -1632,39 +1632,8 @@
         "minimal": "中国企业深度求索正在开发其自己",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42408",
-      "channel": "zaihuapd",
-      "text": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为的依赖三位知情人士透露，中国 AI 公司 DeepSeek 正在开发自己的 AI 芯片，旨在减少对英伟达和华为芯片的依赖。该芯片专注于推理阶段，即已训练好的模型为用户生成回答的环节，而非模型训练。这项自研芯片的努力始于约一年前，目前仍处于早期阶段，DeepSeek 已开始与芯片设计、代工和存储公司接洽，并近几个月私下大量招募芯片设计工程师。此前 DeepSeek 的模型曾依赖英伟达 H800 和华为昇腾芯片，受美国出口管制影响，公司创始人梁文锋在 2024 年一次罕见采访中承认芯片管制是公司面临的挑战。Reuters·茶馆水群·",
-      "clean_text": "🤖DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为的依赖三位知情人士透露，中国 AI 公司 DeepSeek 正在开发自己的 AI 芯片，旨在减少对英伟达和华为芯片的依赖。该芯片专注于推理阶段，即已训练好的模型为用户生成回答的环节，而非模型训练。这项自研芯片的努力始于约一年前，目前仍处于早期阶段，DeepSeek 已开始与芯片设计、代工和存储公司接洽，并近几个月私下大量招募芯片设计工程师。此前 DeepSeek 的模型曾依赖英伟达 H800 和华为昇腾芯片，受美国出口管制影响，公司创始人梁文锋在 2024 年一次罕见采访中承认芯片管制是公司面临的挑战。Reuters·茶馆水群",
-      "datetime": "2026-07-07T11:08:44+00:00",
-      "views": "51.7K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42408",
-      "scraped_at": "2026-07-07T20:01:23.330030",
-      "title": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
-      "title_options": {
-        "conclusion": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
-        "attractive": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
-        "minimal": "DeepSeek 正在自研 AI 芯片，以减少对英伟达和华为",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-08T23:06:08.193172"
+  "count": 62,
+  "updated_at": "2026-07-08T23:10:44.690044"
 }
