@@ -1614,39 +1614,8 @@
         "minimal": "中国正在考虑限制海外访问中国顶级AI模型三位熟悉讨论情况",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42407",
-      "channel": "zaihuapd",
-      "text": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发的 KVM/x86 虚拟机逃逸漏洞。该漏洞源于 shadow MMU 模拟中的 use-after-free 缺陷，客户机仅通过内部操作即可破坏宿主机内核的 shadow page，直接威胁公有云等多租户 KVM 宿主机的隔离边界。该漏洞影响范围横跨 2010 年至 2026 年 6 月，在 Linux 内核中潜伏约 16 年，曾被用作 Google kvmCTF 的 0-day 攻击。其 PoC 代码已发布，可在客户机内触发宿主机内核 panic。此外，在 RHEL 等发行版中，本地普通用户还可利用该缺陷提权至 root。GitHub·茶馆水群·",
-      "clean_text": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发的 KVM/x86 虚拟机逃逸漏洞。该漏洞源于 shadow MMU 模拟中的 use-after-free 缺陷，客户机仅通过内部操作即可破坏宿主机内核的 shadow page，直接威胁公有云等多租户 KVM 宿主机的隔离边界。该漏洞影响范围横跨 2010 年至 2026 年 6 月，在 Linux 内核中潜伏约 16 年，曾被用作 Google kvmCTF 的 0-day 攻击。其 PoC 代码已发布，可在客户机内触发宿主机内核 panic。此外，在 RHEL 等发行版中，本地普通用户还可利用该缺陷提权至 root。GitHub·茶馆水群",
-      "datetime": "2026-07-07T10:14:30+00:00",
-      "views": "51.3K",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/V4bel/Januscape"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42407",
-      "scraped_at": "2026-07-07T19:00:59.389937",
-      "title": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
-      "title_options": {
-        "conclusion": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
-        "attractive": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
-        "minimal": "KVM Januscape 漏洞：虚拟机可逃逸宿主机，潜伏 16 年安全研究人员公开了 Januscape（CVE-2026-53359）漏洞，这是首个能同时在 Intel 与 AMD 平台上触发",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-08T22:10:46.535113"
+  "count": 61,
+  "updated_at": "2026-07-08T22:15:26.049969"
 }
