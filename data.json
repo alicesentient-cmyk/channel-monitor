@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30643",
+      "channel": "xhqcankao",
+      "text": "Meta眼镜更新 破坏隐私指示灯即关闭摄像头在公众对Meta智能眼镜的强烈反对声中，该公司宣布将为其眼镜更新一项新功能，当检测到有人篡改或毁坏智能眼镜的隐私LED灯时，该功能将禁用摄像头。该更新旨在应对那些采取诸如物理钻孔破坏LED灯等行为的改装者。Meta此前曾试图阻止对LED灯的篡改。例如，从第二代眼镜开始，用胶带或其他物体遮挡灯光会触发提示，要求用户揭开录制指示灯。然而，许多改装者已为这一特定措施找到了各种变通方法。Meta可穿戴设备副总裁亚历克斯·希梅尔表示，几周前，公司就已宣布将推出以隐私为中心的更新。当时，希梅尔承认公司意识到，随着这些设备被更广泛采用，滥用情况也在增加。",
+      "clean_text": "Meta眼镜更新 破坏隐私指示灯即关闭摄像头在公众对Meta智能眼镜的强烈反对声中，该公司宣布将为其眼镜更新一项新功能，当检测到有人篡改或毁坏智能眼镜的隐私LED灯时，该功能将禁用摄像头。该更新旨在应对那些采取诸如物理钻孔破坏LED灯等行为的改装者。Meta此前曾试图阻止对LED灯的篡改。例如，从第二代眼镜开始，用胶带或其他物体遮挡灯光会触发提示，要求用户揭开录制指示灯。然而，许多改装者已为这一特定措施找到了各种变通方法。Meta可穿戴设备副总裁亚历克斯·希梅尔表示，几周前，公司就已宣布将推出以隐私为中心的更新。当时，希梅尔承认公司意识到，随着这些设备被更广泛采用，滥用情况也在增加。——Theverge",
+      "datetime": "2026-07-08T07:32:26+00:00",
+      "views": "1.45K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30643",
+      "scraped_at": "2026-07-08T16:02:18.245962",
+      "title": "Meta眼镜更新 破坏隐私指示灯即关闭摄像头在公众对Meta智能眼镜",
+      "title_options": {
+        "conclusion": "Meta眼镜更新 破坏隐私指示灯即关闭摄像头在公众对Meta智能眼镜",
+        "attractive": "Meta眼镜更新 破坏隐私指示灯即关闭摄像头在公众对Meta智能眼镜",
+        "minimal": "Meta眼镜更新 破坏隐私指示灯即关闭摄像头在公众对Meta智能眼镜",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42425",
+      "channel": "zaihuapd",
+      "text": "SpaceXAI 将于明日向公众开放 Grok 4.5SpaceXAI 表示，Grok 4.5 在测试项目中获得客户积极反馈，将于明日正式向公众开放。该公司称，Grok 4.5 属于 Opus 级模型，但速度更快、Token 使用效率更高，成本也更低。Elon Musk·茶馆水群·",
+      "clean_text": "SpaceXAI 将于明日向公众开放 Grok 4.5SpaceXAI 表示，Grok 4.5 在测试项目中获得客户积极反馈，将于明日正式向公众开放。该公司称，Grok 4.5 属于 Opus 级模型，但速度更快、Token 使用效率更高，成本也更低。Elon Musk·茶馆水群",
+      "datetime": "2026-07-08T07:09:22+00:00",
+      "views": "52.1K",
+      "source_links": [
+        {
+          "text": "Elon Musk",
+          "url": "https://x.com/elonmusk/status/2074740539874775163"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42425",
+      "scraped_at": "2026-07-08T16:02:15.966845",
+      "title": "SpaceXAI 将于明日向公众开放 …",
+      "title_options": {
+        "conclusion": "SpaceXAI 将于明日向公众开放 …",
+        "attractive": "SpaceXAI 将于明日向公众开放 …",
+        "minimal": "SpaceXAI 将于明日向公众开放 …",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30642",
       "channel": "xhqcankao",
       "text": "中国工信部：Claude Code存安全后门隐患Claude Code被工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现存在安全后门隐患。NVDB称，该AI编程工具未经用户同意，即可向远程服务器回传用户地域、身份标识等敏感信息，相关问题危害严重。公开信息显示，Claude Code是美国Anthropic公司开发的AI编程工具，可根据用户文字需求自主完成代码编写、修复等任务。此次受影响版本为Claude Code 2.1.91至2.1.196版本。NVDB建议，相关单位和用户应立即开展全面排查。对于已安装上述受影响版本的开发终端，应立即卸载或升级至已清除相关后门代码的最新安全版本。",
@@ -1530,39 +1584,8 @@
         "minimal": "中国企业放弃英伟达转向本地AI供应商中国企业正在放弃英伟达",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30608",
-      "channel": "xhqcankao",
-      "text": "中国金融科技专利超越美国 占全球近四成过去十年间，中国银行与科技公司在金融科技专利申请方面领先全球，超越了美国。金融科技涵盖从贷款、资产管理到加密货币在内的广泛金融服务领域。调查了截至2025年的十年间118个国家/地区的金融科技相关专利申请情况。数据显示，相关专利申请总量约达12万件，接近此前十年的3倍。中国占全部申请量的38%，随后是美国 (17%)、韩国(9%)和日本(8%)。中国专利申请数量是此前十年的10倍。在此前的十年中，中国排名第三，位居美韩之后。从单个公司来看，中国工商银行以3198件专利申请位居榜首。前五名全部为中国公司，其中包括中国建设银行和腾讯。在全球前50名中，中国公司占据22席，国有银行是技术发展的主要推动力。",
-      "clean_text": "中国金融科技专利超越美国 占全球近四成过去十年间，中国银行与科技公司在金融科技专利申请方面领先全球，超越了美国。金融科技涵盖从贷款、资产管理到加密货币在内的广泛金融服务领域。调查了截至2025年的十年间118个国家/地区的金融科技相关专利申请情况。数据显示，相关专利申请总量约达12万件，接近此前十年的3倍。中国占全部申请量的38%，随后是美国 (17%)、韩国(9%)和日本(8%)。中国专利申请数量是此前十年的10倍。在此前的十年中，中国排名第三，位居美韩之后。从单个公司来看，中国工商银行以3198件专利申请位居榜首。前五名全部为中国公司，其中包括中国建设银行和腾讯。在全球前50名中，中国公司占据22席，国有银行是技术发展的主要推动力。——凤凰网科技、日经亚洲",
-      "datetime": "2026-07-07T04:03:02+00:00",
-      "views": "1.99K",
-      "source_links": [
-        {
-          "text": "数据显示",
-          "url": "http://cn.nikkei.com/china/ccompany/63141-2026-07-07-09-19-20.html"
-        },
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006pAwjRsGHywh5yAUcKudq1AqDQ2X9--6maBiRiAAXfN3RRPCE8fIuirpnQKatuAzUL"
-        },
-        {
-          "text": "日经亚洲",
-          "url": "https://asia.nikkei.com/business/finance/china-overtakes-us-in-fintech-patent-filings-to-seize-global-lead"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30608",
-      "scraped_at": "2026-07-07T13:01:01.122764",
-      "title": "中国金融科技专利超越美国 占全球近四成…",
-      "title_options": {
-        "conclusion": "中国金融科技专利超越美国 占全球近四成…",
-        "attractive": "中国金融科技专利超越美国 占全球近四成…",
-        "minimal": "中国金融科技专利超越美国 占全球近四成…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-08T16:00:20.050764"
+  "count": 61,
+  "updated_at": "2026-07-08T16:05:25.449066"
 }
