@@ -1520,37 +1520,6 @@
       }
     },
     {
-      "id": "zaihuapd_42413",
-      "channel": "zaihuapd",
-      "text": "微信记录导出工具 WeFlow 遭 GitHub DMCA 下架通知WeFlow 是一款本地微信聊天记录查看、分析与导出工具，支持生成年度报告、群聊画像、消息防撤回及 HTTP API 等功能。7 月 7 日，其 GitHub 仓库收到 DMCA 下架通知，GitHub 官方已向开发者发送了相关邮件。GitHub·茶馆水群·",
-      "clean_text": "微信记录导出工具 WeFlow 遭 GitHub DMCA 下架通知WeFlow 是一款本地微信聊天记录查看、分析与导出工具，支持生成年度报告、群聊画像、消息防撤回及 HTTP API 等功能。7 月 7 日，其 GitHub 仓库收到 DMCA 下架通知，GitHub 官方已向开发者发送了相关邮件。GitHub·茶馆水群",
-      "datetime": "2026-07-07T15:19:28+00:00",
-      "views": "51.6K",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/hicccc77/WeFlow"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42413",
-      "scraped_at": "2026-07-08T00:07:47.525937",
-      "title": "微信记录导出工具 WeFlow 遭 G…",
-      "title_options": {
-        "conclusion": "微信记录导出工具 WeFlow 遭 G…",
-        "attractive": "微信记录导出工具 WeFlow 遭 G…",
-        "minimal": "微信记录导出工具 WeFlow 遭 G…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1600,6 +1569,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-09T03:19:23.380011"
+  "count": 59,
+  "updated_at": "2026-07-09T03:24:26.177144"
 }
