@@ -1,6 +1,87 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30645",
+      "channel": "xhqcankao",
+      "text": "X加强编辑功能 希望成为原创内容首发平台社交平台 X 正在引入新的视频编辑和录制功能，以期鼓励创作者在其平台上发布原创内容，而不是重复使用他人的素材。此次更新将带来新功能，包括叠加多种语言的视频字幕并自定义其外观的能力，以及可与手机相册或其他 X 帖子中的照片配合使用的绿屏工具。X的产品负责人Nikita Bier在一篇帖子中写道：“我们最大的优先事项之一是为创作者提供创作原创内容的工具，并奖励那些创作者。未来几周内，我们还会有更多针对视频编辑器的更新。”其想法是提供一个“实用型”视频编辑器，以便X上的一些视频“最终能成为在其他平台上不存在的原创内容”。",
+      "clean_text": "X加强编辑功能 希望成为原创内容首发平台社交平台 X 正在引入新的视频编辑和录制功能，以期鼓励创作者在其平台上发布原创内容，而不是重复使用他人的素材。此次更新将带来新功能，包括叠加多种语言的视频字幕并自定义其外观的能力，以及可与手机相册或其他 X 帖子中的照片配合使用的绿屏工具。X的产品负责人Nikita Bier在一篇帖子中写道：“我们最大的优先事项之一是为创作者提供创作原创内容的工具，并奖励那些创作者。未来几周内，我们还会有更多针对视频编辑器的更新。”其想法是提供一个“实用型”视频编辑器，以便X上的一些视频“最终能成为在其他平台上不存在的原创内容”。——Techcrunch",
+      "datetime": "2026-07-08T08:32:08+00:00",
+      "views": "1.27K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30645",
+      "scraped_at": "2026-07-08T17:01:56.553599",
+      "title": "X加强编辑功能 希望成为原创内容首发平台社交平台 X 正在引入新",
+      "title_options": {
+        "conclusion": "X加强编辑功能 希望成为原创内容首发平台社交平台 X 正在引入新",
+        "attractive": "X加强编辑功能 希望成为原创内容首发平台社交平台 X 正在引入新",
+        "minimal": "X加强编辑功能 希望成为原创内容首发平台社交平台 X 正在引入新",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42426",
+      "channel": "zaihuapd",
+      "text": "LG 和 Alienware 显示器被曝自动安装 Windows 应用，并弹出迈克菲广告部分 LG、戴尔和 Alienware 显示器连接 Windows 电脑后，会通过微软商店及 Windows 更新自动安装配套应用，用户事前未收到明确提示。其中，LG Monitor App Installer 可能进一步触发迈克菲广告弹窗，且无法直接通过微软商店卸载。用户可在系统启动项中禁止该应用运行，彻底关闭自动安装则需要修改本地组策略，或停用微软商店。TechSpot·茶馆水群·",
+      "clean_text": "LG 和 Alienware 显示器被曝自动安装 Windows 应用，并弹出迈克菲广告部分 LG、戴尔和 Alienware 显示器连接 Windows 电脑后，会通过微软商店及 Windows 更新自动安装配套应用，用户事前未收到明确提示。其中，LG Monitor App Installer 可能进一步触发迈克菲广告弹窗，且无法直接通过微软商店卸载。用户可在系统启动项中禁止该应用运行，彻底关闭自动安装则需要修改本地组策略，或停用微软商店。TechSpot·茶馆水群",
+      "datetime": "2026-07-08T08:08:12+00:00",
+      "views": "51.9K",
+      "source_links": [
+        {
+          "text": "TechSpot",
+          "url": "https://www.techspot.com/news/113031-lg-alienware-monitors-caught-auto-installing-windows-adware.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42426",
+      "scraped_at": "2026-07-08T17:01:54.805145",
+      "title": "LG 和 Alienware 显示器被…",
+      "title_options": {
+        "conclusion": "LG 和 Alienware 显示器被…",
+        "attractive": "LG 和 Alienware 显示器被…",
+        "minimal": "LG 和 Alienware 显示器被…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30644",
+      "channel": "xhqcankao",
+      "text": "三星电子开始量产用于英伟达Vera Rubin平台的先进固态硬盘7月8日讯，三星电子已开始量产其最先进的数据中心存储设备，这一产品将在英伟达即将推出的Vera Rubin平台内使用。这款企业级固态硬盘产品叫做PM1763，于今年早些时候在英伟达GTC大会上发布。三星当时将它与下一代高带宽内存HBM4和低功耗模块SOCAMM2一起展示，作为专为AI数据中心设计的综合方案的一部分。三星周三在声明中表示，这款存储设备采用最新的V-NAND闪存芯片和新研发的4纳米控制器，读写速度较前代产品提升逾一倍。PM1763可以减少先进处理器和AI加速器的数据延迟。三星表示，为在AI训练和推理过程中保持高速运行，这款硬盘配备了液冷系统。",
+      "clean_text": "三星电子开始量产用于英伟达Vera Rubin平台的先进固态硬盘7月8日讯，三星电子已开始量产其最先进的数据中心存储设备，这一产品将在英伟达即将推出的Vera Rubin平台内使用。这款企业级固态硬盘产品叫做PM1763，于今年早些时候在英伟达GTC大会上发布。三星当时将它与下一代高带宽内存HBM4和低功耗模块SOCAMM2一起展示，作为专为AI数据中心设计的综合方案的一部分。三星周三在声明中表示，这款存储设备采用最新的V-NAND闪存芯片和新研发的4纳米控制器，读写速度较前代产品提升逾一倍。PM1763可以减少先进处理器和AI加速器的数据延迟。三星表示，为在AI训练和推理过程中保持高速运行，这款硬盘配备了液冷系统。——财联社、彭博社",
+      "datetime": "2026-07-08T08:04:00+00:00",
+      "views": "2.01K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2419810?sv=859&amp;"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/samsung-mass-produces-storage-drives-for-nvidia-s-vera-rubin"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30644",
+      "scraped_at": "2026-07-08T17:01:56.553256",
+      "title": "三星电子开始量产用于英伟达Vera Rubin平台",
+      "title_options": {
+        "conclusion": "三星电子开始量产用于英伟达Vera Rubin平台",
+        "attractive": "三星电子开始量产用于英伟达Vera Rubin平台",
+        "minimal": "三星电子开始量产用于英伟达Vera Rubin平台",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30643",
       "channel": "xhqcankao",
       "text": "Meta眼镜更新 破坏隐私指示灯即关闭摄像头在公众对Meta智能眼镜的强烈反对声中，该公司宣布将为其眼镜更新一项新功能，当检测到有人篡改或毁坏智能眼镜的隐私LED灯时，该功能将禁用摄像头。该更新旨在应对那些采取诸如物理钻孔破坏LED灯等行为的改装者。Meta此前曾试图阻止对LED灯的篡改。例如，从第二代眼镜开始，用胶带或其他物体遮挡灯光会触发提示，要求用户揭开录制指示灯。然而，许多改装者已为这一特定措施找到了各种变通方法。Meta可穿戴设备副总裁亚历克斯·希梅尔表示，几周前，公司就已宣布将推出以隐私为中心的更新。当时，希梅尔承认公司意识到，随着这些设备被更广泛采用，滥用情况也在增加。",
@@ -1520,31 +1601,8 @@
         "minimal": "马斯克AI公司更名 正式变为Space…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30610",
-      "channel": "xhqcankao",
-      "text": "荣耀手机布局自研Android手机输入法7月7日消息，据荣耀官网显示，荣耀终端有限公司正在招募“输入法Android开发专家”，计划从底层自研一套完整的输入法系统。岗位职责涵盖端侧UX交互框架、输入引擎（语音、键盘、手写）、个人化词库的端云同步及时延功耗优化等核心模块。任职要求强调需具备从 0 到 1 搭建复杂客户端 UI / UX 交互框架的成熟经验，并优先考虑有搜狗、百度、讯飞、华为、小米等主流输入法开发经历的候选人。目前荣耀手机预装的是百度输入法荣耀版。行业趋势上，主流智能手机厂商自研输入法已成普遍现象。",
-      "clean_text": "荣耀手机布局自研Android手机输入法7月7日消息，据荣耀官网显示，荣耀终端有限公司正在招募“输入法Android开发专家”，计划从底层自研一套完整的输入法系统。岗位职责涵盖端侧UX交互框架、输入引擎（语音、键盘、手写）、个人化词库的端云同步及时延功耗优化等核心模块。任职要求强调需具备从 0 到 1 搭建复杂客户端 UI / UX 交互框架的成熟经验，并优先考虑有搜狗、百度、讯飞、华为、小米等主流输入法开发经历的候选人。目前荣耀手机预装的是百度输入法荣耀版。行业趋势上，主流智能手机厂商自研输入法已成普遍现象。——凤凰网科技",
-      "datetime": "2026-07-07T05:02:40+00:00",
-      "views": "2.27K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006s1nwQY5bHnfRPsxoTcPMjBocvYu7j-_46foQntj4uIB8PYXc9bi--AtNy2tMLh-_XGg"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30610",
-      "scraped_at": "2026-07-07T14:01:02.522091",
-      "title": "荣耀手机布局自研Android手机输入法7月7日消息，据荣耀官网显示，荣耀终端有限公司正在招募“输入法Android开发专家”，计划从底层自研一套完整",
-      "title_options": {
-        "conclusion": "荣耀手机布局自研Android手机输入法7月7日消息，据荣耀官网显示，荣耀终端有限公司正在招募“输入法Android开发专家”，计划从底层自研一套完整",
-        "attractive": "荣耀手机布局自研Android手机输入法7月7日消息，据荣耀官网显示，荣耀终端有限公司正在招募“输入法Android开发专家”，计划从底层自研一套完整",
-        "minimal": "荣耀手机布局自研Android手机输入法7月7日消息，据荣耀官网显示，荣耀终端有限公司正在招募“输入法Android开发专家”，计划从底层自研一套完整",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-08T17:01:08.963864"
+  "count": 61,
+  "updated_at": "2026-07-08T17:06:12.578186"
 }
