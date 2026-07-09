@@ -1,6 +1,78 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42446",
+      "channel": "zaihuapd",
+      "text": "TypeScript 7.0 正式发布：Go 重写带来最高 12 倍速度提升微软正式发布 TypeScript 7.0，这是用 Go 语言重写的原生版本，完整构建速度可比旧版快 8 到 12 倍，并支持共享内存多线程。用户现可通过 npm 直接安装，主流编辑器亦可通过 LSP 支持新语言服务器。新版本引入 --checkers 与 --builders 参数以自定义并行度，并提供兼容包实现与 TypeScript 6 并存；但 Vue、Svelte 等嵌入式语言工具链因 API 尚未就绪，目前仍需使用旧版本。TypeScript·茶馆水群·",
+      "clean_text": "TypeScript 7.0 正式发布：Go 重写带来最高 12 倍速度提升微软正式发布 TypeScript 7.0，这是用 Go 语言重写的原生版本，完整构建速度可比旧版快 8 到 12 倍，并支持共享内存多线程。用户现可通过 npm 直接安装，主流编辑器亦可通过 LSP 支持新语言服务器。新版本引入 --checkers 与 --builders 参数以自定义并行度，并提供兼容包实现与 TypeScript 6 并存；但 Vue、Svelte 等嵌入式语言工具链因 API 尚未就绪，目前仍需使用旧版本。TypeScript·茶馆水群",
+      "datetime": "2026-07-09T04:01:44+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "TypeScript",
+          "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42446",
+      "scraped_at": "2026-07-09T12:02:23.194066",
+      "title": "TypeScript 7.0 正式发布：Go 重写带来最高 12 倍速度提升微软正式发布 TypeScript 7.0，这是用 Go 语言重写",
+      "title_options": {
+        "conclusion": "TypeScript 7.0 正式发布：Go 重写带来最高 12 倍速度提升微软正式发布 TypeScript 7.0，这是用 Go 语言重写",
+        "attractive": "TypeScript 7.0 正式发布：Go 重写带来最高 12 倍速度提升微软正式发布 TypeScript 7.0，这是用 Go 语言重写",
+        "minimal": "TypeScript 7.0 正式发布：Go 重写带来最高 12 倍速度提升微软正式发布 TypeScript 7.0，这是用 Go 语言重写",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30669",
+      "channel": "xhqcankao",
+      "text": "中国AI模型取得进展引发美国网络安全焦虑据战略与国际研究中心未来实验室副主任兼数据研究员亚西尔·阿塔兰称，中国最新、最先进的AI模型，例如智谱的GLM-5.2，正在缩小与美国竞争对手的性能差距，并以相对低廉的价格吸引客户。这种转变正在重塑全球前沿AI市场。欧洲公司正在利用中国更便宜的模型。欧洲AI技术提供商Inceptron为客户托管GLM-5.2，而荷兰Nebius今年早些时候与Eigen AI合作，开发DeepSeek和GLM等领先开源模型的优化版本。美国公司警告称，中国模型的新兴使用可能带来网络安全影响，包括那些在开发时没有配备安全防护栏的模型的流通，这些防护栏旨在阻止人们利用这些平台进行非法黑客攻击。",
+      "clean_text": "中国AI模型取得进展引发美国网络安全焦虑据战略与国际研究中心未来实验室副主任兼数据研究员亚西尔·阿塔兰称，中国最新、最先进的AI模型，例如智谱的GLM-5.2，正在缩小与美国竞争对手的性能差距，并以相对低廉的价格吸引客户。这种转变正在重塑全球前沿AI市场。欧洲公司正在利用中国更便宜的模型。欧洲AI技术提供商Inceptron为客户托管GLM-5.2，而荷兰Nebius今年早些时候与Eigen AI合作，开发DeepSeek和GLM等领先开源模型的优化版本。美国公司警告称，中国模型的新兴使用可能带来网络安全影响，包括那些在开发时没有配备安全防护栏的模型的流通，这些防护栏旨在阻止人们利用这些平台进行非法黑客攻击。——彭博社",
+      "datetime": "2026-07-09T03:31:14+00:00",
+      "views": "1.36K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-08/chinese-ai-models-advance-causing-us-cybersecurity-anxiety"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30669",
+      "scraped_at": "2026-07-09T12:02:25.065536",
+      "title": "中国AI模型取得进展引发美国网络安全焦虑据战略与国际研究中心未来实验室副主任兼数据研究员亚西尔·阿塔兰称，中国最新、最先进",
+      "title_options": {
+        "conclusion": "中国AI模型取得进展引发美国网络安全焦虑据战略与国际研究中心未来实验室副主任兼数据研究员亚西尔·阿塔兰称，中国最新、最先进",
+        "attractive": "中国AI模型取得进展引发美国网络安全焦虑据战略与国际研究中心未来实验室副主任兼数据研究员亚西尔·阿塔兰称，中国最新、最先进",
+        "minimal": "中国AI模型取得进展引发美国网络安全焦虑据战略与国际研究中心未来实验室副主任兼数据研究员亚西尔·阿塔兰称，中国最新、最先进",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42445",
+      "channel": "zaihuapd",
+      "text": "曝苹果曾测试黑色 Vision Pro 配件配色  一名原型机收藏者在 X 上曝光疑似苹果内部版 Vision Pro 配件照片，包括电源带、连接头和音频模块，整体为黑色，而这并非现售配色。此前其也曾展示过深石墨或深蓝版本的电池连接头。  报道提到，苹果在新品开发阶段常会尝试多种配色，这些黑色部件可能属于测试机，也不排除未来机型采用更丰富配色。有传闻称更轻的 Vision Air 或将于 2027 年推出，并有望使用类似 iPhone 5 时代的深色外观。  AppleInsider茶馆…",
+      "clean_text": "📱曝苹果曾测试黑色 Vision Pro 配件配色  一名原型机收藏者在 X 上曝光疑似苹果内部版 Vision Pro 配件照片，包括电源带、连接头和音频模块，整体为黑色，而这并非现售配色。此前其也曾展示过深石墨或深蓝版本的电池连接头。  报道提到，苹果在新品开发阶段常会尝试多种配色，这些黑色部件可能属于测试机，也不排除未来机型采用更丰富配色。有传闻称更轻的 Vision Air 或将于 2027 年推出，并有望使用类似 iPhone 5 时代的深色外观。  AppleInsider🍀在花频道🍵茶馆…",
+      "datetime": "2026-07-09T03:16:44+00:00",
+      "views": "51.5K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42445",
+      "scraped_at": "2026-07-09T12:02:23.193633",
+      "title": "曝苹果曾测试黑色 Vision Pro…",
+      "title_options": {
+        "conclusion": "曝苹果曾测试黑色 Vision Pro…",
+        "attractive": "曝苹果曾测试黑色 Vision Pro…",
+        "minimal": "曝苹果曾测试黑色 Vision Pro…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30668",
       "channel": "xhqcankao",
       "text": "AI成本使澳洲一银行推动员工使用合理模型西太平洋银行正在加大力度监控AI成本，因为这家澳大利亚贷款机构在全公司范围内密切跟踪AI词元，并将较简单的任务路由到较便宜的模型。据其首席AI官丹·杰明表示，作为该项推动措施的一部分，该银行正在追踪其员工的AI词元消耗情况，包括其软件开发团队中那些能够使用最先进且最昂贵模型的员工。“我们正在关注人们通过AI词元花费了多少，并专注于将工作路由到正确的模型以实现成本和效率，同时交付最佳结果，”杰明说，该银行希望员工“理解不同模型如何运作的复杂性” 并 “就我们正在使用的模型和工具做出明智的选择，以获得最佳回报。”",
@@ -1709,33 +1781,6 @@
       }
     },
     {
-      "id": "xhqcankao_30628",
-      "channel": "xhqcankao",
-      "text": "微软扩大自研模型应用场景 办公软件逐步减少依赖外部竞品为了降低人工智能成本，微软公司正开始在Excel、Outlook等软件产品中，以自研AI模型取代OpenAI和Anthropic的模型。知情人士透露，目前Excel和Outlook这两款广泛使用的办公软件中，每周已有数万条AI提示由微软自主研发的MAI模型完成处理。此前，这两款产品主要依赖OpenAI和Anthropic提供的大模型。这是微软自研MAI模型在办公软件中应用规模首次曝光。尽管目前MAI模型占微软整体AI使用量的比例仍然较小，但这一举措显示，公司正在以更低成本打造具有竞争力的AI模型方面取得进展。",
-      "clean_text": "微软扩大自研模型应用场景 办公软件逐步减少依赖外部竞品为了降低人工智能成本，微软公司正开始在Excel、Outlook等软件产品中，以自研AI模型取代OpenAI和Anthropic的模型。知情人士透露，目前Excel和Outlook这两款广泛使用的办公软件中，每周已有数万条AI提示由微软自主研发的MAI模型完成处理。此前，这两款产品主要依赖OpenAI和Anthropic提供的大模型。这是微软自研MAI模型在办公软件中应用规模首次曝光。尽管目前MAI模型占微软整体AI使用量的比例仍然较小，但这一举措显示，公司正在以更低成本打造具有竞争力的AI模型方面取得进展。——财联社、彭博社",
-      "datetime": "2026-07-08T00:01:09+00:00",
-      "views": "83",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2419738?sv=8.7.9"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30628",
-      "scraped_at": "2026-07-08T08:03:38.972810",
-      "title": "微软扩大自研模型应用场景 办公软件逐步减少依赖外部竞品为了降低人工智能成本，微软公司正开始在Excel、Outlook等软件产品中，以自研AI模型取代OpenAI和Anthropic",
-      "title_options": {
-        "conclusion": "微软扩大自研模型应用场景 办公软件逐步减少依赖外部竞品为了降低人工智能成本，微软公司正开始在Excel、Outlook等软件产品中，以自研AI模型取代OpenAI和Anthropic",
-        "attractive": "微软扩大自研模型应用场景 办公软件逐步减少依赖外部竞品为了降低人工智能成本，微软公司正开始在Excel、Outlook等软件产品中，以自研AI模型取代OpenAI和Anthropic",
-        "minimal": "微软扩大自研模型应用场景 办公软件逐步减少依赖外部竞品为了降低人工智能成本，微软公司正开始在Excel、Outlook等软件产品中，以自研AI模型取代OpenAI和Anthropic",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1785,6 +1830,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-09T11:59:37.704963"
+  "count": 69,
+  "updated_at": "2026-07-09T12:04:41.711206"
 }
