@@ -1313,37 +1313,6 @@
       }
     },
     {
-      "id": "zaihuapd_42438",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 联手 OpenAI 试点用全球网络数据优化 AI 搜索7 月 8 日，Cloudflare 与 OpenAI 宣布启动一项研究试点项目，探索利用 Cloudflare 全球网络的实时网站洞察数据，帮助 AI 搜索引擎更高效地发现和索引开放网络上的内容。该项目试图通过内容更新鲜度、流量质量及页面实际变动等实时网络信号，改进 AI 系统对网页的索引和抓取效率，从而提升 AI 回答的准确性与时效性。36Kr·茶馆水群·",
-      "clean_text": "Cloudflare 联手 OpenAI 试点用全球网络数据优化 AI 搜索7 月 8 日，Cloudflare 与 OpenAI 宣布启动一项研究试点项目，探索利用 Cloudflare 全球网络的实时网站洞察数据，帮助 AI 搜索引擎更高效地发现和索引开放网络上的内容。该项目试图通过内容更新鲜度、流量质量及页面实际变动等实时网络信号，改进 AI 系统对网页的索引和抓取效率，从而提升 AI 回答的准确性与时效性。36Kr·茶馆水群",
-      "datetime": "2026-07-08T15:27:17+00:00",
-      "views": "50.7K",
-      "source_links": [
-        {
-          "text": "36Kr",
-          "url": "https://36kr.com/newsflashes/3886946347694593"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42438",
-      "scraped_at": "2026-07-09T00:08:03.426852",
-      "title": "Cloudflare 联手 OpenAI 试点用全球网络数据优化 AI 搜索7 月 8 日，Cloudflare 与 OpenAI 宣布启动一项研究试点项目，探索利用 Cloudflare 全球网络",
-      "title_options": {
-        "conclusion": "Cloudflare 联手 OpenAI 试点用全球网络数据优化 AI 搜索7 月 8 日，Cloudflare 与 OpenAI 宣布启动一项研究试点项目，探索利用 Cloudflare 全球网络",
-        "attractive": "Cloudflare 联手 OpenAI 试点用全球网络数据优化 AI 搜索7 月 8 日，Cloudflare 与 OpenAI 宣布启动一项研究试点项目，探索利用 Cloudflare 全球网络",
-        "minimal": "Cloudflare 联手 OpenAI 试点用全球网络数据优化 AI 搜索7 月 8 日，Cloudflare 与 OpenAI 宣布启动一项研究试点项目，探索利用 Cloudflare 全球网络",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1432,6 +1401,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-07-10T03:22:52.001249"
+  "count": 54,
+  "updated_at": "2026-07-10T03:27:55.352287"
 }
