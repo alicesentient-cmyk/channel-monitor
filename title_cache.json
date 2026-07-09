@@ -15514,5 +15514,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-09T22:02:57.094104"
+  },
+  "xhqcankao_30687": {
+    "ai_title": "扎克伯格承诺为Meta",
+    "title_options": {
+      "conclusion": "扎克伯格承诺为Meta",
+      "attractive": "扎克伯格承诺为Meta",
+      "minimal": "扎克伯格承诺为Meta",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-09T23:03:58.275676"
+  },
+  "zaihuapd_42460": {
+    "ai_title": "星巴克用 AI 自研替代微软 IBM星巴克正加速推进内部软件自研，计划借助 AI 提升开发效率，并逐步替代部分长期采购",
+    "title_options": {
+      "conclusion": "星巴克用 AI 自研替代微软 IBM星巴克正加速推进内部软件自研，计划借助 AI 提升开发效率，并逐步替代部分长期采购",
+      "attractive": "星巴克用 AI 自研替代微软 IBM星巴克正加速推进内部软件自研，计划借助 AI 提升开发效率，并逐步替代部分长期采购",
+      "minimal": "星巴克用 AI 自研替代微软 IBM星巴克正加速推进内部软件自研，计划借助 AI 提升开发效率，并逐步替代部分长期采购",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-09T23:03:58.281307"
   }
 }
