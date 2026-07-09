@@ -1661,29 +1661,6 @@
       }
     },
     {
-      "id": "xhqcankao_30634",
-      "channel": "xhqcankao",
-      "text": "谷歌为Voice服务新增两项个人付费套餐Google Voice已新增两项个人套餐选项。到目前为止，Google Voice基本上分为两个主要层级：面向个人用户的免费版本，让您方便地将所有设备连接到同一电话号码，以及面向寻求强大多用户解决方案的企业和机构的付费Workspace访问。我们所熟悉的那个个人套餐将被称为Voice Basic，并将继续免费使用。每月支付10美元，用户可以升级到Voice Starter，这增加了对客户支持、三方通话等功能的访问，并承诺如果您长时间不活跃使用服务，不会收回您的Google Voice号码。在此之上，Voice Standard每月20美元，可以通过 “自动接线员” 功能智能路由您的来电，并添加了Gemini笔记功能。",
-      "clean_text": "谷歌为Voice服务新增两项个人付费套餐Google Voice已新增两项个人套餐选项。到目前为止，Google Voice基本上分为两个主要层级：面向个人用户的免费版本，让您方便地将所有设备连接到同一电话号码，以及面向寻求强大多用户解决方案的企业和机构的付费Workspace访问。我们所熟悉的那个个人套餐将被称为Voice Basic，并将继续免费使用。每月支付10美元，用户可以升级到Voice Starter，这增加了对客户支持、三方通话等功能的访问，并承诺如果您长时间不活跃使用服务，不会收回您的Google Voice号码。在此之上，Voice Standard每月20美元，可以通过 “自动接线员” 功能智能路由您的来电，并添加了Gemini笔记功能。——Androidauthority",
-      "datetime": "2026-07-08T02:51:47+00:00",
-      "views": "676",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/google-voice-personal-paid-plans-3684963/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30634",
-      "scraped_at": "2026-07-08T11:01:35.354055",
-      "title": "谷歌为Voice服务新增两项个人付费套…",
-      "title_options": {
-        "conclusion": "谷歌为Voice服务新增两项个人付费套…",
-        "attractive": "谷歌为Voice服务新增两项个人付费套…",
-        "minimal": "谷歌为Voice服务新增两项个人付费套…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1772,6 +1749,6 @@
       }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-09T14:46:48.292855"
+  "count": 66,
+  "updated_at": "2026-07-09T14:51:51.381454"
 }
