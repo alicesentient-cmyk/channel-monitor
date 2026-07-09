@@ -1591,37 +1591,6 @@
       }
     },
     {
-      "id": "zaihuapd_42427",
-      "channel": "zaihuapd",
-      "text": "Meta 智能眼镜检测到隐私灯被破坏后，将自动关闭摄像头Meta 将为旗下智能眼镜推送更新，当设备检测到隐私指示灯被人为破坏或拆除时，摄像头将自动停用。此前，遮挡指示灯会触发提示，但已有用户找到绕过方法。随着设备使用范围扩大，相关偷拍和骚扰问题增多，部分法院及公共场所也开始限制带摄像头智能眼镜的使用。The Verge⁠·茶馆水群·",
-      "clean_text": "Meta 智能眼镜检测到隐私灯被破坏后，将自动关闭摄像头Meta 将为旗下智能眼镜推送更新，当设备检测到隐私指示灯被人为破坏或拆除时，摄像头将自动停用。此前，遮挡指示灯会触发提示，但已有用户找到绕过方法。随着设备使用范围扩大，相关偷拍和骚扰问题增多，部分法院及公共场所也开始限制带摄像头智能眼镜的使用。The Verge⁠·茶馆水群",
-      "datetime": "2026-07-08T10:23:45+00:00",
-      "views": "50.3K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik40dk1iWjJvWjMiLCJwIjoiL2dhZGdldHMvOTYyNTE0L21ldGEtcHJpdmFjeS1saWdodC10YW1wZXJpbmctc21hcnQtZ2xhc3Nlcy11cGRhdGUiLCJleHAiOjE3ODM5MDE0MjUsImlhdCI6MTc4MzQ2OTQyNX0.GZUi5dGuIr00bBayHW1_oTfEcfxURMnIKLk2tTpC2To"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42427",
-      "scraped_at": "2026-07-08T19:00:55.456991",
-      "title": "Meta 智能眼镜检测到隐私灯被破坏后…",
-      "title_options": {
-        "conclusion": "Meta 智能眼镜检测到隐私灯被破坏后…",
-        "attractive": "Meta 智能眼镜检测到隐私灯被破坏后…",
-        "minimal": "Meta 智能眼镜检测到隐私灯被破坏后…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1710,6 +1679,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-07-09T22:23:26.070312"
+  "count": 64,
+  "updated_at": "2026-07-09T22:28:30.635474"
 }
