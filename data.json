@@ -1715,29 +1715,6 @@
       }
     },
     {
-      "id": "xhqcankao_30633",
-      "channel": "xhqcankao",
-      "text": "Meta推出一款新的AI图像生成器MuseMeta Platforms Inc.推出了一款新的图像生成人工智能模型，这是自该公司一年前在首席人工智能官汪滔的领导下花费数十亿美元重建其AI实验室以来的首次此类发布。该公司在一篇博客文章中说，该模型名为 Muse Image，将于周二在 Meta AI 聊天机器人内推出。还将被嵌入Meta各个社交应用中，包括Instagram 和 WhatsApp。人们可以使用该模型根据文本提示生成图像，或通过要求它修改现有图片来生成图像。广告商也将很快可以使用该模型来创建营销材料。用户还可以根据朋友或创作者公开的 Instagram 帖子，制作包含他们的图像，这是 Meta 努力让该平台感觉更具个性化的一部分。",
-      "clean_text": "Meta推出一款新的AI图像生成器MuseMeta Platforms Inc.推出了一款新的图像生成人工智能模型，这是自该公司一年前在首席人工智能官汪滔的领导下花费数十亿美元重建其AI实验室以来的首次此类发布。该公司在一篇博客文章中说，该模型名为 Muse Image，将于周二在 Meta AI 聊天机器人内推出。还将被嵌入Meta各个社交应用中，包括Instagram 和 WhatsApp。人们可以使用该模型根据文本提示生成图像，或通过要求它修改现有图片来生成图像。广告商也将很快可以使用该模型来创建营销材料。用户还可以根据朋友或创作者公开的 Instagram 帖子，制作包含他们的图像，这是 Meta 努力让该平台感觉更具个性化的一部分。——彭博社",
-      "datetime": "2026-07-08T02:33:37+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-07/meta-debuts-new-ai-image-generation-model-inside-chatbot-instagram"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30633",
-      "scraped_at": "2026-07-08T11:01:35.353624",
-      "title": "Meta推出一款新",
-      "title_options": {
-        "conclusion": "Meta推出一款新",
-        "attractive": "Meta推出一款新",
-        "minimal": "Meta推出一款新",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1826,6 +1803,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-09T14:31:37.305889"
+  "count": 68,
+  "updated_at": "2026-07-09T14:36:40.826226"
 }
