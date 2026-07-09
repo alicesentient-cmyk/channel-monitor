@@ -1730,37 +1730,6 @@
       }
     },
     {
-      "id": "zaihuapd_42422",
-      "channel": "zaihuapd",
-      "text": "GPT-5.6 官宣本周四公开发布GPT-5.6 Sol 将与 Terra、Luna 于当地时间本周四公开发布。OpenAI 同时在全球范围扩大预览版访问权限。OpenAI·茶馆水群·",
-      "clean_text": "🤖GPT-5.6 官宣本周四公开发布GPT-5.6 Sol 将与 Terra、Luna 于当地时间本周四公开发布。OpenAI 同时在全球范围扩大预览版访问权限。OpenAI·茶馆水群",
-      "datetime": "2026-07-08T04:17:39+00:00",
-      "views": "51.2K",
-      "source_links": [
-        {
-          "text": "OpenAI",
-          "url": "https://x.com/OpenAI/status/2074704958419792299"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42422",
-      "scraped_at": "2026-07-08T13:01:50.451523",
-      "title": "GPT-5.6 官宣本周四公开发布GP…",
-      "title_options": {
-        "conclusion": "GPT-5.6 官宣本周四公开发布GP…",
-        "attractive": "GPT-5.6 官宣本周四公开发布GP…",
-        "minimal": "GPT-5.6 官宣本周四公开发布GP…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1849,6 +1818,6 @@
       }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-07-09T16:13:02.322527"
+  "count": 69,
+  "updated_at": "2026-07-09T16:18:07.119040"
 }
