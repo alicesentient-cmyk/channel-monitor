@@ -1220,41 +1220,6 @@
       }
     },
     {
-      "id": "zaihuapd_42441",
-      "channel": "zaihuapd",
-      "text": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出的首个联合模型。Grok 4.5 在 Harvey 法律代理基准测试中排名第一，专注编码、法律和金融服务等高难度专业任务，同时强化了网络安全能力。模型以 80 TPS 速度运行，token 效率达到同类领先模型的两倍，价格定为每百万输入 tokens 2 美元、输出 6 美元。现已上线 Grok Build、Cursor 各付费计划及 API，并集成 Word、PowerPoint、Excel 插件。EU 地区预计 7 月中旬可用。Xai|Bloomberg·茶馆水群·",
-      "clean_text": "🤖SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出的首个联合模型。Grok 4.5 在 Harvey 法律代理基准测试中排名第一，专注编码、法律和金融服务等高难度专业任务，同时强化了网络安全能力。模型以 80 TPS 速度运行，token 效率达到同类领先模型的两倍，价格定为每百万输入 tokens 2 美元、输出 6 美元。现已上线 Grok Build、Cursor 各付费计划及 API，并集成 Word、PowerPoint、Excel 插件。EU 地区预计 7 月中旬可用。Xai|Bloomberg·茶馆水群",
-      "datetime": "2026-07-08T18:05:26+00:00",
-      "views": "48.5K",
-      "source_links": [
-        {
-          "text": "Xai",
-          "url": "https://x.ai/news/grok-4-5"
-        },
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42441",
-      "scraped_at": "2026-07-09T03:01:28.382765",
-      "title": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-      "title_options": {
-        "conclusion": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-        "attractive": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-        "minimal": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1343,6 +1308,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-10T06:04:33.318647"
+  "count": 51,
+  "updated_at": "2026-07-10T06:09:36.860339"
 }
