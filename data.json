@@ -1531,29 +1531,6 @@
       }
     },
     {
-      "id": "xhqcankao_30647",
-      "channel": "xhqcankao",
-      "text": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达的新型CPU芯片。这将帮助英伟达撬动由英特尔和AMD等传统芯片制造商主导的CPU市场。英伟达Vera处理器的优势在于，它是从零开始为AI智能体时代而构建。AI智能体是一种自主程序，可以不断编写代码、执行任务并协调复杂的工作流程，而无需像人类计算机用户那样休息。英特尔和AMD的CPU则从笔记本电脑时代开始兴盛，实际无法完美应对AI智能体持续不断的循环运算。Perplexity 公司负责计算机企业和基础设施的副总裁表示，英伟达的CPU执行AI智能体编码任务的速度比传统CPU快约1.5倍，这与他们核心架构完美契合。",
-      "clean_text": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达的新型CPU芯片。这将帮助英伟达撬动由英特尔和AMD等传统芯片制造商主导的CPU市场。英伟达Vera处理器的优势在于，它是从零开始为AI智能体时代而构建。AI智能体是一种自主程序，可以不断编写代码、执行任务并协调复杂的工作流程，而无需像人类计算机用户那样休息。英特尔和AMD的CPU则从笔记本电脑时代开始兴盛，实际无法完美应对AI智能体持续不断的循环运算。Perplexity 公司负责计算机企业和基础设施的副总裁表示，英伟达的CPU执行AI智能体编码任务的速度比传统CPU快约1.5倍，这与他们核心架构完美契合。——财联社",
-      "datetime": "2026-07-08T09:32:45+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2420008?sv=8.5.9"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30647",
-      "scraped_at": "2026-07-08T18:01:32.450003",
-      "title": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
-      "title_options": {
-        "conclusion": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
-        "attractive": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
-        "minimal": "Perplexity宣布将使用英伟达新款CPU 全新设计更符合AI智能体需求人工智能初创公司Perplexity 周二宣布，该公司计划使用英伟达",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1642,6 +1619,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-09T21:32:25.277132"
+  "count": 61,
+  "updated_at": "2026-07-09T21:37:33.603237"
 }
