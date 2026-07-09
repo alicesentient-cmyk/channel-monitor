@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30666",
+      "channel": "xhqcankao",
+      "text": "新研究发现父母手机成瘾影响亲子关系根据最新研究，父母对屏幕和智能手机的依恋会对他们的孩子产生负面的、长期的发育和心理影响。根据这些发现，照看者若使用设备不当，既会加剧「不安全依恋」，也会使健康的亲子关系对孩子而言变得更加焦虑和回避，该发现上个月发表于同行评审期刊《心理学前沿》。该研究调查了美国600名 12 岁至 17 岁的未成年人，发现孩子们报告说，他们感到被沉迷于屏幕的父母边缘化或忽视。具有不安全依恋的孩子可能缺乏自信或表现出较低的自我感；表现出在人际关系和亲密关系方面的困难；并且不愿为取得成功而承担必要的风险，研究人员表示。",
+      "clean_text": "新研究发现父母手机成瘾影响亲子关系根据最新研究，父母对屏幕和智能手机的依恋会对他们的孩子产生负面的、长期的发育和心理影响。根据这些发现，照看者若使用设备不当，既会加剧「不安全依恋」，也会使健康的亲子关系对孩子而言变得更加焦虑和回避，该发现上个月发表于同行评审期刊《心理学前沿》。该研究调查了美国600名 12 岁至 17 岁的未成年人，发现孩子们报告说，他们感到被沉迷于屏幕的父母边缘化或忽视。具有不安全依恋的孩子可能缺乏自信或表现出较低的自我感；表现出在人际关系和亲密关系方面的困难；并且不愿为取得成功而承担必要的风险，研究人员表示。——彭博社",
+      "datetime": "2026-07-09T02:02:06+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/parents-phone-addiction-affects-bond-with-kids-new-study-finds"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30666",
+      "scraped_at": "2026-07-09T10:02:49.896891",
+      "title": "新研究发现父母手机成瘾影响亲子关系根据最新研究，父母对屏幕和智能手机",
+      "title_options": {
+        "conclusion": "新研究发现父母手机成瘾影响亲子关系根据最新研究，父母对屏幕和智能手机",
+        "attractive": "新研究发现父母手机成瘾影响亲子关系根据最新研究，父母对屏幕和智能手机",
+        "minimal": "新研究发现父母手机成瘾影响亲子关系根据最新研究，父母对屏幕和智能手机",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42443",
+      "channel": "zaihuapd",
+      "text": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月的\"夏季更新\"中正式推出 Lineage Flash Tools，用户可直接在浏览器中完成刷机，无需本地安装 adb 和 fastboot。该工具支持 Fastboot、ADB 及三星 Odin 协议，需使用 Chrome 或 Edge 等支持 WebUSB 的浏览器，且必须配合设备专属 Wiki 安装指南，并不能完全替代传统刷机流程。此外，Updater 应用换上 Material 3 Expressive 新界面，安装前会显示 Android 安全公告级别，A/B OTA 包默认采用流式安装以节省空间并加速更新。团队确认基于 Android 17 的 LineageOS 24 已进入开发阶段，同时新增了对三星、摩托罗拉、索尼、小米等多品牌设备的支持。Android Authority|LineageOS Wiki|LineageOS Downloads·茶馆水群·",
+      "clean_text": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月的\"夏季更新\"中正式推出 Lineage Flash Tools，用户可直接在浏览器中完成刷机，无需本地安装 adb 和 fastboot。该工具支持 Fastboot、ADB 及三星 Odin 协议，需使用 Chrome 或 Edge 等支持 WebUSB 的浏览器，且必须配合设备专属 Wiki 安装指南，并不能完全替代传统刷机流程。此外，Updater 应用换上 Material 3 Expressive 新界面，安装前会显示 Android 安全公告级别，A/B OTA 包默认采用流式安装以节省空间并加速更新。团队确认基于 Android 17 的 LineageOS 24 已进入开发阶段，同时新增了对三星、摩托罗拉、索尼、小米等多品牌设备的支持。Android Authority|LineageOS Wiki|LineageOS Downloads·茶馆水群",
+      "datetime": "2026-07-09T01:46:44+00:00",
+      "views": "48.2K",
+      "source_links": [
+        {
+          "text": "Android Authority",
+          "url": "https://www.androidauthority.com/lineageos-summertime-update-2026-3685112/"
+        },
+        {
+          "text": "LineageOS Wiki",
+          "url": "https://wiki.lineageos.org/web_flash_tools"
+        },
+        {
+          "text": "LineageOS Downloads",
+          "url": "https://download.lineageos.org/flash"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42443",
+      "scraped_at": "2026-07-09T10:02:48.201222",
+      "title": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
+      "title_options": {
+        "conclusion": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
+        "attractive": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
+        "minimal": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30665",
+      "channel": "xhqcankao",
+      "text": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现的代码表明，苹果公司正准备为 Lucid 和小米车辆添加车钥匙支持，并且该功能可能即将推出。该代码引用了标识符“LCID”和“XIA1”，它们似乎分别对应 Lucid 和小米。使用苹果车钥匙，驾驶员可以使用其iPhone或苹果手表来锁定、解锁和启动兼容车辆，而无需依赖传统的遥控钥匙。Lucid Motors已经被列为苹果在WWDC 2025上表示“即将”获得车钥匙支持的13个品牌之一。小米的加入将是新的消息。这家中国电子制造商已凭借SU7轿车和YU7 SUV等车型迅速扩展到EV领域，而车钥匙支持将标志着其与苹果生态系统的首次联结之一。",
+      "clean_text": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现的代码表明，苹果公司正准备为 Lucid 和小米车辆添加车钥匙支持，并且该功能可能即将推出。该代码引用了标识符“LCID”和“XIA1”，它们似乎分别对应 Lucid 和小米。使用苹果车钥匙，驾驶员可以使用其iPhone或苹果手表来锁定、解锁和启动兼容车辆，而无需依赖传统的遥控钥匙。Lucid Motors已经被列为苹果在WWDC 2025上表示“即将”获得车钥匙支持的13个品牌之一。小米的加入将是新的消息。这家中国电子制造商已凭借SU7轿车和YU7 SUV等车型迅速扩展到EV领域，而车钥匙支持将标志着其与苹果生态系统的首次联结之一。——Macrumors",
+      "datetime": "2026-07-09T01:30:21+00:00",
+      "views": "1.42K",
+      "source_links": [
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/07/08/ios-27-car-key-support-for-lucid-and-xiaomi/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30665",
+      "scraped_at": "2026-07-09T10:02:49.896570",
+      "title": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
+      "title_options": {
+        "conclusion": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
+        "attractive": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
+        "minimal": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30664",
       "channel": "xhqcankao",
       "text": "微软 Xbox 将把黑曜石工作室转移到开发新的《辐射》系列游戏中据知情人士透露，微软 Xbox 的子公司黑曜石娱乐已取消多个项目，并将开始制作热门《辐射》系列中的一款新游戏，作为该部门更广泛重组的一部分。上述人士表示，这家位于加利福尼亚州尔湾市的电子游戏工作室也裁减了约四分之一的人力。作为此次调整的一部分，黑曜石工作室已取消2025年角色扮演游戏《宣誓》的计划续作以及其他未公布的项目。根据新计划，工作室设计总监乔什·索耶将领导《辐射》宇宙中的一款新作品",
@@ -1686,6 +1771,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-09T09:58:18.334204"
+  "count": 66,
+  "updated_at": "2026-07-09T10:03:21.739015"
 }
