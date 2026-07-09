@@ -1684,37 +1684,6 @@
       }
     },
     {
-      "id": "zaihuapd_42419",
-      "channel": "zaihuapd",
-      "text": "四川宜宾市高县今天内发生多次地震从今天 04:01 开始，宜宾市高县发生了 9 次地震，其中有两次地震达到了 5 级地震。中国地震台网·茶馆水群·",
-      "clean_text": "四川宜宾市高县今天内发生多次地震从今天 04:01 开始，宜宾市高县发生了 9 次地震，其中有两次地震达到了 5 级地震。中国地震台网·茶馆水群",
-      "datetime": "2026-07-08T02:39:14+00:00",
-      "views": "50K",
-      "source_links": [
-        {
-          "text": "中国地震台网",
-          "url": "https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_subao"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42419",
-      "scraped_at": "2026-07-08T11:01:33.267178",
-      "title": "四川宜宾市高县今天内发生多次地震从今天…",
-      "title_options": {
-        "conclusion": "四川宜宾市高县今天内发生多次地震从今天…",
-        "attractive": "四川宜宾市高县今天内发生多次地震从今天…",
-        "minimal": "四川宜宾市高县今天内发生多次地震从今天…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1803,6 +1772,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-09T14:36:40.826226"
+  "count": 67,
+  "updated_at": "2026-07-09T14:41:45.000789"
 }
