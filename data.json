@@ -1590,33 +1590,6 @@
       }
     },
     {
-      "id": "xhqcankao_30644",
-      "channel": "xhqcankao",
-      "text": "三星电子开始量产用于英伟达Vera Rubin平台的先进固态硬盘7月8日讯，三星电子已开始量产其最先进的数据中心存储设备，这一产品将在英伟达即将推出的Vera Rubin平台内使用。这款企业级固态硬盘产品叫做PM1763，于今年早些时候在英伟达GTC大会上发布。三星当时将它与下一代高带宽内存HBM4和低功耗模块SOCAMM2一起展示，作为专为AI数据中心设计的综合方案的一部分。三星周三在声明中表示，这款存储设备采用最新的V-NAND闪存芯片和新研发的4纳米控制器，读写速度较前代产品提升逾一倍。PM1763可以减少先进处理器和AI加速器的数据延迟。三星表示，为在AI训练和推理过程中保持高速运行，这款硬盘配备了液冷系统。",
-      "clean_text": "三星电子开始量产用于英伟达Vera Rubin平台的先进固态硬盘7月8日讯，三星电子已开始量产其最先进的数据中心存储设备，这一产品将在英伟达即将推出的Vera Rubin平台内使用。这款企业级固态硬盘产品叫做PM1763，于今年早些时候在英伟达GTC大会上发布。三星当时将它与下一代高带宽内存HBM4和低功耗模块SOCAMM2一起展示，作为专为AI数据中心设计的综合方案的一部分。三星周三在声明中表示，这款存储设备采用最新的V-NAND闪存芯片和新研发的4纳米控制器，读写速度较前代产品提升逾一倍。PM1763可以减少先进处理器和AI加速器的数据延迟。三星表示，为在AI训练和推理过程中保持高速运行，这款硬盘配备了液冷系统。——财联社、彭博社",
-      "datetime": "2026-07-08T08:04:00+00:00",
-      "views": "2.01K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2419810?sv=859&amp;"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-07/samsung-mass-produces-storage-drives-for-nvidia-s-vera-rubin"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30644",
-      "scraped_at": "2026-07-08T17:01:56.553256",
-      "title": "三星电子开始量产用于英伟达Vera Rubin平台",
-      "title_options": {
-        "conclusion": "三星电子开始量产用于英伟达Vera Rubin平台",
-        "attractive": "三星电子开始量产用于英伟达Vera Rubin平台",
-        "minimal": "三星电子开始量产用于英伟达Vera Rubin平台",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1705,6 +1678,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-07-09T20:01:05.369831"
+  "count": 63,
+  "updated_at": "2026-07-09T20:06:09.687399"
 }
