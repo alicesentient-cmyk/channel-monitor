@@ -1,6 +1,52 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30671",
+      "channel": "xhqcankao",
+      "text": "中国远景动力首次为德国宝马供应电池车载电池大厂远景动力周三宣布，将为德国宝马全新纯电动汽车“iX5”供应电池。远景动力将提供在江苏省和河北省工厂量产的大容量电池。宝马iX5的电动版计划2027年开始在欧美等地销售，远景动力将同步启动电池供货。这是远景动力首次向宝马供应电池。本次提供的产品为型号为“46120”的圆柱电池，直径46毫米、高120毫米。在圆柱电池当中属于大尺寸，更容易提升输出功率与电池容量。远景动力提高了正极使用的镍的浓度，将每个电池的可用电量比原来提升了三成。远景动力前身是日产汽车与NEC等企业成立的 Automotive Energy Supply。2019年该公司被中国远景科技集团收购。",
+      "clean_text": "中国远景动力首次为德国宝马供应电池车载电池大厂远景动力周三宣布，将为德国宝马全新纯电动汽车“iX5”供应电池。远景动力将提供在江苏省和河北省工厂量产的大容量电池。宝马iX5的电动版计划2027年开始在欧美等地销售，远景动力将同步启动电池供货。这是远景动力首次向宝马供应电池。本次提供的产品为型号为“46120”的圆柱电池，直径46毫米、高120毫米。在圆柱电池当中属于大尺寸，更容易提升输出功率与电池容量。远景动力提高了正极使用的镍的浓度，将每个电池的可用电量比原来提升了三成。远景动力前身是日产汽车与NEC等企业成立的 Automotive Energy Supply。2019年该公司被中国远景科技集团收购。——日经新闻",
+      "datetime": "2026-07-09T04:31:40+00:00",
+      "views": "1.26K",
+      "source_links": [
+        {
+          "text": "日经新闻",
+          "url": "https://cn.nikkei.com/industry/manufacturing/63179-2026-07-09-09-50-16.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30671",
+      "scraped_at": "2026-07-09T13:01:53.102897",
+      "title": "中国远景动力首次为德国宝马供应电池车载…",
+      "title_options": {
+        "conclusion": "中国远景动力首次为德国宝马供应电池车载…",
+        "attractive": "中国远景动力首次为德国宝马供应电池车载…",
+        "minimal": "中国远景动力首次为德国宝马供应电池车载…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30670",
+      "channel": "xhqcankao",
+      "text": "Spotify现在允许在媒体库中置顶更多项目如果你已经使用Spotify很多年了，你的音乐媒体库可能非常庞大，以至于手动浏览非常麻烦。用户一直能够置顶艺术家、专辑和播放列表，让它们显示在媒体库顶部，但直到最近，用户只能固定最多四个项目。不过现在，这家流媒体服务已大幅提高了置顶项目的数量限制。Spotify宣布，用户现在可以在媒体库视图顶部固定最多20个项目。这相比之前四个的限制是一个巨大的飞跃，并且应该会使该功能对拥有较大媒体库的用户重新变得有用。被置顶的艺术家、专辑和播放列表默认出现在你的媒体库视图顶部，使该系统成为让你轻松访问最爱内容的好方法。",
+      "clean_text": "Spotify现在允许在媒体库中置顶更多项目如果你已经使用Spotify很多年了，你的音乐媒体库可能非常庞大，以至于手动浏览非常麻烦。用户一直能够置顶艺术家、专辑和播放列表，让它们显示在媒体库顶部，但直到最近，用户只能固定最多四个项目。不过现在，这家流媒体服务已大幅提高了置顶项目的数量限制。Spotify宣布，用户现在可以在媒体库视图顶部固定最多20个项目。这相比之前四个的限制是一个巨大的飞跃，并且应该会使该功能对拥有较大媒体库的用户重新变得有用。被置顶的艺术家、专辑和播放列表默认出现在你的媒体库视图顶部，使该系统成为让你轻松访问最爱内容的好方法。——Androidauthority",
+      "datetime": "2026-07-09T04:03:43+00:00",
+      "views": "1.94K",
+      "source_links": [
+        {
+          "text": "Androidauthority",
+          "url": "https://www.androidauthority.com/spotify-more-pinned-items-3685362/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30670",
+      "scraped_at": "2026-07-09T13:01:53.102438",
+      "title": "Spotify现在允许在媒体库中置顶更多项目如果你已经使用Spotify很多年了，你",
+      "title_options": {
+        "conclusion": "Spotify现在允许在媒体库中置顶更多项目如果你已经使用Spotify很多年了，你",
+        "attractive": "Spotify现在允许在媒体库中置顶更多项目如果你已经使用Spotify很多年了，你",
+        "minimal": "Spotify现在允许在媒体库中置顶更多项目如果你已经使用Spotify很多年了，你",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42446",
       "channel": "zaihuapd",
       "text": "TypeScript 7.0 正式发布：Go 重写带来最高 12 倍速度提升微软正式发布 TypeScript 7.0，这是用 Go 语言重写的原生版本，完整构建速度可比旧版快 8 到 12 倍，并支持共享内存多线程。用户现可通过 npm 直接安装，主流编辑器亦可通过 LSP 支持新语言服务器。新版本引入 --checkers 与 --builders 参数以自定义并行度，并提供兼容包实现与 TypeScript 6 并存；但 Vue、Svelte 等嵌入式语言工具链因 API 尚未就绪，目前仍需使用旧版本。TypeScript·茶馆水群·",
@@ -1700,41 +1746,6 @@
       }
     },
     {
-      "id": "zaihuapd_42416",
-      "channel": "zaihuapd",
-      "text": "Google Voice 首次向个人开放付费套餐，支持通话录音与 GeminiGoogle Voice 首次向个人用户开放付费套餐，无需 Google Workspace 订阅即可升级。两个新套餐主要面向小企业和副业人士，但任何人都可购买。Starter 套餐月费 10 美元，包含三方通话、通话转接、通话录音、桌面电话支持及 24/7 客服，号码不会因不活跃被回收。Standard 套餐月费 20 美元（前 6 个月半价），额外提供自动话务员呼叫路由和 Gemini 功能，可自动转录通话、总结要点并生成行动项，通话结束后将自动创建的 Google Doc 通过邮件发送。用户可在应用头像处找到升级入口，通过g.co/voice/upgrade页面订阅。9To5Google·茶馆水群·",
-      "clean_text": "🐶Google Voice 首次向个人开放付费套餐，支持通话录音与 GeminiGoogle Voice 首次向个人用户开放付费套餐，无需 Google Workspace 订阅即可升级。两个新套餐主要面向小企业和副业人士，但任何人都可购买。Starter 套餐月费 10 美元，包含三方通话、通话转接、通话录音、桌面电话支持及 24/7 客服，号码不会因不活跃被回收。Standard 套餐月费 20 美元（前 6 个月半价），额外提供自动话务员呼叫路由和 Gemini 功能，可自动转录通话、总结要点并生成行动项，通话结束后将自动创建的 Google Doc 通过邮件发送。用户可在应用头像处找到升级入口，通过g.co/voice/upgrade页面订阅。9To5Google·茶馆水群",
-      "datetime": "2026-07-08T01:00:29+00:00",
-      "views": "15K",
-      "source_links": [
-        {
-          "text": "g.co/voice/upgrade",
-          "url": "http://g.co/voice/upgrade"
-        },
-        {
-          "text": "9To5Google",
-          "url": "https://9to5google.com/2026/07/07/paid-google-voice/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42416",
-      "scraped_at": "2026-07-08T09:03:34.298832",
-      "title": "Google Voice 首次向个人开…",
-      "title_options": {
-        "conclusion": "Google Voice 首次向个人开…",
-        "attractive": "Google Voice 首次向个人开…",
-        "minimal": "Google Voice 首次向个人开…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1782,8 +1793,47 @@
         "minimal": "OpenAI 发布 GPT-Live 语音模型，支持全双工实时对话OpenAI 发布新一代语音模型 GPT-Live，采用全双工架构实现边说边听",
         "best": "conclusion"
       }
+    },
+    {
+      "id": "zaihuapd_42447",
+      "channel": "zaihuapd",
+      "text": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构的具身智能视频生成基础模型 LingBot-Video。该模型总参数 30B，生成时仅激活约 3B，推理效率约为同等规模 Dense 架构的 3 倍。在面向机器人操作视频的评测基准 RBench 上，LingBot-Video 总分 0.620，超越 Wan2.6、Seedance1.5 Pro 和 Cosmos3 Super 等模型。LingBot-Video 从架构、数据和训练三方面进行了创新：采用 DiT+MoE 设计平衡容量与成本；构建包含 7 万小时具身数据的画像引擎，覆盖灵巧操作、机器人移动和第一视角交互等场景；引入多维强化学习奖励系统，除美学和运动一致性外，重点关注物理合理性和任务完成度。模型可用于机器人动作预测、仿真数据生成和世界模型研究等方向，目前已以 Apache 2.0 许可证在 GitHub 开源。量子位|蚂蚁灵波官网|GitHub·茶馆水群·",
+      "clean_text": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构的具身智能视频生成基础模型 LingBot-Video。该模型总参数 30B，生成时仅激活约 3B，推理效率约为同等规模 Dense 架构的 3 倍。在面向机器人操作视频的评测基准 RBench 上，LingBot-Video 总分 0.620，超越 Wan2.6、Seedance1.5 Pro 和 Cosmos3 Super 等模型。LingBot-Video 从架构、数据和训练三方面进行了创新：采用 DiT+MoE 设计平衡容量与成本；构建包含 7 万小时具身数据的画像引擎，覆盖灵巧操作、机器人移动和第一视角交互等场景；引入多维强化学习奖励系统，除美学和运动一致性外，重点关注物理合理性和任务完成度。模型可用于机器人动作预测、仿真数据生成和世界模型研究等方向，目前已以 Apache 2.0 许可证在 GitHub 开源。量子位|蚂蚁灵波官网|GitHub·茶馆水群",
+      "datetime": null,
+      "views": "50K",
+      "source_links": [
+        {
+          "text": "量子位",
+          "url": "https://www.qbitai.com/2026/07/446458.html"
+        },
+        {
+          "text": "蚂蚁灵波官网",
+          "url": "https://technology.robbyant.com/lingbot-video"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/robbyant/lingbot-video"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42447",
+      "scraped_at": "2026-07-09T13:01:51.446265",
+      "title": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
+      "title_options": {
+        "conclusion": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
+        "attractive": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
+        "minimal": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
+        "best": "conclusion"
+      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-09T13:00:18.953808"
+  "count": 69,
+  "updated_at": "2026-07-09T13:05:23.765463"
 }
