@@ -1667,47 +1667,6 @@
       }
     },
     {
-      "id": "zaihuapd_42424",
-      "channel": "zaihuapd",
-      "text": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内的 Agent 产品，禁令将于 7 月 10 日生效。  阿里此前曾报销员工使用 Claude、GPT、Gemini 等外部模型的费用。此次禁令前，Anthropic 曾指控阿里在 4 月 22 日至 6 月 5 日间用约 2.5 万个虚假账号与 Claude 交互超 2800 万次，并随后收紧风控策略。…",
-      "clean_text": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内的 Agent 产品，禁令将于 7 月 10 日生效。  阿里此前曾报销员工使用 Claude、GPT、Gemini 等外部模型的费用。此次禁令前，Anthropic 曾指控阿里在 4 月 22 日至 6 月 5 日间用约 2.5 万个虚假账号与 Claude 交互超 2800 万次，并随后收紧风控策略。…",
-      "datetime": "2026-07-08T06:09:27+00:00",
-      "views": "52.7K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42424",
-      "scraped_at": "2026-07-08T15:01:24.385977",
-      "title": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
-      "title_options": {
-        "conclusion": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
-        "attractive": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
-        "minimal": "阿里下令全员卸载 Claude，7 月 10 日立即生效  阿里巴巴内部宣布反向禁用 Claude，要求员工卸载 Anthropic 相关产品，包括 Sonnet、Opus、Fable 等模型，以及 Claude Code 在内",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30640",
-      "channel": "xhqcankao",
-      "text": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中的一处错误在过去两个月内错误封禁了超过八千名用户，原因是无害图片，包括电子表格、棋盘、游戏纹理，以及白色和灰色透明背景，被错误地标记为有害内容。该公司确认，该问题自五月以来一直在影响账户，且在团队识别并修复问题之前，上周末又有两百名用户被封禁。所有受影响的账户目前正在恢复过程中。这一事件突显了围绕AI辅助审核日益增长的挑战之一，因为许多平台越来越依赖自动化系统来大规模识别非法或不当内容。该公司写道：“我们正在研究更好的保障措施，以确保此类事件不再发生。”",
-      "clean_text": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中的一处错误在过去两个月内错误封禁了超过八千名用户，原因是无害图片，包括电子表格、棋盘、游戏纹理，以及白色和灰色透明背景，被错误地标记为有害内容。该公司确认，该问题自五月以来一直在影响账户，且在团队识别并修复问题之前，上周末又有两百名用户被封禁。所有受影响的账户目前正在恢复过程中。这一事件突显了围绕AI辅助审核日益增长的挑战之一，因为许多平台越来越依赖自动化系统来大规模识别非法或不当内容。该公司写道：“我们正在研究更好的保障措施，以确保此类事件不再发生。”——Techcrunch",
-      "datetime": "2026-07-08T06:04:42+00:00",
-      "views": "2.27K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30640",
-      "scraped_at": "2026-07-08T15:01:26.183781",
-      "title": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
-      "title_options": {
-        "conclusion": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
-        "attractive": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
-        "minimal": "Discord因AI审核系统BUG误封大量用户聊天软件Discord已承认，其AI审核系统中",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1796,6 +1755,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-09T18:04:30.356478"
+  "count": 66,
+  "updated_at": "2026-07-09T18:09:34.119905"
 }
