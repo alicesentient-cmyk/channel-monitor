@@ -1448,29 +1448,6 @@
       }
     },
     {
-      "id": "xhqcankao_30655",
-      "channel": "xhqcankao",
-      "text": "LineageOS 项目宣布推出网页刷机工具安卓ROM LineageOS团队宣布了一项重大开发更新，带来了若干改进。该平台夏季更新公告中的一些最突出亮点包括基于浏览器的刷机工具、经过重新设计的 Updater 应用和扩展的设备支持，及确认基于安卓17的下一个主要版本的开发已在进行中。也许最大的新增功能是新的基于网页的刷机工具，该工具允许用户直接从浏览器安装LineageOS系统。该工具可通过项目的下载门户获取，并支持 Fastboot、ADB，甚至三星的Odin 刷机协议。但用户仍然需要遵循LineageOS维基中针对具体设备的说明。同时，该项目还对其Updater应用进行了全面革新，采用了全新的 Material 3 Expressive 设计。",
-      "clean_text": "LineageOS 项目宣布推出网页刷机工具安卓ROM LineageOS团队宣布了一项重大开发更新，带来了若干改进。该平台夏季更新公告中的一些最突出亮点包括基于浏览器的刷机工具、经过重新设计的 Updater 应用和扩展的设备支持，及确认基于安卓17的下一个主要版本的开发已在进行中。也许最大的新增功能是新的基于网页的刷机工具，该工具允许用户直接从浏览器安装LineageOS系统。该工具可通过项目的下载门户获取，并支持 Fastboot、ADB，甚至三星的Odin 刷机协议。但用户仍然需要遵循LineageOS维基中针对具体设备的说明。同时，该项目还对其Updater应用进行了全面革新，采用了全新的 Material 3 Expressive 设计。——Androidauthority",
-      "datetime": "2026-07-08T13:24:54+00:00",
-      "views": "1.62K",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/lineageos-summertime-update-2026-3685112/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30655",
-      "scraped_at": "2026-07-08T22:01:09.467928",
-      "title": "LineageOS 项目宣布推出网页刷…",
-      "title_options": {
-        "conclusion": "LineageOS 项目宣布推出网页刷…",
-        "attractive": "LineageOS 项目宣布推出网页刷…",
-        "minimal": "LineageOS 项目宣布推出网页刷…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1559,6 +1536,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-10T01:21:14.979070"
+  "count": 59,
+  "updated_at": "2026-07-10T01:26:19.488227"
 }
