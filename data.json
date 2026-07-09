@@ -1703,33 +1703,6 @@
       }
     },
     {
-      "id": "xhqcankao_30637",
-      "channel": "xhqcankao",
-      "text": "Anthropic扩展Claude Cowork至手机与网页Anthropic公司宣布将 Claude Cowork 从桌面应用扩展至网页及手机平台，相关功能会以Beta测试形式陆续向指定付费计划用户推出。这项名为“Cowork”的功能可让用户将任务交由Claude处理，使其自动操作档案、日历、电邮、即时通讯、网页，及其他已连接工具，直至任务完成为止。Cowork 将出现在Claude app侧边栏，支持iPhone、iPad 及Android设备，也可通过claude.ai网页版使用。用户可以在办公桌上开始工作，通过手机随时检查进度，并在任何地方取得最终成果。测试将在未来数周内逐步上线，首先开放给Max套餐用户，随后涵盖更多方案。",
-      "clean_text": "Anthropic扩展Claude Cowork至手机与网页Anthropic公司宣布将 Claude Cowork 从桌面应用扩展至网页及手机平台，相关功能会以Beta测试形式陆续向指定付费计划用户推出。这项名为“Cowork”的功能可让用户将任务交由Claude处理，使其自动操作档案、日历、电邮、即时通讯、网页，及其他已连接工具，直至任务完成为止。Cowork 将出现在Claude app侧边栏，支持iPhone、iPad 及Android设备，也可通过claude.ai网页版使用。用户可以在办公桌上开始工作，通过手机随时检查进度，并在任何地方取得最终成果。测试将在未来数周内逐步上线，首先开放给Max套餐用户，随后涵盖更多方案。——流动日报、Techcrunch",
-      "datetime": "2026-07-08T04:31:30+00:00",
-      "views": "1.33K",
-      "source_links": [
-        {
-          "text": "流动日报",
-          "url": "https://www.newmobilelife.com/2026/07/08/anthropic-claude-cowork-mobile-web-beta/"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30637",
-      "scraped_at": "2026-07-08T13:01:52.233731",
-      "title": "Anthropic扩展Claude C…",
-      "title_options": {
-        "conclusion": "Anthropic扩展Claude C…",
-        "attractive": "Anthropic扩展Claude C…",
-        "minimal": "Anthropic扩展Claude C…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1818,6 +1791,6 @@
       }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-09T16:28:15.645939"
+  "count": 68,
+  "updated_at": "2026-07-09T16:33:19.053150"
 }
