@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30662",
+      "channel": "xhqcankao",
+      "text": "苹果公司折叠机预计不会出现量产延期日前，有市场消息称，苹果公司首款折叠机产品或因产品组装复杂、良率较低等原因延期发售。记者就此采访多位果链企业人士获悉，苹果公司折叠机产品方案早已确定，目前相关企业已进入生产旺季，产品正常量产中。多位受访人士表示，9月交付应该“没问题”，对于产品发售延期传闻，则表示“没听说”。同时，市场期待已久的液态金属铰链或也将缺席首代苹果折叠机。多位受访业内人士称，首代苹果折叠机并未采用液态金属铰链方案。某果链人士表示，这款产品备货“一千万台差不多”。预计今年苹果折叠屏iPhone的实际出货量约为600万至700万部。",
+      "clean_text": "苹果公司折叠机预计不会出现量产延期日前，有市场消息称，苹果公司首款折叠机产品或因产品组装复杂、良率较低等原因延期发售。记者就此采访多位果链企业人士获悉，苹果公司折叠机产品方案早已确定，目前相关企业已进入生产旺季，产品正常量产中。多位受访人士表示，9月交付应该“没问题”，对于产品发售延期传闻，则表示“没听说”。同时，市场期待已久的液态金属铰链或也将缺席首代苹果折叠机。多位受访业内人士称，首代苹果折叠机并未采用液态金属铰链方案。某果链人士表示，这款产品备货“一千万台差不多”。预计今年苹果折叠屏iPhone的实际出货量约为600万至700万部。——财联社",
+      "datetime": "2026-07-09T00:01:31+00:00",
+      "views": "55",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2420933?sv=8.8.0&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30662",
+      "scraped_at": "2026-07-09T08:03:43.730513",
+      "title": "苹果公司折叠机预计不会出现量产延期日前…",
+      "title_options": {
+        "conclusion": "苹果公司折叠机预计不会出现量产延期日前…",
+        "attractive": "苹果公司折叠机预计不会出现量产延期日前…",
+        "minimal": "苹果公司折叠机预计不会出现量产延期日前…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30661",
+      "channel": "xhqcankao",
+      "text": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发的全新人工智能模型，旨在提升其在金融、法律和编程等专业领域的能力。这款名为Grok 4.5的软件，是两家公司共同训练的首个AI模型，旨在帮助马斯克旗下公司在与Anthropic、OpenAI等竞争对手的AI竞赛中缩小差距。根据两家公司周三发布的博客文章，Grok 4.5专为处理 “复杂且持续时间较长的任务” 而设计，包括软件工程工作。但与Cursor此前推出的模型相比，Grok 4.5的应用范围进一步扩展，可胜任法律服务、金融服务等更多专业场景。此外，该模型还增强了网络安全能力。",
+      "clean_text": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发的全新人工智能模型，旨在提升其在金融、法律和编程等专业领域的能力。这款名为Grok 4.5的软件，是两家公司共同训练的首个AI模型，旨在帮助马斯克旗下公司在与Anthropic、OpenAI等竞争对手的AI竞赛中缩小差距。根据两家公司周三发布的博客文章，Grok 4.5专为处理 “复杂且持续时间较长的任务” 而设计，包括软件工程工作。但与Cursor此前推出的模型相比，Grok 4.5的应用范围进一步扩展，可胜任法律服务、金融服务等更多专业场景。此外，该模型还增强了网络安全能力。——财联社、Techcrunch",
+      "datetime": "2026-07-08T23:30:08+00:00",
+      "views": "919",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2420986?sv=8.5.9&amp;"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30661",
+      "scraped_at": "2026-07-09T08:03:43.730192",
+      "title": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
+      "title_options": {
+        "conclusion": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
+        "attractive": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
+        "minimal": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30660",
+      "channel": "xhqcankao",
+      "text": "OpenAI公司宣布推出GPT-Live语音模型人工智能初创公司OpenAI今天推出新语音模型系列GPT-Live，可同时聆听与说话，而且会发出 “嗯嗯”或“对啊” 等语句，像真人对话那样附和与停顿。该公司表示，今天将向全球用户推出两个版本的GPT-Live，其中包括GPT-Live-1与GPT-Live-1 mini。OpenAI今年五月曾在开发者平台推出三款语音模型，旨在让基于语音的智能体更具对话能力，并在即时情境下完成任务。根据OpenAI公司官网介绍，GPT-Live模型采用全双工架构，意味着它能够在同一时间聆听与说话。在对话过程中，GPT-Live可以通过“嗯嗯”或“对啊”等语句表现出它正在专注聆听，也能快速来回互动，或在使用者需要思考时间时保持沉默。",
+      "clean_text": "OpenAI公司宣布推出GPT-Live语音模型人工智能初创公司OpenAI今天推出新语音模型系列GPT-Live，可同时聆听与说话，而且会发出 “嗯嗯”或“对啊” 等语句，像真人对话那样附和与停顿。该公司表示，今天将向全球用户推出两个版本的GPT-Live，其中包括GPT-Live-1与GPT-Live-1 mini。OpenAI今年五月曾在开发者平台推出三款语音模型，旨在让基于语音的智能体更具对话能力，并在即时情境下完成任务。根据OpenAI公司官网介绍，GPT-Live模型采用全双工架构，意味着它能够在同一时间聆听与说话。在对话过程中，GPT-Live可以通过“嗯嗯”或“对啊”等语句表现出它正在专注聆听，也能快速来回互动，或在使用者需要思考时间时保持沉默。——中央社、Techcrunch",
+      "datetime": "2026-07-08T23:04:19+00:00",
+      "views": "1.19K",
+      "source_links": [
+        {
+          "text": "中央社",
+          "url": "https://www.cna.com.tw/news/ait/202607090010.aspx"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30660",
+      "scraped_at": "2026-07-09T08:03:43.729843",
+      "title": "OpenAI公司宣布推出GPT-Liv…",
+      "title_options": {
+        "conclusion": "OpenAI公司宣布推出GPT-Liv…",
+        "attractive": "OpenAI公司宣布推出GPT-Liv…",
+        "minimal": "OpenAI公司宣布推出GPT-Liv…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42441",
       "channel": "zaihuapd",
       "text": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出的首个联合模型。Grok 4.5 在 Harvey 法律代理基准测试中排名第一，专注编码、法律和金融服务等高难度专业任务，同时强化了网络安全能力。模型以 80 TPS 速度运行，token 效率达到同类领先模型的两倍，价格定为每百万输入 tokens 2 美元、输出 6 美元。现已上线 Grok Build、Cursor 各付费计划及 API，并集成 Word、PowerPoint、Excel 插件。EU 地区预计 7 月中旬可用。Xai|Bloomberg·茶馆水群·",
@@ -1520,6 +1597,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-09T08:02:09.850063"
+  "count": 60,
+  "updated_at": "2026-07-09T08:07:13.129302"
 }
