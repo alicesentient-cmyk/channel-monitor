@@ -1559,37 +1559,6 @@
       }
     },
     {
-      "id": "zaihuapd_42426",
-      "channel": "zaihuapd",
-      "text": "LG 和 Alienware 显示器被曝自动安装 Windows 应用，并弹出迈克菲广告部分 LG、戴尔和 Alienware 显示器连接 Windows 电脑后，会通过微软商店及 Windows 更新自动安装配套应用，用户事前未收到明确提示。其中，LG Monitor App Installer 可能进一步触发迈克菲广告弹窗，且无法直接通过微软商店卸载。用户可在系统启动项中禁止该应用运行，彻底关闭自动安装则需要修改本地组策略，或停用微软商店。TechSpot·茶馆水群·",
-      "clean_text": "LG 和 Alienware 显示器被曝自动安装 Windows 应用，并弹出迈克菲广告部分 LG、戴尔和 Alienware 显示器连接 Windows 电脑后，会通过微软商店及 Windows 更新自动安装配套应用，用户事前未收到明确提示。其中，LG Monitor App Installer 可能进一步触发迈克菲广告弹窗，且无法直接通过微软商店卸载。用户可在系统启动项中禁止该应用运行，彻底关闭自动安装则需要修改本地组策略，或停用微软商店。TechSpot·茶馆水群",
-      "datetime": "2026-07-08T08:08:12+00:00",
-      "views": "51.9K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/113031-lg-alienware-monitors-caught-auto-installing-windows-adware.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42426",
-      "scraped_at": "2026-07-08T17:01:54.805145",
-      "title": "LG 和 Alienware 显示器被…",
-      "title_options": {
-        "conclusion": "LG 和 Alienware 显示器被…",
-        "attractive": "LG 和 Alienware 显示器被…",
-        "minimal": "LG 和 Alienware 显示器被…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1678,6 +1647,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-09T20:06:09.687399"
+  "count": 62,
+  "updated_at": "2026-07-09T20:10:41.839641"
 }
