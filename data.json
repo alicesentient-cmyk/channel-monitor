@@ -1761,29 +1761,6 @@
       }
     },
     {
-      "id": "xhqcankao_30636",
-      "channel": "xhqcankao",
-      "text": "谷歌宣布八月举行 Pixel 11 手机发布会据谷歌发送给媒体的邀请函，谷歌将于 8月12日在纽约市举办下一届Made by Google Pixel硬件发布活动。与以往不同的是，这场活动在晚上举行：将于美国东部时间当天下午六点开始。电子邮件中还包含一段简短的动画，预告了一款似乎属于Pixel 11系列的金色手机。目前为止出现的Pixel 11泄露信息显示，基础款手机的边框可能比Pixel 10更窄，并采用纯黑色摄像头条形设计。Pixel 11 Pro的泄露信息表明，该手机可能比Pixel 10 Pro略薄一些。Pixel 11 Pro Fold也可能比前代更薄，并且可能采用重新设计的摄像头凸起。去年Pixel 10的发布会于8月20日举行，脱口秀主持人吉米·法伦出席了发布会。",
-      "clean_text": "谷歌宣布八月举行 Pixel 11 手机发布会据谷歌发送给媒体的邀请函，谷歌将于 8月12日在纽约市举办下一届Made by Google Pixel硬件发布活动。与以往不同的是，这场活动在晚上举行：将于美国东部时间当天下午六点开始。电子邮件中还包含一段简短的动画，预告了一款似乎属于Pixel 11系列的金色手机。目前为止出现的Pixel 11泄露信息显示，基础款手机的边框可能比Pixel 10更窄，并采用纯黑色摄像头条形设计。Pixel 11 Pro的泄露信息表明，该手机可能比Pixel 10 Pro略薄一些。Pixel 11 Pro Fold也可能比前代更薄，并且可能采用重新设计的摄像头凸起。去年Pixel 10的发布会于8月20日举行，脱口秀主持人吉米·法伦出席了发布会。——Theverge",
-      "datetime": "2026-07-08T04:03:05+00:00",
-      "views": "2.06K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30636",
-      "scraped_at": "2026-07-08T13:01:52.233365",
-      "title": "谷歌宣布八月举行 Pixel 11 手机发布会据谷歌发送给媒体",
-      "title_options": {
-        "conclusion": "谷歌宣布八月举行 Pixel 11 手机发布会据谷歌发送给媒体",
-        "attractive": "谷歌宣布八月举行 Pixel 11 手机发布会据谷歌发送给媒体",
-        "minimal": "谷歌宣布八月举行 Pixel 11 手机发布会据谷歌发送给媒体",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1872,6 +1849,6 @@
       }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-09T16:02:52.192734"
+  "count": 70,
+  "updated_at": "2026-07-09T16:07:57.046784"
 }
