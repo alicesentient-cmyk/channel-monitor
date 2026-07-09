@@ -1688,37 +1688,6 @@
       }
     },
     {
-      "id": "zaihuapd_42417",
-      "channel": "zaihuapd",
-      "text": "小米汽车官宣新品牌 SkyNomad - 天空，游牧者7 月 8 日，小米汽车官宣新品牌 SkyNomad，并将其解释为“天空，游牧者”，称这是“一个关于空间和生活的新名字”。此前消息称，小米汽车首款增程式 SUV 将归属全新独立子品牌 SKYNOMAD，不再使用小米主品牌标识，计划于 2026 年下半年正式发布；该车型内部代号为昆仑 N3，此前网传的“YU9”命名已取消。长沙晚报·茶馆水群·",
-      "clean_text": "🚘小米汽车官宣新品牌 SkyNomad - 天空，游牧者7 月 8 日，小米汽车官宣新品牌 SkyNomad，并将其解释为“天空，游牧者”，称这是“一个关于空间和生活的新名字”。此前消息称，小米汽车首款增程式 SUV 将归属全新独立子品牌 SKYNOMAD，不再使用小米主品牌标识，计划于 2026 年下半年正式发布；该车型内部代号为昆仑 N3，此前网传的“YU9”命名已取消。长沙晚报·茶馆水群",
-      "datetime": "2026-07-08T01:42:53+00:00",
-      "views": "49.4K",
-      "source_links": [
-        {
-          "text": "长沙晚报",
-          "url": "https://mp.weixin.qq.com/s/xu6cOtAMW4A_MeJtm4_Lcw"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42417",
-      "scraped_at": "2026-07-08T10:01:57.284361",
-      "title": "小米汽车官宣新品牌 SkyNomad - 天空，游牧者7 月 8 日，小米汽车官宣新品牌 SkyNomad，并将其解释为“天空，游牧者”，称这是“一个关于空间和生活",
-      "title_options": {
-        "conclusion": "小米汽车官宣新品牌 SkyNomad - 天空，游牧者7 月 8 日，小米汽车官宣新品牌 SkyNomad，并将其解释为“天空，游牧者”，称这是“一个关于空间和生活",
-        "attractive": "小米汽车官宣新品牌 SkyNomad - 天空，游牧者7 月 8 日，小米汽车官宣新品牌 SkyNomad，并将其解释为“天空，游牧者”，称这是“一个关于空间和生活",
-        "minimal": "小米汽车官宣新品牌 SkyNomad - 天空，游牧者7 月 8 日，小米汽车官宣新品牌 SkyNomad，并将其解释为“天空，游牧者”，称这是“一个关于空间和生活",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1807,6 +1776,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-09T13:40:54.270742"
+  "count": 67,
+  "updated_at": "2026-07-09T13:45:57.569759"
 }
