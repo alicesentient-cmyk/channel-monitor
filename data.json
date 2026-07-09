@@ -1417,37 +1417,6 @@
       }
     },
     {
-      "id": "zaihuapd_42432",
-      "channel": "zaihuapd",
-      "text": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上的公开测试的免费模型 OWL 疑似发生模型对话数据泄露。相关数据曾出现在GitHub 仓库，目前该仓库已无法公开访问。该仓库至少曾在 2026 年 7 月 7 日 23:32:33 北京时间公开出现。用户截图称，该仓库随后被 Discord 机器人 token 扫描器发现，提示令牌已暴露并被重置。此前 Google、DeepSeek 等模型厂商均在隐私说明中表示，用户对话数据可能被用于服务改进、分析或模型训练。此次事件再次提醒群友们：不要在大模型中输入 API Key、私钥、企业源码、客户数据等敏感信息。大模型 Agent 会话日志本身，已经成为新的敏感数据资产。·茶馆水群·",
-      "clean_text": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上的公开测试的免费模型 OWL 疑似发生模型对话数据泄露。相关数据曾出现在GitHub 仓库，目前该仓库已无法公开访问。该仓库至少曾在 2026 年 7 月 7 日 23:32:33 北京时间公开出现。用户截图称，该仓库随后被 Discord 机器人 token 扫描器发现，提示令牌已暴露并被重置。⚠️此前 Google、DeepSeek 等模型厂商均在隐私说明中表示，用户对话数据可能被用于服务改进、分析或模型训练。此次事件再次提醒群友们：不要在大模型中输入 API Key、私钥、企业源码、客户数据等敏感信息。大模型 Agent 会话日志本身，已经成为新的敏感数据资产。·茶馆水群",
-      "datetime": "2026-07-08T13:35:37+00:00",
-      "views": "49.8K",
-      "source_links": [
-        {
-          "text": "GitHub 仓库",
-          "url": "https://github.com/gumusserv/ProducerBenchV2/blob/83cad6007ef3fe8df33386e8f43738fe62337e16/parsed_source_data/data/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42432",
-      "scraped_at": "2026-07-08T22:01:07.740870",
-      "title": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
-      "title_options": {
-        "conclusion": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
-        "attractive": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
-        "minimal": "美团 OWL（LongCat）免费测试模型疑似发生会话数据泄露近日，小红书用户流传截图显示，美团 LongCat 在 OpenRouter 上",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1536,6 +1505,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-10T01:31:23.511335"
+  "count": 58,
+  "updated_at": "2026-07-10T01:36:31.117261"
 }
