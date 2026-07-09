@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30689",
+      "channel": "xhqcankao",
+      "text": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新的人工智能模型GPT-5.6 Sol，在智能体编程任务上token 效率提高了 54%，并且该模型 “与市场上的竞品模型一样好或更好”。OpenAI 周四正在推出其最新系列模型，GPT-5.6 Sol、Terra 和Luna，这些模型于上个月发布。应美国政府的要求，该公司将初始发布限制在一小群受信任的合作伙伴。奥尔特曼表示，OpenAI 公司在审批过程中与特朗普政府官员进行了合作。他将 OpenAI 公司与政府的合作描述为 “协作式的来回沟通”，即政府会进行测试并提出问题，供该公司解决。",
+      "clean_text": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新的人工智能模型GPT-5.6 Sol，在智能体编程任务上token 效率提高了 54%，并且该模型 “与市场上的竞品模型一样好或更好”。OpenAI 周四正在推出其最新系列模型，GPT-5.6 Sol、Terra 和Luna，这些模型于上个月发布。应美国政府的要求，该公司将初始发布限制在一小群受信任的合作伙伴。奥尔特曼表示，OpenAI 公司在审批过程中与特朗普政府官员进行了合作。他将 OpenAI 公司与政府的合作描述为 “协作式的来回沟通”，即政府会进行测试并提出问题，供该公司解决。——CNBC",
+      "datetime": "2026-07-09T15:31:56+00:00",
+      "views": "1.43K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30689",
+      "scraped_at": "2026-07-10T00:07:51.563682",
+      "title": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
+      "title_options": {
+        "conclusion": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
+        "attractive": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
+        "minimal": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42462",
+      "channel": "zaihuapd",
+      "text": "Claude 推出 Reflect 功能，可回顾过去一年的使用情况Anthropic 推出 Reflect 测试版，可在 Claude 网页版和桌面端的设置中生成使用报告，回顾过去 1、3、6 或 12 个月的聊天活动。报告会总结常用主题、使用时段和任务类型，并提供暂停提醒、免打扰时段等设置。该功能目前面向已开启 Memory 的 Free、Pro 和 Max 用户，隐身聊天、连接工具中的原始文件及健康工具相关对话不会纳入分析。Anthropic·茶馆水群·",
+      "clean_text": "Claude 推出 Reflect 功能，可回顾过去一年的使用情况Anthropic 推出 Reflect 测试版，可在 Claude 网页版和桌面端的设置中生成使用报告，回顾过去 1、3、6 或 12 个月的聊天活动。报告会总结常用主题、使用时段和任务类型，并提供暂停提醒、免打扰时段等设置。该功能目前面向已开启 Memory 的 Free、Pro 和 Max 用户，隐身聊天、连接工具中的原始文件及健康工具相关对话不会纳入分析。Anthropic·茶馆水群",
+      "datetime": "2026-07-09T15:27:52+00:00",
+      "views": "50.6K",
+      "source_links": [
+        {
+          "text": "Anthropic",
+          "url": "https://www.anthropic.com/news/reflect-with-claude"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42462",
+      "scraped_at": "2026-07-10T00:07:48.316481",
+      "title": "Claude 推出 Reflect 功能，可回顾过去一年",
+      "title_options": {
+        "conclusion": "Claude 推出 Reflect 功能，可回顾过去一年",
+        "attractive": "Claude 推出 Reflect 功能，可回顾过去一年",
+        "minimal": "Claude 推出 Reflect 功能，可回顾过去一年",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30688",
+      "channel": "xhqcankao",
+      "text": "印度取消部分手机及电子设备零件进口关税印度已取消部分手机及其他电子设备零部件的进口关税，免除了此前7.5%和5%的税率，此举有望帮助苹果、小米等企业进一步降低制造成本。此次获得免税的产品包括：用于生产手机无线充电模块的关键零部件、医疗设备和汽车显示屏相关零部件，以及锂离子电芯等。该免税政策将持续至2029年3月31日。商业咨询公司 Grant Thornton Bharat 合伙人表示，此举将有助于提升印度电子制造业的成本竞争力，提高本地增值率，并且推动高价值智能手机及电子产品制造进一步实现本土化。对锂离子电芯制造实施免税政策，也有望吸引更多企业投资印度本土电池生产，带动消费电子和电动交通领域发展。",
+      "clean_text": "印度取消部分手机及电子设备零件进口关税印度已取消部分手机及其他电子设备零部件的进口关税，免除了此前7.5%和5%的税率，此举有望帮助苹果、小米等企业进一步降低制造成本。此次获得免税的产品包括：用于生产手机无线充电模块的关键零部件、医疗设备和汽车显示屏相关零部件，以及锂离子电芯等。该免税政策将持续至2029年3月31日。商业咨询公司 Grant Thornton Bharat 合伙人表示，此举将有助于提升印度电子制造业的成本竞争力，提高本地增值率，并且推动高价值智能手机及电子产品制造进一步实现本土化。对锂离子电芯制造实施免税政策，也有望吸引更多企业投资印度本土电池生产，带动消费电子和电动交通领域发展。——路透社",
+      "datetime": "2026-07-09T15:03:43+00:00",
+      "views": "2.16K",
+      "source_links": [
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/business/media-telecom/india-removes-import-duty-some-electronics-smartphone-parts-2026-07-09/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30688",
+      "scraped_at": "2026-07-10T00:07:51.563312",
+      "title": "印度取消部分手机及电子设备零件进口关税印度已取消部分手机及其他电子设备零部件",
+      "title_options": {
+        "conclusion": "印度取消部分手机及电子设备零件进口关税印度已取消部分手机及其他电子设备零部件",
+        "attractive": "印度取消部分手机及电子设备零件进口关税印度已取消部分手机及其他电子设备零部件",
+        "minimal": "印度取消部分手机及电子设备零件进口关税印度已取消部分手机及其他电子设备零部件",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30687",
       "channel": "xhqcankao",
       "text": "扎克伯格承诺为Meta的首款付费使用AI提供“激进”定价在拥挤的AI工具市场中，马克·扎克伯格希望以价格取胜。Meta Platforms Inc. 发布了其最先进人工智能模型Muse Spark 1.1的一个版本，该版本包含面向开发者的全新付费层级，标志着Meta首次向企业收取访问其模型的费用，并提供了新的收入来源。扎克伯格在发布前的一次采访中表示，该模型将成为市场上最实惠的选择之一。Meta还将推出一个新的Meta Model API系统，该系统将用于向开发者收取费用。其API定价约为OpenAI和Anthropic PBC其他顶级模型所公开成本的25%。开发者可以免费使用Meta模型，但仅限一定额度；在达到某个 token 阈值后将需要付费才能继续访问，扎克伯格说。",
@@ -1598,6 +1675,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-10T00:05:00.710639"
+  "count": 64,
+  "updated_at": "2026-07-10T00:10:06.251006"
 }
