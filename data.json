@@ -1471,41 +1471,6 @@
       }
     },
     {
-      "id": "zaihuapd_42430",
-      "channel": "zaihuapd",
-      "text": "安卓高危漏洞曝光，点击恶意链接即可远程 Root 全版本安卓设备7 月 8 日，网络安全公司 Nebula 曝光一套安卓远程 Root 漏洞链，安卓 17 及全系列旧版设备均受波及，谷歌 Pixel 机型已实测可被攻破。该攻击链结合 Firefox 151.0.2 及更早版本浏览器漏洞、潜伏 15 年的 Linux 内核漏洞，用户仅点击恶意链接，一分钟内即可被植入权限文件、获取持久 Root 权限，攻击者能通过 adb 操控设备。目前相关漏洞概念验证代码已上传 GitHub，厂商已收到漏洞通报，Linux 内核已完成漏洞修复。完整漏洞细节暂未披露，但业内预判通用简易 Root 方案很快会流出。酷安｜X·茶馆水群·",
-      "clean_text": "安卓高危漏洞曝光，点击恶意链接即可远程 Root 全版本安卓设备7 月 8 日，网络安全公司 Nebula 曝光一套安卓远程 Root 漏洞链，安卓 17 及全系列旧版设备均受波及，谷歌 Pixel 机型已实测可被攻破。该攻击链结合 Firefox 151.0.2 及更早版本浏览器漏洞、潜伏 15 年的 Linux 内核漏洞，用户仅点击恶意链接，一分钟内即可被植入权限文件、获取持久 Root 权限，攻击者能通过 adb 操控设备。目前相关漏洞概念验证代码已上传 GitHub，厂商已收到漏洞通报，Linux 内核已完成漏洞修复。完整漏洞细节暂未披露，但业内预判通用简易 Root 方案很快会流出。酷安｜X·茶馆水群",
-      "datetime": "2026-07-08T13:01:17+00:00",
-      "views": "1.84K",
-      "source_links": [
-        {
-          "text": "酷安",
-          "url": "https://www.coolapk.com/feed/72700258?s=ZGQ2MTVlZjYxMDYyNTM3ZzZhNGUzOThjega1640"
-        },
-        {
-          "text": "X",
-          "url": "https://x.com/nebusecurity/status/2074663573742338256"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42430",
-      "scraped_at": "2026-07-08T21:01:37.852517",
-      "title": "安卓高危漏洞曝光，点击恶意链接即可远程…",
-      "title_options": {
-        "conclusion": "安卓高危漏洞曝光，点击恶意链接即可远程…",
-        "attractive": "安卓高危漏洞曝光，点击恶意链接即可远程…",
-        "minimal": "安卓高危漏洞曝光，点击恶意链接即可远程…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1594,6 +1559,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-10T01:00:53.894021"
+  "count": 60,
+  "updated_at": "2026-07-10T01:05:57.831880"
 }
