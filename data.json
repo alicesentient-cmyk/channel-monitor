@@ -1735,29 +1735,6 @@
       }
     },
     {
-      "id": "xhqcankao_30630",
-      "channel": "xhqcankao",
-      "text": "微软修复占用大量存储空间的文件夹问题微软正在解决一个导致某个文件夹占用数GB存储空间的 Windows 11 系统错误。据媒体报道，微软将该补丁包含在其 2026年6月可选更新（KB5095093）中，该更新「改进了CapabilityAccessManager.db-wal文件的磁盘空间使用情况」。CapabilityAccessManager.db-wal文件默认安装在Windows 11电脑上，并且与应用权限相关。过去几个月里，几位用户遇到了该文件的问题，其中一人表示该文件占用了其设备上500GB的存储空间。其他人也报告该文件增长到同样大的规模，范围从 12GB 到200GB不等。据了解，该文件增长的原因可能是Windows 11“一直在记录访问请求或其他隐私控制（如位置）的重复事件”。",
-      "clean_text": "微软修复占用大量存储空间的文件夹问题微软正在解决一个导致某个文件夹占用数GB存储空间的 Windows 11 系统错误。据媒体报道，微软将该补丁包含在其 2026年6月可选更新（KB5095093）中，该更新「改进了CapabilityAccessManager.db-wal文件的磁盘空间使用情况」。CapabilityAccessManager.db-wal文件默认安装在Windows 11电脑上，并且与应用权限相关。过去几个月里，几位用户遇到了该文件的问题，其中一人表示该文件占用了其设备上500GB的存储空间。其他人也报告该文件增长到同样大的规模，范围从 12GB 到200GB不等。据了解，该文件增长的原因可能是Windows 11“一直在记录访问请求或其他隐私控制（如位置）的重复事件”。——Theverge",
-      "datetime": "2026-07-08T01:00:13+00:00",
-      "views": "250",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30630",
-      "scraped_at": "2026-07-08T09:03:35.999461",
-      "title": "微软修复占用大量存储空间",
-      "title_options": {
-        "conclusion": "微软修复占用大量存储空间",
-        "attractive": "微软修复占用大量存储空间",
-        "minimal": "微软修复占用大量存储空间",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1807,6 +1784,6 @@
       }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-09T12:55:15.282501"
+  "count": 67,
+  "updated_at": "2026-07-09T13:00:18.953808"
 }
