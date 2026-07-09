@@ -1609,37 +1609,6 @@
       }
     },
     {
-      "id": "zaihuapd_42425",
-      "channel": "zaihuapd",
-      "text": "SpaceXAI 将于明日向公众开放 Grok 4.5SpaceXAI 表示，Grok 4.5 在测试项目中获得客户积极反馈，将于明日正式向公众开放。该公司称，Grok 4.5 属于 Opus 级模型，但速度更快、Token 使用效率更高，成本也更低。Elon Musk·茶馆水群·",
-      "clean_text": "SpaceXAI 将于明日向公众开放 Grok 4.5SpaceXAI 表示，Grok 4.5 在测试项目中获得客户积极反馈，将于明日正式向公众开放。该公司称，Grok 4.5 属于 Opus 级模型，但速度更快、Token 使用效率更高，成本也更低。Elon Musk·茶馆水群",
-      "datetime": "2026-07-08T07:09:22+00:00",
-      "views": "52.1K",
-      "source_links": [
-        {
-          "text": "Elon Musk",
-          "url": "https://x.com/elonmusk/status/2074740539874775163"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42425",
-      "scraped_at": "2026-07-08T16:02:15.966845",
-      "title": "SpaceXAI 将于明日向公众开放 …",
-      "title_options": {
-        "conclusion": "SpaceXAI 将于明日向公众开放 …",
-        "attractive": "SpaceXAI 将于明日向公众开放 …",
-        "minimal": "SpaceXAI 将于明日向公众开放 …",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1728,6 +1697,6 @@
       }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-07-09T19:05:16.469017"
+  "count": 64,
+  "updated_at": "2026-07-09T19:10:19.508474"
 }
