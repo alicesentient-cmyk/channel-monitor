@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30692",
+      "channel": "xhqcankao",
+      "text": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司的监管机构 “长期利益信托”（Long-Term Benefit Trust，LTBT）。伯南克在周四发布的声明中表示，“人工智能的潜力巨大，其可能带来的后果也多种多样。这种潜力最终如何发挥，部分取决于我们围绕它建立的制度。”“Anthropic创建了一种独特的治理结构，力求确保人工智能为人类带来的长期益处远远大于其风险。我很荣幸能有机会参与其中，我将尽我所能为这项至关重要的使命做出贡献。”Anthropic 2023年设立了一个全新的、独立的治理结构LTBT，该机构由五位互不相关的外部成员组成，有权选举和罢免 Anthropic 董事会的部分成员，旨在确保公司始终履行服务公共利益的使命。",
+      "clean_text": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司的监管机构 “长期利益信托”（Long-Term Benefit Trust，LTBT）。伯南克在周四发布的声明中表示，“人工智能的潜力巨大，其可能带来的后果也多种多样。这种潜力最终如何发挥，部分取决于我们围绕它建立的制度。”“Anthropic创建了一种独特的治理结构，力求确保人工智能为人类带来的长期益处远远大于其风险。我很荣幸能有机会参与其中，我将尽我所能为这项至关重要的使命做出贡献。”Anthropic 2023年设立了一个全新的、独立的治理结构LTBT，该机构由五位互不相关的外部成员组成，有权选举和罢免 Anthropic 董事会的部分成员，旨在确保公司始终履行服务公共利益的使命。——财联社、彭博社",
+      "datetime": "2026-07-10T00:02:10+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2422240?sv=8.5.9"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/former-fed-chairman-ben-bernanke-joins-anthropic-oversight-trust"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30692",
+      "scraped_at": "2026-07-10T08:02:34.541180",
+      "title": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
+      "title_options": {
+        "conclusion": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
+        "attractive": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
+        "minimal": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30691",
+      "channel": "xhqcankao",
+      "text": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动的ChatGPT Work，这是最新的前沿模型系列，全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。ChatGPT Work是一款可跨各类应用与文件执行操作的智能体，必要时能持续跟进项目数小时，可直接将目标转化为已完成的工作成果。它可跨各类应用和工作流收集信息，生成表格、幻灯片、文档、网页应用等成品内容，还能通过拆解为小步骤独立执行，数小时持续跟进复杂项目。ChatGPT Work由今日同步推送的前沿旗舰模型GPT-5.6提供能力加持。GPT-5.6让ChatGPT在多步骤任务推理、生成贴合用户模板与参考文件的内容上达到顶尖水准。",
+      "clean_text": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动的ChatGPT Work，这是最新的前沿模型系列，全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。ChatGPT Work是一款可跨各类应用与文件执行操作的智能体，必要时能持续跟进项目数小时，可直接将目标转化为已完成的工作成果。它可跨各类应用和工作流收集信息，生成表格、幻灯片、文档、网页应用等成品内容，还能通过拆解为小步骤独立执行，数小时持续跟进复杂项目。ChatGPT Work由今日同步推送的前沿旗舰模型GPT-5.6提供能力加持。GPT-5.6让ChatGPT在多步骤任务推理、生成贴合用户模板与参考文件的内容上达到顶尖水准。——财联社、彭博社",
+      "datetime": "2026-07-09T23:32:30+00:00",
+      "views": "784",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2422216?&amp;sv=8.5.9&amp;"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/openai-unveils-chatgpt-work-agent-to-field-tasks-for-hours"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30691",
+      "scraped_at": "2026-07-10T08:02:34.540841",
+      "title": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
+      "title_options": {
+        "conclusion": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
+        "attractive": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
+        "minimal": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30690",
       "channel": "xhqcankao",
       "text": "星巴克借助AI减少对微软、IBM软件的依赖据内部演示文稿，星巴克正加速推进内部软件自研，希望借助AI提升开发效率，并逐步替代部分长期采购的商业软件。目标包括微软的库存追踪系统、IBM的设备维护管理工具，以及已推进多年的甲骨文 Simphony 销售终端（POS）系统。如果相关项目按计划推进，部分替代软件最快将于明年底完成测试并投入使用。这意味着，AI带来的变化正从提升开发效率，进一步演变为大型企业重新评估软件采购模式，也令传统企业软件厂商面临新的竞争压力。星巴克首席技术官今年早些时候表示，公司每年软件支出约四亿美元，\"这里存在明显的优化空间\"。",
@@ -1335,6 +1389,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-10T08:00:41.476744"
+  "count": 54,
+  "updated_at": "2026-07-10T08:05:44.833342"
 }
