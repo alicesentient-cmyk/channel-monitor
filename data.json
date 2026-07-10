@@ -1459,29 +1459,6 @@
       }
     },
     {
-      "id": "xhqcankao_30682",
-      "channel": "xhqcankao",
-      "text": "SpaceX正在按计划进行创纪录的星链部署SpaceX公司目前领先于去年创纪录的星链卫星部署速度。根据乔纳森·麦克道尔的卫星跟踪器编制的发射数据，SpaceX在2026年上半年向近地轨道发射了1589颗星链卫星，而2025年同期部署了1489颗卫星。2025年对SpaceX来说已经是创纪录的一年，该公司总共部署了3180颗星链卫星。自该星座启动以来，SpaceX公司已发射超过12,400颗星链卫星，其中近11000颗仍在运行。为了直观地比较这些数字，亚马逊新兴的Leo服务在过去15个月内仅部署了约400颗卫星，而亚马逊计划中的总星座规模为3,232颗卫星。",
-      "clean_text": "SpaceX正在按计划进行创纪录的星链部署SpaceX公司目前领先于去年创纪录的星链卫星部署速度。根据乔纳森·麦克道尔的卫星跟踪器编制的发射数据，SpaceX在2026年上半年向近地轨道发射了1589颗星链卫星，而2025年同期部署了1489颗卫星。2025年对SpaceX来说已经是创纪录的一年，该公司总共部署了3180颗星链卫星。自该星座启动以来，SpaceX公司已发射超过12,400颗星链卫星，其中近11000颗仍在运行。为了直观地比较这些数字，亚马逊新兴的Leo服务在过去15个月内仅部署了约400颗卫星，而亚马逊计划中的总星座规模为3,232颗卫星。——Theverge",
-      "datetime": "2026-07-09T12:19:01+00:00",
-      "views": "1.42K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30682",
-      "scraped_at": "2026-07-09T21:02:15.338306",
-      "title": "SpaceX正在按计划进行创纪录",
-      "title_options": {
-        "conclusion": "SpaceX正在按计划进行创纪录",
-        "attractive": "SpaceX正在按计划进行创纪录",
-        "minimal": "SpaceX正在按计划进行创纪录",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1601,6 +1578,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-11T00:14:11.724579"
+  "count": 59,
+  "updated_at": "2026-07-11T00:19:16.954296"
 }
