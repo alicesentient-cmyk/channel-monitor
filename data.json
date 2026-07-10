@@ -1428,41 +1428,6 @@
       }
     },
     {
-      "id": "zaihuapd_42442",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 推出 Drop：浏览器拖拽文件夹即可部署网站，无需注册Cloudflare 发布了一款名为 Drop 的新工具，用户只需将文件夹拖入浏览器，即可在 Cloudflare 上即时部署网站，毫秒级响应全球用户。该服务无需创建账户，部署后有效期为 60 分钟，超时自动失效，除非用户主动认领该部署。目前可通过cloudflare.com/drop体验。Brayden(@BraydenWilmoth)·茶馆水群·",
-      "clean_text": "Cloudflare 推出 Drop：浏览器拖拽文件夹即可部署网站，无需注册Cloudflare 发布了一款名为 Drop 的新工具，用户只需将文件夹拖入浏览器，即可在 Cloudflare 上即时部署网站，毫秒级响应全球用户。该服务无需创建账户，部署后有效期为 60 分钟，超时自动失效，除非用户主动认领该部署。目前可通过cloudflare.com/drop体验。Brayden(@BraydenWilmoth)·茶馆水群",
-      "datetime": "2026-07-09T00:58:15+00:00",
-      "views": "48.2K",
-      "source_links": [
-        {
-          "text": "cloudflare.com/drop",
-          "url": "http://cloudflare.com/drop"
-        },
-        {
-          "text": "Brayden(@BraydenWilmoth)",
-          "url": "https://x.com/BraydenWilmoth/status/2074894829616509358"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42442",
-      "scraped_at": "2026-07-09T09:11:34.089902",
-      "title": "Cloudflare 推出 Drop：浏览器拖拽文件夹即可部署网站，无需注册Cloudflare 发布了一款名为 Drop ",
-      "title_options": {
-        "conclusion": "Cloudflare 推出 Drop：浏览器拖拽文件夹即可部署网站，无需注册Cloudflare 发布了一款名为 Drop ",
-        "attractive": "Cloudflare 推出 Drop：浏览器拖拽文件夹即可部署网站，无需注册Cloudflare 发布了一款名为 Drop ",
-        "minimal": "Cloudflare 推出 Drop：浏览器拖拽文件夹即可部署网站，无需注册Cloudflare 发布了一款名为 Drop ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1551,6 +1516,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-10T12:54:07.231117"
+  "count": 59,
+  "updated_at": "2026-07-10T12:59:11.147388"
 }
