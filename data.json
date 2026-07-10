@@ -1322,29 +1322,6 @@
       }
     },
     {
-      "id": "xhqcankao_30687",
-      "channel": "xhqcankao",
-      "text": "扎克伯格承诺为Meta的首款付费使用AI提供“激进”定价在拥挤的AI工具市场中，马克·扎克伯格希望以价格取胜。Meta Platforms Inc. 发布了其最先进人工智能模型Muse Spark 1.1的一个版本，该版本包含面向开发者的全新付费层级，标志着Meta首次向企业收取访问其模型的费用，并提供了新的收入来源。扎克伯格在发布前的一次采访中表示，该模型将成为市场上最实惠的选择之一。Meta还将推出一个新的Meta Model API系统，该系统将用于向开发者收取费用。其API定价约为OpenAI和Anthropic PBC其他顶级模型所公开成本的25%。开发者可以免费使用Meta模型，但仅限一定额度；在达到某个 token 阈值后将需要付费才能继续访问，扎克伯格说。",
-      "clean_text": "扎克伯格承诺为Meta的首款付费使用AI提供“激进”定价在拥挤的AI工具市场中，马克·扎克伯格希望以价格取胜。Meta Platforms Inc. 发布了其最先进人工智能模型Muse Spark 1.1的一个版本，该版本包含面向开发者的全新付费层级，标志着Meta首次向企业收取访问其模型的费用，并提供了新的收入来源。扎克伯格在发布前的一次采访中表示，该模型将成为市场上最实惠的选择之一。Meta还将推出一个新的Meta Model API系统，该系统将用于向开发者收取费用。其API定价约为OpenAI和Anthropic PBC其他顶级模型所公开成本的25%。开发者可以免费使用Meta模型，但仅限一定额度；在达到某个 token 阈值后将需要付费才能继续访问，扎克伯格说。——彭博社",
-      "datetime": "2026-07-09T14:34:01+00:00",
-      "views": "1.27K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30687",
-      "scraped_at": "2026-07-09T23:01:17.973108",
-      "title": "扎克伯格承诺为Meta",
-      "title_options": {
-        "conclusion": "扎克伯格承诺为Meta",
-        "attractive": "扎克伯格承诺为Meta",
-        "minimal": "扎克伯格承诺为Meta",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1464,6 +1441,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-11T02:31:14.209959"
+  "count": 53,
+  "updated_at": "2026-07-11T02:36:17.988138"
 }
