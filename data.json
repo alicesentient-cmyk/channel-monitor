@@ -1486,29 +1486,6 @@
       }
     },
     {
-      "id": "xhqcankao_30665",
-      "channel": "xhqcankao",
-      "text": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现的代码表明，苹果公司正准备为 Lucid 和小米车辆添加车钥匙支持，并且该功能可能即将推出。该代码引用了标识符“LCID”和“XIA1”，它们似乎分别对应 Lucid 和小米。使用苹果车钥匙，驾驶员可以使用其iPhone或苹果手表来锁定、解锁和启动兼容车辆，而无需依赖传统的遥控钥匙。Lucid Motors已经被列为苹果在WWDC 2025上表示“即将”获得车钥匙支持的13个品牌之一。小米的加入将是新的消息。这家中国电子制造商已凭借SU7轿车和YU7 SUV等车型迅速扩展到EV领域，而车钥匙支持将标志着其与苹果生态系统的首次联结之一。",
-      "clean_text": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现的代码表明，苹果公司正准备为 Lucid 和小米车辆添加车钥匙支持，并且该功能可能即将推出。该代码引用了标识符“LCID”和“XIA1”，它们似乎分别对应 Lucid 和小米。使用苹果车钥匙，驾驶员可以使用其iPhone或苹果手表来锁定、解锁和启动兼容车辆，而无需依赖传统的遥控钥匙。Lucid Motors已经被列为苹果在WWDC 2025上表示“即将”获得车钥匙支持的13个品牌之一。小米的加入将是新的消息。这家中国电子制造商已凭借SU7轿车和YU7 SUV等车型迅速扩展到EV领域，而车钥匙支持将标志着其与苹果生态系统的首次联结之一。——Macrumors",
-      "datetime": "2026-07-09T01:30:21+00:00",
-      "views": "1.42K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/08/ios-27-car-key-support-for-lucid-and-xiaomi/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30665",
-      "scraped_at": "2026-07-09T10:02:49.896570",
-      "title": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
-      "title_options": {
-        "conclusion": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
-        "attractive": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
-        "minimal": "苹果正准备为小米汽车添加车钥匙支持在iOS 27 beta 3中发现",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1628,6 +1605,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-10T13:29:33.669440"
+  "count": 62,
+  "updated_at": "2026-07-10T13:34:37.083121"
 }
