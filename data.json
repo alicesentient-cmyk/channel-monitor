@@ -1381,29 +1381,6 @@
       }
     },
     {
-      "id": "xhqcankao_30685",
-      "channel": "xhqcankao",
-      "text": "浏览数据表明领英和X充斥着AI垃圾帖子根据一家检测AI写作的公司的数据，用户在热门社交媒体网站上遇到的大量内容很可能是由AI生成的，这一数字令人震惊。用户在领英上看到的长篇文字内容中多达41%很可能是完全由AI生成的，而 X 上约三分之一的长帖是由AI生成的；根据数据，Reddit和 Substack 上大约十分之一的长帖是AI生成的。这些数据是通过Pangram的Chrome浏览器扩展程序收集的。该扩展程序扫描用户在浏览时遇到的文字，并判断任何特定帖子很可能是AI生成的还是很可能由人写的。由于Pangram在用户浏览互联网时在后台被动运行，它只扫描其用户实际看到的帖子。",
-      "clean_text": "浏览数据表明领英和X充斥着AI垃圾帖子根据一家检测AI写作的公司的数据，用户在热门社交媒体网站上遇到的大量内容很可能是由AI生成的，这一数字令人震惊。用户在领英上看到的长篇文字内容中多达41%很可能是完全由AI生成的，而 X 上约三分之一的长帖是由AI生成的；根据数据，Reddit和 Substack 上大约十分之一的长帖是AI生成的。这些数据是通过Pangram的Chrome浏览器扩展程序收集的。该扩展程序扫描用户在浏览时遇到的文字，并判断任何特定帖子很可能是AI生成的还是很可能由人写的。由于Pangram在用户浏览互联网时在后台被动运行，它只扫描其用户实际看到的帖子。——404media",
-      "datetime": "2026-07-09T13:41:48+00:00",
-      "views": "951",
-      "source_links": [
-        {
-          "text": "404media",
-          "url": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30685",
-      "scraped_at": "2026-07-09T22:02:04.597030",
-      "title": "浏览数据表明领英和X充斥着AI垃圾帖子根据一家检测AI写作",
-      "title_options": {
-        "conclusion": "浏览数据表明领英和X充斥着AI垃圾帖子根据一家检测AI写作",
-        "attractive": "浏览数据表明领英和X充斥着AI垃圾帖子根据一家检测AI写作",
-        "minimal": "浏览数据表明领英和X充斥着AI垃圾帖子根据一家检测AI写作",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1523,6 +1500,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-11T01:40:31.381115"
+  "count": 55,
+  "updated_at": "2026-07-11T01:45:34.375573"
 }
