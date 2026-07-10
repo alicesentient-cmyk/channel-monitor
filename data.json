@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42480",
+      "channel": "zaihuapd",
+      "text": "FCC 批准巨型镜子卫星，可在夜间向地球反射阳光美国联邦通信委员会（FCC）近日批准了初创公司 Reflect Orbital 的演示卫星 Eärendil-1，允许其在轨操作无线电设备。该卫星将在约 625 公里高的近极轨道展开一面 18×18 米的铝化聚酯薄膜反射镜，向地面投射宽约 5 公里的移动光束，测试从轨道精准反射阳光的技术。公司的最终目标是向太阳能农场出售\"按需阳光\"，让电站在日落后继续发电，此外还提及应急响应、建筑、军事等潜在用途。但天文学家警告，若未来数万面反射镜到位，将成为轨道上最亮的人造物体，严重干扰望远镜观测；夜间野生动物、人类睡眠、航空安全及轨道碎片等问题也引发担忧。FCC 强调此次批准仅针对单颗演示卫星，公司仍须完成建造、发射和在轨操控，SpaceX 猎鹰 9 号火箭将承担前两颗卫星的发射任务。TechSpot·茶馆水群·",
+      "clean_text": "FCC 批准巨型镜子卫星，可在夜间向地球反射阳光美国联邦通信委员会（FCC）近日批准了初创公司 Reflect Orbital 的演示卫星 Eärendil-1，允许其在轨操作无线电设备。该卫星将在约 625 公里高的近极轨道展开一面 18×18 米的铝化聚酯薄膜反射镜，向地面投射宽约 5 公里的移动光束，测试从轨道精准反射阳光的技术。公司的最终目标是向太阳能农场出售\"按需阳光\"，让电站在日落后继续发电，此外还提及应急响应、建筑、军事等潜在用途。但天文学家警告，若未来数万面反射镜到位，将成为轨道上最亮的人造物体，严重干扰望远镜观测；夜间野生动物、人类睡眠、航空安全及轨道碎片等问题也引发担忧。FCC 强调此次批准仅针对单颗演示卫星，公司仍须完成建造、发射和在轨操控，SpaceX 猎鹰 9 号火箭将承担前两颗卫星的发射任务。TechSpot·茶馆水群",
+      "datetime": "2026-07-10T16:47:51+00:00",
+      "views": "47.4K",
+      "source_links": [
+        {
+          "text": "TechSpot",
+          "url": "https://www.techspot.com/news/113068-fcc-approves-giant-mirror-satellite-designed-beam-sunlight.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42480",
+      "scraped_at": "2026-07-11T01:01:32.494480",
+      "title": "FCC 批准巨型镜子卫星，可在夜间向地球反射阳光美国联邦通信委员会（FCC）近日批准了初创公司 Reflect Orbital ",
+      "title_options": {
+        "conclusion": "FCC 批准巨型镜子卫星，可在夜间向地球反射阳光美国联邦通信委员会（FCC）近日批准了初创公司 Reflect Orbital ",
+        "attractive": "FCC 批准巨型镜子卫星，可在夜间向地球反射阳光美国联邦通信委员会（FCC）近日批准了初创公司 Reflect Orbital ",
+        "minimal": "FCC 批准巨型镜子卫星，可在夜间向地球反射阳光美国联邦通信委员会（FCC）近日批准了初创公司 Reflect Orbital ",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42479",
       "channel": "zaihuapd",
       "text": "SK 海力士 ADR 纳斯达克首日涨 14%，募资 265 亿美元创外国公司纪录7 月 10 日，SK 海力士以美国存托凭证（ADR）形式在纳斯达克首次交易，每股定价 149 美元，共出售 1.779 亿份 ADR，募资约 265 亿美元。这是外国公司在美国规模最大的一次上市，超过阿里巴巴 2014 年 250 亿美元的纪录，全球范围内仅次于 SpaceX 的 857 亿美元。此次发行超额认购超过 7 倍，受 AI 热潮下高带宽内存（HBM）芯片强劲需求推动。SK 海力士是全球最大 HBM 制造商，其产品广泛用于英伟达和 AMD 的 AI 图形处理器。上市首日，ADR 以约 170 美元开盘，较发行价上涨约 14%，盘中涨幅一度超过 15%。Al Jazeera|Reuters|StockAnalysis·茶馆水群·",
@@ -1418,29 +1449,6 @@
       }
     },
     {
-      "id": "xhqcankao_30683",
-      "channel": "xhqcankao",
-      "text": "DuckDuckGo浏览器现可屏蔽YouTube广告DuckDuckGo的免费网页浏览器现在可以屏蔽YouTube上的大多数视频广告，并且该功能对运行最新版本应用的iPhone和Mac用户默认开启。周三宣布的YouTube广告拦截功能，可以阻止YouTube网站上视频播放前和播放期间的广告，其结果是获得无干扰的常规YouTube体验，因此观看历史和在播放列表中保存进度等功能仍可继续使用。该公司表示，该功能使用了来自uBlock Origin的社区维护的过滤列表，以及其自身的规则来帮助最大程度地减少故障。该公司警告说，视频缓冲时间可能比平时稍长，但一旦片段加载完成，播放应该能不间断地运行。",
-      "clean_text": "DuckDuckGo浏览器现可屏蔽YouTube广告DuckDuckGo的免费网页浏览器现在可以屏蔽YouTube上的大多数视频广告，并且该功能对运行最新版本应用的iPhone和Mac用户默认开启。周三宣布的YouTube广告拦截功能，可以阻止YouTube网站上视频播放前和播放期间的广告，其结果是获得无干扰的常规YouTube体验，因此观看历史和在播放列表中保存进度等功能仍可继续使用。该公司表示，该功能使用了来自uBlock Origin的社区维护的过滤列表，以及其自身的规则来帮助最大程度地减少故障。该公司警告说，视频缓冲时间可能比平时稍长，但一旦片段加载完成，播放应该能不间断地运行。——Macrumors",
-      "datetime": "2026-07-09T13:04:29+00:00",
-      "views": "2.17K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/09/duckduckgo-browser-blocks-youtube-ads/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30683",
-      "scraped_at": "2026-07-09T22:02:04.596292",
-      "title": "DuckDuckGo浏览器现可屏蔽YouTube广告DuckDuckGo",
-      "title_options": {
-        "conclusion": "DuckDuckGo浏览器现可屏蔽YouTube广告DuckDuckGo",
-        "attractive": "DuckDuckGo浏览器现可屏蔽YouTube广告DuckDuckGo",
-        "minimal": "DuckDuckGo浏览器现可屏蔽YouTube广告DuckDuckGo",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1561,5 +1569,5 @@
     }
   ],
   "count": 58,
-  "updated_at": "2026-07-11T00:59:54.221756"
+  "updated_at": "2026-07-11T01:05:00.959596"
 }
