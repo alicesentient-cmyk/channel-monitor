@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42482",
+      "channel": "zaihuapd",
+      "text": "OpenAI 将 Atlas 和 Codex 整合进新版 ChatGPT 桌面应用  OpenAI 发布新版 ChatGPT 桌面应用，将 Codex、ChatGPT Work 智能体和浏览器能力整合到同一应用中。随着相关功能完成整合，独立桌面浏览器 ChatGPT Atlas 将停止提供，目标停用日期为 8 月 9 日。  OpenAI 此前已推出独立 Codex 应用，并在 4 月加入应用内浏览器功能。新版桌面应用进一步统一了这些能力；Chrome 用户也可通过插件使用 ChatGPT 和 Codex，无需更换浏览器。…",
+      "clean_text": "🤖OpenAI 将 Atlas 和 Codex 整合进新版 ChatGPT 桌面应用  OpenAI 发布新版 ChatGPT 桌面应用，将 Codex、ChatGPT Work 智能体和浏览器能力整合到同一应用中。随着相关功能完成整合，独立桌面浏览器 ChatGPT Atlas 将停止提供，目标停用日期为 8 月 9 日。  OpenAI 此前已推出独立 Codex 应用，并在 4 月加入应用内浏览器功能。新版桌面应用进一步统一了这些能力；Chrome 用户也可通过插件使用 ChatGPT 和 Codex，无需更换浏览器。…",
+      "datetime": "2026-07-10T19:51:19+00:00",
+      "views": "45.9K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42482",
+      "scraped_at": "2026-07-11T04:01:00.981034",
+      "title": "OpenAI 将 Atlas 和 Co…",
+      "title_options": {
+        "conclusion": "OpenAI 将 Atlas 和 Co…",
+        "attractive": "OpenAI 将 Atlas 和 Co…",
+        "minimal": "OpenAI 将 Atlas 和 Co…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42481",
       "channel": "zaihuapd",
       "text": "Netflix 在美英以外测试免费试用  Netflix 停用经典 30 天免费试用约 6 年后，正在部分市场测试重新推出免费试用，范围不包括美国和英国。试用只面向从未注册过 Netflix 的用户，时长会因地区不同而变化；巴西页面已出现 14 天选项，也有人看到 7 天或 30 天。  这类促销用于让潜在会员体验 Netflix 的服务价值。免费试用结束后，用户可转入付费套餐；Netflix 会根据测试数据决定是否扩大推出。  What's on Netflix | TechRadar…",
@@ -1364,6 +1382,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-11T03:57:27.623794"
+  "count": 51,
+  "updated_at": "2026-07-11T04:02:30.916163"
 }
