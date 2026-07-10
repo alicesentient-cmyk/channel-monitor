@@ -1245,60 +1245,6 @@
       }
     },
     {
-      "id": "xhqcankao_30689",
-      "channel": "xhqcankao",
-      "text": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新的人工智能模型GPT-5.6 Sol，在智能体编程任务上token 效率提高了 54%，并且该模型 “与市场上的竞品模型一样好或更好”。OpenAI 周四正在推出其最新系列模型，GPT-5.6 Sol、Terra 和Luna，这些模型于上个月发布。应美国政府的要求，该公司将初始发布限制在一小群受信任的合作伙伴。奥尔特曼表示，OpenAI 公司在审批过程中与特朗普政府官员进行了合作。他将 OpenAI 公司与政府的合作描述为 “协作式的来回沟通”，即政府会进行测试并提出问题，供该公司解决。",
-      "clean_text": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新的人工智能模型GPT-5.6 Sol，在智能体编程任务上token 效率提高了 54%，并且该模型 “与市场上的竞品模型一样好或更好”。OpenAI 周四正在推出其最新系列模型，GPT-5.6 Sol、Terra 和Luna，这些模型于上个月发布。应美国政府的要求，该公司将初始发布限制在一小群受信任的合作伙伴。奥尔特曼表示，OpenAI 公司在审批过程中与特朗普政府官员进行了合作。他将 OpenAI 公司与政府的合作描述为 “协作式的来回沟通”，即政府会进行测试并提出问题，供该公司解决。——CNBC",
-      "datetime": "2026-07-09T15:31:56+00:00",
-      "views": "1.43K",
-      "source_links": [
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30689",
-      "scraped_at": "2026-07-10T00:07:51.563682",
-      "title": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
-      "title_options": {
-        "conclusion": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
-        "attractive": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
-        "minimal": "OpenAI 新AI模型在智能体编程上 token 效率提高了54%人工智能公司 OpenAI 首席执行官山姆·奥尔特曼周四表示，该公司最新",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42462",
-      "channel": "zaihuapd",
-      "text": "Claude 推出 Reflect 功能，可回顾过去一年的使用情况Anthropic 推出 Reflect 测试版，可在 Claude 网页版和桌面端的设置中生成使用报告，回顾过去 1、3、6 或 12 个月的聊天活动。报告会总结常用主题、使用时段和任务类型，并提供暂停提醒、免打扰时段等设置。该功能目前面向已开启 Memory 的 Free、Pro 和 Max 用户，隐身聊天、连接工具中的原始文件及健康工具相关对话不会纳入分析。Anthropic·茶馆水群·",
-      "clean_text": "Claude 推出 Reflect 功能，可回顾过去一年的使用情况Anthropic 推出 Reflect 测试版，可在 Claude 网页版和桌面端的设置中生成使用报告，回顾过去 1、3、6 或 12 个月的聊天活动。报告会总结常用主题、使用时段和任务类型，并提供暂停提醒、免打扰时段等设置。该功能目前面向已开启 Memory 的 Free、Pro 和 Max 用户，隐身聊天、连接工具中的原始文件及健康工具相关对话不会纳入分析。Anthropic·茶馆水群",
-      "datetime": "2026-07-09T15:27:52+00:00",
-      "views": "50.6K",
-      "source_links": [
-        {
-          "text": "Anthropic",
-          "url": "https://www.anthropic.com/news/reflect-with-claude"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42462",
-      "scraped_at": "2026-07-10T00:07:48.316481",
-      "title": "Claude 推出 Reflect 功能，可回顾过去一年",
-      "title_options": {
-        "conclusion": "Claude 推出 Reflect 功能，可回顾过去一年",
-        "attractive": "Claude 推出 Reflect 功能，可回顾过去一年",
-        "minimal": "Claude 推出 Reflect 功能，可回顾过去一年",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1418,6 +1364,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-11T03:27:06.499856"
+  "count": 50,
+  "updated_at": "2026-07-11T03:32:09.858395"
 }
