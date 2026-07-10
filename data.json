@@ -1,6 +1,64 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42475",
+      "channel": "zaihuapd",
+      "text": "Netflix 在美英以外测试免费试用Netflix 停用经典 30 天免费试用约 6 年后，正在部分市场测试重新推出免费试用，范围不包括美国和英国。试用只面向从未注册过 Netflix 的用户，时长会因地区不同而变化；巴西页面已出现 14 天选项，也有人看到 7 天或 30 天。这类促销用于让潜在会员体验 Netflix 的服务价值。免费试用结束后，用户可转入付费套餐；Netflix 会根据测试数据决定是否扩大推出。What's on Netflix|TechRadar·茶馆水群·",
+      "clean_text": "Netflix 在美英以外测试免费试用Netflix 停用经典 30 天免费试用约 6 年后，正在部分市场测试重新推出免费试用，范围不包括美国和英国。试用只面向从未注册过 Netflix 的用户，时长会因地区不同而变化；巴西页面已出现 14 天选项，也有人看到 7 天或 30 天。这类促销用于让潜在会员体验 Netflix 的服务价值。免费试用结束后，用户可转入付费套餐；Netflix 会根据测试数据决定是否扩大推出。What's on Netflix|TechRadar·茶馆水群",
+      "datetime": "2026-07-10T12:25:44+00:00",
+      "views": "50.6K",
+      "source_links": [
+        {
+          "text": "What's on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/netflix-free-trials-comeback-test/"
+        },
+        {
+          "text": "TechRadar",
+          "url": "https://www.techradar.com/streaming/netflix/netflix-free-trials-might-be-making-a-comeback-but-not-for-users-in-the-two-of-the-best-streaming-services-biggest-markets"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42475",
+      "scraped_at": "2026-07-10T21:02:05.582198",
+      "title": "Netflix 在美英以外测试免费试用…",
+      "title_options": {
+        "conclusion": "Netflix 在美英以外测试免费试用…",
+        "attractive": "Netflix 在美英以外测试免费试用…",
+        "minimal": "Netflix 在美英以外测试免费试用…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30715",
+      "channel": "xhqcankao",
+      "text": "小米分批持续裁员 涉手机、汽车等多部门近日，多名小米集团员工透露，公司三月以来，分批启动裁员，涉及手机、汽车、互联网、国际部等多个业务部门，覆盖研发、测试、产品、市场等岗位，裁员比例不一。裁员目前仍在继续。小米回应称，存在正常业务团队调整，但没有所谓的规模裁员。一名小米北京员工表示，从今年四月开始，部门领导开始和员工商议裁员事宜，被裁的员工集中于六月离职，赔偿方案皆为N+1。与此同时，另一家互联网大厂，美团从今年五月初开始，公司内部包括核心业务在内的不同业务线多个部门开始裁员，裁员补偿为 N+1。对此，美团称近两个月实际离职员工不到2000人，占整体员工比例不高。",
+      "clean_text": "小米分批持续裁员 涉手机、汽车等多部门近日，多名小米集团员工透露，公司三月以来，分批启动裁员，涉及手机、汽车、互联网、国际部等多个业务部门，覆盖研发、测试、产品、市场等岗位，裁员比例不一。裁员目前仍在继续。小米回应称，存在正常业务团队调整，但没有所谓的规模裁员。一名小米北京员工表示，从今年四月开始，部门领导开始和员工商议裁员事宜，被裁的员工集中于六月离职，赔偿方案皆为N+1。与此同时，另一家互联网大厂，美团从今年五月初开始，公司内部包括核心业务在内的不同业务线多个部门开始裁员，裁员补偿为 N+1。对此，美团称近两个月实际离职员工不到2000人，占整体员工比例不高。——财新",
+      "datetime": "2026-07-10T12:13:30+00:00",
+      "views": "1.92K",
+      "source_links": [
+        {
+          "text": "财新",
+          "url": "https://companies.caixin.com/m/2026-07-10/102462648.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30715",
+      "scraped_at": "2026-07-10T21:02:12.475817",
+      "title": "小米分批持续裁员 涉手机、汽车等多部门…",
+      "title_options": {
+        "conclusion": "小米分批持续裁员 涉手机、汽车等多部门…",
+        "attractive": "小米分批持续裁员 涉手机、汽车等多部门…",
+        "minimal": "小米分批持续裁员 涉手机、汽车等多部门…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30714",
       "channel": "xhqcankao",
       "text": "流媒体Netflix时隔六年再次推出免费试用Netflix最近已开始向多个地区的用户提供免费试用。免费试用的时长因用户而异，范围从7天到30天不等。但一些用户建议，如果在无痕窗口中打开Netflix，或者在尝试之前清除浏览器的 cookies ，或者干脆使用一个新的浏览器，应该就能获得最长的30天试用期。此外，Netflix还允许一些用户选择最高的高级套餐，该套餐支持 4K HDR 播放。该流媒体最近更新的支持页面称，其“正在向某些国家的符合条件的新会员提供有限的免费试用”。然而，免费试用似乎只在美国和英国以外的地方可用。尽管如此，许多人似乎已经通过启用VPN轻松地激活了这些优惠，因此即使你位于限制地区，也仍然值得一试。",
@@ -1473,6 +1531,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-10T21:00:40.965834"
+  "count": 58,
+  "updated_at": "2026-07-10T21:05:48.773704"
 }
