@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30696",
+      "channel": "xhqcankao",
+      "text": "OpenAI宣布停止运营ChatGPT Atlas浏览器就在几个月前，ChatGPT Atlas还是市面上热门的AI新网络浏览器。仅仅九个月后，已经是时候开始说再见了。OpenAI已决定关闭该项目。随着今天GPT 5.6的发布，OpenAI浏览器团队也分享了一些更新。这些更新中的第一条透露，全新的ChatGPT桌面应用将获得一个更强大的内置浏览器，支持多标签页、密码管理器、自动填充等功能。其次工作模式现在将能够访问云端的浏览器。公告最后部分确认了ChatGPT Atlas的命运。这家公司的产品经理在一条社交媒体帖子中表示，由于这些更新，公司将逐步淘汰 Atlas 网络浏览器。团队利用从 Atlas 中学到的东西，开发了今天推出的桌面应用功能。",
+      "clean_text": "OpenAI宣布停止运营ChatGPT Atlas浏览器就在几个月前，ChatGPT Atlas还是市面上热门的AI新网络浏览器。仅仅九个月后，已经是时候开始说再见了。OpenAI已决定关闭该项目。随着今天GPT 5.6的发布，OpenAI浏览器团队也分享了一些更新。这些更新中的第一条透露，全新的ChatGPT桌面应用将获得一个更强大的内置浏览器，支持多标签页、密码管理器、自动填充等功能。其次工作模式现在将能够访问云端的浏览器。公告最后部分确认了ChatGPT Atlas的命运。这家公司的产品经理在一条社交媒体帖子中表示，由于这些更新，公司将逐步淘汰 Atlas 网络浏览器。团队利用从 Atlas 中学到的东西，开发了今天推出的桌面应用功能。——Androidauthority",
+      "datetime": "2026-07-10T02:00:41+00:00",
+      "views": "147",
+      "source_links": [
+        {
+          "text": "Androidauthority",
+          "url": "https://www.androidauthority.com/openai-sunsetting-chatgpt-atlas-3686001/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30696",
+      "scraped_at": "2026-07-10T10:02:15.700409",
+      "title": "OpenAI宣布停止运营ChatGPT Atlas浏览器就在几个月前，ChatGPT Atlas还是市面上热门",
+      "title_options": {
+        "conclusion": "OpenAI宣布停止运营ChatGPT Atlas浏览器就在几个月前，ChatGPT Atlas还是市面上热门",
+        "attractive": "OpenAI宣布停止运营ChatGPT Atlas浏览器就在几个月前，ChatGPT Atlas还是市面上热门",
+        "minimal": "OpenAI宣布停止运营ChatGPT Atlas浏览器就在几个月前，ChatGPT Atlas还是市面上热门",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30695",
+      "channel": "xhqcankao",
+      "text": "美初创公司将270亿参数模型压进iPhone美国初创公司PrismML表示，已经成功压缩阿里巴巴开源大语言模型Qwen 3.6的270亿参数量版本，使其能够在 iPhone 17 Pro上运行。公司透露，他们为iPhone开发的“压缩模型”能够完成复杂对话、推理、完全自主的智能任务以及软件编程等功能。该开源模型将于下周二开始提供下载。据悉，PrismML已经将千问3.6大模型的体积从54GB压缩至不到4GB。通常情况下，模型体积缩小会导致性能下降，但该公司声称其用于压缩模型大小的技术并不会影响性能。这种“在本地设备上跑AI”的逻辑，正是苹果公司近年来的核心AI战略。知情人士透露，苹果公司已经与PrismML就如何运用其技术进行了沟通。",
+      "clean_text": "美初创公司将270亿参数模型压进iPhone美国初创公司PrismML表示，已经成功压缩阿里巴巴开源大语言模型Qwen 3.6的270亿参数量版本，使其能够在 iPhone 17 Pro上运行。公司透露，他们为iPhone开发的“压缩模型”能够完成复杂对话、推理、完全自主的智能任务以及软件编程等功能。该开源模型将于下周二开始提供下载。据悉，PrismML已经将千问3.6大模型的体积从54GB压缩至不到4GB。通常情况下，模型体积缩小会导致性能下降，但该公司声称其用于压缩模型大小的技术并不会影响性能。这种“在本地设备上跑AI”的逻辑，正是苹果公司近年来的核心AI战略。知情人士透露，苹果公司已经与PrismML就如何运用其技术进行了沟通。——财联社",
+      "datetime": "2026-07-10T01:34:57+00:00",
+      "views": "1.21K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2422239?sv=8.7.6&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30695",
+      "scraped_at": "2026-07-10T10:02:15.700050",
+      "title": "美初创公司将270亿参数模型压进iPhone美国初创公司PrismML表示，已经成功压缩阿里巴巴开源大语言模型Qwen 3.6",
+      "title_options": {
+        "conclusion": "美初创公司将270亿参数模型压进iPhone美国初创公司PrismML表示，已经成功压缩阿里巴巴开源大语言模型Qwen 3.6",
+        "attractive": "美初创公司将270亿参数模型压进iPhone美国初创公司PrismML表示，已经成功压缩阿里巴巴开源大语言模型Qwen 3.6",
+        "minimal": "美初创公司将270亿参数模型压进iPhone美国初创公司PrismML表示，已经成功压缩阿里巴巴开源大语言模型Qwen 3.6",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42465",
+      "channel": "zaihuapd",
+      "text": "OpenAI 将 Atlas 和 Codex 整合进新版 ChatGPT 桌面应用OpenAI 发布新版 ChatGPT 桌面应用，将 Codex、ChatGPT Work 智能体和浏览器能力整合到同一应用中。随着相关功能完成整合，独立桌面浏览器 ChatGPT Atlas 将停止提供，目标停用日期为 8 月 9 日。OpenAI 此前已推出独立 Codex 应用，并在 4 月加入应用内浏览器功能。新版桌面应用进一步统一了这些能力；Chrome 用户也可通过插件使用 ChatGPT 和 Codex，无需更换浏览器。9to5Mac·茶馆水群·",
+      "clean_text": "🤖OpenAI 将 Atlas 和 Codex 整合进新版 ChatGPT 桌面应用OpenAI 发布新版 ChatGPT 桌面应用，将 Codex、ChatGPT Work 智能体和浏览器能力整合到同一应用中。随着相关功能完成整合，独立桌面浏览器 ChatGPT Atlas 将停止提供，目标停用日期为 8 月 9 日。OpenAI 此前已推出独立 Codex 应用，并在 4 月加入应用内浏览器功能。新版桌面应用进一步统一了这些能力；Chrome 用户也可通过插件使用 ChatGPT 和 Codex，无需更换浏览器。9to5Mac·茶馆水群",
+      "datetime": "2026-07-10T01:19:02+00:00",
+      "views": "50.8K",
+      "source_links": [
+        {
+          "text": "9to5Mac",
+          "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42465",
+      "scraped_at": "2026-07-10T10:02:14.030282",
+      "title": "OpenAI 将 Atlas 和 Co…",
+      "title_options": {
+        "conclusion": "OpenAI 将 Atlas 和 Co…",
+        "attractive": "OpenAI 将 Atlas 和 Co…",
+        "minimal": "OpenAI 将 Atlas 和 Co…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30694",
       "channel": "xhqcankao",
       "text": "新泽西州可能禁止特斯拉无人驾驶出租车新泽西州一项预计今年晚些时候进行投票的法案，将要求寻求在该州运营完全自动驾驶车辆的公司使用摄像头加上另外两种传感技术，最常见的是激光雷达和雷达。该措施将有效阻止特斯拉仅使用摄像头的Robotaxi系统在该州运营，除非该公司更改其硬件。该提案将设立一个为期三年的试点项目，管理美国新泽西州完全自动驾驶车辆的测试和部署。公司必须使用多种传感技术，报告某些碰撞事故，并在运营完全无人驾驶商业服务之前获得州政府授权。这些公司还必须在移除人类安全驾驶员之前，在新泽西州完成至少五万英里监督测试，且无重大事故。",
@@ -1439,6 +1516,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-10T10:02:01.815217"
+  "count": 59,
+  "updated_at": "2026-07-10T10:07:06.055230"
 }
