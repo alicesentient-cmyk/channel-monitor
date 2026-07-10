@@ -1404,33 +1404,6 @@
       }
     },
     {
-      "id": "xhqcankao_30684",
-      "channel": "xhqcankao",
-      "text": "Meta公司自研AI芯片将于今年九月投产Meta内部备忘录显示，该公司计划于今年九月开始量产一款人工智能芯片。根据规划，该公司将在2027年将整体算力提升至14吉瓦，约为今年部署规模的两倍。这款数据中心AI芯片代号为\"Iris\"，Meta希望通过这款自主设计的专用AI芯片，提升支撑脸书和IG等社交平台的计算效率。备忘录显示，Iris芯片的测试仅用了六周时间，且未发现重大问题。这一相对快速的进展表明，这项自启动以来已逾五年却进展不顺的内部研发工作正取得积极突破。Iris是一款针对Meta自身业务需求量身打造的AI芯片。Meta正与博通合作完成芯片设计，并交由台积电负责制造。",
-      "clean_text": "Meta公司自研AI芯片将于今年九月投产Meta内部备忘录显示，该公司计划于今年九月开始量产一款人工智能芯片。根据规划，该公司将在2027年将整体算力提升至14吉瓦，约为今年部署规模的两倍。这款数据中心AI芯片代号为\"Iris\"，Meta希望通过这款自主设计的专用AI芯片，提升支撑脸书和IG等社交平台的计算效率。备忘录显示，Iris芯片的测试仅用了六周时间，且未发现重大问题。这一相对快速的进展表明，这项自启动以来已逾五年却进展不顺的内部研发工作正取得积极突破。Iris是一款针对Meta自身业务需求量身打造的AI芯片。Meta正与博通合作完成芯片设计，并交由台积电负责制造。——财联社、路透社",
-      "datetime": "2026-07-09T13:26:47+00:00",
-      "views": "1.53K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2422007?sv=8.5.9"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30684",
-      "scraped_at": "2026-07-09T22:02:04.596685",
-      "title": "Meta公司自研AI芯片将于今年九月投…",
-      "title_options": {
-        "conclusion": "Meta公司自研AI芯片将于今年九月投…",
-        "attractive": "Meta公司自研AI芯片将于今年九月投…",
-        "minimal": "Meta公司自研AI芯片将于今年九月投…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1550,6 +1523,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-11T01:25:18.465552"
+  "count": 56,
+  "updated_at": "2026-07-11T01:30:22.520604"
 }
