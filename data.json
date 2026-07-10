@@ -1477,24 +1477,6 @@
       }
     },
     {
-      "id": "zaihuapd_42445",
-      "channel": "zaihuapd",
-      "text": "曝苹果曾测试黑色 Vision Pro 配件配色  一名原型机收藏者在 X 上曝光疑似苹果内部版 Vision Pro 配件照片，包括电源带、连接头和音频模块，整体为黑色，而这并非现售配色。此前其也曾展示过深石墨或深蓝版本的电池连接头。  报道提到，苹果在新品开发阶段常会尝试多种配色，这些黑色部件可能属于测试机，也不排除未来机型采用更丰富配色。有传闻称更轻的 Vision Air 或将于 2027 年推出，并有望使用类似 iPhone 5 时代的深色外观。  AppleInsider茶馆…",
-      "clean_text": "📱曝苹果曾测试黑色 Vision Pro 配件配色  一名原型机收藏者在 X 上曝光疑似苹果内部版 Vision Pro 配件照片，包括电源带、连接头和音频模块，整体为黑色，而这并非现售配色。此前其也曾展示过深石墨或深蓝版本的电池连接头。  报道提到，苹果在新品开发阶段常会尝试多种配色，这些黑色部件可能属于测试机，也不排除未来机型采用更丰富配色。有传闻称更轻的 Vision Air 或将于 2027 年推出，并有望使用类似 iPhone 5 时代的深色外观。  AppleInsider🍀在花频道🍵茶馆…",
-      "datetime": "2026-07-09T03:16:44+00:00",
-      "views": "51.5K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42445",
-      "scraped_at": "2026-07-09T12:02:23.193633",
-      "title": "曝苹果曾测试黑色 Vision Pro…",
-      "title_options": {
-        "conclusion": "曝苹果曾测试黑色 Vision Pro…",
-        "attractive": "曝苹果曾测试黑色 Vision Pro…",
-        "minimal": "曝苹果曾测试黑色 Vision Pro…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1614,6 +1596,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-10T15:15:55.274291"
+  "count": 61,
+  "updated_at": "2026-07-10T15:20:59.994728"
 }
