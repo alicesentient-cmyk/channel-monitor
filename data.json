@@ -1494,33 +1494,6 @@
       }
     },
     {
-      "id": "xhqcankao_30661",
-      "channel": "xhqcankao",
-      "text": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发的全新人工智能模型，旨在提升其在金融、法律和编程等专业领域的能力。这款名为Grok 4.5的软件，是两家公司共同训练的首个AI模型，旨在帮助马斯克旗下公司在与Anthropic、OpenAI等竞争对手的AI竞赛中缩小差距。根据两家公司周三发布的博客文章，Grok 4.5专为处理 “复杂且持续时间较长的任务” 而设计，包括软件工程工作。但与Cursor此前推出的模型相比，Grok 4.5的应用范围进一步扩展，可胜任法律服务、金融服务等更多专业场景。此外，该模型还增强了网络安全能力。",
-      "clean_text": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发的全新人工智能模型，旨在提升其在金融、法律和编程等专业领域的能力。这款名为Grok 4.5的软件，是两家公司共同训练的首个AI模型，旨在帮助马斯克旗下公司在与Anthropic、OpenAI等竞争对手的AI竞赛中缩小差距。根据两家公司周三发布的博客文章，Grok 4.5专为处理 “复杂且持续时间较长的任务” 而设计，包括软件工程工作。但与Cursor此前推出的模型相比，Grok 4.5的应用范围进一步扩展，可胜任法律服务、金融服务等更多专业场景。此外，该模型还增强了网络安全能力。——财联社、Techcrunch",
-      "datetime": "2026-07-08T23:30:08+00:00",
-      "views": "919",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2420986?sv=8.5.9&amp;"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30661",
-      "scraped_at": "2026-07-09T08:03:43.730192",
-      "title": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
-      "title_options": {
-        "conclusion": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
-        "attractive": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
-        "minimal": "Grok 4.5推出 发力法律、金融及编程任务SpaceXAI公司发布了一款与人工智能编程初创公司Cursor联合开发",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1609,6 +1582,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-10T11:28:05.041104"
+  "count": 61,
+  "updated_at": "2026-07-10T11:33:08.081116"
 }
