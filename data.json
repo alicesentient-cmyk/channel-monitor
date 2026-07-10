@@ -1381,37 +1381,6 @@
       }
     },
     {
-      "id": "zaihuapd_42455",
-      "channel": "zaihuapd",
-      "text": "2026 年第二季度全球 PC 出货量同比下降 3.6%，苹果逆势大增 15.9%2026 年二季度，全球台式机、笔记本和工作站出货量同比下降 3.6%，至 6570 万台。其中台式机（含工作站）出货 1390 万台，降 1.3%；笔记本（含移动工作站）出货 5170 万台，降 4.2%。内存和存储价格上涨推高 PC 售价，同类产品价格较去年同期高约 20% 至 40%，部分客户推迟硬件更新。联想以 1660 万台、25% 份额居首，HP、Dell、Apple 和 Asus 分列其后。Omdia·茶馆水群·",
-      "clean_text": "2026 年第二季度全球 PC 出货量同比下降 3.6%，苹果逆势大增 15.9%2026 年二季度，全球台式机、笔记本和工作站出货量同比下降 3.6%，至 6570 万台。其中台式机（含工作站）出货 1390 万台，降 1.3%；笔记本（含移动工作站）出货 5170 万台，降 4.2%。内存和存储价格上涨推高 PC 售价，同类产品价格较去年同期高约 20% 至 40%，部分客户推迟硬件更新。联想以 1660 万台、25% 份额居首，HP、Dell、Apple 和 Asus 分列其后。Omdia·茶馆水群",
-      "datetime": "2026-07-09T09:08:56+00:00",
-      "views": "51.6K",
-      "source_links": [
-        {
-          "text": "Omdia",
-          "url": "https://omdia.tech.informa.com/pr/2026/july/worldwide-pc-market-declined-4percent-in-2q26-amid-mounting-supply-pressure"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42455",
-      "scraped_at": "2026-07-09T18:02:19.807495",
-      "title": "2026 年第二季度全球 PC 出货量…",
-      "title_options": {
-        "conclusion": "2026 年第二季度全球 PC 出货量…",
-        "attractive": "2026 年第二季度全球 PC 出货量…",
-        "minimal": "2026 年第二季度全球 PC 出货量…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1531,6 +1500,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-10T21:05:48.773704"
+  "count": 57,
+  "updated_at": "2026-07-10T21:10:27.694773"
 }
