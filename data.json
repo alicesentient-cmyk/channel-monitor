@@ -1447,45 +1447,6 @@
       }
     },
     {
-      "id": "zaihuapd_42443",
-      "channel": "zaihuapd",
-      "text": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月的\"夏季更新\"中正式推出 Lineage Flash Tools，用户可直接在浏览器中完成刷机，无需本地安装 adb 和 fastboot。该工具支持 Fastboot、ADB 及三星 Odin 协议，需使用 Chrome 或 Edge 等支持 WebUSB 的浏览器，且必须配合设备专属 Wiki 安装指南，并不能完全替代传统刷机流程。此外，Updater 应用换上 Material 3 Expressive 新界面，安装前会显示 Android 安全公告级别，A/B OTA 包默认采用流式安装以节省空间并加速更新。团队确认基于 Android 17 的 LineageOS 24 已进入开发阶段，同时新增了对三星、摩托罗拉、索尼、小米等多品牌设备的支持。Android Authority|LineageOS Wiki|LineageOS Downloads·茶馆水群·",
-      "clean_text": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月的\"夏季更新\"中正式推出 Lineage Flash Tools，用户可直接在浏览器中完成刷机，无需本地安装 adb 和 fastboot。该工具支持 Fastboot、ADB 及三星 Odin 协议，需使用 Chrome 或 Edge 等支持 WebUSB 的浏览器，且必须配合设备专属 Wiki 安装指南，并不能完全替代传统刷机流程。此外，Updater 应用换上 Material 3 Expressive 新界面，安装前会显示 Android 安全公告级别，A/B OTA 包默认采用流式安装以节省空间并加速更新。团队确认基于 Android 17 的 LineageOS 24 已进入开发阶段，同时新增了对三星、摩托罗拉、索尼、小米等多品牌设备的支持。Android Authority|LineageOS Wiki|LineageOS Downloads·茶馆水群",
-      "datetime": "2026-07-09T01:46:44+00:00",
-      "views": "48.2K",
-      "source_links": [
-        {
-          "text": "Android Authority",
-          "url": "https://www.androidauthority.com/lineageos-summertime-update-2026-3685112/"
-        },
-        {
-          "text": "LineageOS Wiki",
-          "url": "https://wiki.lineageos.org/web_flash_tools"
-        },
-        {
-          "text": "LineageOS Downloads",
-          "url": "https://download.lineageos.org/flash"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42443",
-      "scraped_at": "2026-07-09T10:02:48.201222",
-      "title": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
-      "title_options": {
-        "conclusion": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
-        "attractive": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
-        "minimal": "LineageOS 推出网页刷机工具，浏览器即可刷机LineageOS 在 2026 年 7 月",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1605,6 +1566,6 @@
       }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-10T13:44:43.381359"
+  "count": 61,
+  "updated_at": "2026-07-10T13:49:46.650456"
 }
