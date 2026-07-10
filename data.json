@@ -1,6 +1,29 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30699",
+      "channel": "xhqcankao",
+      "text": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新的“Reflect”功能。Reflect可以让你回顾自己是如何使用Claude的，以及使用了多长时间。Reflect包含Claude使用摘要，涵盖关键主题、使用模式以及你通过Claude处理的任务类型。你可以回顾过去1、3、6或12个月的Claude活动，并且Anthropic还计划将来增加一个查看你使用Claude所花费时间的视图。Reflect不会从无痕聊天中提取信息，也不会使用已连接工具的底层文件。与健康整合工具相关的对话也会被排除在洞察之外，并且Reflect选项中显示的信息不会用于其他目的。Reflect以测试版形式提供给已开启记忆功能的Free、Pro和Max用户。",
+      "clean_text": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新的“Reflect”功能。Reflect可以让你回顾自己是如何使用Claude的，以及使用了多长时间。Reflect包含Claude使用摘要，涵盖关键主题、使用模式以及你通过Claude处理的任务类型。你可以回顾过去1、3、6或12个月的Claude活动，并且Anthropic还计划将来增加一个查看你使用Claude所花费时间的视图。Reflect不会从无痕聊天中提取信息，也不会使用已连接工具的底层文件。与健康整合工具相关的对话也会被排除在洞察之外，并且Reflect选项中显示的信息不会用于其他目的。Reflect以测试版形式提供给已开启记忆功能的Free、Pro和Max用户。——Macrumors",
+      "datetime": "2026-07-10T03:31:40+00:00",
+      "views": "1.26K",
+      "source_links": [
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/07/09/anthropic-reflect-claude-tracking/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30699",
+      "scraped_at": "2026-07-10T12:01:00.012829",
+      "title": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
+      "title_options": {
+        "conclusion": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
+        "attractive": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
+        "minimal": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30698",
       "channel": "xhqcankao",
       "text": "马斯克称不会因竞争拔Anthropic服务器此前，SpaceX已与Anthropic达成合作，向后者出租算力。那么，Anthropic是否应该信任马斯克，让其托管公司的模型呢？有 X 用户发帖表示，SpaceX旗下AI部门SpaceXAI现在已经拥有了一款真正具备前沿水平的模型，可以与Opus 4.8竞争。此外 Anthropic 完全依赖从SpaceXAI租用的算力。如果马斯克想要搞垮Anthropic，他是可以做到的，暗示马斯克可以直接将Anthropic的业务从服务器移除。马斯克对此回应称，搞垮Anthropic这种把戏“不是我的风格”。“即使他们是竞争对手，我也绝不会以一种会严重伤害他们的方式切断他们的服务，”他表示。",
@@ -1471,29 +1494,6 @@
       }
     },
     {
-      "id": "xhqcankao_30662",
-      "channel": "xhqcankao",
-      "text": "苹果公司折叠机预计不会出现量产延期日前，有市场消息称，苹果公司首款折叠机产品或因产品组装复杂、良率较低等原因延期发售。记者就此采访多位果链企业人士获悉，苹果公司折叠机产品方案早已确定，目前相关企业已进入生产旺季，产品正常量产中。多位受访人士表示，9月交付应该“没问题”，对于产品发售延期传闻，则表示“没听说”。同时，市场期待已久的液态金属铰链或也将缺席首代苹果折叠机。多位受访业内人士称，首代苹果折叠机并未采用液态金属铰链方案。某果链人士表示，这款产品备货“一千万台差不多”。预计今年苹果折叠屏iPhone的实际出货量约为600万至700万部。",
-      "clean_text": "苹果公司折叠机预计不会出现量产延期日前，有市场消息称，苹果公司首款折叠机产品或因产品组装复杂、良率较低等原因延期发售。记者就此采访多位果链企业人士获悉，苹果公司折叠机产品方案早已确定，目前相关企业已进入生产旺季，产品正常量产中。多位受访人士表示，9月交付应该“没问题”，对于产品发售延期传闻，则表示“没听说”。同时，市场期待已久的液态金属铰链或也将缺席首代苹果折叠机。多位受访业内人士称，首代苹果折叠机并未采用液态金属铰链方案。某果链人士表示，这款产品备货“一千万台差不多”。预计今年苹果折叠屏iPhone的实际出货量约为600万至700万部。——财联社",
-      "datetime": "2026-07-09T00:01:31+00:00",
-      "views": "55",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2420933?sv=8.8.0&amp;"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30662",
-      "scraped_at": "2026-07-09T08:03:43.730513",
-      "title": "苹果公司折叠机预计不会出现量产延期日前…",
-      "title_options": {
-        "conclusion": "苹果公司折叠机预计不会出现量产延期日前…",
-        "attractive": "苹果公司折叠机预计不会出现量产延期日前…",
-        "minimal": "苹果公司折叠机预计不会出现量产延期日前…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1583,5 +1583,5 @@
     }
   ],
   "count": 61,
-  "updated_at": "2026-07-10T11:58:27.647199"
+  "updated_at": "2026-07-10T12:03:30.964829"
 }
