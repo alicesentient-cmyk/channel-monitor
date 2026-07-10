@@ -1323,29 +1323,6 @@
       }
     },
     {
-      "id": "xhqcankao_30677",
-      "channel": "xhqcankao",
-      "text": "Mistral AI发布仅8B参数的具身导航模型法国Mistral AI发布Robostral Navigate，一个仅8B参数的具身导航模型。该模型使用单一RGB摄像头输入，即可引导机器人在自然语言指令下自主执行任务，在 R2R-CE 基准测试中达到业界领先水平。Mistral透露模型完全在仿真环境中训练，约40万个轨迹覆盖6000个场景，通过前缀缓存优化将训练时间从数月压缩到数天。Robostral的跨平台适应性是其核心竞争力，它能在轮式、腿式和飞行机器人上运行，适配物流、制造和酒店等多种场景。这得益于公司选择“小模型+导航”的垂直切入点，回避了与人形机器人巨头的正面竞争。Robostral Navigate如果证明小参数模型在具体任务中可以达到大模型的效果，将对“越大越好”的主流叙事形成挑战。—— 雷锋网、Mistral AI",
-      "clean_text": "Mistral AI发布仅8B参数的具身导航模型法国Mistral AI发布Robostral Navigate，一个仅8B参数的具身导航模型。该模型使用单一RGB摄像头输入，即可引导机器人在自然语言指令下自主执行任务，在 R2R-CE 基准测试中达到业界领先水平。Mistral透露模型完全在仿真环境中训练，约40万个轨迹覆盖6000个场景，通过前缀缓存优化将训练时间从数月压缩到数天。Robostral的跨平台适应性是其核心竞争力，它能在轮式、腿式和飞行机器人上运行，适配物流、制造和酒店等多种场景。这得益于公司选择“小模型+导航”的垂直切入点，回避了与人形机器人巨头的正面竞争。Robostral Navigate如果证明小参数模型在具体任务中可以达到大模型的效果，将对“越大越好”的主流叙事形成挑战。—— 雷锋网、Mistral AI",
-      "datetime": "2026-07-09T07:38:46+00:00",
-      "views": "1.15K",
-      "source_links": [
-        {
-          "text": "Mistral AI",
-          "url": "https://mistral.ai/news/robostral-navigate/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30677",
-      "scraped_at": "2026-07-09T16:02:19.362519",
-      "title": "Mistral AI发布仅8B参数",
-      "title_options": {
-        "conclusion": "Mistral AI发布仅8B参数",
-        "attractive": "Mistral AI发布仅8B参数",
-        "minimal": "Mistral AI发布仅8B参数",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1465,6 +1442,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-10T19:34:25.932556"
+  "count": 55,
+  "updated_at": "2026-07-10T19:39:28.974525"
 }
