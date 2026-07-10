@@ -1521,33 +1521,6 @@
       }
     },
     {
-      "id": "xhqcankao_30660",
-      "channel": "xhqcankao",
-      "text": "OpenAI公司宣布推出GPT-Live语音模型人工智能初创公司OpenAI今天推出新语音模型系列GPT-Live，可同时聆听与说话，而且会发出 “嗯嗯”或“对啊” 等语句，像真人对话那样附和与停顿。该公司表示，今天将向全球用户推出两个版本的GPT-Live，其中包括GPT-Live-1与GPT-Live-1 mini。OpenAI今年五月曾在开发者平台推出三款语音模型，旨在让基于语音的智能体更具对话能力，并在即时情境下完成任务。根据OpenAI公司官网介绍，GPT-Live模型采用全双工架构，意味着它能够在同一时间聆听与说话。在对话过程中，GPT-Live可以通过“嗯嗯”或“对啊”等语句表现出它正在专注聆听，也能快速来回互动，或在使用者需要思考时间时保持沉默。",
-      "clean_text": "OpenAI公司宣布推出GPT-Live语音模型人工智能初创公司OpenAI今天推出新语音模型系列GPT-Live，可同时聆听与说话，而且会发出 “嗯嗯”或“对啊” 等语句，像真人对话那样附和与停顿。该公司表示，今天将向全球用户推出两个版本的GPT-Live，其中包括GPT-Live-1与GPT-Live-1 mini。OpenAI今年五月曾在开发者平台推出三款语音模型，旨在让基于语音的智能体更具对话能力，并在即时情境下完成任务。根据OpenAI公司官网介绍，GPT-Live模型采用全双工架构，意味着它能够在同一时间聆听与说话。在对话过程中，GPT-Live可以通过“嗯嗯”或“对啊”等语句表现出它正在专注聆听，也能快速来回互动，或在使用者需要思考时间时保持沉默。——中央社、Techcrunch",
-      "datetime": "2026-07-08T23:04:19+00:00",
-      "views": "1.19K",
-      "source_links": [
-        {
-          "text": "中央社",
-          "url": "https://www.cna.com.tw/news/ait/202607090010.aspx"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30660",
-      "scraped_at": "2026-07-09T08:03:43.729843",
-      "title": "OpenAI公司宣布推出GPT-Liv…",
-      "title_options": {
-        "conclusion": "OpenAI公司宣布推出GPT-Liv…",
-        "attractive": "OpenAI公司宣布推出GPT-Liv…",
-        "minimal": "OpenAI公司宣布推出GPT-Liv…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1636,6 +1609,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-10T11:02:45.894612"
+  "count": 62,
+  "updated_at": "2026-07-10T11:07:50.628377"
 }
