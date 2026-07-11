@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42502",
+      "channel": "zaihuapd",
+      "text": "苹果起诉OpenAI，指控其系统性窃取商业机密推进硬件业务  苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果的产品设计、制造工艺及供应链机密，加快消费级硬件研发。  苹果称，前员工 Chang Liu 离职后仍访问内部网络并下载数十份硬件文件；OpenAI 硬件负责人 Tang Yew Tan 则被指在离职前将供应商等资料发送至个人邮箱，并要求求职者携带苹果零部件参加面试。苹果还表示，目前有超过…",
+      "clean_text": "🍏苹果起诉🤖OpenAI，指控其系统性窃取商业机密推进硬件业务  苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果的产品设计、制造工艺及供应链机密，加快消费级硬件研发。  苹果称，前员工 Chang Liu 离职后仍访问内部网络并下载数十份硬件文件；OpenAI 硬件负责人 Tang Yew Tan 则被指在离职前将供应商等资料发送至个人邮箱，并要求求职者携带苹果零部件参加面试。苹果还表示，目前有超过…",
+      "datetime": "2026-07-11T16:29:46+00:00",
+      "views": "49.5K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42502",
+      "scraped_at": "2026-07-12T01:01:25.063565",
+      "title": "苹果起诉OpenAI，指控其系统性窃取商业机密推进硬件业务  苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+      "title_options": {
+        "conclusion": "苹果起诉OpenAI，指控其系统性窃取商业机密推进硬件业务  苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+        "attractive": "苹果起诉OpenAI，指控其系统性窃取商业机密推进硬件业务  苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+        "minimal": "苹果起诉OpenAI，指控其系统性窃取商业机密推进硬件业务  苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42501",
       "channel": "zaihuapd",
       "text": "上海市希望2027年前实现高质量脑控，半侵入式脑机接口产品在国内率先实现临床应用，侵入式脑机接口研发取得突破  上海市科学技术委员会印发《上海市脑机接口未来产业培育行动方案（2025-2030 年）》，2027 年前，实现高质量脑控，半侵入式脑机接口产品在国内率先实现临床应用，侵入式脑机接口研发取得突破，脑机接口创新生态初步构建。  推动 5 款以上侵入式、半侵入式脑机接口产品完成医疗器械型式检验，完成临床试验，面向失语、瘫痪等患者，实现部分语言和运动功能恢复。  证券时报投稿频道聊天",
@@ -1095,45 +1113,6 @@
       }
     },
     {
-      "id": "zaihuapd_42447",
-      "channel": "zaihuapd",
-      "text": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构的具身智能视频生成基础模型 LingBot-Video。该模型总参数 30B，生成时仅激活约 3B，推理效率约为同等规模 Dense 架构的 3 倍。在面向机器人操作视频的评测基准 RBench 上，LingBot-Video 总分 0.620，超越 Wan2.6、Seedance1.5 Pro 和 Cosmos3 Super 等模型。LingBot-Video 从架构、数据和训练三方面进行了创新：采用 DiT+MoE 设计平衡容量与成本；构建包含 7 万小时具身数据的画像引擎，覆盖灵巧操作、机器人移动和第一视角交互等场景；引入多维强化学习奖励系统，除美学和运动一致性外，重点关注物理合理性和任务完成度。模型可用于机器人动作预测、仿真数据生成和世界模型研究等方向，目前已以 Apache 2.0 许可证在 GitHub 开源。量子位|蚂蚁灵波官网|GitHub·茶馆水群·",
-      "clean_text": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构的具身智能视频生成基础模型 LingBot-Video。该模型总参数 30B，生成时仅激活约 3B，推理效率约为同等规模 Dense 架构的 3 倍。在面向机器人操作视频的评测基准 RBench 上，LingBot-Video 总分 0.620，超越 Wan2.6、Seedance1.5 Pro 和 Cosmos3 Super 等模型。LingBot-Video 从架构、数据和训练三方面进行了创新：采用 DiT+MoE 设计平衡容量与成本；构建包含 7 万小时具身数据的画像引擎，覆盖灵巧操作、机器人移动和第一视角交互等场景；引入多维强化学习奖励系统，除美学和运动一致性外，重点关注物理合理性和任务完成度。模型可用于机器人动作预测、仿真数据生成和世界模型研究等方向，目前已以 Apache 2.0 许可证在 GitHub 开源。量子位|蚂蚁灵波官网|GitHub·茶馆水群",
-      "datetime": null,
-      "views": "50K",
-      "source_links": [
-        {
-          "text": "量子位",
-          "url": "https://www.qbitai.com/2026/07/446458.html"
-        },
-        {
-          "text": "蚂蚁灵波官网",
-          "url": "https://technology.robbyant.com/lingbot-video"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/robbyant/lingbot-video"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42447",
-      "scraped_at": "2026-07-09T13:01:51.446265",
-      "title": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
-      "title_options": {
-        "conclusion": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
-        "attractive": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
-        "minimal": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -1197,5 +1176,5 @@
     }
   ],
   "count": 45,
-  "updated_at": "2026-07-12T00:58:17.211171"
+  "updated_at": "2026-07-12T01:03:20.877017"
 }
