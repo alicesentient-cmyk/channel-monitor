@@ -1397,37 +1397,6 @@
       }
     },
     {
-      "id": "zaihuapd_42468",
-      "channel": "zaihuapd",
-      "text": "Anthropic 网页抓取与导流比例约 2800 ： 1Cloudflare 数据显示，7 月 1 日至 7 日，Anthropic 的机器人每抓取约 2800 个网页，才向内容网站带回一次访问，抓取与导流比例在主要 AI 公司中最高。该比例较 4 月初约 8800 比 1 有所下降，但在 5 月首周一度达到 24700 比 1。这一指标用于比较 AI 机器人抓取网页的频率与其产品向原网站导流的次数。Anthropic 此前质疑 Cloudflare 的统计方法，称无法验证相关计算，并表示新搜索功能正在增加网站访问量。Business Insider·茶馆水群·",
-      "clean_text": "Anthropic 网页抓取与导流比例约 2800 ： 1Cloudflare 数据显示，7 月 1 日至 7 日，Anthropic 的机器人每抓取约 2800 个网页，才向内容网站带回一次访问，抓取与导流比例在主要 AI 公司中最高。该比例较 4 月初约 8800 比 1 有所下降，但在 5 月首周一度达到 24700 比 1。这一指标用于比较 AI 机器人抓取网页的频率与其产品向原网站导流的次数。Anthropic 此前质疑 Cloudflare 的统计方法，称无法验证相关计算，并表示新搜索功能正在增加网站访问量。Business Insider·茶馆水群",
-      "datetime": "2026-07-10T04:25:11+00:00",
-      "views": "49.3K",
-      "source_links": [
-        {
-          "text": "Business Insider",
-          "url": "https://www.businessinsider.com/anthropic-web-bots-crawling-referrals-cloudflare-distillation-2026-7"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42468",
-      "scraped_at": "2026-07-10T13:01:21.257347",
-      "title": "Anthropic 网页抓取与导流比例约 2800 ： 1Cloudflare 数据显示，7 月 1 日至 7 日，Anthropic ",
-      "title_options": {
-        "conclusion": "Anthropic 网页抓取与导流比例约 2800 ： 1Cloudflare 数据显示，7 月 1 日至 7 日，Anthropic ",
-        "attractive": "Anthropic 网页抓取与导流比例约 2800 ： 1Cloudflare 数据显示，7 月 1 日至 7 日，Anthropic ",
-        "minimal": "Anthropic 网页抓取与导流比例约 2800 ： 1Cloudflare 数据显示，7 月 1 日至 7 日，Anthropic ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42440",
       "channel": "zaihuapd",
       "text": "OpenAI 发布 GPT-Live 语音模型，支持全双工实时对话OpenAI 发布新一代语音模型 GPT-Live，采用全双工架构实现边说边听的实时对话，即日起向全球 ChatGPT 用户推出。该模型可同步处理输入与输出，能在对话中自然回应、允许用户随时打断或停顿，并会在后台调用 GPT-5.5 完成搜索与深度推理等复杂任务。GPT-Live 分为 GPT-Live-1 与 GPT-Live-1 mini 两个版本，将分别成为付费与免费用户的 ChatGPT Voice 默认模型。新版本还增加了天气、股票等视觉卡片展示，并针对背景噪音与倾听体验做了优化，但目前不支持视频或屏幕共享语音。OpenAI·茶馆水群·",
@@ -1529,6 +1498,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-11T16:21:28.651520"
+  "count": 55,
+  "updated_at": "2026-07-11T16:26:32.359031"
 }
