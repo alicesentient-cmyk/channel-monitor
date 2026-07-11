@@ -1,6 +1,73 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42498",
+      "channel": "zaihuapd",
+      "text": "智谱创始人唐杰启动:“摸高计划”：不登顶就是失败智谱创始人唐杰今日发布内部信，宣布开启\"Touch High（摸高）计划\"，继续聚焦 AGI 研究而非短期商业变现。他将通往 AGI 的路径概括为四座必须翻越的高峰：长程任务、自治智能体系统、完全自我训练和极致安全治理。唐杰特别强调极致安全治理的发展，智谱计划投入百亿级资源攻坚机械可解释性，推动黑盒模型透明化。目前智谱 GLM-5.2 模型被认为接近海外最前沿模型能力。由于其开源特性，在技术社群中也受到欢迎。晚点 LatePost·茶馆水群·",
+      "clean_text": "智谱创始人唐杰启动:“摸高计划”：不登顶就是失败智谱创始人唐杰今日发布内部信，宣布开启\"Touch High（摸高）计划\"，继续聚焦 AGI 研究而非短期商业变现。他将通往 AGI 的路径概括为四座必须翻越的高峰：长程任务、自治智能体系统、完全自我训练和极致安全治理。唐杰特别强调极致安全治理的发展，智谱计划投入百亿级资源攻坚机械可解释性，推动黑盒模型透明化。目前智谱 GLM-5.2 模型被认为接近海外最前沿模型能力。由于其开源特性，在技术社群中也受到欢迎。晚点 LatePost·茶馆水群",
+      "datetime": "2026-07-11T13:59:46+00:00",
+      "views": "10.3K",
+      "source_links": [
+        {
+          "text": "晚点 LatePost",
+          "url": "https://mp.weixin.qq.com/s/3CQSkf_kBnXiCDgS4L-Cgg"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42498",
+      "scraped_at": "2026-07-11T22:02:01.854263",
+      "title": "智谱创始人唐杰启动:“摸高计划”：不登…",
+      "title_options": {
+        "conclusion": "智谱创始人唐杰启动:“摸高计划”：不登…",
+        "attractive": "智谱创始人唐杰启动:“摸高计划”：不登…",
+        "minimal": "智谱创始人唐杰启动:“摸高计划”：不登…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42497",
+      "channel": "zaihuapd",
+      "text": "OpenAI 正式发布 GPT‑5.6 系列：旗舰 Sol 全面提升，性能成本比大幅优化  GPT-5.6 系列：Sol 负责最强能力，Terra 平衡性能与成本，Luna 面向高并发低成本场景；GPT-5.6 届时将默认指向 Sol。重点提升代码、知识工作、设计、科研和网络安全能力，并引入 max/ultra 推理、多智能体协作和 Programmatic Tool Calling，以更少 token、更低成本完成复杂任务。  ChatGPT Work：OpenAI 推出面向复杂工作的 ChatGPT…",
+      "clean_text": "🤖OpenAI 正式发布 GPT‑5.6 系列：旗舰 Sol 全面提升，性能成本比大幅优化  GPT-5.6 系列：Sol 负责最强能力，Terra 平衡性能与成本，Luna 面向高并发低成本场景；GPT-5.6 届时将默认指向 Sol。重点提升代码、知识工作、设计、科研和网络安全能力，并引入 max/ultra 推理、多智能体协作和 Programmatic Tool Calling，以更少 token、更低成本完成复杂任务。  ChatGPT Work：OpenAI 推出面向复杂工作的 ChatGPT…",
+      "datetime": "2026-07-11T13:34:46+00:00",
+      "views": "50.2K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42497",
+      "scraped_at": "2026-07-11T22:02:01.853766",
+      "title": "OpenAI 正式发布 GPT‑5.6…",
+      "title_options": {
+        "conclusion": "OpenAI 正式发布 GPT‑5.6…",
+        "attractive": "OpenAI 正式发布 GPT‑5.6…",
+        "minimal": "OpenAI 正式发布 GPT‑5.6…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42496",
+      "channel": "zaihuapd",
+      "text": "微信 ClawBot 聊天界面适配 Markdown 语法消息渲染｜｜",
+      "clean_text": "微信 ClawBot 聊天界面适配 Markdown 语法消息渲染｜茶馆讨论｜投稿通道",
+      "datetime": "2026-07-11T13:04:46+00:00",
+      "views": "51.1K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42496",
+      "scraped_at": "2026-07-11T22:02:01.853210",
+      "title": "微信 ClawBot 聊天界面适配 M…",
+      "title_options": {
+        "conclusion": "微信 ClawBot 聊天界面适配 M…",
+        "attractive": "微信 ClawBot 聊天界面适配 M…",
+        "minimal": "微信 ClawBot 聊天界面适配 M…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30734",
       "channel": "xhqcankao",
       "text": "欧盟：减少对华依赖须投入资金支持欧洲联盟正在制定一项 “团结工具”，支持欧洲企业把关键物资供应来源从中国转向其他市场，并在发生贸易冲突、北京采取报复措施时，缓冲企业所受到的冲击。知情人士表示，这项 “团结工具” 将带来成本，需要获得资金支持。目前，欧盟成员国正就欧盟下一轮多年期预算讨价还价。目前尚不清楚需要投入多少资金，因为这将取决于中国可能采取的反制措施规模等因素。但鉴于所涉及的产业和贸易规模庞大，所需资金可能相当可观。欧盟展开相关讨论之际，多个成员国正推动削减开支。",
@@ -1118,91 +1185,6 @@
       }
     },
     {
-      "id": "zaihuapd_42473",
-      "channel": "zaihuapd",
-      "text": "OpenAI 与 Google 向被五角大楼列入黑名单的中国公司出售 AI 模型OpenAI 与 Google 一直在向阿里巴巴、百度和腾讯的新加坡子公司提供先进 AI 服务，尽管这些中国科技巨头的母公司均被五角大楼列入\"1260H 名单\"——该名单指控相关实体与中国军方存在联系。据《金融时报》报道，OpenAI 与 Google 均已确认向上述中国公司的新加坡关联企业提供过 AI 服务。由于美国现行限制措施并未广泛禁止中国总部企业在中国大陆以外获取先进 AI 模型，这些交易目前仍属合法，但已重新引发华盛顿对前沿 AI 软件实施出口管制的呼声。OpenAI 上月在发现疑似\"模型蒸馏\"行为后，暂停了阿里巴巴关联用户的 API 访问权限并上报美国政府。相比之下，Anthropic 采取了更严格的政策，全面禁止中国公司及其海外实体访问其前沿 AI 模型。Financial Times|Investing.com|Crypto Briefing·茶馆水群·",
-      "clean_text": "OpenAI 与 Google 向被五角大楼列入黑名单的中国公司出售 AI 模型OpenAI 与 Google 一直在向阿里巴巴、百度和腾讯的新加坡子公司提供先进 AI 服务，尽管这些中国科技巨头的母公司均被五角大楼列入\"1260H 名单\"——该名单指控相关实体与中国军方存在联系。据《金融时报》报道，OpenAI 与 Google 均已确认向上述中国公司的新加坡关联企业提供过 AI 服务。由于美国现行限制措施并未广泛禁止中国总部企业在中国大陆以外获取先进 AI 模型，这些交易目前仍属合法，但已重新引发华盛顿对前沿 AI 软件实施出口管制的呼声。OpenAI 上月在发现疑似\"模型蒸馏\"行为后，暂停了阿里巴巴关联用户的 API 访问权限并上报美国政府。相比之下，Anthropic 采取了更严格的政策，全面禁止中国公司及其海外实体访问其前沿 AI 模型。Financial Times|Investing.com|Crypto Briefing·茶馆水群",
-      "datetime": "2026-07-10T09:59:37+00:00",
-      "views": "9.05K",
-      "source_links": [
-        {
-          "text": "Financial Times",
-          "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f"
-        },
-        {
-          "text": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/openai-google-supplied-ai-models-to-pentagonblacklisted-chinese-firms-ft-4785324"
-        },
-        {
-          "text": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/openai-google-ai-models-singapore-chinese-firms/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42473",
-      "scraped_at": "2026-07-10T18:02:13.719608",
-      "title": "OpenAI 与 Google 向被五角大楼列入黑名单",
-      "title_options": {
-        "conclusion": "OpenAI 与 Google 向被五角大楼列入黑名单",
-        "attractive": "OpenAI 与 Google 向被五角大楼列入黑名单",
-        "minimal": "OpenAI 与 Google 向被五角大楼列入黑名单",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30712",
-      "channel": "xhqcankao",
-      "text": "大疆无人机广西洪灾现场吊运群众脱险7月10日，近日，受台风“美莎克”残余环流影响，广西南宁、横州等地遭遇极端持续性强降雨，多地村镇被洪水围困，常规冲锋舟及陆路救援通道完全阻断。7月6日，在云表镇油罐车司机及旺庄村慢性病村民等人员被困、舟艇无法抵近的紧急情况下，救援团队经现场综合研判并做好安全防护后，使用重载无人机将两名被困群众凌空吊运至安全区域。横州市是此次广西受灾最为严重的地区之一。大疆的农业无人机和运载无人机参与了救援行动。大疆方面称，截至7月8日，无人机已累计为受困人员投送各类救灾物资超过千吨，近百架无人机正在灾区执行任务。",
-      "clean_text": "大疆无人机广西洪灾现场吊运群众脱险7月10日，近日，受台风“美莎克”残余环流影响，广西南宁、横州等地遭遇极端持续性强降雨，多地村镇被洪水围困，常规冲锋舟及陆路救援通道完全阻断。7月6日，在云表镇油罐车司机及旺庄村慢性病村民等人员被困、舟艇无法抵近的紧急情况下，救援团队经现场综合研判并做好安全防护后，使用重载无人机将两名被困群众凌空吊运至安全区域。横州市是此次广西受灾最为严重的地区之一。大疆的农业无人机和运载无人机参与了救援行动。大疆方面称，截至7月8日，无人机已累计为受困人员投送各类救灾物资超过千吨，近百架无人机正在灾区执行任务。——凤凰网科技",
-      "datetime": "2026-07-10T09:53:05+00:00",
-      "views": "644",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006YAf45OF1QGxqn3IR9oGFF5l1AITZ0C7oNBdCLOScWA4y8--k1DVtBxIN4utyKgoy8"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30712",
-      "scraped_at": "2026-07-10T18:02:15.880967",
-      "title": "大疆无人机广西洪灾现场吊运群众脱险7月…",
-      "title_options": {
-        "conclusion": "大疆无人机广西洪灾现场吊运群众脱险7月…",
-        "attractive": "大疆无人机广西洪灾现场吊运群众脱险7月…",
-        "minimal": "大疆无人机广西洪灾现场吊运群众脱险7月…",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30711",
-      "channel": "xhqcankao",
-      "text": "高盛限制员工在预测市场的押注类别高盛警告员工，将其在预测市场上的押注限制在体育和娱乐类别，因为从选举到利率等各类标的押注，正给该行带来合规风险。据一名知情人士透露，这家华尔街银行已在一份内部备忘录中将该政策告知员工，并警告称，多次违规可能会让员工丢掉工作。鉴于该公司可能接触到能够影响市场的重大非公开信息，像高盛这样受到严格监管的金融机构，对于员工获准进行哪些交易有着严格的规定。过去一年里，预测平台屡次因有人利用对未来事件事先知情来牟利而受到冲击。",
-      "clean_text": "高盛限制员工在预测市场的押注类别高盛警告员工，将其在预测市场上的押注限制在体育和娱乐类别，因为从选举到利率等各类标的押注，正给该行带来合规风险。据一名知情人士透露，这家华尔街银行已在一份内部备忘录中将该政策告知员工，并警告称，多次违规可能会让员工丢掉工作。鉴于该公司可能接触到能够影响市场的重大非公开信息，像高盛这样受到严格监管的金融机构，对于员工获准进行哪些交易有着严格的规定。过去一年里，预测平台屡次因有人利用对未来事件事先知情来牟利而受到冲击。——英国金融时报",
-      "datetime": "2026-07-10T09:32:44+00:00",
-      "views": "1.44K",
-      "source_links": [
-        {
-          "text": "英国金融时报",
-          "url": "https://www.ftchinese.com/interactive/286583"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30711",
-      "scraped_at": "2026-07-10T18:02:15.880625",
-      "title": "高盛限制员工在预测市场",
-      "title_options": {
-        "conclusion": "高盛限制员工在预测市场",
-        "attractive": "高盛限制员工在预测市场",
-        "minimal": "高盛限制员工在预测市场",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42447",
       "channel": "zaihuapd",
       "text": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构的具身智能视频生成基础模型 LingBot-Video。该模型总参数 30B，生成时仅激活约 3B，推理效率约为同等规模 Dense 架构的 3 倍。在面向机器人操作视频的评测基准 RBench 上，LingBot-Video 总分 0.620，超越 Wan2.6、Seedance1.5 Pro 和 Cosmos3 Super 等模型。LingBot-Video 从架构、数据和训练三方面进行了创新：采用 DiT+MoE 设计平衡容量与成本；构建包含 7 万小时具身数据的画像引擎，覆盖灵巧操作、机器人移动和第一视角交互等场景；引入多维强化学习奖励系统，除美学和运动一致性外，重点关注物理合理性和任务完成度。模型可用于机器人动作预测、仿真数据生成和世界模型研究等方向，目前已以 Apache 2.0 许可证在 GitHub 开源。量子位|蚂蚁灵波官网|GitHub·茶馆水群·",
@@ -1274,5 +1256,5 @@
     }
   ],
   "count": 47,
-  "updated_at": "2026-07-11T21:10:26.139750"
+  "updated_at": "2026-07-11T22:15:31.591963"
 }
