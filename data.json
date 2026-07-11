@@ -935,45 +935,6 @@
       }
     },
     {
-      "id": "zaihuapd_42479",
-      "channel": "zaihuapd",
-      "text": "SK 海力士 ADR 纳斯达克首日涨 14%，募资 265 亿美元创外国公司纪录7 月 10 日，SK 海力士以美国存托凭证（ADR）形式在纳斯达克首次交易，每股定价 149 美元，共出售 1.779 亿份 ADR，募资约 265 亿美元。这是外国公司在美国规模最大的一次上市，超过阿里巴巴 2014 年 250 亿美元的纪录，全球范围内仅次于 SpaceX 的 857 亿美元。此次发行超额认购超过 7 倍，受 AI 热潮下高带宽内存（HBM）芯片强劲需求推动。SK 海力士是全球最大 HBM 制造商，其产品广泛用于英伟达和 AMD 的 AI 图形处理器。上市首日，ADR 以约 170 美元开盘，较发行价上涨约 14%，盘中涨幅一度超过 15%。Al Jazeera|Reuters|StockAnalysis·茶馆水群·",
-      "clean_text": "SK 海力士 ADR 纳斯达克首日涨 14%，募资 265 亿美元创外国公司纪录7 月 10 日，SK 海力士以美国存托凭证（ADR）形式在纳斯达克首次交易，每股定价 149 美元，共出售 1.779 亿份 ADR，募资约 265 亿美元。这是外国公司在美国规模最大的一次上市，超过阿里巴巴 2014 年 250 亿美元的纪录，全球范围内仅次于 SpaceX 的 857 亿美元。此次发行超额认购超过 7 倍，受 AI 热潮下高带宽内存（HBM）芯片强劲需求推动。SK 海力士是全球最大 HBM 制造商，其产品广泛用于英伟达和 AMD 的 AI 图形处理器。上市首日，ADR 以约 170 美元开盘，较发行价上涨约 14%，盘中涨幅一度超过 15%。Al Jazeera|Reuters|StockAnalysis·茶馆水群",
-      "datetime": "2026-07-10T16:02:02+00:00",
-      "views": "20.5K",
-      "source_links": [
-        {
-          "text": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo"
-        },
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-set-marquee-us-debut-test-ai-appetite-2026-07-10/"
-        },
-        {
-          "text": "StockAnalysis",
-          "url": "https://stockanalysis.com/stocks/skhy/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42479",
-      "scraped_at": "2026-07-11T00:06:57.770415",
-      "title": "SK 海力士 ADR 纳斯达克首日涨 …",
-      "title_options": {
-        "conclusion": "SK 海力士 ADR 纳斯达克首日涨 …",
-        "attractive": "SK 海力士 ADR 纳斯达克首日涨 …",
-        "minimal": "SK 海力士 ADR 纳斯达克首日涨 …",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -1036,6 +997,6 @@
       }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-07-12T04:00:43.819321"
+  "count": 39,
+  "updated_at": "2026-07-12T04:05:46.726754"
 }
