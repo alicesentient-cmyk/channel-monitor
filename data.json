@@ -1104,29 +1104,6 @@
       }
     },
     {
-      "id": "xhqcankao_30714",
-      "channel": "xhqcankao",
-      "text": "流媒体Netflix时隔六年再次推出免费试用Netflix最近已开始向多个地区的用户提供免费试用。免费试用的时长因用户而异，范围从7天到30天不等。但一些用户建议，如果在无痕窗口中打开Netflix，或者在尝试之前清除浏览器的 cookies ，或者干脆使用一个新的浏览器，应该就能获得最长的30天试用期。此外，Netflix还允许一些用户选择最高的高级套餐，该套餐支持 4K HDR 播放。该流媒体最近更新的支持页面称，其“正在向某些国家的符合条件的新会员提供有限的免费试用”。然而，免费试用似乎只在美国和英国以外的地方可用。尽管如此，许多人似乎已经通过启用VPN轻松地激活了这些优惠，因此即使你位于限制地区，也仍然值得一试。",
-      "clean_text": "流媒体Netflix时隔六年再次推出免费试用Netflix最近已开始向多个地区的用户提供免费试用。免费试用的时长因用户而异，范围从7天到30天不等。但一些用户建议，如果在无痕窗口中打开Netflix，或者在尝试之前清除浏览器的 cookies ，或者干脆使用一个新的浏览器，应该就能获得最长的30天试用期。此外，Netflix还允许一些用户选择最高的高级套餐，该套餐支持 4K HDR 播放。该流媒体最近更新的支持页面称，其“正在向某些国家的符合条件的新会员提供有限的免费试用”。然而，免费试用似乎只在美国和英国以外的地方可用。尽管如此，许多人似乎已经通过启用VPN轻松地激活了这些优惠，因此即使你位于限制地区，也仍然值得一试。——Androidauthority",
-      "datetime": "2026-07-10T11:54:56+00:00",
-      "views": "554",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/netflix-30-day-free-trial-return-3686178/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30714",
-      "scraped_at": "2026-07-10T20:02:23.790875",
-      "title": "流媒体Netflix时隔六年再次推出免费试用Netflix最近已开始向多个地区",
-      "title_options": {
-        "conclusion": "流媒体Netflix时隔六年再次推出免费试用Netflix最近已开始向多个地区",
-        "attractive": "流媒体Netflix时隔六年再次推出免费试用Netflix最近已开始向多个地区",
-        "minimal": "流媒体Netflix时隔六年再次推出免费试用Netflix最近已开始向多个地区",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42447",
       "channel": "zaihuapd",
       "text": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构的具身智能视频生成基础模型 LingBot-Video。该模型总参数 30B，生成时仅激活约 3B，推理效率约为同等规模 Dense 架构的 3 倍。在面向机器人操作视频的评测基准 RBench 上，LingBot-Video 总分 0.620，超越 Wan2.6、Seedance1.5 Pro 和 Cosmos3 Super 等模型。LingBot-Video 从架构、数据和训练三方面进行了创新：采用 DiT+MoE 设计平衡容量与成本；构建包含 7 万小时具身数据的画像引擎，覆盖灵巧操作、机器人移动和第一视角交互等场景；引入多维强化学习奖励系统，除美学和运动一致性外，重点关注物理合理性和任务完成度。模型可用于机器人动作预测、仿真数据生成和世界模型研究等方向，目前已以 Apache 2.0 许可证在 GitHub 开源。量子位|蚂蚁灵波官网|GitHub·茶馆水群·",
@@ -1228,6 +1205,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-07-11T23:52:20.605682"
+  "count": 45,
+  "updated_at": "2026-07-11T23:57:24.802703"
 }
