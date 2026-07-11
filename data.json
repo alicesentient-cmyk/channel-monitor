@@ -1230,37 +1230,6 @@
       }
     },
     {
-      "id": "zaihuapd_42472",
-      "channel": "zaihuapd",
-      "text": "iPhone Ultra 阔折叠电池入网：双电芯合计 4883 mAh博主数码闲聊站爆料，苹果电池供应商近日入网备案了两款新电池，容量分别为 1921 mAh 和 2962 mAh，合计最低 4883 mAh，很可能是 iPhone Ultra 阔折叠的电池。该博主此前曾透露，供应链预测容量在 4800-5000 mAh 之间，与新备案数据吻合，不过仍有待进一步确认。微博·茶馆水群·",
-      "clean_text": "🍏iPhone Ultra 阔折叠电池入网：双电芯合计 4883 mAh博主数码闲聊站爆料，苹果电池供应商近日入网备案了两款新电池，容量分别为 1921 mAh 和 2962 mAh，合计最低 4883 mAh，很可能是 iPhone Ultra 阔折叠的电池。该博主此前曾透露，供应链预测容量在 4800-5000 mAh 之间，与新备案数据吻合，不过仍有待进一步确认。微博·茶馆水群",
-      "datetime": "2026-07-10T07:47:01+00:00",
-      "views": "48.6K",
-      "source_links": [
-        {
-          "text": "微博",
-          "url": "https://weibo.com/6048569942/R82ilujPp"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42472",
-      "scraped_at": "2026-07-10T16:01:47.789107",
-      "title": "iPhone Ultra 阔折叠电池入网：双电芯合计 4883 mAh博主数码闲聊站爆料，苹果电池供应商近日入网备案了两款新电池，容量分别为 1921 mAh 和 2962 mAh，合计最低 4883 mAh，很可能是 iPhone Ultra 阔折叠",
-      "title_options": {
-        "conclusion": "iPhone Ultra 阔折叠电池入网：双电芯合计 4883 mAh博主数码闲聊站爆料，苹果电池供应商近日入网备案了两款新电池，容量分别为 1921 mAh 和 2962 mAh，合计最低 4883 mAh，很可能是 iPhone Ultra 阔折叠",
-        "attractive": "iPhone Ultra 阔折叠电池入网：双电芯合计 4883 mAh博主数码闲聊站爆料，苹果电池供应商近日入网备案了两款新电池，容量分别为 1921 mAh 和 2962 mAh，合计最低 4883 mAh，很可能是 iPhone Ultra 阔折叠",
-        "minimal": "iPhone Ultra 阔折叠电池入网：双电芯合计 4883 mAh博主数码闲聊站爆料，苹果电池供应商近日入网备案了两款新电池，容量分别为 1921 mAh 和 2962 mAh，合计最低 4883 mAh，很可能是 iPhone Ultra 阔折叠",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42440",
       "channel": "zaihuapd",
       "text": "OpenAI 发布 GPT-Live 语音模型，支持全双工实时对话OpenAI 发布新一代语音模型 GPT-Live，采用全双工架构实现边说边听的实时对话，即日起向全球 ChatGPT 用户推出。该模型可同步处理输入与输出，能在对话中自然回应、允许用户随时打断或停顿，并会在后台调用 GPT-5.5 完成搜索与深度推理等复杂任务。GPT-Live 分为 GPT-Live-1 与 GPT-Live-1 mini 两个版本，将分别成为付费与免费用户的 ChatGPT Voice 默认模型。新版本还增加了天气、股票等视觉卡片展示，并针对背景噪音与倾听体验做了优化，但目前不支持视频或屏幕共享语音。OpenAI·茶馆水群·",
@@ -1362,6 +1331,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-11T19:44:03.996369"
+  "count": 49,
+  "updated_at": "2026-07-11T19:49:10.123190"
 }
