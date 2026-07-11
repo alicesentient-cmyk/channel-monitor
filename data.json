@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30719",
+      "channel": "xhqcankao",
+      "text": "苹果起诉OpenAI窃取机密 要求其重做尚未发布的AI硬件周五，苹果公司将OpenAI告上法庭，指控AI大模型巨头大肆窃取iPhone制造商的知识产权，用来开发自己的消费级AI硬件。在提交给北加州联邦法院的诉状中，苹果表示：“从技术人员到首席硬件官，OpenAI各个层级的员工都在与商业伙伴协同，窃取苹果的商业秘密和机密信息......OpenAI刚起步的硬件业务由此建立在极不稳固的基础之上，其核心已因非法依赖被窃取的商业秘密而腐烂不堪。”苹果公司在诉讼中要求OpenAI停止此类行为并销毁所有机密资料，同时重新设计即将推出的产品，确保其中不包含任何苹果技术。OpenAI首席硬件官Tang Tan被单独列为被告。他曾担任苹果产品设计副总裁。",
+      "clean_text": "苹果起诉OpenAI窃取机密 要求其重做尚未发布的AI硬件周五，苹果公司将OpenAI告上法庭，指控AI大模型巨头大肆窃取iPhone制造商的知识产权，用来开发自己的消费级AI硬件。在提交给北加州联邦法院的诉状中，苹果表示：“从技术人员到首席硬件官，OpenAI各个层级的员工都在与商业伙伴协同，窃取苹果的商业秘密和机密信息......OpenAI刚起步的硬件业务由此建立在极不稳固的基础之上，其核心已因非法依赖被窃取的商业秘密而腐烂不堪。”苹果公司在诉讼中要求OpenAI停止此类行为并销毁所有机密资料，同时重新设计即将推出的产品，确保其中不包含任何苹果技术。OpenAI首席硬件官Tang Tan被单独列为被告。他曾担任苹果产品设计副总裁。——财联社、彭博社",
+      "datetime": "2026-07-11T00:01:02+00:00",
+      "views": "46",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2423430?sv=8.5.9"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30719",
+      "scraped_at": "2026-07-11T08:02:30.423115",
+      "title": "苹果起诉OpenAI窃取机密 要求其重做尚未发布",
+      "title_options": {
+        "conclusion": "苹果起诉OpenAI窃取机密 要求其重做尚未发布",
+        "attractive": "苹果起诉OpenAI窃取机密 要求其重做尚未发布",
+        "minimal": "苹果起诉OpenAI窃取机密 要求其重做尚未发布",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30718",
+      "channel": "xhqcankao",
+      "text": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计的伤害，欧盟正因此升级调查，该公司可能面临巨额罚款。欧盟委员会周五发布初步调查结果，认定Meta违反了欧盟具有里程碑意义的《数字服务法》。该法要求全球最大在线平台评估并降低风险。委员会写道：“证据还表明，Meta目前的缓解措施未能有效应对其成瘾性设计带来的风险。例如， Instagram 和脸书的时间管理工具，包括那些默认为青少年启用的工具，很容易被关闭，并不能真正减少和控制用户对服务的使用。”如果该调查结果得到确认，Meta旗下每个平台可能面临最高相当于其全球营收6%的罚款。",
+      "clean_text": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计的伤害，欧盟正因此升级调查，该公司可能面临巨额罚款。欧盟委员会周五发布初步调查结果，认定Meta违反了欧盟具有里程碑意义的《数字服务法》。该法要求全球最大在线平台评估并降低风险。委员会写道：“证据还表明，Meta目前的缓解措施未能有效应对其成瘾性设计带来的风险。例如， Instagram 和脸书的时间管理工具，包括那些默认为青少年启用的工具，很容易被关闭，并不能真正减少和控制用户对服务的使用。”如果该调查结果得到确认，Meta旗下每个平台可能面临最高相当于其全球营收6%的罚款。——财联社、Techcrunch",
+      "datetime": "2026-07-10T23:29:28+00:00",
+      "views": "585",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2423053?&amp;sv=8.5.9&amp;"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30718",
+      "scraped_at": "2026-07-11T08:02:30.422758",
+      "title": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
+      "title_options": {
+        "conclusion": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
+        "attractive": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
+        "minimal": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42482",
       "channel": "zaihuapd",
       "text": "OpenAI 将 Atlas 和 Codex 整合进新版 ChatGPT 桌面应用  OpenAI 发布新版 ChatGPT 桌面应用，将 Codex、ChatGPT Work 智能体和浏览器能力整合到同一应用中。随着相关功能完成整合，独立桌面浏览器 ChatGPT Atlas 将停止提供，目标停用日期为 8 月 9 日。  OpenAI 此前已推出独立 Codex 应用，并在 4 月加入应用内浏览器功能。新版桌面应用进一步统一了这些能力；Chrome 用户也可通过插件使用 ChatGPT 和 Codex，无需更换浏览器。…",
@@ -1333,6 +1387,6 @@
       }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-11T07:59:45.796666"
+  "count": 51,
+  "updated_at": "2026-07-11T08:04:49.064366"
 }
