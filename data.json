@@ -1401,41 +1401,6 @@
       }
     },
     {
-      "id": "zaihuapd_42467",
-      "channel": "zaihuapd",
-      "text": "中国法院多起判例认定游戏账号可继承，平台禁止条款无效中国法院在多起跨越数年的案件中裁定，已故玩家的游戏账号、装备道具、加密货币及社交媒体运营权等虚拟资产具有财产属性，属于可继承的合法遗产。法院认定，用户协议中的\"禁止继承\"条款因违反法定权利而无效，平台须配合继承人办理转移并允许收取合理费用；但聊天记录等纯个人隐私内容不在继承范围内，由平台归档保存。Tom's Hardware｜Reddit·茶馆水群·",
-      "clean_text": "中国法院多起判例认定游戏账号可继承，平台禁止条款无效中国法院在多起跨越数年的案件中裁定，已故玩家的游戏账号、装备道具、加密货币及社交媒体运营权等虚拟资产具有财产属性，属于可继承的合法遗产。法院认定，用户协议中的\"禁止继承\"条款因违反法定权利而无效，平台须配合继承人办理转移并允许收取合理费用；但聊天记录等纯个人隐私内容不在继承范围内，由平台归档保存。Tom's Hardware｜Reddit·茶馆水群",
-      "datetime": "2026-07-10T02:56:34+00:00",
-      "views": "23.3K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/chinese-courts-allow-heirs-to-inherent-accounts-of-deceased-gamers-multiple-cases-spanning-years-establish-precedent-for-digital-ownership-of-games-in-game-items-and-microtransactions"
-        },
-        {
-          "text": "Reddit",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1uqtl3y/chinese_gamers_have_successfully_managed_to_sue/?embed_host_url=https%3A%2F%2Fwww.tomshardware.com%2Ftech-industry%2Fbig-tech%2Fchinese-courts-allow-heirs-to-inherent-accounts-of-deceased-gamers-multiple-cases-spanning-years-establish-precedent-for-digital-ownership-of-games-in-game-items-and-microtransactions"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42467",
-      "scraped_at": "2026-07-10T11:01:56.682971",
-      "title": "中国法院多起判例认定游戏账号可继承，平台禁止条款无效中国法院在多起跨越数年",
-      "title_options": {
-        "conclusion": "中国法院多起判例认定游戏账号可继承，平台禁止条款无效中国法院在多起跨越数年",
-        "attractive": "中国法院多起判例认定游戏账号可继承，平台禁止条款无效中国法院在多起跨越数年",
-        "minimal": "中国法院多起判例认定游戏账号可继承，平台禁止条款无效中国法院在多起跨越数年",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1555,6 +1520,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-11T14:55:08.733116"
+  "count": 56,
+  "updated_at": "2026-07-11T15:00:14.021868"
 }
