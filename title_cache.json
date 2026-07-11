@@ -16084,5 +16084,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-11T09:05:25.050865"
+  },
+  "xhqcankao_30722": {
+    "ai_title": "中国成功实施重复使用运载火箭回收任务7…",
+    "title_options": {
+      "conclusion": "中国成功实施重复使用运载火箭回收任务7…",
+      "attractive": "中国成功实施重复使用运载火箭回收任务7…",
+      "minimal": "中国成功实施重复使用运载火箭回收任务7…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-11T10:06:04.043249"
+  },
+  "xhqcankao_30721": {
+    "ai_title": "SK海力士或探索“内存即服务”新模式韩…",
+    "title_options": {
+      "conclusion": "SK海力士或探索“内存即服务”新模式韩…",
+      "attractive": "SK海力士或探索“内存即服务”新模式韩…",
+      "minimal": "SK海力士或探索“内存即服务”新模式韩…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-11T10:06:04.061735"
+  },
+  "zaihuapd_42484": {
+    "ai_title": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+    "title_options": {
+      "conclusion": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+      "attractive": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+      "minimal": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-11T10:06:04.115983"
   }
 }
