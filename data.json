@@ -1397,29 +1397,6 @@
       }
     },
     {
-      "id": "xhqcankao_30699",
-      "channel": "xhqcankao",
-      "text": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新的“Reflect”功能。Reflect可以让你回顾自己是如何使用Claude的，以及使用了多长时间。Reflect包含Claude使用摘要，涵盖关键主题、使用模式以及你通过Claude处理的任务类型。你可以回顾过去1、3、6或12个月的Claude活动，并且Anthropic还计划将来增加一个查看你使用Claude所花费时间的视图。Reflect不会从无痕聊天中提取信息，也不会使用已连接工具的底层文件。与健康整合工具相关的对话也会被排除在洞察之外，并且Reflect选项中显示的信息不会用于其他目的。Reflect以测试版形式提供给已开启记忆功能的Free、Pro和Max用户。",
-      "clean_text": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新的“Reflect”功能。Reflect可以让你回顾自己是如何使用Claude的，以及使用了多长时间。Reflect包含Claude使用摘要，涵盖关键主题、使用模式以及你通过Claude处理的任务类型。你可以回顾过去1、3、6或12个月的Claude活动，并且Anthropic还计划将来增加一个查看你使用Claude所花费时间的视图。Reflect不会从无痕聊天中提取信息，也不会使用已连接工具的底层文件。与健康整合工具相关的对话也会被排除在洞察之外，并且Reflect选项中显示的信息不会用于其他目的。Reflect以测试版形式提供给已开启记忆功能的Free、Pro和Max用户。——Macrumors",
-      "datetime": "2026-07-10T03:31:40+00:00",
-      "views": "1.26K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/09/anthropic-reflect-claude-tracking/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30699",
-      "scraped_at": "2026-07-10T12:01:00.012829",
-      "title": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
-      "title_options": {
-        "conclusion": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
-        "attractive": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
-        "minimal": "Anthropic为Claude推出“Reflect”回顾功能人工智能公司Anthropic正在为Claude更新一项全新",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1539,6 +1516,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-11T15:30:48.601980"
+  "count": 56,
+  "updated_at": "2026-07-11T15:35:52.703753"
 }
