@@ -1483,33 +1483,6 @@
       }
     },
     {
-      "id": "xhqcankao_30691",
-      "channel": "xhqcankao",
-      "text": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动的ChatGPT Work，这是最新的前沿模型系列，全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。ChatGPT Work是一款可跨各类应用与文件执行操作的智能体，必要时能持续跟进项目数小时，可直接将目标转化为已完成的工作成果。它可跨各类应用和工作流收集信息，生成表格、幻灯片、文档、网页应用等成品内容，还能通过拆解为小步骤独立执行，数小时持续跟进复杂项目。ChatGPT Work由今日同步推送的前沿旗舰模型GPT-5.6提供能力加持。GPT-5.6让ChatGPT在多步骤任务推理、生成贴合用户模板与参考文件的内容上达到顶尖水准。",
-      "clean_text": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动的ChatGPT Work，这是最新的前沿模型系列，全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。ChatGPT Work是一款可跨各类应用与文件执行操作的智能体，必要时能持续跟进项目数小时，可直接将目标转化为已完成的工作成果。它可跨各类应用和工作流收集信息，生成表格、幻灯片、文档、网页应用等成品内容，还能通过拆解为小步骤独立执行，数小时持续跟进复杂项目。ChatGPT Work由今日同步推送的前沿旗舰模型GPT-5.6提供能力加持。GPT-5.6让ChatGPT在多步骤任务推理、生成贴合用户模板与参考文件的内容上达到顶尖水准。——财联社、彭博社",
-      "datetime": "2026-07-09T23:32:30+00:00",
-      "views": "784",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2422216?&amp;sv=8.5.9&amp;"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/openai-unveils-chatgpt-work-agent-to-field-tasks-for-hours"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30691",
-      "scraped_at": "2026-07-10T08:02:34.540841",
-      "title": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
-      "title_options": {
-        "conclusion": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
-        "attractive": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
-        "minimal": "OpenAI推出ChatGPT Work智能体 可持续数小时跟进任务人工智能公司OpenAI推出由GPT-5.6模型驱动",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1629,6 +1602,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-11T11:32:07.985414"
+  "count": 59,
+  "updated_at": "2026-07-11T11:37:11.718620"
 }
