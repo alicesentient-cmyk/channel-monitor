@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42493",
+      "channel": "zaihuapd",
+      "text": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中的 6 个漏洞，其中 2 个可导致任意代码执行，4 个可造成设备崩溃。这些漏洞最早可追溯到 U-Boot 2013.07 版本，影响超过 50 个稳定版本及大量下游厂商分支。由于漏洞位于固件验证阶段，攻击者可在操作系统和安全软件启动之前执行恶意代码，从而禁用固件安全功能、修改启动流程或植入持久性固件恶意软件。对于支持远程固件更新的 BMC 等系统，攻击者无需物理接触设备即可利用这些漏洞。Binarly 已向 U-Boot 维护者提交补丁并获接受，但修复需要各硬件厂商集成到固件更新后才能分发，已停止支持的老旧设备可能永远无法获得修复。BleepingComputer·茶馆水群·",
+      "clean_text": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中的 6 个漏洞，其中 2 个可导致任意代码执行，4 个可造成设备崩溃。这些漏洞最早可追溯到 U-Boot 2013.07 版本，影响超过 50 个稳定版本及大量下游厂商分支。由于漏洞位于固件验证阶段，攻击者可在操作系统和安全软件启动之前执行恶意代码，从而禁用固件安全功能、修改启动流程或植入持久性固件恶意软件。对于支持远程固件更新的 BMC 等系统，攻击者无需物理接触设备即可利用这些漏洞。Binarly 已向 U-Boot 维护者提交补丁并获接受，但修复需要各硬件厂商集成到固件更新后才能分发，已停止支持的老旧设备可能永远无法获得修复。BleepingComputer·茶馆水群",
+      "datetime": "2026-07-11T08:32:59+00:00",
+      "views": "49.8K",
+      "source_links": [
+        {
+          "text": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42493",
+      "scraped_at": "2026-07-11T17:01:38.643555",
+      "title": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+      "title_options": {
+        "conclusion": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+        "attractive": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+        "minimal": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30733",
+      "channel": "xhqcankao",
+      "text": "在你的安卓掌机上运行类 SteamOS 系统Armada OS是一款专为高通骁龙高性能安卓掌机打造的开源、类 SteamOS 的 Linux 发行版。该系统底层基于 Fedora Bootc 以及 Bazzite 深度构建，并融合了 ROCKNIX 的底层硬件适配方案。其核心机制在于原生集成 ARM64 版 Steam，并通过FEX翻译层与 Proton 11 兼容层，使用户能直接在ARM架构上运行 x86 架构的 PC 游戏。​系统配备了专属的 Armada Control 控制面板，提供电源预设、手柄模拟与游戏兼容性微调。尽管系统目前处于实验开发阶段，且安装时需刷入定制 ABL 引导，但已在AYN Odin 2以及AYANEO Pocket EVO等设备上成功测试。——Armada OS 项目地址",
+      "clean_text": "在你的安卓掌机上运行类 SteamOS 系统Armada OS是一款专为高通骁龙高性能安卓掌机打造的开源、类 SteamOS 的 Linux 发行版。该系统底层基于 Fedora Bootc 以及 Bazzite 深度构建，并融合了 ROCKNIX 的底层硬件适配方案。其核心机制在于原生集成 ARM64 版 Steam，并通过FEX翻译层与 Proton 11 兼容层，使用户能直接在ARM架构上运行 x86 架构的 PC 游戏。​系统配备了专属的 Armada Control 控制面板，提供电源预设、手柄模拟与游戏兼容性微调。尽管系统目前处于实验开发阶段，且安装时需刷入定制 ABL 引导，但已在AYN Odin 2以及AYANEO Pocket EVO等设备上成功测试。——Armada OS 项目地址",
+      "datetime": "2026-07-11T08:18:14+00:00",
+      "views": "1.64K",
+      "source_links": [
+        {
+          "text": "Armada OS 项目地址",
+          "url": "https://github.com/virtudude/armada"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30733",
+      "scraped_at": "2026-07-11T17:01:40.822787",
+      "title": "在你",
+      "title_options": {
+        "conclusion": "在你",
+        "attractive": "在你",
+        "minimal": "在你",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30732",
+      "channel": "xhqcankao",
+      "text": "Rapidus将提供比台积电更低的晶圆价格日本芯片制造商Rapidus首席执行官小池敦义本周宣布，公司将尝试从台积电手中抢夺客户，不仅提供不同的服务，还将以更低的价格提供制造服务。目前，Rapidus计划采用其2nm工艺加工每片晶圆的定价在300万至350万日元（约合18,550至21,635美元）之间，远低于传闻中台积电N2工艺每片晶圆约3万美元的报价，与传闻中三星SF2工艺每片晶圆2万美元的报价相当。Rapidus计划于2027年下半年开始使用其2nm级制造技术进行量产。新晶圆厂的投产需要一些时间，因此预计Rapidus要到2028年才能实现有意义的产量，届时台积电的N2将不再是其领先的制程节点。——Tom's Hardware",
+      "clean_text": "Rapidus将提供比台积电更低的晶圆价格日本芯片制造商Rapidus首席执行官小池敦义本周宣布，公司将尝试从台积电手中抢夺客户，不仅提供不同的服务，还将以更低的价格提供制造服务。目前，Rapidus计划采用其2nm工艺加工每片晶圆的定价在300万至350万日元（约合18,550至21,635美元）之间，远低于传闻中台积电N2工艺每片晶圆约3万美元的报价，与传闻中三星SF2工艺每片晶圆2万美元的报价相当。Rapidus计划于2027年下半年开始使用其2nm级制造技术进行量产。新晶圆厂的投产需要一些时间，因此预计Rapidus要到2028年才能实现有意义的产量，届时台积电的N2将不再是其领先的制程节点。——Tom's Hardware",
+      "datetime": "2026-07-11T08:03:50+00:00",
+      "views": "1.81K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30732",
+      "scraped_at": "2026-07-11T17:01:40.822419",
+      "title": "Rapidus将提供比台积电更低",
+      "title_options": {
+        "conclusion": "Rapidus将提供比台积电更低",
+        "attractive": "Rapidus将提供比台积电更低",
+        "minimal": "Rapidus将提供比台积电更低",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42492",
       "channel": "zaihuapd",
       "text": "今年首个暴雨红色预警发布 台风 \"巴威\"12 日凌晨登陆浙闽7 月 11 日 10 时，中央气象台发布今年首个暴雨红色预警，这是最高级别的暴雨预警，上一次发布还是两年前的 2024 年 6 月。与此同时，今年第 9 号台风\"巴威\"预计将于 12 日凌晨在浙江三门至苍南一带沿海登陆，登陆地点此前几经变化。预计 11 日 14 时至 12 日 14 时，浙江、福建北部、北京、天津北部、河北中北部、吉林中部、四川盆地西部、台湾岛等多地将出现暴雨或大暴雨，其中浙江东部和南部、福建北部局地有 250 至 500 毫米特大暴雨，台湾岛中北部局地有 250 至 800 毫米。国家防总已针对上海、江苏、安徽、江西、四川启动防汛防台风四级应急响应。\"巴威\"11 日凌晨曾短暂增强为强台风级，11 时又减弱为台风级，气象分析师表示其强度变化不大，风雨影响更值得关注。每日经济新闻·茶馆水群·",
@@ -1347,29 +1424,6 @@
       }
     },
     {
-      "id": "xhqcankao_30702",
-      "channel": "xhqcankao",
-      "text": "马斯克称今年将向月球和火星发送首批物资在一档最新节目中，马斯克表示，他希望在未来十年内将数万人送往月球基地，今年年底目标将第一批物资送往月球和火星，以开始建立殖民地。马斯克预计，SpaceX未来两到三年，将先送宇航员上月球，然后以此为基础迅速扩张，在未来五年内将人类送到月球和火星，并在十年内在月球表面建立永久性城市。这座月球城市预计功能完备、能实现自给自足，人们既可以永久定居，也可以度假。不过，马斯克也强调，送人上火星的难度要高得多，因为旅途耗时更漫长，不过SpaceX计划5年内实现送人登上火星，并有望在未来10到12年内将数千人送往那里。",
-      "clean_text": "马斯克称今年将向月球和火星发送首批物资在一档最新节目中，马斯克表示，他希望在未来十年内将数万人送往月球基地，今年年底目标将第一批物资送往月球和火星，以开始建立殖民地。马斯克预计，SpaceX未来两到三年，将先送宇航员上月球，然后以此为基础迅速扩张，在未来五年内将人类送到月球和火星，并在十年内在月球表面建立永久性城市。这座月球城市预计功能完备、能实现自给自足，人们既可以永久定居，也可以度假。不过，马斯克也强调，送人上火星的难度要高得多，因为旅途耗时更漫长，不过SpaceX计划5年内实现送人登上火星，并有望在未来10到12年内将数千人送往那里。——财联社",
-      "datetime": "2026-07-10T05:00:31+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2422440?sv=8.5.9"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30702",
-      "scraped_at": "2026-07-10T13:01:23.185922",
-      "title": "马斯克称今年将向月球和火星发送首批物资…",
-      "title_options": {
-        "conclusion": "马斯克称今年将向月球和火星发送首批物资…",
-        "attractive": "马斯克称今年将向月球和火星发送首批物资…",
-        "minimal": "马斯克称今年将向月球和火星发送首批物资…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42440",
       "channel": "zaihuapd",
       "text": "OpenAI 发布 GPT-Live 语音模型，支持全双工实时对话OpenAI 发布新一代语音模型 GPT-Live，采用全双工架构实现边说边听的实时对话，即日起向全球 ChatGPT 用户推出。该模型可同步处理输入与输出，能在对话中自然回应、允许用户随时打断或停顿，并会在后台调用 GPT-5.5 完成搜索与深度推理等复杂任务。GPT-Live 分为 GPT-Live-1 与 GPT-Live-1 mini 两个版本，将分别成为付费与免费用户的 ChatGPT Voice 默认模型。新版本还增加了天气、股票等视觉卡片展示，并针对背景噪音与倾听体验做了优化，但目前不支持视频或屏幕共享语音。OpenAI·茶馆水群·",
@@ -1471,6 +1525,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-11T16:56:59.271191"
+  "count": 56,
+  "updated_at": "2026-07-11T17:02:02.863013"
 }

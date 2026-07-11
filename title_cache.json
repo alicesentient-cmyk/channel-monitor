@@ -16264,5 +16264,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-11T16:01:12.825914"
+  },
+  "xhqcankao_30732": {
+    "ai_title": "Rapidus将提供比台积电更低",
+    "title_options": {
+      "conclusion": "Rapidus将提供比台积电更低",
+      "attractive": "Rapidus将提供比台积电更低",
+      "minimal": "Rapidus将提供比台积电更低",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-11T17:02:02.802595"
+  },
+  "xhqcankao_30733": {
+    "ai_title": "在你",
+    "title_options": {
+      "conclusion": "在你",
+      "attractive": "在你",
+      "minimal": "在你",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-11T17:02:02.825858"
+  },
+  "zaihuapd_42493": {
+    "ai_title": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+    "title_options": {
+      "conclusion": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+      "attractive": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+      "minimal": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-11T17:02:02.837578"
   }
 }
