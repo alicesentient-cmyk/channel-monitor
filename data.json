@@ -1289,37 +1289,6 @@
       }
     },
     {
-      "id": "zaihuapd_42471",
-      "channel": "zaihuapd",
-      "text": "腾讯洽购 AI 公司 Manus，拟从Meta 手中回购成为最大股东腾讯正就收购 AI 初创公司 Manus 进行谈判，计划成为其最大股东。此前，北京方面已要求 Meta 解除对 Manus 的 20 亿美元收购交易。据知情人士透露，腾讯将与 Manus 原有投资者真格基金和 HSG 联手，以不低于 20 亿美元的价格从 Meta 手中回购该公司。该消息由《金融时报》率先报道，腾讯、Manus、Meta 及两家投资方均未回应置评请求。Reuters·茶馆水群·",
-      "clean_text": "🐧腾讯洽购 AI 公司 Manus，拟从📱Meta 手中回购成为最大股东腾讯正就收购 AI 初创公司 Manus 进行谈判，计划成为其最大股东。此前，北京方面已要求 Meta 解除对 Manus 的 20 亿美元收购交易。据知情人士透露，腾讯将与 Manus 原有投资者真格基金和 HSG 联手，以不低于 20 亿美元的价格从 Meta 手中回购该公司。该消息由《金融时报》率先报道，腾讯、Manus、Meta 及两家投资方均未回应置评请求。Reuters·茶馆水群",
-      "datetime": "2026-07-10T06:45:21+00:00",
-      "views": "48.9K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/technology/tencent-talks-become-ai-start-up-manus-largest-shareholder-ft-reports-2026-07-10/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42471",
-      "scraped_at": "2026-07-10T15:01:07.036145",
-      "title": "腾讯洽购 AI 公司 Manus，拟从…",
-      "title_options": {
-        "conclusion": "腾讯洽购 AI 公司 Manus，拟从…",
-        "attractive": "腾讯洽购 AI 公司 Manus，拟从…",
-        "minimal": "腾讯洽购 AI 公司 Manus，拟从…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42440",
       "channel": "zaihuapd",
       "text": "OpenAI 发布 GPT-Live 语音模型，支持全双工实时对话OpenAI 发布新一代语音模型 GPT-Live，采用全双工架构实现边说边听的实时对话，即日起向全球 ChatGPT 用户推出。该模型可同步处理输入与输出，能在对话中自然回应、允许用户随时打断或停顿，并会在后台调用 GPT-5.5 完成搜索与深度推理等复杂任务。GPT-Live 分为 GPT-Live-1 与 GPT-Live-1 mini 两个版本，将分别成为付费与免费用户的 ChatGPT Voice 默认模型。新版本还增加了天气、股票等视觉卡片展示，并针对背景噪音与倾听体验做了优化，但目前不支持视频或屏幕共享语音。OpenAI·茶馆水群·",
@@ -1421,6 +1390,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-11T18:43:17.868823"
+  "count": 51,
+  "updated_at": "2026-07-11T18:48:21.321470"
 }
