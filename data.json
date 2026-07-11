@@ -1,6 +1,107 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42490",
+      "channel": "zaihuapd",
+      "text": "传 NVIDIA 将推 RTX 5090 SE 取代取消的 5080 Ti，规格价格遭质疑据 GameGPU 爆料，NVIDIA 正计划推出 GeForce RTX 5090 SE，以取代被取消的 RTX 5080 Ti，填补 RTX 5080 与 RTX 5090 之间的性能空白。传闻称其采用部分屏蔽的 GB202 芯片，拥有 14,080 个 CUDA 核心、32 GB GDDR7 显存和 384-bit 位宽，TGP 约 500 W，建议零售价约 1,500 美元。不过外界对此传闻多持怀疑态度。Notebookcheck 等指出，32 GB 显存搭配 384-bit 总线可能需要混用不同密度的 GDDR7 颗粒，而 NVIDIA 历来回避这种设计；1,500 美元的定价也远低于 RTX 5090 约 1,999 美元的官方建议价，显得不太合理。目前该消息尚未得到 NVIDIA 官方证实。GameGPU|TweakTown|Notebookcheck·茶馆水群·",
+      "clean_text": "传 NVIDIA 将推 RTX 5090 SE 取代取消的 5080 Ti，规格价格遭质疑据 GameGPU 爆料，NVIDIA 正计划推出 GeForce RTX 5090 SE，以取代被取消的 RTX 5080 Ti，填补 RTX 5080 与 RTX 5090 之间的性能空白。传闻称其采用部分屏蔽的 GB202 芯片，拥有 14,080 个 CUDA 核心、32 GB GDDR7 显存和 384-bit 位宽，TGP 约 500 W，建议零售价约 1,500 美元。不过外界对此传闻多持怀疑态度。Notebookcheck 等指出，32 GB 显存搭配 384-bit 总线可能需要混用不同密度的 GDDR7 颗粒，而 NVIDIA 历来回避这种设计；1,500 美元的定价也远低于 RTX 5090 约 1,999 美元的官方建议价，显得不太合理。目前该消息尚未得到 NVIDIA 官方证实。GameGPU|TweakTown|Notebookcheck·茶馆水群",
+      "datetime": "2026-07-11T04:00:50+00:00",
+      "views": "5.44K",
+      "source_links": [
+        {
+          "text": "GameGPU",
+          "url": "https://en.gamegpu.com/news/zhelezo/geforce-rtx-5090-se-mozhet-zanyat-mesto-otmenennoj-rtx-5080-ti"
+        },
+        {
+          "text": "TweakTown",
+          "url": "https://www.tweaktown.com/news/112577/nvidia-is-reportedly-preparing-the-geforce-rtx-5090-se-to-sit-between-the-rtx-5080-and-5090/index.html"
+        },
+        {
+          "text": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/GeForce-RTX-5090-SE-rumour-raises-more-questions-than-answers-after-closer-inspection.1339544.0.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42490",
+      "scraped_at": "2026-07-11T12:02:06.682472",
+      "title": "传 NVIDIA 将推 RTX 5090 SE 取代取消",
+      "title_options": {
+        "conclusion": "传 NVIDIA 将推 RTX 5090 SE 取代取消",
+        "attractive": "传 NVIDIA 将推 RTX 5090 SE 取代取消",
+        "minimal": "传 NVIDIA 将推 RTX 5090 SE 取代取消",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30726",
+      "channel": "xhqcankao",
+      "text": "Disney+正在考虑推出免费流媒体套餐流媒体平台Disney+正在考虑将其部分流媒体库内容开放供免费观看。迪士尼首席产品与技术官Adam Smith在周四的一场全体会议上讨论了提供免费层级内容的可能性。目前尚不清楚哪些节目或电影将被纳入，也不清楚这家流媒体平台将考虑何时推出这一服务。免费内容的推出将使Disney+能够更好地与 YouTube 和 Tubi 等免费服务竞争，后者正在占据消费者观看时间中不断增长的份额。随着流媒体巨头持续提价，消费者一直在转向广告支持的服务。根据尼尔森统计的数据，免费流媒体服务在2026年4月占美国电视观看时间的18.7%，高于2025年4月的16.8%和2024年4月的12.7%。",
+      "clean_text": "Disney+正在考虑推出免费流媒体套餐流媒体平台Disney+正在考虑将其部分流媒体库内容开放供免费观看。迪士尼首席产品与技术官Adam Smith在周四的一场全体会议上讨论了提供免费层级内容的可能性。目前尚不清楚哪些节目或电影将被纳入，也不清楚这家流媒体平台将考虑何时推出这一服务。免费内容的推出将使Disney+能够更好地与 YouTube 和 Tubi 等免费服务竞争，后者正在占据消费者观看时间中不断增长的份额。随着流媒体巨头持续提价，消费者一直在转向广告支持的服务。根据尼尔森统计的数据，免费流媒体服务在2026年4月占美国电视观看时间的18.7%，高于2025年4月的16.8%和2024年4月的12.7%。——Techcrunch",
+      "datetime": "2026-07-11T03:30:07+00:00",
+      "views": "1.11K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30726",
+      "scraped_at": "2026-07-11T12:02:08.597974",
+      "title": "Disney+正在考虑推出免费流媒体套…",
+      "title_options": {
+        "conclusion": "Disney+正在考虑推出免费流媒体套…",
+        "attractive": "Disney+正在考虑推出免费流媒体套…",
+        "minimal": "Disney+正在考虑推出免费流媒体套…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42489",
+      "channel": "zaihuapd",
+      "text": "苹果起诉 OpenAI，指控其系统性窃取商业机密推进硬件业务苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果的产品设计、制造工艺及供应链机密，加快消费级硬件研发。苹果称，前员工 Chang Liu 离职后仍访问内部网络并下载数十份硬件文件；OpenAI 硬件负责人 Tang Yew Tan 则被指在离职前将供应商等资料发送至个人邮箱，并要求求职者携带苹果零部件参加面试。苹果还表示，目前有超过 400 名前员工在 OpenAI 工作。OpenAI 暂未回应。CNBC|TechCrunch|Bloomberg·茶馆水群·",
+      "clean_text": "苹果起诉 OpenAI，指控其系统性窃取商业机密推进硬件业务苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果的产品设计、制造工艺及供应链机密，加快消费级硬件研发。苹果称，前员工 Chang Liu 离职后仍访问内部网络并下载数十份硬件文件；OpenAI 硬件负责人 Tang Yew Tan 则被指在离职前将供应商等资料发送至个人邮箱，并要求求职者携带苹果零部件参加面试。苹果还表示，目前有超过 400 名前员工在 OpenAI 工作。OpenAI 暂未回应。CNBC|TechCrunch|Bloomberg·茶馆水群",
+      "datetime": "2026-07-11T03:14:02+00:00",
+      "views": "50.6K",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
+        },
+        {
+          "text": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+        },
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42489",
+      "scraped_at": "2026-07-11T12:02:06.681988",
+      "title": "苹果起诉 OpenAI，指控其系统性窃取商业机密推进硬件业务苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+      "title_options": {
+        "conclusion": "苹果起诉 OpenAI，指控其系统性窃取商业机密推进硬件业务苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+        "attractive": "苹果起诉 OpenAI，指控其系统性窃取商业机密推进硬件业务苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+        "minimal": "苹果起诉 OpenAI，指控其系统性窃取商业机密推进硬件业务苹果 7 月 10 日在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控 OpenAI 通过招聘苹果员工、接触供应商等方式，系统性获取并利用苹果",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30725",
       "channel": "xhqcankao",
       "text": "Meta从Instagram上移除备受争议的AI功能Meta AI 本周推出图像生成功能，但其默认设置引发用户不满。该功能允许任何人以公开 Instagram 帖子作为起点生成人工智能图像，用户需要主动关闭权限才能避免内容被使用。Meta随后根据用户反馈决定完全移除这项功能。Meta指出，公司原意是提供实用的创作工具并让用户控制自己的内容是否被参考，但在听取社群意见后决定撤回。自从人工智能与社交媒体平台融合以来，AI就被肆意滥用",
@@ -1456,33 +1557,6 @@
       }
     },
     {
-      "id": "xhqcankao_30692",
-      "channel": "xhqcankao",
-      "text": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司的监管机构 “长期利益信托”（Long-Term Benefit Trust，LTBT）。伯南克在周四发布的声明中表示，“人工智能的潜力巨大，其可能带来的后果也多种多样。这种潜力最终如何发挥，部分取决于我们围绕它建立的制度。”“Anthropic创建了一种独特的治理结构，力求确保人工智能为人类带来的长期益处远远大于其风险。我很荣幸能有机会参与其中，我将尽我所能为这项至关重要的使命做出贡献。”Anthropic 2023年设立了一个全新的、独立的治理结构LTBT，该机构由五位互不相关的外部成员组成，有权选举和罢免 Anthropic 董事会的部分成员，旨在确保公司始终履行服务公共利益的使命。",
-      "clean_text": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司的监管机构 “长期利益信托”（Long-Term Benefit Trust，LTBT）。伯南克在周四发布的声明中表示，“人工智能的潜力巨大，其可能带来的后果也多种多样。这种潜力最终如何发挥，部分取决于我们围绕它建立的制度。”“Anthropic创建了一种独特的治理结构，力求确保人工智能为人类带来的长期益处远远大于其风险。我很荣幸能有机会参与其中，我将尽我所能为这项至关重要的使命做出贡献。”Anthropic 2023年设立了一个全新的、独立的治理结构LTBT，该机构由五位互不相关的外部成员组成，有权选举和罢免 Anthropic 董事会的部分成员，旨在确保公司始终履行服务公共利益的使命。——财联社、彭博社",
-      "datetime": "2026-07-10T00:02:10+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2422240?sv=8.5.9"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/former-fed-chairman-ben-bernanke-joins-anthropic-oversight-trust"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30692",
-      "scraped_at": "2026-07-10T08:02:34.541180",
-      "title": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
-      "title_options": {
-        "conclusion": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
-        "attractive": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
-        "minimal": "前美联储主席伯南克加盟Anthropic治理层AI公司 Anthropic 宣布，前美联储主席本·伯南克加入了公司",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1602,6 +1676,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-11T11:57:26.019184"
+  "count": 61,
+  "updated_at": "2026-07-11T12:02:32.505470"
 }
