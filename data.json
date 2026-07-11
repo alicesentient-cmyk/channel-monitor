@@ -1176,33 +1176,6 @@
       }
     },
     {
-      "id": "xhqcankao_30709",
-      "channel": "xhqcankao",
-      "text": "vivo印度设立合资企业获批 在当地制造手机印度 EMS（电子制造服务）企业 Dixon 昨日表示，印度商务和工业部工业和国内贸易促进署正式批准 Dixon 与 vivo 印度设立一家 51:49 合资企业。这家合资企业将在印度开展包括智能手机在内的电子设备 OEM 业务，处理来自vivo印度甚至其它电子产品企业的订单。Dixon 与 vivo 印度早在 2024 年就为设立合资企业签署了意向书，但相关审核工作经历了复杂而漫长的行政流程。Dixon 公司创始人兼董事长 Sunil Vachani 在今年 5 月曾表示，这一合资企业将承接vivo在印智能手机销量的约 2/3，对应超 2000 万部。",
-      "clean_text": "vivo印度设立合资企业获批 在当地制造手机印度 EMS（电子制造服务）企业 Dixon 昨日表示，印度商务和工业部工业和国内贸易促进署正式批准 Dixon 与 vivo 印度设立一家 51:49 合资企业。这家合资企业将在印度开展包括智能手机在内的电子设备 OEM 业务，处理来自vivo印度甚至其它电子产品企业的订单。Dixon 与 vivo 印度早在 2024 年就为设立合资企业签署了意向书，但相关审核工作经历了复杂而漫长的行政流程。Dixon 公司创始人兼董事长 Sunil Vachani 在今年 5 月曾表示，这一合资企业将承接vivo在印智能手机销量的约 2/3，对应超 2000 万部。——IT之家、Techcrunch",
-      "datetime": "2026-07-10T08:31:02+00:00",
-      "views": "1.24K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://m.ithome.com/html/974939.htm"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30709",
-      "scraped_at": "2026-07-10T17:01:23.749010",
-      "title": "vivo印度设立合资企业获批 在当地制…",
-      "title_options": {
-        "conclusion": "vivo印度设立合资企业获批 在当地制…",
-        "attractive": "vivo印度设立合资企业获批 在当地制…",
-        "minimal": "vivo印度设立合资企业获批 在当地制…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42440",
       "channel": "zaihuapd",
       "text": "OpenAI 发布 GPT-Live 语音模型，支持全双工实时对话OpenAI 发布新一代语音模型 GPT-Live，采用全双工架构实现边说边听的实时对话，即日起向全球 ChatGPT 用户推出。该模型可同步处理输入与输出，能在对话中自然回应、允许用户随时打断或停顿，并会在后台调用 GPT-5.5 完成搜索与深度推理等复杂任务。GPT-Live 分为 GPT-Live-1 与 GPT-Live-1 mini 两个版本，将分别成为付费与免费用户的 ChatGPT Voice 默认模型。新版本还增加了天气、股票等视觉卡片展示，并针对背景噪音与倾听体验做了优化，但目前不支持视频或屏幕共享语音。OpenAI·茶馆水群·",
@@ -1304,6 +1277,6 @@
       }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-07-11T20:29:46.691257"
+  "count": 47,
+  "updated_at": "2026-07-11T20:34:51.849973"
 }
