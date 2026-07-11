@@ -1095,41 +1095,6 @@
       }
     },
     {
-      "id": "zaihuapd_42475",
-      "channel": "zaihuapd",
-      "text": "Netflix 在美英以外测试免费试用Netflix 停用经典 30 天免费试用约 6 年后，正在部分市场测试重新推出免费试用，范围不包括美国和英国。试用只面向从未注册过 Netflix 的用户，时长会因地区不同而变化；巴西页面已出现 14 天选项，也有人看到 7 天或 30 天。这类促销用于让潜在会员体验 Netflix 的服务价值。免费试用结束后，用户可转入付费套餐；Netflix 会根据测试数据决定是否扩大推出。What's on Netflix|TechRadar·茶馆水群·",
-      "clean_text": "Netflix 在美英以外测试免费试用Netflix 停用经典 30 天免费试用约 6 年后，正在部分市场测试重新推出免费试用，范围不包括美国和英国。试用只面向从未注册过 Netflix 的用户，时长会因地区不同而变化；巴西页面已出现 14 天选项，也有人看到 7 天或 30 天。这类促销用于让潜在会员体验 Netflix 的服务价值。免费试用结束后，用户可转入付费套餐；Netflix 会根据测试数据决定是否扩大推出。What's on Netflix|TechRadar·茶馆水群",
-      "datetime": "2026-07-10T12:25:44+00:00",
-      "views": "50.6K",
-      "source_links": [
-        {
-          "text": "What's on Netflix",
-          "url": "https://www.whats-on-netflix.com/news/netflix-free-trials-comeback-test/"
-        },
-        {
-          "text": "TechRadar",
-          "url": "https://www.techradar.com/streaming/netflix/netflix-free-trials-might-be-making-a-comeback-but-not-for-users-in-the-two-of-the-best-streaming-services-biggest-markets"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42475",
-      "scraped_at": "2026-07-10T21:02:05.582198",
-      "title": "Netflix 在美英以外测试免费试用…",
-      "title_options": {
-        "conclusion": "Netflix 在美英以外测试免费试用…",
-        "attractive": "Netflix 在美英以外测试免费试用…",
-        "minimal": "Netflix 在美英以外测试免费试用…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42447",
       "channel": "zaihuapd",
       "text": "蚂蚁灵波开源 LingBot-Video，全球首个 MoE 具身视频基模蚂蚁灵波开源了全球首个基于 MoE 架构的具身智能视频生成基础模型 LingBot-Video。该模型总参数 30B，生成时仅激活约 3B，推理效率约为同等规模 Dense 架构的 3 倍。在面向机器人操作视频的评测基准 RBench 上，LingBot-Video 总分 0.620，超越 Wan2.6、Seedance1.5 Pro 和 Cosmos3 Super 等模型。LingBot-Video 从架构、数据和训练三方面进行了创新：采用 DiT+MoE 设计平衡容量与成本；构建包含 7 万小时具身数据的画像引擎，覆盖灵巧操作、机器人移动和第一视角交互等场景；引入多维强化学习奖励系统，除美学和运动一致性外，重点关注物理合理性和任务完成度。模型可用于机器人动作预测、仿真数据生成和世界模型研究等方向，目前已以 Apache 2.0 许可证在 GitHub 开源。量子位|蚂蚁灵波官网|GitHub·茶馆水群·",
@@ -1231,6 +1196,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-07-12T00:22:45.597882"
+  "count": 45,
+  "updated_at": "2026-07-12T00:27:50.475650"
 }
