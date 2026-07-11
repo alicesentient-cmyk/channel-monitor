@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42494",
+      "channel": "zaihuapd",
+      "text": "OpenAI Codex 额度重置现在可“存起来”稍后使用  OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。  此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。  OpenAI(1, 2) · 备用频道…",
+      "clean_text": "🤖OpenAI Codex 额度重置现在可“存起来”稍后使用  OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。  此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。  OpenAI(1, 2) · 备用频道…",
+      "datetime": "2026-07-11T10:33:06+00:00",
+      "views": "49.9K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42494",
+      "scraped_at": "2026-07-11T19:01:16.709909",
+      "title": "OpenAI Codex 额度重置现在…",
+      "title_options": {
+        "conclusion": "OpenAI Codex 额度重置现在…",
+        "attractive": "OpenAI Codex 额度重置现在…",
+        "minimal": "OpenAI Codex 额度重置现在…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42493",
       "channel": "zaihuapd",
       "text": "U-Boot 引导程序曝 6 个漏洞，可绕过验证在启动时执行恶意代码固件安全公司 Binarly 本周披露了 U-Boot 引导程序 FIT 签名验证代码中的 6 个漏洞，其中 2 个可导致任意代码执行，4 个可造成设备崩溃。这些漏洞最早可追溯到 U-Boot 2013.07 版本，影响超过 50 个稳定版本及大量下游厂商分支。由于漏洞位于固件验证阶段，攻击者可在操作系统和安全软件启动之前执行恶意代码，从而禁用固件安全功能、修改启动流程或植入持久性固件恶意软件。对于支持远程固件更新的 BMC 等系统，攻击者无需物理接触设备即可利用这些漏洞。Binarly 已向 U-Boot 维护者提交补丁并获接受，但修复需要各硬件厂商集成到固件更新后才能分发，已停止支持的老旧设备可能永远无法获得修复。BleepingComputer·茶馆水群·",
@@ -1266,29 +1284,6 @@
       }
     },
     {
-      "id": "xhqcankao_30706",
-      "channel": "xhqcankao",
-      "text": "Netflix探索电视直播及推出捆绑订阅服务但据参与今年春天Netflix年度业务评估会议的与会者透露，Netflix有一项指标正朝着错误的方向发展：订阅用户的参与度出现了下降的迹象。知情人士说，当时这只是关于公司目标讨论的一小部分，但此后它已成为会议上频繁讨论的话题。据知情人士透露，为了提升参与度，该公司高管最近讨论了增加直播频道的事宜，这些频道将持续播放某些节目，或某一特定类型的剧集和电影。该公司还探索了将包括NBCUniversal的Peacock在内的其他基于订阅的流媒体服务捆绑到其产品中。该公司将通过其主应用销售这些订阅服务。Netflix正在讨论增加电视频道以及可能推出流媒体捆绑服务，这些服务将以磁贴形式显示在该流媒体平台的主页上。",
-      "clean_text": "Netflix探索电视直播及推出捆绑订阅服务但据参与今年春天Netflix年度业务评估会议的与会者透露，Netflix有一项指标正朝着错误的方向发展：订阅用户的参与度出现了下降的迹象。知情人士说，当时这只是关于公司目标讨论的一小部分，但此后它已成为会议上频繁讨论的话题。据知情人士透露，为了提升参与度，该公司高管最近讨论了增加直播频道的事宜，这些频道将持续播放某些节目，或某一特定类型的剧集和电影。该公司还探索了将包括NBCUniversal的Peacock在内的其他基于订阅的流媒体服务捆绑到其产品中。该公司将通过其主应用销售这些订阅服务。Netflix正在讨论增加电视频道以及可能推出流媒体捆绑服务，这些服务将以磁贴形式显示在该流媒体平台的主页上。——华尔街日报",
-      "datetime": "2026-07-10T07:02:49+00:00",
-      "views": "2.14K",
-      "source_links": [
-        {
-          "text": "华尔街日报",
-          "url": "https://cn.wsj.com/articles/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-72463bf8?mod=cn_hp_featst_pos2"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30706",
-      "scraped_at": "2026-07-10T16:01:50.815223",
-      "title": "Netflix探索电视直播及推出捆绑订阅服务但据参与今年春天Netflix年度业务评估会议",
-      "title_options": {
-        "conclusion": "Netflix探索电视直播及推出捆绑订阅服务但据参与今年春天Netflix年度业务评估会议",
-        "attractive": "Netflix探索电视直播及推出捆绑订阅服务但据参与今年春天Netflix年度业务评估会议",
-        "minimal": "Netflix探索电视直播及推出捆绑订阅服务但据参与今年春天Netflix年度业务评估会议",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42440",
       "channel": "zaihuapd",
       "text": "OpenAI 发布 GPT-Live 语音模型，支持全双工实时对话OpenAI 发布新一代语音模型 GPT-Live，采用全双工架构实现边说边听的实时对话，即日起向全球 ChatGPT 用户推出。该模型可同步处理输入与输出，能在对话中自然回应、允许用户随时打断或停顿，并会在后台调用 GPT-5.5 完成搜索与深度推理等复杂任务。GPT-Live 分为 GPT-Live-1 与 GPT-Live-1 mini 两个版本，将分别成为付费与免费用户的 ChatGPT Voice 默认模型。新版本还增加了天气、股票等视觉卡片展示，并针对背景噪音与倾听体验做了优化，但目前不支持视频或屏幕共享语音。OpenAI·茶馆水群·",
@@ -1391,5 +1386,5 @@
     }
   ],
   "count": 51,
-  "updated_at": "2026-07-11T18:58:28.941418"
+  "updated_at": "2026-07-11T19:03:32.230544"
 }
