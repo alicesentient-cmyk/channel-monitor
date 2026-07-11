@@ -1499,37 +1499,6 @@
       }
     },
     {
-      "id": "zaihuapd_42465",
-      "channel": "zaihuapd",
-      "text": "OpenAI 将 Atlas 和 Codex 整合进新版 ChatGPT 桌面应用OpenAI 发布新版 ChatGPT 桌面应用，将 Codex、ChatGPT Work 智能体和浏览器能力整合到同一应用中。随着相关功能完成整合，独立桌面浏览器 ChatGPT Atlas 将停止提供，目标停用日期为 8 月 9 日。OpenAI 此前已推出独立 Codex 应用，并在 4 月加入应用内浏览器功能。新版桌面应用进一步统一了这些能力；Chrome 用户也可通过插件使用 ChatGPT 和 Codex，无需更换浏览器。9to5Mac·茶馆水群·",
-      "clean_text": "🤖OpenAI 将 Atlas 和 Codex 整合进新版 ChatGPT 桌面应用OpenAI 发布新版 ChatGPT 桌面应用，将 Codex、ChatGPT Work 智能体和浏览器能力整合到同一应用中。随着相关功能完成整合，独立桌面浏览器 ChatGPT Atlas 将停止提供，目标停用日期为 8 月 9 日。OpenAI 此前已推出独立 Codex 应用，并在 4 月加入应用内浏览器功能。新版桌面应用进一步统一了这些能力；Chrome 用户也可通过插件使用 ChatGPT 和 Codex，无需更换浏览器。9to5Mac·茶馆水群",
-      "datetime": "2026-07-10T01:19:02+00:00",
-      "views": "50.8K",
-      "source_links": [
-        {
-          "text": "9to5Mac",
-          "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42465",
-      "scraped_at": "2026-07-10T10:02:14.030282",
-      "title": "OpenAI 将 Atlas 和 Co…",
-      "title_options": {
-        "conclusion": "OpenAI 将 Atlas 和 Co…",
-        "attractive": "OpenAI 将 Atlas 和 Co…",
-        "minimal": "OpenAI 将 Atlas 和 Co…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1649,6 +1618,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-11T13:18:34.756319"
+  "count": 59,
+  "updated_at": "2026-07-11T13:23:38.572927"
 }
