@@ -1530,33 +1530,6 @@
       }
     },
     {
-      "id": "xhqcankao_30693",
-      "channel": "xhqcankao",
-      "text": "OpenAI宣布正式推出GPT-5.6系列模型OpenAI正式推出GPT-5.6全系列模型，全面开放可用：包含全新旗舰模型Sol、适配日常工作的均衡型模型Terra，及旗下性价比最高的Luna模型。Gpt-5.6模型按每百万Token计费，覆盖3种模型规格：Sol版本输入5美元/输出30美元；Terra版本输入2.5美元/输出15美元；Luna版本输入1美元/输出6美元。OpenAI强调，GPT-5.6在多项关键基准测试中超越Anthropic旗下Claude Fable 5，但词元消耗量和推理成本均大幅降低，意味着用户在同等预算下可完成更多实质性工作。与此同时，OpenAI产品与业务负责人菲吉·西莫将辞去在该人工智能公司的职务，以专注于应对“慢性疾病严重恶化”后的康复。",
-      "clean_text": "OpenAI宣布正式推出GPT-5.6系列模型OpenAI正式推出GPT-5.6全系列模型，全面开放可用：包含全新旗舰模型Sol、适配日常工作的均衡型模型Terra，及旗下性价比最高的Luna模型。Gpt-5.6模型按每百万Token计费，覆盖3种模型规格：Sol版本输入5美元/输出30美元；Terra版本输入2.5美元/输出15美元；Luna版本输入1美元/输出6美元。OpenAI强调，GPT-5.6在多项关键基准测试中超越Anthropic旗下Claude Fable 5，但词元消耗量和推理成本均大幅降低，意味着用户在同等预算下可完成更多实质性工作。与此同时，OpenAI产品与业务负责人菲吉·西莫将辞去在该人工智能公司的职务，以专注于应对“慢性疾病严重恶化”后的康复。——财联社、OpenAI",
-      "datetime": "2026-07-10T00:30:28+00:00",
-      "views": "1.54K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2422218?&amp;sv=8.5.9&amp;"
-        },
-        {
-          "text": "OpenAI",
-          "url": "https://openai.com/zh-Hans-CN/index/previewing-gpt-5-6-sol/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30693",
-      "scraped_at": "2026-07-10T09:13:53.101696",
-      "title": "OpenAI宣布正式推出GPT-5.6系列模型OpenAI正式推出GPT-5.6全系列模型，全面开放可用：包含全新旗舰模型Sol、适配日常工作",
-      "title_options": {
-        "conclusion": "OpenAI宣布正式推出GPT-5.6系列模型OpenAI正式推出GPT-5.6全系列模型，全面开放可用：包含全新旗舰模型Sol、适配日常工作",
-        "attractive": "OpenAI宣布正式推出GPT-5.6系列模型OpenAI正式推出GPT-5.6全系列模型，全面开放可用：包含全新旗舰模型Sol、适配日常工作",
-        "minimal": "OpenAI宣布正式推出GPT-5.6系列模型OpenAI正式推出GPT-5.6全系列模型，全面开放可用：包含全新旗舰模型Sol、适配日常工作",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42437",
       "channel": "zaihuapd",
       "text": "字节跳动上线 Seedream 5.0 图像生成模型，对标Nano Banana Pro  2 月 10 日，字节跳动图像生成模型 Seedream 5.0 正式上线。该模型目前已接入视频编辑应用剪映、海外版 CapCut 及 AI 创作平台小云雀，并在即梦 AI 平台开启灰度测试。用户现可在上述平台限时免费体验图片生成功能。",
@@ -1676,6 +1649,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-11T12:27:53.537496"
+  "count": 60,
+  "updated_at": "2026-07-11T12:32:57.129750"
 }
