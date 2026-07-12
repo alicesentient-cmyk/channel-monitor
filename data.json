@@ -881,24 +881,6 @@
       }
     },
     {
-      "id": "zaihuapd_42484",
-      "channel": "zaihuapd",
-      "text": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出的首个联合模型。Grok 4.5 在 Harvey 法律代理基准测试中排名第一，专注编码、法律和金融服务等高难度专业任务，同时强化了网络安全能力。  模型以 80 TPS 速度运行，token 效率达到同类领先模型的两倍，价格定为每百万输入 tokens 2…",
-      "clean_text": "🤖SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出的首个联合模型。Grok 4.5 在 Harvey 法律代理基准测试中排名第一，专注编码、法律和金融服务等高难度专业任务，同时强化了网络安全能力。  模型以 80 TPS 速度运行，token 效率达到同类领先模型的两倍，价格定为每百万输入 tokens 2…",
-      "datetime": "2026-07-11T01:44:02+00:00",
-      "views": "48.6K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42484",
-      "scraped_at": "2026-07-11T10:01:57.429976",
-      "title": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-      "title_options": {
-        "conclusion": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-        "attractive": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-        "minimal": "SpaceXAI 与 Cursor 联合发布 Grok 4.5，专注编码、法律和金融服务等任务  SpaceXAI 与 Cursor 联合发布新一代 AI 模型 Grok 4.5，这是 SpaceX 以 600 亿美元收购 Cursor 后双方推出",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -961,6 +943,6 @@
       }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-07-12T13:42:51.390960"
+  "count": 36,
+  "updated_at": "2026-07-12T13:47:54.502433"
 }
