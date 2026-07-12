@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42514",
+      "channel": "zaihuapd",
+      "text": "ChatGPT iOS 和 macOS 出现对话和登陆故障OpenAI Status·茶馆水群·",
+      "clean_text": "ChatGPT iOS 和 macOS 出现对话和登陆故障OpenAI Status·茶馆水群",
+      "datetime": "2026-07-12T13:27:01+00:00",
+      "views": "50.3K",
+      "source_links": [
+        {
+          "text": "OpenAI Status",
+          "url": "https://status.openai.com/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42514",
+      "scraped_at": "2026-07-12T22:01:24.101218",
+      "title": "ChatGPT iOS 和 macOS…",
+      "title_options": {
+        "conclusion": "ChatGPT iOS 和 macOS…",
+        "attractive": "ChatGPT iOS 和 macOS…",
+        "minimal": "ChatGPT iOS 和 macOS…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30745",
       "channel": "xhqcankao",
       "text": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现的内容，这是其最受欢迎的每周播放列表之一。这些新选项允许你将播放列表缩小到特定流派，聚焦于对你来说新的艺人等等。听众可以从最多五个选项中进行选择，例如“发现新艺人”、“编辑精选”和“流行”。该功能现在正在移动端和桌面端应用中逐步推出，一旦可用，将出现在你的 Release Radar 播放列表顶部。Spotify还表示，正在对算法进行调整，以提供 “更加个性化的推荐”，同时采用包含更新封面和标题图艺术的新外观。",
@@ -764,6 +795,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-12T22:00:28.355999"
+  "count": 31,
+  "updated_at": "2026-07-12T22:05:35.823032"
 }
