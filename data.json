@@ -710,29 +710,6 @@
       }
     },
     {
-      "id": "xhqcankao_30733",
-      "channel": "xhqcankao",
-      "text": "在你的安卓掌机上运行类 SteamOS 系统Armada OS是一款专为高通骁龙高性能安卓掌机打造的开源、类 SteamOS 的 Linux 发行版。该系统底层基于 Fedora Bootc 以及 Bazzite 深度构建，并融合了 ROCKNIX 的底层硬件适配方案。其核心机制在于原生集成 ARM64 版 Steam，并通过FEX翻译层与 Proton 11 兼容层，使用户能直接在ARM架构上运行 x86 架构的 PC 游戏。​系统配备了专属的 Armada Control 控制面板，提供电源预设、手柄模拟与游戏兼容性微调。尽管系统目前处于实验开发阶段，且安装时需刷入定制 ABL 引导，但已在AYN Odin 2以及AYANEO Pocket EVO等设备上成功测试。——Armada OS 项目地址",
-      "clean_text": "在你的安卓掌机上运行类 SteamOS 系统Armada OS是一款专为高通骁龙高性能安卓掌机打造的开源、类 SteamOS 的 Linux 发行版。该系统底层基于 Fedora Bootc 以及 Bazzite 深度构建，并融合了 ROCKNIX 的底层硬件适配方案。其核心机制在于原生集成 ARM64 版 Steam，并通过FEX翻译层与 Proton 11 兼容层，使用户能直接在ARM架构上运行 x86 架构的 PC 游戏。​系统配备了专属的 Armada Control 控制面板，提供电源预设、手柄模拟与游戏兼容性微调。尽管系统目前处于实验开发阶段，且安装时需刷入定制 ABL 引导，但已在AYN Odin 2以及AYANEO Pocket EVO等设备上成功测试。——Armada OS 项目地址",
-      "datetime": "2026-07-11T08:18:14+00:00",
-      "views": "1.64K",
-      "source_links": [
-        {
-          "text": "Armada OS 项目地址",
-          "url": "https://github.com/virtudude/armada"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30733",
-      "scraped_at": "2026-07-11T17:01:40.822787",
-      "title": "在你",
-      "title_options": {
-        "conclusion": "在你",
-        "attractive": "在你",
-        "minimal": "在你",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -795,6 +772,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-12T20:13:50.230451"
+  "count": 30,
+  "updated_at": "2026-07-12T20:18:57.126862"
 }
