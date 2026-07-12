@@ -715,24 +715,6 @@
       }
     },
     {
-      "id": "zaihuapd_42494",
-      "channel": "zaihuapd",
-      "text": "OpenAI Codex 额度重置现在可“存起来”稍后使用  OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。  此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。  OpenAI(1, 2) · 备用频道…",
-      "clean_text": "🤖OpenAI Codex 额度重置现在可“存起来”稍后使用  OpenAI 宣布，从今天起，Codex 用户可以将额度重置（rate limit reset）次数保存下来，自主选择何时使用，不再受固定刷新时间限制。Go、Plus、Pro 和 Business 用户将首先获得 1 次免费可储存的重置次数。  此外，在未来两周内，Plus 和 Pro 用户每成功邀请 1 位好友首次使用 Codex，双方都能额外获得 1 次重置次数，最多可邀请 3 人。  OpenAI(1, 2) · 备用频道…",
-      "datetime": "2026-07-11T10:33:06+00:00",
-      "views": "49.9K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42494",
-      "scraped_at": "2026-07-11T19:01:16.709909",
-      "title": "OpenAI Codex 额度重置现在…",
-      "title_options": {
-        "conclusion": "OpenAI Codex 额度重置现在…",
-        "attractive": "OpenAI Codex 额度重置现在…",
-        "minimal": "OpenAI Codex 额度重置现在…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -795,6 +777,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-12T22:31:00.781772"
+  "count": 30,
+  "updated_at": "2026-07-12T22:36:05.269417"
 }
