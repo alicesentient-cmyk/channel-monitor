@@ -1,6 +1,29 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30745",
+      "channel": "xhqcankao",
+      "text": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现的内容，这是其最受欢迎的每周播放列表之一。这些新选项允许你将播放列表缩小到特定流派，聚焦于对你来说新的艺人等等。听众可以从最多五个选项中进行选择，例如“发现新艺人”、“编辑精选”和“流行”。该功能现在正在移动端和桌面端应用中逐步推出，一旦可用，将出现在你的 Release Radar 播放列表顶部。Spotify还表示，正在对算法进行调整，以提供 “更加个性化的推荐”，同时采用包含更新封面和标题图艺术的新外观。",
+      "clean_text": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现的内容，这是其最受欢迎的每周播放列表之一。这些新选项允许你将播放列表缩小到特定流派，聚焦于对你来说新的艺人等等。听众可以从最多五个选项中进行选择，例如“发现新艺人”、“编辑精选”和“流行”。该功能现在正在移动端和桌面端应用中逐步推出，一旦可用，将出现在你的 Release Radar 播放列表顶部。Spotify还表示，正在对算法进行调整，以提供 “更加个性化的推荐”，同时采用包含更新封面和标题图艺术的新外观。——Theverge",
+      "datetime": "2026-07-12T12:30:21+00:00",
+      "views": "1.34K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30745",
+      "scraped_at": "2026-07-12T21:01:43.958817",
+      "title": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
+      "title_options": {
+        "conclusion": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
+        "attractive": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
+        "minimal": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30744",
       "channel": "xhqcankao",
       "text": "中疾控：6月新增新冠确诊7.9万例中国疾控中心官网近日发布全国新型冠状病毒感染疫情情况。2026年6月，中国全国报告新增确诊病例7.9万例，其中重症病例130例、死亡病例一例，报告病例数总体呈上升趋势。在哨点医院中，第23周至第26周门急诊流感样病例新冠病毒阳性率连续上升，分别为2.9%、4.1%、5.3%、6.4%。本土病例病毒变异监测显示，6月共报送3741例本土病例新冠病毒基因组有效序列，均为奥密克戎变异株。优势流行株为NB.1.8.1及其亚分支，现有证据未提示出现可能构成额外公共卫生风险的新变异株。",
@@ -741,6 +764,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-07-12T20:59:33.446514"
+  "count": 30,
+  "updated_at": "2026-07-12T21:04:39.007366"
 }
