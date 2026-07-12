@@ -709,37 +709,6 @@
       }
     },
     {
-      "id": "zaihuapd_42500",
-      "channel": "zaihuapd",
-      "text": "Google 反对欧洲网站屏蔽，美国国内同类立法却加速推进Google 近日向欧盟委员会提交文件，明确反对扩大网站屏蔽措施，称屏蔽 DNS 解析器、IP 地址和 VPN 的做法无效且不成比例，反而频繁误伤合法服务。文件举例称，意大利的反盗版系统曾误封 Google Drive 子域名，以及托管 4200 万域名的 Cloudflare IP 地址。几乎同时，美国国会推进同类反盗版立法的势头正在加强。众议院知识产权小组委员会主席 Issa 计划推动网站屏蔽法案，议员 Lofgren 也确认正谈判跨党派协议。Google 尚未对美国计划公开表态，但其在欧盟文件中主张，解决盗版应靠提供更好的合法替代服务，而非扩大屏蔽。Torrentfreak·茶馆水群·",
-      "clean_text": "Google 反对欧洲网站屏蔽，美国国内同类立法却加速推进Google 近日向欧盟委员会提交文件，明确反对扩大网站屏蔽措施，称屏蔽 DNS 解析器、IP 地址和 VPN 的做法无效且不成比例，反而频繁误伤合法服务。文件举例称，意大利的反盗版系统曾误封 Google Drive 子域名，以及托管 4200 万域名的 Cloudflare IP 地址。几乎同时，美国国会推进同类反盗版立法的势头正在加强。众议院知识产权小组委员会主席 Issa 计划推动网站屏蔽法案，议员 Lofgren 也确认正谈判跨党派协议。Google 尚未对美国计划公开表态，但其在欧盟文件中主张，解决盗版应靠提供更好的合法替代服务，而非扩大屏蔽。Torrentfreak·茶馆水群",
-      "datetime": "2026-07-11T15:10:36+00:00",
-      "views": "51.6K",
-      "source_links": [
-        {
-          "text": "Torrentfreak",
-          "url": "https://torrentfreak.com/google-opposes-site-blocking-in-europe-as-u-s-piracy-blocking-plans-gain-momentum/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42500",
-      "scraped_at": "2026-07-12T00:07:56.277036",
-      "title": "Google 反对欧洲网站屏蔽，美国国内同类立法却加速推进Google 近日向欧盟委员会提交文件，明确反对扩大网站屏蔽措施，称屏蔽 DNS 解析器、IP 地址和 VPN ",
-      "title_options": {
-        "conclusion": "Google 反对欧洲网站屏蔽，美国国内同类立法却加速推进Google 近日向欧盟委员会提交文件，明确反对扩大网站屏蔽措施，称屏蔽 DNS 解析器、IP 地址和 VPN ",
-        "attractive": "Google 反对欧洲网站屏蔽，美国国内同类立法却加速推进Google 近日向欧盟委员会提交文件，明确反对扩大网站屏蔽措施，称屏蔽 DNS 解析器、IP 地址和 VPN ",
-        "minimal": "Google 反对欧洲网站屏蔽，美国国内同类立法却加速推进Google 近日向欧盟委员会提交文件，明确反对扩大网站屏蔽措施，称屏蔽 DNS 解析器、IP 地址和 VPN ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -802,6 +771,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-13T03:10:19.322739"
+  "count": 29,
+  "updated_at": "2026-07-13T03:10:58.823031"
 }
