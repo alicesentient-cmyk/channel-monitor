@@ -733,29 +733,6 @@
       }
     },
     {
-      "id": "xhqcankao_30732",
-      "channel": "xhqcankao",
-      "text": "Rapidus将提供比台积电更低的晶圆价格日本芯片制造商Rapidus首席执行官小池敦义本周宣布，公司将尝试从台积电手中抢夺客户，不仅提供不同的服务，还将以更低的价格提供制造服务。目前，Rapidus计划采用其2nm工艺加工每片晶圆的定价在300万至350万日元（约合18,550至21,635美元）之间，远低于传闻中台积电N2工艺每片晶圆约3万美元的报价，与传闻中三星SF2工艺每片晶圆2万美元的报价相当。Rapidus计划于2027年下半年开始使用其2nm级制造技术进行量产。新晶圆厂的投产需要一些时间，因此预计Rapidus要到2028年才能实现有意义的产量，届时台积电的N2将不再是其领先的制程节点。——Tom's Hardware",
-      "clean_text": "Rapidus将提供比台积电更低的晶圆价格日本芯片制造商Rapidus首席执行官小池敦义本周宣布，公司将尝试从台积电手中抢夺客户，不仅提供不同的服务，还将以更低的价格提供制造服务。目前，Rapidus计划采用其2nm工艺加工每片晶圆的定价在300万至350万日元（约合18,550至21,635美元）之间，远低于传闻中台积电N2工艺每片晶圆约3万美元的报价，与传闻中三星SF2工艺每片晶圆2万美元的报价相当。Rapidus计划于2027年下半年开始使用其2nm级制造技术进行量产。新晶圆厂的投产需要一些时间，因此预计Rapidus要到2028年才能实现有意义的产量，届时台积电的N2将不再是其领先的制程节点。——Tom's Hardware",
-      "datetime": "2026-07-11T08:03:50+00:00",
-      "views": "1.81K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30732",
-      "scraped_at": "2026-07-11T17:01:40.822419",
-      "title": "Rapidus将提供比台积电更低",
-      "title_options": {
-        "conclusion": "Rapidus将提供比台积电更低",
-        "attractive": "Rapidus将提供比台积电更低",
-        "minimal": "Rapidus将提供比台积电更低",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -818,6 +795,6 @@
       }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-07-12T20:03:40.717639"
+  "count": 31,
+  "updated_at": "2026-07-12T20:08:46.756687"
 }
