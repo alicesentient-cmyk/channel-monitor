@@ -968,33 +968,6 @@
       }
     },
     {
-      "id": "xhqcankao_30718",
-      "channel": "xhqcankao",
-      "text": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计的伤害，欧盟正因此升级调查，该公司可能面临巨额罚款。欧盟委员会周五发布初步调查结果，认定Meta违反了欧盟具有里程碑意义的《数字服务法》。该法要求全球最大在线平台评估并降低风险。委员会写道：“证据还表明，Meta目前的缓解措施未能有效应对其成瘾性设计带来的风险。例如， Instagram 和脸书的时间管理工具，包括那些默认为青少年启用的工具，很容易被关闭，并不能真正减少和控制用户对服务的使用。”如果该调查结果得到确认，Meta旗下每个平台可能面临最高相当于其全球营收6%的罚款。",
-      "clean_text": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计的伤害，欧盟正因此升级调查，该公司可能面临巨额罚款。欧盟委员会周五发布初步调查结果，认定Meta违反了欧盟具有里程碑意义的《数字服务法》。该法要求全球最大在线平台评估并降低风险。委员会写道：“证据还表明，Meta目前的缓解措施未能有效应对其成瘾性设计带来的风险。例如， Instagram 和脸书的时间管理工具，包括那些默认为青少年启用的工具，很容易被关闭，并不能真正减少和控制用户对服务的使用。”如果该调查结果得到确认，Meta旗下每个平台可能面临最高相当于其全球营收6%的罚款。——财联社、Techcrunch",
-      "datetime": "2026-07-10T23:29:28+00:00",
-      "views": "585",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2423053?&amp;sv=8.5.9&amp;"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30718",
-      "scraped_at": "2026-07-11T08:02:30.422758",
-      "title": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
-      "title_options": {
-        "conclusion": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
-        "attractive": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
-        "minimal": "欧盟升级对Meta调查 旗下平台或面临罚款当地时间周五，欧盟称Meta未能充分保护用户免受Instagram和Facebook成瘾性设计",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -1057,6 +1030,6 @@
       }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-07-12T11:26:11.495915"
+  "count": 40,
+  "updated_at": "2026-07-12T11:31:14.732812"
 }
