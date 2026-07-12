@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42519",
+      "channel": "zaihuapd",
+      "text": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划的 5 小时使用量限制。与此同时，GPT 5.6 Sol 模型全面优化，执行相同任务消耗的额度将减少，具体影响后续量化公布。平台活跃用户已突破 600 万，接下来一小时内将进行一次使用量重置。Tibo·茶馆水群·",
+      "clean_text": "🤖Codex 和 ChatGPT Work 暂时取消 5 小时使用限制ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划的 5 小时使用量限制。与此同时，GPT 5.6 Sol 模型全面优化，执行相同任务消耗的额度将减少，具体影响后续量化公布。平台活跃用户已突破 600 万，接下来一小时内将进行一次使用量重置。Tibo·茶馆水群",
+      "datetime": "2026-07-12T18:26:28+00:00",
+      "views": "48.4K",
+      "source_links": [
+        {
+          "text": "Tibo",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42519",
+      "scraped_at": "2026-07-13T03:02:41.236672",
+      "title": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+      "title_options": {
+        "conclusion": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+        "attractive": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+        "minimal": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42518",
       "channel": "zaihuapd",
       "text": "Claude Fable 5 访问延长至 7 月 19 日Claude Fable 5 将继续向所有付费套餐开放至 7 月 19 日。与此同时，Claude Code 的每周速率限制将在此期间维持高出 50% 的水平。x.com·茶馆水群·",
@@ -771,6 +802,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-07-13T03:00:11.719319"
+  "count": 30,
+  "updated_at": "2026-07-13T03:05:15.119467"
 }
