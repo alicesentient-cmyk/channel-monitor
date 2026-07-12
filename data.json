@@ -727,24 +727,6 @@
       }
     },
     {
-      "id": "zaihuapd_42496",
-      "channel": "zaihuapd",
-      "text": "微信 ClawBot 聊天界面适配 Markdown 语法消息渲染｜｜",
-      "clean_text": "微信 ClawBot 聊天界面适配 Markdown 语法消息渲染｜茶馆讨论｜投稿通道",
-      "datetime": "2026-07-11T13:04:46+00:00",
-      "views": "51.1K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42496",
-      "scraped_at": "2026-07-11T22:02:01.853210",
-      "title": "微信 ClawBot 聊天界面适配 M…",
-      "title_options": {
-        "conclusion": "微信 ClawBot 聊天界面适配 M…",
-        "attractive": "微信 ClawBot 聊天界面适配 M…",
-        "minimal": "微信 ClawBot 聊天界面适配 M…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -807,6 +789,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-13T01:03:38.765331"
+  "count": 30,
+  "updated_at": "2026-07-13T01:08:42.708313"
 }
