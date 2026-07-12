@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42505",
+      "channel": "zaihuapd",
+      "text": "研究员称 xAI Grok CLI 默认上传整个代码库及密钥文件安全研究人员对 xAI 官方编程命令行工具 Grok Build（版本 0.2.93）进行抓包分析，发现该工具默认通过两个渠道向 xAI 服务器传输代码。其一，工具读取的任何文件（包括 .env 等密钥文件）内容会被原样嵌入模型对话请求，同时打包上传至 Google Cloud Storage 存储桶。其二，无论提示词是否要求读取，整个代码仓库会以 git bundle 形式上传；实验中一个被明确指令“不要打开”的文件，其内容仍可在上传压缩包中完整恢复。关闭设置中的“改进模型”开关无法阻止上传，服务器端仍返回上传已启用的状态。在 12 GB 仓库测试中，超过 5 GiB 数据成功上传且无存储端拒绝。研究者强调仅证明了数据传输与存储行为，未证明 xAI 使用这些数据进行模型训练。Gist|Reddit·茶馆水群·",
+      "clean_text": "🤖研究员称 xAI Grok CLI 默认上传整个代码库及密钥文件安全研究人员对 xAI 官方编程命令行工具 Grok Build（版本 0.2.93）进行抓包分析，发现该工具默认通过两个渠道向 xAI 服务器传输代码。其一，工具读取的任何文件（包括 .env 等密钥文件）内容会被原样嵌入模型对话请求，同时打包上传至 Google Cloud Storage 存储桶。其二，无论提示词是否要求读取，整个代码仓库会以 git bundle 形式上传；实验中一个被明确指令“不要打开”的文件，其内容仍可在上传压缩包中完整恢复。关闭设置中的“改进模型”开关无法阻止上传，服务器端仍返回上传已启用的状态。在 12 GB 仓库测试中，超过 5 GiB 数据成功上传且无存储端拒绝。研究者强调仅证明了数据传输与存储行为，未证明 xAI 使用这些数据进行模型训练。Gist|Reddit·茶馆水群",
+      "datetime": "2026-07-12T04:19:06+00:00",
+      "views": "50.7K",
+      "source_links": [
+        {
+          "text": "Gist",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
+        },
+        {
+          "text": "Reddit",
+          "url": "https://www.reddit.com/r/LocalLLaMA/s/O8iHxwPmP5"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42505",
+      "scraped_at": "2026-07-12T13:01:01.198034",
+      "title": "研究员称 xAI Grok CLI 默…",
+      "title_options": {
+        "conclusion": "研究员称 xAI Grok CLI 默…",
+        "attractive": "研究员称 xAI Grok CLI 默…",
+        "minimal": "研究员称 xAI Grok CLI 默…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42504",
       "channel": "zaihuapd",
       "text": "GPT-5.6 一小时完成 50 年图论猜想证明GPT-5.6 Sol Ultra 在不到 1 小时内完成了存在约半个世纪的循环双覆盖猜想证明，并生成一份 3 页 PDF。该猜想针对无桥图，要求用一批圈让每条边恰好被覆盖两次。模型通过 64 个子 agent 并行处理，将问题转化为有限域上的边标号和线性方程组问题：为每条边配置两个标签，使相同标签的边组成圈。OpenAI 同时公布了约 700 个英文字符的完整 Prompt。它不规定固定解题步骤，而是明确验收标准、定义、边界条件和失败情形，并要求动态分配子 agent、设置独立审查，检查证明是否偷换定义或遗漏情况。量子位·茶馆水群·",
@@ -976,6 +1011,6 @@
       }
     }
   ],
-  "count": 38,
-  "updated_at": "2026-07-12T12:57:15.416854"
+  "count": 39,
+  "updated_at": "2026-07-12T13:02:19.186727"
 }
