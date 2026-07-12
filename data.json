@@ -737,33 +737,6 @@
       }
     },
     {
-      "id": "zaihuapd_42495",
-      "channel": "zaihuapd",
-      "text": "Telegram Beta 版推出文章消息，支持表格与数学公式Telegram 向 Premium 订阅用户开放 Beta 版文章消息功能，用户可通过全屏编辑器发送富文本消息。该功能支持标题样式、表格、数学公式、代码块、折叠引用、幻灯片等多种格式，此前仅在测试服务器运行，现已在主服务器上线。目前该编辑器仅限 Android 与 iOS 测试版 12.9 及桌面端测试版 6.9.4 使用。在手机端，用户可通过附件菜单中的“文章”选项，或点击发送按钮上方的箭头图标进入编辑器。iOS 测试版当前不再接受新测试者。Telegram·茶馆水群·",
-      "clean_text": "Telegram Beta 版推出文章消息，支持表格与数学公式Telegram 向 Premium 订阅用户开放 Beta 版文章消息功能，用户可通过全屏编辑器发送富文本消息。该功能支持标题样式、表格、数学公式、代码块、折叠引用、幻灯片等多种格式，此前仅在测试服务器运行，现已在主服务器上线。目前该编辑器仅限 Android 与 iOS 测试版 12.9 及桌面端测试版 6.9.4 使用。在手机端，用户可通过附件菜单中的“文章”选项，或点击发送按钮上方的箭头图标进入编辑器。iOS 测试版当前不再接受新测试者。Telegram·茶馆水群",
-      "datetime": "2026-07-11T12:29:41+00:00",
-      "views": "50.2K",
-      "source_links": [
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42495",
-      "scraped_at": "2026-07-11T21:01:02.835103",
-      "title": "Telegram Beta 版推出文章…",
-      "title_options": {
-        "conclusion": "Telegram Beta 版推出文章…",
-        "attractive": "Telegram Beta 版推出文章…",
-        "minimal": "Telegram Beta 版推出文章…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42469",
       "channel": "zaihuapd",
       "text": "长征十号乙完成一子级海上回收，为全球首次网系回收7 月 10 日，长征十号乙运载火箭从海南商业航天发射场升空。火箭一、二级分离约 6 分钟后，一子级垂直返回并在海上回收平台成功回收。这是中国首次成功实施运载火箭一子级可控回收，也是全球首次完成运载火箭网系回收。空天逐梦·茶馆水群·",
@@ -826,6 +799,6 @@
       }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-07-13T00:27:55.490063"
+  "count": 31,
+  "updated_at": "2026-07-13T00:33:00.210070"
 }
