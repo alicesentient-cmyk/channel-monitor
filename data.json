@@ -1,6 +1,68 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30751",
+      "channel": "xhqcankao",
+      "text": "苹果造车失败 但却孕育出了强大AI芯片苹果公司在自动驾驶平台研发早期，就意识到需要强大的设备端AI处理能力。虽然这款汽车处理器最终未能完成，但它确实推动了神经引擎的开发，而这一引擎正是苹果设备端AI处理能力的基石。苹果的神经引擎首次亮相于iPhone X和A11仿生芯片。在早期阶段，它主要用于计算机视觉，为FaceID、动话表情和增强现实功能提供支持，但它也为设备端AI处理奠定了基础。苹果通过将神经网络引擎搭载M系列芯片的Mac电脑，确立了自己的早期领先地位。据悉，苹果将不再推出M6芯片的Pro、Max和Ultra版本，转而加速开发M7芯片。M7预计将在2027年上半年面世，并带来神经引擎的重大升级。",
+      "clean_text": "苹果造车失败 但却孕育出了强大AI芯片苹果公司在自动驾驶平台研发早期，就意识到需要强大的设备端AI处理能力。虽然这款汽车处理器最终未能完成，但它确实推动了神经引擎的开发，而这一引擎正是苹果设备端AI处理能力的基石。苹果的神经引擎首次亮相于iPhone X和A11仿生芯片。在早期阶段，它主要用于计算机视觉，为FaceID、动话表情和增强现实功能提供支持，但它也为设备端AI处理奠定了基础。苹果通过将神经网络引擎搭载M系列芯片的Mac电脑，确立了自己的早期领先地位。据悉，苹果将不再推出M6芯片的Pro、Max和Ultra版本，转而加速开发M7芯片。M7预计将在2027年上半年面世，并带来神经引擎的重大升级。——凤凰网科技、彭博社",
+      "datetime": "2026-07-13T01:36:17+00:00",
+      "views": "1.29K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006qeMdr--7RKCpBeQQL15Dv9FKZRC8kF-_n4WLVeV-_z9DBJa46Yg1Y-_0KCpFGpQhc72n"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30751",
+      "scraped_at": "2026-07-13T10:02:32.094598",
+      "title": "苹果造车失败 但却孕育出了强大AI芯片苹果公司在自动驾驶平台研发早期，就意识到需要强大",
+      "title_options": {
+        "conclusion": "苹果造车失败 但却孕育出了强大AI芯片苹果公司在自动驾驶平台研发早期，就意识到需要强大",
+        "attractive": "苹果造车失败 但却孕育出了强大AI芯片苹果公司在自动驾驶平台研发早期，就意识到需要强大",
+        "minimal": "苹果造车失败 但却孕育出了强大AI芯片苹果公司在自动驾驶平台研发早期，就意识到需要强大",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42521",
+      "channel": "zaihuapd",
+      "text": "Cursor 开发 AI 代理“Sand”挑战 Claude CoworkCursor 正在秘密开发一款内部代号“Sand”的通用 AI 代理，直接与 Anthropic 的 Claude Cowork 和 OpenAI 的 ChatGPT Work 竞争。知情人士称，该代理可处理邮件回复、电子表格整理、工程任务等多步骤工作，目标是将用户群从开发者扩展至更广泛的企业用户。这一项目标志着 Cursor 正试图突破代码编辑器定位，向通用 AI 助手领域多元化发展。目前该产品尚未正式发布。The Information|PYMNTS·茶馆水群·",
+      "clean_text": "Cursor 开发 AI 代理“Sand”挑战 Claude CoworkCursor 正在秘密开发一款内部代号“Sand”的通用 AI 代理，直接与 Anthropic 的 Claude Cowork 和 OpenAI 的 ChatGPT Work 竞争。知情人士称，该代理可处理邮件回复、电子表格整理、工程任务等多步骤工作，目标是将用户群从开发者扩展至更广泛的企业用户。这一项目标志着 Cursor 正试图突破代码编辑器定位，向通用 AI 助手领域多元化发展。目前该产品尚未正式发布。The Information|PYMNTS·茶馆水群",
+      "datetime": "2026-07-13T01:34:06+00:00",
+      "views": "49.6K",
+      "source_links": [
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/articles/cursor-developing-ai-agent-compete-claude-cowork"
+        },
+        {
+          "text": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cursor-prepares-workplace-ai-agent-to-challenge-claude-cowork-and-chatgpt-work/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42521",
+      "scraped_at": "2026-07-13T10:02:29.984767",
+      "title": "Cursor 开发 AI 代理“Sand”挑战 Claude CoworkCursor 正在秘密开发一款内部代号“Sand”",
+      "title_options": {
+        "conclusion": "Cursor 开发 AI 代理“Sand”挑战 Claude CoworkCursor 正在秘密开发一款内部代号“Sand”",
+        "attractive": "Cursor 开发 AI 代理“Sand”挑战 Claude CoworkCursor 正在秘密开发一款内部代号“Sand”",
+        "minimal": "Cursor 开发 AI 代理“Sand”挑战 Claude CoworkCursor 正在秘密开发一款内部代号“Sand”",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30750",
       "channel": "xhqcankao",
       "text": "北京密云一副局长自购10亿token “手搓”防汛App今年汛期，北京市规划和自然资源委员会密云分局副局长谢陨石发挥编程特长，自购10亿 token 、花近一个月，自主编程了密云专属防灾App“叫应”。这套小程序把全区地灾隐患点、受威胁险户、包保人员全部收录，山体预警、雨情变化以及群众转移状态实时更新，想到隐患点查看还可直接跳转导航。他接受采访时展示了APP 各个页面：“可以直接查看各镇、各村的具体转移情况。还有一些台账的功能，比如今天想看的隐患点，咱们都有。”根据其个人博客，该小程序开发使用的是Anthropic 推出 Claude Code。",
@@ -889,6 +951,6 @@
       }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-07-13T09:59:27.422190"
+  "count": 35,
+  "updated_at": "2026-07-13T10:04:33.306885"
 }
