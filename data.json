@@ -1344,24 +1344,6 @@
       }
     },
     {
-      "id": "zaihuapd_42512",
-      "channel": "zaihuapd",
-      "text": "OpenAI 正式发布 GPT‑5.6 系列：旗舰 Sol 全面提升，性能成本比大幅优化  GPT-5.6 系列：Sol 负责最强能力，Terra 平衡性能与成本，Luna 面向高并发低成本场景；GPT-5.6 届时将默认指向 Sol。重点提升代码、知识工作、设计、科研和网络安全能力，并引入 max/ultra 推理、多智能体协作和 Programmatic Tool Calling，以更少 token、更低成本完成复杂任务。  ChatGPT Work：OpenAI 推出面向复杂工作的 ChatGPT…",
-      "clean_text": "🤖OpenAI 正式发布 GPT‑5.6 系列：旗舰 Sol 全面提升，性能成本比大幅优化  GPT-5.6 系列：Sol 负责最强能力，Terra 平衡性能与成本，Luna 面向高并发低成本场景；GPT-5.6 届时将默认指向 Sol。重点提升代码、知识工作、设计、科研和网络安全能力，并引入 max/ultra 推理、多智能体协作和 Programmatic Tool Calling，以更少 token、更低成本完成复杂任务。  ChatGPT Work：OpenAI 推出面向复杂工作的 ChatGPT…",
-      "datetime": "2026-07-12T11:19:13+00:00",
-      "views": "51K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42512",
-      "scraped_at": "2026-07-12T20:02:02.692606",
-      "title": "OpenAI 正式发布 GPT‑5.6…",
-      "title_options": {
-        "conclusion": "OpenAI 正式发布 GPT‑5.6…",
-        "attractive": "OpenAI 正式发布 GPT‑5.6…",
-        "minimal": "OpenAI 正式发布 GPT‑5.6…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42499",
       "channel": "zaihuapd",
       "text": "Claude Code 桌面版新增内置浏览器Claude Code 桌面版现已支持内置浏览器。用户可以让 Claude 直接在应用内打开文档、设计稿或任意网站，进行阅读、点击和交互，体验与操作本地开发服务器类似。该功能采用沙盒设计，用户还可以自行配置是否保留浏览会话。ClaudeDevs (@ClaudeDevs)·茶馆水群·",
@@ -1393,6 +1375,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-13T23:15:38.932586"
+  "count": 53,
+  "updated_at": "2026-07-13T23:20:43.678182"
 }
