@@ -1352,29 +1352,6 @@
       }
     },
     {
-      "id": "xhqcankao_30745",
-      "channel": "xhqcankao",
-      "text": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现的内容，这是其最受欢迎的每周播放列表之一。这些新选项允许你将播放列表缩小到特定流派，聚焦于对你来说新的艺人等等。听众可以从最多五个选项中进行选择，例如“发现新艺人”、“编辑精选”和“流行”。该功能现在正在移动端和桌面端应用中逐步推出，一旦可用，将出现在你的 Release Radar 播放列表顶部。Spotify还表示，正在对算法进行调整，以提供 “更加个性化的推荐”，同时采用包含更新封面和标题图艺术的新外观。",
-      "clean_text": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现的内容，这是其最受欢迎的每周播放列表之一。这些新选项允许你将播放列表缩小到特定流派，聚焦于对你来说新的艺人等等。听众可以从最多五个选项中进行选择，例如“发现新艺人”、“编辑精选”和“流行”。该功能现在正在移动端和桌面端应用中逐步推出，一旦可用，将出现在你的 Release Radar 播放列表顶部。Spotify还表示，正在对算法进行调整，以提供 “更加个性化的推荐”，同时采用包含更新封面和标题图艺术的新外观。——Theverge",
-      "datetime": "2026-07-12T12:30:21+00:00",
-      "views": "1.34K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30745",
-      "scraped_at": "2026-07-12T21:01:43.958817",
-      "title": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
-      "title_options": {
-        "conclusion": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
-        "attractive": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
-        "minimal": "Spotify将允许微调Release Radar播放列表音乐流媒体平台Spotify正在让听众获得控制权，以微调在 Release Radar 中为他们呈现",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42499",
       "channel": "zaihuapd",
       "text": "Claude Code 桌面版新增内置浏览器Claude Code 桌面版现已支持内置浏览器。用户可以让 Claude 直接在应用内打开文档、设计稿或任意网站，进行阅读、点击和交互，体验与操作本地开发服务器类似。该功能采用沙盒设计，用户还可以自行配置是否保留浏览会话。ClaudeDevs (@ClaudeDevs)·茶馆水群·",
@@ -1406,6 +1383,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-14T00:26:41.912364"
+  "count": 53,
+  "updated_at": "2026-07-14T00:31:49.721428"
 }
