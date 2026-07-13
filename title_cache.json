@@ -16834,5 +16834,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-13T14:02:25.320803"
+  },
+  "xhqcankao_30759": {
+    "ai_title": "微软CEO：模型开发商抱怨蒸馏是虚伪",
+    "title_options": {
+      "conclusion": "微软CEO：模型开发商抱怨蒸馏是虚伪",
+      "attractive": "微软CEO：模型开发商抱怨蒸馏是虚伪",
+      "minimal": "微软CEO：模型开发商抱怨蒸馏是虚伪",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-13T15:03:11.264180"
+  },
+  "xhqcankao_30758": {
+    "ai_title": "苹果同意让英特尔代工芯片换取了关税豁免去年夏天，正承受白宫施压",
+    "title_options": {
+      "conclusion": "苹果同意让英特尔代工芯片换取了关税豁免去年夏天，正承受白宫施压",
+      "attractive": "苹果同意让英特尔代工芯片换取了关税豁免去年夏天，正承受白宫施压",
+      "minimal": "苹果同意让英特尔代工芯片换取了关税豁免去年夏天，正承受白宫施压",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-13T15:03:11.275944"
+  },
+  "zaihuapd_42528": {
+    "ai_title": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制  ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+    "title_options": {
+      "conclusion": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制  ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+      "attractive": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制  ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+      "minimal": "Codex 和 ChatGPT Work 暂时取消 5 小时使用限制  ChatGPT 即日起临时取消 Plus、Business 和 Pro 计划",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-13T15:03:11.289283"
   }
 }
