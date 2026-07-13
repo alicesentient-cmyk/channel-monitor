@@ -1,6 +1,47 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42540",
+      "channel": "zaihuapd",
+      "text": "快连陪你走过上一个十年，FastUP 陪你开启下一个十年。自研客户端｜自研协议｜持续优化体验。中国境内五大中转数据中心，网络接入更稳定。每个节点部署数十台服务器集群，高负载下依然保持良好性能。不限速 · 不限流量，畅快使用。全球优质线路，低延迟、高可用。iOS 中国大陆 App Store 即可直接下载安装，无需海外 Apple ID。支持 Windows、macOS、Android、iOS 多平台，一键连接，简单易用。注册免费试用。不满意，不付费。邀请好友返利 20%，余额可提现、可续费。FastUP，立志打造全网最好用、最稳定的 VPN。频道下载地址本条内容为广告，广告文案内容均由广告商提供，请各位自行理性评估。广告合作@zaihua_ad_bot",
+      "clean_text": "🚀快连陪你走过上一个十年，FastUP 陪你开启下一个十年。🔥自研客户端｜自研协议｜持续优化体验。⚡️中国境内五大中转数据中心，网络接入更稳定。🖥每个节点部署数十台服务器集群，高负载下依然保持良好性能。🚀不限速 · 不限流量，畅快使用。🌍全球优质线路，低延迟、高可用。🍎iOS 中国大陆 App Store 即可直接下载安装，无需海外 Apple ID。📱支持 Windows、macOS、Android、iOS 多平台，一键连接，简单易用。🎁注册免费试用。💯不满意，不付费。💰邀请好友返利 20%，余额可提现、可续费。🏆FastUP，立志打造全网最好用、最稳定的 VPN。频道下载地址本条内容为广告，广告文案内容均由广告商提供，请各位自行理性评估。广告合作@zaihua_ad_bot",
+      "datetime": "2026-07-13T16:59:34+00:00",
+      "views": "3.7K",
+      "source_links": [
+        {
+          "text": "下载地址",
+          "url": "https://fastupapp.com/"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42540",
+      "scraped_at": "2026-07-14T01:00:42.988503",
+      "title": "快连陪你走过上一个十年，FastUP …",
+      "title_options": {
+        "conclusion": "快连陪你走过上一个十年，FastUP …",
+        "attractive": "快连陪你走过上一个十年，FastUP …",
+        "minimal": "快连陪你走过上一个十年，FastUP …",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42539",
+      "channel": "zaihuapd",
+      "text": "Grok Build CLI 凌晨紧急更新，关闭代码偷传  7 月 13 日凌晨， Grok 服务器端新增 disable_codebase_upload 字段并返回 true 以关闭上传。  Reddit  前情提要：研究员称 xAI Grok CLI 默认上传整个代码库及密钥文件 · 茶馆水群 ·",
+      "clean_text": "🤖Grok Build CLI 凌晨紧急更新，关闭代码偷传  7 月 13 日凌晨， Grok 服务器端新增 disable_codebase_upload 字段并返回 true 以关闭上传。  Reddit  前情提要：研究员称 xAI Grok CLI 默认上传整个代码库及密钥文件 · 茶馆水群 · 投稿通道",
+      "datetime": "2026-07-13T16:39:30+00:00",
+      "views": "48.6K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42539",
+      "scraped_at": "2026-07-14T01:00:42.987696",
+      "title": "Grok Build CLI 凌晨紧急…",
+      "title_options": {
+        "conclusion": "Grok Build CLI 凌晨紧急…",
+        "attractive": "Grok Build CLI 凌晨紧急…",
+        "minimal": "Grok Build CLI 凌晨紧急…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42538",
       "channel": "zaihuapd",
       "text": "苹果 Home AI 或需 2 TB iCloud+macOS 27 第三个开发者测试版的发布说明中显示，Apple Home 的 Apple Intelligence 自然语言总结功能可能需要用户订阅至少 2 TB 的 iCloud+ 套餐，该套餐同时解锁无限量 HomeKit 安全视频录像。如果不满足这一条件，用户只能继续使用基于设备端 AI 识别的旧版描述。AppleInsider·茶馆水群·",
@@ -1383,6 +1424,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-07-14T00:57:13.788391"
+  "count": 55,
+  "updated_at": "2026-07-14T01:02:17.604502"
 }
