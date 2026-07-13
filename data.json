@@ -1086,33 +1086,6 @@
       }
     },
     {
-      "id": "xhqcankao_30737",
-      "channel": "xhqcankao",
-      "text": "苹果与OpenAI反目始末：AI硬件野心之下，人才挖角如何演变为法律大战？当iPhone工程师刘畅跳槽加入 OpenAI 新成立的硬件部门时，苹果认为称，他带走的不只是多年积累的工作经验。根据苹果周五提起的诉讼，刘畅离职时还带走了一台未归还的公司配发MacBook、一段与一位继续分享内部信息的苹果员工的密切关系，及最关键的一点：他掌握了一个软件漏洞，借此可以持续访问苹果内部文件服务器。“哈哈，我发现我还能访问(网络存储)，太搞笑了。”刘畅在发给前苹果同事彭玉婷的信息中写道。苹果公司指控称，刘畅随后利用该访问权限下载了演示文稿、硬件设计、制造细节和测试流程。几个月后，即当年四月，彭玉婷也离职加入了OpenAI不断壮大的硬件部门。",
-      "clean_text": "苹果与OpenAI反目始末：AI硬件野心之下，人才挖角如何演变为法律大战？当iPhone工程师刘畅跳槽加入 OpenAI 新成立的硬件部门时，苹果认为称，他带走的不只是多年积累的工作经验。根据苹果周五提起的诉讼，刘畅离职时还带走了一台未归还的公司配发MacBook、一段与一位继续分享内部信息的苹果员工的密切关系，及最关键的一点：他掌握了一个软件漏洞，借此可以持续访问苹果内部文件服务器。“哈哈，我发现我还能访问(网络存储)，太搞笑了。”刘畅在发给前苹果同事彭玉婷的信息中写道。苹果公司指控称，刘畅随后利用该访问权限下载了演示文稿、硬件设计、制造细节和测试流程。几个月后，即当年四月，彭玉婷也离职加入了OpenAI不断壮大的硬件部门。——凤凰网科技、彭博社（详情请看原文）",
-      "datetime": "2026-07-12T01:18:41+00:00",
-      "views": "1.28K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006nTDY41kfNzPKS--wW7XRVGauwvpa11IK6DX92T5nSK9R--3ZhmVd2yFbjdI--600ySd"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30737",
-      "scraped_at": "2026-07-12T10:02:14.328350",
-      "title": "苹果与OpenAI反目始末：AI硬件野…",
-      "title_options": {
-        "conclusion": "苹果与OpenAI反目始末：AI硬件野…",
-        "attractive": "苹果与OpenAI反目始末：AI硬件野…",
-        "minimal": "苹果与OpenAI反目始末：AI硬件野…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42499",
       "channel": "zaihuapd",
       "text": "Claude Code 桌面版新增内置浏览器Claude Code 桌面版现已支持内置浏览器。用户可以让 Claude 直接在应用内打开文档、设计稿或任意网站，进行阅读、点击和交互，体验与操作本地开发服务器类似。该功能采用沙盒设计，用户还可以自行配置是否保留浏览会话。ClaudeDevs (@ClaudeDevs)·茶馆水群·",
@@ -1144,6 +1117,6 @@
       }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-07-13T13:16:52.547120"
+  "count": 41,
+  "updated_at": "2026-07-13T13:21:56.456156"
 }
