@@ -1282,37 +1282,6 @@
       }
     },
     {
-      "id": "zaihuapd_42517",
-      "channel": "zaihuapd",
-      "text": "欧盟电池法规或迫使苹果在 2027 年初升级 Apple Pencil欧盟要求消费电子产品在 2027 年前配备易于更换的电池，这可能迫使苹果重新设计 Apple Pencil。据彭博社消息，苹果预计将在 2027 年初发布新款 Apple Pencil Pro 和 USB-C 版 Apple Pencil，时间节点与传闻中的 M6 iPad Pro 更新一致。目前 Apple Pencil 内部充满胶水，几乎无法维修。由于 USB-C 版本已经采用滑动机制，它可能更容易改造以容纳可更换电池，但苹果如何调整一体成型的 Apple Pencil Pro 尚不清楚。新规未涉及具体新功能，此次升级可能主要围绕电池设计展开。AppleInsider·茶馆水群·",
-      "clean_text": "欧盟电池法规或迫使苹果在 2027 年初升级 Apple Pencil欧盟要求消费电子产品在 2027 年前配备易于更换的电池，这可能迫使苹果重新设计 Apple Pencil。据彭博社消息，苹果预计将在 2027 年初发布新款 Apple Pencil Pro 和 USB-C 版 Apple Pencil，时间节点与传闻中的 M6 iPad Pro 更新一致。目前 Apple Pencil 内部充满胶水，几乎无法维修。由于 USB-C 版本已经采用滑动机制，它可能更容易改造以容纳可更换电池，但苹果如何调整一体成型的 Apple Pencil Pro 尚不清楚。新规未涉及具体新功能，此次升级可能主要围绕电池设计展开。AppleInsider·茶馆水群",
-      "datetime": "2026-07-12T16:13:44+00:00",
-      "views": "49.8K",
-      "source_links": [
-        {
-          "text": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/07/12/eu-regulations-could-force-an-apple-pencil-upgrade-in-early-2027"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42517",
-      "scraped_at": "2026-07-13T01:00:54.989384",
-      "title": "欧盟电池法规或迫使苹果在 2027 年初升级 Apple Pencil欧盟要求消费电子产品在 2027 年前配备易于更换",
-      "title_options": {
-        "conclusion": "欧盟电池法规或迫使苹果在 2027 年初升级 Apple Pencil欧盟要求消费电子产品在 2027 年前配备易于更换",
-        "attractive": "欧盟电池法规或迫使苹果在 2027 年初升级 Apple Pencil欧盟要求消费电子产品在 2027 年前配备易于更换",
-        "minimal": "欧盟电池法规或迫使苹果在 2027 年初升级 Apple Pencil欧盟要求消费电子产品在 2027 年前配备易于更换",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42499",
       "channel": "zaihuapd",
       "text": "Claude Code 桌面版新增内置浏览器Claude Code 桌面版现已支持内置浏览器。用户可以让 Claude 直接在应用内打开文档、设计稿或任意网站，进行阅读、点击和交互，体验与操作本地开发服务器类似。该功能采用沙盒设计，用户还可以自行配置是否保留浏览会话。ClaudeDevs (@ClaudeDevs)·茶馆水群·",
@@ -1344,6 +1313,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-14T04:10:46.833335"
+  "count": 51,
+  "updated_at": "2026-07-14T04:14:26.883697"
 }
