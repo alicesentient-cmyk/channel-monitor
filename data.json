@@ -1172,39 +1172,8 @@
         "minimal": "Grok Build CLI 凌晨紧急…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42538",
-      "channel": "zaihuapd",
-      "text": "苹果 Home AI 或需 2 TB iCloud+macOS 27 第三个开发者测试版的发布说明中显示，Apple Home 的 Apple Intelligence 自然语言总结功能可能需要用户订阅至少 2 TB 的 iCloud+ 套餐，该套餐同时解锁无限量 HomeKit 安全视频录像。如果不满足这一条件，用户只能继续使用基于设备端 AI 识别的旧版描述。AppleInsider·茶馆水群·",
-      "clean_text": "苹果 Home AI 或需 2 TB iCloud+macOS 27 第三个开发者测试版的发布说明中显示，Apple Home 的 Apple Intelligence 自然语言总结功能可能需要用户订阅至少 2 TB 的 iCloud+ 套餐，该套餐同时解锁无限量 HomeKit 安全视频录像。如果不满足这一条件，用户只能继续使用基于设备端 AI 识别的旧版描述。AppleInsider·茶馆水群",
-      "datetime": "2026-07-13T16:04:16+00:00",
-      "views": "21.1K",
-      "source_links": [
-        {
-          "text": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/07/13/channel-master-floodlight-pro-review-listener-question-roundup-on-the-smart-home-insider-podcast"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42538",
-      "scraped_at": "2026-07-14T00:08:25.197650",
-      "title": "苹果 Home AI 或需 2 TB iCloud+macOS 27 第三个开发者测试版",
-      "title_options": {
-        "conclusion": "苹果 Home AI 或需 2 TB iCloud+macOS 27 第三个开发者测试版",
-        "attractive": "苹果 Home AI 或需 2 TB iCloud+macOS 27 第三个开发者测试版",
-        "minimal": "苹果 Home AI 或需 2 TB iCloud+macOS 27 第三个开发者测试版",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-07-15T04:03:31.199501"
+  "count": 46,
+  "updated_at": "2026-07-15T04:08:34.998517"
 }
