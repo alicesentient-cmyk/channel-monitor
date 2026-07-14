@@ -1257,31 +1257,8 @@
         "minimal": "秋田大学企业发布实时共享熊出没信息",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30772",
-      "channel": "xhqcankao",
-      "text": "任天堂Switch 2 OLED版可能正在研发中任天堂公司最近宣布一款配备可更换电池的Switch 2将于今年秋季上市，但似乎该公司未来还考虑其他变体机型。任天堂也在评估为Switch 2推出新的 OLED 变体机型，这将把屏幕分辨率从初代 Switch OLED 的HD提升至FHD（1920 x 1080）。据悉，任天堂正在考虑为这款即将推出的Switch 2版本使用刚性OLED面板。为初代Switch OLED 供应面板的三星显示，也正在争取获得新款机型的合同。任天堂面临的主要障碍仍然是标准 LCD与OLED 面板间显著的价格差距。如果任天堂决定推进，产品开发将于今年年底启动，量产则定于2027年底或2028年初。",
-      "clean_text": "任天堂Switch 2 OLED版可能正在研发中任天堂公司最近宣布一款配备可更换电池的Switch 2将于今年秋季上市，但似乎该公司未来还考虑其他变体机型。任天堂也在评估为Switch 2推出新的 OLED 变体机型，这将把屏幕分辨率从初代 Switch OLED 的HD提升至FHD（1920 x 1080）。据悉，任天堂正在考虑为这款即将推出的Switch 2版本使用刚性OLED面板。为初代Switch OLED 供应面板的三星显示，也正在争取获得新款机型的合同。任天堂面临的主要障碍仍然是标准 LCD与OLED 面板间显著的价格差距。如果任天堂决定推进，产品开发将于今年年底启动，量产则定于2027年底或2028年初。——Androidauthority",
-      "datetime": "2026-07-13T14:44:39+00:00",
-      "views": "841",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/nintendo-switch-2-oled-leak-3686908/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30772",
-      "scraped_at": "2026-07-13T23:01:20.990624",
-      "title": "任天堂Switch 2 OLED版可能正在研发中任天堂公司最近宣布一款配备可更换电池",
-      "title_options": {
-        "conclusion": "任天堂Switch 2 OLED版可能正在研发中任天堂公司最近宣布一款配备可更换电池",
-        "attractive": "任天堂Switch 2 OLED版可能正在研发中任天堂公司最近宣布一款配备可更换电池",
-        "minimal": "任天堂Switch 2 OLED版可能正在研发中任天堂公司最近宣布一款配备可更换电池",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-15T02:42:41.081832"
+  "count": 49,
+  "updated_at": "2026-07-15T02:47:43.847023"
 }
