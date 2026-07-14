@@ -624,29 +624,6 @@
       }
     },
     {
-      "id": "xhqcankao_30760",
-      "channel": "xhqcankao",
-      "text": "Pixel系统BUG导致不断弹出“圈定即搜”窗口Android 17可能带来了许多有用的功能，但谷歌Pixel用户仍然在不断遇到一些令人恼火的怪毛病。就在用户抱怨稳定版发布后小部件消失的几周后，另一个奇怪的BUG浮出水面，这次涉及 “圈定即搜” 在不该出现的时候弹出来。该问题在Reddit上引起讨论，部分Pixel用户在关闭 WhatsApp、Telegram 应用后向上滑动返回主屏幕或打开最近应用界面时，“圈定即搜” 都会突然自行启动。谷歌尚未公开确认导致这一问题的原因。但谷歌Pixel手机支持团队的一名成员最近在Reddit论坛上回复称，谷歌已经联系部分受影响用户，以收集更多信息并进一步调查此BUG。",
-      "clean_text": "Pixel系统BUG导致不断弹出“圈定即搜”窗口Android 17可能带来了许多有用的功能，但谷歌Pixel用户仍然在不断遇到一些令人恼火的怪毛病。就在用户抱怨稳定版发布后小部件消失的几周后，另一个奇怪的BUG浮出水面，这次涉及 “圈定即搜” 在不该出现的时候弹出来。该问题在Reddit上引起讨论，部分Pixel用户在关闭 WhatsApp、Telegram 应用后向上滑动返回主屏幕或打开最近应用界面时，“圈定即搜” 都会突然自行启动。谷歌尚未公开确认导致这一问题的原因。但谷歌Pixel手机支持团队的一名成员最近在Reddit论坛上回复称，谷歌已经联系部分受影响用户，以收集更多信息并进一步调查此BUG。——Androidauthority",
-      "datetime": "2026-07-13T07:13:23+00:00",
-      "views": "2.23K",
-      "source_links": [
-        {
-          "text": "Androidauthority",
-          "url": "https://www.androidauthority.com/android-17-circle-to-search-bug-3686687/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30760",
-      "scraped_at": "2026-07-13T16:02:01.841339",
-      "title": "Pixel系统BUG导致不断弹出“圈定即搜”窗口Android 17可能带来了许多有用",
-      "title_options": {
-        "conclusion": "Pixel系统BUG导致不断弹出“圈定即搜”窗口Android 17可能带来了许多有用",
-        "attractive": "Pixel系统BUG导致不断弹出“圈定即搜”窗口Android 17可能带来了许多有用",
-        "minimal": "Pixel系统BUG导致不断弹出“圈定即搜”窗口Android 17可能带来了许多有用",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42499",
       "channel": "zaihuapd",
       "text": "Claude Code 桌面版新增内置浏览器Claude Code 桌面版现已支持内置浏览器。用户可以让 Claude 直接在应用内打开文档、设计稿或任意网站，进行阅读、点击和交互，体验与操作本地开发服务器类似。该功能采用沙盒设计，用户还可以自行配置是否保留浏览会话。ClaudeDevs (@ClaudeDevs)·茶馆水群·",
@@ -678,6 +655,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-07-14T19:10:57.358794"
+  "count": 26,
+  "updated_at": "2026-07-14T19:15:20.976456"
 }
