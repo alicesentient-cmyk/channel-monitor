@@ -973,37 +973,6 @@
       }
     },
     {
-      "id": "zaihuapd_42523",
-      "channel": "zaihuapd",
-      "text": "台积电打破惯例，Google 抢先苹果采用台积电 2纳米制程手机芯片台积电打破长期以来的苹果首发的惯例，Google 成为台积电 2 纳米手机芯片的首位客户。Google 已发出邀请函，将于美国时间 8 月 12 日举行新品发布会，推出 Pixel 11 系列，全系搭载由台积电 2 纳米打造的 Tensor G6 自研处理器，比苹果 iPhone 18 系列早约一个月亮相。苹果 iPhone 18 预计仍将在 9 月秋季发布会登场，搭载同为台积电 2 纳米制程的 A20 处理器。经济日报·茶馆水群·",
-      "clean_text": "🐶台积电打破惯例，Google 抢先苹果采用台积电 2纳米制程手机芯片台积电打破长期以来的苹果首发的惯例，Google 成为台积电 2 纳米手机芯片的首位客户。Google 已发出邀请函，将于美国时间 8 月 12 日举行新品发布会，推出 Pixel 11 系列，全系搭载由台积电 2 纳米打造的 Tensor G6 自研处理器，比苹果 iPhone 18 系列早约一个月亮相。苹果 iPhone 18 预计仍将在 9 月秋季发布会登场，搭载同为台积电 2 纳米制程的 A20 处理器。经济日报·茶馆水群",
-      "datetime": "2026-07-13T02:17:03+00:00",
-      "views": "51.3K",
-      "source_links": [
-        {
-          "text": "经济日报",
-          "url": "https://money.udn.com/money/story/5612/9623426"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42523",
-      "scraped_at": "2026-07-13T11:01:37.946034",
-      "title": "台积电打破惯例，Google 抢先苹果采用台积电 2纳米制程手机芯片台积电打破长期以来",
-      "title_options": {
-        "conclusion": "台积电打破惯例，Google 抢先苹果采用台积电 2纳米制程手机芯片台积电打破长期以来",
-        "attractive": "台积电打破惯例，Google 抢先苹果采用台积电 2纳米制程手机芯片台积电打破长期以来",
-        "minimal": "台积电打破惯例，Google 抢先苹果采用台积电 2纳米制程手机芯片台积电打破长期以来",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42499",
       "channel": "zaihuapd",
       "text": "Claude Code 桌面版新增内置浏览器Claude Code 桌面版现已支持内置浏览器。用户可以让 Claude 直接在应用内打开文档、设计稿或任意网站，进行阅读、点击和交互，体验与操作本地开发服务器类似。该功能采用沙盒设计，用户还可以自行配置是否保留浏览会话。ClaudeDevs (@ClaudeDevs)·茶馆水群·",
@@ -1035,6 +1004,6 @@
       }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-07-14T14:16:04.576589"
+  "count": 40,
+  "updated_at": "2026-07-14T14:21:09.332450"
 }
