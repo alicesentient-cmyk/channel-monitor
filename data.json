@@ -1280,31 +1280,8 @@
         "minimal": "任天堂Switch 2 OLED版可能正在研发中任天堂公司最近宣布一款配备可更换电池",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30771",
-      "channel": "xhqcankao",
-      "text": "苹果计划为三方配件提供类似AirPods的配对功能根据苹果的欧盟互操作性请求页面，苹果正在开发一个新的 API ，它将允许第三方配件以与今天 AirPods和Apple Watch 相同的方式在用户的苹果设备间自动配对。该计划是为了回应Meta于2025年10月根据欧盟DMA提出的请求，该请求要求苹果允许Meta设备与一台 iPhone或iPad 配对后，无需额外提示的情况下自动在用户的其他苹果设备上可用。苹果公司于2月4日告知Meta，其计划允许第三方应用访问加密材料，这些材料能使在一台苹果设备上完成的配对在另一台设备上可用，并通过会话密钥和每个配件一次性的用户同意来确保安全。苹果预计在2027年春季前完成开发，并“在此之后不久”发布。",
-      "clean_text": "苹果计划为三方配件提供类似AirPods的配对功能根据苹果的欧盟互操作性请求页面，苹果正在开发一个新的 API ，它将允许第三方配件以与今天 AirPods和Apple Watch 相同的方式在用户的苹果设备间自动配对。该计划是为了回应Meta于2025年10月根据欧盟DMA提出的请求，该请求要求苹果允许Meta设备与一台 iPhone或iPad 配对后，无需额外提示的情况下自动在用户的其他苹果设备上可用。苹果公司于2月4日告知Meta，其计划允许第三方应用访问加密材料，这些材料能使在一台苹果设备上完成的配对在另一台设备上可用，并通过会话密钥和每个配件一次性的用户同意来确保安全。苹果预计在2027年春季前完成开发，并“在此之后不久”发布。——Macrumors",
-      "datetime": "2026-07-13T14:17:38+00:00",
-      "views": "1.71K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/13/apple-plans-airpods-like-pairing-for-meta/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30771",
-      "scraped_at": "2026-07-13T23:01:20.990228",
-      "title": "苹果计划为三方配件提供类似AirPods",
-      "title_options": {
-        "conclusion": "苹果计划为三方配件提供类似AirPods",
-        "attractive": "苹果计划为三方配件提供类似AirPods",
-        "minimal": "苹果计划为三方配件提供类似AirPods",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-15T02:17:24.319662"
+  "count": 50,
+  "updated_at": "2026-07-15T02:22:27.406444"
 }
