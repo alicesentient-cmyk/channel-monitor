@@ -919,37 +919,6 @@
       }
     },
     {
-      "id": "zaihuapd_42524",
-      "channel": "zaihuapd",
-      "text": "三星开发 PC 专用 AI 芯片 GAIA，惠普联想已启动测试三星 LSI 部门正在为个人电脑开发代号 GAIA 的专用 AI 芯片，采用 4nm 工艺，定位为\"内存密集型\"AI 加速器，专门处理本地生成式 AI 任务，如语言模型、实时翻译和图像生成，并非 CPU 或 GPU 的替代品。惠普和联想已收到样片并启动测试，量产最快于 2027 年开始，相关设备可能在 2027 年底至 2028 年初上市。三星还计划将 GAIA 与正在研发的存内计算（PIM）DRAM 技术深度整合，把计算移至内存内部完成。若获 PC 厂商认可，这将是三星自 2012 年 Exynos Chromebook 以来首次重返 PC 处理器市场。目前三星尚未公开证实此事，也未公布具体性能与功耗数据。TechSpot·茶馆水群·",
-      "clean_text": "三星开发 PC 专用 AI 芯片 GAIA，惠普联想已启动测试三星 LSI 部门正在为个人电脑开发代号 GAIA 的专用 AI 芯片，采用 4nm 工艺，定位为\"内存密集型\"AI 加速器，专门处理本地生成式 AI 任务，如语言模型、实时翻译和图像生成，并非 CPU 或 GPU 的替代品。惠普和联想已收到样片并启动测试，量产最快于 2027 年开始，相关设备可能在 2027 年底至 2028 年初上市。三星还计划将 GAIA 与正在研发的存内计算（PIM）DRAM 技术深度整合，把计算移至内存内部完成。若获 PC 厂商认可，这将是三星自 2012 年 Exynos Chromebook 以来首次重返 PC 处理器市场。目前三星尚未公开证实此事，也未公布具体性能与功耗数据。TechSpot·茶馆水群",
-      "datetime": "2026-07-13T02:54:06+00:00",
-      "views": "36.3K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/113074-samsung-building-dedicated-ai-chip-pcs-hp-lenovo.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42524",
-      "scraped_at": "2026-07-13T11:01:37.946482",
-      "title": "三星开发 PC 专用 AI 芯片 GAIA，惠普联想已启动测试三星 LSI 部门正在为个人电脑开发代号 GAIA ",
-      "title_options": {
-        "conclusion": "三星开发 PC 专用 AI 芯片 GAIA，惠普联想已启动测试三星 LSI 部门正在为个人电脑开发代号 GAIA ",
-        "attractive": "三星开发 PC 专用 AI 芯片 GAIA，惠普联想已启动测试三星 LSI 部门正在为个人电脑开发代号 GAIA ",
-        "minimal": "三星开发 PC 专用 AI 芯片 GAIA，惠普联想已启动测试三星 LSI 部门正在为个人电脑开发代号 GAIA ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42499",
       "channel": "zaihuapd",
       "text": "Claude Code 桌面版新增内置浏览器Claude Code 桌面版现已支持内置浏览器。用户可以让 Claude 直接在应用内打开文档、设计稿或任意网站，进行阅读、点击和交互，体验与操作本地开发服务器类似。该功能采用沙盒设计，用户还可以自行配置是否保留浏览会话。ClaudeDevs (@ClaudeDevs)·茶馆水群·",
@@ -981,6 +950,6 @@
       }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-07-14T14:51:33.221570"
+  "count": 38,
+  "updated_at": "2026-07-14T14:56:37.538276"
 }
