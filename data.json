@@ -1398,39 +1398,8 @@
         "minimal": "研究人员担忧AI可能会使人类技能退化目…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42534",
-      "channel": "zaihuapd",
-      "text": "开源工具 Minewire 伪装成 Minecraft 服务器建立加密隧道Minewire 是一款伪装成 Minecraft 服务器的开源代理工具，用于建立加密隧道、绕过网络限制，由 Dmitrymodder 使用 Go 语言开发。其核心机制是将真实流量经 AES-GCM 加密后，嵌入 Minecraft 区块数据包（0x25）中传输。客户端先完成标准握手与登录流程，认证通过后建立 yamux 多路复用会话。为增强伪装，服务器会模拟玩家在线人数波动，并发送位置同步与心跳包；多用户认证时，用户名由对应密码的 SHA256 值派生得出。GitHub群友投稿，频道仅作项目分享，风险自控。·茶馆水群·",
-      "clean_text": "开源工具 Minewire 伪装成 Minecraft 服务器建立加密隧道Minewire 是一款伪装成 Minecraft 服务器的开源代理工具，用于建立加密隧道、绕过网络限制，由 Dmitrymodder 使用 Go 语言开发。其核心机制是将真实流量经 AES-GCM 加密后，嵌入 Minecraft 区块数据包（0x25）中传输。客户端先完成标准握手与登录流程，认证通过后建立 yamux 多路复用会话。为增强伪装，服务器会模拟玩家在线人数波动，并发送位置同步与心跳包；多用户认证时，用户名由对应密码的 SHA256 值派生得出。GitHub群友投稿，频道仅作项目分享，风险自控。·茶馆水群",
-      "datetime": "2026-07-13T12:46:14+00:00",
-      "views": "49.1K",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/dmitrymodder/minewire"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42534",
-      "scraped_at": "2026-07-13T21:01:07.253317",
-      "title": "开源工具 Minewire 伪装成 Minecraft 服务器建立加密隧道Minewire 是一款伪装成 Minecraft 服务器",
-      "title_options": {
-        "conclusion": "开源工具 Minewire 伪装成 Minecraft 服务器建立加密隧道Minewire 是一款伪装成 Minecraft 服务器",
-        "attractive": "开源工具 Minewire 伪装成 Minecraft 服务器建立加密隧道Minewire 是一款伪装成 Minecraft 服务器",
-        "minimal": "开源工具 Minewire 伪装成 Minecraft 服务器建立加密隧道Minewire 是一款伪装成 Minecraft 服务器",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-15T00:46:01.061299"
+  "count": 55,
+  "updated_at": "2026-07-15T00:51:04.502361"
 }
