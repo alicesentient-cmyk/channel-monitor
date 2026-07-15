@@ -1581,39 +1581,8 @@
         "minimal": "中国智能手机品牌一加正在放弃美国市场据…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42545",
-      "channel": "zaihuapd",
-      "text": "一加被曝本周将宣布退出美国和欧盟市场一加被曝将于本周内正式宣布退出美国和欧盟市场。该品牌运营已逾十年，早期以高性价比旗舰手机获得关注，但始终未能与美国主流运营商建立稳定合作，仅曾与 T-Mobile 有过短暂合作。尽管官方此前多次否认退场传言，但相关传闻近期持续发酵。若消息属实，现有用户短期内仍可获得售后支持。其母公司 Oppo 可能借机进入美国市场，但仍需克服与运营商建立合作这一关键障碍。Android Police·茶馆水群·",
-      "clean_text": "一加被曝本周将宣布退出美国和欧盟市场一加被曝将于本周内正式宣布退出美国和欧盟市场。该品牌运营已逾十年，早期以高性价比旗舰手机获得关注，但始终未能与美国主流运营商建立稳定合作，仅曾与 T-Mobile 有过短暂合作。尽管官方此前多次否认退场传言，但相关传闻近期持续发酵。若消息属实，现有用户短期内仍可获得售后支持。其母公司 Oppo 可能借机进入美国市场，但仍需克服与运营商建立合作这一关键障碍。Android Police·茶馆水群",
-      "datetime": "2026-07-14T02:06:32+00:00",
-      "views": "62.9K",
-      "source_links": [
-        {
-          "text": "Android Police",
-          "url": "https://www.androidpolice.com/oneplus-will-reportedly-pull-out-of-the-us-this-week/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42545",
-      "scraped_at": "2026-07-14T21:01:50.919106",
-      "title": "一加被曝本周将宣布退出美国和欧盟市场一…",
-      "title_options": {
-        "conclusion": "一加被曝本周将宣布退出美国和欧盟市场一…",
-        "attractive": "一加被曝本周将宣布退出美国和欧盟市场一…",
-        "minimal": "一加被曝本周将宣布退出美国和欧盟市场一…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-07-15T14:05:20.985415"
+  "count": 63,
+  "updated_at": "2026-07-15T14:10:24.405411"
 }
