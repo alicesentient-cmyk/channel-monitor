@@ -1480,39 +1480,8 @@
         "minimal": "Hermes 开发商拟以 15 亿美元估值融资超 7500 万美元开源智能体 Hermes ",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42542",
-      "channel": "zaihuapd",
-      "text": "Firefox 2026 年 9 月起改为每两周更新一次，跟随 Chrome 和 Edge 步伐Firefox 将从 2026 年 9 月起改为每两周发布一次新版本，告别月度更新节奏。Ledru 表示，更快的发布周期能让开发者更频繁地交付改进，发布流程也会更可预测，开发人员并不需要加倍赶工。此前 Google 于 3 月宣布 Chrome 改为双周更新，微软 Edge 随后跟进。部分 Firefox 用户对此并不买账，认为 Mozilla 再次盲目追随 Google，担心 Firefox 会以两倍速度\"翻车\"。TechSpot·茶馆水群·",
-      "clean_text": "📱Firefox 2026 年 9 月起改为每两周更新一次，跟随 Chrome 和 Edge 步伐Firefox 将从 2026 年 9 月起改为每两周发布一次新版本，告别月度更新节奏。Ledru 表示，更快的发布周期能让开发者更频繁地交付改进，发布流程也会更可预测，开发人员并不需要加倍赶工。此前 Google 于 3 月宣布 Chrome 改为双周更新，微软 Edge 随后跟进。部分 Firefox 用户对此并不买账，认为 Mozilla 再次盲目追随 Google，担心 Firefox 会以两倍速度\"翻车\"。TechSpot·茶馆水群",
-      "datetime": "2026-07-14T00:35:50+00:00",
-      "views": "62.9K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/113091-firefox-switching-faster-release-schedule-like-chrome-edge.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42542",
-      "scraped_at": "2026-07-14T21:01:50.917968",
-      "title": "Firefox 2026 年 9 月起…",
-      "title_options": {
-        "conclusion": "Firefox 2026 年 9 月起…",
-        "attractive": "Firefox 2026 年 9 月起…",
-        "minimal": "Firefox 2026 年 9 月起…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-15T12:34:08.766220"
+  "count": 58,
+  "updated_at": "2026-07-15T12:39:13.649713"
 }
