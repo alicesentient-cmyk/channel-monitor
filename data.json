@@ -1463,26 +1463,8 @@
         "minimal": "Anthropic 推出 Claude for Teachers，美国 K-12 教师免费用Anthropic 于 2026 年 7 月 14 日正式推出 Claude for Teachers，为经过验证",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42564",
-      "channel": "zaihuapd",
-      "text": "DeepSeek 完成首轮融资仅一月，再启新一轮估值 710 亿美元  中国 AI 创业公司 DeepSeek 在完成首轮融资约一个月后，已开始与投资者初步洽谈新一轮融资，投前估值约 710 亿美元。  该公司在 5 月底刚以约 520 亿美元估值完成约 70 亿美元融资。另据路透本月早些时候报道，DeepSeek 正在开发自有 AI 芯片，以减少对英伟达和华为芯片的依赖。  Financial Times · 茶馆水群 ·",
-      "clean_text": "🤖DeepSeek 完成首轮融资仅一月，再启新一轮估值 710 亿美元  中国 AI 创业公司 DeepSeek 在完成首轮融资约一个月后，已开始与投资者初步洽谈新一轮融资，投前估值约 710 亿美元。  该公司在 5 月底刚以约 520 亿美元估值完成约 70 亿美元融资。另据路透本月早些时候报道，DeepSeek 正在开发自有 AI 芯片，以减少对英伟达和华为芯片的依赖。  Financial Times · 茶馆水群 · 投稿通道",
-      "datetime": "2026-07-14T15:15:44+00:00",
-      "views": "51.2K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42564",
-      "scraped_at": "2026-07-15T00:04:33.071555",
-      "title": "DeepSeek 完成首轮融资仅一月，…",
-      "title_options": {
-        "conclusion": "DeepSeek 完成首轮融资仅一月，…",
-        "attractive": "DeepSeek 完成首轮融资仅一月，…",
-        "minimal": "DeepSeek 完成首轮融资仅一月，…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-16T03:12:25.633079"
+  "count": 58,
+  "updated_at": "2026-07-16T03:17:28.779406"
 }
