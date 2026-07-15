@@ -1481,35 +1481,8 @@
         "minimal": "DeepSeek 完成首轮融资仅一月，…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30804",
-      "channel": "xhqcankao",
-      "text": "谷歌AI CEO呼吁建立美国主导的全球AI监管机构谷歌DeepMind CEO哈萨比斯呼吁美国建立一个新的AI监管机构，该机构应有权审查全球最先进的AI模型，并在风险加剧时协调全行业放缓发展步伐。哈萨比斯表示，现在是时候采取更“系统化”的AI监管方法了——由行业资助，由世界一流的技术专家组成，并对美国政府负责。他表示，目前AI带来的网络安全风险只是 “预警信号”。他认为，在未来18个月内，这些能力以及更严重的生物和核安全风险，都可能出现在任何政府都无法控制的开源模型中。他还特别强调，风险不仅来自开源模型，更将来自各大AI实验室未来推出的更强大的专有模型。哈萨比斯数月来一直在推动该计划，并已向特朗普政府、其他AI实验室负责人及欧洲官员进行了沟通。",
-      "clean_text": "谷歌AI CEO呼吁建立美国主导的全球AI监管机构谷歌DeepMind CEO哈萨比斯呼吁美国建立一个新的AI监管机构，该机构应有权审查全球最先进的AI模型，并在风险加剧时协调全行业放缓发展步伐。哈萨比斯表示，现在是时候采取更“系统化”的AI监管方法了——由行业资助，由世界一流的技术专家组成，并对美国政府负责。他表示，目前AI带来的网络安全风险只是 “预警信号”。他认为，在未来18个月内，这些能力以及更严重的生物和核安全风险，都可能出现在任何政府都无法控制的开源模型中。他还特别强调，风险不仅来自开源模型，更将来自各大AI实验室未来推出的更强大的专有模型。哈萨比斯数月来一直在推动该计划，并已向特朗普政府、其他AI实验室负责人及欧洲官员进行了沟通。——新浪财经、CNBC",
-      "datetime": "2026-07-14T15:04:31+00:00",
-      "views": "1.68K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fbxjj%2F2026-07-14%2Fdoc-inihunsf8004909.shtml"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30804",
-      "scraped_at": "2026-07-15T00:04:36.441241",
-      "title": "谷歌AI CEO呼吁建立美国主导",
-      "title_options": {
-        "conclusion": "谷歌AI CEO呼吁建立美国主导",
-        "attractive": "谷歌AI CEO呼吁建立美国主导",
-        "minimal": "谷歌AI CEO呼吁建立美国主导",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-16T03:02:19.022397"
+  "count": 59,
+  "updated_at": "2026-07-16T03:07:22.470317"
 }
