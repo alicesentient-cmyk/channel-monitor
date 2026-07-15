@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42594",
+      "channel": "zaihuapd",
+      "text": "ASML 拟上调光刻设备售价，台积电抵制涨价ASML 计划上调芯片制造设备价格，并已与台积电就提高极紫外光刻系统价格进行商讨。该公司近几周还通知部分客户（包括中国芯片制造商），拟将深紫外光刻系统售价提高 10%。台积电正在抵制 ASML 对这两类设备的涨价要求，两家公司均拒绝就此置评。Bloomberg Law·茶馆水群·",
+      "clean_text": "ASML 拟上调光刻设备售价，台积电抵制涨价ASML 计划上调芯片制造设备价格，并已与台积电就提高极紫外光刻系统价格进行商讨。该公司近几周还通知部分客户（包括中国芯片制造商），拟将深紫外光刻系统售价提高 10%。台积电正在抵制 ASML 对这两类设备的涨价要求，两家公司均拒绝就此置评。Bloomberg Law·茶馆水群",
+      "datetime": "2026-07-15T16:49:54+00:00",
+      "views": "46.8K",
+      "source_links": [
+        {
+          "text": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/asml-plans-price-increases-on-chipmaking-equipment-information"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42594",
+      "scraped_at": "2026-07-16T01:01:23.016464",
+      "title": "ASML 拟上调光刻设备售价，台积电抵…",
+      "title_options": {
+        "conclusion": "ASML 拟上调光刻设备售价，台积电抵…",
+        "attractive": "ASML 拟上调光刻设备售价，台积电抵…",
+        "minimal": "ASML 拟上调光刻设备售价，台积电抵…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42593",
       "channel": "zaihuapd",
       "text": "Telegram 推出 Serverless 平台：机器人后端无需自建服务器Telegram 正式推出 Serverless 服务，开发者现在可以将机器人和 Mini App 的后端代码直接运行在 Telegram 自有基础设施上，无需再自行配置服务器、维护容器或应对扩容问题。使用该服务时，开发者只需编写普通 JavaScript 模块，通过 npx tgcloud push 一条命令即可完成部署。代码会运行在紧邻 Bot API 的隔离 V8 沙箱中，并自带一个基于 SQLite 的内置数据库。详细信息以及其它特性与要求可参照开发者文档。Telegram·茶馆水群·",
@@ -1572,39 +1603,8 @@
         "minimal": "英国欧盟指控俄罗斯策划网络攻击 俄方驳斥俄罗斯周二猛烈抨击了欧盟和英国关于俄情报机构策划针对欧洲",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42560",
-      "channel": "zaihuapd",
-      "text": "Kimi K3 或将明日发布。Google 搜索Kimi K3 发布限时充值活动可见缓存。Kimi platform·茶馆水群·",
-      "clean_text": "🌙Kimi K3 或将明日发布。Google 搜索Kimi K3 发布限时充值活动可见缓存。Kimi platform·茶馆水群",
-      "datetime": "2026-07-14T13:00:42+00:00",
-      "views": "6.17K",
-      "source_links": [
-        {
-          "text": "Kimi platform",
-          "url": "https://platform.kimi.com/docs/untitled-page"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42560",
-      "scraped_at": "2026-07-14T21:01:50.926361",
-      "title": "Kimi K3 或将明日发布",
-      "title_options": {
-        "conclusion": "Kimi K3 或将明日发布",
-        "attractive": "Kimi K3 或将明日发布",
-        "minimal": "Kimi K3 或将明日发布",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 64,
-  "updated_at": "2026-07-16T01:00:35.720381"
+  "updated_at": "2026-07-16T01:05:39.619237"
 }
