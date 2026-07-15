@@ -1623,39 +1623,8 @@
         "minimal": "新能源车平均车龄仅1.8年",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42556",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 推出 Precursor，全程监控鼠标轨迹识别 AI 机器人Cloudflare 于 7 月 13 日发布新产品 Precursor，一个\"持续行为验证\"引擎。与 Turnstile 仅在登录、结账等关键节点弹一次验证不同，Precursor 通过一段客户端 JS 在整个会话中持续观察用户，鼠标移动轨迹、键盘节奏、焦点切换、认知停顿等信号都会被采集分析，判断屏幕另一头到底是真人还是脚本或 AI Agent。官方表示，人类操作中存在机器难以伪装的生理特征，比如手腕带动鼠标的自然弧线和思考时的微小延迟。Precursor 会把这些数据整理成基于会话的分析面板，定位为 Turnstile 的可选补充，覆盖\"挑战之外\"的整段用户旅程。目前该功能面向企业版 Bot Management 用户免费测试，正式版计划今年晚些时候上线。The Cloudflare Blogvia LangYa·茶馆水群·",
-      "clean_text": "Cloudflare 推出 Precursor，全程监控鼠标轨迹识别 AI 机器人Cloudflare 于 7 月 13 日发布新产品 Precursor，一个\"持续行为验证\"引擎。与 Turnstile 仅在登录、结账等关键节点弹一次验证不同，Precursor 通过一段客户端 JS 在整个会话中持续观察用户，鼠标移动轨迹、键盘节奏、焦点切换、认知停顿等信号都会被采集分析，判断屏幕另一头到底是真人还是脚本或 AI Agent。官方表示，人类操作中存在机器难以伪装的生理特征，比如手腕带动鼠标的自然弧线和思考时的微小延迟。Precursor 会把这些数据整理成基于会话的分析面板，定位为 Turnstile 的可选补充，覆盖\"挑战之外\"的整段用户旅程。目前该功能面向企业版 Bot Management 用户免费测试，正式版计划今年晚些时候上线。The Cloudflare Blogvia LangYa·茶馆水群",
-      "datetime": "2026-07-14T09:44:23+00:00",
-      "views": "56.7K",
-      "source_links": [
-        {
-          "text": "The Cloudflare Blog",
-          "url": "https://blog.cloudflare.com/introducing-precursor/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42556",
-      "scraped_at": "2026-07-14T21:01:50.924042",
-      "title": "Cloudflare 推出 Precu…",
-      "title_options": {
-        "conclusion": "Cloudflare 推出 Precu…",
-        "attractive": "Cloudflare 推出 Precu…",
-        "minimal": "Cloudflare 推出 Precu…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-15T21:42:26.896495"
+  "count": 66,
+  "updated_at": "2026-07-15T21:47:31.778624"
 }
