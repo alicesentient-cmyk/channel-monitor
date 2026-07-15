@@ -1,6 +1,138 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30811",
+      "channel": "xhqcankao",
+      "text": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI的 Grok Build AI 编码工具被发现正在将用户的整个代码库上传到谷歌云，此事曝光后，该公司随后关闭了该功能。逆向工程师Cereblab在周一发布了调查结果，显示 Grok Build CLI 如何打包并上传整个代码仓库，“包括被告知不要打开的文件和从历史记录中删除的秘密”，数据保留量显著多于类似的工具如Claude Code。埃隆·马斯克在X 平台上的一篇帖子中回应了这一事件，声称Grok Build之前上传的所有数据将被“完全且彻底地删除”。埃隆·马斯克还在另一篇帖子中表示“隐私设置始终受到尊重”，但要求用户允许SpaceXAI保留他们的数据，称这“有助于调试问题”。",
+      "clean_text": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI的 Grok Build AI 编码工具被发现正在将用户的整个代码库上传到谷歌云，此事曝光后，该公司随后关闭了该功能。逆向工程师Cereblab在周一发布了调查结果，显示 Grok Build CLI 如何打包并上传整个代码仓库，“包括被告知不要打开的文件和从历史记录中删除的秘密”，数据保留量显著多于类似的工具如Claude Code。埃隆·马斯克在X 平台上的一篇帖子中回应了这一事件，声称Grok Build之前上传的所有数据将被“完全且彻底地删除”。埃隆·马斯克还在另一篇帖子中表示“隐私设置始终受到尊重”，但要求用户允许SpaceXAI保留他们的数据，称这“有助于调试问题”。——Theverge",
+      "datetime": "2026-07-15T02:00:24+00:00",
+      "views": "224",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30811",
+      "scraped_at": "2026-07-15T10:02:59.691697",
+      "title": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
+      "title_options": {
+        "conclusion": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
+        "attractive": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
+        "minimal": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42569",
+      "channel": "zaihuapd",
+      "text": "字节跳动预热 Seedance 2.5，提升长视频生成和画面一致性字节跳动自研文生视频模型 Seedance 2.5 开始预热。新版本将延长原生连续生成时长，提升长视频生成能力和画面一致性，并优化人物细节、光影质感与镜头连贯性。多参考素材引导功能也将升级，以提高画面控制精度，面向短视频创作、商业宣传和内容可视化等场景。小云雀·茶馆水群·",
+      "clean_text": "📱字节跳动预热 Seedance 2.5，提升长视频生成和画面一致性字节跳动自研文生视频模型 Seedance 2.5 开始预热。新版本将延长原生连续生成时长，提升长视频生成能力和画面一致性，并优化人物细节、光影质感与镜头连贯性。多参考素材引导功能也将升级，以提高画面控制精度，面向短视频创作、商业宣传和内容可视化等场景。小云雀·茶馆水群",
+      "datetime": "2026-07-15T01:51:00+00:00",
+      "views": "47.5K",
+      "source_links": [
+        {
+          "text": "小云雀",
+          "url": "https://xiaoyunque.jianying.com/s/w8bBiBxF9dQ/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42569",
+      "scraped_at": "2026-07-15T10:02:57.207314",
+      "title": "字节跳动预热 Seedance 2.5…",
+      "title_options": {
+        "conclusion": "字节跳动预热 Seedance 2.5…",
+        "attractive": "字节跳动预热 Seedance 2.5…",
+        "minimal": "字节跳动预热 Seedance 2.5…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30810",
+      "channel": "xhqcankao",
+      "text": "美国联邦通信委员会批准“太空反射镜”试点近日，在广泛的反对声中，美国联邦通信委员会（FCC）批准了加州初创公司 Reflect Orbital的太空“反射镜”计划。该计划旨在测试一种卫星，送入近地轨道后展开一面宽达60英尺的方形镜子，将阳光反射到处于夜间的地表。据悉，60英尺的太空镜能够照亮直径约3英里的地表区域。Reflect Orbital计划今年发射这颗测试卫星，并表示希望在2028年底之前发射1,000颗更大的卫星，到2030年再发射5000颗。该公司称，这一项目有望为太阳能发电厂提供能量，为救援人员照亮工作环境，同时也为城市街道提供照明，公司也将从提供照明和电力的角度获取收益。",
+      "clean_text": "美国联邦通信委员会批准“太空反射镜”试点近日，在广泛的反对声中，美国联邦通信委员会（FCC）批准了加州初创公司 Reflect Orbital的太空“反射镜”计划。该计划旨在测试一种卫星，送入近地轨道后展开一面宽达60英尺的方形镜子，将阳光反射到处于夜间的地表。据悉，60英尺的太空镜能够照亮直径约3英里的地表区域。Reflect Orbital计划今年发射这颗测试卫星，并表示希望在2028年底之前发射1,000颗更大的卫星，到2030年再发射5000颗。该公司称，这一项目有望为太阳能发电厂提供能量，为救援人员照亮工作环境，同时也为城市街道提供照明，公司也将从提供照明和电力的角度获取收益。——财联社、Theverge",
+      "datetime": "2026-07-15T01:31:13+00:00",
+      "views": "1.18K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2423447?sv=8.5.9&amp;"
+        },
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30810",
+      "scraped_at": "2026-07-15T10:02:59.691340",
+      "title": "美国联邦通信委员会批准“太空反射镜”试点近日，在广泛",
+      "title_options": {
+        "conclusion": "美国联邦通信委员会批准“太空反射镜”试点近日，在广泛",
+        "attractive": "美国联邦通信委员会批准“太空反射镜”试点近日，在广泛",
+        "minimal": "美国联邦通信委员会批准“太空反射镜”试点近日，在广泛",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42568",
+      "channel": "zaihuapd",
+      "text": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" 的问题Telegram 创始人帕维尔·杜罗夫宣布已购入域名 t.you，与其此前拥有的t.me并列。他在社交平台发文称，现在这变成了一个 \"we\"（我们）的问题。这一表述利用了英文双关：t.me中的 me 意为\"我\"，t.you中的 you 意为\"你\"，两者相加即为\"我们\"。杜罗夫未透露交易金额及该域名的具体用途。Pavel Durov (@durov)·茶馆水群·",
+      "clean_text": "✈️杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" 的问题Telegram 创始人帕维尔·杜罗夫宣布已购入域名 t.you，与其此前拥有的t.me并列。他在社交平台发文称，现在这变成了一个 \"we\"（我们）的问题。这一表述利用了英文双关：t.me中的 me 意为\"我\"，t.you中的 you 意为\"你\"，两者相加即为\"我们\"。杜罗夫未透露交易金额及该域名的具体用途。Pavel Durov (@durov)·茶馆水群",
+      "datetime": "2026-07-15T01:11:33+00:00",
+      "views": "52K",
+      "source_links": [
+        {
+          "text": "t.you",
+          "url": "http://t.you/"
+        },
+        {
+          "text": "t.me",
+          "url": "http://t.me/"
+        },
+        {
+          "text": "t.me",
+          "url": "http://t.me/"
+        },
+        {
+          "text": "t.me",
+          "url": "http://t.me/"
+        },
+        {
+          "text": "t.you",
+          "url": "http://t.you/"
+        },
+        {
+          "text": "Pavel Durov (@durov)",
+          "url": "https://x.com/durov/status/2077122635549311173"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42568",
+      "scraped_at": "2026-07-15T10:02:57.206787",
+      "title": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
+      "title_options": {
+        "conclusion": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
+        "attractive": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
+        "minimal": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30809",
       "channel": "xhqcankao",
       "text": "伊朗利用移动网络漏洞定位中东地区的美军伊朗政府在伊朗战争酝酿阶段以及冲突早期阶段，滥用了全球电信基础设施中众所周知的漏洞，以定位美国军事人员。据移动监控监视器机构的研究以及了解此次间谍活动的政府官员，伊朗政府利用了SS7，这是一套用于 2G和3G 网络的协议，长期以来一直是蜂窝网络彼此连接以在全球路由用户通话和短信的骨干。情报机构长期滥用SS7来追踪国外的手机，这正是此次行动中所发生的情况。伊朗利用这一技术能够定位驻扎在军事基地以及伊拉克、巴林和中东其他国家酒店中的美国军队，这使得该政权能够对他们发起袭击。这些袭击导致了数人受伤。",
@@ -1274,6 +1406,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-15T10:02:13.011718"
+  "count": 54,
+  "updated_at": "2026-07-15T10:07:18.651112"
 }
