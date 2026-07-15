@@ -1690,26 +1690,8 @@
         "minimal": "Chrome",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42557",
-      "channel": "zaihuapd",
-      "text": "DeepSeek 完成逾 500 亿元首轮融资，采用特殊架构维持创始人控制  据报道，DeepSeek 首轮融资筹得逾 500 亿元人民币（约 74 亿美元），估值超过 500 亿美元。此次融资采用非常规架构，投资者需将资金注入 CEO 梁文锋管理的有限合伙企业，而非直接投资 DeepSeek 本身，并需接受五年锁定期且不享有表决权。  创始人梁文锋在本轮融资中个人投资 200 亿元。腾讯和宁德时代分别考虑或计划投资 100 亿元和 50 亿元，可能成为本轮最大的外部投资者。DeepSeek 对此暂未置评。…",
-      "clean_text": "🤖DeepSeek 完成逾 500 亿元首轮融资，采用特殊架构维持创始人控制  据报道，DeepSeek 首轮融资筹得逾 500 亿元人民币（约 74 亿美元），估值超过 500 亿美元。此次融资采用非常规架构，投资者需将资金注入 CEO 梁文锋管理的有限合伙企业，而非直接投资 DeepSeek 本身，并需接受五年锁定期且不享有表决权。  创始人梁文锋在本轮融资中个人投资 200 亿元。腾讯和宁德时代分别考虑或计划投资 100 亿元和 50 亿元，可能成为本轮最大的外部投资者。DeepSeek 对此暂未置评。…",
-      "datetime": "2026-07-14T11:06:17+00:00",
-      "views": "54.3K",
-      "source_links": [],
-      "url": "https://telegram.me/zaihuapd/42557",
-      "scraped_at": "2026-07-14T21:01:50.924648",
-      "title": "DeepSeek 完成逾 500 亿元…",
-      "title_options": {
-        "conclusion": "DeepSeek 完成逾 500 亿元…",
-        "attractive": "DeepSeek 完成逾 500 亿元…",
-        "minimal": "DeepSeek 完成逾 500 亿元…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-15T23:03:51.811468"
+  "count": 68,
+  "updated_at": "2026-07-15T23:08:57.041556"
 }
