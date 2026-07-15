@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30814",
+      "channel": "xhqcankao",
+      "text": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二的消息称，Premium订阅用户现在将能够与该应用进行交互式对话，以选择他们想听的音乐或其他音频。该功能最初在美国、爱尔兰和瑞典面向 iOS和Android 设备上18岁及以上的用户以英语提供。这被视为测试版发布，意味着该功能可能并不总是完美运行，Spotify表示，但用户反馈将有助于改进产品。该公司在其公告中没有明确分享更多关于幕后AI技术的细节，但Spotify确认，公司混合使用了自己的AI技术和来自多家提供商的模型，基于什么最适合该任务。",
+      "clean_text": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二的消息称，Premium订阅用户现在将能够与该应用进行交互式对话，以选择他们想听的音乐或其他音频。该功能最初在美国、爱尔兰和瑞典面向 iOS和Android 设备上18岁及以上的用户以英语提供。这被视为测试版发布，意味着该功能可能并不总是完美运行，Spotify表示，但用户反馈将有助于改进产品。该公司在其公告中没有明确分享更多关于幕后AI技术的细节，但Spotify确认，公司混合使用了自己的AI技术和来自多家提供商的模型，基于什么最适合该任务。——Techcrunch",
+      "datetime": "2026-07-15T03:32:09+00:00",
+      "views": "1.17K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30814",
+      "scraped_at": "2026-07-15T12:00:53.239726",
+      "title": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+      "title_options": {
+        "conclusion": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+        "attractive": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+        "minimal": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30813",
+      "channel": "xhqcankao",
+      "text": "OpenAI的新旗舰AI模型会自行删除文件OpenAI最新面向编码和网络安全的旗舰模型GPT-5.6 Sol的用户正在社交媒体上发布令人震惊的经历，声称该模型自行突然删除了他们的文件、数据，甚至整个数据库，而没有事先征求许可。“GPT-5.6-Sol刚刚意外删除了我 Mac 上几乎所有的文件，”AI初创公司OthersideAI的创始人马特·舒默在 X 上的一篇现已疯传的帖子中写道。诚然，少数用户提出此类说法在统计上并非模型应负全责的可靠证据。许多其他变量可能导致AI系统行为异常。但OpenAI本身在Sol发布之前就已标记了这一风险。在OpenAI发布GPT-5.6 Sol的两周前，该公司发布了这款模型的系统卡。OpenAI发现Sol有种倾向，即会采取它认为能完成工作的任何行动，甚至是破坏性的行动，只要这些行动没有被“明确”禁止。",
+      "clean_text": "OpenAI的新旗舰AI模型会自行删除文件OpenAI最新面向编码和网络安全的旗舰模型GPT-5.6 Sol的用户正在社交媒体上发布令人震惊的经历，声称该模型自行突然删除了他们的文件、数据，甚至整个数据库，而没有事先征求许可。“GPT-5.6-Sol刚刚意外删除了我 Mac 上几乎所有的文件，”AI初创公司OthersideAI的创始人马特·舒默在 X 上的一篇现已疯传的帖子中写道。诚然，少数用户提出此类说法在统计上并非模型应负全责的可靠证据。许多其他变量可能导致AI系统行为异常。但OpenAI本身在Sol发布之前就已标记了这一风险。在OpenAI发布GPT-5.6 Sol的两周前，该公司发布了这款模型的系统卡。OpenAI发现Sol有种倾向，即会采取它认为能完成工作的任何行动，甚至是破坏性的行动，只要这些行动没有被“明确”禁止。——Techcrunch",
+      "datetime": "2026-07-15T03:02:23+00:00",
+      "views": "2.15K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30813",
+      "scraped_at": "2026-07-15T12:00:53.239281",
+      "title": "OpenAI",
+      "title_options": {
+        "conclusion": "OpenAI",
+        "attractive": "OpenAI",
+        "minimal": "OpenAI",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42572",
+      "channel": "zaihuapd",
+      "text": "贾浅浅因抄袭被西北大学撤销硕士学位并解聘西北大学今日通报贾浅浅事件，认定其存在抄袭行为，学术不端行为属实。学校已撤销贾浅浅硕士学位、副教授职称及教师岗位任职资格，同意其辞职申请并解除聘用关系，同时按程序撤销了其教师资格。相关责任人也已被依规处理。微博·茶馆水群·",
+      "clean_text": "贾浅浅因抄袭被西北大学撤销硕士学位并解聘西北大学今日通报贾浅浅事件，认定其存在抄袭行为，学术不端行为属实。学校已撤销贾浅浅硕士学位、副教授职称及教师岗位任职资格，同意其辞职申请并解除聘用关系，同时按程序撤销了其教师资格。相关责任人也已被依规处理。微博·茶馆水群",
+      "datetime": "2026-07-15T03:01:18+00:00",
+      "views": "52.2K",
+      "source_links": [
+        {
+          "text": "微博",
+          "url": "https://weibo.com/2656274875/5320884077465841"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42572",
+      "scraped_at": "2026-07-15T12:00:51.440970",
+      "title": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+      "title_options": {
+        "conclusion": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+        "attractive": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+        "minimal": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42571",
       "channel": "zaihuapd",
       "text": "Telegram 推富文本编辑器、社群与隐身消息Telegram 发布更新，带来富文本编辑器、社群与群组隐身消息等功能。新编辑器支持标题、表格、列表及消息内插入图片视频，单条上限 32,768 字符，目前仅 Premium 用户可用。用户还可将多个群组、频道和机器人组成社群，成员可一键加入关联聊天，聊天可设公开或隐藏。群组机器人现能发送仅特定用户可见的临时消息，如私人 AI 摘要和问候语，不打扰其他成员。此外，GIF 搜索扩展至 3.5 亿个，覆盖 36 种语言，采用离线索引，宣称完全私密且速度更快。Telegram·茶馆水群·",
@@ -1436,6 +1513,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-15T11:58:46.192989"
+  "count": 59,
+  "updated_at": "2026-07-15T12:03:49.595342"
 }

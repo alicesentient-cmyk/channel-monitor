@@ -17694,5 +17694,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-15T11:03:05.236219"
+  },
+  "xhqcankao_30813": {
+    "ai_title": "OpenAI",
+    "title_options": {
+      "conclusion": "OpenAI",
+      "attractive": "OpenAI",
+      "minimal": "OpenAI",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-15T12:03:49.477825"
+  },
+  "xhqcankao_30814": {
+    "ai_title": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+    "title_options": {
+      "conclusion": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+      "attractive": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+      "minimal": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-15T12:03:49.507555"
+  },
+  "zaihuapd_42572": {
+    "ai_title": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+    "title_options": {
+      "conclusion": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+      "attractive": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+      "minimal": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-15T12:03:49.566000"
   }
 }
