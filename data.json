@@ -1424,47 +1424,8 @@
         "minimal": "白宫将召集电力公司与数据中心，承诺 AI 用电不转嫁消费者  ​白宫计划在未来几周召集电力公司和数据中心开发商，推动一项自愿承诺，以确保人工智能带来",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42565",
-      "channel": "zaihuapd",
-      "text": "Anthropic 推出 Claude for Teachers，美国 K-12 教师免费用Anthropic 于 2026 年 7 月 14 日正式推出 Claude for Teachers，为经过验证的美国 K-12 教师免费提供高级 Claude 功能。该计划包含教学技能库，可与全美 50 个州的学术标准及基于证据的课程直接对接，支持教师快速生成教案、测验和差异化教学材料。隐私方面，教师数据默认不用于模型训练，学生信息受符合 FERPA 标准的数据处理协议保护。教师需在 2027 年 6 月 30 日前注册，可获得一整年免费访问。AnthropicAI|Claude|x.com·茶馆水群·",
-      "clean_text": "Anthropic 推出 Claude for Teachers，美国 K-12 教师免费用Anthropic 于 2026 年 7 月 14 日正式推出 Claude for Teachers，为经过验证的美国 K-12 教师免费提供高级 Claude 功能。该计划包含教学技能库，可与全美 50 个州的学术标准及基于证据的课程直接对接，支持教师快速生成教案、测验和差异化教学材料。隐私方面，教师数据默认不用于模型训练，学生信息受符合 FERPA 标准的数据处理协议保护。教师需在 2027 年 6 月 30 日前注册，可获得一整年免费访问。AnthropicAI|Claude|x.com·茶馆水群",
-      "datetime": "2026-07-14T15:37:54+00:00",
-      "views": "49.8K",
-      "source_links": [
-        {
-          "text": "AnthropicAI",
-          "url": "https://www.anthropic.com/news/claude-for-teachers"
-        },
-        {
-          "text": "Claude",
-          "url": "https://claude.com/solutions/teachers"
-        },
-        {
-          "text": "x.com",
-          "url": "https://x.com/claudeai/status/2077047278078931243"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42565",
-      "scraped_at": "2026-07-15T00:04:33.072275",
-      "title": "Anthropic 推出 Claude for Teachers，美国 K-12 教师免费用Anthropic 于 2026 年 7 月 14 日正式推出 Claude for Teachers，为经过验证",
-      "title_options": {
-        "conclusion": "Anthropic 推出 Claude for Teachers，美国 K-12 教师免费用Anthropic 于 2026 年 7 月 14 日正式推出 Claude for Teachers，为经过验证",
-        "attractive": "Anthropic 推出 Claude for Teachers，美国 K-12 教师免费用Anthropic 于 2026 年 7 月 14 日正式推出 Claude for Teachers，为经过验证",
-        "minimal": "Anthropic 推出 Claude for Teachers，美国 K-12 教师免费用Anthropic 于 2026 年 7 月 14 日正式推出 Claude for Teachers，为经过验证",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-16T03:37:40.708342"
+  "count": 57,
+  "updated_at": "2026-07-16T03:42:43.555637"
 }
