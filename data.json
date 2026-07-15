@@ -1544,39 +1544,8 @@
         "minimal": "一加被曝本周将宣布退出美国和欧盟市场一…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42543",
-      "channel": "zaihuapd",
-      "text": "Hermes 开发商拟以 15 亿美元估值融资超 7500 万美元开源智能体 Hermes 的开发商 Nous Research 正在敲定新一轮融资，估值达 15 亿美元，融资规模至少 7500 万美元。Nous Research 于 2023 年成立，此前累计融资 7000 万美元。目前该公司还提供月费 20 至 200 美元的云端托管服务。据悉，新资金将用于进一步扩展 Hermes 的产品线和商业模式。TechCrunch·茶馆水群·",
-      "clean_text": "Hermes 开发商拟以 15 亿美元估值融资超 7500 万美元开源智能体 Hermes 的开发商 Nous Research 正在敲定新一轮融资，估值达 15 亿美元，融资规模至少 7500 万美元。Nous Research 于 2023 年成立，此前累计融资 7000 万美元。目前该公司还提供月费 20 至 200 美元的云端托管服务。据悉，新资金将用于进一步扩展 Hermes 的产品线和商业模式。TechCrunch·茶馆水群",
-      "datetime": "2026-07-14T01:16:32+00:00",
-      "views": "62.7K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42543",
-      "scraped_at": "2026-07-14T21:01:50.918495",
-      "title": "Hermes 开发商拟以 15 亿美元估值融资超 7500 万美元开源智能体 Hermes ",
-      "title_options": {
-        "conclusion": "Hermes 开发商拟以 15 亿美元估值融资超 7500 万美元开源智能体 Hermes ",
-        "attractive": "Hermes 开发商拟以 15 亿美元估值融资超 7500 万美元开源智能体 Hermes ",
-        "minimal": "Hermes 开发商拟以 15 亿美元估值融资超 7500 万美元开源智能体 Hermes ",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-15T13:14:39.846796"
+  "count": 61,
+  "updated_at": "2026-07-15T13:19:43.540407"
 }
