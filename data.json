@@ -1546,43 +1546,8 @@
         "minimal": "海南2030年成中国首个禁售燃油车省份中国海南省官方将推进2030年禁售燃油车",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42547",
-      "channel": "zaihuapd",
-      "text": "微软在 Win11 测试 PC Insights，用 AI 排查电脑卡顿原因微软正面向部分美国 Windows 11 用户测试 PC Insights 功能。该功能可读取 CPU、内存、GPU 占用及存储空间等信息，通过对话形式分析电脑变慢的原因，并判断设备是否有足够空间安装应用或游戏。获得用户授权后，PC Insights 还可识别 USB 设备、打印机、摄像头、网络适配器、电池健康、杀毒软件状态和 BIOS 版本等信息。微软称相关数据不会被存储或用于模型训练。不过，Copilot 桌面应用本身的内存占用可达约 800 MB，最高接近 1 GB。Microsoft|Windows Latest·茶馆水群·",
-      "clean_text": "微软在 Win11 测试 PC Insights，用 AI 排查电脑卡顿原因微软正面向部分美国 Windows 11 用户测试 PC Insights 功能。该功能可读取 CPU、内存、GPU 占用及存储空间等信息，通过对话形式分析电脑变慢的原因，并判断设备是否有足够空间安装应用或游戏。获得用户授权后，PC Insights 还可识别 USB 设备、打印机、摄像头、网络适配器、电池健康、杀毒软件状态和 BIOS 版本等信息。微软称相关数据不会被存储或用于模型训练。不过，Copilot 桌面应用本身的内存占用可达约 800 MB，最高接近 1 GB。Microsoft|Windows Latest·茶馆水群",
-      "datetime": "2026-07-14T03:15:39+00:00",
-      "views": "61.8K",
-      "source_links": [
-        {
-          "text": "Microsoft",
-          "url": "https://support.microsoft.com/en-us/microsoft-copilot/pc-insights"
-        },
-        {
-          "text": "Windows Latest",
-          "url": "https://www.windowslatest.com/2026/07/12/windows-11-copilot-ai-can-now-tell-you-whats-slowing-down-your-pc-while-using-1gb-of-ram-itself/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42547",
-      "scraped_at": "2026-07-14T21:01:50.920315",
-      "title": "微软在 Win11 测试 PC Ins…",
-      "title_options": {
-        "conclusion": "微软在 Win11 测试 PC Ins…",
-        "attractive": "微软在 Win11 测试 PC Ins…",
-        "minimal": "微软在 Win11 测试 PC Ins…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-15T15:11:13.568265"
+  "count": 62,
+  "updated_at": "2026-07-15T15:16:17.466381"
 }
