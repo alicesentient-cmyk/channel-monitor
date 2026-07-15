@@ -1527,39 +1527,8 @@
         "minimal": "微软测试无广告和多余内容",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42546",
-      "channel": "zaihuapd",
-      "text": "X 调整推荐算法，提高互关好友回复的可见度X 对推荐算法进行调整，将提高互相关注用户回复的可见度。平台产品负责人 Nikita Bier 表示，此前算法未充分考虑互关关系，导致用户在回复区较少看到熟人，更多面对陌生账号。调整后，平台希望帮助用户围绕共同兴趣形成更稳定的互动群体。TechCrunch·茶馆水群·",
-      "clean_text": "🐦X 调整推荐算法，提高互关好友回复的可见度X 对推荐算法进行调整，将提高互相关注用户回复的可见度。平台产品负责人 Nikita Bier 表示，此前算法未充分考虑互关关系，导致用户在回复区较少看到熟人，更多面对陌生账号。调整后，平台希望帮助用户围绕共同兴趣形成更稳定的互动群体。TechCrunch·茶馆水群",
-      "datetime": "2026-07-14T02:37:51+00:00",
-      "views": "61.9K",
-      "source_links": [
-        {
-          "text": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42546",
-      "scraped_at": "2026-07-14T21:01:50.919673",
-      "title": "X 调整推荐算法，提高互关好友回复",
-      "title_options": {
-        "conclusion": "X 调整推荐算法，提高互关好友回复",
-        "attractive": "X 调整推荐算法，提高互关好友回复",
-        "minimal": "X 调整推荐算法，提高互关好友回复",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-15T14:35:43.922243"
+  "count": 61,
+  "updated_at": "2026-07-15T14:40:47.856094"
 }
