@@ -1564,26 +1564,8 @@
         "minimal": "硅谷警告：中国企业蒸馏模型会导致AI脱离人类掌控，威胁人类生存中国企业正在以一种更具威胁性",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42548",
-      "channel": "zaihuapd",
-      "text": "iOS 27 兼容的iPhone型号  最低支持iPhone 11，和iOS 26大致相同。",
-      "clean_text": "🍏iOS 27 兼容的iPhone型号  最低支持iPhone 11，和iOS 26大致相同。 · 备用频道 · 投稿通道",
-      "datetime": "2026-07-14T04:17:12+00:00",
-      "views": "61.3K",
-      "source_links": [],
-      "url": "https://telegram.me/zaihuapd/42548",
-      "scraped_at": "2026-07-14T21:01:50.920921",
-      "title": "iOS 27 兼容",
-      "title_options": {
-        "conclusion": "iOS 27 兼容",
-        "attractive": "iOS 27 兼容",
-        "minimal": "iOS 27 兼容",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-07-15T16:12:11.752371"
+  "count": 63,
+  "updated_at": "2026-07-15T16:17:17.464773"
 }
