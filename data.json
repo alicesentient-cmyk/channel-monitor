@@ -1571,31 +1571,8 @@
         "minimal": "孙正义认为核聚变能源是AI未来发展",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30791",
-      "channel": "xhqcankao",
-      "text": "梁文锋已成全球身家最高的AI公司创始人在 DeepSeek 公司完成最新一轮融资后，创始人梁文锋的净值翻了一倍多，成为人工智能模型开发者中身家最高的一位。根据彭博亿万富豪指数，梁文锋目前的净值为360亿美元，使其排名远高于Anthropic PBC的联合创始人Dario Amodei以及OpenAI的Greg Brockman。在比较中，彭博关注了那些主要业务和大部分收入直接来自人工智能模型的公司。该名单排除了多元化企业集团，如阿里巴巴集团和腾讯控股以及人工智能供应链中的其他业务，如数据中心和半导体。对梁文锋而言，他的大部分财富都来源于他对DeepSeek公司的控制。",
-      "clean_text": "梁文锋已成全球身家最高的AI公司创始人在 DeepSeek 公司完成最新一轮融资后，创始人梁文锋的净值翻了一倍多，成为人工智能模型开发者中身家最高的一位。根据彭博亿万富豪指数，梁文锋目前的净值为360亿美元，使其排名远高于Anthropic PBC的联合创始人Dario Amodei以及OpenAI的Greg Brockman。在比较中，彭博关注了那些主要业务和大部分收入直接来自人工智能模型的公司。该名单排除了多元化企业集团，如阿里巴巴集团和腾讯控股以及人工智能供应链中的其他业务，如数据中心和半导体。对梁文锋而言，他的大部分财富都来源于他对DeepSeek公司的控制。——彭博社",
-      "datetime": "2026-07-14T07:04:06+00:00",
-      "views": "5.18K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-s-liang-tops-amodei-and-brockman-as-richest-ai-founder"
-        }
-      ],
-      "url": "https://telegram.me/xhqcankao/30791",
-      "scraped_at": "2026-07-14T21:01:53.223381",
-      "title": "梁文锋已成全球身家最高",
-      "title_options": {
-        "conclusion": "梁文锋已成全球身家最高",
-        "attractive": "梁文锋已成全球身家最高",
-        "minimal": "梁文锋已成全球身家最高",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-07-15T18:59:50.940308"
+  "count": 63,
+  "updated_at": "2026-07-15T19:04:55.698104"
 }
