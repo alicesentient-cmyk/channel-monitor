@@ -1586,39 +1586,8 @@
         "minimal": "韩国科学家开发出芯片堆叠新工艺韩国工业技术研究所和浦项科技大学科学家开发出一项新工艺，能稳定堆叠10余片超薄半导体芯片，由此实现了约四倍于商用高带宽存储器（HBM）",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42550",
-      "channel": "zaihuapd",
-      "text": "2026 菲尔兹奖名单疑泄露：ICM 官网代码藏四位得主姓名有网友称，通过抓取国际数学家大会（ICM）官网日程的前端代码，发现一份被标记为 \"HIDDEN\" 的 2026 年菲尔兹奖讲座名单，涉及 Yu Deng、John Pardon、Jacob Tsimerman 和 Hong Wang 四人。Reddit 上的讨论此前已将 Wang 和 Tsimerman 列为热门人选，其中 Wang 因解决三维 Kakeya 猜想而备受瞩目。Polymarket 上该预测的概率目前已达 95%。reddit·茶馆水群·",
-      "clean_text": "2026 菲尔兹奖名单疑泄露：ICM 官网代码藏四位得主姓名有网友称，通过抓取国际数学家大会（ICM）官网日程的前端代码，发现一份被标记为 \"HIDDEN\" 的 2026 年菲尔兹奖讲座名单，涉及 Yu Deng、John Pardon、Jacob Tsimerman 和 Hong Wang 四人。Reddit 上的讨论此前已将 Wang 和 Tsimerman 列为热门人选，其中 Wang 因解决三维 Kakeya 猜想而备受瞩目。Polymarket 上该预测的概率目前已达 95%。reddit·茶馆水群",
-      "datetime": "2026-07-14T05:51:31+00:00",
-      "views": "60.7K",
-      "source_links": [
-        {
-          "text": "reddit",
-          "url": "https://www.reddit.com/r/math/comments/1urv4id/fields_medal_26_predictionsdiscussion/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42550",
-      "scraped_at": "2026-07-14T21:01:50.922149",
-      "title": "2026 菲尔兹奖名单疑泄露：ICM 官网代码藏四位得主姓名有网友称，通过抓取国际数学家大会（ICM）官网日程",
-      "title_options": {
-        "conclusion": "2026 菲尔兹奖名单疑泄露：ICM 官网代码藏四位得主姓名有网友称，通过抓取国际数学家大会（ICM）官网日程",
-        "attractive": "2026 菲尔兹奖名单疑泄露：ICM 官网代码藏四位得主姓名有网友称，通过抓取国际数学家大会（ICM）官网日程",
-        "minimal": "2026 菲尔兹奖名单疑泄露：ICM 官网代码藏四位得主姓名有网友称，通过抓取国际数学家大会（ICM）官网日程",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 65,
-  "updated_at": "2026-07-15T17:48:42.707443"
+  "count": 64,
+  "updated_at": "2026-07-15T17:53:46.791761"
 }
