@@ -1531,39 +1531,8 @@
         "minimal": "上海将于7月15日起实施全域无人机临时…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42563",
-      "channel": "zaihuapd",
-      "text": "DeepMind CEO 呼吁美国主导成立全球 AI 监管机构Google DeepMind CEO Demis Hassabis 呼吁由美国主导成立一个全球 AI 监管机构，力争在今年年底前开始运作。他提出，该机构应由独立专家和开源社区代表组成，有权在发布前评估前沿 AI 模型，并在风险过高时协调全行业暂停部署。Hassabis 表示，随着 AI 系统日益复杂，全球监管需求愈发迫切，通用人工智能可能仅剩数年之遥。他透露，已就这一提案与特朗普政府、其他 AI 实验室及欧洲官员进行了数月沟通，并表示对方反馈非常积极。The Verge·茶馆水群·",
-      "clean_text": "DeepMind CEO 呼吁美国主导成立全球 AI 监管机构Google DeepMind CEO Demis Hassabis 呼吁由美国主导成立一个全球 AI 监管机构，力争在今年年底前开始运作。他提出，该机构应由独立专家和开源社区代表组成，有权在发布前评估前沿 AI 模型，并在风险过高时协调全行业暂停部署。Hassabis 表示，随着 AI 系统日益复杂，全球监管需求愈发迫切，通用人工智能可能仅剩数年之遥。他透露，已就这一提案与特朗普政府、其他 AI 实验室及欧洲官员进行了数月沟通，并表示对方反馈非常积极。The Verge·茶馆水群",
-      "datetime": "2026-07-14T14:29:11+00:00",
-      "views": "49.9K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42563",
-      "scraped_at": "2026-07-14T23:01:26.912984",
-      "title": "DeepMind CEO 呼吁美国主导…",
-      "title_options": {
-        "conclusion": "DeepMind CEO 呼吁美国主导…",
-        "attractive": "DeepMind CEO 呼吁美国主导…",
-        "minimal": "DeepMind CEO 呼吁美国主导…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 62,
-  "updated_at": "2026-07-16T02:26:45.929280"
+  "count": 61,
+  "updated_at": "2026-07-16T02:31:50.454640"
 }
