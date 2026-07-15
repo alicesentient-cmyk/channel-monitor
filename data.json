@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42571",
+      "channel": "zaihuapd",
+      "text": "Telegram 推富文本编辑器、社群与隐身消息Telegram 发布更新，带来富文本编辑器、社群与群组隐身消息等功能。新编辑器支持标题、表格、列表及消息内插入图片视频，单条上限 32,768 字符，目前仅 Premium 用户可用。用户还可将多个群组、频道和机器人组成社群，成员可一键加入关联聊天，聊天可设公开或隐藏。群组机器人现能发送仅特定用户可见的临时消息，如私人 AI 摘要和问候语，不打扰其他成员。此外，GIF 搜索扩展至 3.5 亿个，覆盖 36 种语言，采用离线索引，宣称完全私密且速度更快。Telegram·茶馆水群·",
+      "clean_text": "Telegram 推富文本编辑器、社群与隐身消息Telegram 发布更新，带来富文本编辑器、社群与群组隐身消息等功能。新编辑器支持标题、表格、列表及消息内插入图片视频，单条上限 32,768 字符，目前仅 Premium 用户可用。用户还可将多个群组、频道和机器人组成社群，成员可一键加入关联聊天，聊天可设公开或隐藏。群组机器人现能发送仅特定用户可见的临时消息，如私人 AI 摘要和问候语，不打扰其他成员。此外，GIF 搜索扩展至 3.5 亿个，覆盖 36 种语言，采用离线索引，宣称完全私密且速度更快。Telegram·茶馆水群",
+      "datetime": "2026-07-15T02:49:30+00:00",
+      "views": "47.8K",
+      "source_links": [
+        {
+          "text": "Telegram",
+          "url": "https://telegram.org/blog/communities-editor-invisible-messages"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42571",
+      "scraped_at": "2026-07-15T11:00:54.662280",
+      "title": "Telegram 推富文本编辑器、社群…",
+      "title_options": {
+        "conclusion": "Telegram 推富文本编辑器、社群…",
+        "attractive": "Telegram 推富文本编辑器、社群…",
+        "minimal": "Telegram 推富文本编辑器、社群…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30812",
+      "channel": "xhqcankao",
+      "text": "波士顿动力公司尝试使用“机器狗”进行送货波士顿动力公司的四足机器人Spot已经找到了工作，用于执行常规工厂检查和巡逻庞贝古城遗址，但送货方面呢？该公司正在测试一种新的传送带配件，允许Spot从车辆上携带包裹并自主地将其卸载到客户的门口，以减少送货司机的工作量。尽管人们已经尝试使用轮式机器人或空中无人机来加快和自动化配送，但人类仍然是应对楼梯或杂乱通道等障碍物，以便将包裹从卡车运送到门口的最有效方式。演示视频显示，一名司机将包裹卸载到Spot上用于送货上门，波士顿动力公司希望这种配送方式的效率足以证明购买一台价值约7.5万美元的机器狗是值得的。",
+      "clean_text": "波士顿动力公司尝试使用“机器狗”进行送货波士顿动力公司的四足机器人Spot已经找到了工作，用于执行常规工厂检查和巡逻庞贝古城遗址，但送货方面呢？该公司正在测试一种新的传送带配件，允许Spot从车辆上携带包裹并自主地将其卸载到客户的门口，以减少送货司机的工作量。尽管人们已经尝试使用轮式机器人或空中无人机来加快和自动化配送，但人类仍然是应对楼梯或杂乱通道等障碍物，以便将包裹从卡车运送到门口的最有效方式。演示视频显示，一名司机将包裹卸载到Spot上用于送货上门，波士顿动力公司希望这种配送方式的效率足以证明购买一台价值约7.5万美元的机器狗是值得的。——Theverge",
+      "datetime": "2026-07-15T02:30:03+00:00",
+      "views": "1.16K",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30812",
+      "scraped_at": "2026-07-15T11:00:56.403841",
+      "title": "波士顿动力公司尝试使用“机器狗”进行送货波士顿动力公司",
+      "title_options": {
+        "conclusion": "波士顿动力公司尝试使用“机器狗”进行送货波士顿动力公司",
+        "attractive": "波士顿动力公司尝试使用“机器狗”进行送货波士顿动力公司",
+        "minimal": "波士顿动力公司尝试使用“机器狗”进行送货波士顿动力公司",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42570",
+      "channel": "zaihuapd",
+      "text": "OpenAI首款硬件或为无屏智能音箱，可控制家电并调用ChatGPTOpenAI正在开发一款便携式无屏智能音箱，可能成为其首款消费级硬件。设备将配备摄像头和传感器，可感知周围环境，用于控制智能家居、播放媒体、回答问题和回复消息，并调用ChatGPT的更多能力。产品由前苹果首席设计师 Jony Ive 参与设计，预计售价 200～300 美元，计划 2026 年发布、2027 年上市。Cult of Mac·茶馆水群·",
+      "clean_text": "🤖OpenAI首款硬件或为无屏智能音箱，可控制家电并调用ChatGPTOpenAI正在开发一款便携式无屏智能音箱，可能成为其首款消费级硬件。设备将配备摄像头和传感器，可感知周围环境，用于控制智能家居、播放媒体、回答问题和回复消息，并调用ChatGPT的更多能力。产品由前苹果首席设计师 Jony Ive 参与设计，预计售价 200～300 美元，计划 2026 年发布、2027 年上市。Cult of Mac·茶馆水群",
+      "datetime": "2026-07-15T02:03:02+00:00",
+      "views": "51.8K",
+      "source_links": [
+        {
+          "text": "Cult of Mac",
+          "url": "https://www.cultofmac.com/news/openai-smart-speaker"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42570",
+      "scraped_at": "2026-07-15T11:00:54.661773",
+      "title": "OpenAI首款硬件或为无屏智能音箱，…",
+      "title_options": {
+        "conclusion": "OpenAI首款硬件或为无屏智能音箱，…",
+        "attractive": "OpenAI首款硬件或为无屏智能音箱，…",
+        "minimal": "OpenAI首款硬件或为无屏智能音箱，…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30811",
       "channel": "xhqcankao",
       "text": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI的 Grok Build AI 编码工具被发现正在将用户的整个代码库上传到谷歌云，此事曝光后，该公司随后关闭了该功能。逆向工程师Cereblab在周一发布了调查结果，显示 Grok Build CLI 如何打包并上传整个代码仓库，“包括被告知不要打开的文件和从历史记录中删除的秘密”，数据保留量显著多于类似的工具如Claude Code。埃隆·马斯克在X 平台上的一篇帖子中回应了这一事件，声称Grok Build之前上传的所有数据将被“完全且彻底地删除”。埃隆·马斯克还在另一篇帖子中表示“隐私设置始终受到尊重”，但要求用户允许SpaceXAI保留他们的数据，称这“有助于调试问题”。",
@@ -1349,63 +1434,8 @@
         "minimal": "Firefox 2026 年 9 月起…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42541",
-      "channel": "zaihuapd",
-      "text": "Telegram 短域名t.me突遭注册局冻结Telegram 的短链接域名t.me已被注册局暂停使用。WHOIS 记录显示，该域名于 7 月 13 日被更新为 serverHold 状态，同时被附加禁止删除、禁止转移、禁止续费及禁止更新等多项限制。域名注册商为 GoDaddy，有效期至 2035 年 5 月。目前官方尚未公布具体原因。serverHold 是注册局层面的暂停指令，通常会导致域名无法正常解析，用户或通过该域名访问的短链接服务可能受到影响。Hacker News|whois.comupdate ： 已更新使用telegram.me。https://telegram.me/zaihuapd/42541update2 ：Durov 在 X @ domainME 寻求帮助。update3 ：据称：.ME域名区域的注册商 Identity Digital 已回复，并确认域名t.me因与美国财政部外国资产控制办公室（OFAC）相关的合规要求而被置于“serverHold”状态。·茶馆水群·",
-      "clean_text": "Telegram 短域名t.me突遭注册局冻结Telegram 的短链接域名t.me已被注册局暂停使用。WHOIS 记录显示，该域名于 7 月 13 日被更新为 serverHold 状态，同时被附加禁止删除、禁止转移、禁止续费及禁止更新等多项限制。域名注册商为 GoDaddy，有效期至 2035 年 5 月。目前官方尚未公布具体原因。serverHold 是注册局层面的暂停指令，通常会导致域名无法正常解析，用户或通过该域名访问的短链接服务可能受到影响。Hacker News|whois.comupdate ： 已更新使用telegram.me。https://telegram.me/zaihuapd/42541update2 ：Durov 在 X @ domainME 寻求帮助。update3 ：据称：.ME域名区域的注册商 Identity Digital 已回复，并确认域名t.me因与美国财政部外国资产控制办公室（OFAC）相关的合规要求而被置于“serverHold”状态。·茶馆水群",
-      "datetime": "2026-07-13T23:00:49+00:00",
-      "views": "67.7K",
-      "source_links": [
-        {
-          "text": "t.me",
-          "url": "http://t.me/"
-        },
-        {
-          "text": "t.me",
-          "url": "http://t.me/"
-        },
-        {
-          "text": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=48897878"
-        },
-        {
-          "text": "whois.com",
-          "url": "https://www.whois.com/whois/t.me"
-        },
-        {
-          "text": "telegram.me",
-          "url": "http://telegram.me/"
-        },
-        {
-          "text": "https://telegram.me/zaihuapd/42541",
-          "url": "https://telegram.me/zaihuapd/42541"
-        },
-        {
-          "text": "t.me",
-          "url": "http://t.me/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://telegram.me/zaihuapd/42541",
-      "scraped_at": "2026-07-14T21:01:50.917296",
-      "title": "Telegram 短域名t.me突遭注册局冻结Telegram ",
-      "title_options": {
-        "conclusion": "Telegram 短域名t.me突遭注册局冻结Telegram ",
-        "attractive": "Telegram 短域名t.me突遭注册局冻结Telegram ",
-        "minimal": "Telegram 短域名t.me突遭注册局冻结Telegram ",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-15T10:58:01.041440"
+  "count": 56,
+  "updated_at": "2026-07-15T11:03:05.264027"
 }
