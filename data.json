@@ -1632,39 +1632,8 @@
         "minimal": "Meta被指控让AI裁掉残障和健康不佳",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42586",
-      "channel": "zaihuapd",
-      "text": "欧盟放宽规定，Apple Watch 等可穿戴设备电池可不支持用户自行更换欧盟委员会修订电池法规，为 Apple Watch、智能眼镜和健身追踪器等小型可穿戴设备提供豁免，不再强制要求电池可由用户自行拆卸更换。豁免条件包括设备因体积过小、密封结构或防水需求而不适合用户自行更换电池。此前，美方官员曾批评相关规定阻碍了 Meta 智能眼镜在欧洲上市。欧盟委员会否认因外部压力让步，称该决定基于广泛公众咨询。新规仍需通过欧洲议会和欧盟理事会审查，若无人反对，将在欧盟官方公报发布后 20 天生效。9To5Mac·茶馆水群·",
-      "clean_text": "欧盟放宽规定，Apple Watch 等可穿戴设备电池可不支持用户自行更换欧盟委员会修订电池法规，为 Apple Watch、智能眼镜和健身追踪器等小型可穿戴设备提供豁免，不再强制要求电池可由用户自行拆卸更换。豁免条件包括设备因体积过小、密封结构或防水需求而不适合用户自行更换电池。此前，美方官员曾批评相关规定阻碍了 Meta 智能眼镜在欧洲上市。欧盟委员会否认因外部压力让步，称该决定基于广泛公众咨询。新规仍需通过欧洲议会和欧盟理事会审查，若无人反对，将在欧盟官方公报发布后 20 天生效。9To5Mac·茶馆水群",
-      "datetime": "2026-07-15T09:45:00+00:00",
-      "views": "49.1K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/07/14/apple-watch-among-wearables-exempted-from-eu-user-replaceable-battery-rules/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42586",
-      "scraped_at": "2026-07-15T18:02:14.224736",
-      "title": "欧盟放宽规定，Apple Watch …",
-      "title_options": {
-        "conclusion": "欧盟放宽规定，Apple Watch …",
-        "attractive": "欧盟放宽规定，Apple Watch …",
-        "minimal": "欧盟放宽规定，Apple Watch …",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-16T21:41:57.174364"
+  "count": 62,
+  "updated_at": "2026-07-16T21:47:01.421892"
 }
