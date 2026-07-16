@@ -1797,59 +1797,8 @@
         "minimal": "美国联邦通信委员会批准“太空反射镜”试点近日，在广泛",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42568",
-      "channel": "zaihuapd",
-      "text": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" 的问题Telegram 创始人帕维尔·杜罗夫宣布已购入域名 t.you，与其此前拥有的t.me并列。他在社交平台发文称，现在这变成了一个 \"we\"（我们）的问题。这一表述利用了英文双关：t.me中的 me 意为\"我\"，t.you中的 you 意为\"你\"，两者相加即为\"我们\"。杜罗夫未透露交易金额及该域名的具体用途。Pavel Durov (@durov)·茶馆水群·",
-      "clean_text": "✈️杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" 的问题Telegram 创始人帕维尔·杜罗夫宣布已购入域名 t.you，与其此前拥有的t.me并列。他在社交平台发文称，现在这变成了一个 \"we\"（我们）的问题。这一表述利用了英文双关：t.me中的 me 意为\"我\"，t.you中的 you 意为\"你\"，两者相加即为\"我们\"。杜罗夫未透露交易金额及该域名的具体用途。Pavel Durov (@durov)·茶馆水群",
-      "datetime": "2026-07-15T01:11:33+00:00",
-      "views": "52K",
-      "source_links": [
-        {
-          "text": "t.you",
-          "url": "http://t.you/"
-        },
-        {
-          "text": "t.me",
-          "url": "http://t.me/"
-        },
-        {
-          "text": "t.me",
-          "url": "http://t.me/"
-        },
-        {
-          "text": "t.me",
-          "url": "http://t.me/"
-        },
-        {
-          "text": "t.you",
-          "url": "http://t.you/"
-        },
-        {
-          "text": "Pavel Durov (@durov)",
-          "url": "https://x.com/durov/status/2077122635549311173"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42568",
-      "scraped_at": "2026-07-15T10:02:57.206787",
-      "title": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
-      "title_options": {
-        "conclusion": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
-        "attractive": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
-        "minimal": "杜罗夫买下t.you域名与t.me并列，称这成了 \"我们\" ",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 71,
-  "updated_at": "2026-07-16T13:10:36.346063"
+  "count": 70,
+  "updated_at": "2026-07-16T13:14:05.098502"
 }
