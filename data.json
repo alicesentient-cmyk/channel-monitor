@@ -1708,39 +1708,8 @@
         "minimal": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42571",
-      "channel": "zaihuapd",
-      "text": "Telegram 推富文本编辑器、社群与隐身消息Telegram 发布更新，带来富文本编辑器、社群与群组隐身消息等功能。新编辑器支持标题、表格、列表及消息内插入图片视频，单条上限 32,768 字符，目前仅 Premium 用户可用。用户还可将多个群组、频道和机器人组成社群，成员可一键加入关联聊天，聊天可设公开或隐藏。群组机器人现能发送仅特定用户可见的临时消息，如私人 AI 摘要和问候语，不打扰其他成员。此外，GIF 搜索扩展至 3.5 亿个，覆盖 36 种语言，采用离线索引，宣称完全私密且速度更快。Telegram·茶馆水群·",
-      "clean_text": "Telegram 推富文本编辑器、社群与隐身消息Telegram 发布更新，带来富文本编辑器、社群与群组隐身消息等功能。新编辑器支持标题、表格、列表及消息内插入图片视频，单条上限 32,768 字符，目前仅 Premium 用户可用。用户还可将多个群组、频道和机器人组成社群，成员可一键加入关联聊天，聊天可设公开或隐藏。群组机器人现能发送仅特定用户可见的临时消息，如私人 AI 摘要和问候语，不打扰其他成员。此外，GIF 搜索扩展至 3.5 亿个，覆盖 36 种语言，采用离线索引，宣称完全私密且速度更快。Telegram·茶馆水群",
-      "datetime": "2026-07-15T02:49:30+00:00",
-      "views": "47.8K",
-      "source_links": [
-        {
-          "text": "Telegram",
-          "url": "https://telegram.org/blog/communities-editor-invisible-messages"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42571",
-      "scraped_at": "2026-07-15T11:00:54.662280",
-      "title": "Telegram 推富文本编辑器、社群…",
-      "title_options": {
-        "conclusion": "Telegram 推富文本编辑器、社群…",
-        "attractive": "Telegram 推富文本编辑器、社群…",
-        "minimal": "Telegram 推富文本编辑器、社群…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-16T14:45:29.653050"
+  "count": 67,
+  "updated_at": "2026-07-16T14:50:33.551386"
 }
