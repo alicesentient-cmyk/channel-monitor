@@ -1320,39 +1320,8 @@
         "minimal": "推动中国车企赴匈投资后，匈牙利前外长加…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42594",
-      "channel": "zaihuapd",
-      "text": "ASML 拟上调光刻设备售价，台积电抵制涨价ASML 计划上调芯片制造设备价格，并已与台积电就提高极紫外光刻系统价格进行商讨。该公司近几周还通知部分客户（包括中国芯片制造商），拟将深紫外光刻系统售价提高 10%。台积电正在抵制 ASML 对这两类设备的涨价要求，两家公司均拒绝就此置评。Bloomberg Law·茶馆水群·",
-      "clean_text": "ASML 拟上调光刻设备售价，台积电抵制涨价ASML 计划上调芯片制造设备价格，并已与台积电就提高极紫外光刻系统价格进行商讨。该公司近几周还通知部分客户（包括中国芯片制造商），拟将深紫外光刻系统售价提高 10%。台积电正在抵制 ASML 对这两类设备的涨价要求，两家公司均拒绝就此置评。Bloomberg Law·茶馆水群",
-      "datetime": "2026-07-15T16:49:54+00:00",
-      "views": "46.8K",
-      "source_links": [
-        {
-          "text": "Bloomberg Law",
-          "url": "https://news.bloomberglaw.com/artificial-intelligence/asml-plans-price-increases-on-chipmaking-equipment-information"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42594",
-      "scraped_at": "2026-07-16T01:01:23.016464",
-      "title": "ASML 拟上调光刻设备售价，台积电抵…",
-      "title_options": {
-        "conclusion": "ASML 拟上调光刻设备售价，台积电抵…",
-        "attractive": "ASML 拟上调光刻设备售价，台积电抵…",
-        "minimal": "ASML 拟上调光刻设备售价，台积电抵…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-17T04:47:39.429646"
+  "count": 50,
+  "updated_at": "2026-07-17T04:52:42.643959"
 }
