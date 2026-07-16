@@ -1730,31 +1730,8 @@
         "minimal": "中兴成为获准购买英伟达H200芯片",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30814",
-      "channel": "xhqcankao",
-      "text": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二的消息称，Premium订阅用户现在将能够与该应用进行交互式对话，以选择他们想听的音乐或其他音频。该功能最初在美国、爱尔兰和瑞典面向 iOS和Android 设备上18岁及以上的用户以英语提供。这被视为测试版发布，意味着该功能可能并不总是完美运行，Spotify表示，但用户反馈将有助于改进产品。该公司在其公告中没有明确分享更多关于幕后AI技术的细节，但Spotify确认，公司混合使用了自己的AI技术和来自多家提供商的模型，基于什么最适合该任务。",
-      "clean_text": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二的消息称，Premium订阅用户现在将能够与该应用进行交互式对话，以选择他们想听的音乐或其他音频。该功能最初在美国、爱尔兰和瑞典面向 iOS和Android 设备上18岁及以上的用户以英语提供。这被视为测试版发布，意味着该功能可能并不总是完美运行，Spotify表示，但用户反馈将有助于改进产品。该公司在其公告中没有明确分享更多关于幕后AI技术的细节，但Spotify确认，公司混合使用了自己的AI技术和来自多家提供商的模型，基于什么最适合该任务。——Techcrunch",
-      "datetime": "2026-07-15T03:32:09+00:00",
-      "views": "1.17K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30814",
-      "scraped_at": "2026-07-15T12:00:53.239726",
-      "title": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
-      "title_options": {
-        "conclusion": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
-        "attractive": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
-        "minimal": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-16T15:31:10.421235"
+  "count": 68,
+  "updated_at": "2026-07-16T15:36:15.371008"
 }
