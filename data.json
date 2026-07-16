@@ -1743,49 +1743,8 @@
         "minimal": "微软史无前例地在Win 11更新中修复570个漏洞微软公司在2026年7月",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42573",
-      "channel": "zaihuapd",
-      "text": "OpenAI 回应被苹果起诉：对其他公司商业秘密不感兴趣  OpenAI 发言人 Drew Pusateri 回应被苹果起诉一事时称，OpenAI “对其他公司的商业秘密不感兴趣”，仍将专注于开发创新技术以赋能全球用户。此前苹果指控 OpenAI 窃取该公司商业秘密并提起诉讼。  MacRumors · 茶馆水群 ·",
-      "clean_text": "🤖OpenAI 回应被🍏苹果起诉：对其他公司商业秘密不感兴趣  OpenAI 发言人 Drew Pusateri 回应被苹果起诉一事时称，OpenAI “对其他公司的商业秘密不感兴趣”，仍将专注于开发创新技术以赋能全球用户。此前苹果指控 OpenAI 窃取该公司商业秘密并提起诉讼。  MacRumors · 茶馆水群 · 投稿通道",
-      "datetime": "2026-07-15T04:04:30+00:00",
-      "views": "51.4K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42573",
-      "scraped_at": "2026-07-15T13:01:13.580344",
-      "title": "OpenAI 回应被苹果起诉：对其他公司商业秘密不感兴趣  OpenAI 发言人 Drew Pusateri 回应被苹果起诉一事时称，OpenAI “对其他公司",
-      "title_options": {
-        "conclusion": "OpenAI 回应被苹果起诉：对其他公司商业秘密不感兴趣  OpenAI 发言人 Drew Pusateri 回应被苹果起诉一事时称，OpenAI “对其他公司",
-        "attractive": "OpenAI 回应被苹果起诉：对其他公司商业秘密不感兴趣  OpenAI 发言人 Drew Pusateri 回应被苹果起诉一事时称，OpenAI “对其他公司",
-        "minimal": "OpenAI 回应被苹果起诉：对其他公司商业秘密不感兴趣  OpenAI 发言人 Drew Pusateri 回应被苹果起诉一事时称，OpenAI “对其他公司",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30815",
-      "channel": "xhqcankao",
-      "text": "中兴成为获准购买英伟达H200芯片的中企之一根据文件和两名知情人士，中兴通讯旗下子公司和另外两家中国企业，已成为最新一批获美国批准采购英伟达和AMD先进AI芯片的实体。中兴康讯和服务器制造商至索已获准采购英伟达的 H200 芯片，而金山云旗下的珠海横琴云享智胜网络技术有限公司已获准使用部分可与H200竞争的AMD芯片。路透社五月曾报道，美国已批准包括阿里巴巴、腾讯、字节跳动和京东在内约10家中企购买英伟达芯片，但当时尚未有任何芯片交付，因为相关交易仍受制于中美两地的审批要求和审查。不过，知情人士说，一些中国云服务企业近期告知合作伙伴和客户，他们可能很快就能获得 H200 芯片，这表明中国有关部门的进口审查已取得一定进展。",
-      "clean_text": "中兴成为获准购买英伟达H200芯片的中企之一根据文件和两名知情人士，中兴通讯旗下子公司和另外两家中国企业，已成为最新一批获美国批准采购英伟达和AMD先进AI芯片的实体。中兴康讯和服务器制造商至索已获准采购英伟达的 H200 芯片，而金山云旗下的珠海横琴云享智胜网络技术有限公司已获准使用部分可与H200竞争的AMD芯片。路透社五月曾报道，美国已批准包括阿里巴巴、腾讯、字节跳动和京东在内约10家中企购买英伟达芯片，但当时尚未有任何芯片交付，因为相关交易仍受制于中美两地的审批要求和审查。不过，知情人士说，一些中国云服务企业近期告知合作伙伴和客户，他们可能很快就能获得 H200 芯片，这表明中国有关部门的进口审查已取得一定进展。——路透社",
-      "datetime": "2026-07-15T04:03:06+00:00",
-      "views": "2.19K",
-      "source_links": [
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/business/media-telecom/zte-among-chinese-firms-licensed-purchase-nvidias-h200-chips-documents-show-2026-07-14/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30815",
-      "scraped_at": "2026-07-15T13:01:15.365279",
-      "title": "中兴成为获准购买英伟达H200芯片",
-      "title_options": {
-        "conclusion": "中兴成为获准购买英伟达H200芯片",
-        "attractive": "中兴成为获准购买英伟达H200芯片",
-        "minimal": "中兴成为获准购买英伟达H200芯片",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 70,
-  "updated_at": "2026-07-16T16:01:40.037948"
+  "count": 68,
+  "updated_at": "2026-07-16T16:06:43.808188"
 }
