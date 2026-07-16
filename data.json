@@ -1,6 +1,87 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30843",
+      "channel": "xhqcankao",
+      "text": "苹果将AppleCare+年度订阅上调5美元苹果公司小幅上调了AppleCare+服务订阅的价格，这是该公司在全球存储芯片短缺及其他行业压力下推出的又一轮涨价举措。Mac和iPad的 AppleCare+ 月度订阅套餐价格上涨了50美分，而年度订阅套餐价格上涨了5美元。此次涨价仅适用于新用户，老用户仍将维持原有价格不变。AppleCare+ 提供客户支持，并在设备损坏时帮助用户维修。与此同时，苹果正寻找收购芯片公司以加强其构建用于运行AI的服务器芯片的努力。近几个月来，苹果与银行家们就可能的交易进行了交流。还接触了半导体初创企业，了解他们是否有意出售自己。苹果寻求芯片收购的行动正值公司内部AI服务器的性能问题。——彭博社、The Information",
+      "clean_text": "苹果将AppleCare+年度订阅上调5美元苹果公司小幅上调了AppleCare+服务订阅的价格，这是该公司在全球存储芯片短缺及其他行业压力下推出的又一轮涨价举措。Mac和iPad的 AppleCare+ 月度订阅套餐价格上涨了50美分，而年度订阅套餐价格上涨了5美元。此次涨价仅适用于新用户，老用户仍将维持原有价格不变。AppleCare+ 提供客户支持，并在设备损坏时帮助用户维修。与此同时，苹果正寻找收购芯片公司以加强其构建用于运行AI的服务器芯片的努力。近几个月来，苹果与银行家们就可能的交易进行了交流。还接触了半导体初创企业，了解他们是否有意出售自己。苹果寻求芯片收购的行动正值公司内部AI服务器的性能问题。——彭博社、The Information",
+      "datetime": "2026-07-16T02:00:37+00:00",
+      "views": "86",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/apple-boosts-applecare-monthly-prices-by-50-cents-in-latest-increase"
+        },
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/articles/apple-hunts-ai-chip-acquisitions"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30843",
+      "scraped_at": "2026-07-16T10:01:58.332327",
+      "title": "苹果将AppleCare+年度订阅上调5美元苹果公司小幅上调了AppleCare+服务订阅",
+      "title_options": {
+        "conclusion": "苹果将AppleCare+年度订阅上调5美元苹果公司小幅上调了AppleCare+服务订阅",
+        "attractive": "苹果将AppleCare+年度订阅上调5美元苹果公司小幅上调了AppleCare+服务订阅",
+        "minimal": "苹果将AppleCare+年度订阅上调5美元苹果公司小幅上调了AppleCare+服务订阅",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42599",
+      "channel": "zaihuapd",
+      "text": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克的人工智能公司 xAI 已起诉南卡罗来纳州男子 Terry Harwood，指控其滥用 AI 聊天机器人 Grok 生成儿童性虐待材料与非自愿成人色情深度伪造。Harwood 于今年 2 月因性剥削未成年人指控被捕，xAI 在本周二提交给德州联邦法院的诉讼中称，他上传非性图片并要求系统生成露骨内容，违反了服务条款。xAI 要求赔偿并申请法院永久禁止 Harwood 使用 Grok。诉讼称，该公司今年已暂停 52,222 个账户，向国家失踪与受虐儿童中心举报 73,604 次，促成至少 244 人被捕。该案是首批 AI 公司因用户生成色情内容而起诉用户的案件之一。Reuters·茶馆水群·",
+      "clean_text": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克的人工智能公司 xAI 已起诉南卡罗来纳州男子 Terry Harwood，指控其滥用 AI 聊天机器人 Grok 生成儿童性虐待材料与非自愿成人色情深度伪造。Harwood 于今年 2 月因性剥削未成年人指控被捕，xAI 在本周二提交给德州联邦法院的诉讼中称，他上传非性图片并要求系统生成露骨内容，违反了服务条款。xAI 要求赔偿并申请法院永久禁止 Harwood 使用 Grok。诉讼称，该公司今年已暂停 52,222 个账户，向国家失踪与受虐儿童中心举报 73,604 次，促成至少 244 人被捕。该案是首批 AI 公司因用户生成色情内容而起诉用户的案件之一。Reuters·茶馆水群",
+      "datetime": "2026-07-16T01:45:09+00:00",
+      "views": "48.5K",
+      "source_links": [
+        {
+          "text": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42599",
+      "scraped_at": "2026-07-16T10:01:56.218088",
+      "title": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
+      "title_options": {
+        "conclusion": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
+        "attractive": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
+        "minimal": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30842",
+      "channel": "xhqcankao",
+      "text": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下的 SpaceXAI 公司本周三宣布开源 Grok Build，并将源代码发布至 GitHub 平台。SpaceXAI公司表示：“开源发布源代码是构建强大、可靠框架的最直接方法。用户可以阅读源代码，了解其从上下文构建到工具调用分发的完整工作原理。开源也让框架更容易探索以及扩展：如果用户正在使用 Agent Skills、插件、hooks、MCP 服务器或子智能体，则源代码是了解每个组件如何加载和调用的权威参考。Grok Build 现在可以完全本地优先运行：自己编译，指向自己的本地推理，并从config.toml驱动一切。”",
+      "clean_text": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下的 SpaceXAI 公司本周三宣布开源 Grok Build，并将源代码发布至 GitHub 平台。SpaceXAI公司表示：“开源发布源代码是构建强大、可靠框架的最直接方法。用户可以阅读源代码，了解其从上下文构建到工具调用分发的完整工作原理。开源也让框架更容易探索以及扩展：如果用户正在使用 Agent Skills、插件、hooks、MCP 服务器或子智能体，则源代码是了解每个组件如何加载和调用的权威参考。Grok Build 现在可以完全本地优先运行：自己编译，指向自己的本地推理，并从config.toml驱动一切。”——马斯克",
+      "datetime": "2026-07-16T01:33:56+00:00",
+      "views": "1.09K",
+      "source_links": [
+        {
+          "text": "马斯克",
+          "url": "https://x.com/i/status/2077495635687723408"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30842",
+      "scraped_at": "2026-07-16T10:01:58.331946",
+      "title": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
+      "title_options": {
+        "conclusion": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
+        "attractive": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
+        "minimal": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42598",
       "channel": "zaihuapd",
       "text": "阿根廷 2 比 1 逆转英格兰，晋级世界杯决赛在 2026 年美加墨世界杯半决赛中，阿根廷以 2 比 1 逆转英格兰，晋级决赛。英格兰由安东尼·戈登率先破门，恩佐·费尔南德斯在第 85 分钟扳平比分，劳塔罗·马丁内斯补时阶段攻入制胜球。阿根廷将在决赛中对阵 2 比 0 淘汰法国的西班牙。比赛将于北京时间 7 月 20 日凌晨 3 时在美国新泽西州东卢瑟福举行。路透社|美联社·茶馆水群·",
@@ -1632,6 +1713,6 @@
       }
     }
   ],
-  "count": 64,
-  "updated_at": "2026-07-16T10:01:39.252793"
+  "count": 67,
+  "updated_at": "2026-07-16T10:06:43.604784"
 }
