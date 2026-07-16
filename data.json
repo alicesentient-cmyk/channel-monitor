@@ -1739,39 +1739,8 @@
         "minimal": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42569",
-      "channel": "zaihuapd",
-      "text": "字节跳动预热 Seedance 2.5，提升长视频生成和画面一致性字节跳动自研文生视频模型 Seedance 2.5 开始预热。新版本将延长原生连续生成时长，提升长视频生成能力和画面一致性，并优化人物细节、光影质感与镜头连贯性。多参考素材引导功能也将升级，以提高画面控制精度，面向短视频创作、商业宣传和内容可视化等场景。小云雀·茶馆水群·",
-      "clean_text": "📱字节跳动预热 Seedance 2.5，提升长视频生成和画面一致性字节跳动自研文生视频模型 Seedance 2.5 开始预热。新版本将延长原生连续生成时长，提升长视频生成能力和画面一致性，并优化人物细节、光影质感与镜头连贯性。多参考素材引导功能也将升级，以提高画面控制精度，面向短视频创作、商业宣传和内容可视化等场景。小云雀·茶馆水群",
-      "datetime": "2026-07-15T01:51:00+00:00",
-      "views": "47.5K",
-      "source_links": [
-        {
-          "text": "小云雀",
-          "url": "https://xiaoyunque.jianying.com/s/w8bBiBxF9dQ/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42569",
-      "scraped_at": "2026-07-15T10:02:57.207314",
-      "title": "字节跳动预热 Seedance 2.5…",
-      "title_options": {
-        "conclusion": "字节跳动预热 Seedance 2.5…",
-        "attractive": "字节跳动预热 Seedance 2.5…",
-        "minimal": "字节跳动预热 Seedance 2.5…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 69,
-  "updated_at": "2026-07-16T13:49:37.891024"
+  "count": 68,
+  "updated_at": "2026-07-16T13:54:42.222362"
 }
