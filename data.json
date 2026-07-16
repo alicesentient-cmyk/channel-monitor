@@ -1454,31 +1454,8 @@
         "minimal": "欧盟提款机再被罚：谷歌或被罚款数亿欧元欧盟委员会将在未来一周宣布一系列针对谷歌公司",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30835",
-      "channel": "xhqcankao",
-      "text": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单根据KeyBanc和FactSet的报告，英特尔公司的下一代制程技术，包括18A和14A 都取得了卓越的成功。报告称，英特尔晶圆代工已与AMD、英伟达、Marvell、微软、美光和OpenAI等公司达成合作。报告指出，英特尔18A工艺的良率已从上一季度的65%提升至85%，仅次于台积电N2(2nm)工艺90%的良率，但远高于三星SF2工艺 50-60%的良率。此外，英特尔的先进封装 EMIB 工艺也取得了重大进展。报告指出，英特尔的EMIB-T芯片良率已达到传闻中的98%。而就在三个月前，英特尔EMIB芯片的良率还只有90%。",
-      "clean_text": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单根据KeyBanc和FactSet的报告，英特尔公司的下一代制程技术，包括18A和14A 都取得了卓越的成功。报告称，英特尔晶圆代工已与AMD、英伟达、Marvell、微软、美光和OpenAI等公司达成合作。报告指出，英特尔18A工艺的良率已从上一季度的65%提升至85%，仅次于台积电N2(2nm)工艺90%的良率，但远高于三星SF2工艺 50-60%的良率。此外，英特尔的先进封装 EMIB 工艺也取得了重大进展。报告指出，英特尔的EMIB-T芯片良率已达到传闻中的98%。而就在三个月前，英特尔EMIB芯片的良率还只有90%。——财联社",
-      "datetime": "2026-07-15T14:04:44+00:00",
-      "views": "2.01K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2426861?sv=8.5.9&amp;"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30835",
-      "scraped_at": "2026-07-15T23:01:21.982845",
-      "title": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单根据KeyBanc和FactSet",
-      "title_options": {
-        "conclusion": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单根据KeyBanc和FactSet",
-        "attractive": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单根据KeyBanc和FactSet",
-        "minimal": "英特尔18A良率升至85% 据悉已获英伟达及OpenAI等多个公司大单根据KeyBanc和FactSet",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-17T02:00:49.808691"
+  "count": 55,
+  "updated_at": "2026-07-17T02:05:53.717715"
 }
