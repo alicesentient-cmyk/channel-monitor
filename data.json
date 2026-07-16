@@ -1,6 +1,105 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30853",
+      "channel": "xhqcankao",
+      "text": "微软培训销售人员贬低OpenAI等竞争对手微软似乎正在准备让其销售团队在AI行业中与其他主要参与者更具竞争力。根据彭博社的一篇新报道，在周二的一次内部会议上，公司高管概述了一项计划，让销售人员将来自OpenAI、谷歌和Anthropic等公司的AI产品与微软自己的产品进行否定性对比。这次会议被宣传为微软新财年的战略会议，在很大程度上侧重于宣传微软内部模型相对于其竞争对手的效率和成本效益。执行副总裁雅各布·安德鲁更进一步，进行了一场将Copilot直接与Anthropic Claude进行比较的演示。安德鲁指出，微软办公软件中的性能表现，Anthropic模型“速度更慢、准确性更低，并且缺乏适当的安全集成”。",
+      "clean_text": "微软培训销售人员贬低OpenAI等竞争对手微软似乎正在准备让其销售团队在AI行业中与其他主要参与者更具竞争力。根据彭博社的一篇新报道，在周二的一次内部会议上，公司高管概述了一项计划，让销售人员将来自OpenAI、谷歌和Anthropic等公司的AI产品与微软自己的产品进行否定性对比。这次会议被宣传为微软新财年的战略会议，在很大程度上侧重于宣传微软内部模型相对于其竞争对手的效率和成本效益。执行副总裁雅各布·安德鲁更进一步，进行了一场将Copilot直接与Anthropic Claude进行比较的演示。安德鲁指出，微软办公软件中的性能表现，Anthropic模型“速度更慢、准确性更低，并且缺乏适当的安全集成”。——Techcrunch、彭博社",
+      "datetime": "2026-07-16T07:00:38+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30853",
+      "scraped_at": "2026-07-16T15:00:58.218191",
+      "title": "微软培训销售人员贬低OpenAI等竞争…",
+      "title_options": {
+        "conclusion": "微软培训销售人员贬低OpenAI等竞争…",
+        "attractive": "微软培训销售人员贬低OpenAI等竞争…",
+        "minimal": "微软培训销售人员贬低OpenAI等竞争…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42607",
+      "channel": "zaihuapd",
+      "text": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin 的开源工具，可以为 OpenAI Codex 桌面端更换主题皮肤。该工具通过本机回环 CDP 注入实现换肤，不修改官方安装目录与代码签名，支持 Apple Silicon / Intel Mac 和 Windows 平台。换肤后的界面保留原生交互控件，侧栏、建议卡、输入框均可正常使用。用户可以自由更换背景图来定制主题，并可通过一键还原功能恢复官方外观。项目提供了粉系、财神打工版、红白科幻、初音未来等八种主题效果示例，采用 MIT 许可证开源。工具不会自动改写用户的 API Key 或模型供应商设置，换肤与 API 配置互相独立。GitHub·茶馆水群·",
+      "clean_text": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin 的开源工具，可以为 OpenAI Codex 桌面端更换主题皮肤。该工具通过本机回环 CDP 注入实现换肤，不修改官方安装目录与代码签名，支持 Apple Silicon / Intel Mac 和 Windows 平台。换肤后的界面保留原生交互控件，侧栏、建议卡、输入框均可正常使用。用户可以自由更换背景图来定制主题，并可通过一键还原功能恢复官方外观。项目提供了粉系、财神打工版、红白科幻、初音未来等八种主题效果示例，采用 MIT 许可证开源。工具不会自动改写用户的 API Key 或模型供应商设置，换肤与 API 配置互相独立。GitHub·茶馆水群",
+      "datetime": "2026-07-16T07:00:12+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42607",
+      "scraped_at": "2026-07-16T15:00:56.267975",
+      "title": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
+      "title_options": {
+        "conclusion": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
+        "attractive": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
+        "minimal": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30852",
+      "channel": "xhqcankao",
+      "text": "德国总理表示：不反对中国车企接手汽车工厂 但非长久之计德国总理默茨说，他不反对中国汽车制造商接手陷入困境的德国汽车工厂，但强调这并非解决德国汽车业结构性问题的长久之计。由于德国许多汽车工厂产能利用率不足，外界开始讨论让中国车企使用部分生产线，甚至直接接管部分工厂的可能性。比亚迪等中国电动车制造商目前正积极在欧洲寻找生产基地，以配合公司欧洲业务扩张。对于中企收购德国汽车工厂的可能性，默茨周三在柏林举行的记者会上说：“是否愿意这样做，应由企业自行决定。”但他强调：“我认为这是一种应急解决方案，而不是解决我们自身结构性问题的办法。”",
+      "clean_text": "德国总理表示：不反对中国车企接手汽车工厂 但非长久之计德国总理默茨说，他不反对中国汽车制造商接手陷入困境的德国汽车工厂，但强调这并非解决德国汽车业结构性问题的长久之计。由于德国许多汽车工厂产能利用率不足，外界开始讨论让中国车企使用部分生产线，甚至直接接管部分工厂的可能性。比亚迪等中国电动车制造商目前正积极在欧洲寻找生产基地，以配合公司欧洲业务扩张。对于中企收购德国汽车工厂的可能性，默茨周三在柏林举行的记者会上说：“是否愿意这样做，应由企业自行决定。”但他强调：“我认为这是一种应急解决方案，而不是解决我们自身结构性问题的办法。”——联合早报",
+      "datetime": "2026-07-16T06:31:13+00:00",
+      "views": "1.37K",
+      "source_links": [
+        {
+          "text": "联合早报",
+          "url": "https://www.zaobao.com.sg/news/china/story20260715-9370751"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30852",
+      "scraped_at": "2026-07-16T15:00:58.217835",
+      "title": "德国总理表示：不反对中国车企接手汽车工厂 但非长久之计德国总理默茨说，他不反对中国汽车制造商接手陷入困境",
+      "title_options": {
+        "conclusion": "德国总理表示：不反对中国车企接手汽车工厂 但非长久之计德国总理默茨说，他不反对中国汽车制造商接手陷入困境",
+        "attractive": "德国总理表示：不反对中国车企接手汽车工厂 但非长久之计德国总理默茨说，他不反对中国汽车制造商接手陷入困境",
+        "minimal": "德国总理表示：不反对中国车企接手汽车工厂 但非长久之计德国总理默茨说，他不反对中国汽车制造商接手陷入困境",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42606",
+      "channel": "zaihuapd",
+      "text": "美国财政部确认将发行印有特朗普头像的 1 美元硬币  美国财政部长贝森特转发了关于打造印有特朗普头像的 1 美元硬币的贴文。美国财政部司库 Brandon Beach 在社交媒体上证实，\"这些为纪念美国建国 250 周年以及致敬总统特朗普而拟定的初步方案均为真实内容\"。美国财政部已正式确认将打造该硬币。  汇通财经 | Brandon",
+      "clean_text": "美国财政部确认将发行印有特朗普头像的 1 美元硬币  美国财政部长贝森特转发了关于打造印有特朗普头像的 1 美元硬币的贴文。美国财政部司库 Brandon Beach 在社交媒体上证实，\"这些为纪念美国建国 250 周年以及致敬总统特朗普而拟定的初步方案均为真实内容\"。美国财政部已正式确认将打造该硬币。  汇通财经 | Brandon Beach🍀在花频道🍵茶馆📮投稿",
+      "datetime": "2026-07-16T06:06:43+00:00",
+      "views": "51.7K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42606",
+      "scraped_at": "2026-07-16T15:00:56.267442",
+      "title": "美国财政部确认将发行印有特朗普头像",
+      "title_options": {
+        "conclusion": "美国财政部确认将发行印有特朗普头像",
+        "attractive": "美国财政部确认将发行印有特朗普头像",
+        "minimal": "美国财政部确认将发行印有特朗普头像",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30851",
       "channel": "xhqcankao",
       "text": "苹果确认T-Mobile 和Verizon 分期用户不再享受无锁待遇大家可能经常能在电商平台见到一些特别便宜的iPhone“水货”机型，而这些机型多数来源海外用户在运营商处购买的无锁合约机。Reddit 用户 Shrinra 近日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和Verizon 两家运营商的解锁条款。根据苹果官网更新的 FAQ 说明，用户若通过AT&T分期付款计划、T-Mobile设备分期付款计划或Verizon设备支付计划购买iPhone，设备将在还清全款前保持“有锁”状态。",
@@ -1654,62 +1753,8 @@
         "minimal": "Spotify通过一款音乐助手扩展其AI布局音乐流媒体Spotify正在采取又一举措，将人工智能技术融入平台收听体验，周二",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30813",
-      "channel": "xhqcankao",
-      "text": "OpenAI的新旗舰AI模型会自行删除文件OpenAI最新面向编码和网络安全的旗舰模型GPT-5.6 Sol的用户正在社交媒体上发布令人震惊的经历，声称该模型自行突然删除了他们的文件、数据，甚至整个数据库，而没有事先征求许可。“GPT-5.6-Sol刚刚意外删除了我 Mac 上几乎所有的文件，”AI初创公司OthersideAI的创始人马特·舒默在 X 上的一篇现已疯传的帖子中写道。诚然，少数用户提出此类说法在统计上并非模型应负全责的可靠证据。许多其他变量可能导致AI系统行为异常。但OpenAI本身在Sol发布之前就已标记了这一风险。在OpenAI发布GPT-5.6 Sol的两周前，该公司发布了这款模型的系统卡。OpenAI发现Sol有种倾向，即会采取它认为能完成工作的任何行动，甚至是破坏性的行动，只要这些行动没有被“明确”禁止。",
-      "clean_text": "OpenAI的新旗舰AI模型会自行删除文件OpenAI最新面向编码和网络安全的旗舰模型GPT-5.6 Sol的用户正在社交媒体上发布令人震惊的经历，声称该模型自行突然删除了他们的文件、数据，甚至整个数据库，而没有事先征求许可。“GPT-5.6-Sol刚刚意外删除了我 Mac 上几乎所有的文件，”AI初创公司OthersideAI的创始人马特·舒默在 X 上的一篇现已疯传的帖子中写道。诚然，少数用户提出此类说法在统计上并非模型应负全责的可靠证据。许多其他变量可能导致AI系统行为异常。但OpenAI本身在Sol发布之前就已标记了这一风险。在OpenAI发布GPT-5.6 Sol的两周前，该公司发布了这款模型的系统卡。OpenAI发现Sol有种倾向，即会采取它认为能完成工作的任何行动，甚至是破坏性的行动，只要这些行动没有被“明确”禁止。——Techcrunch",
-      "datetime": "2026-07-15T03:02:23+00:00",
-      "views": "2.15K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30813",
-      "scraped_at": "2026-07-15T12:00:53.239281",
-      "title": "OpenAI",
-      "title_options": {
-        "conclusion": "OpenAI",
-        "attractive": "OpenAI",
-        "minimal": "OpenAI",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42572",
-      "channel": "zaihuapd",
-      "text": "贾浅浅因抄袭被西北大学撤销硕士学位并解聘西北大学今日通报贾浅浅事件，认定其存在抄袭行为，学术不端行为属实。学校已撤销贾浅浅硕士学位、副教授职称及教师岗位任职资格，同意其辞职申请并解除聘用关系，同时按程序撤销了其教师资格。相关责任人也已被依规处理。微博·茶馆水群·",
-      "clean_text": "贾浅浅因抄袭被西北大学撤销硕士学位并解聘西北大学今日通报贾浅浅事件，认定其存在抄袭行为，学术不端行为属实。学校已撤销贾浅浅硕士学位、副教授职称及教师岗位任职资格，同意其辞职申请并解除聘用关系，同时按程序撤销了其教师资格。相关责任人也已被依规处理。微博·茶馆水群",
-      "datetime": "2026-07-15T03:01:18+00:00",
-      "views": "52.2K",
-      "source_links": [
-        {
-          "text": "微博",
-          "url": "https://weibo.com/2656274875/5320884077465841"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42572",
-      "scraped_at": "2026-07-15T12:00:51.440970",
-      "title": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
-      "title_options": {
-        "conclusion": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
-        "attractive": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
-        "minimal": "贾浅浅因抄袭被西北大学撤销硕士学位并解…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 67,
-  "updated_at": "2026-07-16T15:00:42.895598"
+  "count": 69,
+  "updated_at": "2026-07-16T15:05:48.699370"
 }
