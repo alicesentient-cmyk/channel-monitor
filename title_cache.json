@@ -18294,5 +18294,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-16T12:03:06.901660"
+  },
+  "zaihuapd_42604": {
+    "ai_title": "Claude 有点着急了，重置了额度",
+    "title_options": {
+      "conclusion": "Claude 有点着急了，重置了额度",
+      "attractive": "Claude 有点着急了，重置了额度",
+      "minimal": "Claude 有点着急了，重置了额度",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-16T13:03:52.656305"
+  },
+  "zaihuapd_42603": {
+    "ai_title": "努比亚官宣首款 AI 智能体手机 Na…",
+    "title_options": {
+      "conclusion": "努比亚官宣首款 AI 智能体手机 Na…",
+      "attractive": "努比亚官宣首款 AI 智能体手机 Na…",
+      "minimal": "努比亚官宣首款 AI 智能体手机 Na…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-16T13:03:52.659148"
+  },
+  "xhqcankao_30848": {
+    "ai_title": "ASML计划上调光刻机价格 台积电表示…",
+    "title_options": {
+      "conclusion": "ASML计划上调光刻机价格 台积电表示…",
+      "attractive": "ASML计划上调光刻机价格 台积电表示…",
+      "minimal": "ASML计划上调光刻机价格 台积电表示…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-16T13:03:52.752234"
+  },
+  "xhqcankao_30847": {
+    "ai_title": "英伟达",
+    "title_options": {
+      "conclusion": "英伟达",
+      "attractive": "英伟达",
+      "minimal": "英伟达",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-16T13:03:53.790796"
   }
 }
