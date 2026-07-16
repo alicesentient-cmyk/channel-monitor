@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30851",
+      "channel": "xhqcankao",
+      "text": "苹果确认T-Mobile 和Verizon 分期用户不再享受无锁待遇大家可能经常能在电商平台见到一些特别便宜的iPhone“水货”机型，而这些机型多数来源海外用户在运营商处购买的无锁合约机。Reddit 用户 Shrinra 近日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和Verizon 两家运营商的解锁条款。根据苹果官网更新的 FAQ 说明，用户若通过AT&T分期付款计划、T-Mobile设备分期付款计划或Verizon设备支付计划购买iPhone，设备将在还清全款前保持“有锁”状态。",
+      "clean_text": "苹果确认T-Mobile 和Verizon 分期用户不再享受无锁待遇大家可能经常能在电商平台见到一些特别便宜的iPhone“水货”机型，而这些机型多数来源海外用户在运营商处购买的无锁合约机。Reddit 用户 Shrinra 近日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和Verizon 两家运营商的解锁条款。根据苹果官网更新的 FAQ 说明，用户若通过AT&T分期付款计划、T-Mobile设备分期付款计划或Verizon设备支付计划购买iPhone，设备将在还清全款前保持“有锁”状态。——IT之家、Macrumors",
+      "datetime": "2026-07-16T06:01:09+00:00",
+      "views": "134",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://m.ithome.com/html/976841.htm"
+        },
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30851",
+      "scraped_at": "2026-07-16T14:02:18.867833",
+      "title": "苹果确认T-Mobile 和Verizon 分期用户不再享受无锁待遇大家可能经常能在电商平台见到一些特别便宜",
+      "title_options": {
+        "conclusion": "苹果确认T-Mobile 和Verizon 分期用户不再享受无锁待遇大家可能经常能在电商平台见到一些特别便宜",
+        "attractive": "苹果确认T-Mobile 和Verizon 分期用户不再享受无锁待遇大家可能经常能在电商平台见到一些特别便宜",
+        "minimal": "苹果确认T-Mobile 和Verizon 分期用户不再享受无锁待遇大家可能经常能在电商平台见到一些特别便宜",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30850",
+      "channel": "xhqcankao",
+      "text": "纽约州叫停建设人工智能数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！当地时间周三，美国总统特朗普猛烈抨击纽约州暂停AI数据中心建设的决定，称该州正在放弃AI热潮带来的最大经济机遇之一。特朗普在Truth Social上发文称：“数据中心是未来就业的最大驱动力之一。它们规模庞大、实力雄厚、气势磅礴，是所在州的摇钱树。然而，出于政治原因，纽约州州长凯西·霍楚尔终止了所有正在建设或计划在纽约州建设的数据中心项目。”“纽约州做出了一个糟糕的决定，”特朗普周三写道，并敦促纽约州立即扭转政策，否则企业将转而在得克萨斯、亚利桑那、阿拉巴马和佛罗里达等州建设相关项目。",
+      "clean_text": "纽约州叫停建设人工智能数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！当地时间周三，美国总统特朗普猛烈抨击纽约州暂停AI数据中心建设的决定，称该州正在放弃AI热潮带来的最大经济机遇之一。特朗普在Truth Social上发文称：“数据中心是未来就业的最大驱动力之一。它们规模庞大、实力雄厚、气势磅礴，是所在州的摇钱树。然而，出于政治原因，纽约州州长凯西·霍楚尔终止了所有正在建设或计划在纽约州建设的数据中心项目。”“纽约州做出了一个糟糕的决定，”特朗普周三写道，并敦促纽约州立即扭转政策，否则企业将转而在得克萨斯、亚利桑那、阿拉巴马和佛罗里达等州建设相关项目。——财联社、CNBC",
+      "datetime": "2026-07-16T05:31:06+00:00",
+      "views": "1.22K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2427879?sv=8.8.0"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30850",
+      "scraped_at": "2026-07-16T14:02:18.867410",
+      "title": "纽约州叫停建设人工智能数据中心",
+      "title_options": {
+        "conclusion": "纽约州叫停建设人工智能数据中心",
+        "attractive": "纽约州叫停建设人工智能数据中心",
+        "minimal": "纽约州叫停建设人工智能数据中心",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30849",
+      "channel": "xhqcankao",
+      "text": "黄仁勋现身秋叶原 与英伟达“救命恩人”重逢周三，英伟达CEO黄仁勋现身东京秋叶原的游戏厅，与30年前拯救公司于破产危机的故人重逢。在当天于世嘉游戏中心旧址举行的活动上，黄仁勋与世嘉前社长入交昭一郎再度同台。英伟达掌门感慨地表示：“如果没有世嘉所做的一切，如果没有入交昭一郎所做的一切，英伟达不会存活到今天。”黄仁勋曾回忆当年的情景称：“对当时的世嘉来说，500 万美元也是一笔巨款。我告诉入交，如果他们把这笔钱投给我们，很可能会血本无归；但如果他们不投，我们就会倒闭……他考虑了几天后告诉我：我们投。”周三，双方宣布继续展开合作，未来世嘉作品将支持英伟达刚发布的RTX Spark平台。",
+      "clean_text": "黄仁勋现身秋叶原 与英伟达“救命恩人”重逢周三，英伟达CEO黄仁勋现身东京秋叶原的游戏厅，与30年前拯救公司于破产危机的故人重逢。在当天于世嘉游戏中心旧址举行的活动上，黄仁勋与世嘉前社长入交昭一郎再度同台。英伟达掌门感慨地表示：“如果没有世嘉所做的一切，如果没有入交昭一郎所做的一切，英伟达不会存活到今天。”黄仁勋曾回忆当年的情景称：“对当时的世嘉来说，500 万美元也是一笔巨款。我告诉入交，如果他们把这笔钱投给我们，很可能会血本无归；但如果他们不投，我们就会倒闭……他考虑了几天后告诉我：我们投。”周三，双方宣布继续展开合作，未来世嘉作品将支持英伟达刚发布的RTX Spark平台。——财联社",
+      "datetime": "2026-07-16T05:03:43+00:00",
+      "views": "2.11K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2427790?sv=8.8.0&amp;"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30849",
+      "scraped_at": "2026-07-16T14:02:18.866937",
+      "title": "黄仁勋现身秋叶原 与英伟达“救命恩人”重逢周三，英伟达CEO黄仁勋现身东京秋叶原",
+      "title_options": {
+        "conclusion": "黄仁勋现身秋叶原 与英伟达“救命恩人”重逢周三，英伟达CEO黄仁勋现身东京秋叶原",
+        "attractive": "黄仁勋现身秋叶原 与英伟达“救命恩人”重逢周三，英伟达CEO黄仁勋现身东京秋叶原",
+        "minimal": "黄仁勋现身秋叶原 与英伟达“救命恩人”重逢周三，英伟达CEO黄仁勋现身东京秋叶原",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42604",
       "channel": "zaihuapd",
       "text": "Claude 有点着急了，重置了额度。ClaudeDevsCodex 紧随其后也重置了额度。Tibo打起来！打起来！·茶馆水群·",
@@ -1685,62 +1762,8 @@
         "minimal": "波士顿动力公司尝试使用“机器狗”进行送货波士顿动力公司",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42570",
-      "channel": "zaihuapd",
-      "text": "OpenAI首款硬件或为无屏智能音箱，可控制家电并调用ChatGPTOpenAI正在开发一款便携式无屏智能音箱，可能成为其首款消费级硬件。设备将配备摄像头和传感器，可感知周围环境，用于控制智能家居、播放媒体、回答问题和回复消息，并调用ChatGPT的更多能力。产品由前苹果首席设计师 Jony Ive 参与设计，预计售价 200～300 美元，计划 2026 年发布、2027 年上市。Cult of Mac·茶馆水群·",
-      "clean_text": "🤖OpenAI首款硬件或为无屏智能音箱，可控制家电并调用ChatGPTOpenAI正在开发一款便携式无屏智能音箱，可能成为其首款消费级硬件。设备将配备摄像头和传感器，可感知周围环境，用于控制智能家居、播放媒体、回答问题和回复消息，并调用ChatGPT的更多能力。产品由前苹果首席设计师 Jony Ive 参与设计，预计售价 200～300 美元，计划 2026 年发布、2027 年上市。Cult of Mac·茶馆水群",
-      "datetime": "2026-07-15T02:03:02+00:00",
-      "views": "51.8K",
-      "source_links": [
-        {
-          "text": "Cult of Mac",
-          "url": "https://www.cultofmac.com/news/openai-smart-speaker"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42570",
-      "scraped_at": "2026-07-15T11:00:54.661773",
-      "title": "OpenAI首款硬件或为无屏智能音箱，…",
-      "title_options": {
-        "conclusion": "OpenAI首款硬件或为无屏智能音箱，…",
-        "attractive": "OpenAI首款硬件或为无屏智能音箱，…",
-        "minimal": "OpenAI首款硬件或为无屏智能音箱，…",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30811",
-      "channel": "xhqcankao",
-      "text": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI的 Grok Build AI 编码工具被发现正在将用户的整个代码库上传到谷歌云，此事曝光后，该公司随后关闭了该功能。逆向工程师Cereblab在周一发布了调查结果，显示 Grok Build CLI 如何打包并上传整个代码仓库，“包括被告知不要打开的文件和从历史记录中删除的秘密”，数据保留量显著多于类似的工具如Claude Code。埃隆·马斯克在X 平台上的一篇帖子中回应了这一事件，声称Grok Build之前上传的所有数据将被“完全且彻底地删除”。埃隆·马斯克还在另一篇帖子中表示“隐私设置始终受到尊重”，但要求用户允许SpaceXAI保留他们的数据，称这“有助于调试问题”。",
-      "clean_text": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI的 Grok Build AI 编码工具被发现正在将用户的整个代码库上传到谷歌云，此事曝光后，该公司随后关闭了该功能。逆向工程师Cereblab在周一发布了调查结果，显示 Grok Build CLI 如何打包并上传整个代码仓库，“包括被告知不要打开的文件和从历史记录中删除的秘密”，数据保留量显著多于类似的工具如Claude Code。埃隆·马斯克在X 平台上的一篇帖子中回应了这一事件，声称Grok Build之前上传的所有数据将被“完全且彻底地删除”。埃隆·马斯克还在另一篇帖子中表示“隐私设置始终受到尊重”，但要求用户允许SpaceXAI保留他们的数据，称这“有助于调试问题”。——Theverge",
-      "datetime": "2026-07-15T02:00:24+00:00",
-      "views": "224",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30811",
-      "scraped_at": "2026-07-15T10:02:59.691697",
-      "title": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
-      "title_options": {
-        "conclusion": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
-        "attractive": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
-        "minimal": "Grok编程工具被曝将用户代码库上传云存储SpaceXAI",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 68,
-  "updated_at": "2026-07-16T13:59:47.235954"
+  "count": 69,
+  "updated_at": "2026-07-16T14:04:54.276660"
 }
