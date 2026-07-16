@@ -1713,39 +1713,8 @@
         "minimal": "苹果Apple智能在列，网信部门发布7款提供手机端侧生成式AI服务已备案信息为促进生成式人工智能服务创新发展和规范应用，中国网信部门会同有关部门按照《生成式人工智能服务管理暂行办法》要求，有序开展生成式人工智能服务备案工作，现将新增",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42580",
-      "channel": "zaihuapd",
-      "text": "Apple 智能、华为小艺 AI 大模型等7款手机端侧语言模型完成备案网信办备案信息显示，Apple、华为、OPPO、vivo、小米、三星及中兴相关手机端侧语言模型于7月8日完成备案，应用场景均为手机端。其中包括 Apple 智能模型、华为小艺 AI 大模型、OPPO AndesGPT、vivo 蓝心智能大模型、小米澎湃 AI 和三星 Galaxy AI 等。网信中国·茶馆水群·",
-      "clean_text": "📱Apple 智能、华为小艺 AI 大模型等7款手机端侧语言模型完成备案网信办备案信息显示，Apple、华为、OPPO、vivo、小米、三星及中兴相关手机端侧语言模型于7月8日完成备案，应用场景均为手机端。其中包括 Apple 智能模型、华为小艺 AI 大模型、OPPO AndesGPT、vivo 蓝心智能大模型、小米澎湃 AI 和三星 Galaxy AI 等。网信中国·茶馆水群",
-      "datetime": "2026-07-15T08:06:57+00:00",
-      "views": "52.9K",
-      "source_links": [
-        {
-          "text": "网信中国",
-          "url": "https://mp.weixin.qq.com/s/5MTWh4pWVAlL71RQbU-Udg"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42580",
-      "scraped_at": "2026-07-15T17:03:15.270629",
-      "title": "Apple 智能、华为小艺 AI 大模…",
-      "title_options": {
-        "conclusion": "Apple 智能、华为小艺 AI 大模…",
-        "attractive": "Apple 智能、华为小艺 AI 大模…",
-        "minimal": "Apple 智能、华为小艺 AI 大模…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 66,
-  "updated_at": "2026-07-16T20:05:23.229910"
+  "count": 65,
+  "updated_at": "2026-07-16T20:10:20.301105"
 }
