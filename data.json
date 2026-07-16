@@ -1,6 +1,122 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42598",
+      "channel": "zaihuapd",
+      "text": "阿根廷 2 比 1 逆转英格兰，晋级世界杯决赛在 2026 年美加墨世界杯半决赛中，阿根廷以 2 比 1 逆转英格兰，晋级决赛。英格兰由安东尼·戈登率先破门，恩佐·费尔南德斯在第 85 分钟扳平比分，劳塔罗·马丁内斯补时阶段攻入制胜球。阿根廷将在决赛中对阵 2 比 0 淘汰法国的西班牙。比赛将于北京时间 7 月 20 日凌晨 3 时在美国新泽西州东卢瑟福举行。路透社|美联社·茶馆水群·",
+      "clean_text": "阿根廷 2 比 1 逆转英格兰，晋级世界杯决赛在 2026 年美加墨世界杯半决赛中，阿根廷以 2 比 1 逆转英格兰，晋级决赛。英格兰由安东尼·戈登率先破门，恩佐·费尔南德斯在第 85 分钟扳平比分，劳塔罗·马丁内斯补时阶段攻入制胜球。阿根廷将在决赛中对阵 2 比 0 淘汰法国的西班牙。比赛将于北京时间 7 月 20 日凌晨 3 时在美国新泽西州东卢瑟福举行。路透社|美联社·茶馆水群",
+      "datetime": "2026-07-16T01:03:11+00:00",
+      "views": "18.9K",
+      "source_links": [
+        {
+          "text": "路透社",
+          "url": "https://www.reuters.com/sports/soccer/holders-argentina-beat-england-2-1-set-up-world-cup-final-against-spain-2026-07-15/"
+        },
+        {
+          "text": "美联社",
+          "url": "https://apnews.com/article/2ae6a218ae88248db6565ffd13f60d38"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42598",
+      "scraped_at": "2026-07-16T09:08:14.319690",
+      "title": "阿根廷 2 比 1 逆转英格兰，晋级世…",
+      "title_options": {
+        "conclusion": "阿根廷 2 比 1 逆转英格兰，晋级世…",
+        "attractive": "阿根廷 2 比 1 逆转英格兰，晋级世…",
+        "minimal": "阿根廷 2 比 1 逆转英格兰，晋级世…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30841",
+      "channel": "xhqcankao",
+      "text": "美企高管认为中国模型对美国构成经济风险帕兰提尔技术公司首席技术官希亚姆·桑卡表示，中国通过未经授权使用硅谷人工智能开发者成果的方式，开发了一批新型人工智能模型，对美国构成经济威胁。桑卡周三在宾夕法尼亚州一场国防创新会议间隙接受彭博电视台采访时表示：“这些中国开源模型实际上是蒸馏攻击的结果。这些东西大部分就是从前沿实验室窃取的美国知识产权。”桑卡的言论凸显了美国顶尖AI公司日益加剧的担忧，即其中国竞争对手正在不当使用一种称为蒸馏的技术，即开发者利用另一个AI模型的结果来训练系统，以远低于原先的成本在新模型中创建类似能力。他呼吁美国领先实验室采取更多措施保护其知识产权，称这“符合他们自身的经济利益”。",
+      "clean_text": "美企高管认为中国模型对美国构成经济风险帕兰提尔技术公司首席技术官希亚姆·桑卡表示，中国通过未经授权使用硅谷人工智能开发者成果的方式，开发了一批新型人工智能模型，对美国构成经济威胁。桑卡周三在宾夕法尼亚州一场国防创新会议间隙接受彭博电视台采访时表示：“这些中国开源模型实际上是蒸馏攻击的结果。这些东西大部分就是从前沿实验室窃取的美国知识产权。”桑卡的言论凸显了美国顶尖AI公司日益加剧的担忧，即其中国竞争对手正在不当使用一种称为蒸馏的技术，即开发者利用另一个AI模型的结果来训练系统，以远低于原先的成本在新模型中创建类似能力。他呼吁美国领先实验室采取更多措施保护其知识产权，称这“符合他们自身的经济利益”。——彭博社",
+      "datetime": "2026-07-16T00:56:51+00:00",
+      "views": "560",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/palantir-s-cto-sees-chinese-ai-models-posing-economic-risk-to-us"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30841",
+      "scraped_at": "2026-07-16T09:08:15.926747",
+      "title": "美企高管认为中国模型对美国构成经济风险帕兰提尔技术公司首席技术官希亚姆·桑卡表示，中国通过未经授权使用硅谷人工智能开发者成果",
+      "title_options": {
+        "conclusion": "美企高管认为中国模型对美国构成经济风险帕兰提尔技术公司首席技术官希亚姆·桑卡表示，中国通过未经授权使用硅谷人工智能开发者成果",
+        "attractive": "美企高管认为中国模型对美国构成经济风险帕兰提尔技术公司首席技术官希亚姆·桑卡表示，中国通过未经授权使用硅谷人工智能开发者成果",
+        "minimal": "美企高管认为中国模型对美国构成经济风险帕兰提尔技术公司首席技术官希亚姆·桑卡表示，中国通过未经授权使用硅谷人工智能开发者成果",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30840",
+      "channel": "xhqcankao",
+      "text": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性的AI模型，希望借此缩小与其前东家OpenAI等前沿AI实验室之间的技术差距。穆拉蒂领导的Thinking Machines Lab在周三发布了公司的首款AI模型，并采用了 “开放权重” 模式，这意味着其他开发者可以结合自己的数据对模型进行修改。这款名为Inkling的模型拥有9750亿个参数。该公司表示，Inkling基础模型的架构借鉴了中国的DeepSeek-V3模型，并在后训练阶段使用了由月之暗面公司Kimi K2.5生成的数据进行了优化。与前沿AI实验室专注于提升模型原始性能不同，Inkling的设计重点是在“成本与性能之间取得平衡”。",
+      "clean_text": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性的AI模型，希望借此缩小与其前东家OpenAI等前沿AI实验室之间的技术差距。穆拉蒂领导的Thinking Machines Lab在周三发布了公司的首款AI模型，并采用了 “开放权重” 模式，这意味着其他开发者可以结合自己的数据对模型进行修改。这款名为Inkling的模型拥有9750亿个参数。该公司表示，Inkling基础模型的架构借鉴了中国的DeepSeek-V3模型，并在后训练阶段使用了由月之暗面公司Kimi K2.5生成的数据进行了优化。与前沿AI实验室专注于提升模型原始性能不同，Inkling的设计重点是在“成本与性能之间取得平衡”。——凤凰网科技、模型下载",
+      "datetime": "2026-07-16T00:30:28+00:00",
+      "views": "1.37K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006erK7yoNjGYVnQDjRgQUfiOlvLCjRvGzoUj5IrvOM2HKsca3uSqfM4abjwVOlgquD"
+        },
+        {
+          "text": "模型下载",
+          "url": "https://huggingface.co/thinkingmachines/Inkling"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30840",
+      "scraped_at": "2026-07-16T09:08:15.926390",
+      "title": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
+      "title_options": {
+        "conclusion": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
+        "attractive": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
+        "minimal": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42596",
+      "channel": "zaihuapd",
+      "text": "OpenAI 发售 Codex Micro 智能体键盘，配备 13 个机械按钮OpenAI 与 Work Louder 联名推出 Codex Micro 实体控制器，售价 230 美元。该设备配备 13 个机械按键、1 个平面摇杆、1 个旋转编码器和 1 个触摸传感器，可通过 RGB 灯效实时反映智能体运行状态，并支持将 Codex 常用操作映射为实体快捷按键。它支持蓝牙与 USB-C 双模连接，兼容 Mac 和 Windows。用户可通过摇杆一键触发代码审查、调试等工作流，旋转旋钮实时调整 AI 推理级别，包装内还附带 32 枚定制图标键帽。OpenAI·茶馆水群·",
+      "clean_text": "🤖OpenAI 发售 Codex Micro 智能体键盘，配备 13 个机械按钮OpenAI 与 Work Louder 联名推出 Codex Micro 实体控制器，售价 230 美元。该设备配备 13 个机械按键、1 个平面摇杆、1 个旋转编码器和 1 个触摸传感器，可通过 RGB 灯效实时反映智能体运行状态，并支持将 Codex 常用操作映射为实体快捷按键。它支持蓝牙与 USB-C 双模连接，兼容 Mac 和 Windows。用户可通过摇杆一键触发代码审查、调试等工作流，旋转旋钮实时调整 AI 推理级别，包装内还附带 32 枚定制图标键帽。OpenAI·茶馆水群",
+      "datetime": "2026-07-16T00:18:11+00:00",
+      "views": "50.5K",
+      "source_links": [
+        {
+          "text": "OpenAI",
+          "url": "https://openai.com/zh-Hans-CN/supply/co-lab/work-louder/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42596",
+      "scraped_at": "2026-07-16T09:08:14.319136",
+      "title": "OpenAI 发售 Codex Mic…",
+      "title_options": {
+        "conclusion": "OpenAI 发售 Codex Mic…",
+        "attractive": "OpenAI 发售 Codex Mic…",
+        "minimal": "OpenAI 发售 Codex Mic…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30839",
       "channel": "xhqcankao",
       "text": "xAI起诉男子使用Grok生成CSAM“深度伪造”马斯克旗下 xAI 正在起诉一名南卡罗来纳州男子，该男子涉嫌使用该公司的 Grok AI 聊天机器人生成儿童性虐待材料(CSAM)。xAI声称特里·韦恩·哈伍德“明知且故意使用Grok规避保障措施、更改非自愿图像，并生成和传播CSAM”，违反了公司政策。哈伍德于二月因涉嫌持有和传播CSAM而被捕，并面临八项重罪指控。该诉讼声称，与哈伍德刑事指控相关的图像 “至少有部分” 是使用Grok“生成或更改”的，并且哈伍德绕过了 Grok 保障措施，在未经当事人同意“滥用该工具将非性照片转换为露骨色情图像”。xAI 声称哈伍德的涉嫌行为使公司面临重大法律风险和声誉损害，要求支付所有损失。",
@@ -1516,6 +1632,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-16T09:06:00.446443"
+  "count": 64,
+  "updated_at": "2026-07-16T09:11:05.212253"
 }
