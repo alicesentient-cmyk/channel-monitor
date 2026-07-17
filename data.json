@@ -1459,31 +1459,8 @@
         "minimal": "长鑫年底产能逼近美光 中国将成全球第二大 DRAM 产地Citrini Research 预测，长鑫存储有望在 2026 年底达到约 35 万片/月",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30844",
-      "channel": "xhqcankao",
-      "text": "知网下架将DeepSeek等AI列为作者的论文近期部分期刊刊发了将DeepSeek、Gemini等人工智能（AI）列为作者的论文，在业界引发版权权属、学术规范相关合规争议。对此类AI署名论文，知网已做下架处理。文章署名作者需对研究内容真实性、论证逻辑及全部学术问题承担相应责任，AI无法承担学术核查、整改、追责等相关义务。论文内容是作者使用AI工具辅助写作而生成，并非由AI工具指挥作者写作生成。若将AI列为作者，将导致责任主体模糊，滋生学术不端隐患，违背通用科研诚信与出版伦理规范。",
-      "clean_text": "知网下架将DeepSeek等AI列为作者的论文近期部分期刊刊发了将DeepSeek、Gemini等人工智能（AI）列为作者的论文，在业界引发版权权属、学术规范相关合规争议。对此类AI署名论文，知网已做下架处理。文章署名作者需对研究内容真实性、论证逻辑及全部学术问题承担相应责任，AI无法承担学术核查、整改、追责等相关义务。论文内容是作者使用AI工具辅助写作而生成，并非由AI工具指挥作者写作生成。若将AI列为作者，将导致责任主体模糊，滋生学术不端隐患，违背通用科研诚信与出版伦理规范。——CNKI知网",
-      "datetime": "2026-07-16T02:28:47+00:00",
-      "views": "1.52K",
-      "source_links": [
-        {
-          "text": "CNKI知网",
-          "url": "https://mp.weixin.qq.com/s/eQ9QEai1HsDzlQOfolZWHg"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30844",
-      "scraped_at": "2026-07-16T11:01:03.719148",
-      "title": "知网下架将DeepSeek等AI列为作者",
-      "title_options": {
-        "conclusion": "知网下架将DeepSeek等AI列为作者",
-        "attractive": "知网下架将DeepSeek等AI列为作者",
-        "minimal": "知网下架将DeepSeek等AI列为作者",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-17T14:24:34.190547"
+  "count": 58,
+  "updated_at": "2026-07-17T14:29:39.357212"
 }
