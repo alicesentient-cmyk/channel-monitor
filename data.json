@@ -1481,35 +1481,8 @@
         "minimal": "美企高管认为中国模型对美国构成经济风险帕兰提尔技术公司首席技术官希亚姆·桑卡表示，中国通过未经授权使用硅谷人工智能开发者成果",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30840",
-      "channel": "xhqcankao",
-      "text": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性的AI模型，希望借此缩小与其前东家OpenAI等前沿AI实验室之间的技术差距。穆拉蒂领导的Thinking Machines Lab在周三发布了公司的首款AI模型，并采用了 “开放权重” 模式，这意味着其他开发者可以结合自己的数据对模型进行修改。这款名为Inkling的模型拥有9750亿个参数。该公司表示，Inkling基础模型的架构借鉴了中国的DeepSeek-V3模型，并在后训练阶段使用了由月之暗面公司Kimi K2.5生成的数据进行了优化。与前沿AI实验室专注于提升模型原始性能不同，Inkling的设计重点是在“成本与性能之间取得平衡”。",
-      "clean_text": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性的AI模型，希望借此缩小与其前东家OpenAI等前沿AI实验室之间的技术差距。穆拉蒂领导的Thinking Machines Lab在周三发布了公司的首款AI模型，并采用了 “开放权重” 模式，这意味着其他开发者可以结合自己的数据对模型进行修改。这款名为Inkling的模型拥有9750亿个参数。该公司表示，Inkling基础模型的架构借鉴了中国的DeepSeek-V3模型，并在后训练阶段使用了由月之暗面公司Kimi K2.5生成的数据进行了优化。与前沿AI实验室专注于提升模型原始性能不同，Inkling的设计重点是在“成本与性能之间取得平衡”。——凤凰网科技、模型下载",
-      "datetime": "2026-07-16T00:30:28+00:00",
-      "views": "1.37K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006erK7yoNjGYVnQDjRgQUfiOlvLCjRvGzoUj5IrvOM2HKsca3uSqfM4abjwVOlgquD"
-        },
-        {
-          "text": "模型下载",
-          "url": "https://huggingface.co/thinkingmachines/Inkling"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30840",
-      "scraped_at": "2026-07-16T09:08:15.926390",
-      "title": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
-      "title_options": {
-        "conclusion": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
-        "attractive": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
-        "minimal": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-17T12:27:44.156205"
+  "count": 58,
+  "updated_at": "2026-07-17T12:32:47.419510"
 }
