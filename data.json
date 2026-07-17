@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42633",
+      "channel": "zaihuapd",
+      "text": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报的核心指标，取代传统的软件采用率（如用户数、许可证续费）评估方式。她指出，企业领导者应关注 AI 完成的工作价值是否超过其生产成本，而非仅看 token 成本。该框架包含四个维度：完成的有用工作量、每个成功任务的全成本、AI 输出的可靠性，以及随使用增长每美元投入是否产生更多价值。Friar 强调，最低 token 单价不等于最低任务成本，更强大的模型可能一次性给出正确答案反而更省钱。文章同时介绍了上周发布的 GPT-5.6 系列，其旗舰版本 Sol 在编码任务上创下新纪录，输出 token 比另一领先模型减少 54%。OpenAI·茶馆水群·",
+      "clean_text": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报的核心指标，取代传统的软件采用率（如用户数、许可证续费）评估方式。她指出，企业领导者应关注 AI 完成的工作价值是否超过其生产成本，而非仅看 token 成本。该框架包含四个维度：完成的有用工作量、每个成功任务的全成本、AI 输出的可靠性，以及随使用增长每美元投入是否产生更多价值。Friar 强调，最低 token 单价不等于最低任务成本，更强大的模型可能一次性给出正确答案反而更省钱。文章同时介绍了上周发布的 GPT-5.6 系列，其旗舰版本 Sol 在编码任务上创下新纪录，输出 token 比另一领先模型减少 54%。OpenAI·茶馆水群",
+      "datetime": "2026-07-17T15:00:49+00:00",
+      "views": "2.28K",
+      "source_links": [
+        {
+          "text": "OpenAI",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42633",
+      "scraped_at": "2026-07-17T23:01:49.939456",
+      "title": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
+      "title_options": {
+        "conclusion": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
+        "attractive": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
+        "minimal": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42632",
       "channel": "zaihuapd",
       "text": "美议员要求封禁中国存储芯片并阻止其进入盟友供应链美国众议院中国委员会主席 John Moolenaar 与民主党议员 George Whitesides 致信商务部长 Howard Lutnick，要求禁止美国公司采购中国存储芯片。两人呼吁将长鑫存储（CXMT）列入实体清单，并对长江存储（YMTC）施加额外限制，理由是依赖中国存储制造商对美国国家、经济及供应链安全构成“不可接受的风险”。议员们指出，苹果等美国科技公司正寻求采购中国产存储芯片，而相关中企与中国军方关系密切，每笔采购都可能直接资助解放军发展军民两用技术。两人还敦促美国政府与日本、韩国和欧盟协调，防止中国制造商利用供应短缺在盟友供应链中扎根，避免西方在 AI 基础设施关键组件上对中国形成战略依赖。Tom's Hardware·茶馆水群·",
@@ -1067,39 +1098,8 @@
         "minimal": "日企AI联盟拟采购近3万枚英伟达Rub…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42612",
-      "channel": "zaihuapd",
-      "text": "日本购 2.75 万块英伟达 Rubin 芯片打造机器人主权 AI日本计划购入 27,500 块英伟达下一代 Rubin 芯片，由新成立的 Noetra 公司牵头建设大型数据中心，开发面向机器人的本土基础 AI 模型。该项目获得日本政府 3,873 亿日元（约 24 亿美元）拨款，软银、丰田支持的 Preferred Networks、NEC 等企业参与组建与运营。Noetra 总裁田场广信表示，目标是打造除中美之外的\"第三种选择\"，计划明年 3 月发布首个 AI 模型，并在数年内推出机器人专用版本。日本希望借此降低对外国技术的依赖，力争到 2040 年占据全球机器人市场 30% 以上的份额。Bloomberg·茶馆水群·",
-      "clean_text": "日本购 2.75 万块英伟达 Rubin 芯片打造机器人主权 AI日本计划购入 27,500 块英伟达下一代 Rubin 芯片，由新成立的 Noetra 公司牵头建设大型数据中心，开发面向机器人的本土基础 AI 模型。该项目获得日本政府 3,873 亿日元（约 24 亿美元）拨款，软银、丰田支持的 Preferred Networks、NEC 等企业参与组建与运营。Noetra 总裁田场广信表示，目标是打造除中美之外的\"第三种选择\"，计划明年 3 月发布首个 AI 模型，并在数年内推出机器人专用版本。日本希望借此降低对外国技术的依赖，力争到 2040 年占据全球机器人市场 30% 以上的份额。Bloomberg·茶馆水群",
-      "datetime": "2026-07-16T10:59:09+00:00",
-      "views": "5.88K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42612",
-      "scraped_at": "2026-07-16T19:00:50.354459",
-      "title": "日本购 2.75 万块英伟达 Rubin 芯片打造机器人主权 AI日本计划购入 27,500 块英伟达下一代 Rubin 芯片，由新成立",
-      "title_options": {
-        "conclusion": "日本购 2.75 万块英伟达 Rubin 芯片打造机器人主权 AI日本计划购入 27,500 块英伟达下一代 Rubin 芯片，由新成立",
-        "attractive": "日本购 2.75 万块英伟达 Rubin 芯片打造机器人主权 AI日本计划购入 27,500 块英伟达下一代 Rubin 芯片，由新成立",
-        "minimal": "日本购 2.75 万块英伟达 Rubin 芯片打造机器人主权 AI日本计划购入 27,500 块英伟达下一代 Rubin 芯片，由新成立",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 44,
-  "updated_at": "2026-07-17T22:57:31.230786"
+  "updated_at": "2026-07-17T23:02:36.062514"
 }
