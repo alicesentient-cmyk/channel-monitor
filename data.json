@@ -1499,70 +1499,8 @@
         "minimal": "xAI起诉男子使用Grok生成CSAM“深度伪造”马斯克旗下 xAI 正在起诉一名南卡罗来纳州男子，该男子涉嫌使用该公司",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30838",
-      "channel": "xhqcankao",
-      "text": "中国智能手机品牌一加将退出美国和欧洲一加将开始停止在美国和欧洲的运营，这是家凭借其定价极具竞争力的安卓智能手机系列赢得了忠实追随者的消费电子品牌。知情人士称，此举最早将于本周发生。这一变动是母公司Oppo更大规模重组的一部分。Oppo的另一项移动业务Realme也将退出中国市场。虽然一加将在中国保持活跃，但该品牌的停运计划将在2027年的某个时间点扩展到世界其他地区，包括印度。作为这些变动的一部分，Oppo将把精力集中在中欧以及在包括芬兰、丹麦、瑞典和冰岛的北欧地区销售Realme设备。",
-      "clean_text": "中国智能手机品牌一加将退出美国和欧洲一加将开始停止在美国和欧洲的运营，这是家凭借其定价极具竞争力的安卓智能手机系列赢得了忠实追随者的消费电子品牌。知情人士称，此举最早将于本周发生。这一变动是母公司Oppo更大规模重组的一部分。Oppo的另一项移动业务Realme也将退出中国市场。虽然一加将在中国保持活跃，但该品牌的停运计划将在2027年的某个时间点扩展到世界其他地区，包括印度。作为这些变动的一部分，Oppo将把精力集中在中欧以及在包括芬兰、丹麦、瑞典和冰岛的北欧地区销售Realme设备。——彭博社",
-      "datetime": "2026-07-15T23:31:46+00:00",
-      "views": "810",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30838",
-      "scraped_at": "2026-07-16T08:02:20.086691",
-      "title": "中国智能手机品牌一加将退出美国和欧洲一加将开始停止在美国和欧洲",
-      "title_options": {
-        "conclusion": "中国智能手机品牌一加将退出美国和欧洲一加将开始停止在美国和欧洲",
-        "attractive": "中国智能手机品牌一加将退出美国和欧洲一加将开始停止在美国和欧洲",
-        "minimal": "中国智能手机品牌一加将退出美国和欧洲一加将开始停止在美国和欧洲",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42595",
-      "channel": "zaihuapd",
-      "text": "SpaceXAI 开源编程代理 Grok Build 并重置所有用户的使用限制x.ai宣布开源 Grok Build，这是 SpaceXAI 的编程代理与 TUI，源码已发布至 GitHub。开发者可查阅从上下文组装到工具调用的完整实现，也可基于技能、插件、MCP 服务器等机制自行扩展。Grok Build 现已支持完全本地优先运行：用户可自行编译，将其指向本地推理服务，并通过 config.toml 文件完成全部配置。SpaceXAI 同日宣布，已重置所有用户的使用限制。Xai|x.com·茶馆水群·",
-      "clean_text": "SpaceXAI 开源编程代理 Grok Build 并重置所有用户的使用限制x.ai宣布开源 Grok Build，这是 SpaceXAI 的编程代理与 TUI，源码已发布至 GitHub。开发者可查阅从上下文组装到工具调用的完整实现，也可基于技能、插件、MCP 服务器等机制自行扩展。Grok Build 现已支持完全本地优先运行：用户可自行编译，将其指向本地推理服务，并通过 config.toml 文件完成全部配置。SpaceXAI 同日宣布，已重置所有用户的使用限制。Xai|x.com·茶馆水群",
-      "datetime": "2026-07-15T23:30:07+00:00",
-      "views": "48.7K",
-      "source_links": [
-        {
-          "text": "x.ai",
-          "url": "http://x.ai/"
-        },
-        {
-          "text": "Xai",
-          "url": "https://x.ai/news/grok-build-open-source"
-        },
-        {
-          "text": "x.com",
-          "url": "https://x.com/SpaceXAI/status/2077494535387828644"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42595",
-      "scraped_at": "2026-07-16T08:02:18.412253",
-      "title": "SpaceXAI 开源编程代理 Grok Build 并重置所有用户",
-      "title_options": {
-        "conclusion": "SpaceXAI 开源编程代理 Grok Build 并重置所有用户",
-        "attractive": "SpaceXAI 开源编程代理 Grok Build 并重置所有用户",
-        "minimal": "SpaceXAI 开源编程代理 Grok Build 并重置所有用户",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-17T11:27:00.116301"
+  "count": 58,
+  "updated_at": "2026-07-17T11:32:03.611227"
 }
