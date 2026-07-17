@@ -1,6 +1,64 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30882",
+      "channel": "xhqcankao",
+      "text": "中国将对太阳能电池和锂电池征收消费税中国发布公告，明确自2026年9月1日起，分步调整部分电池产品消费税政策。中国当前对电池征收4%的消费税，这是从2015年2月起开始实施的税收政策。政策同时明确，对包括锂原电池、锂离子蓄电池、太阳能电池在内的七类电池免征消费税。根据公告，此次政策调整将分类分步对部分电池恢复征收消费税。自9月1日起对无汞原电池、金属氢化物镍蓄电池、锂原电池、锂离子蓄电池、全钒液流电池按照2%税率征收消费税；自2027年9月1日起，按照4%税率征收消费税。自2027年4月1日起，对光伏电池按照2%税率征收消费税；自2028年4月1日起，按照4%税率征收消费税。",
+      "clean_text": "中国将对太阳能电池和锂电池征收消费税中国发布公告，明确自2026年9月1日起，分步调整部分电池产品消费税政策。中国当前对电池征收4%的消费税，这是从2015年2月起开始实施的税收政策。政策同时明确，对包括锂原电池、锂离子蓄电池、太阳能电池在内的七类电池免征消费税。根据公告，此次政策调整将分类分步对部分电池恢复征收消费税。自9月1日起对无汞原电池、金属氢化物镍蓄电池、锂原电池、锂离子蓄电池、全钒液流电池按照2%税率征收消费税；自2027年9月1日起，按照4%税率征收消费税。自2027年4月1日起，对光伏电池按照2%税率征收消费税；自2028年4月1日起，按照4%税率征收消费税。——新华社",
+      "datetime": "2026-07-17T10:36:02+00:00",
+      "views": "1.12K",
+      "source_links": [
+        {
+          "text": "新华社",
+          "url": "https://www.xinhuanet.com/fortune/20260717/4c616c6b9e5844e6bbd18dfd525572d9/c.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30882",
+      "scraped_at": "2026-07-17T19:01:11.337457",
+      "title": "中国将对太阳能电池和锂电池征收消费税中…",
+      "title_options": {
+        "conclusion": "中国将对太阳能电池和锂电池征收消费税中…",
+        "attractive": "中国将对太阳能电池和锂电池征收消费税中…",
+        "minimal": "中国将对太阳能电池和锂电池征收消费税中…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42629",
+      "channel": "zaihuapd",
+      "text": "华为昇腾 950 超节点首次公开亮相，算力达英伟达同级 6.7 倍7 月 17 日，华为在 2026 世界人工智能大会（WAIC）上首次公开亮相昇腾 950 超节点（Atlas 950 SuperPoD）真机。该设备基于灵衢互联协议和超节点架构，实现业界最大 1024 卡规模，提供 1 EFLOPS FP8、2 EFLOPS FP4 算力，拥有 256 TB 全局统一内存。据中银证券报告，与英伟达搭载 144 张卡的同级别 NVL144 系统相比，昇腾 950 总算力达到其 6.7 倍。此外，昇腾 384 超节点已商用落地 750 多套，广泛应用于互联网、运营商、金融等行业，是国内唯一训练出 SOTA 模型的超节点。华为同期还展出了 Atlas 850E 风冷超节点，企业无需液冷改造即可在标准风冷机房直接部署。IT之家|联合早报·茶馆水群·",
+      "clean_text": "📱华为昇腾 950 超节点首次公开亮相，算力达英伟达同级 6.7 倍7 月 17 日，华为在 2026 世界人工智能大会（WAIC）上首次公开亮相昇腾 950 超节点（Atlas 950 SuperPoD）真机。该设备基于灵衢互联协议和超节点架构，实现业界最大 1024 卡规模，提供 1 EFLOPS FP8、2 EFLOPS FP4 算力，拥有 256 TB 全局统一内存。据中银证券报告，与英伟达搭载 144 张卡的同级别 NVL144 系统相比，昇腾 950 总算力达到其 6.7 倍。此外，昇腾 384 超节点已商用落地 750 多套，广泛应用于互联网、运营商、金融等行业，是国内唯一训练出 SOTA 模型的超节点。华为同期还展出了 Atlas 850E 风冷超节点，企业无需液冷改造即可在标准风冷机房直接部署。IT之家|联合早报·茶馆水群",
+      "datetime": "2026-07-17T10:27:14+00:00",
+      "views": "50.1K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/978/019.htm"
+        },
+        {
+          "text": "联合早报",
+          "url": "https://www.zaobao.com.sg/news/china/story20260717-9380160"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42629",
+      "scraped_at": "2026-07-17T19:01:09.088039",
+      "title": "华为昇腾 950 超节点首次公开亮相，…",
+      "title_options": {
+        "conclusion": "华为昇腾 950 超节点首次公开亮相，…",
+        "attractive": "华为昇腾 950 超节点首次公开亮相，…",
+        "minimal": "华为昇腾 950 超节点首次公开亮相，…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42628",
       "channel": "zaihuapd",
       "text": "中国航协：规范超售处置 航班超售团体标准正在研究制定中中国航空运输协会今日发文称，为进一步引导航空公司规范航班超售处置，更好保护旅客知情权和选择权，维护旅客合法权益，在民航局的指导下，中国航空运输协会正组织各航空公司研究制定航班超售团体标准，重点规范航班超售信息告知、补偿方案等关键内容。该标准制定完成后，会向社会公开征求意见，欢迎广大旅客和社会各界提出宝贵建议。东方财富·茶馆水群·",
@@ -1216,66 +1274,8 @@
         "minimal": "华为公司在中国以外恢复销售5G手机中国通信设备大企业华为将在中国以外",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30853",
-      "channel": "xhqcankao",
-      "text": "微软培训销售人员贬低OpenAI等竞争对手微软似乎正在准备让其销售团队在AI行业中与其他主要参与者更具竞争力。根据彭博社的一篇新报道，在周二的一次内部会议上，公司高管概述了一项计划，让销售人员将来自OpenAI、谷歌和Anthropic等公司的AI产品与微软自己的产品进行否定性对比。这次会议被宣传为微软新财年的战略会议，在很大程度上侧重于宣传微软内部模型相对于其竞争对手的效率和成本效益。执行副总裁雅各布·安德鲁更进一步，进行了一场将Copilot直接与Anthropic Claude进行比较的演示。安德鲁指出，微软办公软件中的性能表现，Anthropic模型“速度更慢、准确性更低，并且缺乏适当的安全集成”。",
-      "clean_text": "微软培训销售人员贬低OpenAI等竞争对手微软似乎正在准备让其销售团队在AI行业中与其他主要参与者更具竞争力。根据彭博社的一篇新报道，在周二的一次内部会议上，公司高管概述了一项计划，让销售人员将来自OpenAI、谷歌和Anthropic等公司的AI产品与微软自己的产品进行否定性对比。这次会议被宣传为微软新财年的战略会议，在很大程度上侧重于宣传微软内部模型相对于其竞争对手的效率和成本效益。执行副总裁雅各布·安德鲁更进一步，进行了一场将Copilot直接与Anthropic Claude进行比较的演示。安德鲁指出，微软办公软件中的性能表现，Anthropic模型“速度更慢、准确性更低，并且缺乏适当的安全集成”。——Techcrunch、彭博社",
-      "datetime": "2026-07-16T07:00:38+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30853",
-      "scraped_at": "2026-07-16T15:00:58.218191",
-      "title": "微软培训销售人员贬低OpenAI等竞争…",
-      "title_options": {
-        "conclusion": "微软培训销售人员贬低OpenAI等竞争…",
-        "attractive": "微软培训销售人员贬低OpenAI等竞争…",
-        "minimal": "微软培训销售人员贬低OpenAI等竞争…",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42607",
-      "channel": "zaihuapd",
-      "text": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin 的开源工具，可以为 OpenAI Codex 桌面端更换主题皮肤。该工具通过本机回环 CDP 注入实现换肤，不修改官方安装目录与代码签名，支持 Apple Silicon / Intel Mac 和 Windows 平台。换肤后的界面保留原生交互控件，侧栏、建议卡、输入框均可正常使用。用户可以自由更换背景图来定制主题，并可通过一键还原功能恢复官方外观。项目提供了粉系、财神打工版、红白科幻、初音未来等八种主题效果示例，采用 MIT 许可证开源。工具不会自动改写用户的 API Key 或模型供应商设置，换肤与 API 配置互相独立。GitHub·茶馆水群·",
-      "clean_text": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin 的开源工具，可以为 OpenAI Codex 桌面端更换主题皮肤。该工具通过本机回环 CDP 注入实现换肤，不修改官方安装目录与代码签名，支持 Apple Silicon / Intel Mac 和 Windows 平台。换肤后的界面保留原生交互控件，侧栏、建议卡、输入框均可正常使用。用户可以自由更换背景图来定制主题，并可通过一键还原功能恢复官方外观。项目提供了粉系、财神打工版、红白科幻、初音未来等八种主题效果示例，采用 MIT 许可证开源。工具不会自动改写用户的 API Key 或模型供应商设置，换肤与 API 配置互相独立。GitHub·茶馆水群",
-      "datetime": "2026-07-16T07:00:12+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42607",
-      "scraped_at": "2026-07-16T15:00:56.267975",
-      "title": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
-      "title_options": {
-        "conclusion": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
-        "attractive": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
-        "minimal": "开发者发布 Codex 桌面端换肤工具，不修改官方安装包即可更换主题GitHub 用户 Fei-Away 发布了一款名为 Codex Dream Skin ",
-        "best": "conclusion"
-      }
     }
   ],
   "count": 51,
-  "updated_at": "2026-07-17T18:58:54.578877"
+  "updated_at": "2026-07-17T19:03:59.333456"
 }
