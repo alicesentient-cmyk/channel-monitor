@@ -1071,35 +1071,8 @@
         "minimal": "12 家网络平台承诺坚决清理侵权盗版出…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30861",
-      "channel": "xhqcankao",
-      "text": "日企AI联盟拟采购近3万枚英伟达Rubin芯片 发力机器人生态日本计划从英伟达公司采购2.75万枚Rubin芯片，用于在本土开发机器人基础人工智能模型。周四，新成立的Noetra公司在官网宣布，将于2027年4月在英伟达的合作下启动AI计算平台的建设，并于2028年6月投入运营。Noetra称，该计算平台将配备约27500块英伟达 Rubin GPU。Noetra 由索尼、软银、NEC公司和本田汽车公司牵头设立。英伟达于周三还发布了一款面向机器人和视觉AI代理的新AI模型，深化了其在日本物理AI市场的推进。该公司的全新模型Cosmos 3 Edge是一款所谓的世界模型，旨在帮助系统实时感知和导航物理环境。",
-      "clean_text": "日企AI联盟拟采购近3万枚英伟达Rubin芯片 发力机器人生态日本计划从英伟达公司采购2.75万枚Rubin芯片，用于在本土开发机器人基础人工智能模型。周四，新成立的Noetra公司在官网宣布，将于2027年4月在英伟达的合作下启动AI计算平台的建设，并于2028年6月投入运营。Noetra称，该计算平台将配备约27500块英伟达 Rubin GPU。Noetra 由索尼、软银、NEC公司和本田汽车公司牵头设立。英伟达于周三还发布了一款面向机器人和视觉AI代理的新AI模型，深化了其在日本物理AI市场的推进。该公司的全新模型Cosmos 3 Edge是一款所谓的世界模型，旨在帮助系统实时感知和导航物理环境。——财联社、CNBC",
-      "datetime": "2026-07-16T11:40:25+00:00",
-      "views": "777",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2428546?sv=8.5.9"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30861",
-      "scraped_at": "2026-07-16T20:01:03.598575",
-      "title": "日企AI联盟拟采购近3万枚英伟达Rub…",
-      "title_options": {
-        "conclusion": "日企AI联盟拟采购近3万枚英伟达Rub…",
-        "attractive": "日企AI联盟拟采购近3万枚英伟达Rub…",
-        "minimal": "日企AI联盟拟采购近3万枚英伟达Rub…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 44,
-  "updated_at": "2026-07-17T23:38:08.656191"
+  "count": 43,
+  "updated_at": "2026-07-17T23:43:12.586311"
 }
