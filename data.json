@@ -851,39 +851,8 @@
         "minimal": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42618",
-      "channel": "zaihuapd",
-      "text": "1Password 推出 Claude 集成：AI 可代登录网站但全程不接触密码密码管理工具 1Password 正式上线与 Claude 的 Mac 端集成，用户可授权 AI 代理代为登录网站，而密码与二次验证验证码不会进入 Claude 的上下文、记忆或 Anthropic 的系统。具体而言，凭证经安全通道直接注入目标网页，用户通过生物识别逐条审批当前任务所需的登录项，权限仅限当前会话；若自动填充后提交失败，已填内容也会被立即擦除。该功能目前面向 Mac 的商业、家庭及个人版用户开放，需同时安装 1Password 与 Claude 的桌面及浏览器扩展，后续还将支持支付卡和身份信息。9To5Mac·茶馆水群·",
-      "clean_text": "1Password 推出 Claude 集成：AI 可代登录网站但全程不接触密码密码管理工具 1Password 正式上线与 Claude 的 Mac 端集成，用户可授权 AI 代理代为登录网站，而密码与二次验证验证码不会进入 Claude 的上下文、记忆或 Anthropic 的系统。具体而言，凭证经安全通道直接注入目标网页，用户通过生物识别逐条审批当前任务所需的登录项，权限仅限当前会话；若自动填充后提交失败，已填内容也会被立即擦除。该功能目前面向 Mac 的商业、家庭及个人版用户开放，需同时安装 1Password 与 Claude 的桌面及浏览器扩展，后续还将支持支付卡和身份信息。9To5Mac·茶馆水群",
-      "datetime": "2026-07-16T15:54:17+00:00",
-      "views": "47.6K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42618",
-      "scraped_at": "2026-07-17T00:06:34.141116",
-      "title": "1Password 推出 Claude 集成：AI 可代登录网站但全程不接触密码密码管理工具 1Password 正式上线与 Claude ",
-      "title_options": {
-        "conclusion": "1Password 推出 Claude 集成：AI 可代登录网站但全程不接触密码密码管理工具 1Password 正式上线与 Claude ",
-        "attractive": "1Password 推出 Claude 集成：AI 可代登录网站但全程不接触密码密码管理工具 1Password 正式上线与 Claude ",
-        "minimal": "1Password 推出 Claude 集成：AI 可代登录网站但全程不接触密码密码管理工具 1Password 正式上线与 Claude ",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-18T03:51:59.616368"
+  "count": 34,
+  "updated_at": "2026-07-18T03:57:03.153847"
 }
