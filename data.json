@@ -1342,66 +1342,8 @@
         "minimal": "Claude 有点着急了，重置了额度",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42603",
-      "channel": "zaihuapd",
-      "text": "努比亚官宣首款 AI 智能体手机 NaviX Ultra中兴通讯旗下手机品牌努比亚宣布，其首款 AI 智能体手机——努比亚 NaviX Ultra 正式亮相。手机搭载豆包手机助手，号称 AI 智能体手机的全新阶段由此开启。此外，该机还获得 2026 世界人工智能大会 SAIL 卓越人工智能引领者奖。官方公布的预告图显示，这款手机将提供黑、粉、银、紫等配色，配有橙色的“AI 键”，搭载横向后置摄像模组。努比亚·茶馆水群·",
-      "clean_text": "努比亚官宣首款 AI 智能体手机 NaviX Ultra中兴通讯旗下手机品牌努比亚宣布，其首款 AI 智能体手机——努比亚 NaviX Ultra 正式亮相。手机搭载豆包手机助手，号称 AI 智能体手机的全新阶段由此开启。此外，该机还获得 2026 世界人工智能大会 SAIL 卓越人工智能引领者奖。官方公布的预告图显示，这款手机将提供黑、粉、银、紫等配色，配有橙色的“AI 键”，搭载横向后置摄像模组。努比亚·茶馆水群",
-      "datetime": "2026-07-16T04:34:33+00:00",
-      "views": "49.6K",
-      "source_links": [
-        {
-          "text": "努比亚",
-          "url": "https://m.weibo.cn/detail/5321259015733846"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42603",
-      "scraped_at": "2026-07-16T13:01:31.978422",
-      "title": "努比亚官宣首款 AI 智能体手机 Na…",
-      "title_options": {
-        "conclusion": "努比亚官宣首款 AI 智能体手机 Na…",
-        "attractive": "努比亚官宣首款 AI 智能体手机 Na…",
-        "minimal": "努比亚官宣首款 AI 智能体手机 Na…",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30848",
-      "channel": "xhqcankao",
-      "text": "ASML计划上调光刻机价格 台积电表示反对据知情人士透露，ASML公司正在计划上调其芯片制造设备价格。其最大客户台积电已对这家荷兰光刻机制造商的涨价计划表示反对。ASML生产用于制造先进半导体所必需的极紫外（EUV）光刻机。在人工智能热潮推动下，该公司设备需求持续激增。ASML首席财务官称，随着人工智能驱动的需求飙升，该公司正致力于将其在工厂内建造和测试先进光刻工具的时间缩短约三分之一。从接到订单到交付EUV设备需要一年多的时间，而公司在其自有洁净室开始生产到发货之间的期间在几个季度前约为22周。首席财务官罗杰·达森周三对记者表示：“我们现在正在考虑将其缩短到15至16周。”",
-      "clean_text": "ASML计划上调光刻机价格 台积电表示反对据知情人士透露，ASML公司正在计划上调其芯片制造设备价格。其最大客户台积电已对这家荷兰光刻机制造商的涨价计划表示反对。ASML生产用于制造先进半导体所必需的极紫外（EUV）光刻机。在人工智能热潮推动下，该公司设备需求持续激增。ASML首席财务官称，随着人工智能驱动的需求飙升，该公司正致力于将其在工厂内建造和测试先进光刻工具的时间缩短约三分之一。从接到订单到交付EUV设备需要一年多的时间，而公司在其自有洁净室开始生产到发货之间的期间在几个季度前约为22周。首席财务官罗杰·达森周三对记者表示：“我们现在正在考虑将其缩短到15至16周。”——彭博社、彭博社",
-      "datetime": "2026-07-16T04:34:03+00:00",
-      "views": "1.08K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-15/asml-plans-prices-hikes-for-chipmaking-tools-says-information"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-15/asml-works-to-ship-chipmaking-tools-faster-to-meet-ai-demand"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30848",
-      "scraped_at": "2026-07-16T13:01:34.753077",
-      "title": "ASML计划上调光刻机价格 台积电表示…",
-      "title_options": {
-        "conclusion": "ASML计划上调光刻机价格 台积电表示…",
-        "attractive": "ASML计划上调光刻机价格 台积电表示…",
-        "minimal": "ASML计划上调光刻机价格 台积电表示…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-17T16:31:32.792658"
+  "count": 54,
+  "updated_at": "2026-07-17T16:36:37.298427"
 }
