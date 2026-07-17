@@ -1307,43 +1307,8 @@
         "minimal": "黄仁勋现身秋叶原 与英伟达“救命恩人”重逢周三，英伟达CEO黄仁勋现身东京秋叶原",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42604",
-      "channel": "zaihuapd",
-      "text": "Claude 有点着急了，重置了额度。ClaudeDevsCodex 紧随其后也重置了额度。Tibo打起来！打起来！·茶馆水群·",
-      "clean_text": "🤖Claude 有点着急了，重置了额度。ClaudeDevs🤖Codex 紧随其后也重置了额度。Tibo打起来！打起来！·茶馆水群",
-      "datetime": "2026-07-16T04:48:32+00:00",
-      "views": "47.7K",
-      "source_links": [
-        {
-          "text": "ClaudeDevs",
-          "url": "https://x.com/i/status/2077603834453770467"
-        },
-        {
-          "text": "Tibo",
-          "url": "https://x.com/thsottiaux/status/2077607697487188198"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42604",
-      "scraped_at": "2026-07-16T13:01:31.979312",
-      "title": "Claude 有点着急了，重置了额度",
-      "title_options": {
-        "conclusion": "Claude 有点着急了，重置了额度",
-        "attractive": "Claude 有点着急了，重置了额度",
-        "minimal": "Claude 有点着急了，重置了额度",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-17T16:46:46.452219"
+  "count": 53,
+  "updated_at": "2026-07-17T16:51:50.225906"
 }
