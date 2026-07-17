@@ -1441,39 +1441,8 @@
         "minimal": "苹果将AppleCare+年度订阅上调5美元苹果公司小幅上调了AppleCare+服务订阅",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42599",
-      "channel": "zaihuapd",
-      "text": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克的人工智能公司 xAI 已起诉南卡罗来纳州男子 Terry Harwood，指控其滥用 AI 聊天机器人 Grok 生成儿童性虐待材料与非自愿成人色情深度伪造。Harwood 于今年 2 月因性剥削未成年人指控被捕，xAI 在本周二提交给德州联邦法院的诉讼中称，他上传非性图片并要求系统生成露骨内容，违反了服务条款。xAI 要求赔偿并申请法院永久禁止 Harwood 使用 Grok。诉讼称，该公司今年已暂停 52,222 个账户，向国家失踪与受虐儿童中心举报 73,604 次，促成至少 244 人被捕。该案是首批 AI 公司因用户生成色情内容而起诉用户的案件之一。Reuters·茶馆水群·",
-      "clean_text": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克的人工智能公司 xAI 已起诉南卡罗来纳州男子 Terry Harwood，指控其滥用 AI 聊天机器人 Grok 生成儿童性虐待材料与非自愿成人色情深度伪造。Harwood 于今年 2 月因性剥削未成年人指控被捕，xAI 在本周二提交给德州联邦法院的诉讼中称，他上传非性图片并要求系统生成露骨内容，违反了服务条款。xAI 要求赔偿并申请法院永久禁止 Harwood 使用 Grok。诉讼称，该公司今年已暂停 52,222 个账户，向国家失踪与受虐儿童中心举报 73,604 次，促成至少 244 人被捕。该案是首批 AI 公司因用户生成色情内容而起诉用户的案件之一。Reuters·茶馆水群",
-      "datetime": "2026-07-16T01:45:09+00:00",
-      "views": "48.5K",
-      "source_links": [
-        {
-          "text": "Reuters",
-          "url": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42599",
-      "scraped_at": "2026-07-16T10:01:56.218088",
-      "title": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
-      "title_options": {
-        "conclusion": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
-        "attractive": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
-        "minimal": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-17T13:43:56.195328"
+  "count": 57,
+  "updated_at": "2026-07-17T13:49:00.525949"
 }
