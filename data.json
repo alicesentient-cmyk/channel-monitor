@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42632",
+      "channel": "zaihuapd",
+      "text": "美议员要求封禁中国存储芯片并阻止其进入盟友供应链美国众议院中国委员会主席 John Moolenaar 与民主党议员 George Whitesides 致信商务部长 Howard Lutnick，要求禁止美国公司采购中国存储芯片。两人呼吁将长鑫存储（CXMT）列入实体清单，并对长江存储（YMTC）施加额外限制，理由是依赖中国存储制造商对美国国家、经济及供应链安全构成“不可接受的风险”。议员们指出，苹果等美国科技公司正寻求采购中国产存储芯片，而相关中企与中国军方关系密切，每笔采购都可能直接资助解放军发展军民两用技术。两人还敦促美国政府与日本、韩国和欧盟协调，防止中国制造商利用供应短缺在盟友供应链中扎根，避免西方在 AI 基础设施关键组件上对中国形成战略依赖。Tom's Hardware·茶馆水群·",
+      "clean_text": "美议员要求封禁中国存储芯片并阻止其进入盟友供应链美国众议院中国委员会主席 John Moolenaar 与民主党议员 George Whitesides 致信商务部长 Howard Lutnick，要求禁止美国公司采购中国存储芯片。两人呼吁将长鑫存储（CXMT）列入实体清单，并对长江存储（YMTC）施加额外限制，理由是依赖中国存储制造商对美国国家、经济及供应链安全构成“不可接受的风险”。议员们指出，苹果等美国科技公司正寻求采购中国产存储芯片，而相关中企与中国军方关系密切，每笔采购都可能直接资助解放军发展军民两用技术。两人还敦促美国政府与日本、韩国和欧盟协调，防止中国制造商利用供应短缺在盟友供应链中扎根，避免西方在 AI 基础设施关键组件上对中国形成战略依赖。Tom's Hardware·茶馆水群",
+      "datetime": "2026-07-17T14:00:23+00:00",
+      "views": "6.69K",
+      "source_links": [
+        {
+          "text": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/pc-components/dram/lawmakers-want-us-government-to-ban-memory-chips-from-china-even-in-allied-supply-chains-citing-unacceptable-risk-to-national-economic-and-supply-chain-security"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42632",
+      "scraped_at": "2026-07-17T22:01:35.371119",
+      "title": "美议员要求封禁中国存储芯片并阻止其进入…",
+      "title_options": {
+        "conclusion": "美议员要求封禁中国存储芯片并阻止其进入…",
+        "attractive": "美议员要求封禁中国存储芯片并阻止其进入…",
+        "minimal": "美议员要求封禁中国存储芯片并阻止其进入…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30884",
       "channel": "xhqcankao",
       "text": "造谣小米SU7碰撞断电：涉事博主一审获刑20个月并罚款十万小米法务部发布博文，回应“捏造小米SU7测评视频事件”涉事博主被判1年8个月，并处罚10万元：“近日，我司从司法机关获悉，某平台博主故意捏造并散布虚假事实，损害小米汽车商品声誉，情节严重，构成损害商品声誉罪，一审判处有期徒刑一年八个月，并处罚金。这一结果彰显了法律的公正与威严。”2024年8月，汽车自媒体博主高某发布一条名为《当小米SU7撞上一辆极氪007》的视频。该播主在视频中声称，小米SU7因设计缺陷导致碰撞后全车断电、紧急救援呼叫系统失效。近日，判决书显示，高某及团队在制作测试视频过程中，隐瞒小米SU7小电瓶的电源线在碰撞之前被人为拆装的事实。",
@@ -1115,6 +1146,6 @@
       }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-07-17T21:56:35.008529"
+  "count": 46,
+  "updated_at": "2026-07-17T22:01:38.880350"
 }
