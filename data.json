@@ -1472,31 +1472,8 @@
         "minimal": "马斯克 xAI 起诉用户滥用 Grok 生成儿童性虐待深度伪造马斯克",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30842",
-      "channel": "xhqcankao",
-      "text": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下的 SpaceXAI 公司本周三宣布开源 Grok Build，并将源代码发布至 GitHub 平台。SpaceXAI公司表示：“开源发布源代码是构建强大、可靠框架的最直接方法。用户可以阅读源代码，了解其从上下文构建到工具调用分发的完整工作原理。开源也让框架更容易探索以及扩展：如果用户正在使用 Agent Skills、插件、hooks、MCP 服务器或子智能体，则源代码是了解每个组件如何加载和调用的权威参考。Grok Build 现在可以完全本地优先运行：自己编译，指向自己的本地推理，并从config.toml驱动一切。”",
-      "clean_text": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下的 SpaceXAI 公司本周三宣布开源 Grok Build，并将源代码发布至 GitHub 平台。SpaceXAI公司表示：“开源发布源代码是构建强大、可靠框架的最直接方法。用户可以阅读源代码，了解其从上下文构建到工具调用分发的完整工作原理。开源也让框架更容易探索以及扩展：如果用户正在使用 Agent Skills、插件、hooks、MCP 服务器或子智能体，则源代码是了解每个组件如何加载和调用的权威参考。Grok Build 现在可以完全本地优先运行：自己编译，指向自己的本地推理，并从config.toml驱动一切。”——马斯克",
-      "datetime": "2026-07-16T01:33:56+00:00",
-      "views": "1.09K",
-      "source_links": [
-        {
-          "text": "马斯克",
-          "url": "https://x.com/i/status/2077495635687723408"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30842",
-      "scraped_at": "2026-07-16T10:01:58.331946",
-      "title": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
-      "title_options": {
-        "conclusion": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
-        "attractive": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
-        "minimal": "马斯克开源 Grok Build 编程AI智能体工具马斯克旗下",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-17T13:33:44.549368"
+  "count": 58,
+  "updated_at": "2026-07-17T13:38:52.685594"
 }
