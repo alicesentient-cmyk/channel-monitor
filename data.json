@@ -1220,39 +1220,8 @@
         "minimal": "印度试图打破中国对智能手机制造业",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42608",
-      "channel": "zaihuapd",
-      "text": "知网将下架将 DeepSeek 列为作者的论文中国学术期刊平台知网表示，已下架把 DeepSeek、Gemini 等 AI 列为作者的论文，并明确当前不接受 AI 工具作为论文署名作者。知网称，AI 不具备民事主体资格，也无法承担论文真实性、学术核查和追责等责任；作者若在研究或写作中使用 AI，应在研究方法或致谢中说明。联合早报·茶馆水群·",
-      "clean_text": "知网将下架将 DeepSeek 列为作者的论文中国学术期刊平台知网表示，已下架把 DeepSeek、Gemini 等 AI 列为作者的论文，并明确当前不接受 AI 工具作为论文署名作者。知网称，AI 不具备民事主体资格，也无法承担论文真实性、学术核查和追责等责任；作者若在研究或写作中使用 AI，应在研究方法或致谢中说明。联合早报·茶馆水群",
-      "datetime": "2026-07-16T07:45:12+00:00",
-      "views": "48.5K",
-      "source_links": [
-        {
-          "text": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/china/story20260716-9371836"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42608",
-      "scraped_at": "2026-07-16T16:01:34.953685",
-      "title": "知网将下架将 DeepSeek 列为作者",
-      "title_options": {
-        "conclusion": "知网将下架将 DeepSeek 列为作者",
-        "attractive": "知网将下架将 DeepSeek 列为作者",
-        "minimal": "知网将下架将 DeepSeek 列为作者",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-17T19:44:33.848209"
+  "count": 49,
+  "updated_at": "2026-07-17T19:49:39.622352"
 }
