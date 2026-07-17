@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42620",
+      "channel": "zaihuapd",
+      "text": "Truth Social 将向华尔街出售特朗普帖子的快速访问权限特朗普媒体科技集团（TMTG）周四宣布，旗下社交平台 Truth Social 将从 8 月 1 日起，向机构客户出售名为 Truth API 的数据服务。该 API 以毫秒级速度提供平台排名前 10 账号的实时帖子，旨在为高频算法交易者创造信息优势。公司未公布具体定价。Truth Social 已成为特朗普宣布政策决定的主要渠道，其关于关税、伊朗及霍尔木兹海峡的帖子曾多次引发股市和油市剧烈波动。TMTG 称此举是将其专有资产货币化、拓展高利润率收入来源的战略步骤，但也再次引发外界对总统模糊商业与公务界限的担忧。此外，CNN 此前调查发现，特朗普曾利用 Truth Social 宣传自己刚买入股票的公司。CNN·茶馆水群·",
+      "clean_text": "Truth Social 将向华尔街出售特朗普帖子的快速访问权限特朗普媒体科技集团（TMTG）周四宣布，旗下社交平台 Truth Social 将从 8 月 1 日起，向机构客户出售名为 Truth API 的数据服务。该 API 以毫秒级速度提供平台排名前 10 账号的实时帖子，旨在为高频算法交易者创造信息优势。公司未公布具体定价。Truth Social 已成为特朗普宣布政策决定的主要渠道，其关于关税、伊朗及霍尔木兹海峡的帖子曾多次引发股市和油市剧烈波动。TMTG 称此举是将其专有资产货币化、拓展高利润率收入来源的战略步骤，但也再次引发外界对总统模糊商业与公务界限的担忧。此外，CNN 此前调查发现，特朗普曾利用 Truth Social 宣传自己刚买入股票的公司。CNN·茶馆水群",
+      "datetime": "2026-07-17T01:02:59+00:00",
+      "views": "21.7K",
+      "source_links": [
+        {
+          "text": "CNN",
+          "url": "https://www.cnn.com/2026/07/16/business/truth-social-data-wall-street"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42620",
+      "scraped_at": "2026-07-17T09:07:59.904646",
+      "title": "Truth Social 将向华尔街出售特朗普帖子",
+      "title_options": {
+        "conclusion": "Truth Social 将向华尔街出售特朗普帖子",
+        "attractive": "Truth Social 将向华尔街出售特朗普帖子",
+        "minimal": "Truth Social 将向华尔街出售特朗普帖子",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30869",
+      "channel": "xhqcankao",
+      "text": "1Password for Claude 上线：AI 可代登录网站但全程不接触密码热门密码管理应用1Password今天增加了对 Claude 的支持。通过这一集成，Claude 可以使用1Password的登录信息和一次性验证码，而实际密码不会暴露给Claude。密码永远不会进入Claude上下文、记忆或系统。当Claude想要登录网站时，1Password会向用户显示Claude想要访问哪个凭证以及原因。用户批准请求后，1Password会直接将凭证添加到页面中。访问权限仅限当前任务，并在任务完成后终止。密码自动填充后，应用会检查以确保机密信息没有在页面上暴露。1Password浏览器扩展也正在更新“智能体模式”，该模式让用户能够控制基于浏览器的AI智能体。当AI智能体接管时，1Password扩展会锁定，以防止密码被暴露。",
+      "clean_text": "1Password for Claude 上线：AI 可代登录网站但全程不接触密码热门密码管理应用1Password今天增加了对 Claude 的支持。通过这一集成，Claude 可以使用1Password的登录信息和一次性验证码，而实际密码不会暴露给Claude。密码永远不会进入Claude上下文、记忆或系统。当Claude想要登录网站时，1Password会向用户显示Claude想要访问哪个凭证以及原因。用户批准请求后，1Password会直接将凭证添加到页面中。访问权限仅限当前任务，并在任务完成后终止。密码自动填充后，应用会检查以确保机密信息没有在页面上暴露。1Password浏览器扩展也正在更新“智能体模式”，该模式让用户能够控制基于浏览器的AI智能体。当AI智能体接管时，1Password扩展会锁定，以防止密码被暴露。——Macrumors",
+      "datetime": "2026-07-17T01:01:51+00:00",
+      "views": "439",
+      "source_links": [
+        {
+          "text": "Macrumors",
+          "url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30869",
+      "scraped_at": "2026-07-17T09:08:01.481417",
+      "title": "1Password for Claude 上线：AI 可代登录网站但全程不接触密码热门密码管理应用1Password今天增加了对 Claude ",
+      "title_options": {
+        "conclusion": "1Password for Claude 上线：AI 可代登录网站但全程不接触密码热门密码管理应用1Password今天增加了对 Claude ",
+        "attractive": "1Password for Claude 上线：AI 可代登录网站但全程不接触密码热门密码管理应用1Password今天增加了对 Claude ",
+        "minimal": "1Password for Claude 上线：AI 可代登录网站但全程不接触密码热门密码管理应用1Password今天增加了对 Claude ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30868",
+      "channel": "xhqcankao",
+      "text": "Spotify向免费订阅用户推出家长管理账户流媒体Spotify周三宣布，正在将其针对儿童的家长管理账户引入其免费层级。美国、英国、澳大利亚、法国、德国和荷兰的家庭现在可以为他们的孩子创建一个 “管理账户”，该功能此前仅对付费订阅者可用。“管理账户”于2024年推出，是一项共享账户功能，允许家长控制他们的孩子收听的内容。通过管理账户，家长可以控制和限制特定艺人和歌曲的播放。默认情况下，孩子不能收听被标记为露骨的音乐，并且视频播放也默认被禁用。管理账户上的互动功能也受到限制，这意味着孩子无法访问诸如“消息” 等年龄限制功能。",
+      "clean_text": "Spotify向免费订阅用户推出家长管理账户流媒体Spotify周三宣布，正在将其针对儿童的家长管理账户引入其免费层级。美国、英国、澳大利亚、法国、德国和荷兰的家庭现在可以为他们的孩子创建一个 “管理账户”，该功能此前仅对付费订阅者可用。“管理账户”于2024年推出，是一项共享账户功能，允许家长控制他们的孩子收听的内容。通过管理账户，家长可以控制和限制特定艺人和歌曲的播放。默认情况下，孩子不能收听被标记为露骨的音乐，并且视频播放也默认被禁用。管理账户上的互动功能也受到限制，这意味着孩子无法访问诸如“消息” 等年龄限制功能。——Techcrunch",
+      "datetime": "2026-07-17T00:30:12+00:00",
+      "views": "1.22K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30868",
+      "scraped_at": "2026-07-17T09:08:01.480990",
+      "title": "Spotify向免费订阅用户推出家长管理账户流媒体Spotify周三宣布，正在将其针对儿童",
+      "title_options": {
+        "conclusion": "Spotify向免费订阅用户推出家长管理账户流媒体Spotify周三宣布，正在将其针对儿童",
+        "attractive": "Spotify向免费订阅用户推出家长管理账户流媒体Spotify周三宣布，正在将其针对儿童",
+        "minimal": "Spotify向免费订阅用户推出家长管理账户流媒体Spotify周三宣布，正在将其针对儿童",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42619",
       "channel": "zaihuapd",
       "text": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强的开源模型 Kimi K3，参数规模达 2.8 万亿，完整权重将在未来几天内开放。该模型基于 Kimi Delta Attention 与 Attention Residuals 架构，采用稀疏 Mixture of Experts 设计，可在 896 个专家中激活 16 个，相比 K2 的扩展效率提升约 2.5 倍。  K3 原生支持视觉理解，拥有…",
@@ -1413,6 +1490,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-17T09:05:19.325739"
+  "count": 57,
+  "updated_at": "2026-07-17T09:10:23.314406"
 }
