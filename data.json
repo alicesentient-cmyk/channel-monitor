@@ -1508,39 +1508,8 @@
         "minimal": "OpenAI前女CTO创业发布首款AI模型：借鉴中国技术 主打成本和性能平衡OpenAI前首席技术官米拉·穆拉蒂正押注更具可定制性",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42596",
-      "channel": "zaihuapd",
-      "text": "OpenAI 发售 Codex Micro 智能体键盘，配备 13 个机械按钮OpenAI 与 Work Louder 联名推出 Codex Micro 实体控制器，售价 230 美元。该设备配备 13 个机械按键、1 个平面摇杆、1 个旋转编码器和 1 个触摸传感器，可通过 RGB 灯效实时反映智能体运行状态，并支持将 Codex 常用操作映射为实体快捷按键。它支持蓝牙与 USB-C 双模连接，兼容 Mac 和 Windows。用户可通过摇杆一键触发代码审查、调试等工作流，旋转旋钮实时调整 AI 推理级别，包装内还附带 32 枚定制图标键帽。OpenAI·茶馆水群·",
-      "clean_text": "🤖OpenAI 发售 Codex Micro 智能体键盘，配备 13 个机械按钮OpenAI 与 Work Louder 联名推出 Codex Micro 实体控制器，售价 230 美元。该设备配备 13 个机械按键、1 个平面摇杆、1 个旋转编码器和 1 个触摸传感器，可通过 RGB 灯效实时反映智能体运行状态，并支持将 Codex 常用操作映射为实体快捷按键。它支持蓝牙与 USB-C 双模连接，兼容 Mac 和 Windows。用户可通过摇杆一键触发代码审查、调试等工作流，旋转旋钮实时调整 AI 推理级别，包装内还附带 32 枚定制图标键帽。OpenAI·茶馆水群",
-      "datetime": "2026-07-16T00:18:11+00:00",
-      "views": "50.5K",
-      "source_links": [
-        {
-          "text": "OpenAI",
-          "url": "https://openai.com/zh-Hans-CN/supply/co-lab/work-louder/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42596",
-      "scraped_at": "2026-07-16T09:08:14.319136",
-      "title": "OpenAI 发售 Codex Mic…",
-      "title_options": {
-        "conclusion": "OpenAI 发售 Codex Mic…",
-        "attractive": "OpenAI 发售 Codex Mic…",
-        "minimal": "OpenAI 发售 Codex Mic…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-17T12:17:37.153974"
+  "count": 59,
+  "updated_at": "2026-07-17T12:22:40.798758"
 }
