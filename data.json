@@ -941,49 +941,8 @@
         "minimal": "Kimi K3 或将明日发布",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42615",
-      "channel": "zaihuapd",
-      "text": "欧盟拟要求 Google 向对手开放 Android AI 助手权限  欧盟正加大对 Google 的压力，要求其放开 Android 手机上的限制，让 ChatGPT、Claude 等竞争对手的 AI 搜索助手获得与 Gemini 相同的系统功能权限。相关要求仍处于草案阶段，发布时间也可能推迟。  Google 担心，这类开放要求可能影响用户安全和隐私。  Bloomberg｜｜",
-      "clean_text": "📱欧盟拟要求 Google 向对手开放 Android AI 助手权限  欧盟正加大对 Google 的压力，要求其放开 Android 手机上的限制，让 ChatGPT、Claude 等竞争对手的 AI 搜索助手获得与 Gemini 相同的系统功能权限。相关要求仍处于草案阶段，发布时间也可能推迟。  Google 担心，这类开放要求可能影响用户安全和隐私。  Bloomberg｜茶馆讨论｜投稿通道",
-      "datetime": "2026-07-16T13:19:47+00:00",
-      "views": "50.9K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42615",
-      "scraped_at": "2026-07-16T22:01:53.733367",
-      "title": "欧盟拟要求 Google 向对手开放 Android AI 助手权限  欧盟正加大对 Google ",
-      "title_options": {
-        "conclusion": "欧盟拟要求 Google 向对手开放 Android AI 助手权限  欧盟正加大对 Google ",
-        "attractive": "欧盟拟要求 Google 向对手开放 Android AI 助手权限  欧盟正加大对 Google ",
-        "minimal": "欧盟拟要求 Google 向对手开放 Android AI 助手权限  欧盟正加大对 Google ",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30863",
-      "channel": "xhqcankao",
-      "text": "欧盟施压谷歌开放安卓功能并共享搜索数据欧盟机构表示，为遵守欧盟限制大型科技公司影响力的相关规定，谷歌必须帮助OpenAI公司等人工智能竞争对手，以及其他在线搜索引擎竞争者访问其部分服务。欧盟委员会表示，谷歌将开放安卓操作系统中的11项功能，允许其他AI公司访问关键系统能力，从而更好地与谷歌 Gemini AI 服务竞争。这意味着，未来用户可以通过类似“Hey Google”的语音指令，激活其他公司的AI助手，用于打车、搜索地点信息等操作。欧盟表示，这些变化将在安卓下一代版本中生效，用户预计从2027年7月起可以体验相关功能。",
-      "clean_text": "欧盟施压谷歌开放安卓功能并共享搜索数据欧盟机构表示，为遵守欧盟限制大型科技公司影响力的相关规定，谷歌必须帮助OpenAI公司等人工智能竞争对手，以及其他在线搜索引擎竞争者访问其部分服务。欧盟委员会表示，谷歌将开放安卓操作系统中的11项功能，允许其他AI公司访问关键系统能力，从而更好地与谷歌 Gemini AI 服务竞争。这意味着，未来用户可以通过类似“Hey Google”的语音指令，激活其他公司的AI助手，用于打车、搜索地点信息等操作。欧盟表示，这些变化将在安卓下一代版本中生效，用户预计从2027年7月起可以体验相关功能。——路透社",
-      "datetime": "2026-07-16T13:15:56+00:00",
-      "views": "1.55K",
-      "source_links": [
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30863",
-      "scraped_at": "2026-07-16T22:01:55.880350",
-      "title": "欧盟施压谷歌开放安卓功能并共享搜索数据欧盟机构表示，为遵守欧盟限制大型科技公司影响力",
-      "title_options": {
-        "conclusion": "欧盟施压谷歌开放安卓功能并共享搜索数据欧盟机构表示，为遵守欧盟限制大型科技公司影响力",
-        "attractive": "欧盟施压谷歌开放安卓功能并共享搜索数据欧盟机构表示，为遵守欧盟限制大型科技公司影响力",
-        "minimal": "欧盟施压谷歌开放安卓功能并共享搜索数据欧盟机构表示，为遵守欧盟限制大型科技公司影响力",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-07-18T01:14:47.722839"
+  "count": 38,
+  "updated_at": "2026-07-18T01:19:51.925503"
 }
