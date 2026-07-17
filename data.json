@@ -1,6 +1,70 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42619",
+      "channel": "zaihuapd",
+      "text": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强的开源模型 Kimi K3，参数规模达 2.8 万亿，完整权重将在未来几天内开放。该模型基于 Kimi Delta Attention 与 Attention Residuals 架构，采用稀疏 Mixture of Experts 设计，可在 896 个专家中激活 16 个，相比 K2 的扩展效率提升约 2.5 倍。  K3 原生支持视觉理解，拥有…",
+      "clean_text": "🌙Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强的开源模型 Kimi K3，参数规模达 2.8 万亿，完整权重将在未来几天内开放。该模型基于 Kimi Delta Attention 与 Attention Residuals 架构，采用稀疏 Mixture of Experts 设计，可在 896 个专家中激活 16 个，相比 K2 的扩展效率提升约 2.5 倍。  K3 原生支持视觉理解，拥有…",
+      "datetime": "2026-07-17T00:02:34+00:00",
+      "views": "7.26K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42619",
+      "scraped_at": "2026-07-17T08:03:47.919290",
+      "title": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
+      "title_options": {
+        "conclusion": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
+        "attractive": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
+        "minimal": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30867",
+      "channel": "xhqcankao",
+      "text": "青少年与AI讨论自杀自残 Meta会通知家长Meta周四宣布，如果其青少年子女与公司的Meta AI聊天机器人讨论自杀或自残，现在将通知家长。Meta表示，还正在致力于开发一种功能，以便在某人的对话表明其可能面临即将发生的自杀风险时联系紧急服务。Meta表示，已经建立了一个专用的AI系统用于识别青少年明确提及伤害自己的对话。这些提醒现已对在美国、英国、澳大利亚和加拿大使用Instagram家长监督功能的家长生效，并将在年底前全球推出，Meta表示。",
+      "clean_text": "青少年与AI讨论自杀自残 Meta会通知家长Meta周四宣布，如果其青少年子女与公司的Meta AI聊天机器人讨论自杀或自残，现在将通知家长。Meta表示，还正在致力于开发一种功能，以便在某人的对话表明其可能面临即将发生的自杀风险时联系紧急服务。Meta表示，已经建立了一个专用的AI系统用于识别青少年明确提及伤害自己的对话。这些提醒现已对在美国、英国、澳大利亚和加拿大使用Instagram家长监督功能的家长生效，并将在年底前全球推出，Meta表示。——Techcrunch",
+      "datetime": "2026-07-17T00:00:17+00:00",
+      "views": "136",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30867",
+      "scraped_at": "2026-07-17T08:03:49.491737",
+      "title": "青少年与AI讨论自杀自残 Meta会通知家长Meta周四宣布，如果其青少年子女与公司",
+      "title_options": {
+        "conclusion": "青少年与AI讨论自杀自残 Meta会通知家长Meta周四宣布，如果其青少年子女与公司",
+        "attractive": "青少年与AI讨论自杀自残 Meta会通知家长Meta周四宣布，如果其青少年子女与公司",
+        "minimal": "青少年与AI讨论自杀自残 Meta会通知家长Meta周四宣布，如果其青少年子女与公司",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30866",
+      "channel": "xhqcankao",
+      "text": "SpaceX在点火后突然中止了星舰V3发射周四，SpaceX在其位于南得克萨斯州的综合设施处，助推器点火后仅片刻，便突然中止了其升级版星舰火箭系统的第二次尝试发射。该公司正试图在五月星舰V3的首次发射仅仅几周后恢复飞行。首席执行官马斯克在 X上发帖称，“部分发动机没有启动，触发了自动发射中止”，并且该公司将“希望在几天内”再次尝试。周四，SpaceX的股价收盘低于其135美元的IPO价格。在发射中止后，其股价在盘后交易中下跌超过4%，随后收窄跌幅。",
+      "clean_text": "SpaceX在点火后突然中止了星舰V3发射周四，SpaceX在其位于南得克萨斯州的综合设施处，助推器点火后仅片刻，便突然中止了其升级版星舰火箭系统的第二次尝试发射。该公司正试图在五月星舰V3的首次发射仅仅几周后恢复飞行。首席执行官马斯克在 X上发帖称，“部分发动机没有启动，触发了自动发射中止”，并且该公司将“希望在几天内”再次尝试。周四，SpaceX的股价收盘低于其135美元的IPO价格。在发射中止后，其股价在盘后交易中下跌超过4%，随后收窄跌幅。——Techcrunch",
+      "datetime": "2026-07-16T23:33:17+00:00",
+      "views": "942",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30866",
+      "scraped_at": "2026-07-17T08:03:49.491308",
+      "title": "SpaceX在点火后突然中止了星舰V3发射周四，SpaceX在其位于南得克萨斯州",
+      "title_options": {
+        "conclusion": "SpaceX在点火后突然中止了星舰V3发射周四，SpaceX在其位于南得克萨斯州",
+        "attractive": "SpaceX在点火后突然中止了星舰V3发射周四，SpaceX在其位于南得克萨斯州",
+        "minimal": "SpaceX在点火后突然中止了星舰V3发射周四，SpaceX在其位于南得克萨斯州",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30865",
       "channel": "xhqcankao",
       "text": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力的担忧。据知情人士透露，Gemini 3.5 Pro延期主要源于谷歌希望投入更多时间提升该模型的能力，尤其是在代码编程能力方面。Gemini 3.5 Pro原计划于今年六月发布，谷歌CEO皮查伊曾在五月举行的谷歌年度I/O开发者大会上透露相关计划。这一进展不及预期已令谷歌工程师、人工智能研究人员以及管理层感到沮丧，许多人担忧，随着竞争对手推出性能超过Gemini的模型，谷歌可能面临市场地位被削弱的风险。",
@@ -1349,6 +1413,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-17T07:59:39.002053"
+  "count": 54,
+  "updated_at": "2026-07-17T08:04:42.925862"
 }
