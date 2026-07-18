@@ -1172,35 +1172,8 @@
         "minimal": "SpaceX在点火后突然中止了星舰V3发射周四，SpaceX在其位于南得克萨斯州",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30865",
-      "channel": "xhqcankao",
-      "text": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力的担忧。据知情人士透露，Gemini 3.5 Pro延期主要源于谷歌希望投入更多时间提升该模型的能力，尤其是在代码编程能力方面。Gemini 3.5 Pro原计划于今年六月发布，谷歌CEO皮查伊曾在五月举行的谷歌年度I/O开发者大会上透露相关计划。这一进展不及预期已令谷歌工程师、人工智能研究人员以及管理层感到沮丧，许多人担忧，随着竞争对手推出性能超过Gemini的模型，谷歌可能面临市场地位被削弱的风险。",
-      "clean_text": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力的担忧。据知情人士透露，Gemini 3.5 Pro延期主要源于谷歌希望投入更多时间提升该模型的能力，尤其是在代码编程能力方面。Gemini 3.5 Pro原计划于今年六月发布，谷歌CEO皮查伊曾在五月举行的谷歌年度I/O开发者大会上透露相关计划。这一进展不及预期已令谷歌工程师、人工智能研究人员以及管理层感到沮丧，许多人担忧，随着竞争对手推出性能超过Gemini的模型，谷歌可能面临市场地位被削弱的风险。——财联社、彭博社",
-      "datetime": "2026-07-16T23:01:56+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2428944?sv=8.8.0"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30865",
-      "scraped_at": "2026-07-17T07:02:36.950331",
-      "title": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力",
-      "title_options": {
-        "conclusion": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力",
-        "attractive": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力",
-        "minimal": "谷歌Gemini模型发布延期传闻引发担忧谷歌在推出其最强旗舰人工智能模型Gemini 3.5 Pro方面已落后于原计划数月，因为技术表现未达目标，引发市场对其AI竞争力",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-07-18T11:01:24.192527"
+  "count": 47,
+  "updated_at": "2026-07-18T11:06:28.009586"
 }
