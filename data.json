@@ -1224,43 +1224,8 @@
         "minimal": "智谱AI有望成为首家年销售额达10亿美元",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42625",
-      "channel": "zaihuapd",
-      "text": "星舰第 13 次试飞最后一刻自动中止 预计下周再试SpaceX 星舰第 13 次飞行测试于当地时间 7 月 16 日在得州星际基地发射前最后一刻自动中止。点火在预定起飞前约 3 秒开始，4 台发动机未正常启动，剩余 29 台发动机随即关闭，火箭在距起飞不足 1 秒时被系统拦截。这是全尺寸星舰首次出现此类最后一刻发射中止，发射团队随后开始泄出燃料。马斯克确认将更换其中两台发动机，预计最早下周初再次尝试。本次任务原计划搭载 20 颗新一代星链卫星进行约 1 小时的太空掠过飞行，一级助推器与飞船均不回收。此外，尽管 SpaceX 已于 2026 年 6 月 12 日登陆纳斯达克，但公司上市后的首次发射实为 6 月 15 日的一枚猎鹰 9 号，因此此次应为“上市后的首次星舰飞行测试”。AP News|SpaceX·茶馆水群·",
-      "clean_text": "星舰第 13 次试飞最后一刻自动中止 预计下周再试SpaceX 星舰第 13 次飞行测试于当地时间 7 月 16 日在得州星际基地发射前最后一刻自动中止。点火在预定起飞前约 3 秒开始，4 台发动机未正常启动，剩余 29 台发动机随即关闭，火箭在距起飞不足 1 秒时被系统拦截。这是全尺寸星舰首次出现此类最后一刻发射中止，发射团队随后开始泄出燃料。马斯克确认将更换其中两台发动机，预计最早下周初再次尝试。本次任务原计划搭载 20 颗新一代星链卫星进行约 1 小时的太空掠过飞行，一级助推器与飞船均不回收。此外，尽管 SpaceX 已于 2026 年 6 月 12 日登陆纳斯达克，但公司上市后的首次发射实为 6 月 15 日的一枚猎鹰 9 号，因此此次应为“上市后的首次星舰飞行测试”。AP News|SpaceX·茶馆水群",
-      "datetime": "2026-07-17T06:11:58+00:00",
-      "views": "51.4K",
-      "source_links": [
-        {
-          "text": "AP News",
-          "url": "https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228"
-        },
-        {
-          "text": "SpaceX",
-          "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42625",
-      "scraped_at": "2026-07-17T15:00:58.346618",
-      "title": "星舰第 13 次试飞最后一刻自动中止 …",
-      "title_options": {
-        "conclusion": "星舰第 13 次试飞最后一刻自动中止 …",
-        "attractive": "星舰第 13 次试飞最后一刻自动中止 …",
-        "minimal": "星舰第 13 次试飞最后一刻自动中止 …",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-18T18:10:51.510121"
+  "count": 48,
+  "updated_at": "2026-07-18T18:12:01.568474"
 }
