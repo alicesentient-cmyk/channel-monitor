@@ -1,6 +1,87 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30888",
+      "channel": "xhqcankao",
+      "text": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国的生产业务。可口可乐确认，一名第三方人士未经授权入侵了fairlife的网络系统，直接影响了生产系统运作。可口可乐公司被迫暂停fairlife在美国境内的所有制造业务。不过公司在加拿大的生产运营未受到影响。目前，fairlife已向执法部门报案，并与外部网络安全专家合作，全面评估事件影响并恢复生产经营业务。fairlife还表示，此次事件未对产品质量和食品安全造成影响。",
+      "clean_text": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国的生产业务。可口可乐确认，一名第三方人士未经授权入侵了fairlife的网络系统，直接影响了生产系统运作。可口可乐公司被迫暂停fairlife在美国境内的所有制造业务。不过公司在加拿大的生产运营未受到影响。目前，fairlife已向执法部门报案，并与外部网络安全专家合作，全面评估事件影响并恢复生产经营业务。fairlife还表示，此次事件未对产品质量和食品安全造成影响。——财联社、Techcrunch",
+      "datetime": "2026-07-18T00:33:04+00:00",
+      "views": "774",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2429539?sv=8.5.9"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30888",
+      "scraped_at": "2026-07-18T09:01:36.608814",
+      "title": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
+      "title_options": {
+        "conclusion": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
+        "attractive": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
+        "minimal": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42634",
+      "channel": "zaihuapd",
+      "text": "豆包手机调整策略：放弃硬操作头部应用，备货数十万台新一代豆包手机将放弃直接读取屏幕并模拟点击头部应用（GUI 技术），转而要求阿里、腾讯等超级应用自行提供 MCP 服务、开放数据与操控权限后才能接入。其备货量从此前的 3 万台提升至数十万台。今年 7 月 15 日，豆包手机助手软件获得生成式人工智能服务备案。该产品于 2025 年 12 月首次发布技术预览版，曾因微信、淘宝等平台封禁而下线相关能力。目前，各超级应用与手机厂商均在争夺 AI 时代入口主权，苹果、Google 亦转向让开发者授权开放的类似 MCP 框架。晚点 LatePost·茶馆水群·",
+      "clean_text": "豆包手机调整策略：放弃硬操作头部应用，备货数十万台新一代豆包手机将放弃直接读取屏幕并模拟点击头部应用（GUI 技术），转而要求阿里、腾讯等超级应用自行提供 MCP 服务、开放数据与操控权限后才能接入。其备货量从此前的 3 万台提升至数十万台。今年 7 月 15 日，豆包手机助手软件获得生成式人工智能服务备案。该产品于 2025 年 12 月首次发布技术预览版，曾因微信、淘宝等平台封禁而下线相关能力。目前，各超级应用与手机厂商均在争夺 AI 时代入口主权，苹果、Google 亦转向让开发者授权开放的类似 MCP 框架。晚点 LatePost·茶馆水群",
+      "datetime": "2026-07-18T00:29:37+00:00",
+      "views": "48.9K",
+      "source_links": [
+        {
+          "text": "晚点 LatePost",
+          "url": "https://www.latepost.com/news/dj_detail?id=3648"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42634",
+      "scraped_at": "2026-07-18T09:01:34.824824",
+      "title": "豆包手机调整策略：放弃硬操作头部应用，…",
+      "title_options": {
+        "conclusion": "豆包手机调整策略：放弃硬操作头部应用，…",
+        "attractive": "豆包手机调整策略：放弃硬操作头部应用，…",
+        "minimal": "豆包手机调整策略：放弃硬操作头部应用，…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30887",
+      "channel": "xhqcankao",
+      "text": "微软正筹备一款AI漏洞检测工具‌ 或本月发布微软公司正在筹备一款新的人工智能漏洞检测工具，类似于人工智能公司Anthropic旗下的Mythos模型，以满足企业日益增长的网络安全防御支出需求。一位知情人士透露，这款产品名为Product Perception，将于本月内正式发布，其将结合Anthropic、OpenAI以及微软自身开发的多种人工智能模型，像Mythos一样检测软件漏洞，并自动修复这些安全缺陷。尽管Project Perception的具体价格尚未最终确定，但知情人士称，微软公司希望为消费者提供一种比Mythos更具成本效益的替代方案",
+      "clean_text": "微软正筹备一款AI漏洞检测工具‌ 或本月发布微软公司正在筹备一款新的人工智能漏洞检测工具，类似于人工智能公司Anthropic旗下的Mythos模型，以满足企业日益增长的网络安全防御支出需求。一位知情人士透露，这款产品名为Product Perception，将于本月内正式发布，其将结合Anthropic、OpenAI以及微软自身开发的多种人工智能模型，像Mythos一样检测软件漏洞，并自动修复这些安全缺陷。尽管Project Perception的具体价格尚未最终确定，但知情人士称，微软公司希望为消费者提供一种比Mythos更具成本效益的替代方案——后者价格相当昂贵。——财联社",
+      "datetime": "2026-07-18T00:03:49+00:00",
+      "views": "1.24K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2429610?sv=8.5.9"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30887",
+      "scraped_at": "2026-07-18T09:01:36.608320",
+      "title": "微软正筹备一款AI漏洞检测工具‌ 或本月发布微软公司正在筹备一款新",
+      "title_options": {
+        "conclusion": "微软正筹备一款AI漏洞检测工具‌ 或本月发布微软公司正在筹备一款新",
+        "attractive": "微软正筹备一款AI漏洞检测工具‌ 或本月发布微软公司正在筹备一款新",
+        "minimal": "微软正筹备一款AI漏洞检测工具‌ 或本月发布微软公司正在筹备一款新",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30886",
       "channel": "xhqcankao",
       "text": "每月10万美元！交易员据悉可获取特朗普帖文抢先看服务美国总统特朗普旗下社交媒体公司已讨论向交易员和投资者收取最高每月10万美元的费用，以便他们更快获取美国总统在其社交平台Truth Social上发布的内容。据悉，特朗普家族是DJT的最大股东，该上市公司正是 Truth Social 的运营方。此前一天，DJT公司正式推出一项付费授权数据服务 —— “Truth API”。该服务旨在向银行和交易机构提供来自 Truth Social 平台重要账号的“最快”信息访问渠道。DJT公司发言人表示，该产品将向客户提供 Truth Social 上影响力最大的10个账号发布内容，其推送速度将明显快于普通用户通过 Truth Social 平台收到的通知。",
@@ -899,6 +980,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-07-18T09:00:03.101213"
+  "count": 39,
+  "updated_at": "2026-07-18T09:05:06.761821"
 }
