@@ -1183,39 +1183,8 @@
         "minimal": "中国官媒AI视频将菲人描绘成猴子 马尼拉斥种族主义要求下架菲律宾强烈谴责中国官媒《中国日报》上传一段将菲律宾人描绘为猴子",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42620",
-      "channel": "zaihuapd",
-      "text": "Truth Social 将向华尔街出售特朗普帖子的快速访问权限特朗普媒体科技集团（TMTG）周四宣布，旗下社交平台 Truth Social 将从 8 月 1 日起，向机构客户出售名为 Truth API 的数据服务。该 API 以毫秒级速度提供平台排名前 10 账号的实时帖子，旨在为高频算法交易者创造信息优势。公司未公布具体定价。Truth Social 已成为特朗普宣布政策决定的主要渠道，其关于关税、伊朗及霍尔木兹海峡的帖子曾多次引发股市和油市剧烈波动。TMTG 称此举是将其专有资产货币化、拓展高利润率收入来源的战略步骤，但也再次引发外界对总统模糊商业与公务界限的担忧。此外，CNN 此前调查发现，特朗普曾利用 Truth Social 宣传自己刚买入股票的公司。CNN·茶馆水群·",
-      "clean_text": "Truth Social 将向华尔街出售特朗普帖子的快速访问权限特朗普媒体科技集团（TMTG）周四宣布，旗下社交平台 Truth Social 将从 8 月 1 日起，向机构客户出售名为 Truth API 的数据服务。该 API 以毫秒级速度提供平台排名前 10 账号的实时帖子，旨在为高频算法交易者创造信息优势。公司未公布具体定价。Truth Social 已成为特朗普宣布政策决定的主要渠道，其关于关税、伊朗及霍尔木兹海峡的帖子曾多次引发股市和油市剧烈波动。TMTG 称此举是将其专有资产货币化、拓展高利润率收入来源的战略步骤，但也再次引发外界对总统模糊商业与公务界限的担忧。此外，CNN 此前调查发现，特朗普曾利用 Truth Social 宣传自己刚买入股票的公司。CNN·茶馆水群",
-      "datetime": "2026-07-17T01:02:59+00:00",
-      "views": "21.7K",
-      "source_links": [
-        {
-          "text": "CNN",
-          "url": "https://www.cnn.com/2026/07/16/business/truth-social-data-wall-street"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42620",
-      "scraped_at": "2026-07-17T09:07:59.904646",
-      "title": "Truth Social 将向华尔街出售特朗普帖子",
-      "title_options": {
-        "conclusion": "Truth Social 将向华尔街出售特朗普帖子",
-        "attractive": "Truth Social 将向华尔街出售特朗普帖子",
-        "minimal": "Truth Social 将向华尔街出售特朗普帖子",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-07-18T13:02:52.876308"
+  "count": 47,
+  "updated_at": "2026-07-18T13:07:57.542241"
 }
