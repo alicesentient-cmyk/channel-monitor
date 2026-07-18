@@ -1,6 +1,87 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42644",
+      "channel": "zaihuapd",
+      "text": "特朗普政府拟设类似 FINRA 的独立机构审查顶尖 AI 模型特朗普政府正考虑设立一个独立的 AI 监管机构，负责审查顶尖人工智能模型的安全性。该机构将类似于金融业监管局（FINRA），向证券交易委员会（SEC）汇报，由财政部长斯科特·贝森特（Scott Bessent）牵头制定，目前正由白宫幕僚长苏茜·威尔斯（Susie Wiles）审阅。此举旨在回应华尔街对网络安全的担忧，以及硅谷对政府近期临时性管控措施的不满，让两大行业在联合制定安全标准方面拥有更大发言权。此前，Anthropic 和 OpenAI 均因美国政府要求修改或限制发布最新模型而提出异议。该计划与 Google DeepMind 首席执行官德米斯·哈萨比斯（Demis Hassabis）本周提出的设立行业资助独立监管机构的建议方向一致。知情人士称，总统特朗普尚未审阅该方案，相关框架仍在讨论中，内容可能会有所调整。Bloomberg·茶馆水群·",
+      "clean_text": "特朗普政府拟设类似 FINRA 的独立机构审查顶尖 AI 模型特朗普政府正考虑设立一个独立的 AI 监管机构，负责审查顶尖人工智能模型的安全性。该机构将类似于金融业监管局（FINRA），向证券交易委员会（SEC）汇报，由财政部长斯科特·贝森特（Scott Bessent）牵头制定，目前正由白宫幕僚长苏茜·威尔斯（Susie Wiles）审阅。此举旨在回应华尔街对网络安全的担忧，以及硅谷对政府近期临时性管控措施的不满，让两大行业在联合制定安全标准方面拥有更大发言权。此前，Anthropic 和 OpenAI 均因美国政府要求修改或限制发布最新模型而提出异议。该计划与 Google DeepMind 首席执行官德米斯·哈萨比斯（Demis Hassabis）本周提出的设立行业资助独立监管机构的建议方向一致。知情人士称，总统特朗普尚未审阅该方案，相关框架仍在讨论中，内容可能会有所调整。Bloomberg·茶馆水群",
+      "datetime": "2026-07-18T05:45:00+00:00",
+      "views": "48.1K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42644",
+      "scraped_at": "2026-07-18T14:01:00.400094",
+      "title": "特朗普政府拟设类似 FINRA ",
+      "title_options": {
+        "conclusion": "特朗普政府拟设类似 FINRA ",
+        "attractive": "特朗普政府拟设类似 FINRA ",
+        "minimal": "特朗普政府拟设类似 FINRA ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30898",
+      "channel": "xhqcankao",
+      "text": "中国驳斥关于其非法蒸馏外国AI技术的说法中国政府驳斥了关于该国蒸馏外国技术的指控，此前包括 Anthropic 在内的美国公司称中国竞争对手非法提取美国顶级模型的结果以提升自身能力。“一些国家炒作蒸馏，” 中国外交部部长助理刘彬周六在上海世界人工智能大会上对与会者表示，没有具体点名美国。“这是误导且适得其反的，”他补充道。周五，中国国家主席习近平也呼吁全球技术发展采取开放态度，称“人工智能发展不应是任何一个国家单方面行动”。在中国AI先驱月之暗面本周早些时候发布了一款新的旗舰模型后，蒸馏问题再次成为焦点。",
+      "clean_text": "中国驳斥关于其非法蒸馏外国AI技术的说法中国政府驳斥了关于该国蒸馏外国技术的指控，此前包括 Anthropic 在内的美国公司称中国竞争对手非法提取美国顶级模型的结果以提升自身能力。“一些国家炒作蒸馏，” 中国外交部部长助理刘彬周六在上海世界人工智能大会上对与会者表示，没有具体点名美国。“这是误导且适得其反的，”他补充道。周五，中国国家主席习近平也呼吁全球技术发展采取开放态度，称“人工智能发展不应是任何一个国家单方面行动”。在中国AI先驱月之暗面本周早些时候发布了一款新的旗舰模型后，蒸馏问题再次成为焦点。——彭博社",
+      "datetime": "2026-07-18T05:29:59+00:00",
+      "views": "1.23K",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30898",
+      "scraped_at": "2026-07-18T14:01:02.525090",
+      "title": "中国驳斥关于其非法蒸馏外国AI技术",
+      "title_options": {
+        "conclusion": "中国驳斥关于其非法蒸馏外国AI技术",
+        "attractive": "中国驳斥关于其非法蒸馏外国AI技术",
+        "minimal": "中国驳斥关于其非法蒸馏外国AI技术",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30897",
+      "channel": "xhqcankao",
+      "text": "特朗普政府加强AI模型发布管控 科技巨头话语权遭削弱知情人士称，特朗普政府已采取新措施，通过规定哪些公司和实体被允许访问最新前沿AI模型，以加强对未来AI模型发布流程的控制。在此之前，这一决定权掌握在美国AI巨头手中。Anthropic和OpenAI此前一直自行决定哪些企业和机构可以使用其最强大的模型，且通常会把大企业客户纳入访问范围。对此，一位白宫官员告诉 CNBC，政府不会审批私营公司的AI模型发布。官员表示，与政府专家的任何接触、测试或会议都是“自愿的”，并且 “发布的时间和范围的决定完全由公司自行决定”，并让 CNBC 参考特朗普最近签署的行政命令。",
+      "clean_text": "特朗普政府加强AI模型发布管控 科技巨头话语权遭削弱知情人士称，特朗普政府已采取新措施，通过规定哪些公司和实体被允许访问最新前沿AI模型，以加强对未来AI模型发布流程的控制。在此之前，这一决定权掌握在美国AI巨头手中。Anthropic和OpenAI此前一直自行决定哪些企业和机构可以使用其最强大的模型，且通常会把大企业客户纳入访问范围。对此，一位白宫官员告诉 CNBC，政府不会审批私营公司的AI模型发布。官员表示，与政府专家的任何接触、测试或会议都是“自愿的”，并且 “发布的时间和范围的决定完全由公司自行决定”，并让 CNBC 参考特朗普最近签署的行政命令。——凤凰网科技、CNBC",
+      "datetime": "2026-07-18T05:02:10+00:00",
+      "views": "1.81K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006c2lABoKjSb2tf2Rna6NY1-_LH--ybSz4zkdkHW11POy4UIpT-_xALEFpQN7fuimHVfk"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30897",
+      "scraped_at": "2026-07-18T14:01:02.524649",
+      "title": "特朗普政府加强AI模型发布管控 科技巨头话语权遭削弱知情人士称，特朗普政府已采取新措施，通过规定哪些公司和实体被允许访问最新前沿AI模型，以加强对未来AI模型发布流程",
+      "title_options": {
+        "conclusion": "特朗普政府加强AI模型发布管控 科技巨头话语权遭削弱知情人士称，特朗普政府已采取新措施，通过规定哪些公司和实体被允许访问最新前沿AI模型，以加强对未来AI模型发布流程",
+        "attractive": "特朗普政府加强AI模型发布管控 科技巨头话语权遭削弱知情人士称，特朗普政府已采取新措施，通过规定哪些公司和实体被允许访问最新前沿AI模型，以加强对未来AI模型发布流程",
+        "minimal": "特朗普政府加强AI模型发布管控 科技巨头话语权遭削弱知情人士称，特朗普政府已采取新措施，通过规定哪些公司和实体被允许访问最新前沿AI模型，以加强对未来AI模型发布流程",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42643",
       "channel": "zaihuapd",
       "text": "台积电宣布下一代A14制程技术将于2028年投产  台积电计划在2028年开始生产A14制程，旨在保持芯片行业的领先地位。  与将于今年晚些时候量产的N2制程相比，A14制程将在相同功耗下提升高达15%的速度，或在相同速度下降低达30%的功率，同时逻辑密度提高20%以上。台积电还计划在2026年末推出中间的A16制程。  台积电 | Tom’s Hardware投稿频道聊天",
@@ -1133,35 +1214,8 @@
         "minimal": "习近平在2026世界AI大会发表主旨讲…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30871",
-      "channel": "xhqcankao",
-      "text": "Roblox推出\"Build\"工具 降低游戏创作门槛知名多人在线游戏创建平台Roblox近日宣布推出名为“Build”的全新移动端创作工具，允许用户通过简单的文字描述，在Roblox应用程序内直接生成可玩的游戏雏形。“Build”旨在降低游戏创作的门槛，让所有用户都能将创意变为现实。其工作流程简洁明了：输入文字提示，系统会基于多种人工智能模型生成一个可玩的游戏起点，涵盖游戏机制、环境、角色、视觉风格和音效等。随后，创作者可以在移动端进行迭代、测试并发布。“Build”的基础版本将免费提供，同时为有更高需求的用户准备了付费选项。",
-      "clean_text": "Roblox推出\"Build\"工具 降低游戏创作门槛知名多人在线游戏创建平台Roblox近日宣布推出名为“Build”的全新移动端创作工具，允许用户通过简单的文字描述，在Roblox应用程序内直接生成可玩的游戏雏形。“Build”旨在降低游戏创作的门槛，让所有用户都能将创意变为现实。其工作流程简洁明了：输入文字提示，系统会基于多种人工智能模型生成一个可玩的游戏起点，涵盖游戏机制、环境、角色、视觉风格和音效等。随后，创作者可以在移动端进行迭代、测试并发布。“Build”的基础版本将免费提供，同时为有更高需求的用户准备了付费选项。——新浪财经、Techcrunch",
-      "datetime": "2026-07-17T02:01:14+00:00",
-      "views": "84",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://cj.sina.cn/article/normal_detail?u=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-07-16%2Fdoc-inihzmms7667540.shtml"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30871",
-      "scraped_at": "2026-07-17T10:02:16.970715",
-      "title": "Roblox推出\"Build\"工具 降低游戏创作门槛知名多人在线游戏创建平台Roblox近日宣布推出名为“Build”",
-      "title_options": {
-        "conclusion": "Roblox推出\"Build\"工具 降低游戏创作门槛知名多人在线游戏创建平台Roblox近日宣布推出名为“Build”",
-        "attractive": "Roblox推出\"Build\"工具 降低游戏创作门槛知名多人在线游戏创建平台Roblox近日宣布推出名为“Build”",
-        "minimal": "Roblox推出\"Build\"工具 降低游戏创作门槛知名多人在线游戏创建平台Roblox近日宣布推出名为“Build”",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-07-18T13:58:38.279087"
+  "count": 48,
+  "updated_at": "2026-07-18T14:03:43.597431"
 }
