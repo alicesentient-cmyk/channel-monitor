@@ -1011,39 +1011,8 @@
         "minimal": "苹果公司向数十名OpenAI员工发律师函苹果已向数十名曾在该公司任职、现就职于OpenAI",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42633",
-      "channel": "zaihuapd",
-      "text": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报的核心指标，取代传统的软件采用率（如用户数、许可证续费）评估方式。她指出，企业领导者应关注 AI 完成的工作价值是否超过其生产成本，而非仅看 token 成本。该框架包含四个维度：完成的有用工作量、每个成功任务的全成本、AI 输出的可靠性，以及随使用增长每美元投入是否产生更多价值。Friar 强调，最低 token 单价不等于最低任务成本，更强大的模型可能一次性给出正确答案反而更省钱。文章同时介绍了上周发布的 GPT-5.6 系列，其旗舰版本 Sol 在编码任务上创下新纪录，输出 token 比另一领先模型减少 54%。OpenAI·茶馆水群·",
-      "clean_text": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报的核心指标，取代传统的软件采用率（如用户数、许可证续费）评估方式。她指出，企业领导者应关注 AI 完成的工作价值是否超过其生产成本，而非仅看 token 成本。该框架包含四个维度：完成的有用工作量、每个成功任务的全成本、AI 输出的可靠性，以及随使用增长每美元投入是否产生更多价值。Friar 强调，最低 token 单价不等于最低任务成本，更强大的模型可能一次性给出正确答案反而更省钱。文章同时介绍了上周发布的 GPT-5.6 系列，其旗舰版本 Sol 在编码任务上创下新纪录，输出 token 比另一领先模型减少 54%。OpenAI·茶馆水群",
-      "datetime": "2026-07-17T15:00:49+00:00",
-      "views": "2.28K",
-      "source_links": [
-        {
-          "text": "OpenAI",
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42633",
-      "scraped_at": "2026-07-17T23:01:49.939456",
-      "title": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
-      "title_options": {
-        "conclusion": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
-        "attractive": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
-        "minimal": "OpenAI CFO 提出 AI 时代新提效指标：用每美元有用智能衡量 ROIOpenAI CFO Sarah Friar 提出以\"每美元有用智能\"作为衡量 AI 投资回报",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-07-19T02:59:28.646691"
+  "count": 40,
+  "updated_at": "2026-07-19T03:04:32.777915"
 }
