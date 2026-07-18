@@ -1215,26 +1215,8 @@
         "minimal": "Spotify向免费订阅用户推出家长管理账户流媒体Spotify周三宣布，正在将其针对儿童",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42619",
-      "channel": "zaihuapd",
-      "text": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强的开源模型 Kimi K3，参数规模达 2.8 万亿，完整权重将在未来几天内开放。该模型基于 Kimi Delta Attention 与 Attention Residuals 架构，采用稀疏 Mixture of Experts 设计，可在 896 个专家中激活 16 个，相比 K2 的扩展效率提升约 2.5 倍。  K3 原生支持视觉理解，拥有…",
-      "clean_text": "🌙Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强的开源模型 Kimi K3，参数规模达 2.8 万亿，完整权重将在未来几天内开放。该模型基于 Kimi Delta Attention 与 Attention Residuals 架构，采用稀疏 Mixture of Experts 设计，可在 896 个专家中激活 16 个，相比 K2 的扩展效率提升约 2.5 倍。  K3 原生支持视觉理解，拥有…",
-      "datetime": "2026-07-17T00:02:34+00:00",
-      "views": "7.26K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42619",
-      "scraped_at": "2026-07-17T08:03:47.919290",
-      "title": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
-      "title_options": {
-        "conclusion": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
-        "attractive": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
-        "minimal": "Kimi 发布 2.8 万亿参数模型 K3 ，最高 1M 上下文，综合水平仅次于 Claude Fable 5 和 GPT-5.6 Sol  Kimi 发布迄今最强",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-18T12:02:08.225900"
+  "count": 48,
+  "updated_at": "2026-07-18T12:07:12.410569"
 }
