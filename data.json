@@ -1084,39 +1084,8 @@
         "minimal": "社交平台 X 严厉打击窃取内容",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42630",
-      "channel": "zaihuapd",
-      "text": "AWS 计费控制台出现账单估算数据异常，有人喜提“万亿美元”云账单7 月 17 日，AWS Billing Console 出现账单估算异常，部分用户看到的当月费用和月底预测金额突然飙升至数十亿乃至万亿美元。AWS 确认根因是账单估算子系统中的单位定价异常，已暂停估算计费计算以防止错误数据继续显示。当前显示的账单估算不反映实际用量和费用，完全修复预计需数小时以重新计算估算数据，客户无需采取任何操作。AWS Service Health·茶馆水群·",
-      "clean_text": "AWS 计费控制台出现账单估算数据异常，有人喜提“万亿美元”云账单7 月 17 日，AWS Billing Console 出现账单估算异常，部分用户看到的当月费用和月底预测金额突然飙升至数十亿乃至万亿美元。AWS 确认根因是账单估算子系统中的单位定价异常，已暂停估算计费计算以防止错误数据继续显示。当前显示的账单估算不反映实际用量和费用，完全修复预计需数小时以重新计算估算数据，客户无需采取任何操作。AWS Service Health·茶馆水群",
-      "datetime": "2026-07-17T11:54:19+00:00",
-      "views": "35.7K",
-      "source_links": [
-        {
-          "text": "AWS Service Health",
-          "url": "https://health.aws.amazon.com/health/status"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42630",
-      "scraped_at": "2026-07-17T20:01:51.577929",
-      "title": "AWS 计费控制台出现账单估算数据异常，有人喜提“万亿美元”云账单7 月 17 日，AWS Billing Console 出现账单估算异常，部分用户看到",
-      "title_options": {
-        "conclusion": "AWS 计费控制台出现账单估算数据异常，有人喜提“万亿美元”云账单7 月 17 日，AWS Billing Console 出现账单估算异常，部分用户看到",
-        "attractive": "AWS 计费控制台出现账单估算数据异常，有人喜提“万亿美元”云账单7 月 17 日，AWS Billing Console 出现账单估算异常，部分用户看到",
-        "minimal": "AWS 计费控制台出现账单估算数据异常，有人喜提“万亿美元”云账单7 月 17 日，AWS Billing Console 出现账单估算异常，部分用户看到",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 44,
-  "updated_at": "2026-07-18T23:52:01.273972"
+  "count": 43,
+  "updated_at": "2026-07-18T23:57:04.825894"
 }
