@@ -1237,39 +1237,8 @@
         "minimal": "特朗普政府拟缩短学生媒体签证期限 中国记者签证仅90天  美国特朗普政府周三公布拟议法规，计划大幅缩短学生、文化交流访问者和媒体人员",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30876",
-      "channel": "xhqcankao",
-      "text": "谷歌AI模式现允许你连接和操作特定应用谷歌在周四宣布，现在允许用户在AI模式中直接链接并操作他们常用的一些应用。上线时，支持的应用包括Instacart、Canva以及YouTube。借助这一新更新，谷歌正在将AI模式从回答问题的范围扩展到在用户经常使用的应用中完成任务。在示例中，谷歌公司表示，如果你正在计划一场烧烤并使用AI模式创建购物清单，你可以连接你的Instacart账户，将食材直接添加到购物车中，并且在Instacart应用或网站上快速结账。当天，谷歌还将AI笔记助理NotebookLM更名为Gemini Notebook。此外，谷歌还对AI视频制作应用 Google Vids 进行更新，将允许你基于自己上传的自拍和语音录音，创建出外观和声音都像你的自定义数字分身。",
-      "clean_text": "谷歌AI模式现允许你连接和操作特定应用谷歌在周四宣布，现在允许用户在AI模式中直接链接并操作他们常用的一些应用。上线时，支持的应用包括Instacart、Canva以及YouTube。借助这一新更新，谷歌正在将AI模式从回答问题的范围扩展到在用户经常使用的应用中完成任务。在示例中，谷歌公司表示，如果你正在计划一场烧烤并使用AI模式创建购物清单，你可以连接你的Instacart账户，将食材直接添加到购物车中，并且在Instacart应用或网站上快速结账。当天，谷歌还将AI笔记助理NotebookLM更名为Gemini Notebook。此外，谷歌还对AI视频制作应用 Google Vids 进行更新，将允许你基于自己上传的自拍和语音录音，创建出外观和声音都像你的自定义数字分身。—— Techcrunch一、二、三",
-      "datetime": "2026-07-17T04:31:49+00:00",
-      "views": "1.12K",
-      "source_links": [
-        {
-          "text": "一",
-          "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
-        },
-        {
-          "text": "二",
-          "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/"
-        },
-        {
-          "text": "三",
-          "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30876",
-      "scraped_at": "2026-07-17T13:01:30.849245",
-      "title": "谷歌AI模式现允许你连接和操作特定应用谷歌在周四宣布，现在允许用户在AI模式中直接链接并操作他们常用",
-      "title_options": {
-        "conclusion": "谷歌AI模式现允许你连接和操作特定应用谷歌在周四宣布，现在允许用户在AI模式中直接链接并操作他们常用",
-        "attractive": "谷歌AI模式现允许你连接和操作特定应用谷歌在周四宣布，现在允许用户在AI模式中直接链接并操作他们常用",
-        "minimal": "谷歌AI模式现允许你连接和操作特定应用谷歌在周四宣布，现在允许用户在AI模式中直接链接并操作他们常用",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-18T16:30:40.220873"
+  "count": 49,
+  "updated_at": "2026-07-18T16:35:44.099229"
 }
