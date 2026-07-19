@@ -662,31 +662,8 @@
         "minimal": "苹果上调土耳其区 iCloud+ 2TB 订阅价格，涨幅达 60%  苹果公司近日调整了其在土耳其区",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30903",
-      "channel": "xhqcankao",
-      "text": "苹果公司提高了日本的iPhone价格在上个月全球范围内提高所有Mac和iPad设备的价格之后，苹果公司现在已提高了日本iPhone机型的价格。正如西班牙博客iPhoneros所发现的，苹果iPhone 16、iPhone 17e、iPhone 17以及iPhone Air、iPhone 17 Pro、iPhone 17 Pro Max今天在苹果日本在线商店上价格全部上涨。价格涨幅最高达11%。苹果公司将上个月Mac和iPad的价格上涨归因于持续的存储芯片短缺，这推高了芯片价格。然而，就目前的情况来看，涨价很可能是由于过去一年日元兑美元贬值所致。",
-      "clean_text": "苹果公司提高了日本的iPhone价格在上个月全球范围内提高所有Mac和iPad设备的价格之后，苹果公司现在已提高了日本iPhone机型的价格。正如西班牙博客iPhoneros所发现的，苹果iPhone 16、iPhone 17e、iPhone 17以及iPhone Air、iPhone 17 Pro、iPhone 17 Pro Max今天在苹果日本在线商店上价格全部上涨。价格涨幅最高达11%。苹果公司将上个月Mac和iPad的价格上涨归因于持续的存储芯片短缺，这推高了芯片价格。然而，就目前的情况来看，涨价很可能是由于过去一年日元兑美元贬值所致。——Macrumors",
-      "datetime": "2026-07-18T07:56:34+00:00",
-      "views": "345",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30903",
-      "scraped_at": "2026-07-18T16:01:03.141153",
-      "title": "苹果公司提高了日本",
-      "title_options": {
-        "conclusion": "苹果公司提高了日本",
-        "attractive": "苹果公司提高了日本",
-        "minimal": "苹果公司提高了日本",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 26,
-  "updated_at": "2026-07-19T19:51:47.621433"
+  "count": 25,
+  "updated_at": "2026-07-19T19:56:53.191850"
 }
