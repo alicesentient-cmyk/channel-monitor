@@ -975,31 +975,8 @@
         "minimal": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30891",
-      "channel": "xhqcankao",
-      "text": "经期追踪器Stardust被曝分享用户健康数据“您的数据是私密的。Period，”经期追踪软件Stardust在其网站上说道。正如Mozilla的新研究所发现，一些用户可能会觉得这一说法有些牵强。根据Mozilla最新审查经期追踪应用隐私实践的研究结果，Stardust被发现与第三方分析公司RudderStack分享用户的敏感健康信息。这些数据包括用户的出生日期、避孕类型、生育目标以及用户正在经历的具体症状，并且该记录与一个唯一标识符关联，以替代该人的姓名。Mozilla的研究强调了使用经期追踪及其他与第三方共享数据的健康应用所涉及的安全和隐私风险。在测试的六款应用中，只有Stardust会将用户的敏感健康数据与其他公司共享。",
-      "clean_text": "经期追踪器Stardust被曝分享用户健康数据“您的数据是私密的。Period，”经期追踪软件Stardust在其网站上说道。正如Mozilla的新研究所发现，一些用户可能会觉得这一说法有些牵强。根据Mozilla最新审查经期追踪应用隐私实践的研究结果，Stardust被发现与第三方分析公司RudderStack分享用户的敏感健康信息。这些数据包括用户的出生日期、避孕类型、生育目标以及用户正在经历的具体症状，并且该记录与一个唯一标识符关联，以替代该人的姓名。Mozilla的研究强调了使用经期追踪及其他与第三方共享数据的健康应用所涉及的安全和隐私风险。在测试的六款应用中，只有Stardust会将用户的敏感健康数据与其他公司共享。——Techcrunch",
-      "datetime": "2026-07-18T02:00:22+00:00",
-      "views": "89",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30891",
-      "scraped_at": "2026-07-18T10:02:13.743294",
-      "title": "经期追踪器Stardust被曝分享用户健康数据“您",
-      "title_options": {
-        "conclusion": "经期追踪器Stardust被曝分享用户健康数据“您",
-        "attractive": "经期追踪器Stardust被曝分享用户健康数据“您",
-        "minimal": "经期追踪器Stardust被曝分享用户健康数据“您",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-07-19T13:56:34.688573"
+  "count": 39,
+  "updated_at": "2026-07-19T14:01:38.076728"
 }
