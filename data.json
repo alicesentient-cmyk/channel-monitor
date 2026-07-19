@@ -1056,39 +1056,8 @@
         "minimal": "Anthropic与Meta就租用算力展开洽谈人工智能初创公司Anthropic正在与Meta进行非常初步",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42635",
-      "channel": "zaihuapd",
-      "text": "Meta 拟向Anthropic 出租 AI 算力 潜在规模两年百亿美元Meta 正与 AI 初创公司 Anthropic 谈判，拟将其 AI 数据中心算力租予后者，潜在交易规模达 100 亿美元，为期两年。Anthropic 于今年 6 月提出该方案，Meta 正在评估；若达成协议，Anthropic 将按月付款，双方均可提前退出。知情人士称，谈判尚处早期阶段，未必能最终成交。这笔潜在交易凸显出 AI 算力的稀缺性。Meta 今年计划投入高达 1450 亿美元，其中大量用于 AI 与数据中心建设。对 Meta 而言，向外部公司出租闲置算力既能开辟新收入来源，也有助于缓解投资者对其巨额支出的质疑。The New York Times·茶馆水群·",
-      "clean_text": "📱Meta 拟向🤖Anthropic 出租 AI 算力 潜在规模两年百亿美元Meta 正与 AI 初创公司 Anthropic 谈判，拟将其 AI 数据中心算力租予后者，潜在交易规模达 100 亿美元，为期两年。Anthropic 于今年 6 月提出该方案，Meta 正在评估；若达成协议，Anthropic 将按月付款，双方均可提前退出。知情人士称，谈判尚处早期阶段，未必能最终成交。这笔潜在交易凸显出 AI 算力的稀缺性。Meta 今年计划投入高达 1450 亿美元，其中大量用于 AI 与数据中心建设。对 Meta 而言，向外部公司出租闲置算力既能开辟新收入来源，也有助于缓解投资者对其巨额支出的质疑。The New York Times·茶馆水群",
-      "datetime": "2026-07-18T01:14:37+00:00",
-      "views": "50K",
-      "source_links": [
-        {
-          "text": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42635",
-      "scraped_at": "2026-07-18T10:02:11.864162",
-      "title": "Meta 拟向Anthropic 出租…",
-      "title_options": {
-        "conclusion": "Meta 拟向Anthropic 出租…",
-        "attractive": "Meta 拟向Anthropic 出租…",
-        "minimal": "Meta 拟向Anthropic 出租…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 43,
-  "updated_at": "2026-07-19T13:10:59.796635"
+  "count": 42,
+  "updated_at": "2026-07-19T13:16:02.825244"
 }
