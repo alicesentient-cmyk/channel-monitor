@@ -1096,35 +1096,8 @@
         "minimal": "微软CEO据悉在内部批评Anthropic：Fable模型回答限制过严微软CEO纳德拉本周在公司内部发言时批评了AI公司Anthropic，他表示，Anthropic对其AI模型Fable",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30888",
-      "channel": "xhqcankao",
-      "text": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国的生产业务。可口可乐确认，一名第三方人士未经授权入侵了fairlife的网络系统，直接影响了生产系统运作。可口可乐公司被迫暂停fairlife在美国境内的所有制造业务。不过公司在加拿大的生产运营未受到影响。目前，fairlife已向执法部门报案，并与外部网络安全专家合作，全面评估事件影响并恢复生产经营业务。fairlife还表示，此次事件未对产品质量和食品安全造成影响。",
-      "clean_text": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国的生产业务。可口可乐确认，一名第三方人士未经授权入侵了fairlife的网络系统，直接影响了生产系统运作。可口可乐公司被迫暂停fairlife在美国境内的所有制造业务。不过公司在加拿大的生产运营未受到影响。目前，fairlife已向执法部门报案，并与外部网络安全专家合作，全面评估事件影响并恢复生产经营业务。fairlife还表示，此次事件未对产品质量和食品安全造成影响。——财联社、Techcrunch",
-      "datetime": "2026-07-18T00:33:04+00:00",
-      "views": "774",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2429539?sv=8.5.9"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30888",
-      "scraped_at": "2026-07-18T09:01:36.608814",
-      "title": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
-      "title_options": {
-        "conclusion": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
-        "attractive": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
-        "minimal": "可口可乐乳制品子公司fairlife遭黑客攻击周四，可口可乐公司表示，旗下乳制品子公司fairlife遭到黑客入侵，目前已暂停在美国",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 44,
-  "updated_at": "2026-07-19T12:30:31.805456"
+  "count": 43,
+  "updated_at": "2026-07-19T12:35:35.226012"
 }
