@@ -998,39 +998,8 @@
         "minimal": "经期追踪器Stardust被曝分享用户健康数据“您",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42636",
-      "channel": "zaihuapd",
-      "text": "SpaceX 与五角大楼谈判提供 AI 算力，交易或达数十亿美元SpaceX 正与美国国防部谈判，拟向五角大楼提供用于运行人工智能模型的数据中心算力，交易金额可能高达数十亿美元。知情人士称谈判仍在进行中，存在破裂可能。若达成协议，这将是 SpaceX 与五角大楼加深关系的最新一笔重大交易。五角大楼正加速获取云计算能力，以支持国安部门及日常作战中的 AI 应用。该部门近期已批准 SpaceX、亚马逊、谷歌、微软和甲骨文等公司在机密环境中使用其 AI 模型及相关技术。SpaceX 近月还与 Anthropic 和谷歌签署了类似算力供应协议，并计划大幅扩展云计算业务。The Wall Street Journal·茶馆水群·",
-      "clean_text": "SpaceX 与五角大楼谈判提供 AI 算力，交易或达数十亿美元SpaceX 正与美国国防部谈判，拟向五角大楼提供用于运行人工智能模型的数据中心算力，交易金额可能高达数十亿美元。知情人士称谈判仍在进行中，存在破裂可能。若达成协议，这将是 SpaceX 与五角大楼加深关系的最新一笔重大交易。五角大楼正加速获取云计算能力，以支持国安部门及日常作战中的 AI 应用。该部门近期已批准 SpaceX、亚马逊、谷歌、微软和甲骨文等公司在机密环境中使用其 AI 模型及相关技术。SpaceX 近月还与 Anthropic 和谷歌签署了类似算力供应协议，并计划大幅扩展云计算业务。The Wall Street Journal·茶馆水群",
-      "datetime": "2026-07-18T01:44:17+00:00",
-      "views": "48.3K",
-      "source_links": [
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42636",
-      "scraped_at": "2026-07-18T10:02:11.864649",
-      "title": "SpaceX 与五角大楼谈判提供 AI 算力，交易或达数十亿美元SpaceX 正与美国国防部谈判，拟向五角大楼提供用于运行人工智能模型",
-      "title_options": {
-        "conclusion": "SpaceX 与五角大楼谈判提供 AI 算力，交易或达数十亿美元SpaceX 正与美国国防部谈判，拟向五角大楼提供用于运行人工智能模型",
-        "attractive": "SpaceX 与五角大楼谈判提供 AI 算力，交易或达数十亿美元SpaceX 正与美国国防部谈判，拟向五角大楼提供用于运行人工智能模型",
-        "minimal": "SpaceX 与五角大楼谈判提供 AI 算力，交易或达数十亿美元SpaceX 正与美国国防部谈判，拟向五角大楼提供用于运行人工智能模型",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 41,
-  "updated_at": "2026-07-19T13:41:21.687191"
+  "count": 40,
+  "updated_at": "2026-07-19T13:46:24.683346"
 }
