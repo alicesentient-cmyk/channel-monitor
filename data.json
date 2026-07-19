@@ -708,35 +708,8 @@
         "minimal": "苹果提高了8个国家/地区",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30901",
-      "channel": "xhqcankao",
-      "text": "利用假Steam游戏窃取加密货币的男子被抓美国检察官指控一名佛罗里达男子向热门PC游戏平台Steam上传了包含恶意软件的虚假电子游戏。根据一份刑事起诉书，一旦受害者下载并安装这些游戏，该恶意软件被设计用于感染他们的计算机，窃取他们的密码和其他数据，并掏空他们的加密钱包。周二，FBI 逮捕了21岁的佛州居民、学生扎伊尔·威尔金斯。周三，检察官指控他和多名未透露姓名的共谋者犯有黑客犯罪。在过去两年中，威尔金斯及其同伙据称在Steam上发布了多款携带恶意软件的电子游戏。利用该恶意软件，威尔金斯及其同伙感染了约八千名受害者，然后入侵了约80个加密货币钱包，窃取了至少价值22万美元的加密货币。",
-      "clean_text": "利用假Steam游戏窃取加密货币的男子被抓美国检察官指控一名佛罗里达男子向热门PC游戏平台Steam上传了包含恶意软件的虚假电子游戏。根据一份刑事起诉书，一旦受害者下载并安装这些游戏，该恶意软件被设计用于感染他们的计算机，窃取他们的密码和其他数据，并掏空他们的加密钱包。周二，FBI 逮捕了21岁的佛州居民、学生扎伊尔·威尔金斯。周三，检察官指控他和多名未透露姓名的共谋者犯有黑客犯罪。在过去两年中，威尔金斯及其同伙据称在Steam上发布了多款携带恶意软件的电子游戏。利用该恶意软件，威尔金斯及其同伙感染了约八千名受害者，然后入侵了约80个加密货币钱包，窃取了至少价值22万美元的加密货币。——Theverge、Techcrunch",
-      "datetime": "2026-07-18T07:01:23+00:00",
-      "views": "1.94K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30901",
-      "scraped_at": "2026-07-18T16:01:03.140345",
-      "title": "利用假Steam游戏窃取加密货币",
-      "title_options": {
-        "conclusion": "利用假Steam游戏窃取加密货币",
-        "attractive": "利用假Steam游戏窃取加密货币",
-        "minimal": "利用假Steam游戏窃取加密货币",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-07-19T19:00:55.346586"
+  "count": 27,
+  "updated_at": "2026-07-19T19:05:59.559775"
 }
