@@ -934,49 +934,8 @@
         "minimal": "Claude Fable 5 访问延长…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30892",
-      "channel": "xhqcankao",
-      "text": "亚马逊向部分AWS客户开出数十亿美元账单部分亚马逊云客户在周五醒来时看到一份意外的账单估算，显示他们为从未使用过的云服务欠下数十亿美元。亚马逊周五确认，正在尝试解决AWS计费门户中的一个BUG，该BUG显示部分客户 “欠下” 数百万或数十亿美元的云计算费用。亚马逊在其状态页面更新中表示，从周四晚些时候开始，他们发现账单数据不准确。但到周五早上，该公司承认“回滚最近的更改并未解决该问题。”亚马逊表示，该更改涉及其计费计算子系统。对于那些被告知 “欠” 亚马逊数百万或数十亿美元的客户来说，好消息是他们很可能不会被追究。亚马逊称，这些账单估算“并不反映实际使用情况和费用。”",
-      "clean_text": "亚马逊向部分AWS客户开出数十亿美元账单部分亚马逊云客户在周五醒来时看到一份意外的账单估算，显示他们为从未使用过的云服务欠下数十亿美元。亚马逊周五确认，正在尝试解决AWS计费门户中的一个BUG，该BUG显示部分客户 “欠下” 数百万或数十亿美元的云计算费用。亚马逊在其状态页面更新中表示，从周四晚些时候开始，他们发现账单数据不准确。但到周五早上，该公司承认“回滚最近的更改并未解决该问题。”亚马逊表示，该更改涉及其计费计算子系统。对于那些被告知 “欠” 亚马逊数百万或数十亿美元的客户来说，好消息是他们很可能不会被追究。亚马逊称，这些账单估算“并不反映实际使用情况和费用。”——Techcrunch",
-      "datetime": "2026-07-18T02:31:38+00:00",
-      "views": "1.12K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30892",
-      "scraped_at": "2026-07-18T11:01:12.086848",
-      "title": "亚马逊向部分AWS客户开出数十亿美元账单部分亚马逊云客户在周五醒来时看到一份意外",
-      "title_options": {
-        "conclusion": "亚马逊向部分AWS客户开出数十亿美元账单部分亚马逊云客户在周五醒来时看到一份意外",
-        "attractive": "亚马逊向部分AWS客户开出数十亿美元账单部分亚马逊云客户在周五醒来时看到一份意外",
-        "minimal": "亚马逊向部分AWS客户开出数十亿美元账单部分亚马逊云客户在周五醒来时看到一份意外",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42637",
-      "channel": "zaihuapd",
-      "text": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源的 2.8 万亿参数模型。K3 基于 Kimi Delta Attention 与 Attention Residuals 架构，具备原生视觉能力和 100 万 token 上下文窗口。在第三方基准 Frontend Code Arena 中，K3 以 1679 分排名第一，从 Kimi k2.6 的第 18 名跃升至榜首，7 个评测领域中 6 项居首，仅游戏领域落后于…",
-      "clean_text": "🌙Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源的 2.8 万亿参数模型。K3 基于 Kimi Delta Attention 与 Attention Residuals 架构，具备原生视觉能力和 100 万 token 上下文窗口。在第三方基准 Frontend Code Arena 中，K3 以 1679 分排名第一，从 Kimi k2.6 的第 18 名跃升至榜首，7 个评测领域中 6 项居首，仅游戏领域落后于…",
-      "datetime": "2026-07-18T02:29:56+00:00",
-      "views": "49.5K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42637",
-      "scraped_at": "2026-07-18T11:01:10.291977",
-      "title": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-      "title_options": {
-        "conclusion": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-        "attractive": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-        "minimal": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 39,
-  "updated_at": "2026-07-19T14:26:59.126140"
+  "count": 37,
+  "updated_at": "2026-07-19T14:32:03.218564"
 }
