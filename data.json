@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42658",
+      "channel": "zaihuapd",
+      "text": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新的 17.8.3 测试版中，外媒通过 APK 拆解发现了一项名为 Sign-to-Text 的新输入选项。该功能可利用手机摄像头捕捉手语手势，并自动转换为文字。为保护隐私，视频图像在设备本地完成手势提取，仅将原始手势数据发送至 Google 云端 AI 进行识别。Google DeepMind 去年曾预告其用于手语解读的 SignGemma 模型，此次发现或为该模型的首个重要应用场景。目前该功能尚未实际启用，Google 也未公布将支持哪些手语种类。APK 拆解仅代表开发中的代码，相关功能存在最终不发布的可能。Android Authority·茶馆水群·",
+      "clean_text": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新的 17.8.3 测试版中，外媒通过 APK 拆解发现了一项名为 Sign-to-Text 的新输入选项。该功能可利用手机摄像头捕捉手语手势，并自动转换为文字。为保护隐私，视频图像在设备本地完成手势提取，仅将原始手势数据发送至 Google 云端 AI 进行识别。Google DeepMind 去年曾预告其用于手语解读的 SignGemma 模型，此次发现或为该模型的首个重要应用场景。目前该功能尚未实际启用，Google 也未公布将支持哪些手语种类。APK 拆解仅代表开发中的代码，相关功能存在最终不发布的可能。Android Authority·茶馆水群",
+      "datetime": "2026-07-19T06:49:16+00:00",
+      "views": "38.9K",
+      "source_links": [
+        {
+          "text": "Android Authority",
+          "url": "https://www.androidauthority.com/gboard-sign-to-text-3688910/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42658",
+      "scraped_at": "2026-07-19T15:01:19.393499",
+      "title": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
+      "title_options": {
+        "conclusion": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
+        "attractive": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
+        "minimal": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42657",
       "channel": "zaihuapd",
       "text": "柬国航购 20 架 C909 成首家批量采购外国载旗航司  柬埔寨国家航空有限公司 7 月 17 日在上海与中国商飞正式签署 20 架 C909 飞机采购协议，成为首家成批量采购中国国产 C909 飞机的外国载旗航司。首批飞机计划于 2026 年下半年分批次交付并投入运营。同日，柬埔寨民航国务秘书处与中国商飞签署合作备忘录，保障飞机成功运营。  柬埔寨首相洪马内当天在上海出席世界人工智能大会期间与中国商飞董事长沈波会谈，祝贺双方合作成果，并表示柬埔寨政府将全力支持备忘录落地实施，积极协调相关部委对接工作，…",
@@ -893,49 +924,8 @@
         "minimal": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元SpaceX正在与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30893",
-      "channel": "xhqcankao",
-      "text": "美区的 Apple Music 订阅会员正在涨价Apple Music 现在更贵了。在美国，个人套餐现在每月费用 11.99 美元，比之前 10.99 美元的价格上涨了 1 美元。家庭套餐的价格从16.99美元上涨至每月19.99美元；学生套餐的价格从5.99美元上涨至每月6.99美元。苹果公司在声明中表示，正在提高价格，“原因是许可成本不断上升”。英国和欧洲的价格也已上涨，并且涨价也正在影响其他国家。苹果公司也提高了 Apple One 订阅的部分价格。在美国，家庭套餐已提高至每月 27.95 美元，高级套餐已提高至 39.95 美元，两者均比之前的费用上涨了 2 美元。个人套餐的价格保持不变，仍为每月 19.95 美元。",
-      "clean_text": "美区的 Apple Music 订阅会员正在涨价Apple Music 现在更贵了。在美国，个人套餐现在每月费用 11.99 美元，比之前 10.99 美元的价格上涨了 1 美元。家庭套餐的价格从16.99美元上涨至每月19.99美元；学生套餐的价格从5.99美元上涨至每月6.99美元。苹果公司在声明中表示，正在提高价格，“原因是许可成本不断上升”。英国和欧洲的价格也已上涨，并且涨价也正在影响其他国家。苹果公司也提高了 Apple One 订阅的部分价格。在美国，家庭套餐已提高至每月 27.95 美元，高级套餐已提高至 39.95 美元，两者均比之前的费用上涨了 2 美元。个人套餐的价格保持不变，仍为每月 19.95 美元。——Theverge",
-      "datetime": "2026-07-18T03:01:03+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/967379/apple-music-price-increase"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30893",
-      "scraped_at": "2026-07-18T11:01:12.087188",
-      "title": "美区",
-      "title_options": {
-        "conclusion": "美区",
-        "attractive": "美区",
-        "minimal": "美区",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42640",
-      "channel": "zaihuapd",
-      "text": "Claude Fable 5 访问延长至 7 月 19 日  Claude Fable 5 将继续向所有付费套餐开放至 7 月 19 日。与此同时，Claude Code 的每周速率限制将在此期间维持高出 50% 的水平。  x.com · 茶馆水群 ·",
-      "clean_text": "🤖Claude Fable 5 访问延长至 7 月 19 日  Claude Fable 5 将继续向所有付费套餐开放至 7 月 19 日。与此同时，Claude Code 的每周速率限制将在此期间维持高出 50% 的水平。  x.com · 茶馆水群 · 投稿通道",
-      "datetime": "2026-07-18T03:00:01+00:00",
-      "views": "3.16K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42640",
-      "scraped_at": "2026-07-18T11:01:10.292470",
-      "title": "Claude Fable 5 访问延长…",
-      "title_options": {
-        "conclusion": "Claude Fable 5 访问延长…",
-        "attractive": "Claude Fable 5 访问延长…",
-        "minimal": "Claude Fable 5 访问延长…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 37,
-  "updated_at": "2026-07-19T14:57:21.672105"
+  "count": 36,
+  "updated_at": "2026-07-19T15:02:27.187843"
 }
