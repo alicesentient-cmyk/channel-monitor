@@ -1029,35 +1029,8 @@
         "minimal": "SpaceX 与五角大楼谈判提供 AI 算力，交易或达数十亿美元SpaceX 正与美国国防部谈判，拟向五角大楼提供用于运行人工智能模型",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30890",
-      "channel": "xhqcankao",
-      "text": "Anthropic与Meta就租用算力展开洽谈人工智能初创公司Anthropic正在与Meta进行非常初步的谈判，讨论租用后者算力的可能性。知情人士透露，双方正在洽谈一项潜在规模约为100亿美元的交易。Anthropic于今年6月向Meta提出了该项合作方案，目前Meta正在进行评估。尽管具体合作细节仍在调整中，但按照目前方案，Anthropic将在两年期限内按月向Meta支付费用。此次谈判距离 Anthropic 宣布与马斯克旗下的 SpaceX 达成类似协议仅数周时间。根据该协议，Anthropic将使用Colossus 1数据中心的算力资源，以提升其付费用户服务的运行能力，平均每月支付约12.5亿美元。",
-      "clean_text": "Anthropic与Meta就租用算力展开洽谈人工智能初创公司Anthropic正在与Meta进行非常初步的谈判，讨论租用后者算力的可能性。知情人士透露，双方正在洽谈一项潜在规模约为100亿美元的交易。Anthropic于今年6月向Meta提出了该项合作方案，目前Meta正在进行评估。尽管具体合作细节仍在调整中，但按照目前方案，Anthropic将在两年期限内按月向Meta支付费用。此次谈判距离 Anthropic 宣布与马斯克旗下的 SpaceX 达成类似协议仅数周时间。根据该协议，Anthropic将使用Colossus 1数据中心的算力资源，以提升其付费用户服务的运行能力，平均每月支付约12.5亿美元。——财联社、CNBC",
-      "datetime": "2026-07-18T01:30:56+00:00",
-      "views": "928",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2430027?sv=8.5.9"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30890",
-      "scraped_at": "2026-07-18T10:02:13.742902",
-      "title": "Anthropic与Meta就租用算力展开洽谈人工智能初创公司Anthropic正在与Meta进行非常初步",
-      "title_options": {
-        "conclusion": "Anthropic与Meta就租用算力展开洽谈人工智能初创公司Anthropic正在与Meta进行非常初步",
-        "attractive": "Anthropic与Meta就租用算力展开洽谈人工智能初创公司Anthropic正在与Meta进行非常初步",
-        "minimal": "Anthropic与Meta就租用算力展开洽谈人工智能初创公司Anthropic正在与Meta进行非常初步",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-07-19T13:26:11.460282"
+  "count": 41,
+  "updated_at": "2026-07-19T13:31:14.983135"
 }
