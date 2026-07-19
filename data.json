@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42659",
+      "channel": "zaihuapd",
+      "text": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片的软件栈 SAIL。公司称，此举旨在降低开发者迁移到真武计算架构的门槛，并削弱英伟达 CUDA 生态的主导地位。平头哥表示，开发者可在 7 天内把 SAIL 适配到主流 AI 框架，并以较少改动复用现有代码。华为和摩尔线程也在推动类似的开源软件生态。阿里还称，截至 4 月，真武芯片已向 20 个行业的 400 多家企业客户出货 56 万片。South China Morning Post·茶馆水群·",
+      "clean_text": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片的软件栈 SAIL。公司称，此举旨在降低开发者迁移到真武计算架构的门槛，并削弱英伟达 CUDA 生态的主导地位。平头哥表示，开发者可在 7 天内把 SAIL 适配到主流 AI 框架，并以较少改动复用现有代码。华为和摩尔线程也在推动类似的开源软件生态。阿里还称，截至 4 月，真武芯片已向 20 个行业的 400 多家企业客户出货 56 万片。South China Morning Post·茶馆水群",
+      "datetime": "2026-07-19T07:34:16+00:00",
+      "views": "49.3K",
+      "source_links": [
+        {
+          "text": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42659",
+      "scraped_at": "2026-07-19T16:00:39.405073",
+      "title": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
+      "title_options": {
+        "conclusion": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
+        "attractive": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
+        "minimal": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42658",
       "channel": "zaihuapd",
       "text": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新的 17.8.3 测试版中，外媒通过 APK 拆解发现了一项名为 Sign-to-Text 的新输入选项。该功能可利用手机摄像头捕捉手语手势，并自动转换为文字。为保护隐私，视频图像在设备本地完成手势提取，仅将原始手势数据发送至 Google 云端 AI 进行识别。Google DeepMind 去年曾预告其用于手语解读的 SignGemma 模型，此次发现或为该模型的首个重要应用场景。目前该功能尚未实际启用，Google 也未公布将支持哪些手语种类。APK 拆解仅代表开发中的代码，相关功能存在最终不发布的可能。Android Authority·茶馆水群·",
@@ -817,53 +848,8 @@
         "minimal": "AI狂潮大赚 ASML拟向员工发2万欧元奖励作为 “AI狂潮” 受益公司推出员工激励政策",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30895",
-      "channel": "xhqcankao",
-      "text": "黄仁勋穿过的皮衣拍出近百万美元天价英伟达CEO黄仁勋穿过的一件皮夹克拍出了接近 100万美元的天价，远超预期。黄仁勋几乎总是皮夹克不离身，这已成为他的标志性装扮，近二十年来一直如此。不论是在产品发布会、公司活动还是行业展会上，黄仁勋几乎总是穿着他那标志性的黑色Tom Ford品牌皮夹克。周五，经过65轮竞价后，黄仁勋的一件亲笔签名且穿过的皮夹克于在苏富比拍卖行以96万美元成交，远高于4万美元至6万美元的预估价。这一价格也远超该款式夹克不到 1 万美元的零售价。2023年，黄仁勋曾在富士康在台北举行一场活动上穿过这件夹克。",
-      "clean_text": "黄仁勋穿过的皮衣拍出近百万美元天价英伟达CEO黄仁勋穿过的一件皮夹克拍出了接近 100万美元的天价，远超预期。黄仁勋几乎总是皮夹克不离身，这已成为他的标志性装扮，近二十年来一直如此。不论是在产品发布会、公司活动还是行业展会上，黄仁勋几乎总是穿着他那标志性的黑色Tom Ford品牌皮夹克。周五，经过65轮竞价后，黄仁勋的一件亲笔签名且穿过的皮夹克于在苏富比拍卖行以96万美元成交，远高于4万美元至6万美元的预估价。这一价格也远超该款式夹克不到 1 万美元的零售价。2023年，黄仁勋曾在富士康在台北举行一场活动上穿过这件夹克。——凤凰网科技、CNBC",
-      "datetime": "2026-07-18T04:00:10+00:00",
-      "views": "82",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006NGGWdu2h4HWNJXHI0R2hRXrVaw2uONcP3qooaAv99aD2eGN83--qSXfINw2P4TC5R"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30895",
-      "scraped_at": "2026-07-18T12:02:03.061818",
-      "title": "黄仁勋穿过",
-      "title_options": {
-        "conclusion": "黄仁勋穿过",
-        "attractive": "黄仁勋穿过",
-        "minimal": "黄仁勋穿过",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42642",
-      "channel": "zaihuapd",
-      "text": "AppleMusic涨价  苹果官网显示，Apple Music国区订阅价格已经调整：学生订阅价格为6元/月，上涨1元；个人订阅价格为11元/月，上涨1元；家庭订阅价格为17元/月，上涨2元。",
-      "clean_text": "AppleMusic涨价  苹果官网显示，Apple Music国区订阅价格已经调整：学生订阅价格为6元/月，上涨1元；个人订阅价格为11元/月，上涨1元；家庭订阅价格为17元/月，上涨2元。",
-      "datetime": "2026-07-18T04:00:01+00:00",
-      "views": "4K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42642",
-      "scraped_at": "2026-07-18T12:02:00.797142",
-      "title": "AppleMusic涨价  苹果官网显…",
-      "title_options": {
-        "conclusion": "AppleMusic涨价  苹果官网显…",
-        "attractive": "AppleMusic涨价  苹果官网显…",
-        "minimal": "AppleMusic涨价  苹果官网显…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-07-19T15:58:15.428656"
+  "count": 33,
+  "updated_at": "2026-07-19T16:03:19.778265"
 }
