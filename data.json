@@ -897,35 +897,8 @@
         "minimal": "OpenRouter 被传收购，估值或高于 13 亿美元AI 模型路由平台 OpenRouter 已被多家大型科技公司接触，探讨潜在收购可能；意向估值或高于其今年 5 月 B 轮融资后",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "xhqcankao_30894",
-      "channel": "xhqcankao",
-      "text": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元SpaceX正在与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元的数据中心算力，用于运行AI模型。知情人士透露，双方正在讨论一项协议：SpaceX将向国防部提供计算能力，合同金额最高可能达到数十亿美元。不过，目前谈判仍在进行中，最终协议也存在破裂的可能。据悉，SpaceX近几个月已经与Anthropic和谷歌签署了类似算力供应协议，目前该公司正计划大幅扩张云计算业务。近几周SpaceX员工已讨论过计划，拟通过以更低价格向AI客户提供算力，与CoreWeave等现有供应商展开更直接的竞争。",
-      "clean_text": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元SpaceX正在与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元的数据中心算力，用于运行AI模型。知情人士透露，双方正在讨论一项协议：SpaceX将向国防部提供计算能力，合同金额最高可能达到数十亿美元。不过，目前谈判仍在进行中，最终协议也存在破裂的可能。据悉，SpaceX近几个月已经与Anthropic和谷歌签署了类似算力供应协议，目前该公司正计划大幅扩张云计算业务。近几周SpaceX员工已讨论过计划，拟通过以更低价格向AI客户提供算力，与CoreWeave等现有供应商展开更直接的竞争。——财联社、彭博社",
-      "datetime": "2026-07-18T03:33:33+00:00",
-      "views": "867",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2430065?sv=8.8.0"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30894",
-      "scraped_at": "2026-07-18T12:02:03.061417",
-      "title": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元SpaceX正在与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元",
-      "title_options": {
-        "conclusion": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元SpaceX正在与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元",
-        "attractive": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元SpaceX正在与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元",
-        "minimal": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元SpaceX正在与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-07-19T15:32:53.178896"
+  "count": 35,
+  "updated_at": "2026-07-19T15:37:56.474753"
 }
