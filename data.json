@@ -799,39 +799,8 @@
         "minimal": "TikTok正在测试一款AI肖像检测工…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42644",
-      "channel": "zaihuapd",
-      "text": "特朗普政府拟设类似 FINRA 的独立机构审查顶尖 AI 模型特朗普政府正考虑设立一个独立的 AI 监管机构，负责审查顶尖人工智能模型的安全性。该机构将类似于金融业监管局（FINRA），向证券交易委员会（SEC）汇报，由财政部长斯科特·贝森特（Scott Bessent）牵头制定，目前正由白宫幕僚长苏茜·威尔斯（Susie Wiles）审阅。此举旨在回应华尔街对网络安全的担忧，以及硅谷对政府近期临时性管控措施的不满，让两大行业在联合制定安全标准方面拥有更大发言权。此前，Anthropic 和 OpenAI 均因美国政府要求修改或限制发布最新模型而提出异议。该计划与 Google DeepMind 首席执行官德米斯·哈萨比斯（Demis Hassabis）本周提出的设立行业资助独立监管机构的建议方向一致。知情人士称，总统特朗普尚未审阅该方案，相关框架仍在讨论中，内容可能会有所调整。Bloomberg·茶馆水群·",
-      "clean_text": "特朗普政府拟设类似 FINRA 的独立机构审查顶尖 AI 模型特朗普政府正考虑设立一个独立的 AI 监管机构，负责审查顶尖人工智能模型的安全性。该机构将类似于金融业监管局（FINRA），向证券交易委员会（SEC）汇报，由财政部长斯科特·贝森特（Scott Bessent）牵头制定，目前正由白宫幕僚长苏茜·威尔斯（Susie Wiles）审阅。此举旨在回应华尔街对网络安全的担忧，以及硅谷对政府近期临时性管控措施的不满，让两大行业在联合制定安全标准方面拥有更大发言权。此前，Anthropic 和 OpenAI 均因美国政府要求修改或限制发布最新模型而提出异议。该计划与 Google DeepMind 首席执行官德米斯·哈萨比斯（Demis Hassabis）本周提出的设立行业资助独立监管机构的建议方向一致。知情人士称，总统特朗普尚未审阅该方案，相关框架仍在讨论中，内容可能会有所调整。Bloomberg·茶馆水群",
-      "datetime": "2026-07-18T05:45:00+00:00",
-      "views": "48.1K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42644",
-      "scraped_at": "2026-07-18T14:01:00.400094",
-      "title": "特朗普政府拟设类似 FINRA ",
-      "title_options": {
-        "conclusion": "特朗普政府拟设类似 FINRA ",
-        "attractive": "特朗普政府拟设类似 FINRA ",
-        "minimal": "特朗普政府拟设类似 FINRA ",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-07-19T17:44:52.653187"
+  "count": 31,
+  "updated_at": "2026-07-19T17:49:56.040940"
 }
