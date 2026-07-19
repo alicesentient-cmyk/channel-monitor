@@ -735,39 +735,8 @@
         "minimal": "利用假Steam游戏窃取加密货币",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42646",
-      "channel": "zaihuapd",
-      "text": "B站 WAIC 展示 \"猫娘计划\" AI 伙伴可理解桌面主动对话7 月 17 日至 20 日，2026 世界人工智能大会在上海举行。哔哩哔哩在展台展示了开源 AI 数字生命生态企划\"猫娘计划\"（Project N.E.K.O.）。其核心产品 N.E.K.O.是一款主动式、原生全模态 AI 伙伴驱动器，具备全天候环境感知、智能体能力与具身情感引擎，目前 GitHub 过千星、Steam 用户过万。该产品前端渲染层支持 Live2D 与 VRM 双引擎，用户可自由导入角色模型；内置物理反馈引擎与 TTS 语音模块，支持多语言切换和 VoiceClone 声线克隆。系统还能通过屏幕捕获与视觉多模态技术理解电脑桌面内容，主动发起对话。其采用 UI、AI 大脑与记忆系统分离的架构设计，用户可将核心数据完全保留在本地。新浪财经·茶馆水群·",
-      "clean_text": "B站 WAIC 展示 \"猫娘计划\" AI 伙伴可理解桌面主动对话7 月 17 日至 20 日，2026 世界人工智能大会在上海举行。哔哩哔哩在展台展示了开源 AI 数字生命生态企划\"猫娘计划\"（Project N.E.K.O.）。其核心产品 N.E.K.O.是一款主动式、原生全模态 AI 伙伴驱动器，具备全天候环境感知、智能体能力与具身情感引擎，目前 GitHub 过千星、Steam 用户过万。该产品前端渲染层支持 Live2D 与 VRM 双引擎，用户可自由导入角色模型；内置物理反馈引擎与 TTS 语音模块，支持多语言切换和 VoiceClone 声线克隆。系统还能通过屏幕捕获与视觉多模态技术理解电脑桌面内容，主动发起对话。其采用 UI、AI 大脑与记忆系统分离的架构设计，用户可将核心数据完全保留在本地。新浪财经·茶馆水群",
-      "datetime": "2026-07-18T06:45:47+00:00",
-      "views": "48.3K",
-      "source_links": [
-        {
-          "text": "新浪财经",
-          "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniifanf8394663.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42646",
-      "scraped_at": "2026-07-18T15:00:34.776596",
-      "title": "B站 WAIC 展示 \"猫娘计划\" A…",
-      "title_options": {
-        "conclusion": "B站 WAIC 展示 \"猫娘计划\" A…",
-        "attractive": "B站 WAIC 展示 \"猫娘计划\" A…",
-        "minimal": "B站 WAIC 展示 \"猫娘计划\" A…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-07-19T18:45:42.137545"
+  "count": 28,
+  "updated_at": "2026-07-19T18:50:47.292125"
 }
