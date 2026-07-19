@@ -862,43 +862,8 @@
         "minimal": "AppleMusic涨价  苹果官网显…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42641",
-      "channel": "zaihuapd",
-      "text": "OpenRouter 被传收购，估值或高于 13 亿美元AI 模型路由平台 OpenRouter 已被多家大型科技公司接触，探讨潜在收购可能；意向估值或高于其今年 5 月 B 轮融资后的约 13 亿美元。该公司由 Alphabet 旗下 CapitalG 领投的 B 轮融资共筹集 1.13 亿美元，投后估值约 13 亿美元，较去年 6 月 A 轮的 5.47 亿美元翻倍有余。平台目前路由超 400 个模型，服务约 800 万用户，每月处理约 100 万亿 token，2026 年初年化收入已达约 5000 万美元。The Information|AI Weekly·茶馆水群·",
-      "clean_text": "OpenRouter 被传收购，估值或高于 13 亿美元AI 模型路由平台 OpenRouter 已被多家大型科技公司接触，探讨潜在收购可能；意向估值或高于其今年 5 月 B 轮融资后的约 13 亿美元。该公司由 Alphabet 旗下 CapitalG 领投的 B 轮融资共筹集 1.13 亿美元，投后估值约 13 亿美元，较去年 6 月 A 轮的 5.47 亿美元翻倍有余。平台目前路由超 400 个模型，服务约 800 万用户，每月处理约 100 万亿 token，2026 年初年化收入已达约 5000 万美元。The Information|AI Weekly·茶馆水群",
-      "datetime": "2026-07-18T03:45:00+00:00",
-      "views": "48.5K",
-      "source_links": [
-        {
-          "text": "The Information",
-          "url": "https://www.theinformation.com/articles/startup-openrouter-fields-multi-billion-dollar-takeover-interest"
-        },
-        {
-          "text": "AI Weekly",
-          "url": "https://aiweekly.co/alerts/openrouter-fields-takeover-interest-after-13b-series-b"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42641",
-      "scraped_at": "2026-07-18T12:02:00.796532",
-      "title": "OpenRouter 被传收购，估值或高于 13 亿美元AI 模型路由平台 OpenRouter 已被多家大型科技公司接触，探讨潜在收购可能；意向估值或高于其今年 5 月 B 轮融资后",
-      "title_options": {
-        "conclusion": "OpenRouter 被传收购，估值或高于 13 亿美元AI 模型路由平台 OpenRouter 已被多家大型科技公司接触，探讨潜在收购可能；意向估值或高于其今年 5 月 B 轮融资后",
-        "attractive": "OpenRouter 被传收购，估值或高于 13 亿美元AI 模型路由平台 OpenRouter 已被多家大型科技公司接触，探讨潜在收购可能；意向估值或高于其今年 5 月 B 轮融资后",
-        "minimal": "OpenRouter 被传收购，估值或高于 13 亿美元AI 模型路由平台 OpenRouter 已被多家大型科技公司接触，探讨潜在收购可能；意向估值或高于其今年 5 月 B 轮融资后",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-19T15:43:01.684195"
+  "count": 34,
+  "updated_at": "2026-07-19T15:48:06.081662"
 }
