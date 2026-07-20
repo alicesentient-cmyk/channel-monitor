@@ -19754,5 +19754,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-20T18:04:11.722868"
+  },
+  "xhqcankao_30928": {
+    "ai_title": "阿里巴巴因非法销售被处以5.5亿欧元罚款阿里巴巴集团",
+    "title_options": {
+      "conclusion": "阿里巴巴因非法销售被处以5.5亿欧元罚款阿里巴巴集团",
+      "attractive": "阿里巴巴因非法销售被处以5.5亿欧元罚款阿里巴巴集团",
+      "minimal": "阿里巴巴因非法销售被处以5.5亿欧元罚款阿里巴巴集团",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-20T19:05:02.880049"
+  },
+  "zaihuapd_42675": {
+    "ai_title": "Hugging Face 披露 AI …",
+    "title_options": {
+      "conclusion": "Hugging Face 披露 AI …",
+      "attractive": "Hugging Face 披露 AI …",
+      "minimal": "Hugging Face 披露 AI …",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-20T19:05:02.937611"
   }
 }
