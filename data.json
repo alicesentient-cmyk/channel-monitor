@@ -798,39 +798,8 @@
         "minimal": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42658",
-      "channel": "zaihuapd",
-      "text": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新的 17.8.3 测试版中，外媒通过 APK 拆解发现了一项名为 Sign-to-Text 的新输入选项。该功能可利用手机摄像头捕捉手语手势，并自动转换为文字。为保护隐私，视频图像在设备本地完成手势提取，仅将原始手势数据发送至 Google 云端 AI 进行识别。Google DeepMind 去年曾预告其用于手语解读的 SignGemma 模型，此次发现或为该模型的首个重要应用场景。目前该功能尚未实际启用，Google 也未公布将支持哪些手语种类。APK 拆解仅代表开发中的代码，相关功能存在最终不发布的可能。Android Authority·茶馆水群·",
-      "clean_text": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新的 17.8.3 测试版中，外媒通过 APK 拆解发现了一项名为 Sign-to-Text 的新输入选项。该功能可利用手机摄像头捕捉手语手势，并自动转换为文字。为保护隐私，视频图像在设备本地完成手势提取，仅将原始手势数据发送至 Google 云端 AI 进行识别。Google DeepMind 去年曾预告其用于手语解读的 SignGemma 模型，此次发现或为该模型的首个重要应用场景。目前该功能尚未实际启用，Google 也未公布将支持哪些手语种类。APK 拆解仅代表开发中的代码，相关功能存在最终不发布的可能。Android Authority·茶馆水群",
-      "datetime": "2026-07-19T06:49:16+00:00",
-      "views": "38.9K",
-      "source_links": [
-        {
-          "text": "Android Authority",
-          "url": "https://www.androidauthority.com/gboard-sign-to-text-3688910/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42658",
-      "scraped_at": "2026-07-19T15:01:19.393499",
-      "title": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
-      "title_options": {
-        "conclusion": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
-        "attractive": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
-        "minimal": "Gboard 正开发手语转文字功能，通过摄像头识别手势在 Gboard 最新",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-20T18:44:47.647502"
+  "count": 29,
+  "updated_at": "2026-07-20T18:49:51.888398"
 }
