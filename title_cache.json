@@ -19794,5 +19794,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-20T21:07:04.952608"
+  },
+  "xhqcankao_30930": {
+    "ai_title": "台积电要自发电",
+    "title_options": {
+      "conclusion": "台积电要自发电",
+      "attractive": "台积电要自发电",
+      "minimal": "台积电要自发电",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-20T22:03:08.401902"
+  },
+  "xhqcankao_30931": {
+    "ai_title": "Hugging Face确认数据泄露影响了内部数据集和凭据AI模型和数据集托管平台 Hugging Face 表示其内部数据集和服务凭证在上周",
+    "title_options": {
+      "conclusion": "Hugging Face确认数据泄露影响了内部数据集和凭据AI模型和数据集托管平台 Hugging Face 表示其内部数据集和服务凭证在上周",
+      "attractive": "Hugging Face确认数据泄露影响了内部数据集和凭据AI模型和数据集托管平台 Hugging Face 表示其内部数据集和服务凭证在上周",
+      "minimal": "Hugging Face确认数据泄露影响了内部数据集和凭据AI模型和数据集托管平台 Hugging Face 表示其内部数据集和服务凭证在上周",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-20T22:03:08.404532"
+  },
+  "zaihuapd_42677": {
+    "ai_title": "美军常用 App 被指嵌入中俄代码 引发国家安全担忧普渡大学等机构研究人员发现，面向美军人员推广",
+    "title_options": {
+      "conclusion": "美军常用 App 被指嵌入中俄代码 引发国家安全担忧普渡大学等机构研究人员发现，面向美军人员推广",
+      "attractive": "美军常用 App 被指嵌入中俄代码 引发国家安全担忧普渡大学等机构研究人员发现，面向美军人员推广",
+      "minimal": "美军常用 App 被指嵌入中俄代码 引发国家安全担忧普渡大学等机构研究人员发现，面向美军人员推广",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-20T22:03:08.468502"
   }
 }
