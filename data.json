@@ -821,39 +821,8 @@
         "minimal": "中国国产大飞机C919将首次执飞国际商业航班中国国产大飞机C919将正式投入北京往返蒙古国首都乌兰巴托",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42659",
-      "channel": "zaihuapd",
-      "text": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片的软件栈 SAIL。公司称，此举旨在降低开发者迁移到真武计算架构的门槛，并削弱英伟达 CUDA 生态的主导地位。平头哥表示，开发者可在 7 天内把 SAIL 适配到主流 AI 框架，并以较少改动复用现有代码。华为和摩尔线程也在推动类似的开源软件生态。阿里还称，截至 4 月，真武芯片已向 20 个行业的 400 多家企业客户出货 56 万片。South China Morning Post·茶馆水群·",
-      "clean_text": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片的软件栈 SAIL。公司称，此举旨在降低开发者迁移到真武计算架构的门槛，并削弱英伟达 CUDA 生态的主导地位。平头哥表示，开发者可在 7 天内把 SAIL 适配到主流 AI 框架，并以较少改动复用现有代码。华为和摩尔线程也在推动类似的开源软件生态。阿里还称，截至 4 月，真武芯片已向 20 个行业的 400 多家企业客户出货 56 万片。South China Morning Post·茶馆水群",
-      "datetime": "2026-07-19T07:34:16+00:00",
-      "views": "49.3K",
-      "source_links": [
-        {
-          "text": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42659",
-      "scraped_at": "2026-07-19T16:00:39.405073",
-      "title": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
-      "title_options": {
-        "conclusion": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
-        "attractive": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
-        "minimal": "阿里开源 SAIL 挑战英伟达 CUDA阿里巴巴芯片设计部门平头哥 7 月 18 日在上海世界人工智能大会宣布，向国际开发者开源其真武 AI 芯片",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-20T19:30:25.253962"
+  "count": 30,
+  "updated_at": "2026-07-20T19:35:28.273459"
 }
