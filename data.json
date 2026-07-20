@@ -1,6 +1,29 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30933",
+      "channel": "xhqcankao",
+      "text": "AMD发布首款机架级AI系统Helios在经历长达十年的复苏之后，芯片巨头AMD公司正准备向包括微软在内的日益壮大的客户群，交付其首款面向人工智能的机架级系统 —— 代号Helios。这是对英伟达大受欢迎的Grace Blackwell和Vera Rubin系统的首次挑战，旨在为这家全球市值最高的芯片制造商带来多年来的首次真正竞争。微软周一宣布，将在其数据中心部署Helios系统，加入Meta、OpenAI、甲骨文等公司竞相获取尽可能多算力的行列。AMD将于今年晚些时候开始向包括微软在内的客户发货。",
+      "clean_text": "AMD发布首款机架级AI系统Helios在经历长达十年的复苏之后，芯片巨头AMD公司正准备向包括微软在内的日益壮大的客户群，交付其首款面向人工智能的机架级系统 —— 代号Helios。这是对英伟达大受欢迎的Grace Blackwell和Vera Rubin系统的首次挑战，旨在为这家全球市值最高的芯片制造商带来多年来的首次真正竞争。微软周一宣布，将在其数据中心部署Helios系统，加入Meta、OpenAI、甲骨文等公司竞相获取尽可能多算力的行列。AMD将于今年晚些时候开始向包括微软在内的客户发货。——CNBC",
+      "datetime": "2026-07-20T23:00:33+00:00",
+      "views": "30",
+      "source_links": [
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30933",
+      "scraped_at": "2026-07-21T07:02:09.464289",
+      "title": "AMD发布首款机架级AI系统Helios在经历长达十年",
+      "title_options": {
+        "conclusion": "AMD发布首款机架级AI系统Helios在经历长达十年",
+        "attractive": "AMD发布首款机架级AI系统Helios在经历长达十年",
+        "minimal": "AMD发布首款机架级AI系统Helios在经历长达十年",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42680",
       "channel": "zaihuapd",
       "text": "智谱建成全国产芯片大型数据中心智谱完成了一座全部采用国产芯片的大型数据中心建设，并已开始部分运营。该中心功率达 1 吉瓦，足以同时为约 75 万户家庭供电，用于支持其前沿 GLM 平台的开发。目前，智谱已建成或运营多个各拥有超万枚芯片的计算集群，该数据中心也是中国 AI 实验室建造的最大规模设施之一。Bloomberg·茶馆水群·",
@@ -754,6 +777,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-07-21T06:59:39.991027"
+  "count": 28,
+  "updated_at": "2026-07-21T07:04:42.998809"
 }
