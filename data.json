@@ -1,6 +1,33 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42667",
+      "channel": "zaihuapd",
+      "text": "Telegram 新增轮播功能Telegram 现已支持轮播（carousel）功能，用户可在单条消息中以轮播形式展示多张图片，被形容为「发消息的一小步，把猫咪照片变成主题演讲的一大步」。Telegram·茶馆水群·",
+      "clean_text": "Telegram 新增轮播功能Telegram 现已支持轮播（carousel）功能，用户可在单条消息中以轮播形式展示多张图片，被形容为「发消息的一小步，把猫咪照片变成主题演讲的一大步」。Telegram·茶馆水群",
+      "datetime": "2026-07-20T01:49:34+00:00",
+      "views": "48.1K",
+      "source_links": [
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42667",
+      "scraped_at": "2026-07-20T10:03:28.161975",
+      "title": "Telegram 新增轮播功能Telegram 现已支持轮播（carousel）功能，用户可在单条消息中以轮播形式展示多张图片，被形容为「发消息",
+      "title_options": {
+        "conclusion": "Telegram 新增轮播功能Telegram 现已支持轮播（carousel）功能，用户可在单条消息中以轮播形式展示多张图片，被形容为「发消息",
+        "attractive": "Telegram 新增轮播功能Telegram 现已支持轮播（carousel）功能，用户可在单条消息中以轮播形式展示多张图片，被形容为「发消息",
+        "minimal": "Telegram 新增轮播功能Telegram 现已支持轮播（carousel）功能，用户可在单条消息中以轮播形式展示多张图片，被形容为「发消息",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30923",
       "channel": "xhqcankao",
       "text": "台积电CFO回应竞争：不会给对手任何机会针对埃隆·马斯克自建芯片厂以及老牌公司英特尔的竞争，台积电CFO黄仁昭表示，不会给对手留下任何机会。黄仁昭上周五接受了记者的采访。他表示，为满足美国客户的强劲需求，并抵御雄心勃勃的竞争对手，台积电将追加1000亿美元投资亚利桑那州工厂。“我们正在尽一切努力，在一切可能的地方扩大产能，以支持客户的增长。”黄仁昭说。台积电同时还面临英特尔和马斯克旗下芯片项目 Terafab 日益激烈的竞争。对此，黄仁昭补充道，台积电也希望向外界表明，“我们不会把任何市场机会拱手让给别人”。",
@@ -759,6 +786,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-07-20T10:02:50.167130"
+  "count": 30,
+  "updated_at": "2026-07-20T10:07:54.074971"
 }
