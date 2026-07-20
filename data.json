@@ -1,6 +1,29 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30932",
+      "channel": "xhqcankao",
+      "text": "谷歌计划2028年推出10倍效率的AI芯片知情人士透露，谷歌正在开发一款代号为“Frozen v2”的新型AI推理芯片，专为其Gemini AI模型而设计。该芯片将模型底层架构直接硬编码到硅片中，其推理效率有望达到谷歌现有TPU的6到10倍，预计最早于2028年投入使用。该项目的启动源于谷歌内部AI计算资源的严重短缺。与之前搁置的“原始Frozen”设计（该设计会将模型权重硬编码到芯片中）不同，Frozen v2采用了一种“灵活硬编码”的方法——仅光刻架构以延长芯片的使用寿命。此举标志着AI芯片的竞争格局正从通用计算转向专用推理。谷歌将Frozen v2定位为一个独立于其TPU产品线的新分支，旨在进一步降低Gemini的运营成本，并挑战英伟达在AI芯片市场的主导地位。——The Information",
+      "clean_text": "谷歌计划2028年推出10倍效率的AI芯片知情人士透露，谷歌正在开发一款代号为“Frozen v2”的新型AI推理芯片，专为其Gemini AI模型而设计。该芯片将模型底层架构直接硬编码到硅片中，其推理效率有望达到谷歌现有TPU的6到10倍，预计最早于2028年投入使用。该项目的启动源于谷歌内部AI计算资源的严重短缺。与之前搁置的“原始Frozen”设计（该设计会将模型权重硬编码到芯片中）不同，Frozen v2采用了一种“灵活硬编码”的方法——仅光刻架构以延长芯片的使用寿命。此举标志着AI芯片的竞争格局正从通用计算转向专用推理。谷歌将Frozen v2定位为一个独立于其TPU产品线的新分支，旨在进一步降低Gemini的运营成本，并挑战英伟达在AI芯片市场的主导地位。——The Information",
+      "datetime": "2026-07-20T14:32:27+00:00",
+      "views": "1.37K",
+      "source_links": [
+        {
+          "text": "The Information",
+          "url": "https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30932",
+      "scraped_at": "2026-07-20T23:01:06.837239",
+      "title": "谷歌计划2028年推出10倍效率",
+      "title_options": {
+        "conclusion": "谷歌计划2028年推出10倍效率",
+        "attractive": "谷歌计划2028年推出10倍效率",
+        "minimal": "谷歌计划2028年推出10倍效率",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30931",
       "channel": "xhqcankao",
       "text": "Hugging Face确认数据泄露影响了内部数据集和凭据AI模型和数据集托管平台 Hugging Face 表示其内部数据集和服务凭证在上周的一次黑客攻击中被泄露。该公司于周五披露了此次泄露，但表示仍在调查事件期间是否有任何客户或合作伙伴数据被盗。在一篇博客文章中，该公司表示，上传到其平台的一个数据集滥用了一个安全漏洞，在其服务器上运行恶意代码，使攻击者能够提升其权限并获得对 Hugging Face 内部系统的更广泛访问。该公司表示，已撤销并轮换了被访问的被盗凭证。公司敦促用户对其存储在平台上的任何密钥执行相同操作，并审查其账户上的任何可疑活动。",
@@ -823,29 +846,37 @@
       }
     },
     {
-      "id": "xhqcankao_30914",
-      "channel": "xhqcankao",
-      "text": "DeepSeek V4满血版最快7月20日推出中国人工智能初创公司深度求索(DeepSeek)最快将于周一发布新模型V4的“满血版”（正式版）。新版本在性能上直追OpenAI的最新模型GPT-5.6，还将引入峰谷计费机制。多名开发者透露，DeepSeek V4的GA（全面开放）版本已开启小范围灰度测试，最快可能于20日正式亮相。目前该模型分为V4 Flash与V4 Pro两个版本。测试者反馈显示，新版本在编程设计和智能体生成能力上有显著提升。部分开发者认为整体表现已能与 Anthropic公司的Claude 5 抗衡，但也有观点指出，Pro 版本的性能领先优势相比Flash版并不算悬殊。",
-      "clean_text": "DeepSeek V4满血版最快7月20日推出中国人工智能初创公司深度求索(DeepSeek)最快将于周一发布新模型V4的“满血版”（正式版）。新版本在性能上直追OpenAI的最新模型GPT-5.6，还将引入峰谷计费机制。多名开发者透露，DeepSeek V4的GA（全面开放）版本已开启小范围灰度测试，最快可能于20日正式亮相。目前该模型分为V4 Flash与V4 Pro两个版本。测试者反馈显示，新版本在编程设计和智能体生成能力上有显著提升。部分开发者认为整体表现已能与 Anthropic公司的Claude 5 抗衡，但也有观点指出，Pro 版本的性能领先优势相比Flash版并不算悬殊。——联合早报",
-      "datetime": "2026-07-19T11:03:50+00:00",
-      "views": "2.34K",
+      "id": "zaihuapd_42678",
+      "channel": "zaihuapd",
+      "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
+      "clean_text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群",
+      "datetime": null,
+      "views": "3K",
       "source_links": [
         {
-          "text": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/china/story20260719-9387305"
+          "text": "Kirill Firsov",
+          "url": "https://x.com/k_firsov/status/2078872293745570032"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
         }
       ],
-      "url": "https://t.me/xhqcankao/30914",
-      "scraped_at": "2026-07-19T20:02:08.579074",
-      "title": "DeepSeek V4满血版最快7月20日推出中国人工智能初创公司深度求索(DeepSeek)最快将于周一发布新模型V4",
+      "url": "https://t.me/zaihuapd/42678",
+      "scraped_at": "2026-07-20T23:01:04.656850",
+      "title": "Fastjson 1.x 被曝无 ga…",
       "title_options": {
-        "conclusion": "DeepSeek V4满血版最快7月20日推出中国人工智能初创公司深度求索(DeepSeek)最快将于周一发布新模型V4",
-        "attractive": "DeepSeek V4满血版最快7月20日推出中国人工智能初创公司深度求索(DeepSeek)最快将于周一发布新模型V4",
-        "minimal": "DeepSeek V4满血版最快7月20日推出中国人工智能初创公司深度求索(DeepSeek)最快将于周一发布新模型V4",
+        "conclusion": "Fastjson 1.x 被曝无 ga…",
+        "attractive": "Fastjson 1.x 被曝无 ga…",
+        "minimal": "Fastjson 1.x 被曝无 ga…",
         "best": "conclusion"
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-20T22:59:05.721226"
+  "count": 32,
+  "updated_at": "2026-07-20T23:04:10.729236"
 }
