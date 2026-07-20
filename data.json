@@ -808,39 +808,8 @@
         "minimal": "荣耀发布 Agentic OS 技术框…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42654",
-      "channel": "zaihuapd",
-      "text": "商汤发布 SenseNova U1 Pro 多模态智能体基座7 月 18 日，商汤科技正式发布面向长程任务的交付级原生多模态智能体基座——日日新 SenseNova U1 Pro。U1 Pro 具备四大核心交付能力：专业设计美感、原生 8K 超清输出、极致图文细节控制以及长程 Agentic 闭环思维，可广泛用于信息图、演示文稿、宣传海报等商业创作场景。过去两个月，商汤对 U1 进行了三次快速迭代。今年 6 月，U1 用户人均日生图量达到 107 张，GitHub Star 合计超 8500。发布现场还展示了由 U1 Pro 生成的 WAIC 九周年水墨长卷及《沙影之刃》视频分镜，演示了从图像到视频创作前端的系统级交付能力。商汤科技 SenseTime·茶馆水群·",
-      "clean_text": "商汤发布 SenseNova U1 Pro 多模态智能体基座7 月 18 日，商汤科技正式发布面向长程任务的交付级原生多模态智能体基座——日日新 SenseNova U1 Pro。U1 Pro 具备四大核心交付能力：专业设计美感、原生 8K 超清输出、极致图文细节控制以及长程 Agentic 闭环思维，可广泛用于信息图、演示文稿、宣传海报等商业创作场景。过去两个月，商汤对 U1 进行了三次快速迭代。今年 6 月，U1 用户人均日生图量达到 107 张，GitHub Star 合计超 8500。发布现场还展示了由 U1 Pro 生成的 WAIC 九周年水墨长卷及《沙影之刃》视频分镜，演示了从图像到视频创作前端的系统级交付能力。商汤科技 SenseTime·茶馆水群",
-      "datetime": "2026-07-19T01:20:11+00:00",
-      "views": "49.4K",
-      "source_links": [
-        {
-          "text": "商汤科技 SenseTime",
-          "url": "https://mp.weixin.qq.com/s/hGo5TvUpxRodVtfnXDM7ew"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42654",
-      "scraped_at": "2026-07-19T10:01:04.978741",
-      "title": "商汤发布 SenseNova U1 Pro 多模态智能体基座7 月 18 日，商汤科技正式发布面向长程任务",
-      "title_options": {
-        "conclusion": "商汤发布 SenseNova U1 Pro 多模态智能体基座7 月 18 日，商汤科技正式发布面向长程任务",
-        "attractive": "商汤发布 SenseNova U1 Pro 多模态智能体基座7 月 18 日，商汤科技正式发布面向长程任务",
-        "minimal": "商汤发布 SenseNova U1 Pro 多模态智能体基座7 月 18 日，商汤科技正式发布面向长程任务",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-20T13:20:09.460640"
+  "count": 30,
+  "updated_at": "2026-07-20T13:25:14.138140"
 }
