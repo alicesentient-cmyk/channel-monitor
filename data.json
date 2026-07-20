@@ -798,39 +798,8 @@
         "minimal": "阿里千问输入法App正式发布：以语音输…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42660",
-      "channel": "zaihuapd",
-      "text": "Qoder 上线 Qwen3.8-Max-Preview 模型，限时 1 折、夜间 0.2 折起Qoder 于 2026 年 7 月 19 日上线 Qwen3.8-Max-Preview 模型，这是通义千问系列最新一代基座模型，参数量达 2.4T。相较于上一代旗舰模型 Qwen3.7-Max，新模型在代码工程（Coding）、专业办公（Cowork）等核心能力上实现显著提升，在全栈开发、数据分析、Office 办公工作流等复杂长程任务中展现出全球领先的综合能力，并仍在持续进化中。此外，Qoder 推出限时优惠活动：常规时段享受 1 折（计费系数由 0.5x 降至 0.05x），每日 22:00 至次日 08:00（新加坡时间）的错峰时段更可低至 0.2 折起，当前结束时间尚未公布，官方将通过官网、邮件及 X 等渠道提前通知。Qoder·茶馆水群·",
-      "clean_text": "🤖Qoder 上线 Qwen3.8-Max-Preview 模型，限时 1 折、夜间 0.2 折起Qoder 于 2026 年 7 月 19 日上线 Qwen3.8-Max-Preview 模型，这是通义千问系列最新一代基座模型，参数量达 2.4T。相较于上一代旗舰模型 Qwen3.7-Max，新模型在代码工程（Coding）、专业办公（Cowork）等核心能力上实现显著提升，在全栈开发、数据分析、Office 办公工作流等复杂长程任务中展现出全球领先的综合能力，并仍在持续进化中。此外，Qoder 推出限时优惠活动：常规时段享受 1 折（计费系数由 0.5x 降至 0.05x），每日 22:00 至次日 08:00（新加坡时间）的错峰时段更可低至 0.2 折起，当前结束时间尚未公布，官方将通过官网、邮件及 X 等渠道提前通知。Qoder·茶馆水群",
-      "datetime": "2026-07-19T08:35:27+00:00",
-      "views": "49.4K",
-      "source_links": [
-        {
-          "text": "Qoder",
-          "url": "https://docs.qoder.com/zh/events/qwen-max-preview"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42660",
-      "scraped_at": "2026-07-19T17:01:14.079536",
-      "title": "Qoder 上线 Qwen3.8-Ma…",
-      "title_options": {
-        "conclusion": "Qoder 上线 Qwen3.8-Ma…",
-        "attractive": "Qoder 上线 Qwen3.8-Ma…",
-        "minimal": "Qoder 上线 Qwen3.8-Ma…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-20T20:31:29.980596"
+  "count": 29,
+  "updated_at": "2026-07-20T20:36:33.776219"
 }
