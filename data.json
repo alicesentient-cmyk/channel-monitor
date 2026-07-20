@@ -1,6 +1,49 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42671",
+      "channel": "zaihuapd",
+      "text": "Claude Fable 提出了雅可比猜想的一个反例用户 levent 在社交媒体上宣称，雅可比猜想（Jacobian Conjecture）已被证伪。他表示这一结果得益于他的朋友 Akhil 提出的疑问，以及他的另一位 AI 朋友 Claude Fable 在世界杯决赛期间的努力。Jacobian 猜想源于 1939 年，是持续 80 余年的未解难题。levent 表示该反例是在 AI 系统 Fable 的协助下，于 2026 年世界杯决赛期间找到的，并附上了 WolframAlpha 验证链接。数学界对此反应热烈，部分研究者已在追问反例的构造过程与推理细节。Wikipedia 快速跟进做出更改。Hacker News|Nitter·茶馆水群·",
+      "clean_text": "Claude Fable 提出了雅可比猜想的一个反例用户 levent 在社交媒体上宣称，雅可比猜想（Jacobian Conjecture）已被证伪。他表示这一结果得益于他的朋友 Akhil 提出的疑问，以及他的另一位 AI 朋友 Claude Fable 在世界杯决赛期间的努力。Jacobian 猜想源于 1939 年，是持续 80 余年的未解难题。levent 表示该反例是在 AI 系统 Fable 的协助下，于 2026 年世界杯决赛期间找到的，并附上了 WolframAlpha 验证链接。数学界对此反应热烈，部分研究者已在追问反例的构造过程与推理细节。Wikipedia 快速跟进做出更改。Hacker News|Nitter·茶馆水群",
+      "datetime": "2026-07-20T05:34:38+00:00",
+      "views": "50.1K",
+      "source_links": [
+        {
+          "text": "雅可比猜想",
+          "url": "https://zh.wikipedia.org/zh-cn/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%8C%9C%E6%83%B3"
+        },
+        {
+          "text": "更改",
+          "url": "https://en.wikipedia.org/w/index.php?title=Jacobian_conjecture&amp;diff=prev&amp;oldid=1365090381"
+        },
+        {
+          "text": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=48973869"
+        },
+        {
+          "text": "Nitter",
+          "url": "https://xcancel.com/alpoge/status/2079028340955197566"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42671",
+      "scraped_at": "2026-07-20T14:00:52.778895",
+      "title": "Claude Fable 提出了雅可比猜想",
+      "title_options": {
+        "conclusion": "Claude Fable 提出了雅可比猜想",
+        "attractive": "Claude Fable 提出了雅可比猜想",
+        "minimal": "Claude Fable 提出了雅可比猜想",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42670",
       "channel": "zaihuapd",
       "text": "银狐木马案首犯从越南押解回国公安部 7 月 20 日通报，“银狐”木马病毒案首犯潘某君已从越南被押解回国。2025 年 7 月，山东淄博警方发现杨某等人搭建钓鱼网站，诱导用户下载捆绑“银狐”木马的软件，非法控制受害人电脑窃取信息牟利。潘某君于 2025 年 8 月潜逃境外，2026 年 6 月 4 日被越南警方抓获，6 月 6 日押解回国，其余 11 名嫌疑人同步落网。“银狐”木马专门针对企事业单位财务人员实施精准攻击，可远程控制电脑、窃取账号密码，已形成完整黑色产业链。该案中杨某等 15 人被采取刑事强制措施，涉案金额 300 余万元。各地公安机关已侦破系列“银狐”木马案件，共抓获 63 人。界面新闻·茶馆水群·",
@@ -810,6 +853,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-20T14:00:39.160591"
+  "count": 31,
+  "updated_at": "2026-07-20T14:05:45.446670"
 }
