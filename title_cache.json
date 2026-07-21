@@ -20094,5 +20094,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-21T15:05:20.205738"
+  },
+  "zaihuapd_42689": {
+    "ai_title": "Claude 多项服务出现性能下降Cl…",
+    "title_options": {
+      "conclusion": "Claude 多项服务出现性能下降Cl…",
+      "attractive": "Claude 多项服务出现性能下降Cl…",
+      "minimal": "Claude 多项服务出现性能下降Cl…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-21T16:06:06.498008"
+  },
+  "xhqcankao_30948": {
+    "ai_title": "小米通报一起入侵安全事件：涉事白帽子漏…",
+    "title_options": {
+      "conclusion": "小米通报一起入侵安全事件：涉事白帽子漏…",
+      "attractive": "小米通报一起入侵安全事件：涉事白帽子漏…",
+      "minimal": "小米通报一起入侵安全事件：涉事白帽子漏…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-21T16:06:06.501753"
   }
 }

@@ -1,6 +1,60 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42689",
+      "channel": "zaihuapd",
+      "text": "Claude 多项服务出现性能下降Claude Status·茶馆水群·",
+      "clean_text": "🤖Claude 多项服务出现性能下降Claude Status·茶馆水群",
+      "datetime": "2026-07-21T07:31:47+00:00",
+      "views": "4.01K",
+      "source_links": [
+        {
+          "text": "Claude Status",
+          "url": "https://status.claude.com/incidents/v35b71rthzhp"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42689",
+      "scraped_at": "2026-07-21T16:01:50.033009",
+      "title": "Claude 多项服务出现性能下降Cl…",
+      "title_options": {
+        "conclusion": "Claude 多项服务出现性能下降Cl…",
+        "attractive": "Claude 多项服务出现性能下降Cl…",
+        "minimal": "Claude 多项服务出现性能下降Cl…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30948",
+      "channel": "xhqcankao",
+      "text": "小米通报一起入侵安全事件：涉事白帽子漏洞奖励取消7月20日周一，小米安全中心发布《MiSRC违规事件处置公告》，通报一起严重违规事件。经安全团队应急响应调查核实：2026年6月26日下午时段，公司反入侵安全团队处置了一起影响范围广泛的入侵安全事件。当晚，涉事白帽子刘**通过MiSRC平台提交了一份漏洞报告，报告内容与该入侵事件高度关联。其行为已构成实质性安全侵害，该白帽子的提交行为已严重超出正常漏洞挖掘范畴。涉事白帽子本次提交的漏洞取消所有奖励，相关漏洞不予计入任何荣誉或排名。",
+      "clean_text": "小米通报一起入侵安全事件：涉事白帽子漏洞奖励取消7月20日周一，小米安全中心发布《MiSRC违规事件处置公告》，通报一起严重违规事件。经安全团队应急响应调查核实：2026年6月26日下午时段，公司反入侵安全团队处置了一起影响范围广泛的入侵安全事件。当晚，涉事白帽子刘**通过MiSRC平台提交了一份漏洞报告，报告内容与该入侵事件高度关联。其行为已构成实质性安全侵害，该白帽子的提交行为已严重超出正常漏洞挖掘范畴。涉事白帽子本次提交的漏洞取消所有奖励，相关漏洞不予计入任何荣誉或排名。——界面新闻",
+      "datetime": "2026-07-21T07:20:56+00:00",
+      "views": "2.09K",
+      "source_links": [
+        {
+          "text": "界面新闻",
+          "url": "https://m.jiemian.com/article/14800523.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30948",
+      "scraped_at": "2026-07-21T16:01:51.863351",
+      "title": "小米通报一起入侵安全事件：涉事白帽子漏…",
+      "title_options": {
+        "conclusion": "小米通报一起入侵安全事件：涉事白帽子漏…",
+        "attractive": "小米通报一起入侵安全事件：涉事白帽子漏…",
+        "minimal": "小米通报一起入侵安全事件：涉事白帽子漏…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30947",
       "channel": "xhqcankao",
       "text": "搬瓦工机场JMS新增vless协议与Clash订阅由知名VPS服务商搬瓦工推出的 “机场” Just My Socks 近期宣布，新增支持 Mihomo / Clash.Meta YAML 订阅链接。现在，用户可以直接将其服务导入到基于 Mihomo 内核的应用中，例如 Clash Verge。用户可登录客户区，打开您的服务，选择订阅，并复制 Mihomo / Clash.Meta YAML订阅URL。将该 URL 作为配置文件导入 Clash Verge 或其他基于 Mihomo 的应用中。此外，JMS 机场还对 s801 节点推出了重大更新：已将其切换至 vless/reality 协议。其余五个节点依然保持Shadowsocks/VMess协议，公告中未提及是否会更换协议。——Just My Socks（aff链接）",
@@ -1042,6 +1096,6 @@
       }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-07-21T16:01:03.095338"
+  "count": 42,
+  "updated_at": "2026-07-21T16:06:06.539954"
 }
