@@ -1,6 +1,106 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42714",
+      "channel": "zaihuapd",
+      "text": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器的系统运行 Windows 11 ARM，并成功驱动 NVIDIA RTX 4060。方案通过修补 ACPI 表引导系统，再从 RTX Spark 软件中提取 ARM64 驱动，使显卡启用硬件加速、DirectX 12 和 Vulkan。受鲲鹏 920 单核性能较弱及 x64 转译影响，游戏帧率有限：《原神》1080p 平均约 20 帧，《黑神话：悟空》基准测试平均约 21 帧。由于缺少 Windows 驱动，板载网卡无法工作，显卡也不能直接输出画面；内核级反作弊和 CUDA 应用同样存在兼容限制。快科技·茶馆水群·",
+      "clean_text": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器的系统运行 Windows 11 ARM，并成功驱动 NVIDIA RTX 4060。方案通过修补 ACPI 表引导系统，再从 RTX Spark 软件中提取 ARM64 驱动，使显卡启用硬件加速、DirectX 12 和 Vulkan。受鲲鹏 920 单核性能较弱及 x64 转译影响，游戏帧率有限：《原神》1080p 平均约 20 帧，《黑神话：悟空》基准测试平均约 21 帧。由于缺少 Windows 驱动，板载网卡无法工作，显卡也不能直接输出画面；内核级反作弊和 CUDA 应用同样存在兼容限制。快科技·茶馆水群",
+      "datetime": "2026-07-22T11:01:26+00:00",
+      "views": "1",
+      "source_links": [
+        {
+          "text": "快科技",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-07-22/doc-iniispmx1970206.shtml"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42714",
+      "scraped_at": "2026-07-22T19:02:02.500725",
+      "title": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
+      "title_options": {
+        "conclusion": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
+        "attractive": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
+        "minimal": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30981",
+      "channel": "xhqcankao",
+      "text": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品的软件支持即将划下句点。根据 Google 官方说明，Pixel 6 及 Pixel 6 Pro 将无法获得今年下半年推出的 Android 17 第二个版本，确定将止步于 Android 17 QPR1 Beta。不过官方仍会持续提供安全性更新至今年 12 月，且预计于 9 月还会收到最后一次 Pixel Feature Drop 功能更新。至于同系列但较晚推出的 Pixel 6a，则会持续获得更新至 2027 年 7 月为止。",
+      "clean_text": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品的软件支持即将划下句点。根据 Google 官方说明，Pixel 6 及 Pixel 6 Pro 将无法获得今年下半年推出的 Android 17 第二个版本，确定将止步于 Android 17 QPR1 Beta。不过官方仍会持续提供安全性更新至今年 12 月，且预计于 9 月还会收到最后一次 Pixel Feature Drop 功能更新。至于同系列但较晚推出的 Pixel 6a，则会持续获得更新至 2027 年 7 月为止。——ettoday.net",
+      "datetime": "2026-07-22T10:59:24+00:00",
+      "views": "240",
+      "source_links": [
+        {
+          "text": "ettoday.net",
+          "url": "https://www.ettoday.net/amp/amp_news.php7?news_id=3204794&amp;ref=mw&amp;from=googlequicksearchbox"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30981",
+      "scraped_at": "2026-07-22T19:02:04.805450",
+      "title": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
+      "title_options": {
+        "conclusion": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
+        "attractive": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
+        "minimal": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30980",
+      "channel": "xhqcankao",
+      "text": "真我手机团队已分批迁入OPPO滨海湾总部据称，OPPO子品牌战略调整后，realme团队已分批迁入东莞OPPO滨海湾总部，与一加团队同园区合署办公；行政、人事和财务等后台职能统一使用OPPO集团共享中台。研发层面，realme 影像、硬件、基带等研发团队并入OPPO集团研发中心，一加研发同样纳入集团统一技术资源池，两大品牌共享影像算法、硬件方案与底层调校资源。二者保留独立产品规划团队，不再拥有完整独立的全链条研发体系。一加、realme 纳入OPPO集团统一供应链体系，由集团集中对接代工厂、集采议价并执行统一品控标准。",
+      "clean_text": "真我手机团队已分批迁入OPPO滨海湾总部据称，OPPO子品牌战略调整后，realme团队已分批迁入东莞OPPO滨海湾总部，与一加团队同园区合署办公；行政、人事和财务等后台职能统一使用OPPO集团共享中台。研发层面，realme 影像、硬件、基带等研发团队并入OPPO集团研发中心，一加研发同样纳入集团统一技术资源池，两大品牌共享影像算法、硬件方案与底层调校资源。二者保留独立产品规划团队，不再拥有完整独立的全链条研发体系。一加、realme 纳入OPPO集团统一供应链体系，由集团集中对接代工厂、集采议价并执行统一品控标准。——凤凰网科技",
+      "datetime": "2026-07-22T10:34:50+00:00",
+      "views": "1.2K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006zYpXPMF7j5zG5LJ3DxMptXv7WSoXHx759SBXdU9dLvgPR74C8zar8yloZc08ucQd"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30980",
+      "scraped_at": "2026-07-22T19:02:04.805084",
+      "title": "真我手机团队已分批迁入OPPO滨海湾总…",
+      "title_options": {
+        "conclusion": "真我手机团队已分批迁入OPPO滨海湾总…",
+        "attractive": "真我手机团队已分批迁入OPPO滨海湾总…",
+        "minimal": "真我手机团队已分批迁入OPPO滨海湾总…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30979",
+      "channel": "xhqcankao",
+      "text": "福利审批不能全交AI 澳洲收紧自动决策规定澳洲将收紧联邦机构使用AI的规定，确保涉及福利和公共服务的决定公平、准确，同时加强个人资料和消费者权益保护。政府星期天公布一系列AI消费者保护重点。福利机构Centrelink和澳洲服务局等联邦机构，日后使用AI协助决策时，须遵守新框架，确保决定 “公平、准确” ，并接受适当监督。去年，澳洲联邦监察专员发现，近一千名求职者的收入补助因为自动化取消机制被违法停发。政府用算法处理居家养老服务评估以及全国残障保险计划参与者的预算，也引发争议。监察专员已开始调查养老评估工具。",
+      "clean_text": "福利审批不能全交AI 澳洲收紧自动决策规定澳洲将收紧联邦机构使用AI的规定，确保涉及福利和公共服务的决定公平、准确，同时加强个人资料和消费者权益保护。政府星期天公布一系列AI消费者保护重点。福利机构Centrelink和澳洲服务局等联邦机构，日后使用AI协助决策时，须遵守新框架，确保决定 “公平、准确” ，并接受适当监督。去年，澳洲联邦监察专员发现，近一千名求职者的收入补助因为自动化取消机制被违法停发。政府用算法处理居家养老服务评估以及全国残障保险计划参与者的预算，也引发争议。监察专员已开始调查养老评估工具。——联合早报",
+      "datetime": "2026-07-22T10:02:48+00:00",
+      "views": "1.94K",
+      "source_links": [
+        {
+          "text": "联合早报",
+          "url": "https://www.zaobao.com.sg/news/world/story20260722-9390157"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30979",
+      "scraped_at": "2026-07-22T19:02:04.804696",
+      "title": "福利审批不能全交AI 澳洲收紧自动决策规定澳洲将收紧联邦机构使用AI",
+      "title_options": {
+        "conclusion": "福利审批不能全交AI 澳洲收紧自动决策规定澳洲将收紧联邦机构使用AI",
+        "attractive": "福利审批不能全交AI 澳洲收紧自动决策规定澳洲将收紧联邦机构使用AI",
+        "minimal": "福利审批不能全交AI 澳洲收紧自动决策规定澳洲将收紧联邦机构使用AI",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42713",
       "channel": "zaihuapd",
       "text": "中国居民家庭资产增速从 25%降至 5% 金融资产占比增加中国居民家庭资产增速从 25%降至 5%。1992 年至 2002 年，中国居民家庭资产年均增长 25%，大约三年翻一番;2002 年至 2012 年，年均增长 20%不到四年翻一番;2012 年至 2022 年，增速降到 10%;而 2025 年以后，高盛预计这一数字将进一步降至 5%左右。从资产结构来看，钱正在从房子慢慢流向金融资产。2021 年房地产高点时，中国居民资产中房地产占比约 67%，现金存款 16%、金融资产占比仅 15%，到了 2026 年一季度，房地产占比已下降至 52%，金融资产占比提升至 20%。格隆汇·茶馆水群·",
@@ -1481,6 +1581,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-22T18:57:20.309072"
+  "count": 61,
+  "updated_at": "2026-07-22T19:02:26.332362"
 }
