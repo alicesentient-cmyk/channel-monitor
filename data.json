@@ -1340,37 +1340,6 @@
       }
     },
     {
-      "id": "zaihuapd_42685",
-      "channel": "zaihuapd",
-      "text": "Cloudflare 内部 DNS 服务正式上线Cloudflare 于 2026 年 7 月 20 日宣布内部 DNS（Internal DNS）服务正式全面上线。该服务为企业私有网络提供权威与递归 DNS 解析，与公共 DNS、Zero Trust 及网络服务共用同一全球网络与控制平面。已使用 Cloudflare Gateway 的企业客户无需额外付费即可启用。该服务将公共与私有 DNS 整合至单一平台，通过「DNS 视图」简化分割 DNS（split-horizon）配置，避免传统多系统同步导致的数据漂移。管理员可设定解析器策略，决定不同用户和设备可访问的内部视图，从而将 Zero Trust 策略延伸至域名解析层。服务支持 API、Terraform 及 Cloudflare WAN 等多种部署方式。The Cloudflare Blog·茶馆水群·",
-      "clean_text": "Cloudflare 内部 DNS 服务正式上线Cloudflare 于 2026 年 7 月 20 日宣布内部 DNS（Internal DNS）服务正式全面上线。该服务为企业私有网络提供权威与递归 DNS 解析，与公共 DNS、Zero Trust 及网络服务共用同一全球网络与控制平面。已使用 Cloudflare Gateway 的企业客户无需额外付费即可启用。该服务将公共与私有 DNS 整合至单一平台，通过「DNS 视图」简化分割 DNS（split-horizon）配置，避免传统多系统同步导致的数据漂移。管理员可设定解析器策略，决定不同用户和设备可访问的内部视图，从而将 Zero Trust 策略延伸至域名解析层。服务支持 API、Terraform 及 Cloudflare WAN 等多种部署方式。The Cloudflare Blog·茶馆水群",
-      "datetime": "2026-07-21T03:49:20+00:00",
-      "views": "2.06K",
-      "source_links": [
-        {
-          "text": "The Cloudflare Blog",
-          "url": "https://blog.cloudflare.com/internal-dns/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42685",
-      "scraped_at": "2026-07-21T12:01:47.737384",
-      "title": "Cloudflare 内部 DNS 服…",
-      "title_options": {
-        "conclusion": "Cloudflare 内部 DNS 服…",
-        "attractive": "Cloudflare 内部 DNS 服…",
-        "minimal": "Cloudflare 内部 DNS 服…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1433,6 +1402,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-22T15:44:23.273267"
+  "count": 55,
+  "updated_at": "2026-07-22T15:49:27.510879"
 }
