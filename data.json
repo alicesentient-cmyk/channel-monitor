@@ -1,6 +1,64 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30976",
+      "channel": "xhqcankao",
+      "text": "谷歌与出版商关系生变：搜索流量下滑引发矛盾 AI或被“断供”据知情人士透露，为谷歌大量搜索结果提供内容支持的在线论坛Reddit，已讨论过切断谷歌为AI用途访问其内容的权限。Reddit只是冰山一角。随着AI正在改变人们提问的方式，分流搜索流量，并颠覆出版商的收入模式，越来越多的在线媒体公司对谷歌感到不满。他们表示，搜索引擎已不再是可靠的访客来源，尤其是在谷歌近几个月扩展其AI搜索功能之后。今日美国、政客、经济学人、People和路透社等机构都在评估如何，甚至是否继续与谷歌合作。“这对某些类别的出版商来说是关乎存亡的问题，”媒体咨询公司DJB Strategies的CEO表示，“他们正在考虑更激进的举措。”",
+      "clean_text": "谷歌与出版商关系生变：搜索流量下滑引发矛盾 AI或被“断供”据知情人士透露，为谷歌大量搜索结果提供内容支持的在线论坛Reddit，已讨论过切断谷歌为AI用途访问其内容的权限。Reddit只是冰山一角。随着AI正在改变人们提问的方式，分流搜索流量，并颠覆出版商的收入模式，越来越多的在线媒体公司对谷歌感到不满。他们表示，搜索引擎已不再是可靠的访客来源，尤其是在谷歌近几个月扩展其AI搜索功能之后。今日美国、政客、经济学人、People和路透社等机构都在评估如何，甚至是否继续与谷歌合作。“这对某些类别的出版商来说是关乎存亡的问题，”媒体咨询公司DJB Strategies的CEO表示，“他们正在考虑更激进的举措。”——凤凰网科技、华尔街日报",
+      "datetime": "2026-07-22T08:31:38+00:00",
+      "views": "1.38K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006wznZDt51MRFCtegiglHUB0L5fcxH2RhW6CFDitiXLXdu2pcbv4ythJnE2Hk--iPgX"
+        },
+        {
+          "text": "华尔街日报",
+          "url": "https://www.wsj.com/business/media/google-search-publishers-ai-content-0fb06e41"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30976",
+      "scraped_at": "2026-07-22T17:01:55.311518",
+      "title": "谷歌与出版商关系生变：搜索流量下滑引发矛盾 AI或被“断供”据知情人士透露，为谷歌大量搜索结果提供内容支持",
+      "title_options": {
+        "conclusion": "谷歌与出版商关系生变：搜索流量下滑引发矛盾 AI或被“断供”据知情人士透露，为谷歌大量搜索结果提供内容支持",
+        "attractive": "谷歌与出版商关系生变：搜索流量下滑引发矛盾 AI或被“断供”据知情人士透露，为谷歌大量搜索结果提供内容支持",
+        "minimal": "谷歌与出版商关系生变：搜索流量下滑引发矛盾 AI或被“断供”据知情人士透露，为谷歌大量搜索结果提供内容支持",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42711",
+      "channel": "zaihuapd",
+      "text": "“借刀杀人”的新型越狱：四大主流 AI 编程代理集体曝出沙箱逃逸漏洞网络安全研究团队 Pillar Security 最新披露，Cursor、OpenAI Codex、Google Gemini CLI 及 Antigravity 四款主流 AI 编程代理均存在沙箱逃逸安全隐患。攻击者无需强行破解沙箱本身，只需在开源仓库的 README、Issue、依赖库或代码差异中植入恶意提示（间接提示注入），诱导 AI 代理在项目工作区写入看似正常的配置文件、虚拟环境或命令指令。由于主机系统上的 IDE 与 CLI 工具链（如 Python 解释器、Git 机制、任务引擎等）会定期自动读取并信任工作区文件，这些“留在盒子内”的文件便会在沙箱之外被直接加载运行，导致攻击者无需正面攻破隔离层即可在开发者本地实现任意代码执行。该漏洞揭示了白名单仅校验命令名、沙箱外特权服务暴露等设计盲区，目前厂商已陆推送修复（如 Cursor 升至 3.0.0、Codex CLI 升至 v0.95.0）。不过，Google 对 Antigravity 的两项漏洞做降级处理，认为其利用需配合社工攻击诱导信任恶意仓库。这一事件表明，单纯搭建隔离沙箱已不安全，监控本地工具对工作区生成物的盲目调用将成为新的防护重点。bleepingcomputer·茶馆水群·",
+      "clean_text": "“借刀杀人”的新型越狱：四大主流 AI 编程代理集体曝出沙箱逃逸漏洞网络安全研究团队 Pillar Security 最新披露，Cursor、OpenAI Codex、Google Gemini CLI 及 Antigravity 四款主流 AI 编程代理均存在沙箱逃逸安全隐患。攻击者无需强行破解沙箱本身，只需在开源仓库的 README、Issue、依赖库或代码差异中植入恶意提示（间接提示注入），诱导 AI 代理在项目工作区写入看似正常的配置文件、虚拟环境或命令指令。由于主机系统上的 IDE 与 CLI 工具链（如 Python 解释器、Git 机制、任务引擎等）会定期自动读取并信任工作区文件，这些“留在盒子内”的文件便会在沙箱之外被直接加载运行，导致攻击者无需正面攻破隔离层即可在开发者本地实现任意代码执行。该漏洞揭示了白名单仅校验命令名、沙箱外特权服务暴露等设计盲区，目前厂商已陆推送修复（如 Cursor 升至 3.0.0、Codex CLI 升至 v0.95.0）。不过，Google 对 Antigravity 的两项漏洞做降级处理，认为其利用需配合社工攻击诱导信任恶意仓库。这一事件表明，单纯搭建隔离沙箱已不安全，监控本地工具对工作区生成物的盲目调用将成为新的防护重点。bleepingcomputer·茶馆水群",
+      "datetime": "2026-07-22T08:08:31+00:00",
+      "views": "5.18K",
+      "source_links": [
+        {
+          "text": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42711",
+      "scraped_at": "2026-07-22T17:01:53.012353",
+      "title": "“借刀杀人”",
+      "title_options": {
+        "conclusion": "“借刀杀人”",
+        "attractive": "“借刀杀人”",
+        "minimal": "“借刀杀人”",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30975",
       "channel": "xhqcankao",
       "text": "OpenAI与Anthropic游说支出大幅增加今年第二季度，美国两家领先的AI初创企业将联邦游说开支提升至历史新高。在美国中期选举到来、两家企业 IPO前夕，投入数百万美元，试图影响华盛顿当局的政策走向。根据最新的联邦游说披露信息，OpenAI公司与Anthropic公司第二季度的游说开支合计达317万美元，较今年前三个月增长 23%。Anthropic第二季度游说支出197万美元，环比增加26%；OpenAI花费120万美元，增幅接近18%。两家企业申报开展游说的议题包括网络安全、版权、云计算以及国防采购。",
@@ -1348,29 +1406,6 @@
       }
     },
     {
-      "id": "xhqcankao_30945",
-      "channel": "xhqcankao",
-      "text": "黑客正在利用近期修复的WordPress漏洞据多家网络安全公司表示，黑客正在入侵运行流行博客软件WordPress存在漏洞版本的网站。据一项估计，截至周一，存在漏洞的 WordPress 网站数量达到了数千万个。上周，WordPress修复了两个严重的安全漏洞，敦促在其网站上运行其软件的人员「立即」更新。这些漏洞非常严重，以至于该公司在可能的情况下启用了强制更新。此后，网络安全公司Patchstack、Hexastrike以及WatchTowr均警告称，黑客正在野外利用这些漏洞，这意味着他们正在接管仍在运行易受攻击版本的WordPress的网站。",
-      "clean_text": "黑客正在利用近期修复的WordPress漏洞据多家网络安全公司表示，黑客正在入侵运行流行博客软件WordPress存在漏洞版本的网站。据一项估计，截至周一，存在漏洞的 WordPress 网站数量达到了数千万个。上周，WordPress修复了两个严重的安全漏洞，敦促在其网站上运行其软件的人员「立即」更新。这些漏洞非常严重，以至于该公司在可能的情况下启用了强制更新。此后，网络安全公司Patchstack、Hexastrike以及WatchTowr均警告称，黑客正在野外利用这些漏洞，这意味着他们正在接管仍在运行易受攻击版本的WordPress的网站。——Techcrunch",
-      "datetime": "2026-07-21T05:01:58+00:00",
-      "views": "2.13K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30945",
-      "scraped_at": "2026-07-21T14:02:20.813916",
-      "title": "黑客正在利用近期修复",
-      "title_options": {
-        "conclusion": "黑客正在利用近期修复",
-        "attractive": "黑客正在利用近期修复",
-        "minimal": "黑客正在利用近期修复",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1433,6 +1468,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-22T17:00:23.973324"
+  "count": 57,
+  "updated_at": "2026-07-22T17:05:28.063947"
 }
