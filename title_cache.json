@@ -20714,5 +20714,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-22T21:04:25.828990"
+  },
+  "xhqcankao_30985": {
+    "ai_title": "三星发布Galaxy Z系列 开启AI…",
+    "title_options": {
+      "conclusion": "三星发布Galaxy Z系列 开启AI…",
+      "attractive": "三星发布Galaxy Z系列 开启AI…",
+      "minimal": "三星发布Galaxy Z系列 开启AI…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-22T22:05:24.146766"
+  },
+  "zaihuapd_42715": {
+    "ai_title": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
+    "title_options": {
+      "conclusion": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
+      "attractive": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
+      "minimal": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-22T22:05:24.148711"
+  },
+  "xhqcankao_30986": {
+    "ai_title": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
+    "title_options": {
+      "conclusion": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
+      "attractive": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
+      "minimal": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-22T22:05:24.161368"
   }
 }
