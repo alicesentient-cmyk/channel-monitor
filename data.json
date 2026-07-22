@@ -1250,37 +1250,6 @@
       }
     },
     {
-      "id": "zaihuapd_42698",
-      "channel": "zaihuapd",
-      "text": "任天堂称获关税退款后不应退还给玩家任天堂请求法院驳回两名美国玩家提起的集体诉讼，称即使日后从美国政府拿回关税退款，也不应向按涨价后价格购买 Switch 的消费者补差价。任天堂表示，购买者拿到的正是自己同意价格后购买的主机、游戏或配件，后续关税相关法律变化不构成返利理由。任天堂在 2025 年上调美国市场多款 Switch 主机售价，Lite、标准版和 OLED 分别涨 30、40 和 50 美元。公司还称，涨价不只受关税影响，也涉及存储、人工和运输等成本；2026 年 3 月，在美国最高法院认定特朗普无权援引相关关税后，任天堂也与其他公司一起向美国政府追讨退款。Video Games Chronicle·茶馆水群·",
-      "clean_text": "任天堂称获关税退款后不应退还给玩家任天堂请求法院驳回两名美国玩家提起的集体诉讼，称即使日后从美国政府拿回关税退款，也不应向按涨价后价格购买 Switch 的消费者补差价。任天堂表示，购买者拿到的正是自己同意价格后购买的主机、游戏或配件，后续关税相关法律变化不构成返利理由。任天堂在 2025 年上调美国市场多款 Switch 主机售价，Lite、标准版和 OLED 分别涨 30、40 和 50 美元。公司还称，涨价不只受关税影响，也涉及存储、人工和运输等成本；2026 年 3 月，在美国最高法院认定特朗普无权援引相关关税后，任天堂也与其他公司一起向美国政府追讨退款。Video Games Chronicle·茶馆水群",
-      "datetime": "2026-07-21T15:10:25+00:00",
-      "views": "5.32K",
-      "source_links": [
-        {
-          "text": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/news/nintendo-says-it-shouldnt-have-to-pay-back-players-if-it-gets-tariff-refunds-from-the-us-government/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42698",
-      "scraped_at": "2026-07-22T00:07:17.864718",
-      "title": "任天堂称获关税退款后不应退还给玩家任天堂请求法院驳回两名美国玩家提起",
-      "title_options": {
-        "conclusion": "任天堂称获关税退款后不应退还给玩家任天堂请求法院驳回两名美国玩家提起",
-        "attractive": "任天堂称获关税退款后不应退还给玩家任天堂请求法院驳回两名美国玩家提起",
-        "minimal": "任天堂称获关税退款后不应退还给玩家任天堂请求法院驳回两名美国玩家提起",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1343,6 +1312,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-23T03:10:20.155177"
+  "count": 51,
+  "updated_at": "2026-07-23T03:14:44.293457"
 }
