@@ -1378,29 +1378,6 @@
       }
     },
     {
-      "id": "xhqcankao_30939",
-      "channel": "xhqcankao",
-      "text": "三星宣布在美国推出其首张品牌信用卡三星周一宣布在美国推出其首张信用卡，与巴克莱合作推出三星 Galaxy Card。用户申请三星 Galaxy Card并获得批准后，即可在三星钱包中立即使用。三星将寄送该卡的实体版本，为黑色金属材质。三星Galaxy Card作为标准Visa卡使用，并为通过三星购买的三星Galaxy设备提供特别分期选项。三星 Galaxy Card免年费，持卡人在美国三星官网或实体店购物可获得 5% 的现金奖励；使用三星钱包购物可获得 3% 的现金奖励；Netflix、Disney+和Spotify等流媒体服务消费有 2% 现金奖励，其他所有消费有1%现金奖励。",
-      "clean_text": "三星宣布在美国推出其首张品牌信用卡三星周一宣布在美国推出其首张信用卡，与巴克莱合作推出三星 Galaxy Card。用户申请三星 Galaxy Card并获得批准后，即可在三星钱包中立即使用。三星将寄送该卡的实体版本，为黑色金属材质。三星Galaxy Card作为标准Visa卡使用，并为通过三星购买的三星Galaxy设备提供特别分期选项。三星 Galaxy Card免年费，持卡人在美国三星官网或实体店购物可获得 5% 的现金奖励；使用三星钱包购物可获得 3% 的现金奖励；Netflix、Disney+和Spotify等流媒体服务消费有 2% 现金奖励，其他所有消费有1%现金奖励。——Macrumors",
-      "datetime": "2026-07-21T02:03:36+00:00",
-      "views": "2.08K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/20/samsung-galaxy-card/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30939",
-      "scraped_at": "2026-07-21T11:01:40.083489",
-      "title": "三星宣布在美国推出其首张品牌信用卡三星…",
-      "title_options": {
-        "conclusion": "三星宣布在美国推出其首张品牌信用卡三星…",
-        "attractive": "三星宣布在美国推出其首张品牌信用卡三星…",
-        "minimal": "三星宣布在美国推出其首张品牌信用卡三星…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1463,6 +1440,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-22T14:02:55.476233"
+  "count": 57,
+  "updated_at": "2026-07-22T14:07:59.142734"
 }
