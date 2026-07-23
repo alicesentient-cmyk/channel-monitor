@@ -1388,37 +1388,6 @@
       }
     },
     {
-      "id": "zaihuapd_42711",
-      "channel": "zaihuapd",
-      "text": "“借刀杀人”的新型越狱：四大主流 AI 编程代理集体曝出沙箱逃逸漏洞网络安全研究团队 Pillar Security 最新披露，Cursor、OpenAI Codex、Google Gemini CLI 及 Antigravity 四款主流 AI 编程代理均存在沙箱逃逸安全隐患。攻击者无需强行破解沙箱本身，只需在开源仓库的 README、Issue、依赖库或代码差异中植入恶意提示（间接提示注入），诱导 AI 代理在项目工作区写入看似正常的配置文件、虚拟环境或命令指令。由于主机系统上的 IDE 与 CLI 工具链（如 Python 解释器、Git 机制、任务引擎等）会定期自动读取并信任工作区文件，这些“留在盒子内”的文件便会在沙箱之外被直接加载运行，导致攻击者无需正面攻破隔离层即可在开发者本地实现任意代码执行。该漏洞揭示了白名单仅校验命令名、沙箱外特权服务暴露等设计盲区，目前厂商已陆推送修复（如 Cursor 升至 3.0.0、Codex CLI 升至 v0.95.0）。不过，Google 对 Antigravity 的两项漏洞做降级处理，认为其利用需配合社工攻击诱导信任恶意仓库。这一事件表明，单纯搭建隔离沙箱已不安全，监控本地工具对工作区生成物的盲目调用将成为新的防护重点。bleepingcomputer·茶馆水群·",
-      "clean_text": "“借刀杀人”的新型越狱：四大主流 AI 编程代理集体曝出沙箱逃逸漏洞网络安全研究团队 Pillar Security 最新披露，Cursor、OpenAI Codex、Google Gemini CLI 及 Antigravity 四款主流 AI 编程代理均存在沙箱逃逸安全隐患。攻击者无需强行破解沙箱本身，只需在开源仓库的 README、Issue、依赖库或代码差异中植入恶意提示（间接提示注入），诱导 AI 代理在项目工作区写入看似正常的配置文件、虚拟环境或命令指令。由于主机系统上的 IDE 与 CLI 工具链（如 Python 解释器、Git 机制、任务引擎等）会定期自动读取并信任工作区文件，这些“留在盒子内”的文件便会在沙箱之外被直接加载运行，导致攻击者无需正面攻破隔离层即可在开发者本地实现任意代码执行。该漏洞揭示了白名单仅校验命令名、沙箱外特权服务暴露等设计盲区，目前厂商已陆推送修复（如 Cursor 升至 3.0.0、Codex CLI 升至 v0.95.0）。不过，Google 对 Antigravity 的两项漏洞做降级处理，认为其利用需配合社工攻击诱导信任恶意仓库。这一事件表明，单纯搭建隔离沙箱已不安全，监控本地工具对工作区生成物的盲目调用将成为新的防护重点。bleepingcomputer·茶馆水群",
-      "datetime": "2026-07-22T08:08:31+00:00",
-      "views": "5.18K",
-      "source_links": [
-        {
-          "text": "bleepingcomputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42711",
-      "scraped_at": "2026-07-22T17:01:53.012353",
-      "title": "“借刀杀人”",
-      "title_options": {
-        "conclusion": "“借刀杀人”",
-        "attractive": "“借刀杀人”",
-        "minimal": "“借刀杀人”",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42683",
       "channel": "zaihuapd",
       "text": "𝕏 产品负责人：𝕏安卓客户端已从零重建完成𝕏平台产品负责人 Nikita Bier 发帖宣布，公司已完成其历史上规模最大的工程项目之一——对安卓版应用从零开始进行全面重建。新版应用在运行速度、操作流畅度和稳定性方面均有显著提升，为后续新功能的快速迭代奠定了基础。他表示，该项目耗时超过一年，目前仍有部分细节待完善，团队正加紧优化老旧设备性能并补齐 Space 主持等功能。当前，Cashtags、自定义时间线等特性已上线，视频回应、视频编辑器等也将很快推出。Bier 还透露，未来多项新功能将优先在安卓平台发布。X·茶馆水群·",
@@ -1481,6 +1450,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-23T20:06:39.025524"
+  "count": 56,
+  "updated_at": "2026-07-23T20:10:45.598801"
 }
