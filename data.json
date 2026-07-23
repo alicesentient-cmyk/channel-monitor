@@ -1151,29 +1151,6 @@
       }
     },
     {
-      "id": "xhqcankao_30986",
-      "channel": "xhqcankao",
-      "text": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元的AI服务器采购协议，进一步增强AMD的行业竞争实力，同时 AMD 将向后者投资最高50亿美元。根据协议，Anthropic将自2027年上半年起采购最多2吉瓦、搭载AMD最新一代Instinct MI450芯片的AI服务器。此外，随着双方公司约定的部署里程碑陆续达成，AMD还将向Anthropic投资最高50亿美元。这也是AMD首次投资这家人工智能初创公司。对于AMD而言，这项合作具有重要意义。当前，这家芯片制造商正努力挑战英伟达公司在快速增长的AI硬件市场的主导地位，并进一步扩大其大型AI客户阵容。",
-      "clean_text": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元的AI服务器采购协议，进一步增强AMD的行业竞争实力，同时 AMD 将向后者投资最高50亿美元。根据协议，Anthropic将自2027年上半年起采购最多2吉瓦、搭载AMD最新一代Instinct MI450芯片的AI服务器。此外，随着双方公司约定的部署里程碑陆续达成，AMD还将向Anthropic投资最高50亿美元。这也是AMD首次投资这家人工智能初创公司。对于AMD而言，这项合作具有重要意义。当前，这家芯片制造商正努力挑战英伟达公司在快速增长的AI硬件市场的主导地位，并进一步扩大其大型AI客户阵容。——财联社",
-      "datetime": "2026-07-22T13:51:41+00:00",
-      "views": "615",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2434311?sv=859&amp;os=web"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30986",
-      "scraped_at": "2026-07-22T22:01:33.631203",
-      "title": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
-      "title_options": {
-        "conclusion": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
-        "attractive": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
-        "minimal": "AMD拿下Anthropic数百亿美元芯片大单AMD与Anthropic签署了一项规模达数百亿美元",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42683",
       "channel": "zaihuapd",
       "text": "𝕏 产品负责人：𝕏安卓客户端已从零重建完成𝕏平台产品负责人 Nikita Bier 发帖宣布，公司已完成其历史上规模最大的工程项目之一——对安卓版应用从零开始进行全面重建。新版应用在运行速度、操作流畅度和稳定性方面均有显著提升，为后续新功能的快速迭代奠定了基础。他表示，该项目耗时超过一年，目前仍有部分细节待完善，团队正加紧优化老旧设备性能并补齐 Space 主持等功能。当前，Cashtags、自定义时间线等特性已上线，视频回应、视频编辑器等也将很快推出。Bier 还透露，未来多项新功能将优先在安卓平台发布。X·茶馆水群·",
@@ -1236,6 +1213,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-07-24T01:46:49.117646"
+  "count": 46,
+  "updated_at": "2026-07-24T01:51:52.839440"
 }
