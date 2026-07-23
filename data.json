@@ -1334,37 +1334,6 @@
       }
     },
     {
-      "id": "zaihuapd_42712",
-      "channel": "zaihuapd",
-      "text": "Claude 上线技能教授功能，可将操作录制并保存为技能Claude 推出「Teach Claude a skill」功能。用户通过桌面端 Cowork 录制屏幕并讲解任务，Claude 即可学习流程并保存为可复用技能，后续自动执行，无需反复提示。该功能正面向 Pro、Max 及 Team 订阅用户推出。该功能适用于报表整理、电子表格处理、批量重命名文件等重复性工作。用户在 Cowork 中点击聊天框「+」号，选择「Record a Skill」即可录制。Anthropic 正将 Claude Cowork 定位为更贴近人类同事的数字助手。Android Authority·茶馆水群·",
-      "clean_text": "🤖Claude 上线技能教授功能，可将操作录制并保存为技能Claude 推出「Teach Claude a skill」功能。用户通过桌面端 Cowork 录制屏幕并讲解任务，Claude 即可学习流程并保存为可复用技能，后续自动执行，无需反复提示。该功能正面向 Pro、Max 及 Team 订阅用户推出。该功能适用于报表整理、电子表格处理、批量重命名文件等重复性工作。用户在 Cowork 中点击聊天框「+」号，选择「Record a Skill」即可录制。Anthropic 正将 Claude Cowork 定位为更贴近人类同事的数字助手。Android Authority·茶馆水群",
-      "datetime": "2026-07-22T09:09:02+00:00",
-      "views": "5.06K",
-      "source_links": [
-        {
-          "text": "Android Authority",
-          "url": "https://www.androidauthority.com/claude-cowork-record-skills-feature-3689919/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42712",
-      "scraped_at": "2026-07-22T18:01:21.025693",
-      "title": "Claude 上线技能教授功能，可将操…",
-      "title_options": {
-        "conclusion": "Claude 上线技能教授功能，可将操…",
-        "attractive": "Claude 上线技能教授功能，可将操…",
-        "minimal": "Claude 上线技能教授功能，可将操…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42683",
       "channel": "zaihuapd",
       "text": "𝕏 产品负责人：𝕏安卓客户端已从零重建完成𝕏平台产品负责人 Nikita Bier 发帖宣布，公司已完成其历史上规模最大的工程项目之一——对安卓版应用从零开始进行全面重建。新版应用在运行速度、操作流畅度和稳定性方面均有显著提升，为后续新功能的快速迭代奠定了基础。他表示，该项目耗时超过一年，目前仍有部分细节待完善，团队正加紧优化老旧设备性能并补齐 Space 主持等功能。当前，Cashtags、自定义时间线等特性已上线，视频回应、视频编辑器等也将很快推出。Bier 还透露，未来多项新功能将优先在安卓平台发布。X·茶馆水群·",
@@ -1427,6 +1396,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-07-23T21:07:38.012600"
+  "count": 54,
+  "updated_at": "2026-07-23T21:10:42.758741"
 }
