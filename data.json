@@ -1,6 +1,114 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_30989",
+      "channel": "xhqcankao",
+      "text": "Twitch将允许家长阻止其孩子进行直播Twitch正在赋予家长更多控制权，以管控他们的孩子如何使用这家流媒体平台，包括完全禁止他们进行直播的能力。家长控制功能现已上线，允许监护人将Twitch账户与13岁至17岁的孩子关联，提供账户管理功能，并每周发送一封摘要邮件，概述其青少年的活动，包括观看的频道和时长。这些控制功能可用于防止青少年直播自己的内容，并禁用Twitch的私信功能Whispers。这包括阻止未成年人发送或接收私信。家长还可以为Twitch应用设置灵活的每日时间限制，覆盖其孩子所有设备，并限制带有特定分类标签的内容（如赌博、成人级游戏、性主题等）出现在搜索或推荐信息流中。",
+      "clean_text": "Twitch将允许家长阻止其孩子进行直播Twitch正在赋予家长更多控制权，以管控他们的孩子如何使用这家流媒体平台，包括完全禁止他们进行直播的能力。家长控制功能现已上线，允许监护人将Twitch账户与13岁至17岁的孩子关联，提供账户管理功能，并每周发送一封摘要邮件，概述其青少年的活动，包括观看的频道和时长。这些控制功能可用于防止青少年直播自己的内容，并禁用Twitch的私信功能Whispers。这包括阻止未成年人发送或接收私信。家长还可以为Twitch应用设置灵活的每日时间限制，覆盖其孩子所有设备，并限制带有特定分类标签的内容（如赌博、成人级游戏、性主题等）出现在搜索或推荐信息流中。——Theverge",
+      "datetime": "2026-07-23T00:03:00+00:00",
+      "views": "106",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30989",
+      "scraped_at": "2026-07-23T08:05:31.448690",
+      "title": "Twitch将允许家长阻止其孩子进行直播Twitch正在赋予家长更多控制权，以管控他们",
+      "title_options": {
+        "conclusion": "Twitch将允许家长阻止其孩子进行直播Twitch正在赋予家长更多控制权，以管控他们",
+        "attractive": "Twitch将允许家长阻止其孩子进行直播Twitch正在赋予家长更多控制权，以管控他们",
+        "minimal": "Twitch将允许家长阻止其孩子进行直播Twitch正在赋予家长更多控制权，以管控他们",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42718",
+      "channel": "zaihuapd",
+      "text": "Claude Security 插件开放公测Anthropic 表示，Claude Security 插件现已面向所有 Claude Code 用户开放测试。它可扫描代码库、验证安全漏洞发现并提出修复补丁，团队审核批准后即可应用，代码始终保留在用户环境内。该工具重点识别内存破坏、注入漏洞、身份验证绕过和复杂逻辑错误等高严重性问题，并支持将发现通过 Webhook 推送到 Slack、Jira 等工具，或导出为 CSV、Markdown。Anthropic 提醒，应用补丁前应始终进行人工审核。Anthropic·茶馆水群·",
+      "clean_text": "Claude Security 插件开放公测Anthropic 表示，Claude Security 插件现已面向所有 Claude Code 用户开放测试。它可扫描代码库、验证安全漏洞发现并提出修复补丁，团队审核批准后即可应用，代码始终保留在用户环境内。该工具重点识别内存破坏、注入漏洞、身份验证绕过和复杂逻辑错误等高严重性问题，并支持将发现通过 Webhook 推送到 Slack、Jira 等工具，或导出为 CSV、Markdown。Anthropic 提醒，应用补丁前应始终进行人工审核。Anthropic·茶馆水群",
+      "datetime": "2026-07-23T00:01:32+00:00",
+      "views": "425",
+      "source_links": [
+        {
+          "text": "Anthropic",
+          "url": "https://claude.com/product/claude-security"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42718",
+      "scraped_at": "2026-07-23T08:05:29.908998",
+      "title": "Claude Security 插件开…",
+      "title_options": {
+        "conclusion": "Claude Security 插件开…",
+        "attractive": "Claude Security 插件开…",
+        "minimal": "Claude Security 插件开…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30988",
+      "channel": "xhqcankao",
+      "text": "OpenAI提高算力支出预测至7500亿美元知情人士表示，OpenAI已经将截至2030年的算力支出预测从今年早些时候的约6000亿美元上调至7500亿美元。这一增长反映了公司与云计算供应商达成的新协议，以及随着 “星际之门” 数据中心项目进展不利，公司加强自有数据中心建设的努力。作为这一动态的最新表现，OpenAI刚刚发布公告称，将在佐治亚州的埃芬汉县投资 200 亿美元，启动一个名为 “山茶花项目” 的数据中心。OpenAI计算战略副总裁卡蒂披露，这个项目是OpenAI首次主导设计和开发数据中心。公司已经完成了拟建项目的土地收储工作，并且与佐治亚电力公司签订合同，将在2028至2032年间获得3.2吉瓦的电力供应。",
+      "clean_text": "OpenAI提高算力支出预测至7500亿美元知情人士表示，OpenAI已经将截至2030年的算力支出预测从今年早些时候的约6000亿美元上调至7500亿美元。这一增长反映了公司与云计算供应商达成的新协议，以及随着 “星际之门” 数据中心项目进展不利，公司加强自有数据中心建设的努力。作为这一动态的最新表现，OpenAI刚刚发布公告称，将在佐治亚州的埃芬汉县投资 200 亿美元，启动一个名为 “山茶花项目” 的数据中心。OpenAI计算战略副总裁卡蒂披露，这个项目是OpenAI首次主导设计和开发数据中心。公司已经完成了拟建项目的土地收储工作，并且与佐治亚电力公司签订合同，将在2028至2032年间获得3.2吉瓦的电力供应。——财联社、华尔街日报",
+      "datetime": "2026-07-22T23:32:53+00:00",
+      "views": "976",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2434359?sv=8.5.9"
+        },
+        {
+          "text": "华尔街日报",
+          "url": "https://www.wsj.com/tech/openais-planned-cloud-spending-hits-750-billion-as-computing-efforts-ramp-up-6ac3f58a"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30988",
+      "scraped_at": "2026-07-23T08:05:31.448354",
+      "title": "OpenAI提高算力支出预测至7500亿美元知情人士表示，OpenAI已经将截至2030年",
+      "title_options": {
+        "conclusion": "OpenAI提高算力支出预测至7500亿美元知情人士表示，OpenAI已经将截至2030年",
+        "attractive": "OpenAI提高算力支出预测至7500亿美元知情人士表示，OpenAI已经将截至2030年",
+        "minimal": "OpenAI提高算力支出预测至7500亿美元知情人士表示，OpenAI已经将截至2030年",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30987",
+      "channel": "xhqcankao",
+      "text": "苹果将全面升级Mac产品线 触控OLED、M7芯片已在路上苹果正准备对Mac产品线进行全面升级。知情人士透露，苹果计划从今年秋季至明年陆续推出旗下所有Mac产品的新版本，包括期待已久的台式机更新以及多款笔记本电脑。新款iMac和入门版MacBook Pro的开发已经完成，其中后者外观与现有14英寸版本基本一致，预计要到今年秋季才会正式上市。此次产品路线图中最引人关注的是全新高端14英寸和16英寸MacBook Pro。新机不仅采用重新设计的外观，还将首次配备触控屏，并首次使用OLED显示技术。苹果已经启动后续机型研发，预计将在2027年底至2028年初推出搭载M7 Pro/Max芯片的新一代产品。",
+      "clean_text": "苹果将全面升级Mac产品线 触控OLED、M7芯片已在路上苹果正准备对Mac产品线进行全面升级。知情人士透露，苹果计划从今年秋季至明年陆续推出旗下所有Mac产品的新版本，包括期待已久的台式机更新以及多款笔记本电脑。新款iMac和入门版MacBook Pro的开发已经完成，其中后者外观与现有14英寸版本基本一致，预计要到今年秋季才会正式上市。此次产品路线图中最引人关注的是全新高端14英寸和16英寸MacBook Pro。新机不仅采用重新设计的外观，还将首次配备触控屏，并首次使用OLED显示技术。苹果已经启动后续机型研发，预计将在2027年底至2028年初推出搭载M7 Pro/Max芯片的新一代产品。——财联社、彭博社",
+      "datetime": "2026-07-22T23:02:39+00:00",
+      "views": "1.35K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2434445?sv=8.7.9"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30987",
+      "scraped_at": "2026-07-23T08:05:31.447967",
+      "title": "苹果将全面升级Mac产品线 触控OLE…",
+      "title_options": {
+        "conclusion": "苹果将全面升级Mac产品线 触控OLE…",
+        "attractive": "苹果将全面升级Mac产品线 触控OLE…",
+        "minimal": "苹果将全面升级Mac产品线 触控OLE…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42717",
       "channel": "zaihuapd",
       "text": "中国品牌占欧洲插混市场 34% 创高2026 年 6 月，中国品牌占欧洲新车销量的 11%，在纯电动车市场占 15%，在插电式混合动力车市场占 34%，创历史新高；中国品牌在欧洲混合动力车销量中的占比接近四分之一。统计未包括因夏季休假而暂未公布销量的瑞典市场。中国车企正赶在欧盟可能扩大关税范围前加快推广插电式混合动力车。目前欧盟仅对中国制造的纯电动车征收高额关税，尚未表明是否会对插混车型采取新措施。充电设施不完善及纯电动车价格较高，为中国品牌插混车型提供了市场空间，也加剧了欧洲车企的竞争压力。财联社|联合早报·茶馆水群·",
@@ -1294,6 +1402,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-23T08:02:35.432166"
+  "count": 54,
+  "updated_at": "2026-07-23T08:07:39.374297"
 }
