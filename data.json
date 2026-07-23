@@ -1423,24 +1423,6 @@
       }
     },
     {
-      "id": "zaihuapd_42710",
-      "channel": "zaihuapd",
-      "text": "微软 Copilot Cowork 考虑接入DeepSeek 降本  微软企业 AI 工具 Copilot Cowork 将改为按实际算力使用量收费。微软透露，正探索在几周内上线经其微调的 DeepSeek V4 或其他开源模型，作为比现有 Anthropic、OpenAI 模型更低价的备选。  微软高管称，部分用户每周执行数百项任务，生产力虽高，但导致成本剧增，无法继续无限量提供。若推出 DeepSeek 选项，客户可自主选择，模型将完全托管于 Azure，数据不离开微软云，并受企业安全与合规管控。…",
-      "clean_text": "📱微软 Copilot Cowork 考虑接入🤖DeepSeek 降本  微软企业 AI 工具 Copilot Cowork 将改为按实际算力使用量收费。微软透露，正探索在几周内上线经其微调的 DeepSeek V4 或其他开源模型，作为比现有 Anthropic、OpenAI 模型更低价的备选。  微软高管称，部分用户每周执行数百项任务，生产力虽高，但导致成本剧增，无法继续无限量提供。若推出 DeepSeek 选项，客户可自主选择，模型将完全托管于 Azure，数据不离开微软云，并受企业安全与合规管控。…",
-      "datetime": "2026-07-22T07:18:08+00:00",
-      "views": "4.44K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42710",
-      "scraped_at": "2026-07-22T16:00:59.000583",
-      "title": "微软 Copilot Cowork 考…",
-      "title_options": {
-        "conclusion": "微软 Copilot Cowork 考…",
-        "attractive": "微软 Copilot Cowork 考…",
-        "minimal": "微软 Copilot Cowork 考…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42683",
       "channel": "zaihuapd",
       "text": "𝕏 产品负责人：𝕏安卓客户端已从零重建完成𝕏平台产品负责人 Nikita Bier 发帖宣布，公司已完成其历史上规模最大的工程项目之一——对安卓版应用从零开始进行全面重建。新版应用在运行速度、操作流畅度和稳定性方面均有显著提升，为后续新功能的快速迭代奠定了基础。他表示，该项目耗时超过一年，目前仍有部分细节待完善，团队正加紧优化老旧设备性能并补齐 Space 主持等功能。当前，Cashtags、自定义时间线等特性已上线，视频回应、视频编辑器等也将很快推出。Bier 还透露，未来多项新功能将优先在安卓平台发布。X·茶馆水群·",
@@ -1503,6 +1485,6 @@
       }
     }
   ],
-  "count": 58,
-  "updated_at": "2026-07-23T19:15:59.088968"
+  "count": 57,
+  "updated_at": "2026-07-23T19:21:02.925134"
 }
