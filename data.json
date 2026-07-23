@@ -1,6 +1,56 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_31010",
+      "channel": "xhqcankao",
+      "text": "谷歌将允许用户通过自拍视频登录账户谷歌公司正在新增自拍视频登录功能，为因设备丢失或忘记密码而无法登录的用户提供了另一种替代选择。谷歌母公司Alphabet周四在一篇博客文章中表示，用户可通过一个简短的在线流程设置自拍视频，该流程包括几个引导性的头部动作，使设备摄像头能够捕捉多个角度。这些保存的录像将用于与用户后续登录时提交的实时视频进行比对。谷歌一直在测试各种验证方法，用途不仅限于账户登录。例如与第三方公司 Private ID 合作，通过自拍验证来确认用户年龄，以确保他们能够访问受年龄限制的内容。",
+      "clean_text": "谷歌将允许用户通过自拍视频登录账户谷歌公司正在新增自拍视频登录功能，为因设备丢失或忘记密码而无法登录的用户提供了另一种替代选择。谷歌母公司Alphabet周四在一篇博客文章中表示，用户可通过一个简短的在线流程设置自拍视频，该流程包括几个引导性的头部动作，使设备摄像头能够捕捉多个角度。这些保存的录像将用于与用户后续登录时提交的实时视频进行比对。谷歌一直在测试各种验证方法，用途不仅限于账户登录。例如与第三方公司 Private ID 合作，通过自拍验证来确认用户年龄，以确保他们能够访问受年龄限制的内容。——彭博社",
+      "datetime": "2026-07-23T10:50:11+00:00",
+      "views": "688",
+      "source_links": [
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/google-will-now-let-users-sign-in-to-accounts-with-a-selfie-video"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31010",
+      "scraped_at": "2026-07-23T19:01:35.389903",
+      "title": "谷歌将允许用户通过自拍视频登录账户谷歌公司正在新增自拍视频登录功能，为因设备丢失或忘记密码而无法登录",
+      "title_options": {
+        "conclusion": "谷歌将允许用户通过自拍视频登录账户谷歌公司正在新增自拍视频登录功能，为因设备丢失或忘记密码而无法登录",
+        "attractive": "谷歌将允许用户通过自拍视频登录账户谷歌公司正在新增自拍视频登录功能，为因设备丢失或忘记密码而无法登录",
+        "minimal": "谷歌将允许用户通过自拍视频登录账户谷歌公司正在新增自拍视频登录功能，为因设备丢失或忘记密码而无法登录",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31009",
+      "channel": "xhqcankao",
+      "text": "谷歌因违反欧盟规则被处以8.9亿欧元的罚款欧盟委员会表示，谷歌公司因违反欧盟规则被处以总计8.9亿欧元的罚款。谷歌有60天的时间公平对待竞争对手，并允许应用开发者引导用户离开其应用商店。欧盟委员会当地时间周四表示，谷歌不公平地偏袒其自家搜索服务，并阻止应用开发者将消费者引导至其Play商店之外的优惠。欧盟竞争事务专员特蕾莎·里贝拉表示：“谷歌未能有效遵守《数字市场法》，今天我们采取了果断而平衡的执法行动，对这些违规行为予以制裁。最好的产品应当因其更优而成功，而不是因为它们归属于谷歌。”",
+      "clean_text": "谷歌因违反欧盟规则被处以8.9亿欧元的罚款欧盟委员会表示，谷歌公司因违反欧盟规则被处以总计8.9亿欧元的罚款。谷歌有60天的时间公平对待竞争对手，并允许应用开发者引导用户离开其应用商店。欧盟委员会当地时间周四表示，谷歌不公平地偏袒其自家搜索服务，并阻止应用开发者将消费者引导至其Play商店之外的优惠。欧盟竞争事务专员特蕾莎·里贝拉表示：“谷歌未能有效遵守《数字市场法》，今天我们采取了果断而平衡的执法行动，对这些违规行为予以制裁。最好的产品应当因其更优而成功，而不是因为它们归属于谷歌。”——财联社、彭博社",
+      "datetime": "2026-07-23T10:17:05+00:00",
+      "views": "1.64K",
+      "source_links": [
+        {
+          "text": "财联社",
+          "url": "https://api3.cls.cn/share/article/2435268?sv=859"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31009",
+      "scraped_at": "2026-07-23T19:01:35.389513",
+      "title": "谷歌因违反欧盟规则被处以8.9亿欧元",
+      "title_options": {
+        "conclusion": "谷歌因违反欧盟规则被处以8.9亿欧元",
+        "attractive": "谷歌因违反欧盟规则被处以8.9亿欧元",
+        "minimal": "谷歌因违反欧盟规则被处以8.9亿欧元",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31008",
       "channel": "xhqcankao",
       "text": "中国部分城市已恢复发放Robotaxi牌照中国因四月萝卜快跑自动驾驶出租车事故而暂停发放新牌照后，已从六月底开始逐步恢复审批。知情人士表示，有关部门六月底完成针对整个行业的安全审查后，一些城市正逐步恢复审批自动驾驶新牌照。今年3月31日，百度旗下萝卜快跑在湖北武汉出现大范围车辆停滞，多名乘客被困车内，造成交通拥堵。这起事件引发有关部门警觉，监管部门随后要求全行业开展全面安全审查。首批获批企业之一是北京初速度，公司获得许可在广东深圳开展Robotaxi测试。",
@@ -1391,64 +1441,6 @@
       }
     },
     {
-      "id": "xhqcankao_30973",
-      "channel": "xhqcankao",
-      "text": "OpenAI公司的智能体用户突破1000万OpenAI公司旗下AI智能体产品用户数量快速攀升，在 ChatGPT Work 发布后不久即突破千万大关，与竞争对手Anthropic之间的市场角力持续升温。OpenAI周二宣布，其两款AI智能体产品：面向编程场景的Codex，及面向综合任务处理的 ChatGPT Work 合计用户数已达1000万，较本月初近乎翻倍。ChatGPT Work 的上线为这一增长注入了直接动力。这一产品与Anthropic此前推出的协作工具Cowork定位相近，人工智能智能体赛道的竞争格局正随之加速演变。",
-      "clean_text": "OpenAI公司的智能体用户突破1000万OpenAI公司旗下AI智能体产品用户数量快速攀升，在 ChatGPT Work 发布后不久即突破千万大关，与竞争对手Anthropic之间的市场角力持续升温。OpenAI周二宣布，其两款AI智能体产品：面向编程场景的Codex，及面向综合任务处理的 ChatGPT Work 合计用户数已达1000万，较本月初近乎翻倍。ChatGPT Work 的上线为这一增长注入了直接动力。这一产品与Anthropic此前推出的协作工具Cowork定位相近，人工智能智能体赛道的竞争格局正随之加速演变。——华尔街见闻、彭博社",
-      "datetime": "2026-07-22T07:02:09+00:00",
-      "views": "2.3K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3777599"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30973",
-      "scraped_at": "2026-07-22T16:01:01.025173",
-      "title": "OpenAI公司",
-      "title_options": {
-        "conclusion": "OpenAI公司",
-        "attractive": "OpenAI公司",
-        "minimal": "OpenAI公司",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "zaihuapd_42678",
-      "channel": "zaihuapd",
-      "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
-      "clean_text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群",
-      "datetime": null,
-      "views": "3K",
-      "source_links": [
-        {
-          "text": "Kirill Firsov",
-          "url": "https://x.com/k_firsov/status/2078872293745570032"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42678",
-      "scraped_at": "2026-07-20T23:01:04.656850",
-      "title": "Fastjson 1.x 被曝无 ga…",
-      "title_options": {
-        "conclusion": "Fastjson 1.x 被曝无 ga…",
-        "attractive": "Fastjson 1.x 被曝无 ga…",
-        "minimal": "Fastjson 1.x 被曝无 ga…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42683",
       "channel": "zaihuapd",
       "text": "𝕏 产品负责人：𝕏安卓客户端已从零重建完成𝕏平台产品负责人 Nikita Bier 发帖宣布，公司已完成其历史上规模最大的工程项目之一——对安卓版应用从零开始进行全面重建。新版应用在运行速度、操作流畅度和稳定性方面均有显著提升，为后续新功能的快速迭代奠定了基础。他表示，该项目耗时超过一年，目前仍有部分细节待完善，团队正加紧优化老旧设备性能并补齐 Space 主持等功能。当前，Cashtags、自定义时间线等特性已上线，视频回应、视频编辑器等也将很快推出。Bier 还透露，未来多项新功能将优先在安卓平台发布。X·茶馆水群·",
@@ -1478,8 +1470,39 @@
         "minimal": "𝕏 产品负责人：𝕏安卓客户端已从零重建完成𝕏平台产品负责人 Nikita Bier 发帖宣布，公司已完成其历史上规模最大",
         "best": "conclusion"
       }
+    },
+    {
+      "id": "zaihuapd_42729",
+      "channel": "zaihuapd",
+      "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
+      "clean_text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群",
+      "datetime": null,
+      "views": "506",
+      "source_links": [
+        {
+          "text": "央视财经",
+          "url": "https://m.weibo.cn/detail/5323896905534617"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42729",
+      "scraped_at": "2026-07-23T19:01:33.699176",
+      "title": "中国脑机接口实现跨地域千人同步采集中国…",
+      "title_options": {
+        "conclusion": "中国脑机接口实现跨地域千人同步采集中国…",
+        "attractive": "中国脑机接口实现跨地域千人同步采集中国…",
+        "minimal": "中国脑机接口实现跨地域千人同步采集中国…",
+        "best": "conclusion"
+      }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-23T19:00:45.972771"
+  "count": 58,
+  "updated_at": "2026-07-23T19:05:51.420132"
 }
