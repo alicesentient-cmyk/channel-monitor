@@ -20884,5 +20884,45 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-23T11:04:32.155217"
+  },
+  "xhqcankao_30997": {
+    "ai_title": "微软正在将初代Xbox游戏移植到PC平…",
+    "title_options": {
+      "conclusion": "微软正在将初代Xbox游戏移植到PC平…",
+      "attractive": "微软正在将初代Xbox游戏移植到PC平…",
+      "minimal": "微软正在将初代Xbox游戏移植到PC平…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-23T12:05:14.441520"
+  },
+  "xhqcankao_30996": {
+    "ai_title": "耐克调整在华销售战略 缩减线上分销渠道耐克将终止与其在中国",
+    "title_options": {
+      "conclusion": "耐克调整在华销售战略 缩减线上分销渠道耐克将终止与其在中国",
+      "attractive": "耐克调整在华销售战略 缩减线上分销渠道耐克将终止与其在中国",
+      "minimal": "耐克调整在华销售战略 缩减线上分销渠道耐克将终止与其在中国",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-23T12:05:14.496045"
+  },
+  "zaihuapd_42722": {
+    "ai_title": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
+    "title_options": {
+      "conclusion": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
+      "attractive": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
+      "minimal": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-23T12:05:14.525911"
+  },
+  "xhqcankao_30995": {
+    "ai_title": "针对Meta",
+    "title_options": {
+      "conclusion": "针对Meta",
+      "attractive": "针对Meta",
+      "minimal": "针对Meta",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-23T12:05:15.243797"
   }
 }
