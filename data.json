@@ -1257,60 +1257,6 @@
       }
     },
     {
-      "id": "zaihuapd_42714",
-      "channel": "zaihuapd",
-      "text": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器的系统运行 Windows 11 ARM，并成功驱动 NVIDIA RTX 4060。方案通过修补 ACPI 表引导系统，再从 RTX Spark 软件中提取 ARM64 驱动，使显卡启用硬件加速、DirectX 12 和 Vulkan。受鲲鹏 920 单核性能较弱及 x64 转译影响，游戏帧率有限：《原神》1080p 平均约 20 帧，《黑神话：悟空》基准测试平均约 21 帧。由于缺少 Windows 驱动，板载网卡无法工作，显卡也不能直接输出画面；内核级反作弊和 CUDA 应用同样存在兼容限制。快科技·茶馆水群·",
-      "clean_text": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器的系统运行 Windows 11 ARM，并成功驱动 NVIDIA RTX 4060。方案通过修补 ACPI 表引导系统，再从 RTX Spark 软件中提取 ARM64 驱动，使显卡启用硬件加速、DirectX 12 和 Vulkan。受鲲鹏 920 单核性能较弱及 x64 转译影响，游戏帧率有限：《原神》1080p 平均约 20 帧，《黑神话：悟空》基准测试平均约 21 帧。由于缺少 Windows 驱动，板载网卡无法工作，显卡也不能直接输出画面；内核级反作弊和 CUDA 应用同样存在兼容限制。快科技·茶馆水群",
-      "datetime": "2026-07-22T11:01:26+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "快科技",
-          "url": "https://finance.sina.com.cn/tech/roll/2026-07-22/doc-iniispmx1970206.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42714",
-      "scraped_at": "2026-07-22T19:02:02.500725",
-      "title": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
-      "title_options": {
-        "conclusion": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
-        "attractive": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
-        "minimal": "一博主使用鲲鹏 920 成功驱动 RTX 4060B站 UP 主 VoidTech 在华为擎云 W510 主板上，让搭载鲲鹏 920 处理器",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30981",
-      "channel": "xhqcankao",
-      "text": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品的软件支持即将划下句点。根据 Google 官方说明，Pixel 6 及 Pixel 6 Pro 将无法获得今年下半年推出的 Android 17 第二个版本，确定将止步于 Android 17 QPR1 Beta。不过官方仍会持续提供安全性更新至今年 12 月，且预计于 9 月还会收到最后一次 Pixel Feature Drop 功能更新。至于同系列但较晚推出的 Pixel 6a，则会持续获得更新至 2027 年 7 月为止。",
-      "clean_text": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品的软件支持即将划下句点。根据 Google 官方说明，Pixel 6 及 Pixel 6 Pro 将无法获得今年下半年推出的 Android 17 第二个版本，确定将止步于 Android 17 QPR1 Beta。不过官方仍会持续提供安全性更新至今年 12 月，且预计于 9 月还会收到最后一次 Pixel Feature Drop 功能更新。至于同系列但较晚推出的 Pixel 6a，则会持续获得更新至 2027 年 7 月为止。——ettoday.net",
-      "datetime": "2026-07-22T10:59:24+00:00",
-      "views": "240",
-      "source_links": [
-        {
-          "text": "ettoday.net",
-          "url": "https://www.ettoday.net/amp/amp_news.php7?news_id=3204794&amp;ref=mw&amp;from=googlequicksearchbox"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30981",
-      "scraped_at": "2026-07-22T19:02:04.805450",
-      "title": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
-      "title_options": {
-        "conclusion": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
-        "attractive": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
-        "minimal": "谷歌年底淘汰Pixel 6/6 Pro 不再提供更新谷歌周二正式释出 Android 17 QPR2 Beta 版本，并于公告中证实，Pixel 6 与 Pixel 6 Pro 将无法升级，该系列产品",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42683",
       "channel": "zaihuapd",
       "text": "𝕏 产品负责人：𝕏安卓客户端已从零重建完成𝕏平台产品负责人 Nikita Bier 发帖宣布，公司已完成其历史上规模最大的工程项目之一——对安卓版应用从零开始进行全面重建。新版应用在运行速度、操作流畅度和稳定性方面均有显著提升，为后续新功能的快速迭代奠定了基础。他表示，该项目耗时超过一年，目前仍有部分细节待完善，团队正加紧优化老旧设备性能并补齐 Space 主持等功能。当前，Cashtags、自定义时间线等特性已上线，视频回应、视频编辑器等也将很快推出。Bier 还透露，未来多项新功能将优先在安卓平台发布。X·茶馆水群·",
@@ -1373,6 +1319,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-07-23T22:59:19.560500"
+  "count": 51,
+  "updated_at": "2026-07-23T23:04:24.647171"
 }
