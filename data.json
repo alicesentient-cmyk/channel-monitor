@@ -1548,37 +1548,6 @@
       }
     },
     {
-      "id": "zaihuapd_42700",
-      "channel": "zaihuapd",
-      "text": "Apple 携手 Klarna 推出设备租赁计划Apple 将于 7 月 28 日推出「Apple Upgrade」设备租赁计划，覆盖多数 iPhone、Mac、iPad 及 Apple Watch 机型，并与 Klarna 合作提供资金支持。该计划率先在美国 Apple 零售店及官网上线，用户可选择分期付款、提前升级或租期结束后保留设备。iPhone 和 Apple Watch 租赁期为 24 个月，Mac 和 iPad 为 36 个月。新计划将取代现有的 iPhone 升级计划及标准分期方案，且不包含 AppleCare，部分低端机型亦不适用。此前 Apple 曾自研硬件订阅服务，但已于 2024 年取消。Bloomberg·茶馆水群·",
-      "clean_text": "🍏Apple 携手 Klarna 推出设备租赁计划Apple 将于 7 月 28 日推出「Apple Upgrade」设备租赁计划，覆盖多数 iPhone、Mac、iPad 及 Apple Watch 机型，并与 Klarna 合作提供资金支持。该计划率先在美国 Apple 零售店及官网上线，用户可选择分期付款、提前升级或租期结束后保留设备。iPhone 和 Apple Watch 租赁期为 24 个月，Mac 和 iPad 为 36 个月。新计划将取代现有的 iPhone 升级计划及标准分期方案，且不包含 AppleCare，部分低端机型亦不适用。此前 Apple 曾自研硬件订阅服务，但已于 2024 年取消。Bloomberg·茶馆水群",
-      "datetime": "2026-07-22T00:06:22+00:00",
-      "views": "12.6K",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42700",
-      "scraped_at": "2026-07-22T14:01:56.814220",
-      "title": "Apple 携手 Klarna 推出设…",
-      "title_options": {
-        "conclusion": "Apple 携手 Klarna 推出设…",
-        "attractive": "Apple 携手 Klarna 推出设…",
-        "minimal": "Apple 携手 Klarna 推出设…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1641,6 +1610,6 @@
       }
     }
   ],
-  "count": 63,
-  "updated_at": "2026-07-23T12:05:15.277925"
+  "count": 62,
+  "updated_at": "2026-07-23T12:10:18.562681"
 }
