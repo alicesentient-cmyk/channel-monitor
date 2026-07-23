@@ -1480,64 +1480,6 @@
       }
     },
     {
-      "id": "zaihuapd_42707",
-      "channel": "zaihuapd",
-      "text": "DeepSeek 网页端搜索服务出现故障DeepSeek 网页端搜索服务目前不可用，影响网页对话服务。官方状态页面显示，故障原因已经确定，修复工作正在进行中。DeepSeek Status·茶馆水群·",
-      "clean_text": "🤖DeepSeek 网页端搜索服务出现故障DeepSeek 网页端搜索服务目前不可用，影响网页对话服务。官方状态页面显示，故障原因已经确定，修复工作正在进行中。DeepSeek Status·茶馆水群",
-      "datetime": "2026-07-22T05:28:20+00:00",
-      "views": "3.64K",
-      "source_links": [
-        {
-          "text": "DeepSeek Status",
-          "url": "https://status.deepseek.com/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42707",
-      "scraped_at": "2026-07-22T14:01:56.818405",
-      "title": "DeepSeek 网页端搜索服务出现故…",
-      "title_options": {
-        "conclusion": "DeepSeek 网页端搜索服务出现故…",
-        "attractive": "DeepSeek 网页端搜索服务出现故…",
-        "minimal": "DeepSeek 网页端搜索服务出现故…",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_30970",
-      "channel": "xhqcankao",
-      "text": "破纪录毕业生叠加AI冲击 中国青年失业率或达20%随着创纪录数量的高校毕业生步入劳动力市场，叠加AI加速取代初级岗位的冲击，中国青年失业率可能将逼近20%的高位。中国国家统计局周一公布数据显示，6月16至24岁劳动力城镇调查失业率录得14.9%。中国教育部数据显示，今年将有创纪录1270万名高校毕业生步入职场，较2025年增加近4%。彭博社指出，中国青年失业率通常在六月触底，并随着更多毕业生在夏末加入劳动力市场而急剧攀升。澳新银行经济学家邢兆鹏预计，随着劳动力供过于求加剧，未来两个月青年失业率将逼近20%。主要影响因素包括内需疲软，以及职场对AI技术的广泛应用。",
-      "clean_text": "破纪录毕业生叠加AI冲击 中国青年失业率或达20%随着创纪录数量的高校毕业生步入劳动力市场，叠加AI加速取代初级岗位的冲击，中国青年失业率可能将逼近20%的高位。中国国家统计局周一公布数据显示，6月16至24岁劳动力城镇调查失业率录得14.9%。中国教育部数据显示，今年将有创纪录1270万名高校毕业生步入职场，较2025年增加近4%。彭博社指出，中国青年失业率通常在六月触底，并随着更多毕业生在夏末加入劳动力市场而急剧攀升。澳新银行经济学家邢兆鹏预计，随着劳动力供过于求加剧，未来两个月青年失业率将逼近20%。主要影响因素包括内需疲软，以及职场对AI技术的广泛应用。——联合早报、彭博社",
-      "datetime": "2026-07-22T05:27:08+00:00",
-      "views": "1.83K",
-      "source_links": [
-        {
-          "text": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/china/story20260722-9400463"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/china-at-risk-of-20-youth-joblessness-as-labor-distress-spreads"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30970",
-      "scraped_at": "2026-07-22T14:01:58.733507",
-      "title": "破纪录毕业生叠加AI冲击 中国青年失业率或达20%随着创纪录数量",
-      "title_options": {
-        "conclusion": "破纪录毕业生叠加AI冲击 中国青年失业率或达20%随着创纪录数量",
-        "attractive": "破纪录毕业生叠加AI冲击 中国青年失业率或达20%随着创纪录数量",
-        "minimal": "破纪录毕业生叠加AI冲击 中国青年失业率或达20%随着创纪录数量",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1600,6 +1542,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-23T17:24:25.609269"
+  "count": 59,
+  "updated_at": "2026-07-23T17:29:29.070039"
 }
