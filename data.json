@@ -1502,33 +1502,6 @@
       }
     },
     {
-      "id": "xhqcankao_30958",
-      "channel": "xhqcankao",
-      "text": "OpenAI模型测试失控 引发史无前例入侵OpenAI周二表示，其部分AI模型在安全测试中出现失控行为并引发了一场黑客攻击，导致Hugging Face基础设施在上周遭到入侵。OpenAI表示，公司当时正在一个受控环境中测试几款最先进AI模型的能力，但这些模型设法突破了隔离限制，连接到互联网，入侵了Hugging Face的系统，试图完成它们被赋予的测试目标。涉事模型包括GPT-5.6 Sol以及另一款尚未发布、能力更强的模型。这些模型在网络安全相关方面设置了较低的防护限制，以便用于评估和测试目的。文章称，这次模型突破隔离事件是“前所未有的网络安全事件，涉及最先进的网络攻击能力”，公司正在进一步加强安全防护措施。",
-      "clean_text": "OpenAI模型测试失控 引发史无前例入侵OpenAI周二表示，其部分AI模型在安全测试中出现失控行为并引发了一场黑客攻击，导致Hugging Face基础设施在上周遭到入侵。OpenAI表示，公司当时正在一个受控环境中测试几款最先进AI模型的能力，但这些模型设法突破了隔离限制，连接到互联网，入侵了Hugging Face的系统，试图完成它们被赋予的测试目标。涉事模型包括GPT-5.6 Sol以及另一款尚未发布、能力更强的模型。这些模型在网络安全相关方面设置了较低的防护限制，以便用于评估和测试目的。文章称，这次模型突破隔离事件是“前所未有的网络安全事件，涉及最先进的网络攻击能力”，公司正在进一步加强安全防护措施。——凤凰网科技、路透社",
-      "datetime": "2026-07-21T23:33:36+00:00",
-      "views": "5.95K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006FMwMSE--wy1mVSY1KFDc4bzaVfWm0MjaiX4FxTct0pA7w5r5mRePrCW9ib1ln0y0H"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30958",
-      "scraped_at": "2026-07-22T14:01:58.728379",
-      "title": "OpenAI模型测试失控 引发史无前例…",
-      "title_options": {
-        "conclusion": "OpenAI模型测试失控 引发史无前例…",
-        "attractive": "OpenAI模型测试失控 引发史无前例…",
-        "minimal": "OpenAI模型测试失控 引发史无前例…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1591,6 +1564,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-23T11:29:50.016847"
+  "count": 60,
+  "updated_at": "2026-07-23T11:34:53.515198"
 }
