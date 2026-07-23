@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42721",
+      "channel": "zaihuapd",
+      "text": "中国推进全国纯 IPv6 网络计划，同时发展自带监控属性的 IPv6+中国国家网信办 7 月 21 日发布《深入推进 IPv6 技术创新和应用融合发展的实施意见（2026—2030 年）》，提出到 2027 年实现 9 亿 IPv6 活跃用户、IPv6 流量占比达 38%，并推动所有联网设备支持 IPv6；到 2030 年活跃用户增至 9.5 亿，流量占比达 42%，新网络优先使用 IPv6，加速向纯 IPv6 单栈演进。文件同时要求加强\"IPv6+\"研发。IPv6+ 允许在数据包中嵌入内容元数据并建议路由路径，被欧洲智库墨卡托中国研究所指出对威权政权具有\"明显的管控吸引力\"，可用于审查、精准拦截或额外计费。中国通信设备商已将支持 IPv6+ 的装备出口多国。北京此前曾在国际电联推动类似的\"New IP\"协议但未获通过，目前仍在通过参与全球标准制定与发展本国标准并行的方式推进其网络协议议程。Theregister·茶馆水群·",
+      "clean_text": "中国推进全国纯 IPv6 网络计划，同时发展自带监控属性的 IPv6+中国国家网信办 7 月 21 日发布《深入推进 IPv6 技术创新和应用融合发展的实施意见（2026—2030 年）》，提出到 2027 年实现 9 亿 IPv6 活跃用户、IPv6 流量占比达 38%，并推动所有联网设备支持 IPv6；到 2030 年活跃用户增至 9.5 亿，流量占比达 42%，新网络优先使用 IPv6，加速向纯 IPv6 单栈演进。文件同时要求加强\"IPv6+\"研发。IPv6+ 允许在数据包中嵌入内容元数据并建议路由路径，被欧洲智库墨卡托中国研究所指出对威权政权具有\"明显的管控吸引力\"，可用于审查、精准拦截或额外计费。中国通信设备商已将支持 IPv6+ 的装备出口多国。北京此前曾在国际电联推动类似的\"New IP\"协议但未获通过，目前仍在通过参与全球标准制定与发展本国标准并行的方式推进其网络协议议程。Theregister·茶馆水群",
+      "datetime": "2026-07-23T02:58:54+00:00",
+      "views": "783",
+      "source_links": [
+        {
+          "text": "Theregister",
+          "url": "https://www.theregister.com/networks/2026/07/22/china-advances-plans-for-national-single-stack-ipv6-network-and-its-own-surveillance-friendly-version-of-the-protocol/5275984"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42721",
+      "scraped_at": "2026-07-23T11:01:36.310409",
+      "title": "中国推进全国纯 IPv6 网络计划，同时发展自带监控属性",
+      "title_options": {
+        "conclusion": "中国推进全国纯 IPv6 网络计划，同时发展自带监控属性",
+        "attractive": "中国推进全国纯 IPv6 网络计划，同时发展自带监控属性",
+        "minimal": "中国推进全国纯 IPv6 网络计划，同时发展自带监控属性",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_30994",
+      "channel": "xhqcankao",
+      "text": "谷歌正在简化从iPhone换机到安卓的流程谷歌周三宣布，Android 17中内置了一项全新的迁移体验，这将使用户更容易从iPhone切换到 Android。谷歌表示，该功能允许用户通过无线方式从iPhone传输更多类型的数据，而无需下载单独的应用程序。通过简化新机引导流程并支持更多数据类型，这家科技巨头正试图降低切换智能手机生态系统的门槛，以期吸引更多iPhone用户。借助这种新方法，用户在从iPhone手机切换到 Android 时，可以传输照片、视频、联系人、信息、日历，及新支持的数据类型，其中包括他们的 Google 账户、密码、Wi-Fi 凭证，甚至他们的eSIM。该升级已开始向部分Pixel设备推送，并且也适用于昨晚发布的三星Galaxy Z Flip8和Z Fold8系列。",
+      "clean_text": "谷歌正在简化从iPhone换机到安卓的流程谷歌周三宣布，Android 17中内置了一项全新的迁移体验，这将使用户更容易从iPhone切换到 Android。谷歌表示，该功能允许用户通过无线方式从iPhone传输更多类型的数据，而无需下载单独的应用程序。通过简化新机引导流程并支持更多数据类型，这家科技巨头正试图降低切换智能手机生态系统的门槛，以期吸引更多iPhone用户。借助这种新方法，用户在从iPhone手机切换到 Android 时，可以传输照片、视频、联系人、信息、日历，及新支持的数据类型，其中包括他们的 Google 账户、密码、Wi-Fi 凭证，甚至他们的eSIM。该升级已开始向部分Pixel设备推送，并且也适用于昨晚发布的三星Galaxy Z Flip8和Z Fold8系列。——Techcrunch",
+      "datetime": "2026-07-23T02:32:56+00:00",
+      "views": "1.43K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/30994",
+      "scraped_at": "2026-07-23T11:01:38.113774",
+      "title": "谷歌正在简化从iPhone换机到安卓",
+      "title_options": {
+        "conclusion": "谷歌正在简化从iPhone换机到安卓",
+        "attractive": "谷歌正在简化从iPhone换机到安卓",
+        "minimal": "谷歌正在简化从iPhone换机到安卓",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42720",
+      "channel": "zaihuapd",
+      "text": "DeepSeek 梁文锋四小时投资人会议实录：克制是一种战略近日网传 DeepSeek 创始人梁文锋四小时投资人会议实录。会议上梁文锋明确表示，公司唯一主线是 AGI，产品只是“副产物”；坚持开源、低价和合理利润，不追求用户量与利润最大化，也不做 3D、视频生成、世界模型或下一个超级 App。他将“克制”定义为增加做成 AGI 概率的战略。在会议中，梁文锋称团队稳定性是不可退让的底线，并强调中美 AI 差距主要在资源而非人才。他认为大模型竞争成本排第一，DeepSeek 的长期路径是：Agent → 持续学习 → AI 自迭代 → 具身智能。他也表示，愿景驱动而非 KPI 驱动，是这家“平凡人”组成的公司最本质的特色。Elsewhere·茶馆水群·",
+      "clean_text": "🤖DeepSeek 梁文锋四小时投资人会议实录：克制是一种战略近日网传 DeepSeek 创始人梁文锋四小时投资人会议实录。会议上梁文锋明确表示，公司唯一主线是 AGI，产品只是“副产物”；坚持开源、低价和合理利润，不追求用户量与利润最大化，也不做 3D、视频生成、世界模型或下一个超级 App。他将“克制”定义为增加做成 AGI 概率的战略。在会议中，梁文锋称团队稳定性是不可退让的底线，并强调中美 AI 差距主要在资源而非人才。他认为大模型竞争成本排第一，DeepSeek 的长期路径是：Agent → 持续学习 → AI 自迭代 → 具身智能。他也表示，愿景驱动而非 KPI 驱动，是这家“平凡人”组成的公司最本质的特色。Elsewhere·茶馆水群",
+      "datetime": "2026-07-23T02:08:09+00:00",
+      "views": "5.16K",
+      "source_links": [
+        {
+          "text": "Elsewhere",
+          "url": "https://mp.weixin.qq.com/s/AWsSjcT9NYbj1W8SWXgb_w"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42720",
+      "scraped_at": "2026-07-23T11:01:36.309860",
+      "title": "DeepSeek 梁文锋四小时投资人会…",
+      "title_options": {
+        "conclusion": "DeepSeek 梁文锋四小时投资人会…",
+        "attractive": "DeepSeek 梁文锋四小时投资人会…",
+        "minimal": "DeepSeek 梁文锋四小时投资人会…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_30993",
       "channel": "xhqcankao",
       "text": "支持赎金后黑客很可能会进行第二次勒索网安巨头Proofpoint周三发布报告，称其调查了 953家公司，发现超过三分之一支付了黑客赎金的公司遭遇了第二次勒索要求。数据显示，勒索软件攻击和勒索攻击已从黑客一次性获得赎金然后离开的单次交易，演变为利用多种形式的杠杆手段的行动，例如以公开泄露数据为威胁来保留被盗数据。尽管黑客过去曾声称他们会删除或销毁受害者的被盗数据，但以往事件表明事实并非如此。英国执法部门在2024年针对LockBit勒索软件团伙的捣毁行动中证实了这一点。警方表示，他们发现受害者的被盗数据在支付赎金很久之后仍存储在LockBit的服务器上。",
@@ -1444,33 +1529,6 @@
       }
     },
     {
-      "id": "xhqcankao_30957",
-      "channel": "xhqcankao",
-      "text": "苹果准备推出硬件租赁计划 欲刺激产品销售苹果正准备推出名为Apple Upgrade的设备租赁计划，这将成为该公司有史以来对硬件销售模式最大规模的调整之一。知情人士表示，这项新服务计划于7月28日上线，支持大多数iPhone、Mac、iPad和Apple Watch机型。苹果将与金融科技公司Klarna Group plc合作，由后者为该计划提供金融支持。该计划初期至少将在美国推出，并同时覆盖苹果线下零售店及官网。Apple Upgrade将采用类似订阅制的模式，用户在租赁期间可提前还清设备款项、提前升级至新机型，或在租赁期结束后选择保留设备。部分操作将收取额外费用，与汽车租赁类似，用户也可以在租赁期满后归还设备。",
-      "clean_text": "苹果准备推出硬件租赁计划 欲刺激产品销售苹果正准备推出名为Apple Upgrade的设备租赁计划，这将成为该公司有史以来对硬件销售模式最大规模的调整之一。知情人士表示，这项新服务计划于7月28日上线，支持大多数iPhone、Mac、iPad和Apple Watch机型。苹果将与金融科技公司Klarna Group plc合作，由后者为该计划提供金融支持。该计划初期至少将在美国推出，并同时覆盖苹果线下零售店及官网。Apple Upgrade将采用类似订阅制的模式，用户在租赁期间可提前还清设备款项、提前升级至新机型，或在租赁期结束后选择保留设备。部分操作将收取额外费用，与汽车租赁类似，用户也可以在租赁期满后归还设备。——财联社、彭博社",
-      "datetime": "2026-07-21T23:01:01+00:00",
-      "views": "5.4K",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2433198?sv=8.5.9"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30957",
-      "scraped_at": "2026-07-22T14:01:58.727839",
-      "title": "苹果准备推出硬件租赁计划 欲刺激产品销售苹果正准备推出名为Apple Upgrade",
-      "title_options": {
-        "conclusion": "苹果准备推出硬件租赁计划 欲刺激产品销售苹果正准备推出名为Apple Upgrade",
-        "attractive": "苹果准备推出硬件租赁计划 欲刺激产品销售苹果正准备推出名为Apple Upgrade",
-        "minimal": "苹果准备推出硬件租赁计划 欲刺激产品销售苹果正准备推出名为Apple Upgrade",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42678",
       "channel": "zaihuapd",
       "text": "Fastjson 1.x 被曝无 gadget 高危 RCE 漏洞安全研究人员 Kirill Firsov 披露，Fastjson 1.2.68 至 1.2.83 版本存在高危远程代码执行漏洞。该漏洞无需开启 autoTypeSupport，也无需依赖 classpath gadget，在 JDK 8/17/21 等版本上均可利用。Fastjson 1.x 已于 2024 年 10 月停止维护，官方极大概率不会为此推送安全补丁。报告作者指出，唯一补救措施是升级到 Fastjson2，或在启动参数及配置文件中启用 SafeMode。建议用户立即排查相关依赖，并尽快迁移至仍在维护的 JSON 解析库。Kirill Firsov·茶馆水群·",
@@ -1533,6 +1591,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-23T10:59:28.832074"
+  "count": 61,
+  "updated_at": "2026-07-23T11:04:32.187038"
 }
