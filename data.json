@@ -1283,37 +1283,6 @@
       }
     },
     {
-      "id": "zaihuapd_42722",
-      "channel": "zaihuapd",
-      "text": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密的 HFS+（Mac OS Extended）卷直接转换为加密的 APFS，无需先解密再重新加密。此前，苹果在 2026 年 7 月初表示 macOS 28 将不再支持加密的 HFS+ 卷，用户只能选择解密或抹掉后重新格式化为 APFS。最新指导新增了第三条路径：在磁盘工具中选择目标加密卷后，通过「编辑」菜单执行「转换为 APFS」即可完成直接转换。不过苹果指出，该方案不适用于加密的 Time Machine 备份磁盘。9To5Mac·茶馆水群·",
-      "clean_text": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密的 HFS+（Mac OS Extended）卷直接转换为加密的 APFS，无需先解密再重新加密。此前，苹果在 2026 年 7 月初表示 macOS 28 将不再支持加密的 HFS+ 卷，用户只能选择解密或抹掉后重新格式化为 APFS。最新指导新增了第三条路径：在磁盘工具中选择目标加密卷后，通过「编辑」菜单执行「转换为 APFS」即可完成直接转换。不过苹果指出，该方案不适用于加密的 Time Machine 备份磁盘。9To5Mac·茶馆水群",
-      "datetime": "2026-07-23T03:28:54+00:00",
-      "views": "3.55K",
-      "source_links": [
-        {
-          "text": "9To5Mac",
-          "url": "https://9to5mac.com/2026/07/22/apple-updates-macos-28-guidance-with-direct-encrypted-hfs-to-apfs-conversion/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42722",
-      "scraped_at": "2026-07-23T12:01:49.510321",
-      "title": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
-      "title_options": {
-        "conclusion": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
-        "attractive": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
-        "minimal": "苹果更新 macOS 28 指导：加密 HFS+ 可直接转 APFS苹果已更新 macOS 28 迁移支持文档，允许用户将加密",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1345,6 +1314,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-24T15:25:49.441772"
+  "count": 53,
+  "updated_at": "2026-07-24T15:30:53.214041"
 }
