@@ -1291,29 +1291,6 @@
       }
     },
     {
-      "id": "xhqcankao_30994",
-      "channel": "xhqcankao",
-      "text": "谷歌正在简化从iPhone换机到安卓的流程谷歌周三宣布，Android 17中内置了一项全新的迁移体验，这将使用户更容易从iPhone切换到 Android。谷歌表示，该功能允许用户通过无线方式从iPhone传输更多类型的数据，而无需下载单独的应用程序。通过简化新机引导流程并支持更多数据类型，这家科技巨头正试图降低切换智能手机生态系统的门槛，以期吸引更多iPhone用户。借助这种新方法，用户在从iPhone手机切换到 Android 时，可以传输照片、视频、联系人、信息、日历，及新支持的数据类型，其中包括他们的 Google 账户、密码、Wi-Fi 凭证，甚至他们的eSIM。该升级已开始向部分Pixel设备推送，并且也适用于昨晚发布的三星Galaxy Z Flip8和Z Fold8系列。",
-      "clean_text": "谷歌正在简化从iPhone换机到安卓的流程谷歌周三宣布，Android 17中内置了一项全新的迁移体验，这将使用户更容易从iPhone切换到 Android。谷歌表示，该功能允许用户通过无线方式从iPhone传输更多类型的数据，而无需下载单独的应用程序。通过简化新机引导流程并支持更多数据类型，这家科技巨头正试图降低切换智能手机生态系统的门槛，以期吸引更多iPhone用户。借助这种新方法，用户在从iPhone手机切换到 Android 时，可以传输照片、视频、联系人、信息、日历，及新支持的数据类型，其中包括他们的 Google 账户、密码、Wi-Fi 凭证，甚至他们的eSIM。该升级已开始向部分Pixel设备推送，并且也适用于昨晚发布的三星Galaxy Z Flip8和Z Fold8系列。——Techcrunch",
-      "datetime": "2026-07-23T02:32:56+00:00",
-      "views": "1.43K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30994",
-      "scraped_at": "2026-07-23T11:01:38.113774",
-      "title": "谷歌正在简化从iPhone换机到安卓",
-      "title_options": {
-        "conclusion": "谷歌正在简化从iPhone换机到安卓",
-        "attractive": "谷歌正在简化从iPhone换机到安卓",
-        "minimal": "谷歌正在简化从iPhone换机到安卓",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1345,6 +1322,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-24T14:30:02.476045"
+  "count": 53,
+  "updated_at": "2026-07-24T14:35:05.791155"
 }
