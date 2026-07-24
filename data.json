@@ -1,6 +1,105 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_31033",
+      "channel": "xhqcankao",
+      "text": "Claude语音模式升级 支持更强大AI模型Anthropic公司今日为Claude语音模式推出重大升级，首次加入 Opus 与 Sonnet 模型支持，并新增多项功能。此前语音模式仅限于Haiku模型，偏向即时回应而较少深层思考；现在付费用户可以在语音模式中享受更强大的模型能力，并在对话期间切换模型。新版 Claude 语音模式已于 Anthropic 的移动端、桌面端及网页应用上线。用户可通过官方渠道了解详细操作方式。此次升级显著提升了 Claude 语音模式的实用性，尤其适合需要深度分析与多语言协作的场景。",
+      "clean_text": "Claude语音模式升级 支持更强大AI模型Anthropic公司今日为Claude语音模式推出重大升级，首次加入 Opus 与 Sonnet 模型支持，并新增多项功能。此前语音模式仅限于Haiku模型，偏向即时回应而较少深层思考；现在付费用户可以在语音模式中享受更强大的模型能力，并在对话期间切换模型。新版 Claude 语音模式已于 Anthropic 的移动端、桌面端及网页应用上线。用户可通过官方渠道了解详细操作方式。此次升级显著提升了 Claude 语音模式的实用性，尤其适合需要深度分析与多语言协作的场景。——雅虎新闻、Techcrunch",
+      "datetime": "2026-07-24T07:34:55+00:00",
+      "views": "1.29K",
+      "source_links": [
+        {
+          "text": "雅虎新闻",
+          "url": "https://hk.news.yahoo.com/anthropic-%E7%82%BA-claude-%E8%AA%9E%E9%9F%B3%E6%A8%A1%E5%BC%8F%E5%8D%87%E7%B4%9A-%E6%94%AF%E6%8F%B4%E6%9B%B4%E5%BC%B7%E5%A4%A7%E6%A8%A1%E5%9E%8B-192851984.html"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31033",
+      "scraped_at": "2026-07-24T16:01:27.847588",
+      "title": "Claude语音模式升级 支持更强大A…",
+      "title_options": {
+        "conclusion": "Claude语音模式升级 支持更强大A…",
+        "attractive": "Claude语音模式升级 支持更强大A…",
+        "minimal": "Claude语音模式升级 支持更强大A…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42741",
+      "channel": "zaihuapd",
+      "text": "长鑫年底产能逼近美光 中国将成全球第二大 DRAM 产地  Citrini Research 预测，长鑫存储有望在 2026 年底达到约 35 万片/月的 DRAM 产能，逼近美光的 37.5 万片/月，届时中国将成为全球第二大 DRAM 生产基地。  包括昇维旭、晋华集成和长江存储子公司 XMC 在内的多家企业也在扩产。若全部投产，中国 DRAM 总产能将达 60 万片/月（不含三星、SK 海力士在华工厂）。报告预计，到 2030 年中国总产能将增至约 141 万片/月，长鑫单独可达 95 万片/月。不…",
+      "clean_text": "长鑫年底产能逼近美光 中国将成全球第二大 DRAM 产地  Citrini Research 预测，长鑫存储有望在 2026 年底达到约 35 万片/月的 DRAM 产能，逼近美光的 37.5 万片/月，届时中国将成为全球第二大 DRAM 生产基地。  包括昇维旭、晋华集成和长江存储子公司 XMC 在内的多家企业也在扩产。若全部投产，中国 DRAM 总产能将达 60 万片/月（不含三星、SK 海力士在华工厂）。报告预计，到 2030 年中国总产能将增至约 141 万片/月，长鑫单独可达 95 万片/月。不…",
+      "datetime": "2026-07-24T07:30:00+00:00",
+      "views": "3.73K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42741",
+      "scraped_at": "2026-07-24T16:01:25.545905",
+      "title": "长鑫年底产能逼近美光 中国将成全球第二大 DRAM 产地  Citrini Research 预测，长鑫存储有望在 2026 年底达到约 35 万片/月",
+      "title_options": {
+        "conclusion": "长鑫年底产能逼近美光 中国将成全球第二大 DRAM 产地  Citrini Research 预测，长鑫存储有望在 2026 年底达到约 35 万片/月",
+        "attractive": "长鑫年底产能逼近美光 中国将成全球第二大 DRAM 产地  Citrini Research 预测，长鑫存储有望在 2026 年底达到约 35 万片/月",
+        "minimal": "长鑫年底产能逼近美光 中国将成全球第二大 DRAM 产地  Citrini Research 预测，长鑫存储有望在 2026 年底达到约 35 万片/月",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42740",
+      "channel": "zaihuapd",
+      "text": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude 的语音模式从 Haiku 扩展至性能更强的 Opus 和 Sonnet 模型，并新增 Gmail、Slack、Canva 等第三方应用接入，可代用户执行把对话整理成提案、因火车晚点调整日程等操作。用户还能在对话中途自由切换文字与语音模式及不同模型。公司表示，2025 年推出语音模式后，用户很快将其用于解决实际业务问题，而 Haiku 难以胜任深度对话。此外，语音模式正式新增法语、德语、西班牙语、印地语、印尼语、意大利语、日语、韩语和葡萄牙语支持，此前非英语语言仅限测试版。The Verge·茶馆水群·",
+      "clean_text": "🤖Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude 的语音模式从 Haiku 扩展至性能更强的 Opus 和 Sonnet 模型，并新增 Gmail、Slack、Canva 等第三方应用接入，可代用户执行把对话整理成提案、因火车晚点调整日程等操作。用户还能在对话中途自由切换文字与语音模式及不同模型。公司表示，2025 年推出语音模式后，用户很快将其用于解决实际业务问题，而 Haiku 难以胜任深度对话。此外，语音模式正式新增法语、德语、西班牙语、印地语、印尼语、意大利语、日语、韩语和葡萄牙语支持，此前非英语语言仅限测试版。The Verge·茶馆水群",
+      "datetime": "2026-07-24T07:03:32+00:00",
+      "views": "5.4K",
+      "source_links": [
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42740",
+      "scraped_at": "2026-07-24T16:01:25.545260",
+      "title": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
+      "title_options": {
+        "conclusion": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
+        "attractive": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
+        "minimal": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31032",
+      "channel": "xhqcankao",
+      "text": "调查：更多美国人认为中国领导世界AI发展最新调查显示，有超过三分之一的美国人认为，中国是世界AI发展的领导者。皮尤研究中心周四发布的民调显示，有36%美国人认为中国在世界AI发展方面领先美国，12%美国人认为美国处于领先，18%认为中美两国发展均衡，33%则不确定哪个国家领先。对于美国领导世界人工智能发展有多重要的提问，43%美国人认为极为/非常重要，34%认为有点重要，22% 则认为不太/完全不重要。在外界关注世界各地接触AI机会不均等的背景下，51%美国人认为AI将拉大富裕和贫穷国家之间的差距，16%认为没有多大影响， 7% 认为将缩小富裕和贫穷国家之间的差距。25%受访者表示不知道。",
+      "clean_text": "调查：更多美国人认为中国领导世界AI发展最新调查显示，有超过三分之一的美国人认为，中国是世界AI发展的领导者。皮尤研究中心周四发布的民调显示，有36%美国人认为中国在世界AI发展方面领先美国，12%美国人认为美国处于领先，18%认为中美两国发展均衡，33%则不确定哪个国家领先。对于美国领导世界人工智能发展有多重要的提问，43%美国人认为极为/非常重要，34%认为有点重要，22% 则认为不太/完全不重要。在外界关注世界各地接触AI机会不均等的背景下，51%美国人认为AI将拉大富裕和贫穷国家之间的差距，16%认为没有多大影响， 7% 认为将缩小富裕和贫穷国家之间的差距。25%受访者表示不知道。——联合早报",
+      "datetime": "2026-07-24T07:01:48+00:00",
+      "views": "2.43K",
+      "source_links": [
+        {
+          "text": "联合早报",
+          "url": "https://www.zaobao.com.sg/news/china/story20260724-9413215"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31032",
+      "scraped_at": "2026-07-24T16:01:27.847184",
+      "title": "调查：更多美国人认为中国领导世界AI发展最新调查显示，有超过三分之一",
+      "title_options": {
+        "conclusion": "调查：更多美国人认为中国领导世界AI发展最新调查显示，有超过三分之一",
+        "attractive": "调查：更多美国人认为中国领导世界AI发展最新调查显示，有超过三分之一",
+        "minimal": "调查：更多美国人认为中国领导世界AI发展最新调查显示，有超过三分之一",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42739",
       "channel": "zaihuapd",
       "text": "OpenAI 向全美用户开放 ChatGPT Health 健康功能OpenAI 于 2026 年 7 月 23 日宣布，向所有 18 岁以上美国用户开放 ChatGPT Health 功能，覆盖免费到 Pro 的全部订阅计划。用户可整合 Apple Health、MyFitnessPal 等健康数据，以及 Epic、Oracle Health 等医疗记录，并在所有对话中调用这些信息。公司称每周健康查询已达 3 亿次，测试期间 70% 的此类查询发生在专属健康中心之外。TechCrunch求我用我都不用，我有蚂蚁阿福，还送1分钱的电子秤·茶馆水群·",
@@ -1219,24 +1318,6 @@
       }
     },
     {
-      "id": "zaihuapd_42723",
-      "channel": "zaihuapd",
-      "text": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉的中国开放权重模型  Axios 援引知情人士报道，因近期中国开放权重模型 Kimi K3 的强势崛起，特朗普政府正重新推动限制美国企业使用中国 AI 模型。在此之前，美国商务部、美国国安局与白宫国家网络主任办公室等曾限制或警告过相关事宜，然相关举措均被主张放松监管的官员拦下。  知情人士称，政府未必会实施硬性封禁，而是借繁文缛节，如采购规则、实体清单威胁和舆论等软性封锁，让美企弃用更便宜、性能已接近美国产品的中国开源模型。白宫外部…",
-      "clean_text": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉的中国开放权重模型  Axios 援引知情人士报道，因近期中国开放权重模型 Kimi K3 的强势崛起，特朗普政府正重新推动限制美国企业使用中国 AI 模型。在此之前，美国商务部、美国国安局与白宫国家网络主任办公室等曾限制或警告过相关事宜，然相关举措均被主张放松监管的官员拦下。  知情人士称，政府未必会实施硬性封禁，而是借繁文缛节，如采购规则、实体清单威胁和舆论等软性封锁，让美企弃用更便宜、性能已接近美国产品的中国开源模型。白宫外部…",
-      "datetime": "2026-07-23T04:03:54+00:00",
-      "views": "5.04K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42723",
-      "scraped_at": "2026-07-23T13:00:53.033934",
-      "title": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
-      "title_options": {
-        "conclusion": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
-        "attractive": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
-        "minimal": "因 Kimi K3 模型表现强劲，特朗普政府被曝酝酿限制美国企业使用相对物美价廉",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1268,6 +1349,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-24T16:01:22.396603"
+  "count": 54,
+  "updated_at": "2026-07-24T16:06:29.637311"
 }
