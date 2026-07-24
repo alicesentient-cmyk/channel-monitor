@@ -1237,29 +1237,6 @@
       }
     },
     {
-      "id": "xhqcankao_30997",
-      "channel": "xhqcankao",
-      "text": "微软正在将初代Xbox游戏移植到PC平台微软公司今天宣布扩大其 Xbox 向后兼容计划，将初代 Xbox 游戏移植到 PC 平台。四款经典的 Xbox 游戏今天将率先在 PC 上推出预览版，这是未来将更多 Xbox 主机游戏移植到 PC 平台的更大计划的一部分。首批四款游戏分别是《霹雳酷炫猫》、《松鼠爆破》、《王牌飞行员：复仇大道》以及《疯狂大乱斗》。你将能够在PC上购买和下载这些游戏中的每一款，并且它们也将包含在所有Xbox Game Pass套餐中。如果你已经拥有这些游戏的数字版，现在也可在 PC 或Xbox Ally和Xbox Ally X等掌机上畅玩。",
-      "clean_text": "微软正在将初代Xbox游戏移植到PC平台微软公司今天宣布扩大其 Xbox 向后兼容计划，将初代 Xbox 游戏移植到 PC 平台。四款经典的 Xbox 游戏今天将率先在 PC 上推出预览版，这是未来将更多 Xbox 主机游戏移植到 PC 平台的更大计划的一部分。首批四款游戏分别是《霹雳酷炫猫》、《松鼠爆破》、《王牌飞行员：复仇大道》以及《疯狂大乱斗》。你将能够在PC上购买和下载这些游戏中的每一款，并且它们也将包含在所有Xbox Game Pass套餐中。如果你已经拥有这些游戏的数字版，现在也可在 PC 或Xbox Ally和Xbox Ally X等掌机上畅玩。——Theverge",
-      "datetime": "2026-07-23T04:00:53+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30997",
-      "scraped_at": "2026-07-23T12:01:51.309203",
-      "title": "微软正在将初代Xbox游戏移植到PC平…",
-      "title_options": {
-        "conclusion": "微软正在将初代Xbox游戏移植到PC平…",
-        "attractive": "微软正在将初代Xbox游戏移植到PC平…",
-        "minimal": "微软正在将初代Xbox游戏移植到PC平…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1291,6 +1268,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-07-24T15:56:17.958926"
+  "count": 51,
+  "updated_at": "2026-07-24T16:01:22.396603"
 }
