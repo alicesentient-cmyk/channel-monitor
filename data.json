@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42751",
+      "channel": "zaihuapd",
+      "text": "Telegram 被曝存在零点击崩溃漏洞，桌面版已静默修复安全研究人员披露，Kimi K3 在 Telegram 客户端中发现了一个零点击漏洞。据目前公开信息，该漏洞可能影响 Telegram Desktop 和 iOS 客户端，攻击者可通过特制消息导致客户端内存耗尽并崩溃。Telegram Desktop 已发布新版并完成修复，但更新日志中没有明确提及该漏洞。研究人员还公开了测试机器人@kimifuckingbot，用于触发并验证崩溃问题。该机器人具有实际破坏性，不建议使用主账号或未更新的客户端测试。建议桌面端用户立即更新至最新版本；iOS 用户也应及时检查 App Store 更新。在官方确认前，应避免使用长期未同步上游代码的第三方 Telegram 客户端。原文|测试机器人|桌面版更新·茶馆水群·",
+      "clean_text": "Telegram 被曝存在零点击崩溃漏洞，桌面版已静默修复安全研究人员披露，Kimi K3 在 Telegram 客户端中发现了一个零点击漏洞。据目前公开信息，该漏洞可能影响 Telegram Desktop 和 iOS 客户端，攻击者可通过特制消息导致客户端内存耗尽并崩溃。Telegram Desktop 已发布新版并完成修复，但更新日志中没有明确提及该漏洞。研究人员还公开了测试机器人@kimifuckingbot，用于触发并验证崩溃问题。该机器人具有实际破坏性，不建议使用主账号或未更新的客户端测试。建议桌面端用户立即更新至最新版本；iOS 用户也应及时检查 App Store 更新。在官方确认前，应避免使用长期未同步上游代码的第三方 Telegram 客户端。原文|测试机器人|桌面版更新·茶馆水群",
+      "datetime": "2026-07-24T15:06:19+00:00",
+      "views": "6.12K",
+      "source_links": [
+        {
+          "text": "原文",
+          "url": "https://x.com/Fried_rice/status/2080200610985689222"
+        },
+        {
+          "text": "桌面版更新",
+          "url": "https://github.com/telegramdesktop/tdesktop/releases"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42751",
+      "scraped_at": "2026-07-25T00:07:26.579973",
+      "title": "Telegram 被曝存在零点击崩溃漏…",
+      "title_options": {
+        "conclusion": "Telegram 被曝存在零点击崩溃漏…",
+        "attractive": "Telegram 被曝存在零点击崩溃漏…",
+        "minimal": "Telegram 被曝存在零点击崩溃漏…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42750",
       "channel": "zaihuapd",
       "text": "英伟达通知 AIC 涨价，显卡厂商暂停出货英伟达已向所有 AIC 合作伙伴发出显卡涨价通知，具体执行政策将在 8 月确定。受此影响，各大显卡品牌代工厂已封仓并暂停对外出货，RTX 50 系列供应量将从 7 月下旬起进一步收紧。此次涨价覆盖 GDDR7 显存的 Blackwell 旗舰产品线，以及采用 GDDR6 显存的 GeForce 消费级产品线。供应链称，8 GB、12 GB 和 16 GB 显卡的显存成本分别增加约 76 美元、114 美元和 152 美元；RTX 50 SUPER 系列也因 GDDR7 采购价过高而暂缓发售。快科技·茶馆水群·",
@@ -1290,6 +1325,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-07-25T00:03:43.883754"
+  "count": 54,
+  "updated_at": "2026-07-25T00:08:48.959747"
 }
