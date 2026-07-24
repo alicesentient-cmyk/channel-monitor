@@ -1295,29 +1295,6 @@
       }
     },
     {
-      "id": "xhqcankao_30998",
-      "channel": "xhqcankao",
-      "text": "苹果正测试搭载更大内存的MacBook Neo鉴于 MacBook Neo 笔记本电脑目前所取得的巨大成功，苹果公司正在开发这款平价笔记本电脑的升级版本，搭载新处理器和更大内存，甚至计划推出全新配色。继今年早些时候分析师Tim Culpan的类似报告之后，彭博社记者马克·古尔曼表示，新款Neo将搭载A19 Pro处理器，该处理器目前也用于 iPhone 17 Pro/Pro Max 和 iPhone Air 机型，而当前的笔记本电脑则使用最初搭载于 iPhone 16 Pro 的 A18 Pro 处理器。芯片升级也意味着更新后的 MacBook Neo 可能拥有更大的内存，很可能从最初的8GB提升至 12GB。但持续的零部件短缺几乎必然意味着下一代Neo价格将高于初代。",
-      "clean_text": "苹果正测试搭载更大内存的MacBook Neo鉴于 MacBook Neo 笔记本电脑目前所取得的巨大成功，苹果公司正在开发这款平价笔记本电脑的升级版本，搭载新处理器和更大内存，甚至计划推出全新配色。继今年早些时候分析师Tim Culpan的类似报告之后，彭博社记者马克·古尔曼表示，新款Neo将搭载A19 Pro处理器，该处理器目前也用于 iPhone 17 Pro/Pro Max 和 iPhone Air 机型，而当前的笔记本电脑则使用最初搭载于 iPhone 16 Pro 的 A18 Pro 处理器。芯片升级也意味着更新后的 MacBook Neo 可能拥有更大的内存，很可能从最初的8GB提升至 12GB。但持续的零部件短缺几乎必然意味着下一代Neo价格将高于初代。——Theverge",
-      "datetime": "2026-07-23T04:31:31+00:00",
-      "views": "1.24K",
-      "source_links": [
-        {
-          "text": "Theverge",
-          "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/30998",
-      "scraped_at": "2026-07-23T13:00:55.516280",
-      "title": "苹果正测试搭载更大内存",
-      "title_options": {
-        "conclusion": "苹果正测试搭载更大内存",
-        "attractive": "苹果正测试搭载更大内存",
-        "minimal": "苹果正测试搭载更大内存",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1349,6 +1326,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-24T16:26:47.587725"
+  "count": 53,
+  "updated_at": "2026-07-24T16:31:54.555880"
 }
