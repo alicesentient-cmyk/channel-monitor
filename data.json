@@ -723,41 +723,6 @@
       }
     },
     {
-      "id": "zaihuapd_42751",
-      "channel": "zaihuapd",
-      "text": "Telegram 被曝存在零点击崩溃漏洞，桌面版已静默修复安全研究人员披露，Kimi K3 在 Telegram 客户端中发现了一个零点击漏洞。据目前公开信息，该漏洞可能影响 Telegram Desktop 和 iOS 客户端，攻击者可通过特制消息导致客户端内存耗尽并崩溃。Telegram Desktop 已发布新版并完成修复，但更新日志中没有明确提及该漏洞。研究人员还公开了测试机器人@kimifuckingbot，用于触发并验证崩溃问题。该机器人具有实际破坏性，不建议使用主账号或未更新的客户端测试。建议桌面端用户立即更新至最新版本；iOS 用户也应及时检查 App Store 更新。在官方确认前，应避免使用长期未同步上游代码的第三方 Telegram 客户端。原文|测试机器人|桌面版更新·茶馆水群·",
-      "clean_text": "Telegram 被曝存在零点击崩溃漏洞，桌面版已静默修复安全研究人员披露，Kimi K3 在 Telegram 客户端中发现了一个零点击漏洞。据目前公开信息，该漏洞可能影响 Telegram Desktop 和 iOS 客户端，攻击者可通过特制消息导致客户端内存耗尽并崩溃。Telegram Desktop 已发布新版并完成修复，但更新日志中没有明确提及该漏洞。研究人员还公开了测试机器人@kimifuckingbot，用于触发并验证崩溃问题。该机器人具有实际破坏性，不建议使用主账号或未更新的客户端测试。建议桌面端用户立即更新至最新版本；iOS 用户也应及时检查 App Store 更新。在官方确认前，应避免使用长期未同步上游代码的第三方 Telegram 客户端。原文|测试机器人|桌面版更新·茶馆水群",
-      "datetime": "2026-07-24T15:06:19+00:00",
-      "views": "6.12K",
-      "source_links": [
-        {
-          "text": "原文",
-          "url": "https://x.com/Fried_rice/status/2080200610985689222"
-        },
-        {
-          "text": "桌面版更新",
-          "url": "https://github.com/telegramdesktop/tdesktop/releases"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42751",
-      "scraped_at": "2026-07-25T00:07:26.579973",
-      "title": "Telegram 被曝存在零点击崩溃漏…",
-      "title_options": {
-        "conclusion": "Telegram 被曝存在零点击崩溃漏…",
-        "attractive": "Telegram 被曝存在零点击崩溃漏…",
-        "minimal": "Telegram 被曝存在零点击崩溃漏…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -820,6 +785,6 @@
       }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-07-26T03:05:41.461235"
+  "count": 31,
+  "updated_at": "2026-07-26T03:10:40.317453"
 }
