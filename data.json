@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42768",
+      "channel": "zaihuapd",
+      "text": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构的第七代 EPYC 处理器“Florence”将在 2028 年推出，提供 Zen 7 和面向高密度计算的 Zen 7c 核心，并支持新一代 MRDIMM、LPDDR 内存及 AI 计算扩展。Florence 将覆盖 SP7 和 SP8 平台，用于下一代“Ferrara”AI 机架系统。AMD 还披露，Zen 8 架构已进入开发阶段，首款产品为计划 2030 年发布的第八代 EPYC 处理器“Ravenna”，具体制程、核心数量和内存规格尚未公布。TechSpot·茶馆水群·",
+      "clean_text": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构的第七代 EPYC 处理器“Florence”将在 2028 年推出，提供 Zen 7 和面向高密度计算的 Zen 7c 核心，并支持新一代 MRDIMM、LPDDR 内存及 AI 计算扩展。Florence 将覆盖 SP7 和 SP8 平台，用于下一代“Ferrara”AI 机架系统。AMD 还披露，Zen 8 架构已进入开发阶段，首款产品为计划 2030 年发布的第八代 EPYC 处理器“Ravenna”，具体制程、核心数量和内存规格尚未公布。TechSpot·茶馆水群",
+      "datetime": "2026-07-25T14:05:21+00:00",
+      "views": "4.35K",
+      "source_links": [
+        {
+          "text": "TechSpot",
+          "url": "https://www.techspot.com/news/113233-amd-confirms-zen-7-epyc-florence-2028-previews.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42768",
+      "scraped_at": "2026-07-25T23:00:56.501405",
+      "title": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
+      "title_options": {
+        "conclusion": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
+        "attractive": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
+        "minimal": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42767",
       "channel": "zaihuapd",
       "text": "市场监管总局对携程罚没 51.79 亿元  7 月 25 日，国家市场监督管理总局依据反垄断法，对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，没收违法所得 16.58 亿元，并处以罚款 35.21 亿元，罚没款合计 51.79 亿元。  监管部门责令携程立即停止违法行为，全额退还强制扣除酒店经营者的订单储备金 1.22 亿元，并要求其全面整改、公开整改措施。  新华网  携程回应：诚恳接受国家市场监督管理总局行政处罚决定 逐项推进、系统落实各项整改工作。 · 茶馆水群 ·",
@@ -908,29 +939,6 @@
       }
     },
     {
-      "id": "xhqcankao_31039",
-      "channel": "xhqcankao",
-      "text": "欧盟因TikTok缺乏儿童隐私保护而升级调查欧盟根据其内容审核规则手册升级了对短视频平台TikTok的调查，指责该社交网络未能保护青少年用户的安全和隐私。欧盟委员会周五公布了针对这家字节跳动旗下平台的初步调查结果，调查依据数字服务法。欧盟委员会表示，TikTok为18岁以下用户定制的账户可以被其他在线用户轻易找到和查看。该委员会在关于该决定的声明中写道，青少年用户的头像照片“仍然对任何人可访问，包括没有TikTok账户的用户。TikTok的设置继续使他们面临风险",
-      "clean_text": "欧盟因TikTok缺乏儿童隐私保护而升级调查欧盟根据其内容审核规则手册升级了对短视频平台TikTok的调查，指责该社交网络未能保护青少年用户的安全和隐私。欧盟委员会周五公布了针对这家字节跳动旗下平台的初步调查结果，调查依据数字服务法。欧盟委员会表示，TikTok为18岁以下用户定制的账户可以被其他在线用户轻易找到和查看。该委员会在关于该决定的声明中写道，青少年用户的头像照片“仍然对任何人可访问，包括没有TikTok账户的用户。TikTok的设置继续使他们面临风险 —— 包括不受欢迎的联系、网络欺凌或掠夺性行为。”数字服务法的指导方针规定，社交平台上的儿童账户不应被其网络之外的人查看。——彭博社",
-      "datetime": "2026-07-24T10:59:17+00:00",
-      "views": "161",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-24/eu-escalates-tiktok-probe-over-lack-of-teen-privacy-protections"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31039",
-      "scraped_at": "2026-07-24T19:01:31.472461",
-      "title": "欧盟因TikTok缺乏儿童隐私保护而升级调查欧盟根据其内容审核规则手册升级了对短视频平台TikTok",
-      "title_options": {
-        "conclusion": "欧盟因TikTok缺乏儿童隐私保护而升级调查欧盟根据其内容审核规则手册升级了对短视频平台TikTok",
-        "attractive": "欧盟因TikTok缺乏儿童隐私保护而升级调查欧盟根据其内容审核规则手册升级了对短视频平台TikTok",
-        "minimal": "欧盟因TikTok缺乏儿童隐私保护而升级调查欧盟根据其内容审核规则手册升级了对短视频平台TikTok",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -994,5 +1002,5 @@
     }
   ],
   "count": 40,
-  "updated_at": "2026-07-25T22:57:07.463739"
+  "updated_at": "2026-07-25T23:02:13.973564"
 }
