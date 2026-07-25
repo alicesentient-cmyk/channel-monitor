@@ -1446,33 +1446,6 @@
       }
     },
     {
-      "id": "xhqcankao_31020",
-      "channel": "xhqcankao",
-      "text": "TikTok测试付费短剧App：周订阅20美元TikTok正在美国测试一款名为LimeShorts的付费短剧应用，进一步加码近年来快速增长的微短剧市场。该应用自三月开始测试，采用 “免费+付费” 的商业模式，用户可支付每周20美元或每年200美元订阅全部内容，也可通过购买虚拟金币按集解锁观看。LimeShorts 主打时长约1至5分钟的竖屏短剧，涵盖喜剧、爱情、悬疑等题材。目前平台内容全部来自第三方合作伙伴。TikTok发言人在声明中称，公司仍在测试不同的定价方案，未来收费标准可能调整。值得注意的是，LimeShorts取代了字节跳动此前推出的小说阅读应用Mytopia，并已上线美国应用商店，成为TikTok布局短剧业务的新尝试。",
-      "clean_text": "TikTok测试付费短剧App：周订阅20美元TikTok正在美国测试一款名为LimeShorts的付费短剧应用，进一步加码近年来快速增长的微短剧市场。该应用自三月开始测试，采用 “免费+付费” 的商业模式，用户可支付每周20美元或每年200美元订阅全部内容，也可通过购买虚拟金币按集解锁观看。LimeShorts 主打时长约1至5分钟的竖屏短剧，涵盖喜剧、爱情、悬疑等题材。目前平台内容全部来自第三方合作伙伴。TikTok发言人在声明中称，公司仍在测试不同的定价方案，未来收费标准可能调整。值得注意的是，LimeShorts取代了字节跳动此前推出的小说阅读应用Mytopia，并已上线美国应用商店，成为TikTok布局短剧业务的新尝试。——凤凰网科技、商业内幕",
-      "datetime": "2026-07-24T01:03:55+00:00",
-      "views": "425",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006zcydfG5P-_gVYeRZGvmMvkmwJ--6OL7NO1QLIX4l7McpUYM5y7ry1wTWAPP86mMBb4"
-        },
-        {
-          "text": "商业内幕",
-          "url": "https://www.businessinsider.com/tiktok-testing-paid-micro-drama-app-costs-20-a-month-2026-7"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31020",
-      "scraped_at": "2026-07-24T09:12:38.329472",
-      "title": "TikTok测试付费短剧App：周订阅20美元TikTok正在美国测试一款名为LimeShorts",
-      "title_options": {
-        "conclusion": "TikTok测试付费短剧App：周订阅20美元TikTok正在美国测试一款名为LimeShorts",
-        "attractive": "TikTok测试付费短剧App：周订阅20美元TikTok正在美国测试一款名为LimeShorts",
-        "minimal": "TikTok测试付费短剧App：周订阅20美元TikTok正在美国测试一款名为LimeShorts",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1504,6 +1477,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-25T13:03:08.117553"
+  "count": 60,
+  "updated_at": "2026-07-25T13:08:11.889702"
 }
