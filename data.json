@@ -1266,29 +1266,6 @@
       }
     },
     {
-      "id": "xhqcankao_31028",
-      "channel": "xhqcankao",
-      "text": "谷歌Gemini即将达到10亿用户的里程碑谷歌即将在其拥有超过十亿用户的产品列表中再添一个名字，该列表已包括搜索、云端硬盘、安卓、Gmail、YouTube和Chrome。谷歌公司在其2026年第二季度电话会议中表示，AI 助手Gemini现在拥有超过9.5亿月活跃用户。该公司指出，Gemini用户较去年增长了两倍。早些时候，在二月，该公司表示Gemini应用跨过了7.5亿月活跃用户大关。“用户喜爱新的智能体功能，如Daily Brief和我们的个性化智能体Gemini Spark，后者现已在美国和国际上可用。我们一直以惊人的速度推出像这样有用的新功能，”Alphabet CEO Sundar Pichai在电话会议中表示。",
-      "clean_text": "谷歌Gemini即将达到10亿用户的里程碑谷歌即将在其拥有超过十亿用户的产品列表中再添一个名字，该列表已包括搜索、云端硬盘、安卓、Gmail、YouTube和Chrome。谷歌公司在其2026年第二季度电话会议中表示，AI 助手Gemini现在拥有超过9.5亿月活跃用户。该公司指出，Gemini用户较去年增长了两倍。早些时候，在二月，该公司表示Gemini应用跨过了7.5亿月活跃用户大关。“用户喜爱新的智能体功能，如Daily Brief和我们的个性化智能体Gemini Spark，后者现已在美国和国际上可用。我们一直以惊人的速度推出像这样有用的新功能，”Alphabet CEO Sundar Pichai在电话会议中表示。——Techcrunch",
-      "datetime": "2026-07-24T05:00:39+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31028",
-      "scraped_at": "2026-07-24T13:01:25.447189",
-      "title": "谷歌Gemini即将达到10亿用户",
-      "title_options": {
-        "conclusion": "谷歌Gemini即将达到10亿用户",
-        "attractive": "谷歌Gemini即将达到10亿用户",
-        "minimal": "谷歌Gemini即将达到10亿用户",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1351,6 +1328,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-07-25T16:56:16.288471"
+  "count": 54,
+  "updated_at": "2026-07-25T17:01:20.354718"
 }
