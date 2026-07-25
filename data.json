@@ -1084,29 +1084,6 @@
       }
     },
     {
-      "id": "xhqcankao_31035",
-      "channel": "xhqcankao",
-      "text": "GeekBench 7发布 测试更贴近真实场景Primate Labs 今天宣布推出了Geekbench 7，这是这款流行的 CPU 和 GPU 性能基准测试套件的最新版本。Geekbench 7中有一个重新设计的多核基准测试，旨在更好地体现应用在真实场景中的工作方式。公告称，用户可以期待多核得分，它能更相关地衡量设备在执行实际工作时的表现。此外，重新设计的GPU基准测试重点关注机器学习和内容创作，以反映当前使用方式。GPU基准测试包含跟踪面部并将实时滤镜效果应用于视频、使用机器学习放大图像及在视频会议流中模糊背景的测试。新增GPU图像编辑和合成测试，例如RAW图像处理、基于LUT的视频调色、路径追踪和流体模拟。",
-      "clean_text": "GeekBench 7发布 测试更贴近真实场景Primate Labs 今天宣布推出了Geekbench 7，这是这款流行的 CPU 和 GPU 性能基准测试套件的最新版本。Geekbench 7中有一个重新设计的多核基准测试，旨在更好地体现应用在真实场景中的工作方式。公告称，用户可以期待多核得分，它能更相关地衡量设备在执行实际工作时的表现。此外，重新设计的GPU基准测试重点关注机器学习和内容创作，以反映当前使用方式。GPU基准测试包含跟踪面部并将实时滤镜效果应用于视频、使用机器学习放大图像及在视频会议流中模糊背景的测试。新增GPU图像编辑和合成测试，例如RAW图像处理、基于LUT的视频调色、路径追踪和流体模拟。——Macrumors",
-      "datetime": "2026-07-24T08:29:22+00:00",
-      "views": "1.49K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31035",
-      "scraped_at": "2026-07-24T17:02:09.314602",
-      "title": "GeekBench 7发布 测试更贴近真实场景Primate Labs 今天宣布推出了Geekbench 7，这是这款流行",
-      "title_options": {
-        "conclusion": "GeekBench 7发布 测试更贴近真实场景Primate Labs 今天宣布推出了Geekbench 7，这是这款流行",
-        "attractive": "GeekBench 7发布 测试更贴近真实场景Primate Labs 今天宣布推出了Geekbench 7，这是这款流行",
-        "minimal": "GeekBench 7发布 测试更贴近真实场景Primate Labs 今天宣布推出了Geekbench 7，这是这款流行",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1169,6 +1146,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-07-25T20:24:38.280944"
+  "count": 46,
+  "updated_at": "2026-07-25T20:29:41.533779"
 }
