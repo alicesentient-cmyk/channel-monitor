@@ -1175,37 +1175,6 @@
       }
     },
     {
-      "id": "zaihuapd_42740",
-      "channel": "zaihuapd",
-      "text": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude 的语音模式从 Haiku 扩展至性能更强的 Opus 和 Sonnet 模型，并新增 Gmail、Slack、Canva 等第三方应用接入，可代用户执行把对话整理成提案、因火车晚点调整日程等操作。用户还能在对话中途自由切换文字与语音模式及不同模型。公司表示，2025 年推出语音模式后，用户很快将其用于解决实际业务问题，而 Haiku 难以胜任深度对话。此外，语音模式正式新增法语、德语、西班牙语、印地语、印尼语、意大利语、日语、韩语和葡萄牙语支持，此前非英语语言仅限测试版。The Verge·茶馆水群·",
-      "clean_text": "🤖Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude 的语音模式从 Haiku 扩展至性能更强的 Opus 和 Sonnet 模型，并新增 Gmail、Slack、Canva 等第三方应用接入，可代用户执行把对话整理成提案、因火车晚点调整日程等操作。用户还能在对话中途自由切换文字与语音模式及不同模型。公司表示，2025 年推出语音模式后，用户很快将其用于解决实际业务问题，而 Haiku 难以胜任深度对话。此外，语音模式正式新增法语、德语、西班牙语、印地语、印尼语、意大利语、日语、韩语和葡萄牙语支持，此前非英语语言仅限测试版。The Verge·茶馆水群",
-      "datetime": "2026-07-24T07:03:32+00:00",
-      "views": "5.4K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42740",
-      "scraped_at": "2026-07-24T16:01:25.545260",
-      "title": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
-      "title_options": {
-        "conclusion": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
-        "attractive": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
-        "minimal": "Claude 语音模式扩展至 Opus 与 Sonnet 模型Anthropic 将 Claude ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1268,6 +1237,6 @@
       }
     }
   ],
-  "count": 51,
-  "updated_at": "2026-07-25T19:03:09.287878"
+  "count": 50,
+  "updated_at": "2026-07-25T19:08:13.224671"
 }
