@@ -1130,33 +1130,6 @@
       }
     },
     {
-      "id": "xhqcankao_31033",
-      "channel": "xhqcankao",
-      "text": "Claude语音模式升级 支持更强大AI模型Anthropic公司今日为Claude语音模式推出重大升级，首次加入 Opus 与 Sonnet 模型支持，并新增多项功能。此前语音模式仅限于Haiku模型，偏向即时回应而较少深层思考；现在付费用户可以在语音模式中享受更强大的模型能力，并在对话期间切换模型。新版 Claude 语音模式已于 Anthropic 的移动端、桌面端及网页应用上线。用户可通过官方渠道了解详细操作方式。此次升级显著提升了 Claude 语音模式的实用性，尤其适合需要深度分析与多语言协作的场景。",
-      "clean_text": "Claude语音模式升级 支持更强大AI模型Anthropic公司今日为Claude语音模式推出重大升级，首次加入 Opus 与 Sonnet 模型支持，并新增多项功能。此前语音模式仅限于Haiku模型，偏向即时回应而较少深层思考；现在付费用户可以在语音模式中享受更强大的模型能力，并在对话期间切换模型。新版 Claude 语音模式已于 Anthropic 的移动端、桌面端及网页应用上线。用户可通过官方渠道了解详细操作方式。此次升级显著提升了 Claude 语音模式的实用性，尤其适合需要深度分析与多语言协作的场景。——雅虎新闻、Techcrunch",
-      "datetime": "2026-07-24T07:34:55+00:00",
-      "views": "1.29K",
-      "source_links": [
-        {
-          "text": "雅虎新闻",
-          "url": "https://hk.news.yahoo.com/anthropic-%E7%82%BA-claude-%E8%AA%9E%E9%9F%B3%E6%A8%A1%E5%BC%8F%E5%8D%87%E7%B4%9A-%E6%94%AF%E6%8F%B4%E6%9B%B4%E5%BC%B7%E5%A4%A7%E6%A8%A1%E5%9E%8B-192851984.html"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31033",
-      "scraped_at": "2026-07-24T16:01:27.847588",
-      "title": "Claude语音模式升级 支持更强大A…",
-      "title_options": {
-        "conclusion": "Claude语音模式升级 支持更强大A…",
-        "attractive": "Claude语音模式升级 支持更强大A…",
-        "minimal": "Claude语音模式升级 支持更强大A…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1219,6 +1192,6 @@
       }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-07-25T19:33:34.524878"
+  "count": 48,
+  "updated_at": "2026-07-25T19:38:39.821261"
 }
