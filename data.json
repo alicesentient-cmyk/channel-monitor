@@ -674,37 +674,6 @@
       }
     },
     {
-      "id": "zaihuapd_42755",
-      "channel": "zaihuapd",
-      "text": "Anthropic 发布 Claude Opus 5：性能接近 Fable 5，价格仅为其一半Anthropic 正式推出 Claude Opus 5。该模型在智能水平上接近旗舰 Claude Fable 5，但使用成本仅为后者的一半，定价与上一代 Opus 4.8 持平。Opus 5 即日起成为 Claude Max 的默认模型，也是 Claude Pro 上最强的模型。在 Frontier-Bench、ARC-AGI 3、Zapier AutomationBench 等多项基准测试中，Opus 5 均刷新纪录，编码和知识工作任务表现远超 Opus 4.8。在网络安全任务上，该模型仍落后于 Mythos 5。AnthropicAIps: Agentic coding 处 53.4% > 53.5%（官网已 OTA）·茶馆水群·",
-      "clean_text": "🤖Anthropic 发布 Claude Opus 5：性能接近 Fable 5，价格仅为其一半Anthropic 正式推出 Claude Opus 5。该模型在智能水平上接近旗舰 Claude Fable 5，但使用成本仅为后者的一半，定价与上一代 Opus 4.8 持平。Opus 5 即日起成为 Claude Max 的默认模型，也是 Claude Pro 上最强的模型。在 Frontier-Bench、ARC-AGI 3、Zapier AutomationBench 等多项基准测试中，Opus 5 均刷新纪录，编码和知识工作任务表现远超 Opus 4.8。在网络安全任务上，该模型仍落后于 Mythos 5。AnthropicAIps: Agentic coding 处 53.4% > 53.5%🌚（官网已 OTA）·茶馆水群",
-      "datetime": "2026-07-24T17:03:58+00:00",
-      "views": "3.44K",
-      "source_links": [
-        {
-          "text": "AnthropicAI",
-          "url": "https://www.anthropic.com/news/claude-opus-5"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42755",
-      "scraped_at": "2026-07-25T02:01:42.580424",
-      "title": "Anthropic 发布 Claude…",
-      "title_options": {
-        "conclusion": "Anthropic 发布 Claude…",
-        "attractive": "Anthropic 发布 Claude…",
-        "minimal": "Anthropic 发布 Claude…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -767,6 +736,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-26T05:01:58.186007"
+  "count": 29,
+  "updated_at": "2026-07-26T05:07:00.926708"
 }
