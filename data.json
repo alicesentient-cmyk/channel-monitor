@@ -1334,37 +1334,6 @@
       }
     },
     {
-      "id": "zaihuapd_42736",
-      "channel": "zaihuapd",
-      "text": "TikTok 测试付费短剧应用 LimeShortsTikTok 正在美国测试付费短剧应用 LimeShorts。该应用自 2026 年 3 月开始测试，采用免费加付费模式，用户可按周支付 20 美元、按年支付 200 美元订阅全部内容，也可购买虚拟金币按集解锁。平台主打 1 至 5 分钟的竖屏短剧，内容来自第三方合作伙伴，TikTok 表示定价仍可能调整。LimeShorts 已上线美国应用商店，取代字节跳动此前推出的小说阅读应用 Mytopia。TikTok 还在美国运营免费短剧应用 PineDrama，并测试主应用内的独立短剧内容流。Business Insider·茶馆水群·",
-      "clean_text": "TikTok 测试付费短剧应用 LimeShortsTikTok 正在美国测试付费短剧应用 LimeShorts。该应用自 2026 年 3 月开始测试，采用免费加付费模式，用户可按周支付 20 美元、按年支付 200 美元订阅全部内容，也可购买虚拟金币按集解锁。平台主打 1 至 5 分钟的竖屏短剧，内容来自第三方合作伙伴，TikTok 表示定价仍可能调整。LimeShorts 已上线美国应用商店，取代字节跳动此前推出的小说阅读应用 Mytopia。TikTok 还在美国运营免费短剧应用 PineDrama，并测试主应用内的独立短剧内容流。Business Insider·茶馆水群",
-      "datetime": "2026-07-24T03:47:04+00:00",
-      "views": "1.92K",
-      "source_links": [
-        {
-          "text": "Business Insider",
-          "url": "https://www.businessinsider.com/tiktok-testing-paid-micro-drama-app-costs-20-a-month-2026-7"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42736",
-      "scraped_at": "2026-07-24T12:02:06.727863",
-      "title": "TikTok 测试付费短剧应用 Lim…",
-      "title_options": {
-        "conclusion": "TikTok 测试付费短剧应用 Lim…",
-        "attractive": "TikTok 测试付费短剧应用 Lim…",
-        "minimal": "TikTok 测试付费短剧应用 Lim…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -1396,6 +1365,6 @@
       }
     }
   ],
-  "count": 57,
-  "updated_at": "2026-07-25T15:45:16.772171"
+  "count": 56,
+  "updated_at": "2026-07-25T15:50:20.324202"
 }
