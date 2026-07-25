@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42769",
+      "channel": "zaihuapd",
+      "text": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片的硬件安全验证。新的「TPM 证明」机制会先确认 KMS 服务器的硬件身份经微软认证、未被篡改，之后才允许其处理批量激活请求，以此封堵长期被攻击者和盗版用户滥用的 KMS 伪造激活。该功能将从下一版 Windows Server 起成为强制要求，并自 2026 年 8 月起在 Windows Server 2025 中推送准备提示。盗版激活工具长期依赖 KMS 手段：微软 2025 年已封死 KMS38 漏洞，而 Massgrave 组织的 Online KMS 需每半年连接伪造服务器续期，TPM 证明可能使其彻底失效。不过 Massgrave 近期推出的 TSforge 方法号称可绕过微软整个 DRM 激活架构，这场攻防战结果仍有待观察。TechSpot·茶馆水群·",
+      "clean_text": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片的硬件安全验证。新的「TPM 证明」机制会先确认 KMS 服务器的硬件身份经微软认证、未被篡改，之后才允许其处理批量激活请求，以此封堵长期被攻击者和盗版用户滥用的 KMS 伪造激活。该功能将从下一版 Windows Server 起成为强制要求，并自 2026 年 8 月起在 Windows Server 2025 中推送准备提示。盗版激活工具长期依赖 KMS 手段：微软 2025 年已封死 KMS38 漏洞，而 Massgrave 组织的 Online KMS 需每半年连接伪造服务器续期，TPM 证明可能使其彻底失效。不过 Massgrave 近期推出的 TSforge 方法号称可绕过微软整个 DRM 激活架构，这场攻防战结果仍有待观察。TechSpot·茶馆水群",
+      "datetime": "2026-07-25T15:55:19+00:00",
+      "views": "1.67K",
+      "source_links": [
+        {
+          "text": "TechSpot",
+          "url": "https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42769",
+      "scraped_at": "2026-07-26T00:08:10.640962",
+      "title": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
+      "title_options": {
+        "conclusion": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
+        "attractive": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
+        "minimal": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42768",
       "channel": "zaihuapd",
       "text": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构的第七代 EPYC 处理器“Florence”将在 2028 年推出，提供 Zen 7 和面向高密度计算的 Zen 7c 核心，并支持新一代 MRDIMM、LPDDR 内存及 AI 计算扩展。Florence 将覆盖 SP7 和 SP8 平台，用于下一代“Ferrara”AI 机架系统。AMD 还披露，Zen 8 架构已进入开发阶段，首款产品为计划 2030 年发布的第八代 EPYC 处理器“Ravenna”，具体制程、核心数量和内存规格尚未公布。TechSpot·茶馆水群·",
@@ -890,37 +921,6 @@
       }
     },
     {
-      "id": "zaihuapd_42747",
-      "channel": "zaihuapd",
-      "text": "OpenAI 发布企业 AI 产品 Presence，软件股集体重挫OpenAI 本周三发布面向企业的新产品 Presence，加剧其与 SaaS 厂商的竞争。该工具帮助企业为 AI 智能体设定数据使用的权限与策略，可自动化客户服务、销售及内部流程等工作。消息发布后，多只软件股连续下跌。截至周四，Workday 跌 9.9%，Atlassian 跌 11.8%，HubSpot 跌 12.7%，Salesforce 跌 7.7%。TD Cowen 分析师指出，Presence 集成了 SaaS 厂商主打的 AI 智能体功能，是造成 IGV 软件指数周三下挫约 3% 并持续走低的重要原因。分析认为，客户服务和销售领域受冲击风险最大。Business Insider·茶馆水群·",
-      "clean_text": "OpenAI 发布企业 AI 产品 Presence，软件股集体重挫OpenAI 本周三发布面向企业的新产品 Presence，加剧其与 SaaS 厂商的竞争。该工具帮助企业为 AI 智能体设定数据使用的权限与策略，可自动化客户服务、销售及内部流程等工作。消息发布后，多只软件股连续下跌。截至周四，Workday 跌 9.9%，Atlassian 跌 11.8%，HubSpot 跌 12.7%，Salesforce 跌 7.7%。TD Cowen 分析师指出，Presence 集成了 SaaS 厂商主打的 AI 智能体功能，是造成 IGV 软件指数周三下挫约 3% 并持续走低的重要原因。分析认为，客户服务和销售领域受冲击风险最大。Business Insider·茶馆水群",
-      "datetime": "2026-07-24T12:05:00+00:00",
-      "views": "4.24K",
-      "source_links": [
-        {
-          "text": "Business Insider",
-          "url": "https://www.businessinsider.com/openai-release-turns-a-bad-week-ugly-for-software-stocks-2026-7"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42747",
-      "scraped_at": "2026-07-24T21:01:53.003896",
-      "title": "OpenAI 发布企业 AI 产品 Presence，软件股集体重挫OpenAI 本周三发布面向企业",
-      "title_options": {
-        "conclusion": "OpenAI 发布企业 AI 产品 Presence，软件股集体重挫OpenAI 本周三发布面向企业",
-        "attractive": "OpenAI 发布企业 AI 产品 Presence，软件股集体重挫OpenAI 本周三发布面向企业",
-        "minimal": "OpenAI 发布企业 AI 产品 Presence，软件股集体重挫OpenAI 本周三发布面向企业",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -984,5 +984,5 @@
     }
   ],
   "count": 39,
-  "updated_at": "2026-07-26T00:03:10.676778"
+  "updated_at": "2026-07-26T00:08:16.657335"
 }
