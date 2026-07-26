@@ -1,6 +1,29 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_31067",
+      "channel": "xhqcankao",
+      "text": "华纳兄弟公司正在起诉亚马逊挖角员工华纳兄弟探索公司已对亚马逊提起诉讼，指控其非法挖走员工，包括前原创内容营销高级副总裁皮亚·巴洛。在诉状中，华纳称亚马逊公司选择乘借其他老牌好莱坞中坚力量的东风，并进行了一场肆无忌惮的员工挖角狂潮。HBO剧集和电影部门负责人弗朗西斯卡·奥尔西据信也是亚马逊的挖角目标之一。巴洛将于8月3日开始担任亚马逊原创剧集营销主管的新职位。根据华纳的诉讼，巴洛的合同有效期至2027年10月31日。诉讼指控亚马逊在明知的情况下，“诱导” 巴洛违反她的协议，向她提供更高的薪酬待遇，并在华纳寻求因违约而采取法律行动时提供法律支持。还声称，这些挖角行为仍在持续。",
+      "clean_text": "华纳兄弟公司正在起诉亚马逊挖角员工华纳兄弟探索公司已对亚马逊提起诉讼，指控其非法挖走员工，包括前原创内容营销高级副总裁皮亚·巴洛。在诉状中，华纳称亚马逊公司选择乘借其他老牌好莱坞中坚力量的东风，并进行了一场肆无忌惮的员工挖角狂潮。HBO剧集和电影部门负责人弗朗西斯卡·奥尔西据信也是亚马逊的挖角目标之一。巴洛将于8月3日开始担任亚马逊原创剧集营销主管的新职位。根据华纳的诉讼，巴洛的合同有效期至2027年10月31日。诉讼指控亚马逊在明知的情况下，“诱导” 巴洛违反她的协议，向她提供更高的薪酬待遇，并在华纳寻求因违约而采取法律行动时提供法律支持。还声称，这些挖角行为仍在持续。——Theverge",
+      "datetime": "2026-07-26T14:45:13+00:00",
+      "views": "839",
+      "source_links": [
+        {
+          "text": "Theverge",
+          "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31067",
+      "scraped_at": "2026-07-26T23:00:42.653982",
+      "title": "华纳兄弟公司正在起诉亚马逊挖角员工华纳…",
+      "title_options": {
+        "conclusion": "华纳兄弟公司正在起诉亚马逊挖角员工华纳…",
+        "attractive": "华纳兄弟公司正在起诉亚马逊挖角员工华纳…",
+        "minimal": "华纳兄弟公司正在起诉亚马逊挖角员工华纳…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31066",
       "channel": "xhqcankao",
       "text": "前LG员工因向中国泄露OLED技术入狱LG Display前员工将大尺寸OLED面板的量产技术泄露给中国竞争对手，一审即被判处有期徒刑。据法律界人士26日透露，首尔中央地方法院刑事和解庭第34庭对因违反《工业技术保护法》而被起诉的尹姓和韩姓人士分别判处五年有期徒刑并处罚金4000万韩元，以及两年有期徒刑并处罚金1000万韩元。与他们一同被起诉的朴姓人士被判处一年有期徒刑，缓刑两年。尹姓和韩姓人士分别于1996年和2000年加入LG Display，并在该公司工作至2021年跳槽至一家中国公司。2020年10月，尹在LG Display任职期间，因涉嫌与韩合谋使用智能手机拍摄并泄露国家核心技术（包括LG Display广州工厂的设计图纸）而被起诉。涉案信息包括如何降低有机发光二极管(OLED)面板制造过程中的不良率或衡量产品生产成本的细节。",
@@ -699,37 +722,6 @@
       }
     },
     {
-      "id": "zaihuapd_42766",
-      "channel": "zaihuapd",
-      "text": "开发者发布 iOS 27 usbliter8 越狱方案，目前仅支持 iPhone 11 ProGitHub 开发者 34306 公开了利用 usbliter8 漏洞为 iOS 27 越狱的完整方案，目前仅支持 iPhone 11 Pro。该方案需借助搭载 RP2350 芯片的 Raspberry Pi Pico 2，通过 SecureROM 漏洞将设备置入 PWN DFU 模式，再刷入定制固件并打补丁实现越狱。项目警告该操作会抹除设备全部数据，并破坏 SEP、密码、WiFi、基带、蓝牙（仅部分可用）及全部 Apple 服务，仅建议在备用机上尝试。该方案在 wh1te4ever 的 usbliter8 项目基础上新增了绕过 USB 限制模式、沙盒执行限制、AMFI 信任缓存检查等内核补丁。GitHub·茶馆水群·",
-      "clean_text": "开发者发布 iOS 27 usbliter8 越狱方案，目前仅支持 iPhone 11 ProGitHub 开发者 34306 公开了利用 usbliter8 漏洞为 iOS 27 越狱的完整方案，目前仅支持 iPhone 11 Pro。该方案需借助搭载 RP2350 芯片的 Raspberry Pi Pico 2，通过 SecureROM 漏洞将设备置入 PWN DFU 模式，再刷入定制固件并打补丁实现越狱。项目警告该操作会抹除设备全部数据，并破坏 SEP、密码、WiFi、基带、蓝牙（仅部分可用）及全部 Apple 服务，仅建议在备用机上尝试。该方案在 wh1te4ever 的 usbliter8 项目基础上新增了绕过 USB 限制模式、沙盒执行限制、AMFI 信任缓存检查等内核补丁。GitHub·茶馆水群",
-      "datetime": "2026-07-25T11:00:45+00:00",
-      "views": "271",
-      "source_links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/34306/usbliter8-fun"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42766",
-      "scraped_at": "2026-07-25T19:01:50.001897",
-      "title": "开发者发布 iOS 27 usbliter8 越狱方案，目前仅支持 iPhone 11 ProGitHub 开发者 34306 公开了利用 usbliter8 漏洞为 iOS 27 越狱",
-      "title_options": {
-        "conclusion": "开发者发布 iOS 27 usbliter8 越狱方案，目前仅支持 iPhone 11 ProGitHub 开发者 34306 公开了利用 usbliter8 漏洞为 iOS 27 越狱",
-        "attractive": "开发者发布 iOS 27 usbliter8 越狱方案，目前仅支持 iPhone 11 ProGitHub 开发者 34306 公开了利用 usbliter8 漏洞为 iOS 27 越狱",
-        "minimal": "开发者发布 iOS 27 usbliter8 越狱方案，目前仅支持 iPhone 11 ProGitHub 开发者 34306 公开了利用 usbliter8 漏洞为 iOS 27 越狱",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -762,5 +754,5 @@
     }
   ],
   "count": 29,
-  "updated_at": "2026-07-26T22:56:14.776051"
+  "updated_at": "2026-07-26T23:01:18.892557"
 }
