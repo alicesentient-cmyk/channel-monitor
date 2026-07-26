@@ -669,37 +669,6 @@
       }
     },
     {
-      "id": "zaihuapd_42769",
-      "channel": "zaihuapd",
-      "text": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片的硬件安全验证。新的「TPM 证明」机制会先确认 KMS 服务器的硬件身份经微软认证、未被篡改，之后才允许其处理批量激活请求，以此封堵长期被攻击者和盗版用户滥用的 KMS 伪造激活。该功能将从下一版 Windows Server 起成为强制要求，并自 2026 年 8 月起在 Windows Server 2025 中推送准备提示。盗版激活工具长期依赖 KMS 手段：微软 2025 年已封死 KMS38 漏洞，而 Massgrave 组织的 Online KMS 需每半年连接伪造服务器续期，TPM 证明可能使其彻底失效。不过 Massgrave 近期推出的 TSforge 方法号称可绕过微软整个 DRM 激活架构，这场攻防战结果仍有待观察。TechSpot·茶馆水群·",
-      "clean_text": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片的硬件安全验证。新的「TPM 证明」机制会先确认 KMS 服务器的硬件身份经微软认证、未被篡改，之后才允许其处理批量激活请求，以此封堵长期被攻击者和盗版用户滥用的 KMS 伪造激活。该功能将从下一版 Windows Server 起成为强制要求，并自 2026 年 8 月起在 Windows Server 2025 中推送准备提示。盗版激活工具长期依赖 KMS 手段：微软 2025 年已封死 KMS38 漏洞，而 Massgrave 组织的 Online KMS 需每半年连接伪造服务器续期，TPM 证明可能使其彻底失效。不过 Massgrave 近期推出的 TSforge 方法号称可绕过微软整个 DRM 激活架构，这场攻防战结果仍有待观察。TechSpot·茶馆水群",
-      "datetime": "2026-07-25T15:55:19+00:00",
-      "views": "1.67K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42769",
-      "scraped_at": "2026-07-26T00:08:10.640962",
-      "title": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
-      "title_options": {
-        "conclusion": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
-        "attractive": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
-        "minimal": "微软将借 TPM 芯片封堵盗版 Windows 激活微软宣布为企业批量激活工具 KMS 加入基于 TPM 芯片",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -731,6 +700,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-07-27T03:54:46.298551"
+  "count": 27,
+  "updated_at": "2026-07-27T03:59:49.452887"
 }
