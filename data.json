@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42770",
+      "channel": "zaihuapd",
+      "text": "Codex 已重置额度Tibo·茶馆水群·",
+      "clean_text": "🤖Codex 已重置额度Tibo·茶馆水群",
+      "datetime": "2026-07-26T00:34:52+00:00",
+      "views": "1.96K",
+      "source_links": [
+        {
+          "text": "Tibo",
+          "url": "https://x.com/thsottiaux/status/2081096447718723984"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42770",
+      "scraped_at": "2026-07-26T09:02:37.031518",
+      "title": "Codex 已重置额度Tibo·茶馆水…",
+      "title_options": {
+        "conclusion": "Codex 已重置额度Tibo·茶馆水…",
+        "attractive": "Codex 已重置额度Tibo·茶馆水…",
+        "minimal": "Codex 已重置额度Tibo·茶馆水…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31059",
       "channel": "xhqcankao",
       "text": "三星电子、SK集团与美企签下9500亿美元半导体大单韩国总统政策办公室主任金容范在新闻发布会上宣布，三星电子和博通公司签署了一份谅解备忘录，就代工合作达成协议，将在未来五年内供应价值2000亿美元的先进存储半导体，并生产人工智能芯片。SK集团决定在未来五年内，与包括英伟达在内的全球大型科技公司开展总价值7500亿美元的先进存储半导体长期供应合作。媒体报道称，数据中心合作也将启动。韩国总统李在明、韩美多国科技企业高管及约 150名行业人士参与了周五于硅谷举行的人工智能峰会。会上签署多项投资协议。",
@@ -763,6 +794,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-26T08:59:14.180500"
+  "count": 31,
+  "updated_at": "2026-07-26T09:04:17.202876"
 }
