@@ -700,37 +700,6 @@
       }
     },
     {
-      "id": "zaihuapd_42768",
-      "channel": "zaihuapd",
-      "text": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构的第七代 EPYC 处理器“Florence”将在 2028 年推出，提供 Zen 7 和面向高密度计算的 Zen 7c 核心，并支持新一代 MRDIMM、LPDDR 内存及 AI 计算扩展。Florence 将覆盖 SP7 和 SP8 平台，用于下一代“Ferrara”AI 机架系统。AMD 还披露，Zen 8 架构已进入开发阶段，首款产品为计划 2030 年发布的第八代 EPYC 处理器“Ravenna”，具体制程、核心数量和内存规格尚未公布。TechSpot·茶馆水群·",
-      "clean_text": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构的第七代 EPYC 处理器“Florence”将在 2028 年推出，提供 Zen 7 和面向高密度计算的 Zen 7c 核心，并支持新一代 MRDIMM、LPDDR 内存及 AI 计算扩展。Florence 将覆盖 SP7 和 SP8 平台，用于下一代“Ferrara”AI 机架系统。AMD 还披露，Zen 8 架构已进入开发阶段，首款产品为计划 2030 年发布的第八代 EPYC 处理器“Ravenna”，具体制程、核心数量和内存规格尚未公布。TechSpot·茶馆水群",
-      "datetime": "2026-07-25T14:05:21+00:00",
-      "views": "4.35K",
-      "source_links": [
-        {
-          "text": "TechSpot",
-          "url": "https://www.techspot.com/news/113233-amd-confirms-zen-7-epyc-florence-2028-previews.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42768",
-      "scraped_at": "2026-07-25T23:00:56.501405",
-      "title": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
-      "title_options": {
-        "conclusion": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
-        "attractive": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
-        "minimal": "AMD 确认 2028 年推出 Zen 7 服务器处理器，Zen 8 计划 2030 年登场AMD 确认，采用 Zen 7 架构",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -762,6 +731,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-07-27T02:03:41.017673"
+  "count": 28,
+  "updated_at": "2026-07-27T02:08:43.982310"
 }
