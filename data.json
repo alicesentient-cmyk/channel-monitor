@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42775",
+      "channel": "zaihuapd",
+      "text": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上的自主 AI 智能体发起的安全入侵，公司 CEO Clem Delangue 随即飞往旧金山与 OpenAI 会面。访美期间，Delangue 还在旧金山组织了一场支持开源和开放权重模型的「小型游行」。一周后他在 X 上公开了自己的两项要求：公开该「失控智能体」的全部运行记录供公众和研究界分析，并提供价值 1 亿美元的算力，帮助 Hugging Face 加强网络防御。他称这是「首次自主智能体网络攻击」，是一次前所未有的事件，理应得到前所未有的回应。Business Insider·茶馆水群·",
+      "clean_text": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上的自主 AI 智能体发起的安全入侵，公司 CEO Clem Delangue 随即飞往旧金山与 OpenAI 会面。访美期间，Delangue 还在旧金山组织了一场支持开源和开放权重模型的「小型游行」。一周后他在 X 上公开了自己的两项要求：公开该「失控智能体」的全部运行记录供公众和研究界分析，并提供价值 1 亿美元的算力，帮助 Hugging Face 加强网络防御。他称这是「首次自主智能体网络攻击」，是一次前所未有的事件，理应得到前所未有的回应。Business Insider·茶馆水群",
+      "datetime": "2026-07-26T04:12:32+00:00",
+      "views": "3.76K",
+      "source_links": [
+        {
+          "text": "Business Insider",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42775",
+      "scraped_at": "2026-07-26T13:00:56.972840",
+      "title": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
+      "title_options": {
+        "conclusion": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
+        "attractive": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
+        "minimal": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31063",
       "channel": "xhqcankao",
       "text": "提供自动重置手机的密码 美一公民被起诉美国司法部正在起诉一名美国人，据一份起诉书，其涉嫌向美国边境当局提供了一个密码，该密码清除了其手机中的内容。这被认为是美国已知的第一起联邦检察官因某人涉嫌使用内置于手机软件中的 “胁迫” 密码销毁数据而对其提出指控的案件。亚特兰大居民塞缪尔·图尼克正在抗辩这些指控。该案件的核心是GrapheneOS中包含的一项功能。该软件功能允许设备所有者设置一个密码，如果输入该密码，就会故意清空该设备的内容。图尼克的案件还引发了关于在边境可以援引哪些宪法权利的持续疑问，美国政府长期以来一直主张，在一个人被授权入境之前，边境不属于美国领土。",
@@ -861,6 +892,6 @@
       }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-07-26T12:56:56.998828"
+  "count": 35,
+  "updated_at": "2026-07-26T13:02:00.543803"
 }
