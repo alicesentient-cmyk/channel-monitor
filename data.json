@@ -1,6 +1,76 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42784",
+      "channel": "zaihuapd",
+      "text": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude 的共享对话功能出现严重隐私漏洞。用户通过该功能生成的公开链接未设置禁止搜索引擎抓取的标签，导致大量对话内容被 Google 等搜索引擎索引，任何人通过搜索即可直接查看。泄露信息涉及 API 密钥、加密货币钱包、个人简历、律师咨询记录、公司内部项目资料及社会安全号码等敏感内容。约一年前 ChatGPT 曾出现同类问题并迅速修复。Anthropic 目前尚未解决该漏洞，建议用户立即进入设置中的\"共享对话\"管理页面，手动删除涉及个人隐私或财务的聊天记录。目前谷歌已屏蔽，但Brave和Bing仍正常索引Om Patel(@om_patel5)·茶馆水群·",
+      "clean_text": "🤖Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude 的共享对话功能出现严重隐私漏洞。用户通过该功能生成的公开链接未设置禁止搜索引擎抓取的标签，导致大量对话内容被 Google 等搜索引擎索引，任何人通过搜索即可直接查看。泄露信息涉及 API 密钥、加密货币钱包、个人简历、律师咨询记录、公司内部项目资料及社会安全号码等敏感内容。约一年前 ChatGPT 曾出现同类问题并迅速修复。Anthropic 目前尚未解决该漏洞，建议用户立即进入设置中的\"共享对话\"管理页面，手动删除涉及个人隐私或财务的聊天记录。⚠️目前谷歌已屏蔽，但Brave和Bing仍正常索引Om Patel(@om_patel5)·茶馆水群",
+      "datetime": "2026-07-26T11:16:31+00:00",
+      "views": "4.84K",
+      "source_links": [
+        {
+          "text": "Brave",
+          "url": "https://search.brave.com/search?q=site%3Aclaude.ai%2Fshare&amp;source=android"
+        },
+        {
+          "text": "Bing",
+          "url": "https://www.bing.com/search?q=site%3aclaude.ai%2fshare"
+        },
+        {
+          "text": "Om Patel(@om_patel5)",
+          "url": "https://x.com/om_patel5/status/2081218866839966116"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42784",
+      "scraped_at": "2026-07-26T20:01:52.597787",
+      "title": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
+      "title_options": {
+        "conclusion": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
+        "attractive": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
+        "minimal": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42783",
+      "channel": "zaihuapd",
+      "text": "美国多地学校减少学生使用 Chromebook，重新采用纸笔教学美国多地学校开始调整“一人一台电脑”政策，限制学生在课堂和家中使用 Chromebook。堪萨斯州一所中学发现，禁用手机后，部分学生转而用学校电脑看视频、玩游戏或骚扰同学，因此从去年 12 月起仅在教师指定活动中使用电脑。北卡罗来纳、密歇根等地也在缩减屏幕教学，部分小学已恢复纸质教材和手写笔记。相关学校称，学生阅读理解和考试成绩有所改善，作业压力下降。除学习效果外，设备更新成本也是调整原因，北卡罗来纳州学校此前曾动用 4.48 亿美元联邦资金购买电脑和相关设备。Fortune·茶馆水群·",
+      "clean_text": "美国多地学校减少学生使用 Chromebook，重新采用纸笔教学美国多地学校开始调整“一人一台电脑”政策，限制学生在课堂和家中使用 Chromebook。堪萨斯州一所中学发现，禁用手机后，部分学生转而用学校电脑看视频、玩游戏或骚扰同学，因此从去年 12 月起仅在教师指定活动中使用电脑。北卡罗来纳、密歇根等地也在缩减屏幕教学，部分小学已恢复纸质教材和手写笔记。相关学校称，学生阅读理解和考试成绩有所改善，作业压力下降。除学习效果外，设备更新成本也是调整原因，北卡罗来纳州学校此前曾动用 4.48 亿美元联邦资金购买电脑和相关设备。Fortune·茶馆水群",
+      "datetime": "2026-07-26T11:02:32+00:00",
+      "views": "4.94K",
+      "source_links": [
+        {
+          "text": "Fortune",
+          "url": "https://fortune.com/article/schools-abandoning-chromebooks-laptop-programs-as-screen-time-hurts-learning-test-scores-north-carolina-michigan-kansas-tech-education/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42783",
+      "scraped_at": "2026-07-26T20:01:52.597024",
+      "title": "美国多地学校减少学生使用 Chrome…",
+      "title_options": {
+        "conclusion": "美国多地学校减少学生使用 Chrome…",
+        "attractive": "美国多地学校减少学生使用 Chrome…",
+        "minimal": "美国多地学校减少学生使用 Chrome…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42782",
       "channel": "zaihuapd",
       "text": "高通涨价信曝光：全线产品 9 月 1 日起调涨  高通于 2026 年 7 月 24 日向客户发出价格调整通知信，宣布自 9 月 1 日起，对当日或之后出货的产品全线调涨价格。信中未公布统一涨幅，也未列出具体产品型号，但表示客户经理将逐一联系客户提供新报价，部分已下单但排在 9 月后出货的订单也可能被重新报价。  高通解释，晶圆制造、封装测试、先进封装与基板材料成本持续上升，加上 AI 与数据中心需求大增、排挤供应链产能，累积成本已无法自行吸收，并强调这并非短期波动，而是行业结构性转变。由于高通芯片广泛用…",
@@ -687,6 +757,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-07-26T19:58:24.159426"
+  "count": 29,
+  "updated_at": "2026-07-26T20:03:29.206067"
 }
