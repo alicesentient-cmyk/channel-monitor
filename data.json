@@ -825,37 +825,6 @@
       }
     },
     {
-      "id": "zaihuapd_42757",
-      "channel": "zaihuapd",
-      "text": "Steam 支持无账号购买游戏礼物Steam 现支持访客结账购买游戏并作为礼物赠送，无需买家创建账号。游戏和数字礼品卡可通过电子邮件发送，收件人需登录或创建 Steam 账号后领取；未领取的邮件礼物将在 30 天后自动退款，且不能预约发送。邮件赠礼要求买家和收件人在同一国家。跨区赠礼则需将收件人加入 Steam 好友列表，结账时按收件人所在地区价格计算。VideoCardz·茶馆水群·",
-      "clean_text": "Steam 支持无账号购买游戏礼物Steam 现支持访客结账购买游戏并作为礼物赠送，无需买家创建账号。游戏和数字礼品卡可通过电子邮件发送，收件人需登录或创建 Steam 账号后领取；未领取的邮件礼物将在 30 天后自动退款，且不能预约发送。邮件赠礼要求买家和收件人在同一国家。跨区赠礼则需将收件人加入 Steam 好友列表，结账时按收件人所在地区价格计算。VideoCardz·茶馆水群",
-      "datetime": "2026-07-25T02:06:47+00:00",
-      "views": "4.01K",
-      "source_links": [
-        {
-          "text": "VideoCardz",
-          "url": "https://videocardz.com/newz/steam-now-lets-guests-buy-games-as-gifts-without-an-account"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42757",
-      "scraped_at": "2026-07-25T11:01:11.320234",
-      "title": "Steam 支持无账号购买游戏礼物St…",
-      "title_options": {
-        "conclusion": "Steam 支持无账号购买游戏礼物St…",
-        "attractive": "Steam 支持无账号购买游戏礼物St…",
-        "minimal": "Steam 支持无账号购买游戏礼物St…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -918,6 +887,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-07-26T14:02:52.889775"
+  "count": 35,
+  "updated_at": "2026-07-26T14:07:58.702495"
 }
