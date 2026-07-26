@@ -684,29 +684,6 @@
       }
     },
     {
-      "id": "xhqcankao_31055",
-      "channel": "xhqcankao",
-      "text": "微软正在用自研图像模型替代OpenAI技术微软正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing等热门产品。微软的模型主管穆斯塔法·苏莱曼在接受采访时表示：“自研模型更快、更便宜、质量更高，还能带来更好的用户留存。”这家全球最大的软件制造商一直在开发能够与OpenAI和Anthropic相竞争的AI模型。这在一定程度上是为了降低在微软公司各产品中部署AI的成本。苏莱曼称，例如，该公司的Microsoft AI模型在PowerPoint中的运行成本大约便宜85%。这意味着通过使用更高效的模型，可以实现可观的成本节省。",
-      "clean_text": "微软正在用自研图像模型替代OpenAI技术微软正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing等热门产品。微软的模型主管穆斯塔法·苏莱曼在接受采访时表示：“自研模型更快、更便宜、质量更高，还能带来更好的用户留存。”这家全球最大的软件制造商一直在开发能够与OpenAI和Anthropic相竞争的AI模型。这在一定程度上是为了降低在微软公司各产品中部署AI的成本。苏莱曼称，例如，该公司的Microsoft AI模型在PowerPoint中的运行成本大约便宜85%。这意味着通过使用更高效的模型，可以实现可观的成本节省。——彭博社",
-      "datetime": "2026-07-25T06:32:43+00:00",
-      "views": "1.15K",
-      "source_links": [
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31055",
-      "scraped_at": "2026-07-25T15:00:39.216261",
-      "title": "微软正在用自研图像模型替代OpenAI技术微软正在用自研图像生成模型替代OpenAI",
-      "title_options": {
-        "conclusion": "微软正在用自研图像模型替代OpenAI技术微软正在用自研图像生成模型替代OpenAI",
-        "attractive": "微软正在用自研图像模型替代OpenAI技术微软正在用自研图像生成模型替代OpenAI",
-        "minimal": "微软正在用自研图像模型替代OpenAI技术微软正在用自研图像生成模型替代OpenAI",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42729",
       "channel": "zaihuapd",
       "text": "中国脑机接口实现跨地域千人同步采集中国科研团队 7 月 22 日发布新型脑电信号采集装置，首次在全球实现跨地域上千人同步脑电信号采集，为神经大模型训练和脑机接口通用技术研发提供支持。研发团队称，该装置解决了设备小型化与信号精度兼顾、网络延迟下多设备多地域毫秒级时间对齐两项难题。相关数据未来将用于训练神经基础模型，帮助 AI 通过神经信号理解人类认知状态。央视财经·茶馆水群·",
@@ -769,6 +746,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-26T18:31:51.362000"
+  "count": 29,
+  "updated_at": "2026-07-26T18:36:55.476382"
 }
