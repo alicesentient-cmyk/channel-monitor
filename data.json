@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42785",
+      "channel": "zaihuapd",
+      "text": "SpaceX 拒接 Falcon 9 远期订单，全力押注 StarshipSpaceX 已开始拒绝卫星运营商 2028 年后使用 Falcon 9 火箭的专属发射请求，并不再接受该火箭拼单项目的未来预订。该公司已缩减 Falcon 系列部分非重复使用部件的生产，加速向 Starship 过渡。Starship 对 SpaceX 拓展 Starlink 及载人探月火星至关重要，但尚未投入商业运营，近期测试屡遭延误，已导致公司股价自 2026 年 6 月 IPO 以来下跌约 25%。SpaceX 仍可能为美国国防部和 NASA 保留 Falcon 9 任务，但若 Starship 无法在 2028 年底前承接商业订单，全球众多依赖其进入轨道的太空公司将面临发射能力缺口。Bloomberg·茶馆水群·",
+      "clean_text": "SpaceX 拒接 Falcon 9 远期订单，全力押注 StarshipSpaceX 已开始拒绝卫星运营商 2028 年后使用 Falcon 9 火箭的专属发射请求，并不再接受该火箭拼单项目的未来预订。该公司已缩减 Falcon 系列部分非重复使用部件的生产，加速向 Starship 过渡。Starship 对 SpaceX 拓展 Starlink 及载人探月火星至关重要，但尚未投入商业运营，近期测试屡遭延误，已导致公司股价自 2026 年 6 月 IPO 以来下跌约 25%。SpaceX 仍可能为美国国防部和 NASA 保留 Falcon 9 任务，但若 Starship 无法在 2028 年底前承接商业订单，全球众多依赖其进入轨道的太空公司将面临发射能力缺口。Bloomberg·茶馆水群",
+      "datetime": "2026-07-26T12:42:14+00:00",
+      "views": "2.28K",
+      "source_links": [
+        {
+          "text": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42785",
+      "scraped_at": "2026-07-26T21:01:53.398020",
+      "title": "SpaceX 拒接 Falcon 9 远期订单，全力押注 StarshipSpaceX 已开始拒绝卫星运营商 2028 年后使用 Falcon 9 火箭",
+      "title_options": {
+        "conclusion": "SpaceX 拒接 Falcon 9 远期订单，全力押注 StarshipSpaceX 已开始拒绝卫星运营商 2028 年后使用 Falcon 9 火箭",
+        "attractive": "SpaceX 拒接 Falcon 9 远期订单，全力押注 StarshipSpaceX 已开始拒绝卫星运营商 2028 年后使用 Falcon 9 火箭",
+        "minimal": "SpaceX 拒接 Falcon 9 远期订单，全力押注 StarshipSpaceX 已开始拒绝卫星运营商 2028 年后使用 Falcon 9 火箭",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42784",
       "channel": "zaihuapd",
       "text": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude 的共享对话功能出现严重隐私漏洞。用户通过该功能生成的公开链接未设置禁止搜索引擎抓取的标签，导致大量对话内容被 Google 等搜索引擎索引，任何人通过搜索即可直接查看。泄露信息涉及 API 密钥、加密货币钱包、个人简历、律师咨询记录、公司内部项目资料及社会安全号码等敏感内容。约一年前 ChatGPT 曾出现同类问题并迅速修复。Anthropic 目前尚未解决该漏洞，建议用户立即进入设置中的\"共享对话\"管理页面，手动删除涉及个人隐私或财务的聊天记录。目前谷歌已屏蔽，但Brave和Bing仍正常索引Om Patel(@om_patel5)·茶馆水群·",
@@ -757,6 +788,6 @@
       }
     }
   ],
-  "count": 29,
-  "updated_at": "2026-07-26T20:59:21.830330"
+  "count": 30,
+  "updated_at": "2026-07-26T21:04:25.955298"
 }
