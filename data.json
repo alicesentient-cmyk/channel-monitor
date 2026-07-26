@@ -656,29 +656,6 @@
       }
     },
     {
-      "id": "xhqcankao_31057",
-      "channel": "xhqcankao",
-      "text": "印度命令GitHub移除蓝牙聊天应用Bitchat印度政府显然试图移除杰克·多西旗下离线蓝牙通讯应用 Bitchat 的 GitHub 存储库，引发了关于因开源软件的工作方式而针对其的法律依据的质疑。杰克·多尔西周五在X上发布了来自印度内政部的通知，该通知命令 GitHub 在三小时内限制对三个 Bitchat 仓库的访问。该通知指出，这款应用的匿名、去中心化架构可能助长非法活动，并允许用户在互联网中断期间进行通信，同时使合法拦截更加困难。此举发生在印度收紧互联网限制之际，此前新德里因涉嫌试卷泄露事件爆发了由学生主导的持续数周的抗议活动。",
-      "clean_text": "印度命令GitHub移除蓝牙聊天应用Bitchat印度政府显然试图移除杰克·多西旗下离线蓝牙通讯应用 Bitchat 的 GitHub 存储库，引发了关于因开源软件的工作方式而针对其的法律依据的质疑。杰克·多尔西周五在X上发布了来自印度内政部的通知，该通知命令 GitHub 在三小时内限制对三个 Bitchat 仓库的访问。该通知指出，这款应用的匿名、去中心化架构可能助长非法活动，并允许用户在互联网中断期间进行通信，同时使合法拦截更加困难。此举发生在印度收紧互联网限制之际，此前新德里因涉嫌试卷泄露事件爆发了由学生主导的持续数周的抗议活动。——Techcrunch",
-      "datetime": "2026-07-25T07:25:10+00:00",
-      "views": "1.52K",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31057",
-      "scraped_at": "2026-07-25T16:01:18.428671",
-      "title": "印度命令GitHub移除蓝牙聊天应用Bitchat印度政府显然试图移除杰克·多西旗下离线蓝牙通讯应用 Bitchat ",
-      "title_options": {
-        "conclusion": "印度命令GitHub移除蓝牙聊天应用Bitchat印度政府显然试图移除杰克·多西旗下离线蓝牙通讯应用 Bitchat ",
-        "attractive": "印度命令GitHub移除蓝牙聊天应用Bitchat印度政府显然试图移除杰克·多西旗下离线蓝牙通讯应用 Bitchat ",
-        "minimal": "印度命令GitHub移除蓝牙聊天应用Bitchat印度政府显然试图移除杰克·多西旗下离线蓝牙通讯应用 Bitchat ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -710,6 +687,6 @@
       }
     }
   ],
-  "count": 28,
-  "updated_at": "2026-07-26T19:22:52.614436"
+  "count": 27,
+  "updated_at": "2026-07-26T19:27:59.710668"
 }
