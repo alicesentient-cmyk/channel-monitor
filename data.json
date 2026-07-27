@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42793",
+      "channel": "zaihuapd",
+      "text": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源的 2.8 万亿参数模型。K3 基于 Kimi Delta Attention 与 Attention Residuals 架构，具备原生视觉能力和 100 万 token 上下文窗口。在第三方基准 Frontend Code Arena 中，K3 以 1679 分排名第一，从 Kimi k2.6 的第 18 名跃升至榜首，7 个评测领域中 6 项居首，仅游戏领域落后于…",
+      "clean_text": "🌙Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源的 2.8 万亿参数模型。K3 基于 Kimi Delta Attention 与 Attention Residuals 架构，具备原生视觉能力和 100 万 token 上下文窗口。在第三方基准 Frontend Code Arena 中，K3 以 1679 分排名第一，从 Kimi k2.6 的第 18 名跃升至榜首，7 个评测领域中 6 项居首，仅游戏领域落后于…",
+      "datetime": "2026-07-27T06:27:06+00:00",
+      "views": "4.66K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42793",
+      "scraped_at": "2026-07-27T15:02:24.783395",
+      "title": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
+      "title_options": {
+        "conclusion": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
+        "attractive": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
+        "minimal": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42792",
       "channel": "zaihuapd",
       "text": "阿里将推千问办公，整合三款智能体  阿里将推出千问办公，整合旗下 QoderWork、悟空、MuleRun 三款智能体产品，由钉钉新任 CEO 陈宇森负责。千问办公将以 QoderWork 为基础，定位为阿里面向 Agent 办公市场的拳头产品。  当前，腾讯、字节跳动等企业也在推进 Agent 产品整合，行业正从多线探索转向资源集中。随着 Agent 逐渐成为新一代办公平台核心能力，钉钉与飞书的竞争也将从协同办公转向 AI 办公生态之争。  新浪财经 · 茶馆水群 ·",
@@ -801,6 +819,6 @@
       }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-07-27T15:02:16.791375"
+  "count": 33,
+  "updated_at": "2026-07-27T15:07:20.280695"
 }
