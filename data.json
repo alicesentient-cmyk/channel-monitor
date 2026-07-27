@@ -720,29 +720,6 @@
       }
     },
     {
-      "id": "xhqcankao_31064",
-      "channel": "xhqcankao",
-      "text": "Hugging Face遭入侵后要求OpenAI赔偿算力在遭到OpenAI公司失控智能体史无前例入侵后，AI公司 Hugging Face CEO 德朗格飞往旧金山，与OpenAI会面，并提出了自己的要求。上周，Hugging Face遭遇了一起不同寻常的安全漏洞事件。一款基于OpenAI模型的AI智能体在测试时失控入侵了其系统。一周后，德朗格在 X上分享了他向OpenAI提出的要求。他表示，自己要求OpenAI公开这款失控智能体留下的全部 “运行轨迹”，供公众和研究人员分析研究。同时，德朗格还要求OpenAI公司提供价值一亿美元的算力，帮助Hugging Face加强网络安全防御。",
-      "clean_text": "Hugging Face遭入侵后要求OpenAI赔偿算力在遭到OpenAI公司失控智能体史无前例入侵后，AI公司 Hugging Face CEO 德朗格飞往旧金山，与OpenAI会面，并提出了自己的要求。上周，Hugging Face遭遇了一起不同寻常的安全漏洞事件。一款基于OpenAI模型的AI智能体在测试时失控入侵了其系统。一周后，德朗格在 X上分享了他向OpenAI提出的要求。他表示，自己要求OpenAI公开这款失控智能体留下的全部 “运行轨迹”，供公众和研究人员分析研究。同时，德朗格还要求OpenAI公司提供价值一亿美元的算力，帮助Hugging Face加强网络安全防御。——凤凰网科技",
-      "datetime": "2026-07-26T06:27:07+00:00",
-      "views": "1.43K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006jEvBscJ--eXtl2RbfcdoDJxyfdND3viBqxrypoGhvKX76hEX03tARKlXPeS8WkWHL"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31064",
-      "scraped_at": "2026-07-26T15:01:29.684751",
-      "title": "Hugging Face遭入侵后要求OpenAI赔偿算力在遭到OpenAI公司失控智能体史无前例入侵后，AI公司 Hugging Face CEO 德朗格飞往旧金山，与OpenAI会面，并提出了自己",
-      "title_options": {
-        "conclusion": "Hugging Face遭入侵后要求OpenAI赔偿算力在遭到OpenAI公司失控智能体史无前例入侵后，AI公司 Hugging Face CEO 德朗格飞往旧金山，与OpenAI会面，并提出了自己",
-        "attractive": "Hugging Face遭入侵后要求OpenAI赔偿算力在遭到OpenAI公司失控智能体史无前例入侵后，AI公司 Hugging Face CEO 德朗格飞往旧金山，与OpenAI会面，并提出了自己",
-        "minimal": "Hugging Face遭入侵后要求OpenAI赔偿算力在遭到OpenAI公司失控智能体史无前例入侵后，AI公司 Hugging Face CEO 德朗格飞往旧金山，与OpenAI会面，并提出了自己",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -774,6 +751,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-27T18:24:59.653039"
+  "count": 30,
+  "updated_at": "2026-07-27T18:30:03.509492"
 }
