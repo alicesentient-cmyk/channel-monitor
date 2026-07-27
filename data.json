@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42802",
+      "channel": "zaihuapd",
+      "text": "月之暗面将开源 Kimi-K3，全球首个 3T 级前沿模型  月之暗面（Moonshot AI）即将在 Hugging Face 开源新一代模型 Kimi-K3，官方称其为全球首个开放的 3T 级别前沿模型，面向长程编程、知识工作和复杂推理场景。预计于 2026 年 7 月 27 日晚上正式发布权重。  K3 采用基于 Kimi Delta Attention 与 Attention Residuals 的全新架构，原生支持工具调用、网页浏览和多步规划等 agentic 能力，并具备仓库级代码理解的扩展上下文窗口。…",
+      "clean_text": "🌙月之暗面将开源 Kimi-K3，全球首个 3T 级前沿模型  月之暗面（Moonshot AI）即将在 Hugging Face 开源新一代模型 Kimi-K3，官方称其为全球首个开放的 3T 级别前沿模型，面向长程编程、知识工作和复杂推理场景。预计于 2026 年 7 月 27 日晚上正式发布权重。  K3 采用基于 Kimi Delta Attention 与 Attention Residuals 的全新架构，原生支持工具调用、网页浏览和多步规划等 agentic 能力，并具备仓库级代码理解的扩展上下文窗口。…",
+      "datetime": "2026-07-27T15:15:03+00:00",
+      "views": "5.5K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42802",
+      "scraped_at": "2026-07-28T00:11:31.493361",
+      "title": "月之暗面将开源 Kimi-K3，全球首个 3T 级前沿模型  月之暗面（Moonshot AI）即将在 Hugging Face 开源新一代模型 Kimi-K3，官方称其为全球首个开放",
+      "title_options": {
+        "conclusion": "月之暗面将开源 Kimi-K3，全球首个 3T 级前沿模型  月之暗面（Moonshot AI）即将在 Hugging Face 开源新一代模型 Kimi-K3，官方称其为全球首个开放",
+        "attractive": "月之暗面将开源 Kimi-K3，全球首个 3T 级前沿模型  月之暗面（Moonshot AI）即将在 Hugging Face 开源新一代模型 Kimi-K3，官方称其为全球首个开放",
+        "minimal": "月之暗面将开源 Kimi-K3，全球首个 3T 级前沿模型  月之暗面（Moonshot AI）即将在 Hugging Face 开源新一代模型 Kimi-K3，官方称其为全球首个开放",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42801",
       "channel": "zaihuapd",
       "text": "三星被曝拟采中国低价 DRAM 芯片 降成本反攻中国市场三星电子被曝正考虑采用中国产低价移动 DRAM 等本土芯片，以降低 Galaxy A 系列等中低端机型成本，扩大在华供应。业内人士称，三星拟借价格竞争力，在竞争对手因零部件涨价缩减出货之际，将约 0.6%的在华市占率大幅提升，并扩充移动体验（MX）部门销售规模。受 AI 数据中心热潮引发的“芯片通胀”影响，苹果、小米、OPPO、vivo 等厂商纷纷涨价或削减 15%至 20%出货量目标。证券界已大幅下调三星 MX 部门业绩预期，多家券商预测该部门 2026 年第二季度将出现数千亿至 1 万亿韩元亏损。对此，三星电子方面表示“无法确认”相关消息。아시아타임즈·茶馆水群·",
@@ -744,6 +762,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-28T00:10:00.436382"
+  "count": 31,
+  "updated_at": "2026-07-28T00:13:42.107422"
 }
