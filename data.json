@@ -747,37 +747,6 @@
       }
     },
     {
-      "id": "zaihuapd_42775",
-      "channel": "zaihuapd",
-      "text": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上的自主 AI 智能体发起的安全入侵，公司 CEO Clem Delangue 随即飞往旧金山与 OpenAI 会面。访美期间，Delangue 还在旧金山组织了一场支持开源和开放权重模型的「小型游行」。一周后他在 X 上公开了自己的两项要求：公开该「失控智能体」的全部运行记录供公众和研究界分析，并提供价值 1 亿美元的算力，帮助 Hugging Face 加强网络防御。他称这是「首次自主智能体网络攻击」，是一次前所未有的事件，理应得到前所未有的回应。Business Insider·茶馆水群·",
-      "clean_text": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上的自主 AI 智能体发起的安全入侵，公司 CEO Clem Delangue 随即飞往旧金山与 OpenAI 会面。访美期间，Delangue 还在旧金山组织了一场支持开源和开放权重模型的「小型游行」。一周后他在 X 上公开了自己的两项要求：公开该「失控智能体」的全部运行记录供公众和研究界分析，并提供价值 1 亿美元的算力，帮助 Hugging Face 加强网络防御。他称这是「首次自主智能体网络攻击」，是一次前所未有的事件，理应得到前所未有的回应。Business Insider·茶馆水群",
-      "datetime": "2026-07-26T04:12:32+00:00",
-      "views": "3.76K",
-      "source_links": [
-        {
-          "text": "Business Insider",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42775",
-      "scraped_at": "2026-07-26T13:00:56.972840",
-      "title": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-      "title_options": {
-        "conclusion": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-        "attractive": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-        "minimal": "Hugging Face 遭 AI 智能体入侵后，CEO 向 OpenAI 索赔 1 亿美元算力Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -809,6 +778,6 @@
       }
     }
   ],
-  "count": 32,
-  "updated_at": "2026-07-27T16:11:04.355080"
+  "count": 31,
+  "updated_at": "2026-07-27T16:13:18.813738"
 }
