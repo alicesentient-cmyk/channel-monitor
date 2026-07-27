@@ -713,45 +713,6 @@
       }
     },
     {
-      "id": "zaihuapd_42784",
-      "channel": "zaihuapd",
-      "text": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude 的共享对话功能出现严重隐私漏洞。用户通过该功能生成的公开链接未设置禁止搜索引擎抓取的标签，导致大量对话内容被 Google 等搜索引擎索引，任何人通过搜索即可直接查看。泄露信息涉及 API 密钥、加密货币钱包、个人简历、律师咨询记录、公司内部项目资料及社会安全号码等敏感内容。约一年前 ChatGPT 曾出现同类问题并迅速修复。Anthropic 目前尚未解决该漏洞，建议用户立即进入设置中的\"共享对话\"管理页面，手动删除涉及个人隐私或财务的聊天记录。目前谷歌已屏蔽，但Brave和Bing仍正常索引Om Patel(@om_patel5)·茶馆水群·",
-      "clean_text": "🤖Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude 的共享对话功能出现严重隐私漏洞。用户通过该功能生成的公开链接未设置禁止搜索引擎抓取的标签，导致大量对话内容被 Google 等搜索引擎索引，任何人通过搜索即可直接查看。泄露信息涉及 API 密钥、加密货币钱包、个人简历、律师咨询记录、公司内部项目资料及社会安全号码等敏感内容。约一年前 ChatGPT 曾出现同类问题并迅速修复。Anthropic 目前尚未解决该漏洞，建议用户立即进入设置中的\"共享对话\"管理页面，手动删除涉及个人隐私或财务的聊天记录。⚠️目前谷歌已屏蔽，但Brave和Bing仍正常索引Om Patel(@om_patel5)·茶馆水群",
-      "datetime": "2026-07-26T11:16:31+00:00",
-      "views": "4.84K",
-      "source_links": [
-        {
-          "text": "Brave",
-          "url": "https://search.brave.com/search?q=site%3Aclaude.ai%2Fshare&amp;source=android"
-        },
-        {
-          "text": "Bing",
-          "url": "https://www.bing.com/search?q=site%3aclaude.ai%2fshare"
-        },
-        {
-          "text": "Om Patel(@om_patel5)",
-          "url": "https://x.com/om_patel5/status/2081218866839966116"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42784",
-      "scraped_at": "2026-07-26T20:01:52.597787",
-      "title": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
-      "title_options": {
-        "conclusion": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
-        "attractive": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
-        "minimal": "Claude 共享链接遭搜索引擎索引 大量用户隐私外泄Claude ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -783,6 +744,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-07-27T23:14:12.683311"
+  "count": 30,
+  "updated_at": "2026-07-27T23:19:16.531082"
 }
