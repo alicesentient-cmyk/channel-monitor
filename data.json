@@ -770,29 +770,6 @@
       }
     },
     {
-      "id": "xhqcankao_31061",
-      "channel": "xhqcankao",
-      "text": "Meta推出免费的真实个人已验证徽章Meta宣布推出Facebook Verified，这是一种免费徽章，旨在确认某个脸书个人资料属于真实的人，而非AI生成的虚假账号。该功能使用基于自拍的验证流程：用户录制一段短视频自拍，Meta公司将其与现有个人资料照片进行比对以确认匹配。Meta表示该流程免费，通常只需几分钟即可完成，但账号必须符合公司关于信任与安全的标准才有资格。Facebook Verified仅限于年满18岁、在Meta关于欺诈、诈骗和欺骗性行为的社群准则方面信誉良好，且无虚假行为证据的用户。验证通过后，该徽章将显示在“二手市场”、“交友”、“群组”和“个人资料”上，Meta计划未来将其扩展到动态帖子。",
-      "clean_text": "Meta推出免费的真实个人已验证徽章Meta宣布推出Facebook Verified，这是一种免费徽章，旨在确认某个脸书个人资料属于真实的人，而非AI生成的虚假账号。该功能使用基于自拍的验证流程：用户录制一段短视频自拍，Meta公司将其与现有个人资料照片进行比对以确认匹配。Meta表示该流程免费，通常只需几分钟即可完成，但账号必须符合公司关于信任与安全的标准才有资格。Facebook Verified仅限于年满18岁、在Meta关于欺诈、诈骗和欺骗性行为的社群准则方面信誉良好，且无虚假行为证据的用户。验证通过后，该徽章将显示在“二手市场”、“交友”、“群组”和“个人资料”上，Meta计划未来将其扩展到动态帖子。——Macrumors",
-      "datetime": "2026-07-26T02:51:31+00:00",
-      "views": "531",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/24/meta-launches-free-facebook-verified-badge/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31061",
-      "scraped_at": "2026-07-26T11:01:15.639560",
-      "title": "Meta推出免费",
-      "title_options": {
-        "conclusion": "Meta推出免费",
-        "attractive": "Meta推出免费",
-        "minimal": "Meta推出免费",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -824,6 +801,6 @@
       }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-07-27T14:47:03.788023"
+  "count": 32,
+  "updated_at": "2026-07-27T14:52:07.479087"
 }
