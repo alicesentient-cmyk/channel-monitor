@@ -793,37 +793,6 @@
       }
     },
     {
-      "id": "zaihuapd_42773",
-      "channel": "zaihuapd",
-      "text": "SpaceX 股价跌至 110 美元，较上市后高点腰斩SpaceX 自 6 月上市以来，股价已从超过 225 美元的高点跌至约 110 美元，较 150 美元的开盘价下跌近 30%。部分个人投资者损失严重，一名持有 7300 股的投资者账面亏损接近 45.5 万加元。股价下跌与估值过高、做空比例上升及“星舰”发射延期等因素有关。SpaceX 第 13 次“星舰”试飞定于周五晚间进行，其结果可能继续影响市场表现。Yahoo Finance·茶馆水群·",
-      "clean_text": "SpaceX 股价跌至 110 美元，较上市后高点腰斩SpaceX 自 6 月上市以来，股价已从超过 225 美元的高点跌至约 110 美元，较 150 美元的开盘价下跌近 30%。部分个人投资者损失严重，一名持有 7300 股的投资者账面亏损接近 45.5 万加元。股价下跌与估值过高、做空比例上升及“星舰”发射延期等因素有关。SpaceX 第 13 次“星舰”试飞定于周五晚间进行，其结果可能继续影响市场表现。Yahoo Finance·茶馆水群",
-      "datetime": "2026-07-26T02:45:21+00:00",
-      "views": "1.87K",
-      "source_links": [
-        {
-          "text": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investors-meltdown-over-money-191742182.html"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42773",
-      "scraped_at": "2026-07-26T11:01:14.014492",
-      "title": "SpaceX 股价跌至 110 美元，较上市后高点腰斩SpaceX 自 6 月上市以来，股价已从超过 225 美元",
-      "title_options": {
-        "conclusion": "SpaceX 股价跌至 110 美元，较上市后高点腰斩SpaceX 自 6 月上市以来，股价已从超过 225 美元",
-        "attractive": "SpaceX 股价跌至 110 美元，较上市后高点腰斩SpaceX 自 6 月上市以来，股价已从超过 225 美元",
-        "minimal": "SpaceX 股价跌至 110 美元，较上市后高点腰斩SpaceX 自 6 月上市以来，股价已从超过 225 美元",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -855,6 +824,6 @@
       }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-07-27T14:41:56.984364"
+  "count": 33,
+  "updated_at": "2026-07-27T14:47:03.788023"
 }
