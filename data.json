@@ -1,6 +1,69 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42805",
+      "channel": "zaihuapd",
+      "text": "Nvidia超越苹果成为全球市值最高的公司  根据LSEG的数据，英伟达的市值曾短暂触及3.53万亿美元，而苹果的市值为3.52万亿美元。（这会苹果又反超了）热点投稿 @ZaiHuabot 京东每天三次 m.fanli.me",
+      "clean_text": "Nvidia超越苹果成为全球市值最高的公司  根据LSEG的数据，英伟达的市值曾短暂触及3.53万亿美元，而苹果的市值为3.52万亿美元。（这会苹果又反超了）📮热点投稿 @ZaiHuabot 京东每天三次 m.fanli.me",
+      "datetime": "2026-07-28T02:01:54+00:00",
+      "views": "375",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42805",
+      "scraped_at": "2026-07-28T10:03:54.726786",
+      "title": "Nvidia超越苹果成为全球市值最高",
+      "title_options": {
+        "conclusion": "Nvidia超越苹果成为全球市值最高",
+        "attractive": "Nvidia超越苹果成为全球市值最高",
+        "minimal": "Nvidia超越苹果成为全球市值最高",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31085",
+      "channel": "xhqcankao",
+      "text": "Anthropic CEO：并未主张禁止开放权重模型Anthropic CEO达里奥·阿莫代周一表示，他的公司从未主张过禁止开放权重模型，此举意在反驳科技行业内部涌现的批评，即该AI实验室正试图对AI的未来施加过度控制。阿莫代在周一的博客文章中发表了他的观点。“总结我和Anthropic公司的立场，我们过去没有、现在也没有主张将开放权重模型作为一个类别予以禁止，”阿莫代写道。“我们反而应该专注于让强大芯片不落入威权政权之手，阻止工业规模的蒸馏，并要求对所有能力足够的模型，无论开放还是封闭，进行安全测试。”他还担心“专制政府”会建立比美国更强大的模型，以实现“永久军事优势”和/或利用人工智能镇压本国人民。",
+      "clean_text": "Anthropic CEO：并未主张禁止开放权重模型Anthropic CEO达里奥·阿莫代周一表示，他的公司从未主张过禁止开放权重模型，此举意在反驳科技行业内部涌现的批评，即该AI实验室正试图对AI的未来施加过度控制。阿莫代在周一的博客文章中发表了他的观点。“总结我和Anthropic公司的立场，我们过去没有、现在也没有主张将开放权重模型作为一个类别予以禁止，”阿莫代写道。“我们反而应该专注于让强大芯片不落入威权政权之手，阻止工业规模的蒸馏，并要求对所有能力足够的模型，无论开放还是封闭，进行安全测试。”他还担心“专制政府”会建立比美国更强大的模型，以实现“永久军事优势”和/或利用人工智能镇压本国人民。——Techcrunch、CNBC",
+      "datetime": "2026-07-28T01:28:40+00:00",
+      "views": "1.6K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31085",
+      "scraped_at": "2026-07-28T10:03:56.888374",
+      "title": "Anthropic CEO：并未主张禁止开放权重模型Anthropic CEO达里奥·阿莫代周一表示，他",
+      "title_options": {
+        "conclusion": "Anthropic CEO：并未主张禁止开放权重模型Anthropic CEO达里奥·阿莫代周一表示，他",
+        "attractive": "Anthropic CEO：并未主张禁止开放权重模型Anthropic CEO达里奥·阿莫代周一表示，他",
+        "minimal": "Anthropic CEO：并未主张禁止开放权重模型Anthropic CEO达里奥·阿莫代周一表示，他",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42804",
+      "channel": "zaihuapd",
+      "text": "黄仁勋首次发帖分享英伟达支持开源模型公开信  黄仁勋首次发帖，分享英伟达签署的一封强调开源模型重要性的公开信。信中称，人工智能将改变每个行业、赋能每家公司，并由各国共同构建。  公开信认为，开源模型有助于提升安全和网络安全、加快创新与普及，并支持技术主权；世界需要前沿闭源模型和前沿开源模型。  Jensen Huang(@JensenHuang) · 茶馆水群 ·",
+      "clean_text": "♻️黄仁勋首次发帖分享英伟达支持开源模型公开信  黄仁勋首次发帖，分享英伟达签署的一封强调开源模型重要性的公开信。信中称，人工智能将改变每个行业、赋能每家公司，并由各国共同构建。  公开信认为，开源模型有助于提升安全和网络安全、加快创新与普及，并支持技术主权；世界需要前沿闭源模型和前沿开源模型。  Jensen Huang(@JensenHuang) · 茶馆水群 · 投稿通道",
+      "datetime": "2026-07-28T01:11:19+00:00",
+      "views": "4.8K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42804",
+      "scraped_at": "2026-07-28T10:03:54.726256",
+      "title": "黄仁勋首次发帖分享英伟达支持开源模型公开信  黄仁勋首次发帖，分享英伟达签署",
+      "title_options": {
+        "conclusion": "黄仁勋首次发帖分享英伟达支持开源模型公开信  黄仁勋首次发帖，分享英伟达签署",
+        "attractive": "黄仁勋首次发帖分享英伟达支持开源模型公开信  黄仁勋首次发帖，分享英伟达签署",
+        "minimal": "黄仁勋首次发帖分享英伟达支持开源模型公开信  黄仁勋首次发帖，分享英伟达签署",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31084",
       "channel": "xhqcankao",
       "text": "月之暗面深夜宣布开源Kimi K3模型权重月之暗面昨日深夜宣布开源Kimi K3模型权重、发布技术报告，并同步开放MoonEP、FlashKDA、AgentEnv三项关键基础设施技术。此次开放涵盖模型、训练方法及底层训练系统，开发者可下载模型进行部署和二次开发，使用范围需遵循Kimi K3许可证。官方介绍显示，Kimi K3采用混合专家(MoE)架构，总参数规模达到2.8万亿，具备原生视觉理解能力，并支持 100万Token 上下文窗口。相较上一代Kimi K2.5，Kimi K3参数规模提升约3倍。月之暗面称，此次开放旨在推动开放权重模型生态的发展，希望通过开放模型、训练方法及底层基础设施，为AI社区及相关研究提供更多可复用的技术资源。",
@@ -816,6 +879,6 @@
       }
     }
   ],
-  "count": 33,
-  "updated_at": "2026-07-28T10:03:19.944565"
+  "count": 36,
+  "updated_at": "2026-07-28T10:08:23.221320"
 }
