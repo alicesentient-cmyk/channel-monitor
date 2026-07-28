@@ -1,6 +1,55 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42820",
+      "channel": "zaihuapd",
+      "text": "月之暗面被曝正为下代模型寻求更多英伟达 Blackwell 芯片  月之暗面（Moonshot） 正为其下一代模型寻求更多英伟达 Blackwell 系列芯片。此前白宫科技政策办公室主任 Michael Kratsios 已公开指控 Moonshot 通过泰国获取配备 GB300（属 Blackwell 系列）的服务器来训练 Kimi K3 模型，违反美国出口管制。  The Information · 茶馆水群 ·",
+      "clean_text": "🌙月之暗面被曝正为下代模型寻求更多英伟达 Blackwell 芯片  月之暗面（Moonshot） 正为其下一代模型寻求更多英伟达 Blackwell 系列芯片。此前白宫科技政策办公室主任 Michael Kratsios 已公开指控 Moonshot 通过泰国获取配备 GB300（属 Blackwell 系列）的服务器来训练 Kimi K3 模型，违反美国出口管制。  The Information · 茶馆水群 · 投稿通道",
+      "datetime": "2026-07-28T16:01:01+00:00",
+      "views": "1.63K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42820",
+      "scraped_at": "2026-07-29T00:12:15.381442",
+      "title": "月之暗面被曝正为下代模型寻求更多英伟达…",
+      "title_options": {
+        "conclusion": "月之暗面被曝正为下代模型寻求更多英伟达…",
+        "attractive": "月之暗面被曝正为下代模型寻求更多英伟达…",
+        "minimal": "月之暗面被曝正为下代模型寻求更多英伟达…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42819",
+      "channel": "zaihuapd",
+      "text": "Cloudflare 总结 2026 年 Q2 全球互联网中断事件，自然灾害与政府干预成主因Cloudflare 发布 2026 年第二季度全球互联网中断回顾，自然灾害与政府干预是主要诱因。4 月中旬，超强台风 Sinlaku 导致关岛断电并冲击网络基础设施，当地流量一度较预期下降 80%。伊朗在 5 月底开始恢复长达 88 天的全国断网，但流量仅恢复到此前基线水平。5 月初，德国 .de 域名 DNSSEC 密钥更新产生错误签名，致使全球验证解析器拒绝服务，大量 .de 网站短暂无法访问。6 月下旬，圣卢西亚因光纤切断导致全国流量较上周下降约 60%。同期，委内瑞拉 7.5 级地震、坦桑尼亚大面积停电，以及伊拉克和苏丹政府在考试期间实施的断网，也造成严重连网中断。此外，中东冲突引发的无人机袭击持续影响 AWS 阿联酋数据中心运行。The Cloudflare Blog·茶馆水群·",
+      "clean_text": "Cloudflare 总结 2026 年 Q2 全球互联网中断事件，自然灾害与政府干预成主因Cloudflare 发布 2026 年第二季度全球互联网中断回顾，自然灾害与政府干预是主要诱因。4 月中旬，超强台风 Sinlaku 导致关岛断电并冲击网络基础设施，当地流量一度较预期下降 80%。伊朗在 5 月底开始恢复长达 88 天的全国断网，但流量仅恢复到此前基线水平。5 月初，德国 .de 域名 DNSSEC 密钥更新产生错误签名，致使全球验证解析器拒绝服务，大量 .de 网站短暂无法访问。6 月下旬，圣卢西亚因光纤切断导致全国流量较上周下降约 60%。同期，委内瑞拉 7.5 级地震、坦桑尼亚大面积停电，以及伊拉克和苏丹政府在考试期间实施的断网，也造成严重连网中断。此外，中东冲突引发的无人机袭击持续影响 AWS 阿联酋数据中心运行。The Cloudflare Blog·茶馆水群",
+      "datetime": "2026-07-28T15:21:01+00:00",
+      "views": "4.69K",
+      "source_links": [
+        {
+          "text": "The Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42819",
+      "scraped_at": "2026-07-29T00:12:15.380803",
+      "title": "Cloudflare 总结 2026 …",
+      "title_options": {
+        "conclusion": "Cloudflare 总结 2026 …",
+        "attractive": "Cloudflare 总结 2026 …",
+        "minimal": "Cloudflare 总结 2026 …",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42818",
       "channel": "zaihuapd",
       "text": "Unity 中国 CEO：AI 难颠覆游戏引擎，\"一句话生成游戏\" 不现实7 月 28 日，在团结引擎 2.0 发布会上，Unity 中国 CEO 张俊波对\"一句话生成游戏\"的说法泼了冷水，称并不相信这种想象。他认为 AI 会大幅提高生产效率，但不会颠覆游戏引擎，\"AI 对引擎公司反而是好事\"，引擎将成为连接模型、资产和开发流程的总调度台。截至目前，团结引擎下载量已超过 150 万，月活用户超 7 万。此次发布的团结引擎 2.0 将 AI 转型作为核心升级方向，从底层改造引擎数据格式使其对 AI 更友好，并推出游戏开发 Agent \"Tuanjie Codely\"，接入腾讯混元、阿里通义千问、字节跳动等多家主流模型。张俊波预计，未来游戏开发将更多走向几人小团队模式，开发门槛下降但成功率不会因此上升，玩法、完成度和长期内容能力将成为更直接的竞争维度。第一财经·茶馆水群·",
@@ -1107,6 +1156,6 @@
       }
     }
   ],
-  "count": 43,
-  "updated_at": "2026-07-29T00:09:52.167579"
+  "count": 45,
+  "updated_at": "2026-07-29T00:14:34.943269"
 }
