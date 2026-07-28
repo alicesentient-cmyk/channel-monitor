@@ -1068,37 +1068,6 @@
       }
     },
     {
-      "id": "zaihuapd_42789",
-      "channel": "zaihuapd",
-      "text": "谷歌透露 Gemini 4 为迄今最雄心预训练，预计年底发布谷歌 CEO Sundar Pichai 在 Alphabet 2026 年第二季度财报会上透露，下一代大模型 Gemini 4 已投入训练，这是该公司迄今为止最具雄心的预训练项目。他表示，要在 AI 前沿竞争需要更大的基础模型，对 Gemini 4 的内部进展感到兴奋，并相信发布时能让外界满意。Pichai 强调谷歌会优先将算力分配给前沿 AGI 研发，确保 Gemini 4 亮相时仍处行业前沿。按往年节奏，该模型预计在今年 11 月或 12 月发布。此外，Gemini 3.x Flash 系列将保持几乎每月一次的迭代频率，重点提升智能编码等能力。9To5Google·茶馆水群·",
-      "clean_text": "🐶谷歌透露 Gemini 4 为迄今最雄心预训练，预计年底发布谷歌 CEO Sundar Pichai 在 Alphabet 2026 年第二季度财报会上透露，下一代大模型 Gemini 4 已投入训练，这是该公司迄今为止最具雄心的预训练项目。他表示，要在 AI 前沿竞争需要更大的基础模型，对 Gemini 4 的内部进展感到兴奋，并相信发布时能让外界满意。Pichai 强调谷歌会优先将算力分配给前沿 AGI 研发，确保 Gemini 4 亮相时仍处行业前沿。按往年节奏，该模型预计在今年 11 月或 12 月发布。此外，Gemini 3.x Flash 系列将保持几乎每月一次的迭代频率，重点提升智能编码等能力。9To5Google·茶馆水群",
-      "datetime": "2026-07-27T04:06:29+00:00",
-      "views": "5.36K",
-      "source_links": [
-        {
-          "text": "9To5Google",
-          "url": "https://9to5google.com/2026/07/26/google-gemini-4-teases/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42789",
-      "scraped_at": "2026-07-27T13:01:52.220859",
-      "title": "谷歌透露 Gemini 4 为迄今最雄心预训练，预计年底发布谷歌 CEO Sundar Pichai 在 Alphabet 2026 年第二季度财报会上透露，下一代大模型 Gemini 4 已投入训练，这是该公司迄今为止最具雄心",
-      "title_options": {
-        "conclusion": "谷歌透露 Gemini 4 为迄今最雄心预训练，预计年底发布谷歌 CEO Sundar Pichai 在 Alphabet 2026 年第二季度财报会上透露，下一代大模型 Gemini 4 已投入训练，这是该公司迄今为止最具雄心",
-        "attractive": "谷歌透露 Gemini 4 为迄今最雄心预训练，预计年底发布谷歌 CEO Sundar Pichai 在 Alphabet 2026 年第二季度财报会上透露，下一代大模型 Gemini 4 已投入训练，这是该公司迄今为止最具雄心",
-        "minimal": "谷歌透露 Gemini 4 为迄今最雄心预训练，预计年底发布谷歌 CEO Sundar Pichai 在 Alphabet 2026 年第二季度财报会上透露，下一代大模型 Gemini 4 已投入训练，这是该公司迄今为止最具雄心",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -1130,6 +1099,6 @@
       }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-07-28T16:02:55.362456"
+  "count": 44,
+  "updated_at": "2026-07-28T16:07:58.922507"
 }
