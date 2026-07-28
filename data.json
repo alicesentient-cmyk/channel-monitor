@@ -1,6 +1,56 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_31087",
+      "channel": "xhqcankao",
+      "text": "数据显示：谷歌的AI搜索正迅速成为默认选项无论用户是否喜欢，AI搜索正迅速成为默认选项。根据一份新报告，在短短一年的时间里，谷歌搜索中的AI生成答案，即AI概览，已从出现在15%的搜索中上升到43%，这推动了网络用户在线消费信息方式的转变。在最近一次对生成式格局的分析中，市场情报公司Similarweb指出，最初作为搜索之上的一个AI层，如今已成为搜索过程本身不可或缺的一部分，因为谷歌将用户直接引入“AI概览”，然后用户可以通过谷歌更具对话性的AI模式继续他们的研究。而同一时期，AI模式的访问量从2025年6月的1.26亿次上升到2026年5月的2.79亿次。",
+      "clean_text": "数据显示：谷歌的AI搜索正迅速成为默认选项无论用户是否喜欢，AI搜索正迅速成为默认选项。根据一份新报告，在短短一年的时间里，谷歌搜索中的AI生成答案，即AI概览，已从出现在15%的搜索中上升到43%，这推动了网络用户在线消费信息方式的转变。在最近一次对生成式格局的分析中，市场情报公司Similarweb指出，最初作为搜索之上的一个AI层，如今已成为搜索过程本身不可或缺的一部分，因为谷歌将用户直接引入“AI概览”，然后用户可以通过谷歌更具对话性的AI模式继续他们的研究。而同一时期，AI模式的访问量从2025年6月的1.26亿次上升到2026年5月的2.79亿次。——Techcrunch",
+      "datetime": "2026-07-28T02:30:44+00:00",
+      "views": "1.44K",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31087",
+      "scraped_at": "2026-07-28T11:00:58.518144",
+      "title": "数据显示：谷歌",
+      "title_options": {
+        "conclusion": "数据显示：谷歌",
+        "attractive": "数据显示：谷歌",
+        "minimal": "数据显示：谷歌",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31086",
+      "channel": "xhqcankao",
+      "text": "微软宣布推出一款专门的网络安全模型微软公司周一发布了一款专门的网络安全模型：MAI-Cyber-1-Flash。该模型与OpenAI的GPT 5.4结合使用时，在一个核心行业基准测试中的评分高于Anthropic和OpenAI自身最佳网络安全产品。虽然微软在寻求降低对OpenAI的依赖，寻求技术独立，但微软表示，将较小规模的 MAI-Cyber-1-Flash 部署在GPT之上，可以为客户降低成本。微软表示，其自主开发的 AI 模型可以 “高效处理”所有用户任务中的90%，但在处理 “极其困难的任务”时，仍然会使用OpenAI的模型。微软表示，采用一种名为 “集成框架”的技术架构，就足以打造强大的AI能力，并内置安全防护机制。与完全使用OpenAI模型相比，这款新工具的运行成本降低了50%。",
+      "clean_text": "微软宣布推出一款专门的网络安全模型微软公司周一发布了一款专门的网络安全模型：MAI-Cyber-1-Flash。该模型与OpenAI的GPT 5.4结合使用时，在一个核心行业基准测试中的评分高于Anthropic和OpenAI自身最佳网络安全产品。虽然微软在寻求降低对OpenAI的依赖，寻求技术独立，但微软表示，将较小规模的 MAI-Cyber-1-Flash 部署在GPT之上，可以为客户降低成本。微软表示，其自主开发的 AI 模型可以 “高效处理”所有用户任务中的90%，但在处理 “极其困难的任务”时，仍然会使用OpenAI的模型。微软表示，采用一种名为 “集成框架”的技术架构，就足以打造强大的AI能力，并内置安全防护机制。与完全使用OpenAI模型相比，这款新工具的运行成本降低了50%。——凤凰网科技、Techcrunch",
+      "datetime": "2026-07-28T02:04:16+00:00",
+      "views": "2.09K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006yIbLMgSJtKeIJ-_y6o8c--YjhgfZfS95iDosKjRcStoFi4bc6rw4jPrJYEIjeD3yEv"
+        },
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31086",
+      "scraped_at": "2026-07-28T11:00:58.517751",
+      "title": "微软宣布推出一款专门",
+      "title_options": {
+        "conclusion": "微软宣布推出一款专门",
+        "attractive": "微软宣布推出一款专门",
+        "minimal": "微软宣布推出一款专门",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42805",
       "channel": "zaihuapd",
       "text": "Nvidia超越苹果成为全球市值最高的公司  根据LSEG的数据，英伟达的市值曾短暂触及3.53万亿美元，而苹果的市值为3.52万亿美元。（这会苹果又反超了）热点投稿 @ZaiHuabot 京东每天三次 m.fanli.me",
@@ -856,6 +906,6 @@
       }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-07-28T10:58:55.174637"
+  "count": 37,
+  "updated_at": "2026-07-28T11:03:59.360915"
 }
