@@ -1,6 +1,83 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_31084",
+      "channel": "xhqcankao",
+      "text": "月之暗面深夜宣布开源Kimi K3模型权重月之暗面昨日深夜宣布开源Kimi K3模型权重、发布技术报告，并同步开放MoonEP、FlashKDA、AgentEnv三项关键基础设施技术。此次开放涵盖模型、训练方法及底层训练系统，开发者可下载模型进行部署和二次开发，使用范围需遵循Kimi K3许可证。官方介绍显示，Kimi K3采用混合专家(MoE)架构，总参数规模达到2.8万亿，具备原生视觉理解能力，并支持 100万Token 上下文窗口。相较上一代Kimi K2.5，Kimi K3参数规模提升约3倍。月之暗面称，此次开放旨在推动开放权重模型生态的发展，希望通过开放模型、训练方法及底层基础设施，为AI社区及相关研究提供更多可复用的技术资源。",
+      "clean_text": "月之暗面深夜宣布开源Kimi K3模型权重月之暗面昨日深夜宣布开源Kimi K3模型权重、发布技术报告，并同步开放MoonEP、FlashKDA、AgentEnv三项关键基础设施技术。此次开放涵盖模型、训练方法及底层训练系统，开发者可下载模型进行部署和二次开发，使用范围需遵循Kimi K3许可证。官方介绍显示，Kimi K3采用混合专家(MoE)架构，总参数规模达到2.8万亿，具备原生视觉理解能力，并支持 100万Token 上下文窗口。相较上一代Kimi K2.5，Kimi K3参数规模提升约3倍。月之暗面称，此次开放旨在推动开放权重模型生态的发展，希望通过开放模型、训练方法及底层基础设施，为AI社区及相关研究提供更多可复用的技术资源。——凤凰网科技",
+      "datetime": "2026-07-28T01:03:37+00:00",
+      "views": "455",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006YIe3FY5DTUF3ebxzu1e1UUubVIDvlqGVq5bl9glon--AOdPuWPLk8U0IpCAxutdWH"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31084",
+      "scraped_at": "2026-07-28T09:09:00.508022",
+      "title": "月之暗面深夜宣布开源Kimi K3模型…",
+      "title_options": {
+        "conclusion": "月之暗面深夜宣布开源Kimi K3模型…",
+        "attractive": "月之暗面深夜宣布开源Kimi K3模型…",
+        "minimal": "月之暗面深夜宣布开源Kimi K3模型…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31083",
+      "channel": "xhqcankao",
+      "text": "OpenAI CEO自曝沉迷短视频：周末一刷就是3小时，最终不得不删除AppOpenAI CEO萨姆·奥尔特曼近日表示，自己曾因研究TikTok的产品机制而逐渐沉迷，甚至在一个周六下午连续刷了约三个小时，最终不得不删除这款应用。奥尔特曼在节目中称，OpenAI此前筹备一款类似TikTok、以AI生成视频为主要内容的社交应用Sora。为了了解短视频平台的运行方式及用户体验，他开始主动使用TikTok，并一度认为自己能够控制使用时间。他表示，最初他只计划在睡前使用TikTok约10分钟，但使用时长随后逐渐增加。有一天晚上，他连续刷了约一个小时；另一个周六下午，他躺在沙发上使用了约3个小时。“我删除了TikTok，因为它的吸引力实在太强。”",
+      "clean_text": "OpenAI CEO自曝沉迷短视频：周末一刷就是3小时，最终不得不删除AppOpenAI CEO萨姆·奥尔特曼近日表示，自己曾因研究TikTok的产品机制而逐渐沉迷，甚至在一个周六下午连续刷了约三个小时，最终不得不删除这款应用。奥尔特曼在节目中称，OpenAI此前筹备一款类似TikTok、以AI生成视频为主要内容的社交应用Sora。为了了解短视频平台的运行方式及用户体验，他开始主动使用TikTok，并一度认为自己能够控制使用时间。他表示，最初他只计划在睡前使用TikTok约10分钟，但使用时长随后逐渐增加。有一天晚上，他连续刷了约一个小时；另一个周六下午，他躺在沙发上使用了约3个小时。“我删除了TikTok，因为它的吸引力实在太强。”——凤凰网科技",
+      "datetime": "2026-07-28T00:31:50+00:00",
+      "views": "1.76K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006X--5Rua8hlYNje4hEPka2jWZkhp2kFFMXFWwKINy--spNNlpo0GEIp6kgP6N6bL--fl"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31083",
+      "scraped_at": "2026-07-28T09:09:00.507602",
+      "title": "OpenAI CEO自曝沉迷短视频：周末一刷就是3小时，最终不得不删除AppOpenAI CEO萨姆·奥尔特曼近日表示，自己曾因研究TikTok",
+      "title_options": {
+        "conclusion": "OpenAI CEO自曝沉迷短视频：周末一刷就是3小时，最终不得不删除AppOpenAI CEO萨姆·奥尔特曼近日表示，自己曾因研究TikTok",
+        "attractive": "OpenAI CEO自曝沉迷短视频：周末一刷就是3小时，最终不得不删除AppOpenAI CEO萨姆·奥尔特曼近日表示，自己曾因研究TikTok",
+        "minimal": "OpenAI CEO自曝沉迷短视频：周末一刷就是3小时，最终不得不删除AppOpenAI CEO萨姆·奥尔特曼近日表示，自己曾因研究TikTok",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42803",
+      "channel": "zaihuapd",
+      "text": "GTA 6 下载码 PS5 锁区，Xbox 不受限制Rockstar 此前确认《GTA 6》不发行实体光盘，零售版均为下载码。官方近日进一步说明，PS5 下载码存在区域限制，特定国家购买的码仅限对应地区 PSN 账户兑换，涵盖巴西、北美、日本、英国等多个区域；Xbox 下载码则无此限制。其中日本区码将在 11 月 19 日发售后 170 天过期。这一限制意味着部分 PS5 玩家若购买非本区版本，需创建跨区账户才能游玩，但该操作违反 PSN 用户协议，存在封号风险。Sony 本月早些时候曾宣布可能在 2028 年前逐步淘汰光盘，此次锁区争议进一步凸显了 PSN 长期未解决的区域策略问题。Wccftech·茶馆水群·",
+      "clean_text": "GTA 6 下载码 PS5 锁区，Xbox 不受限制Rockstar 此前确认《GTA 6》不发行实体光盘，零售版均为下载码。官方近日进一步说明，PS5 下载码存在区域限制，特定国家购买的码仅限对应地区 PSN 账户兑换，涵盖巴西、北美、日本、英国等多个区域；Xbox 下载码则无此限制。其中日本区码将在 11 月 19 日发售后 170 天过期。这一限制意味着部分 PS5 玩家若购买非本区版本，需创建跨区账户才能游玩，但该操作违反 PSN 用户协议，存在封号风险。Sony 本月早些时候曾宣布可能在 2028 年前逐步淘汰光盘，此次锁区争议进一步凸显了 PSN 长期未解决的区域策略问题。Wccftech·茶馆水群",
+      "datetime": "2026-07-28T00:14:10+00:00",
+      "views": "3.9K",
+      "source_links": [
+        {
+          "text": "Wccftech",
+          "url": "https://wccftech.com/playstation-5-gta-6-download-codes-region-locked-xbox-no-restriction/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42803",
+      "scraped_at": "2026-07-28T09:08:58.676394",
+      "title": "GTA 6 下载码 PS5 锁区，Xb…",
+      "title_options": {
+        "conclusion": "GTA 6 下载码 PS5 锁区，Xb…",
+        "attractive": "GTA 6 下载码 PS5 锁区，Xb…",
+        "minimal": "GTA 6 下载码 PS5 锁区，Xb…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31082",
       "channel": "xhqcankao",
       "text": "苹果公司市值反超英伟达，重回全球第一苹果公司市值重新超越英伟达公司，成为全球市值最高的上市公司。当地时间7月27日收盘，苹果公司股价上涨 1%，总市值达到 4.95 万亿美元；英伟达股价则下跌5%，总市值降至 4.77 万亿美元。这是苹果自2025年4月以来首次重返全球市值第一。英伟达公司自2025年6月超越微软后一直保持全球市值第一，并曾于2025年10月短暂突破5万亿美元市值。不过，当天人工智能芯片板块整体走弱，市场对于人工智能基础设施持续高额投入的担忧升温，拖累包括英伟达在内的相关芯片股表现。部分投资者更认可苹果相对克制的AI资本开支策略。",
@@ -739,6 +816,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-07-28T09:07:45.441517"
+  "count": 33,
+  "updated_at": "2026-07-28T09:12:49.140324"
 }
