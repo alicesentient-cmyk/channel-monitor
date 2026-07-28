@@ -1023,24 +1023,6 @@
       }
     },
     {
-      "id": "zaihuapd_42793",
-      "channel": "zaihuapd",
-      "text": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源的 2.8 万亿参数模型。K3 基于 Kimi Delta Attention 与 Attention Residuals 架构，具备原生视觉能力和 100 万 token 上下文窗口。在第三方基准 Frontend Code Arena 中，K3 以 1679 分排名第一，从 Kimi k2.6 的第 18 名跃升至榜首，7 个评测领域中 6 项居首，仅游戏领域落后于…",
-      "clean_text": "🌙Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源的 2.8 万亿参数模型。K3 基于 Kimi Delta Attention 与 Attention Residuals 架构，具备原生视觉能力和 100 万 token 上下文窗口。在第三方基准 Frontend Code Arena 中，K3 以 1679 分排名第一，从 Kimi k2.6 的第 18 名跃升至榜首，7 个评测领域中 6 项居首，仅游戏领域落后于…",
-      "datetime": "2026-07-27T06:27:06+00:00",
-      "views": "4.66K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42793",
-      "scraped_at": "2026-07-27T15:02:24.783395",
-      "title": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-      "title_options": {
-        "conclusion": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-        "attractive": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-        "minimal": "Kimi K3 发布：开源 2.8T 模型，前端编程在 Arena 中超越 Fable 5 跃居第一  月之暗面发布 Kimi K3，全球首个开源",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42764",
       "channel": "zaihuapd",
       "text": "马斯克称中国很有可能成 AI 领导者近日，马斯克在接受采访时表示：中国在机器人和人工智能方面非常强大，很有可能在某个时候成为 AI 领导者新浪科技·茶馆水群·",
@@ -1111,6 +1093,6 @@
       }
     }
   ],
-  "count": 44,
-  "updated_at": "2026-07-28T18:24:40.897790"
+  "count": 43,
+  "updated_at": "2026-07-28T18:29:44.035089"
 }
