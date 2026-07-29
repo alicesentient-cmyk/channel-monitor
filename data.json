@@ -281,29 +281,6 @@
       }
     },
     {
-      "id": "xhqcankao_31098",
-      "channel": "xhqcankao",
-      "text": "微软因用户反对取消Outlook的Copilot搜索2026年4月，微软宣布将把Copilot直接添加到Outlook的搜索菜单中，并用人工智能生成的建议干扰您的常规搜索结果。该功能于今年六月开始推出，但并未受到许多用户的欢迎，因为Copilot会妨碍查找常规邮件。微软现在表示，Copilot集成已被取消。微软曾坚信，将Copilot添加到Outlook搜索中会帮助您提高工作效率。但在7月23日发布的更新中，微软确认已决定不推进这一更改，并对由此造成的任何不便表示歉意。该公司表示：“我们已决定目前不推进这一更改。我们对由此造成的任何不便表示歉意。”",
-      "clean_text": "微软因用户反对取消Outlook的Copilot搜索2026年4月，微软宣布将把Copilot直接添加到Outlook的搜索菜单中，并用人工智能生成的建议干扰您的常规搜索结果。该功能于今年六月开始推出，但并未受到许多用户的欢迎，因为Copilot会妨碍查找常规邮件。微软现在表示，Copilot集成已被取消。微软曾坚信，将Copilot添加到Outlook搜索中会帮助您提高工作效率。但在7月23日发布的更新中，微软确认已决定不推进这一更改，并对由此造成的任何不便表示歉意。该公司表示：“我们已决定目前不推进这一更改。我们对由此造成的任何不便表示歉意。”——Windowslatest",
-      "datetime": "2026-07-28T11:35:36+00:00",
-      "views": "1.16K",
-      "source_links": [
-        {
-          "text": "Windowslatest",
-          "url": "https://www.windowslatest.com/2026/07/28/microsoft-canceled-copilot-search-for-outlook-after-user-outrage-in-a-rare-ai-reversal/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31098",
-      "scraped_at": "2026-07-28T20:01:06.646121",
-      "title": "微软因用户反对取消Outlook",
-      "title_options": {
-        "conclusion": "微软因用户反对取消Outlook",
-        "attractive": "微软因用户反对取消Outlook",
-        "minimal": "微软因用户反对取消Outlook",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -343,6 +320,6 @@
       }
     }
   ],
-  "count": 13,
-  "updated_at": "2026-07-29T23:33:24.883439"
+  "count": 12,
+  "updated_at": "2026-07-29T23:38:30.472446"
 }
