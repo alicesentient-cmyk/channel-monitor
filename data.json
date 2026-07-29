@@ -204,37 +204,6 @@
       }
     },
     {
-      "id": "zaihuapd_42817",
-      "channel": "zaihuapd",
-      "text": "Moonshot 被曝正为下代模型寻求更多英伟达 Blackwell 芯片月之暗面（Moonshot） 正为其下一代模型寻求更多英伟达 Blackwell 系列芯片。此前白宫科技政策办公室主任 Michael Kratsios 已公开指控 Moonshot 通过泰国获取配备 GB300（属 Blackwell 系列）的服务器来训练 Kimi K3 模型，违反美国出口管制。The Information·茶馆水群·",
-      "clean_text": "Moonshot 被曝正为下代模型寻求更多英伟达 Blackwell 芯片月之暗面（Moonshot） 正为其下一代模型寻求更多英伟达 Blackwell 系列芯片。此前白宫科技政策办公室主任 Michael Kratsios 已公开指控 Moonshot 通过泰国获取配备 GB300（属 Blackwell 系列）的服务器来训练 Kimi K3 模型，违反美国出口管制。The Information·茶馆水群",
-      "datetime": "2026-07-28T13:52:07+00:00",
-      "views": "1.73K",
-      "source_links": [
-        {
-          "text": "The Information",
-          "url": "https://www.theinformation.com/articles/chinese-ai-startup-moonshot-seeks-nvidia-blackwell-chips-next-model"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42817",
-      "scraped_at": "2026-07-28T22:02:34.579647",
-      "title": "Moonshot 被曝正为下代模型寻求…",
-      "title_options": {
-        "conclusion": "Moonshot 被曝正为下代模型寻求…",
-        "attractive": "Moonshot 被曝正为下代模型寻求…",
-        "minimal": "Moonshot 被曝正为下代模型寻求…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -274,6 +243,6 @@
       }
     }
   ],
-  "count": 10,
-  "updated_at": "2026-07-30T01:50:47.748153"
+  "count": 9,
+  "updated_at": "2026-07-30T01:55:53.058447"
 }
