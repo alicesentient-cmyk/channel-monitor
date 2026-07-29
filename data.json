@@ -1011,33 +1011,6 @@
       }
     },
     {
-      "id": "xhqcankao_31081",
-      "channel": "xhqcankao",
-      "text": "英伟达押注OpenAI前首席科学家创业公司经过两年低调发展后，由OpenAI前首席科学家Ilya Sutskever创立的人工智能公司周一宣布与英伟达建立长期合作关系，为下一阶段的大规模研发扩张做准备。作为一项长期合作的一部分，此举不仅有望提升这家初创公司获取算力资源的能力，也有助于英伟达巩固其在AI芯片市场的领先地位，应对竞争对手的挑战。英伟达当天表示，在罕见获准深入了解Safe Superintelligence(SSI)的研究进展后，决定对该公司进行一笔 “规模可观”的投资。根据合作协议，SSI将获得大量英伟达旗舰 GPU 资源，其可调用的算力将提升一个数量级。",
-      "clean_text": "英伟达押注OpenAI前首席科学家创业公司经过两年低调发展后，由OpenAI前首席科学家Ilya Sutskever创立的人工智能公司周一宣布与英伟达建立长期合作关系，为下一阶段的大规模研发扩张做准备。作为一项长期合作的一部分，此举不仅有望提升这家初创公司获取算力资源的能力，也有助于英伟达巩固其在AI芯片市场的领先地位，应对竞争对手的挑战。英伟达当天表示，在罕见获准深入了解Safe Superintelligence(SSI)的研究进展后，决定对该公司进行一笔 “规模可观”的投资。根据合作协议，SSI将获得大量英伟达旗舰 GPU 资源，其可调用的算力将提升一个数量级。——财联社、Techcrunch",
-      "datetime": "2026-07-27T23:31:49+00:00",
-      "views": "850",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2438316?sv=8.8.0"
-        },
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31081",
-      "scraped_at": "2026-07-28T08:02:39.219114",
-      "title": "英伟达押注OpenAI前首席科学家创业公司经过两年低调发展后，由OpenAI前首席科学家Ilya Sutskever创立",
-      "title_options": {
-        "conclusion": "英伟达押注OpenAI前首席科学家创业公司经过两年低调发展后，由OpenAI前首席科学家Ilya Sutskever创立",
-        "attractive": "英伟达押注OpenAI前首席科学家创业公司经过两年低调发展后，由OpenAI前首席科学家Ilya Sutskever创立",
-        "minimal": "英伟达押注OpenAI前首席科学家创业公司经过两年低调发展后，由OpenAI前首席科学家Ilya Sutskever创立",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -1077,6 +1050,6 @@
       }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-07-29T11:27:32.089939"
+  "count": 41,
+  "updated_at": "2026-07-29T11:32:35.155338"
 }
