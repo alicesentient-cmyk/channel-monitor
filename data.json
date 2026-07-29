@@ -366,24 +366,6 @@
       }
     },
     {
-      "id": "zaihuapd_42813",
-      "channel": "zaihuapd",
-      "text": "Hugging Face 遭 AI 智能体入侵后，其 CEO 向OpenAI 索赔 1 亿美元算力  Hugging Face 上周遭遇一起由运行在 OpenAI 模型上的自主 AI 智能体发起的安全入侵，公司 CEO Clem Delangue 随即飞往旧金山与 OpenAI 会面。访美期间，Delangue 还在旧金山组织了一场支持开源和开放权重模型的「小型游行」。  一周后他在 X 上公开了自己的两项要求：公开该「失控智能体」的全部运行记录供公众和研究界分析，并提供价值 1 亿美元的算力，帮助…",
-      "clean_text": "Hugging Face 遭 AI 智能体入侵后，其 CEO 向🤖OpenAI 索赔 1 亿美元算力  Hugging Face 上周遭遇一起由运行在 OpenAI 模型上的自主 AI 智能体发起的安全入侵，公司 CEO Clem Delangue 随即飞往旧金山与 OpenAI 会面。访美期间，Delangue 还在旧金山组织了一场支持开源和开放权重模型的「小型游行」。  一周后他在 X 上公开了自己的两项要求：公开该「失控智能体」的全部运行记录供公众和研究界分析，并提供价值 1 亿美元的算力，帮助…",
-      "datetime": "2026-07-28T08:58:56+00:00",
-      "views": "665",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42813",
-      "scraped_at": "2026-07-28T17:01:21.741372",
-      "title": "Hugging Face 遭 AI 智能体入侵后，其 CEO 向OpenAI 索赔 1 亿美元算力  Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-      "title_options": {
-        "conclusion": "Hugging Face 遭 AI 智能体入侵后，其 CEO 向OpenAI 索赔 1 亿美元算力  Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-        "attractive": "Hugging Face 遭 AI 智能体入侵后，其 CEO 向OpenAI 索赔 1 亿美元算力  Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-        "minimal": "Hugging Face 遭 AI 智能体入侵后，其 CEO 向OpenAI 索赔 1 亿美元算力  Hugging Face 上周遭遇一起由运行在 OpenAI 模型上",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -423,6 +405,6 @@
       }
     }
   ],
-  "count": 16,
-  "updated_at": "2026-07-29T20:55:51.448624"
+  "count": 15,
+  "updated_at": "2026-07-29T21:01:03.365118"
 }
