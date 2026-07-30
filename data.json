@@ -1,6 +1,41 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42872",
+      "channel": "zaihuapd",
+      "text": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人的全身智能控制。系列包含三个模型：视觉-语言-动作模型可控制人形机器人从脚到指尖完成行走、下蹲、抓取等动作；具身推理模型 ER 2 作为机器人的「高层大脑」，可规划持续数分钟、涉及数百次决策的多步任务；端侧模型可本地运行，仅需几小时、通常不到 200 个示例即可适配全新机器人本体。新模型还支持多机器人协作，不同类型机器人可协同完成单机无法胜任的复杂任务。ER 2 已通过 Gemini API 和 Google AI Studio 向开发者开放，VLA 与端侧模型面向早期合作伙伴提供。团队同时推出 ASIMOV-Agentic 安全基准，ER 2 可在有人靠近时让机器人自动安全停止。Google DeepMind|Google·茶馆水群·",
+      "clean_text": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人的全身智能控制。系列包含三个模型：视觉-语言-动作模型可控制人形机器人从脚到指尖完成行走、下蹲、抓取等动作；具身推理模型 ER 2 作为机器人的「高层大脑」，可规划持续数分钟、涉及数百次决策的多步任务；端侧模型可本地运行，仅需几小时、通常不到 200 个示例即可适配全新机器人本体。新模型还支持多机器人协作，不同类型机器人可协同完成单机无法胜任的复杂任务。ER 2 已通过 Gemini API 和 Google AI Studio 向开发者开放，VLA 与端侧模型面向早期合作伙伴提供。团队同时推出 ASIMOV-Agentic 安全基准，ER 2 可在有人靠近时让机器人自动安全停止。Google DeepMind|Google·茶馆水群",
+      "datetime": "2026-07-30T16:14:08+00:00",
+      "views": "3.04K",
+      "source_links": [
+        {
+          "text": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+        },
+        {
+          "text": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42872",
+      "scraped_at": "2026-07-31T01:00:47.201745",
+      "title": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
+      "title_options": {
+        "conclusion": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
+        "attractive": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
+        "minimal": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31155",
       "channel": "xhqcankao",
       "text": "SpaceX 将中国公民和中国产零部件排除在供应链之外多位消息人士透露，SpaceX正采取积极措施，确保其运营和供应链不受中国影响，以保障对美国国家安全至关重要的技术的生产。SpaceX已派出团队对现有和潜在供应商进行审核，并指示其庞大的全球供应链中的合作伙伴，不得在为SpaceX生产产品的工厂中安排或雇用中国公民，也不得使用中国公司制造的系统或设备。一位直接了解此事的业内人士表示：“SpaceX关注的重点之一是，即使工厂位于中国境外，是否也存在任何来自中国的经理、员工或高管。他们要求将这些人员从为他们服务的任何设施和项目中移除。”SpaceX不会从中国供应商或位于中国的工厂采购关键零部件，即使这些工厂的所有者并非中国企业。几位业内人士透露，SpaceX如何对供应商进行详细审核，包括检查工厂系统，例如监控和网络设备，任何来自海康威视、TP-Link或其他中国公司的设备都必须更换。SpaceX也在努力构建所谓的“非中国、非台湾”供应链，以降低在台湾海峡地缘政治紧张局势加剧时供应链中断的风险。",
@@ -1126,6 +1161,6 @@
       }
     }
   ],
-  "count": 42,
-  "updated_at": "2026-07-31T00:58:50.445590"
+  "count": 43,
+  "updated_at": "2026-07-31T01:03:54.443628"
 }
