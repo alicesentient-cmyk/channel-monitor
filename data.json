@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42873",
+      "channel": "zaihuapd",
+      "text": "OpenAI 下调 GPT-5.6 价格，Luna 降 80%，Terra 降20%OpenAI 宣布下调 GPT-5.6 系列模型价格，即日起生效。其中，最快最经济的 Luna 模型降价 80%，API 定价为每百万输入 token 0.20 美元、输出 1.20 美元；主打日常工作的 Terra 模型降价 20%，API 定价为每百万输入 token 2 美元、输出 12 美元。旗舰 Sol 模型价格不变，但新增 Fast 模式，速度最高提升 2.5 倍，价格为标准模式的两倍，取代此前的优先处理。此次降价源于 GPT-5.6 在模型、推理系统和智能体框架等层面的效率提升。Sol 模型在人工主导的流程中自主重写并优化了生产内核，帮助将端到端服务成本降低约 20%，token 生成效率提升超 15%。ChatGPT 和 Codex 的订阅价格及配额不变，但 Terra 和 Luna 使用量消耗的积分相应减少。OpenAI·茶馆水群·",
+      "clean_text": "🤖OpenAI 下调 GPT-5.6 价格，Luna 降 80%，Terra 降20%OpenAI 宣布下调 GPT-5.6 系列模型价格，即日起生效。其中，最快最经济的 Luna 模型降价 80%，API 定价为每百万输入 token 0.20 美元、输出 1.20 美元；主打日常工作的 Terra 模型降价 20%，API 定价为每百万输入 token 2 美元、输出 12 美元。旗舰 Sol 模型价格不变，但新增 Fast 模式，速度最高提升 2.5 倍，价格为标准模式的两倍，取代此前的优先处理。此次降价源于 GPT-5.6 在模型、推理系统和智能体框架等层面的效率提升。Sol 模型在人工主导的流程中自主重写并优化了生产内核，帮助将端到端服务成本降低约 20%，token 生成效率提升超 15%。ChatGPT 和 Codex 的订阅价格及配额不变，但 Terra 和 Luna 使用量消耗的积分相应减少。OpenAI·茶馆水群",
+      "datetime": "2026-07-30T17:12:01+00:00",
+      "views": "2.7K",
+      "source_links": [
+        {
+          "text": "OpenAI",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42873",
+      "scraped_at": "2026-07-31T02:01:35.092172",
+      "title": "OpenAI 下调 GPT-5.6 价…",
+      "title_options": {
+        "conclusion": "OpenAI 下调 GPT-5.6 价…",
+        "attractive": "OpenAI 下调 GPT-5.6 价…",
+        "minimal": "OpenAI 下调 GPT-5.6 价…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42872",
       "channel": "zaihuapd",
       "text": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人的全身智能控制。系列包含三个模型：视觉-语言-动作模型可控制人形机器人从脚到指尖完成行走、下蹲、抓取等动作；具身推理模型 ER 2 作为机器人的「高层大脑」，可规划持续数分钟、涉及数百次决策的多步任务；端侧模型可本地运行，仅需几小时、通常不到 200 个示例即可适配全新机器人本体。新模型还支持多机器人协作，不同类型机器人可协同完成单机无法胜任的复杂任务。ER 2 已通过 Gemini API 和 Google AI Studio 向开发者开放，VLA 与端侧模型面向早期合作伙伴提供。团队同时推出 ASIMOV-Agentic 安全基准，ER 2 可在有人靠近时让机器人自动安全停止。Google DeepMind|Google·茶馆水群·",
@@ -1161,6 +1192,6 @@
       }
     }
   ],
-  "count": 43,
-  "updated_at": "2026-07-31T01:59:39.900729"
+  "count": 44,
+  "updated_at": "2026-07-31T02:04:43.455477"
 }
