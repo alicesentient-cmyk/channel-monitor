@@ -1,6 +1,33 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_31156",
+      "channel": "xhqcankao",
+      "text": "DeepSeek拟在内蒙古建设大型AI数据中心知情人士称，DeepSeek正计划在内蒙古建设大型AI数据中心，这是该公司在计算基础设施领域迈出的雄心勃勃的一步。此前其已展现出能与硅谷领先AI模型一较高下的实力。DeepSeek 拟在北京西北约 350公里的乌兰察布新增1吉瓦的算力。DeepSeek计划自建新设施，同时从其他公司租赁额外容量。根据一份由第三方整理的当地政府审批项目清单，已有十余家企业计划在乌兰察布建设项目。两名知情人士表示， DeepSeek 正推动该数据中心在明年底或2028年初让至少部分算力上线运行。目前尚不清楚 DeepSeek 将为该项目采用哪种芯片。",
+      "clean_text": "DeepSeek拟在内蒙古建设大型AI数据中心知情人士称，DeepSeek正计划在内蒙古建设大型AI数据中心，这是该公司在计算基础设施领域迈出的雄心勃勃的一步。此前其已展现出能与硅谷领先AI模型一较高下的实力。DeepSeek 拟在北京西北约 350公里的乌兰察布新增1吉瓦的算力。DeepSeek计划自建新设施，同时从其他公司租赁额外容量。根据一份由第三方整理的当地政府审批项目清单，已有十余家企业计划在乌兰察布建设项目。两名知情人士表示， DeepSeek 正推动该数据中心在明年底或2028年初让至少部分算力上线运行。目前尚不清楚 DeepSeek 将为该项目采用哪种芯片。——凤凰网科技、彭博社",
+      "datetime": "2026-07-30T23:00:58+00:00",
+      "views": "57",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006X9WovljwHD3k8beQT0c1qnBe3OXap7wu8d2lJzLiujj7uQP0XC9-_wwcBlijSxd8g"
+        },
+        {
+          "text": "彭博社",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31156",
+      "scraped_at": "2026-07-31T07:02:18.018205",
+      "title": "DeepSeek拟在内蒙古建设大型AI数据中心知情人士称，DeepSeek正计划在内蒙古建设大型AI数据中心，这是该公司在计算基础设施领域迈出",
+      "title_options": {
+        "conclusion": "DeepSeek拟在内蒙古建设大型AI数据中心知情人士称，DeepSeek正计划在内蒙古建设大型AI数据中心，这是该公司在计算基础设施领域迈出",
+        "attractive": "DeepSeek拟在内蒙古建设大型AI数据中心知情人士称，DeepSeek正计划在内蒙古建设大型AI数据中心，这是该公司在计算基础设施领域迈出",
+        "minimal": "DeepSeek拟在内蒙古建设大型AI数据中心知情人士称，DeepSeek正计划在内蒙古建设大型AI数据中心，这是该公司在计算基础设施领域迈出",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42873",
       "channel": "zaihuapd",
       "text": "OpenAI 下调 GPT-5.6 价格，Luna 降 80%，Terra 降20%OpenAI 宣布下调 GPT-5.6 系列模型价格，即日起生效。其中，最快最经济的 Luna 模型降价 80%，API 定价为每百万输入 token 0.20 美元、输出 1.20 美元；主打日常工作的 Terra 模型降价 20%，API 定价为每百万输入 token 2 美元、输出 12 美元。旗舰 Sol 模型价格不变，但新增 Fast 模式，速度最高提升 2.5 倍，价格为标准模式的两倍，取代此前的优先处理。此次降价源于 GPT-5.6 在模型、推理系统和智能体框架等层面的效率提升。Sol 模型在人工主导的流程中自主重写并优化了生产内核，帮助将端到端服务成本降低约 20%，token 生成效率提升超 15%。ChatGPT 和 Codex 的订阅价格及配额不变，但 Terra 和 Luna 使用量消耗的积分相应减少。OpenAI·茶馆水群·",
@@ -1192,6 +1219,6 @@
       }
     }
   ],
-  "count": 44,
-  "updated_at": "2026-07-31T06:57:45.667404"
+  "count": 45,
+  "updated_at": "2026-07-31T07:02:48.969484"
 }
