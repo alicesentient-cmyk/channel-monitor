@@ -1120,41 +1120,6 @@
       }
     },
     {
-      "id": "zaihuapd_42872",
-      "channel": "zaihuapd",
-      "text": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人的全身智能控制。系列包含三个模型：视觉-语言-动作模型可控制人形机器人从脚到指尖完成行走、下蹲、抓取等动作；具身推理模型 ER 2 作为机器人的「高层大脑」，可规划持续数分钟、涉及数百次决策的多步任务；端侧模型可本地运行，仅需几小时、通常不到 200 个示例即可适配全新机器人本体。新模型还支持多机器人协作，不同类型机器人可协同完成单机无法胜任的复杂任务。ER 2 已通过 Gemini API 和 Google AI Studio 向开发者开放，VLA 与端侧模型面向早期合作伙伴提供。团队同时推出 ASIMOV-Agentic 安全基准，ER 2 可在有人靠近时让机器人自动安全停止。Google DeepMind|Google·茶馆水群·",
-      "clean_text": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人的全身智能控制。系列包含三个模型：视觉-语言-动作模型可控制人形机器人从脚到指尖完成行走、下蹲、抓取等动作；具身推理模型 ER 2 作为机器人的「高层大脑」，可规划持续数分钟、涉及数百次决策的多步任务；端侧模型可本地运行，仅需几小时、通常不到 200 个示例即可适配全新机器人本体。新模型还支持多机器人协作，不同类型机器人可协同完成单机无法胜任的复杂任务。ER 2 已通过 Gemini API 和 Google AI Studio 向开发者开放，VLA 与端侧模型面向早期合作伙伴提供。团队同时推出 ASIMOV-Agentic 安全基准，ER 2 可在有人靠近时让机器人自动安全停止。Google DeepMind|Google·茶馆水群",
-      "datetime": "2026-07-30T16:14:08+00:00",
-      "views": "3.04K",
-      "source_links": [
-        {
-          "text": "Google DeepMind",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
-        },
-        {
-          "text": "Google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42872",
-      "scraped_at": "2026-07-31T01:00:47.201745",
-      "title": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
-      "title_options": {
-        "conclusion": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
-        "attractive": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
-        "minimal": "谷歌 DeepMind 发布 Gemini Robotics 2，实现机器人全身智能控制谷歌 DeepMind 于 2026 年 7 月 30 日发布 Gemini Robotics 2 系列模型，首次实现对完整人形机器人",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1173,6 +1138,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-08-01T04:10:53.040625"
+  "count": 45,
+  "updated_at": "2026-08-01T04:15:56.372872"
 }
