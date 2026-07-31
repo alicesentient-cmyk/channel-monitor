@@ -1331,37 +1331,6 @@
       }
     },
     {
-      "id": "zaihuapd_42864",
-      "channel": "zaihuapd",
-      "text": "Google DeepMind 解散 AlphaFold 团队，核心成员投奔AnthropicGoogle DeepMind 已解散曾获诺贝尔奖的蛋白质结构预测 AI 系统 AlphaFold 的研发团队，这是其全面调整研究战略的一部分。过去一年，AlphaFold 论文的多数原作者已被调离原岗位。DeepMind 证实，这些员工在内部转岗至 Gemini 大语言模型、酶设计、核聚变及基因组学等项目，部分人则转入 Alphabet 旗下药物研发公司 Isomorphic Labs。近四分之一论文作者已完全离开公司，其中三名核心成员 John Jumper、Jonas Adler 和 Alexander Pritzel 跳槽至竞争对手 Anthropic。OpenAI 研究主管 Mark Chen 此前评论称，AI 研究人员希望在前沿实验室工作，而非疲于追赶。Financial Times·茶馆水群·",
-      "clean_text": "🐶Google DeepMind 解散 AlphaFold 团队，核心成员投奔🤖AnthropicGoogle DeepMind 已解散曾获诺贝尔奖的蛋白质结构预测 AI 系统 AlphaFold 的研发团队，这是其全面调整研究战略的一部分。过去一年，AlphaFold 论文的多数原作者已被调离原岗位。DeepMind 证实，这些员工在内部转岗至 Gemini 大语言模型、酶设计、核聚变及基因组学等项目，部分人则转入 Alphabet 旗下药物研发公司 Isomorphic Labs。近四分之一论文作者已完全离开公司，其中三名核心成员 John Jumper、Jonas Adler 和 Alexander Pritzel 跳槽至竞争对手 Anthropic。OpenAI 研究主管 Mark Chen 此前评论称，AI 研究人员希望在前沿实验室工作，而非疲于追赶。Financial Times·茶馆水群",
-      "datetime": "2026-07-30T07:45:42+00:00",
-      "views": "14K",
-      "source_links": [
-        {
-          "text": "Financial Times",
-          "url": "https://www.ft.com/content/61b2953d-ee0d-45de-af6e-a9c1cf524b33?syn-25a6b1a6=1"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42864",
-      "scraped_at": "2026-07-30T22:01:35.255174",
-      "title": "Google DeepMind 解散 AlphaFold 团队，核心成员投奔AnthropicGoogle DeepMind 已解散曾获诺贝尔奖",
-      "title_options": {
-        "conclusion": "Google DeepMind 解散 AlphaFold 团队，核心成员投奔AnthropicGoogle DeepMind 已解散曾获诺贝尔奖",
-        "attractive": "Google DeepMind 解散 AlphaFold 团队，核心成员投奔AnthropicGoogle DeepMind 已解散曾获诺贝尔奖",
-        "minimal": "Google DeepMind 解散 AlphaFold 团队，核心成员投奔AnthropicGoogle DeepMind 已解散曾获诺贝尔奖",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1380,6 +1349,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-07-31T19:42:17.024391"
+  "count": 52,
+  "updated_at": "2026-07-31T19:47:20.826356"
 }
