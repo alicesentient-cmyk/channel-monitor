@@ -1089,37 +1089,6 @@
       }
     },
     {
-      "id": "zaihuapd_42873",
-      "channel": "zaihuapd",
-      "text": "OpenAI 下调 GPT-5.6 价格，Luna 降 80%，Terra 降20%OpenAI 宣布下调 GPT-5.6 系列模型价格，即日起生效。其中，最快最经济的 Luna 模型降价 80%，API 定价为每百万输入 token 0.20 美元、输出 1.20 美元；主打日常工作的 Terra 模型降价 20%，API 定价为每百万输入 token 2 美元、输出 12 美元。旗舰 Sol 模型价格不变，但新增 Fast 模式，速度最高提升 2.5 倍，价格为标准模式的两倍，取代此前的优先处理。此次降价源于 GPT-5.6 在模型、推理系统和智能体框架等层面的效率提升。Sol 模型在人工主导的流程中自主重写并优化了生产内核，帮助将端到端服务成本降低约 20%，token 生成效率提升超 15%。ChatGPT 和 Codex 的订阅价格及配额不变，但 Terra 和 Luna 使用量消耗的积分相应减少。OpenAI·茶馆水群·",
-      "clean_text": "🤖OpenAI 下调 GPT-5.6 价格，Luna 降 80%，Terra 降20%OpenAI 宣布下调 GPT-5.6 系列模型价格，即日起生效。其中，最快最经济的 Luna 模型降价 80%，API 定价为每百万输入 token 0.20 美元、输出 1.20 美元；主打日常工作的 Terra 模型降价 20%，API 定价为每百万输入 token 2 美元、输出 12 美元。旗舰 Sol 模型价格不变，但新增 Fast 模式，速度最高提升 2.5 倍，价格为标准模式的两倍，取代此前的优先处理。此次降价源于 GPT-5.6 在模型、推理系统和智能体框架等层面的效率提升。Sol 模型在人工主导的流程中自主重写并优化了生产内核，帮助将端到端服务成本降低约 20%，token 生成效率提升超 15%。ChatGPT 和 Codex 的订阅价格及配额不变，但 Terra 和 Luna 使用量消耗的积分相应减少。OpenAI·茶馆水群",
-      "datetime": "2026-07-30T17:12:01+00:00",
-      "views": "2.7K",
-      "source_links": [
-        {
-          "text": "OpenAI",
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42873",
-      "scraped_at": "2026-07-31T02:01:35.092172",
-      "title": "OpenAI 下调 GPT-5.6 价…",
-      "title_options": {
-        "conclusion": "OpenAI 下调 GPT-5.6 价…",
-        "attractive": "OpenAI 下调 GPT-5.6 价…",
-        "minimal": "OpenAI 下调 GPT-5.6 价…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1138,6 +1107,6 @@
       }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-08-01T05:11:29.355896"
+  "count": 44,
+  "updated_at": "2026-08-01T05:16:32.759965"
 }
