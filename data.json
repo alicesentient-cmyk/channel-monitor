@@ -1491,37 +1491,6 @@
       }
     },
     {
-      "id": "zaihuapd_42854",
-      "channel": "zaihuapd",
-      "text": "Google 发布新版音乐生成模型 Lyria 3.5Google 于 7 月 29 日发布音乐生成模型 Lyria 3.5，并已上线 Google Flow Music。新版本在音乐性、歌词、人声及创作控制四方面升级，可生成更自然复杂的旋律、结构更清晰的歌词，以及更具情感且发音更准确的人声。用户还可更灵活地调节生成音乐的节奏与时长，目前可在 Flow Music 直接体验。Google·茶馆水群·",
-      "clean_text": "🐶Google 发布新版音乐生成模型 Lyria 3.5Google 于 7 月 29 日发布音乐生成模型 Lyria 3.5，并已上线 Google Flow Music。新版本在音乐性、歌词、人声及创作控制四方面升级，可生成更自然复杂的旋律、结构更清晰的歌词，以及更具情感且发音更准确的人声。用户还可更灵活地调节生成音乐的节奏与时长，目前可在 Flow Music 直接体验。Google·茶馆水群",
-      "datetime": "2026-07-30T01:47:00+00:00",
-      "views": "14.7K",
-      "source_links": [
-        {
-          "text": "Google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42854",
-      "scraped_at": "2026-07-30T22:01:35.247355",
-      "title": "Google 发布新版音乐生成模型 L…",
-      "title_options": {
-        "conclusion": "Google 发布新版音乐生成模型 L…",
-        "attractive": "Google 发布新版音乐生成模型 L…",
-        "minimal": "Google 发布新版音乐生成模型 L…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -1579,6 +1548,6 @@
       }
     }
   ],
-  "count": 60,
-  "updated_at": "2026-07-31T13:42:23.293635"
+  "count": 59,
+  "updated_at": "2026-07-31T13:47:27.269348"
 }
