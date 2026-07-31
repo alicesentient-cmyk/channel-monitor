@@ -23624,5 +23624,25 @@
       "best": "conclusion"
     },
     "generated_at": "2026-07-31T14:02:41.861972"
+  },
+  "xhqcankao_31167": {
+    "ai_title": "DeepSeek-V4-Flash 正…",
+    "title_options": {
+      "conclusion": "DeepSeek-V4-Flash 正…",
+      "attractive": "DeepSeek-V4-Flash 正…",
+      "minimal": "DeepSeek-V4-Flash 正…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-31T15:03:32.428052"
+  },
+  "zaihuapd_42889": {
+    "ai_title": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+    "title_options": {
+      "conclusion": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+      "attractive": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+      "minimal": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-07-31T15:03:32.506081"
   }
 }

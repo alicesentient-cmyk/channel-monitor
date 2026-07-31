@@ -1,6 +1,47 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42889",
+      "channel": "zaihuapd",
+      "text": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数的 openPangu-2.0-Flash 模型，首批开放模型权重、基础推理代码和训推算子。  华为称，openPangu 是其开源 AI 模型品牌，面向昇腾原生训练与推理提供最佳实践参考。openPangu-2.0-Pro 的模型权重和基础推理代码将于 7 月上线，更多组件将在下半年陆续开源。  华为 · 茶馆水群 ·",
+      "clean_text": "📱华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数的 openPangu-2.0-Flash 模型，首批开放模型权重、基础推理代码和训推算子。  华为称，openPangu 是其开源 AI 模型品牌，面向昇腾原生训练与推理提供最佳实践参考。openPangu-2.0-Pro 的模型权重和基础推理代码将于 7 月上线，更多组件将在下半年陆续开源。  华为 · 茶馆水群 · 投稿通道",
+      "datetime": "2026-07-31T06:50:05+00:00",
+      "views": "2.24K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42889",
+      "scraped_at": "2026-07-31T15:02:02.828746",
+      "title": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+      "title_options": {
+        "conclusion": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+        "attractive": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+        "minimal": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31167",
+      "channel": "xhqcankao",
+      "text": "DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将“尽快”发布7 月 31 日，DeepSeek 通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。据悉，正式版 V4-Flash 原生支持 Responses API 格式并针对性适配 Codex。官方还表示，本次仅升级了 DeepSeek-V4-Flash 的 API 接口，DeepSeek-V4-Pro API 及 APP / WEB 端模型未做更改，DeepSeek-V4-Pro 正式版将会尽快发布。",
+      "clean_text": "DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将“尽快”发布7 月 31 日，DeepSeek 通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。据悉，正式版 V4-Flash 原生支持 Responses API 格式并针对性适配 Codex。官方还表示，本次仅升级了 DeepSeek-V4-Flash 的 API 接口，DeepSeek-V4-Pro API 及 APP / WEB 端模型未做更改，DeepSeek-V4-Pro 正式版将会尽快发布。——IT之家",
+      "datetime": "2026-07-31T06:46:53+00:00",
+      "views": "1.1K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/984/116.htm"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31167",
+      "scraped_at": "2026-07-31T15:02:06.503210",
+      "title": "DeepSeek-V4-Flash 正…",
+      "title_options": {
+        "conclusion": "DeepSeek-V4-Flash 正…",
+        "attractive": "DeepSeek-V4-Flash 正…",
+        "minimal": "DeepSeek-V4-Flash 正…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31166",
       "channel": "xhqcankao",
       "text": "谷歌正在研究 以让Chrome更新无需重启谷歌正在研究一种方法，可以在无需重启浏览器的情况下应用Chrome更新。在周四的一篇帖子中，谷歌概述了其在AI时代修复漏洞的方法，同时指出公司正尝试通过“投资于‘动态修补’，以消除完全重启浏览器的需要”来减少更新的干扰。谷歌称，AI驱动的安全工具已经帮助该公司发现并修复了数十个漏洞。例如，Chrome 149和150包含了1,072个漏洞修复，超过了过去23个主要版本发布的补丁数量总和。这就是 Chrome 从九月份开始切换到两周发布周期的部分原因，期间会穿插安全更新。不过，谷歌表示正考虑引入每周两次的安全更新，以应对“快速演变的AI驱动攻击”。",
@@ -1464,29 +1505,6 @@
       }
     },
     {
-      "id": "xhqcankao_31139",
-      "channel": "xhqcankao",
-      "text": "Gemini for Mac新增系统级语音听写和屏幕感知指令谷歌公司今天更新了Gemini for Mac，新增了一个用于激活语音模式的全新快速键盘快捷键。通过长按Fn键，用户可以在桌面设备的任何窗口中自然地与Gemini对话。Gemini支持智能听写，因此用户可以使用自然语言对聊天机器人说话，Gemini会将其话语转录为文本。​在此过程中，“嗯”、“啊” 及其他填充词会被移除，并且该功能可以捕捉句中修正，将格式化后的文本显示在光标处。还有一个可选的屏幕感知推理模式。如果启用，Gemini可以看到Mac屏幕上的内容以完成任务。用户可以高亮选中文件、图像、文本或文档，并让Gemini在其正在使用的应用中编辑、总结和撰写内容。当屏幕感知模式开启时，Gemini还能够生成和编辑图像。",
-      "clean_text": "Gemini for Mac新增系统级语音听写和屏幕感知指令谷歌公司今天更新了Gemini for Mac，新增了一个用于激活语音模式的全新快速键盘快捷键。通过长按Fn键，用户可以在桌面设备的任何窗口中自然地与Gemini对话。Gemini支持智能听写，因此用户可以使用自然语言对聊天机器人说话，Gemini会将其话语转录为文本。​在此过程中，“嗯”、“啊” 及其他填充词会被移除，并且该功能可以捕捉句中修正，将格式化后的文本显示在光标处。还有一个可选的屏幕感知推理模式。如果启用，Gemini可以看到Mac屏幕上的内容以完成任务。用户可以高亮选中文件、图像、文本或文档，并让Gemini在其正在使用的应用中编辑、总结和撰写内容。当屏幕感知模式开启时，Gemini还能够生成和编辑图像。——Macrumors",
-      "datetime": "2026-07-30T03:00:42+00:00",
-      "views": "6K",
-      "source_links": [
-        {
-          "text": "Macrumors",
-          "url": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31139",
-      "scraped_at": "2026-07-30T22:01:38.566958",
-      "title": "Gemini for Mac新增系统级语音听写和屏幕感知指令谷歌公司今天更新了Gemini for Mac，新增了一个用于激活语音模式",
-      "title_options": {
-        "conclusion": "Gemini for Mac新增系统级语音听写和屏幕感知指令谷歌公司今天更新了Gemini for Mac，新增了一个用于激活语音模式",
-        "attractive": "Gemini for Mac新增系统级语音听写和屏幕感知指令谷歌公司今天更新了Gemini for Mac，新增了一个用于激活语音模式",
-        "minimal": "Gemini for Mac新增系统级语音听写和屏幕感知指令谷歌公司今天更新了Gemini for Mac，新增了一个用于激活语音模式",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -1544,6 +1562,6 @@
       }
     }
   ],
-  "count": 59,
-  "updated_at": "2026-07-31T14:58:27.622282"
+  "count": 60,
+  "updated_at": "2026-07-31T15:03:32.543410"
 }
