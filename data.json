@@ -1408,41 +1408,6 @@
       }
     },
     {
-      "id": "zaihuapd_42860",
-      "channel": "zaihuapd",
-      "text": "Anthropic 称 AI 发现 NIST 后量子候选算法 HAWK 严重弱点Anthropic 于昨日发布研究称，其 Claude Mythos Preview 模型在约 60 小时内发现了 NIST 后量子密码候选算法 HAWK 的严重弱点，而人类专家此前两年未能发现。该攻击将 HAWK-256 的有效密钥强度减半，从 2^64 降至 2^38，发现过程耗费约 10 万美元 API 费用。Anthropic 强调，攻击不运行在多项式时间内，更大密钥仍难以破解，HAWK 也尚未被公开撤回。研究还包含对七轮 AES-128 的改进攻击，但完整 AES-128 为 10 轮，不影响实际生产系统。根据 2026 年 6 月白宫行政令，联邦机构须在 2030 年底前迁移至抗量子密钥体系、2031 年底前完成数字签名迁移。Anthropic 指出，AI 已成为密码学审查中速度更快的新参与者，但核心教训是应使用现有标准并保持密码敏捷性，而非等待完美算法。Startup Fortune｜Claude·茶馆水群·",
-      "clean_text": "🤖Anthropic 称 AI 发现 NIST 后量子候选算法 HAWK 严重弱点Anthropic 于昨日发布研究称，其 Claude Mythos Preview 模型在约 60 小时内发现了 NIST 后量子密码候选算法 HAWK 的严重弱点，而人类专家此前两年未能发现。该攻击将 HAWK-256 的有效密钥强度减半，从 2^64 降至 2^38，发现过程耗费约 10 万美元 API 费用。Anthropic 强调，攻击不运行在多项式时间内，更大密钥仍难以破解，HAWK 也尚未被公开撤回。研究还包含对七轮 AES-128 的改进攻击，但完整 AES-128 为 10 轮，不影响实际生产系统。根据 2026 年 6 月白宫行政令，联邦机构须在 2030 年底前迁移至抗量子密钥体系、2031 年底前完成数字签名迁移。Anthropic 指出，AI 已成为密码学审查中速度更快的新参与者，但核心教训是应使用现有标准并保持密码敏捷性，而非等待完美算法。Startup Fortune｜Claude·茶馆水群",
-      "datetime": "2026-07-30T05:47:58+00:00",
-      "views": "14K",
-      "source_links": [
-        {
-          "text": "Startup Fortune",
-          "url": "https://startupfortune.com/claude-mythos-broke-hawk-and-the-nist-post-quantum-timeline-may-not-survive-it/"
-        },
-        {
-          "text": "Claude",
-          "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42860",
-      "scraped_at": "2026-07-30T22:01:35.252280",
-      "title": "Anthropic 称 AI 发现 NIST 后量子候选算法 HAWK 严重弱点Anthropic 于昨日发布研究称，其 Claude Mythos Preview 模型在约 60 小时内发现了 NIST 后量子密码候选算法 HAWK ",
-      "title_options": {
-        "conclusion": "Anthropic 称 AI 发现 NIST 后量子候选算法 HAWK 严重弱点Anthropic 于昨日发布研究称，其 Claude Mythos Preview 模型在约 60 小时内发现了 NIST 后量子密码候选算法 HAWK ",
-        "attractive": "Anthropic 称 AI 发现 NIST 后量子候选算法 HAWK 严重弱点Anthropic 于昨日发布研究称，其 Claude Mythos Preview 模型在约 60 小时内发现了 NIST 后量子密码候选算法 HAWK ",
-        "minimal": "Anthropic 称 AI 发现 NIST 后量子候选算法 HAWK 严重弱点Anthropic 于昨日发布研究称，其 Claude Mythos Preview 模型在约 60 小时内发现了 NIST 后量子密码候选算法 HAWK ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1461,6 +1426,6 @@
       }
     }
   ],
-  "count": 56,
-  "updated_at": "2026-07-31T17:45:47.234917"
+  "count": 55,
+  "updated_at": "2026-07-31T17:50:52.231829"
 }
