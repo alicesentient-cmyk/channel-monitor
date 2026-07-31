@@ -1558,37 +1558,6 @@
       }
     },
     {
-      "id": "zaihuapd_42852",
-      "channel": "zaihuapd",
-      "text": "Valve：Steam Machine 预订者年底前获购买资格，外壳 CAD 文件开源Valve 表示正按随机排序后的名单顺序每日向预订者发送购买邀请邮件，预计所有 Steam Machine 预订用户最晚可在今年年底前获得购买资格。由于队列按产品和地区分别推进，热门版本或需求旺盛地区的用户可能要等到 2026 年 12 月，而部分地区已开始向候补名单发邀请。同时，Valve 在 GitHub 上以 CC BY-NC-SA 4.0 许可发布了 Steam Machine（绰号 Gabe Cube）外壳的 CAD 文件，用户可自行 3D 打印外壳和面板。Valve 工程师提醒，自行拆机换壳可能导致保修失效，甚至有损坏设备或受伤的风险。Tom's Hardware·茶馆水群·",
-      "clean_text": "📱Valve：Steam Machine 预订者年底前获购买资格，外壳 CAD 文件开源Valve 表示正按随机排序后的名单顺序每日向预订者发送购买邀请邮件，预计所有 Steam Machine 预订用户最晚可在今年年底前获得购买资格。由于队列按产品和地区分别推进，热门版本或需求旺盛地区的用户可能要等到 2026 年 12 月，而部分地区已开始向候补名单发邀请。同时，Valve 在 GitHub 上以 CC BY-NC-SA 4.0 许可发布了 Steam Machine（绰号 Gabe Cube）外壳的 CAD 文件，用户可自行 3D 打印外壳和面板。Valve 工程师提醒，自行拆机换壳可能导致保修失效，甚至有损坏设备或受伤的风险。Tom's Hardware·茶馆水群",
-      "datetime": "2026-07-30T00:47:00+00:00",
-      "views": "15.2K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/desktops/gaming-pcs/valve-says-that-steam-machine-reservations-wont-be-fulfilled-until-the-end-of-this-year-company-also-releases-cad-files-for-the-pc-consoles-external-shell-under-creative-commons"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42852",
-      "scraped_at": "2026-07-30T22:01:35.245967",
-      "title": "Valve：Steam Machine 预订者年底前获购买资格，外壳 CAD 文件开源Valve 表示正按随机排序后",
-      "title_options": {
-        "conclusion": "Valve：Steam Machine 预订者年底前获购买资格，外壳 CAD 文件开源Valve 表示正按随机排序后",
-        "attractive": "Valve：Steam Machine 预订者年底前获购买资格，外壳 CAD 文件开源Valve 表示正按随机排序后",
-        "minimal": "Valve：Steam Machine 预订者年底前获购买资格，外壳 CAD 文件开源Valve 表示正按随机排序后",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -1628,6 +1597,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-31T12:46:40.668017"
+  "count": 60,
+  "updated_at": "2026-07-31T12:51:43.674980"
 }
