@@ -1362,33 +1362,6 @@
       }
     },
     {
-      "id": "xhqcankao_31147",
-      "channel": "xhqcankao",
-      "text": "谷歌发布Lyria 3.5模型 更会写歌、更懂唱歌周三，谷歌宣布推出新一代AI音乐生成模型Lyria 3.5，并同步集成至Google Labs旗下的AI音乐创作工具Flow Music。相比此前版本，新模型重点升级了音乐性(Musicality)、歌词生成、AI人声（Vocals）以及创作控制能力，使用户能够生成更加自然、结构更完整、情感更丰富的歌曲。此次更新意味着，在OpenAI、Suno、Udio等AI音乐产品持续竞争之际，谷歌正进一步强化其从文本到完整歌曲（text-to-song）的生成能力，希望借助Flow Music打造覆盖创作、编辑到生成的一站式AI音乐平台。",
-      "clean_text": "谷歌发布Lyria 3.5模型 更会写歌、更懂唱歌周三，谷歌宣布推出新一代AI音乐生成模型Lyria 3.5，并同步集成至Google Labs旗下的AI音乐创作工具Flow Music。相比此前版本，新模型重点升级了音乐性(Musicality)、歌词生成、AI人声（Vocals）以及创作控制能力，使用户能够生成更加自然、结构更完整、情感更丰富的歌曲。此次更新意味着，在OpenAI、Suno、Udio等AI音乐产品持续竞争之际，谷歌正进一步强化其从文本到完整歌曲（text-to-song）的生成能力，希望借助Flow Music打造覆盖创作、编辑到生成的一站式AI音乐平台。——华尔街见闻、谷歌博客",
-      "datetime": "2026-07-30T07:34:55+00:00",
-      "views": "5.39K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3778253"
-        },
-        {
-          "text": "谷歌博客",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31147",
-      "scraped_at": "2026-07-30T22:01:38.570552",
-      "title": "谷歌发布Lyria 3.5模型 更会写歌、更懂唱歌周三，谷歌宣布推出新一代AI音乐生成模型Lyria 3.5，并同步集成至Google Labs旗下",
-      "title_options": {
-        "conclusion": "谷歌发布Lyria 3.5模型 更会写歌、更懂唱歌周三，谷歌宣布推出新一代AI音乐生成模型Lyria 3.5，并同步集成至Google Labs旗下",
-        "attractive": "谷歌发布Lyria 3.5模型 更会写歌、更懂唱歌周三，谷歌宣布推出新一代AI音乐生成模型Lyria 3.5，并同步集成至Google Labs旗下",
-        "minimal": "谷歌发布Lyria 3.5模型 更会写歌、更懂唱歌周三，谷歌宣布推出新一代AI音乐生成模型Lyria 3.5，并同步集成至Google Labs旗下",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1407,6 +1380,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-07-31T19:32:08.451581"
+  "count": 53,
+  "updated_at": "2026-07-31T19:37:11.905704"
 }
