@@ -1209,41 +1209,6 @@
       }
     },
     {
-      "id": "zaihuapd_42870",
-      "channel": "zaihuapd",
-      "text": "Google Earth 整合 Nano Banana，可 AI 生成卫星图像7 月 30 日，Google 宣布将 Nano Banana 2 的图像生成能力集成到 Google Earth 网页版，全球用户即日起可用。在 Google Earth 中缩放至任意地点、点击\"创建图像\"并输入文字描述，AI 便会在卫星图、航拍或 3D 影像基础上生成对应画面，适用于历史场景还原、建筑规划预览、信息图制作等场景。ZDNET 实测发现，该功能娱乐性十足但不够专业。Nano Banana 实质上是将屏幕截图当作素材生成图像，并不理解真实地理位置，在街景模式下无法使用，文字渲染也常出错。评测认为它更适合趣味探索和初步可视化，尚难胜任严肃的地理或建筑工作。Google|ZDNET·茶馆水群·",
-      "clean_text": "Google Earth 整合 Nano Banana，可 AI 生成卫星图像7 月 30 日，Google 宣布将 Nano Banana 2 的图像生成能力集成到 Google Earth 网页版，全球用户即日起可用。在 Google Earth 中缩放至任意地点、点击\"创建图像\"并输入文字描述，AI 便会在卫星图、航拍或 3D 影像基础上生成对应画面，适用于历史场景还原、建筑规划预览、信息图制作等场景。ZDNET 实测发现，该功能娱乐性十足但不够专业。Nano Banana 实质上是将屏幕截图当作素材生成图像，并不理解真实地理位置，在街景模式下无法使用，文字渲染也常出错。评测认为它更适合趣味探索和初步可视化，尚难胜任严肃的地理或建筑工作。Google|ZDNET·茶馆水群",
-      "datetime": "2026-07-30T15:19:39+00:00",
-      "views": "4.46K",
-      "source_links": [
-        {
-          "text": "Google",
-          "url": "https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/"
-        },
-        {
-          "text": "ZDNET",
-          "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42870",
-      "scraped_at": "2026-07-31T00:11:57.980367",
-      "title": "Google Earth 整合 Nano Banana，可 AI 生成卫星图像7 月 30 日，Google 宣布将 Nano Banana 2 ",
-      "title_options": {
-        "conclusion": "Google Earth 整合 Nano Banana，可 AI 生成卫星图像7 月 30 日，Google 宣布将 Nano Banana 2 ",
-        "attractive": "Google Earth 整合 Nano Banana，可 AI 生成卫星图像7 月 30 日，Google 宣布将 Nano Banana 2 ",
-        "minimal": "Google Earth 整合 Nano Banana，可 AI 生成卫星图像7 月 30 日，Google 宣布将 Nano Banana 2 ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1262,6 +1227,6 @@
       }
     }
   ],
-  "count": 49,
-  "updated_at": "2026-08-01T03:15:12.930215"
+  "count": 48,
+  "updated_at": "2026-08-01T03:20:17.069545"
 }
