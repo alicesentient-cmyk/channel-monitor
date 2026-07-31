@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42899",
+      "channel": "zaihuapd",
+      "text": "MiniMax 多模态视频模型 H3 将于 8 月 3 日开源MiniMax H3 新一代通用多模态视频模型将于 2026 年 8 月 3 日在魔搭社区开源发布。该模型原生支持文本、图像、音频和视频的理解与生成，可综合解析人物、动作、声音、情感、镜头语言及创作意图，并自然融合多种参考素材进行连贯创作。模型同时具备多维度精准编辑控制能力，面向影视、广告、品牌、电商与游戏等商业场景，可生成包含字幕、品牌信息、特效、产品展示及 UI 动态演示在内的多样化内容。ModelScope2022·茶馆水群·",
+      "clean_text": "MiniMax 多模态视频模型 H3 将于 8 月 3 日开源MiniMax H3 新一代通用多模态视频模型将于 2026 年 8 月 3 日在魔搭社区开源发布。该模型原生支持文本、图像、音频和视频的理解与生成，可综合解析人物、动作、声音、情感、镜头语言及创作意图，并自然融合多种参考素材进行连贯创作。模型同时具备多维度精准编辑控制能力，面向影视、广告、品牌、电商与游戏等商业场景，可生成包含字幕、品牌信息、特效、产品展示及 UI 动态演示在内的多样化内容。ModelScope2022·茶馆水群",
+      "datetime": "2026-07-31T12:37:52+00:00",
+      "views": "2.4K",
+      "source_links": [
+        {
+          "text": "ModelScope2022",
+          "url": "https://modelscope.cn/models/MiniMax/MiniMax-H3"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42899",
+      "scraped_at": "2026-07-31T21:00:52.720008",
+      "title": "MiniMax 多模态视频模型 H3 …",
+      "title_options": {
+        "conclusion": "MiniMax 多模态视频模型 H3 …",
+        "attractive": "MiniMax 多模态视频模型 H3 …",
+        "minimal": "MiniMax 多模态视频模型 H3 …",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42898",
       "channel": "zaihuapd",
       "text": "群友发现，中国电信官方网站上存在一份落款时间为 7 月 31 日的公告。内容为 8 月 1 日起，第三方互联网渠道不再提供电信号卡办理相关业务。  中国电信  群友补充，还存在另一公告链接，其日期已改为 7 月 29 日。与前序报道链接的区别为 provinceCode 不一致。  via 𝑹𝒂𝒏 · 茶馆水群 ·",
@@ -1303,6 +1334,6 @@
       }
     }
   ],
-  "count": 50,
-  "updated_at": "2026-07-31T20:58:25.511283"
+  "count": 51,
+  "updated_at": "2026-07-31T21:03:29.894288"
 }
