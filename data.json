@@ -1522,37 +1522,6 @@
       }
     },
     {
-      "id": "xhqcankao_31136",
-      "channel": "xhqcankao",
-      "text": "OpenAI AI失控 特朗普称正在研究管控措施OpenAI模型失控事件引发白宫关注。美国总统特朗普本周三表示，政府正在研究管控措施。OpenAI此前披露，该公司一个由先进AI模型驱动的智能体在测试时失控，并史无前例地入侵了AI公司Hugging Face的系统。周三，当被记者问到OpenAI公司的失控智能体时，特朗普在椭圆形办公室表示，“我们正在研究管控措施”。不过，他同时补充说，自己并不想“限制”AI开发者开发新产品。目前，OpenAI CEO奥尔特曼正在华盛顿拜访参议员，讨论公司将要推出的新模型。他周三对记者表示，他与参议员们“稍微谈到了一些”有关失控模型发动黑客攻击的问题。",
-      "clean_text": "OpenAI AI失控 特朗普称正在研究管控措施OpenAI模型失控事件引发白宫关注。美国总统特朗普本周三表示，政府正在研究管控措施。OpenAI此前披露，该公司一个由先进AI模型驱动的智能体在测试时失控，并史无前例地入侵了AI公司Hugging Face的系统。周三，当被记者问到OpenAI公司的失控智能体时，特朗普在椭圆形办公室表示，“我们正在研究管控措施”。不过，他同时补充说，自己并不想“限制”AI开发者开发新产品。目前，OpenAI CEO奥尔特曼正在华盛顿拜访参议员，讨论公司将要推出的新模型。他周三对记者表示，他与参议员们“稍微谈到了一些”有关失控模型发动黑客攻击的问题。——凤凰网科技、路透社、彭博社",
-      "datetime": "2026-07-30T01:31:22+00:00",
-      "views": "6.13K",
-      "source_links": [
-        {
-          "text": "凤凰网科技",
-          "url": "https://ishare.ifeng.com/c/s/v006GDHr8VXraGmmZHpfbX-_Km0GUiCcSH9afhbXMgIUTpDZQbjryAALghBrljCDAWgtR"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/legal/government/openais-sam-altman-discusses-rogue-agent-new-ai-models-with-us-senators-2026-07-29/"
-        },
-        {
-          "text": "彭博社",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/openai-ceo-sam-altman-discusses-next-ai-model-with-us-lawmakers"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31136",
-      "scraped_at": "2026-07-30T22:01:38.565509",
-      "title": "OpenAI AI失控 特朗普称正在研…",
-      "title_options": {
-        "conclusion": "OpenAI AI失控 特朗普称正在研…",
-        "attractive": "OpenAI AI失控 特朗普称正在研…",
-        "minimal": "OpenAI AI失控 特朗普称正在研…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42814",
       "channel": "zaihuapd",
       "text": "日本熊本县发生强震 熊本城多处石垣崩塌2026 年 7 月 28 日当地时间下午 4 时 27 分左右（北京时间下午 3 时 27 分），日本熊本县熊本地方发生地震。宇城市和冰川町观测到震度 7，熊本市南区、八代市等地观测到震度 6 强。日本气象厅测定地震规模为 M7.1、震源深度约 10 千米；中国地震台网测定此次地震为 6.8 级、震源深度 10 千米。据读卖新闻报道，熊本城多处石垣崩塌，八代市据报有民房全毁，宇城广域联合消防本部接到建筑物火灾报告。読売新聞オンライン|白くまゴッド|人民日报·茶馆水群·",
@@ -1610,6 +1579,6 @@
       }
     }
   ],
-  "count": 61,
-  "updated_at": "2026-07-31T13:27:13.066608"
+  "count": 60,
+  "updated_at": "2026-07-31T13:32:16.071276"
 }
