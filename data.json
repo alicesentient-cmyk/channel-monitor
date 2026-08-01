@@ -967,37 +967,6 @@
       }
     },
     {
-      "id": "zaihuapd_42899",
-      "channel": "zaihuapd",
-      "text": "MiniMax 多模态视频模型 H3 将于 8 月 3 日开源MiniMax H3 新一代通用多模态视频模型将于 2026 年 8 月 3 日在魔搭社区开源发布。该模型原生支持文本、图像、音频和视频的理解与生成，可综合解析人物、动作、声音、情感、镜头语言及创作意图，并自然融合多种参考素材进行连贯创作。模型同时具备多维度精准编辑控制能力，面向影视、广告、品牌、电商与游戏等商业场景，可生成包含字幕、品牌信息、特效、产品展示及 UI 动态演示在内的多样化内容。ModelScope2022·茶馆水群·",
-      "clean_text": "MiniMax 多模态视频模型 H3 将于 8 月 3 日开源MiniMax H3 新一代通用多模态视频模型将于 2026 年 8 月 3 日在魔搭社区开源发布。该模型原生支持文本、图像、音频和视频的理解与生成，可综合解析人物、动作、声音、情感、镜头语言及创作意图，并自然融合多种参考素材进行连贯创作。模型同时具备多维度精准编辑控制能力，面向影视、广告、品牌、电商与游戏等商业场景，可生成包含字幕、品牌信息、特效、产品展示及 UI 动态演示在内的多样化内容。ModelScope2022·茶馆水群",
-      "datetime": "2026-07-31T12:37:52+00:00",
-      "views": "2.4K",
-      "source_links": [
-        {
-          "text": "ModelScope2022",
-          "url": "https://modelscope.cn/models/MiniMax/MiniMax-H3"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42899",
-      "scraped_at": "2026-07-31T21:00:52.720008",
-      "title": "MiniMax 多模态视频模型 H3 …",
-      "title_options": {
-        "conclusion": "MiniMax 多模态视频模型 H3 …",
-        "attractive": "MiniMax 多模态视频模型 H3 …",
-        "minimal": "MiniMax 多模态视频模型 H3 …",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1016,6 +985,6 @@
       }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-08-02T00:35:57.880621"
+  "count": 39,
+  "updated_at": "2026-08-02T00:41:01.905193"
 }
