@@ -828,37 +828,6 @@
       }
     },
     {
-      "id": "zaihuapd_42904",
-      "channel": "zaihuapd",
-      "text": "YouTube 以涉性内容为由封禁多名 ASMR 创作者YouTube 本周以违反「性满足类」内容政策为由，封禁了一批知名 ASMR 创作者频道，包括 ItsBunniiASMR、Slight Sounds、Nananightray、Roseasmr 等。多名创作者在毫无预警的情况下收到频道移除通知，且申诉未能改变结果；被删频道中 Bunnii 拥有约 22.7 万订阅和 5500 万次播放。YouTube 未回应置评请求。创作者们表示困惑与愤怒，称 ASMR 本是助眠、放松和缓解焦虑的内容，与色情无关，认为平台做法等同于认同外界对 ASMR 的性化误解。Slight Sounds 称这是自己八九年的全职生计，多年心血付诸东流。YouTube 于 2019 年引入相关条款，2022 年更明确针对 ASMR 内容，但该标准被指难以界定。404 Media·茶馆水群·",
-      "clean_text": "YouTube 以涉性内容为由封禁多名 ASMR 创作者YouTube 本周以违反「性满足类」内容政策为由，封禁了一批知名 ASMR 创作者频道，包括 ItsBunniiASMR、Slight Sounds、Nananightray、Roseasmr 等。多名创作者在毫无预警的情况下收到频道移除通知，且申诉未能改变结果；被删频道中 Bunnii 拥有约 22.7 万订阅和 5500 万次播放。YouTube 未回应置评请求。创作者们表示困惑与愤怒，称 ASMR 本是助眠、放松和缓解焦虑的内容，与色情无关，认为平台做法等同于认同外界对 ASMR 的性化误解。Slight Sounds 称这是自己八九年的全职生计，多年心血付诸东流。YouTube 于 2019 年引入相关条款，2022 年更明确针对 ASMR 内容，但该标准被指难以界定。404 Media·茶馆水群",
-      "datetime": "2026-07-31T15:58:57+00:00",
-      "views": "4.01K",
-      "source_links": [
-        {
-          "text": "404 Media",
-          "url": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42904",
-      "scraped_at": "2026-08-01T00:47:06.166761",
-      "title": "YouTube 以涉性内容为由封禁多名…",
-      "title_options": {
-        "conclusion": "YouTube 以涉性内容为由封禁多名…",
-        "attractive": "YouTube 以涉性内容为由封禁多名…",
-        "minimal": "YouTube 以涉性内容为由封禁多名…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -877,6 +846,6 @@
       }
     }
   ],
-  "count": 34,
-  "updated_at": "2026-08-02T03:58:36.446194"
+  "count": 33,
+  "updated_at": "2026-08-02T04:03:39.612648"
 }
