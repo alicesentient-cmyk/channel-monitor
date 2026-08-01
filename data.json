@@ -1060,41 +1060,6 @@
       }
     },
     {
-      "id": "zaihuapd_42893",
-      "channel": "zaihuapd",
-      "text": "特朗普政府拟向留学生收 10 万美元毕业后工作费特朗普政府正考虑向国际学生收取 10 万美元费用，以获准毕业后留美工作。知情人士称该费用针对的是“选择性实践培训”（OPT）项目。白宫官员称暂无即将出台的政策变化，但未否认正在讨论。此举若实施将重创依赖国际学生学费的高校，以及聘用国际毕业生的硅谷和华尔街企业。去年秋季近 30 万国际学生持 OPT 留美。这也是政府收紧国际学生政策的最新动作，本月初国土安全部刚将学生签证居留期限缩短为四年；政府还拟对 H-1B 签证收取同等费用，但 6 月被联邦法官裁定违法，白宫正在上诉。Bloomberg|The Wall Street Journal·茶馆水群·",
-      "clean_text": "特朗普政府拟向留学生收 10 万美元毕业后工作费特朗普政府正考虑向国际学生收取 10 万美元费用，以获准毕业后留美工作。知情人士称该费用针对的是“选择性实践培训”（OPT）项目。白宫官员称暂无即将出台的政策变化，但未否认正在讨论。此举若实施将重创依赖国际学生学费的高校，以及聘用国际毕业生的硅谷和华尔街企业。去年秋季近 30 万国际学生持 OPT 留美。这也是政府收紧国际学生政策的最新动作，本月初国土安全部刚将学生签证居留期限缩短为四年；政府还拟对 H-1B 签证收取同等费用，但 6 月被联邦法官裁定违法，白宫正在上诉。Bloomberg|The Wall Street Journal·茶馆水群",
-      "datetime": "2026-07-31T09:00:01+00:00",
-      "views": "482",
-      "source_links": [
-        {
-          "text": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/trump-weighs-100-000-fee-for-foreign-students-to-work-post-grad"
-        },
-        {
-          "text": "The Wall Street Journal",
-          "url": "https://www.wsj.com/politics/policy/u-s-weighs-100-000-fee-for-foreign-students-wanting-to-work-after-graduation-d0bf43d9"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42893",
-      "scraped_at": "2026-07-31T17:01:16.552173",
-      "title": "特朗普政府拟向留学生收 10 万美元毕…",
-      "title_options": {
-        "conclusion": "特朗普政府拟向留学生收 10 万美元毕…",
-        "attractive": "特朗普政府拟向留学生收 10 万美元毕…",
-        "minimal": "特朗普政府拟向留学生收 10 万美元毕…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1113,6 +1078,6 @@
       }
     }
   ],
-  "count": 43,
-  "updated_at": "2026-08-01T20:57:59.191273"
+  "count": 42,
+  "updated_at": "2026-08-01T21:03:02.503087"
 }
