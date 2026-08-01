@@ -1,6 +1,37 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42924",
+      "channel": "zaihuapd",
+      "text": "微软确认今年推出 Copilot「超级应用」微软 CEO 纳德拉在周三的财报电话会议上确认，公司将于今年推出一款 AI「超级应用」，把 Copilot 的聊天、编程和智能体（agentic）能力整合到一起，同时覆盖消费者和商用场景。纳德拉表示，Copilot 正从聊天工具快速演进到 Cowork 再到 Autopilots，本季度将把这些体验（包括代码功能）合并进一个超级应用。此前《财富》曾报道微软在打造融合 Copilot 聊天机器人、GitHub Copilot、Copilot Cowork 和 Autopilot 系统的应用；OpenAI 近期也推出了整合 ChatGPT 与 Codex 的 ChatGPT Work 应用。微软上季度营收增至 900 亿美元，主要由 AI 与云业务推动。The Verge·茶馆水群·",
+      "clean_text": "📱微软确认今年推出 Copilot「超级应用」微软 CEO 纳德拉在周三的财报电话会议上确认，公司将于今年推出一款 AI「超级应用」，把 Copilot 的聊天、编程和智能体（agentic）能力整合到一起，同时覆盖消费者和商用场景。纳德拉表示，Copilot 正从聊天工具快速演进到 Cowork 再到 Autopilots，本季度将把这些体验（包括代码功能）合并进一个超级应用。此前《财富》曾报道微软在打造融合 Copilot 聊天机器人、GitHub Copilot、Copilot Cowork 和 Autopilot 系统的应用；OpenAI 近期也推出了整合 ChatGPT 与 Codex 的 ChatGPT Work 应用。微软上季度营收增至 900 亿美元，主要由 AI 与云业务推动。The Verge·茶馆水群",
+      "datetime": "2026-08-01T13:18:03+00:00",
+      "views": "3.57K",
+      "source_links": [
+        {
+          "text": "The Verge",
+          "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42924",
+      "scraped_at": "2026-08-01T22:01:45.715046",
+      "title": "微软确认今年推出 Copilot「超级应用」微软 CEO 纳德拉在周三",
+      "title_options": {
+        "conclusion": "微软确认今年推出 Copilot「超级应用」微软 CEO 纳德拉在周三",
+        "attractive": "微软确认今年推出 Copilot「超级应用」微软 CEO 纳德拉在周三",
+        "minimal": "微软确认今年推出 Copilot「超级应用」微软 CEO 纳德拉在周三",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31180",
       "channel": "xhqcankao",
       "text": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本仅 2000 美元OpenAI 官方今日公布了在数学与理论计算机科学领域的十项进展，这些问题此前一直悬而未决，其核心研究在至少十年（多数情况下甚至更久）的时间里未曾取得任何实质性进展。据悉，这些成果由 OpenAI 的下一代核心模型 Astra 的内部版本计算得出。若按 Sol API 的费率计算，寻找这些问题解决方案所需消耗的总词元 (tokens) 成本约为 2000 美元。人类研究员协助撰写了论文手稿，并在 Lean 语言中对这些证明进行了形式化验证，对其正确性负责；然而这些数学论证本身均由 OpenAI 的系统生成。",
@@ -1016,6 +1047,6 @@
       }
     }
   ],
-  "count": 40,
-  "updated_at": "2026-08-01T21:58:49.626681"
+  "count": 41,
+  "updated_at": "2026-08-01T22:03:55.838732"
 }
