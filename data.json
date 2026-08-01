@@ -1158,37 +1158,6 @@
       }
     },
     {
-      "id": "zaihuapd_42883",
-      "channel": "zaihuapd",
-      "text": "库克暗示 iCloud+ 将增加 AI 额度层级苹果 CEO 蒂姆·库克暗示，用户未来可能可以付费提高 Apple 智能和新版 Siri AI 的使用额度。他表示，苹果将在 iCloud+ 上提供某种升级选项，让用户购买更高等级的服务。苹果计划今年秋季随 iOS 27 推出新版 Siri AI，并提供独立应用。苹果 6 月表示，AI 功能因依赖强大的服务器模型而设有每日使用上限；大多数 iCloud+ 套餐已可获得更高访问额度，未来可能还会针对重度用户增加更多层级。The Verge·茶馆水群·",
-      "clean_text": "库克暗示 iCloud+ 将增加 AI 额度层级苹果 CEO 蒂姆·库克暗示，用户未来可能可以付费提高 Apple 智能和新版 Siri AI 的使用额度。他表示，苹果将在 iCloud+ 上提供某种升级选项，让用户购买更高等级的服务。苹果计划今年秋季随 iOS 27 推出新版 Siri AI，并提供独立应用。苹果 6 月表示，AI 功能因依赖强大的服务器模型而设有每日使用上限；大多数 iCloud+ 套餐已可获得更高访问额度，未来可能还会针对重度用户增加更多层级。The Verge·茶馆水群",
-      "datetime": "2026-07-31T03:42:01+00:00",
-      "views": "2.49K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42883",
-      "scraped_at": "2026-07-31T12:02:22.569820",
-      "title": "库克暗示 iCloud+ 将增加 AI 额度层级苹果 CEO 蒂姆·库克暗示，用户未来可能可以付费提高 Apple 智能和新版 Siri AI ",
-      "title_options": {
-        "conclusion": "库克暗示 iCloud+ 将增加 AI 额度层级苹果 CEO 蒂姆·库克暗示，用户未来可能可以付费提高 Apple 智能和新版 Siri AI ",
-        "attractive": "库克暗示 iCloud+ 将增加 AI 额度层级苹果 CEO 蒂姆·库克暗示，用户未来可能可以付费提高 Apple 智能和新版 Siri AI ",
-        "minimal": "库克暗示 iCloud+ 将增加 AI 额度层级苹果 CEO 蒂姆·库克暗示，用户未来可能可以付费提高 Apple 智能和新版 Siri AI ",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1207,6 +1176,6 @@
       }
     }
   ],
-  "count": 48,
-  "updated_at": "2026-08-01T15:38:32.558560"
+  "count": 47,
+  "updated_at": "2026-08-01T15:43:36.470198"
 }
