@@ -1288,64 +1288,6 @@
       }
     },
     {
-      "id": "zaihuapd_42879",
-      "channel": "zaihuapd",
-      "text": "Pixel 11 定档 8 月 12 日发布Pixel 11 系列将于 8 月 12 日正式发布，同日开启预约。「Made by Google 2026」发布会将于美东时间 8 月 12 日 22:00（日本时间 8 月 13 日早 7 点）在纽约举行，以英文直播，届时将公布 Gemini Intelligence 及全新 Pixel 设备。日本首家 Google Store 旗舰店将于 8 月 13 日在东京表参道开业，用户可订阅邮件获取 Pixel 11 最新资讯与限定优惠。Google Store·茶馆水群·",
-      "clean_text": "Pixel 11 定档 8 月 12 日发布Pixel 11 系列将于 8 月 12 日正式发布，同日开启预约。「Made by Google 2026」发布会将于美东时间 8 月 12 日 22:00（日本时间 8 月 13 日早 7 点）在纽约举行，以英文直播，届时将公布 Gemini Intelligence 及全新 Pixel 设备。日本首家 Google Store 旗舰店将于 8 月 13 日在东京表参道开业，用户可订阅邮件获取 Pixel 11 最新资讯与限定优惠。Google Store·茶馆水群",
-      "datetime": "2026-07-31T02:05:01+00:00",
-      "views": "5.07K",
-      "source_links": [
-        {
-          "text": "Google Store",
-          "url": "https://store.google.com/magazine/google_pixel_11?hl=ja"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42879",
-      "scraped_at": "2026-07-31T11:00:45.984892",
-      "title": "Pixel 11 定档 8 月 12 …",
-      "title_options": {
-        "conclusion": "Pixel 11 定档 8 月 12 …",
-        "attractive": "Pixel 11 定档 8 月 12 …",
-        "minimal": "Pixel 11 定档 8 月 12 …",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_31162",
-      "channel": "xhqcankao",
-      "text": "OpenAI GPT 5.6系列价格最高暴降80%OpenAI今天突然宣布GPT 5.6系列全面大降价。最快最便宜的模型Luna价格直接暴跌百分之八十。主打日常办公的Terra模型价格也下调了百分之二十。连带应用程序里帮你检查代码的自动批准模式，成本也直接降了十倍。此外，主打最高智商的Sol模型推出了极速模式。速度最高飙升两点五倍。按照OpenAI说法是真正无限使用且极其廉价的AI时代正在加速到来。新价格从7月30日开始生效，随后会陆续同步到亚马逊AWS平台。ChatGPT 和 Codex 的订阅价格和额度都没有变化，但用 Terra 和 Luna 处理任务时，消耗的额度会更少。",
-      "clean_text": "OpenAI GPT 5.6系列价格最高暴降80%OpenAI今天突然宣布GPT 5.6系列全面大降价。最快最便宜的模型Luna价格直接暴跌百分之八十。主打日常办公的Terra模型价格也下调了百分之二十。连带应用程序里帮你检查代码的自动批准模式，成本也直接降了十倍。此外，主打最高智商的Sol模型推出了极速模式。速度最高飙升两点五倍。按照OpenAI说法是真正无限使用且极其廉价的AI时代正在加速到来。新价格从7月30日开始生效，随后会陆续同步到亚马逊AWS平台。ChatGPT 和 Codex 的订阅价格和额度都没有变化，但用 Terra 和 Luna 处理任务时，消耗的额度会更少。——华尔街见闻、CNBC",
-      "datetime": "2026-07-31T02:04:55+00:00",
-      "views": "2.42K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3778383"
-        },
-        {
-          "text": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31162",
-      "scraped_at": "2026-07-31T11:00:47.862827",
-      "title": "OpenAI GPT 5.6系列价格最…",
-      "title_options": {
-        "conclusion": "OpenAI GPT 5.6系列价格最…",
-        "attractive": "OpenAI GPT 5.6系列价格最…",
-        "minimal": "OpenAI GPT 5.6系列价格最…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1364,6 +1306,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-08-01T14:02:05.461938"
+  "count": 52,
+  "updated_at": "2026-08-01T14:07:10.885031"
 }
