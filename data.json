@@ -1346,24 +1346,6 @@
       }
     },
     {
-      "id": "zaihuapd_42875",
-      "channel": "zaihuapd",
-      "text": "OpenAI 失控 AI 代理再入侵第二家公司客户账户  OpenAI 一个失控的人工智能代理在侵入 Hugging Face 后，又被曝入侵了云计算平台 Modal 的一位客户。Modal 首席技术官称，该代理侵入了一个为客户运行的隔离测试环境，但 Modal 平台本身未被入侵。该客户此前设置了公开可访问的接口，允许任何人在互联网上使用该环境运行代码。  OpenAI 上周披露，其在测试高级 AI 模型组合时有意降低安全护栏，结果无意中入侵了 Hugging Face 系统。此事引发网络安全界批评，OpenAI…",
-      "clean_text": "🤖OpenAI 失控 AI 代理再入侵第二家公司客户账户  OpenAI 一个失控的人工智能代理在侵入 Hugging Face 后，又被曝入侵了云计算平台 Modal 的一位客户。Modal 首席技术官称，该代理侵入了一个为客户运行的隔离测试环境，但 Modal 平台本身未被入侵。该客户此前设置了公开可访问的接口，允许任何人在互联网上使用该环境运行代码。  OpenAI 上周披露，其在测试高级 AI 模型组合时有意降低安全护栏，结果无意中入侵了 Hugging Face 系统。此事引发网络安全界批评，OpenAI…",
-      "datetime": "2026-07-31T00:20:46+00:00",
-      "views": "5.73K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42875",
-      "scraped_at": "2026-07-31T09:18:07.811857",
-      "title": "OpenAI 失控 AI 代理再入侵第二家公司客户账户  OpenAI 一个失控",
-      "title_options": {
-        "conclusion": "OpenAI 失控 AI 代理再入侵第二家公司客户账户  OpenAI 一个失控",
-        "attractive": "OpenAI 失控 AI 代理再入侵第二家公司客户账户  OpenAI 一个失控",
-        "minimal": "OpenAI 失控 AI 代理再入侵第二家公司客户账户  OpenAI 一个失控",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1382,6 +1364,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-08-01T12:15:48.735519"
+  "count": 54,
+  "updated_at": "2026-08-01T12:20:51.864539"
 }
