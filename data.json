@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42921",
+      "channel": "zaihuapd",
+      "text": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra 的内部版本在十个长期未解决的数学与理论计算机科学问题上取得新成果，涵盖高维球体堆积、非索菲克群存在性、Connes 刚性猜想反证、算术电路下界、量子并行重复、最近向量问题硬度及多色 Ramsey 数等。这些问题至少十年未见主要进展，多数更久。模型生成论证的 token 成本约为 2000 美元。论证由人类与模型协作整理成论文，并在 Lean 中形式化验证。OpenAI 坦承数学论证本身由 AI 生成，人类负责整理与形式化，主张归属应如实反映结果来源。公司希望数学界深入审视这些成果，同时强调在 AI 成为研究协作者的转型期，广泛获取至关重要。OpenAI·茶馆水群·",
+      "clean_text": "🤖OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra 的内部版本在十个长期未解决的数学与理论计算机科学问题上取得新成果，涵盖高维球体堆积、非索菲克群存在性、Connes 刚性猜想反证、算术电路下界、量子并行重复、最近向量问题硬度及多色 Ramsey 数等。这些问题至少十年未见主要进展，多数更久。模型生成论证的 token 成本约为 2000 美元。论证由人类与模型协作整理成论文，并在 Lean 中形式化验证。OpenAI 坦承数学论证本身由 AI 生成，人类负责整理与形式化，主张归属应如实反映结果来源。公司希望数学界深入审视这些成果，同时强调在 AI 成为研究协作者的转型期，广泛获取至关重要。OpenAI·茶馆水群",
+      "datetime": "2026-08-01T07:59:18+00:00",
+      "views": "269",
+      "source_links": [
+        {
+          "text": "OpenAI",
+          "url": "https://openai.com/index/ten-advances-in-mathematics/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42921",
+      "scraped_at": "2026-08-01T16:00:59.279315",
+      "title": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
+      "title_options": {
+        "conclusion": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
+        "attractive": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
+        "minimal": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31178",
+      "channel": "xhqcankao",
+      "text": "谷歌地球推出AI生图仅一天就因批评而撤回谷歌周四推出了一项新功能，允许用户在其卫星图像地图应用 Google Earth 中使用其人工智能图像生成器 Nano Banana 2，以创建虚假图像。谷歌表示，这项功能的全部意义在于发挥地理的创意。但批评者很快指出，该工具可能被用于制造和传播虚假信息。该工具基于提示词，几乎允许任何图像叠加在真实地图上，这似乎注定会造成大量的地理空间内容垃圾。现在，距离该功能发布仅一天，谷歌已将其废止。“我们看到地理空间专业人士将这项功能用于一系列有用目的，但我们也看到人们分享生成图像的截图，这些截图似乎违反我们的政策，”该公司在一份声明中表示。",
+      "clean_text": "谷歌地球推出AI生图仅一天就因批评而撤回谷歌周四推出了一项新功能，允许用户在其卫星图像地图应用 Google Earth 中使用其人工智能图像生成器 Nano Banana 2，以创建虚假图像。谷歌表示，这项功能的全部意义在于发挥地理的创意。但批评者很快指出，该工具可能被用于制造和传播虚假信息。该工具基于提示词，几乎允许任何图像叠加在真实地图上，这似乎注定会造成大量的地理空间内容垃圾。现在，距离该功能发布仅一天，谷歌已将其废止。“我们看到地理空间专业人士将这项功能用于一系列有用目的，但我们也看到人们分享生成图像的截图，这些截图似乎违反我们的政策，”该公司在一份声明中表示。——Techcrunch",
+      "datetime": "2026-08-01T07:54:50+00:00",
+      "views": "436",
+      "source_links": [
+        {
+          "text": "Techcrunch",
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31178",
+      "scraped_at": "2026-08-01T16:01:01.129042",
+      "title": "谷歌地球推出AI生图仅一天就因批评而撤…",
+      "title_options": {
+        "conclusion": "谷歌地球推出AI生图仅一天就因批评而撤…",
+        "attractive": "谷歌地球推出AI生图仅一天就因批评而撤…",
+        "minimal": "谷歌地球推出AI生图仅一天就因批评而撤…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42920",
+      "channel": "zaihuapd",
+      "text": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注的是针对 8 GB 及以上内存设备的内存优化。微软确认将降低系统内存占用，确保低内存电脑也能流畅运行，具体做法尚未公布，但可能与将更多界面迁移至更轻量的 WinUI 框架有关。其余三个方向包括：重做开箱设置流程，让新机首次开机更快更顺畅；改进家庭功能，简化家长控制的设置与使用；以及优化语音交互，使其在系统和应用中更自然流畅。Davuluri 表示，微软自 3 月以来持续修复 Windows 11 的主要问题，未来将继续根据用户反馈推进改进。Windows Central·茶馆水群·",
+      "clean_text": "📱微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注的是针对 8 GB 及以上内存设备的内存优化。微软确认将降低系统内存占用，确保低内存电脑也能流畅运行，具体做法尚未公布，但可能与将更多界面迁移至更轻量的 WinUI 框架有关。其余三个方向包括：重做开箱设置流程，让新机首次开机更快更顺畅；改进家庭功能，简化家长控制的设置与使用；以及优化语音交互，使其在系统和应用中更自然流畅。Davuluri 表示，微软自 3 月以来持续修复 Windows 11 的主要问题，未来将继续根据用户反馈推进改进。Windows Central·茶馆水群",
+      "datetime": "2026-08-01T07:17:35+00:00",
+      "views": "3.62K",
+      "source_links": [
+        {
+          "text": "Windows Central",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-it-will-make-windows-11-run-better-on-pcs-with-8gb-ram-promises-continued-focus-on-fixing-windows-biggest-issues"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42920",
+      "scraped_at": "2026-08-01T16:00:59.278790",
+      "title": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
+      "title_options": {
+        "conclusion": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
+        "attractive": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
+        "minimal": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42919",
       "channel": "zaihuapd",
       "text": "腾讯关闭天美蒙特利尔游戏工作室，成立 5 年未发布任何游戏  Game File 报道称，腾讯已关闭旗下 TiMi Montreal 游戏工作室。该工作室成立 5 年间未推出任何游戏。TiMi Montreal 于 2021 年 7 月宣布成立，由前《刺客信条》创意总监 Ashraf Ismail 领导，目标是开发 3A 级开放世界、多平台游戏，但具体项目细节一直未公开。  腾讯、网易等厂商曾在疫情期间于西方密集布局，组建由资深制作人领衔、偏主机风格的游戏工作室，试图打开更大预算与跨平台市场；但整体产出寥…",
@@ -1176,6 +1261,6 @@
       }
     }
   ],
-  "count": 47,
-  "updated_at": "2026-08-01T15:58:46.684834"
+  "count": 50,
+  "updated_at": "2026-08-01T16:03:51.653652"
 }
