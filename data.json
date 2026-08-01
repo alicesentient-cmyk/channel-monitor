@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42915",
+      "channel": "zaihuapd",
+      "text": "中国 AI 研究员在 X 上发出自己的声音过去一年，越来越多中国 AI 研究员涌入 X 平台发声。以月之暗面（Moonshot AI）为例，X 上约有 30 个自称在职员工的活跃账号，包括两位联合创始人；Minimax、Z.ai 乃至 DeepSeek 的员工也常在 X 上讨论技术、发布招聘。他们正填补 OpenAI 和 Anthropic 研究员因公司壮大而日渐沉默留下的空白。选择 X 的原因之一是国内缺少高质量技术讨论平台：知乎转向小说内容后专家流失，小红书受众又不够技术化。2025 年初 DeepSeek R1 走红全球，促使许多中国研究员开始经营国际化个人品牌；X 同时也成为中国 AI 公司营销产品、招募人才的窗口。有分析人士认为，中国研究员亲自讲解工作，有助于美国减少对中国 AI 实验室的盲目猜测。WIRED·茶馆水群·",
+      "clean_text": "中国 AI 研究员在 X 上发出自己的声音过去一年，越来越多中国 AI 研究员涌入 X 平台发声。以月之暗面（Moonshot AI）为例，X 上约有 30 个自称在职员工的活跃账号，包括两位联合创始人；Minimax、Z.ai 乃至 DeepSeek 的员工也常在 X 上讨论技术、发布招聘。他们正填补 OpenAI 和 Anthropic 研究员因公司壮大而日渐沉默留下的空白。选择 X 的原因之一是国内缺少高质量技术讨论平台：知乎转向小说内容后专家流失，小红书受众又不够技术化。2025 年初 DeepSeek R1 走红全球，促使许多中国研究员开始经营国际化个人品牌；X 同时也成为中国 AI 公司营销产品、招募人才的窗口。有分析人士认为，中国研究员亲自讲解工作，有助于美国减少对中国 AI 实验室的盲目猜测。WIRED·茶馆水群",
+      "datetime": "2026-08-01T04:52:51+00:00",
+      "views": "1.26K",
+      "source_links": [
+        {
+          "text": "WIRED",
+          "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42915",
+      "scraped_at": "2026-08-01T13:00:45.535860",
+      "title": "中国 AI 研究员在 X 上发出自己",
+      "title_options": {
+        "conclusion": "中国 AI 研究员在 X 上发出自己",
+        "attractive": "中国 AI 研究员在 X 上发出自己",
+        "minimal": "中国 AI 研究员在 X 上发出自己",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31176",
+      "channel": "xhqcankao",
+      "text": "尽管遭到强烈反对 索尼仍坚持淘汰光盘日本索尼公司自宣布将停止实体游戏光盘生产以来，收到了来自PlayStation粉丝的大量反对，但这并未动摇其决定。在索尼最新的财报电话会议上，首席财务官陶琳表示，尽管公司在考虑其游戏社区提出的反对意见时 “投入了大量思考和时间” ，但索尼得出的结论是，将“谨慎地推进此事”。“我们做出这一决定有多种原因，最大的原因是内容的整体数字化一直在推进，这是重要因素，”陶琳说道。“不仅是PlayStation，对于各类内容，数字化都在推进。”索尼公司计划在2028年1月之前停止为新款PlayStation游戏生产实体光盘，并且公司已开始将其光盘制造总部改用于生产光学微透镜。",
+      "clean_text": "尽管遭到强烈反对 索尼仍坚持淘汰光盘日本索尼公司自宣布将停止实体游戏光盘生产以来，收到了来自PlayStation粉丝的大量反对，但这并未动摇其决定。在索尼最新的财报电话会议上，首席财务官陶琳表示，尽管公司在考虑其游戏社区提出的反对意见时 “投入了大量思考和时间” ，但索尼得出的结论是，将“谨慎地推进此事”。“我们做出这一决定有多种原因，最大的原因是内容的整体数字化一直在推进，这是重要因素，”陶琳说道。“不仅是PlayStation，对于各类内容，数字化都在推进。”索尼公司计划在2028年1月之前停止为新款PlayStation游戏生产实体光盘，并且公司已开始将其光盘制造总部改用于生产光学微透镜。——theverge",
+      "datetime": "2026-08-01T04:35:50+00:00",
+      "views": "1.16K",
+      "source_links": [
+        {
+          "text": "theverge",
+          "url": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31176",
+      "scraped_at": "2026-08-01T13:00:47.295577",
+      "title": "尽管遭到强烈反对 索尼仍坚持淘汰光盘日本索尼公司自宣布将停止实体游戏光盘生产以来，收到了来自PlayStation粉丝",
+      "title_options": {
+        "conclusion": "尽管遭到强烈反对 索尼仍坚持淘汰光盘日本索尼公司自宣布将停止实体游戏光盘生产以来，收到了来自PlayStation粉丝",
+        "attractive": "尽管遭到强烈反对 索尼仍坚持淘汰光盘日本索尼公司自宣布将停止实体游戏光盘生产以来，收到了来自PlayStation粉丝",
+        "minimal": "尽管遭到强烈反对 索尼仍坚持淘汰光盘日本索尼公司自宣布将停止实体游戏光盘生产以来，收到了来自PlayStation粉丝",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42914",
+      "channel": "zaihuapd",
+      "text": "奔驰 CEO 承认取消物理按键 \"走太远\"，将重新引入实体控制奔驰 CEO 康林松近日表示，车载大屏幕仍可能继续变大，但行业在取消物理按键方面\"走得过了一点\"。他承认，奔驰近年来为追求大屏而大量削减实体按钮，MBUX 超级屏最宽已达 1410 mm，引发不少用户抱怨。康林松称，奔驰已开始在方向盘上恢复物理控件，今后将\"重新引入最合理的按键\"。他强调语音控制也在持续改进，但坦言行业有时\"为了技术而做技术，可能忽略了客户\"。当被问及是否已达到\"屏幕峰值\"时，康林松回应：\"我不知道是不是到了屏幕峰值，但我们确实到了按键低点。\"Autocar·茶馆水群·",
+      "clean_text": "奔驰 CEO 承认取消物理按键 \"走太远\"，将重新引入实体控制奔驰 CEO 康林松近日表示，车载大屏幕仍可能继续变大，但行业在取消物理按键方面\"走得过了一点\"。他承认，奔驰近年来为追求大屏而大量削减实体按钮，MBUX 超级屏最宽已达 1410 mm，引发不少用户抱怨。康林松称，奔驰已开始在方向盘上恢复物理控件，今后将\"重新引入最合理的按键\"。他强调语音控制也在持续改进，但坦言行业有时\"为了技术而做技术，可能忽略了客户\"。当被问及是否已达到\"屏幕峰值\"时，康林松回应：\"我不知道是不是到了屏幕峰值，但我们确实到了按键低点。\"Autocar·茶馆水群",
+      "datetime": "2026-08-01T04:25:51+00:00",
+      "views": "3.23K",
+      "source_links": [
+        {
+          "text": "Autocar",
+          "url": "https://www.autocar.co.uk/car-news/new-cars/mercedes-big-screens-stay-we-went-too-far-removing-buttons"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42914",
+      "scraped_at": "2026-08-01T13:00:45.535235",
+      "title": "奔驰 CEO 承认取消物理按键 \"走太…",
+      "title_options": {
+        "conclusion": "奔驰 CEO 承认取消物理按键 \"走太…",
+        "attractive": "奔驰 CEO 承认取消物理按键 \"走太…",
+        "minimal": "奔驰 CEO 承认取消物理按键 \"走太…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42913",
       "channel": "zaihuapd",
       "text": "Codex 已重置·茶馆水群·",
@@ -1288,37 +1373,6 @@
       }
     },
     {
-      "id": "zaihuapd_42876",
-      "channel": "zaihuapd",
-      "text": "谷歌研发 Chrome 免重启更新，应对 AI 挖洞潮谷歌周四发文称，正在研发「动态补丁」技术，让 Chrome 更新无需重启浏览器即可生效，同时寻找合适时机自动重启并保证会话无缝恢复。目前 Chrome 150 已在 macOS 上实现类似功能：当检测到浏览器处于无窗口的后台状态时，会自动重启完成更新。这一变化的背景是 AI 安全工具正帮谷歌大量发现和修复漏洞：Chrome 149 和 150 共包含 1072 项漏洞修复，超过此前 23 个大版本的总和。Chrome 将从 9 月起改为两周一版的发布节奏，并考虑每周推送两次安全更新，以应对「AI 驱动的快速攻击」，同时降低用户因未及时更新而遭 N-day 攻击的风险。The Verge·茶馆水群·",
-      "clean_text": "📱谷歌研发 Chrome 免重启更新，应对 AI 挖洞潮谷歌周四发文称，正在研发「动态补丁」技术，让 Chrome 更新无需重启浏览器即可生效，同时寻找合适时机自动重启并保证会话无缝恢复。目前 Chrome 150 已在 macOS 上实现类似功能：当检测到浏览器处于无窗口的后台状态时，会自动重启完成更新。这一变化的背景是 AI 安全工具正帮谷歌大量发现和修复漏洞：Chrome 149 和 150 共包含 1072 项漏洞修复，超过此前 23 个大版本的总和。Chrome 将从 9 月起改为两周一版的发布节奏，并考虑每周推送两次安全更新，以应对「AI 驱动的快速攻击」，同时降低用户因未及时更新而遭 N-day 攻击的风险。The Verge·茶馆水群",
-      "datetime": "2026-07-31T01:00:16+00:00",
-      "views": "2.35K",
-      "source_links": [
-        {
-          "text": "The Verge",
-          "url": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42876",
-      "scraped_at": "2026-07-31T09:18:07.812429",
-      "title": "谷歌研发 Chrome 免重启更新，应…",
-      "title_options": {
-        "conclusion": "谷歌研发 Chrome 免重启更新，应…",
-        "attractive": "谷歌研发 Chrome 免重启更新，应…",
-        "minimal": "谷歌研发 Chrome 免重启更新，应…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1337,6 +1391,6 @@
       }
     }
   ],
-  "count": 53,
-  "updated_at": "2026-08-01T12:56:16.370871"
+  "count": 55,
+  "updated_at": "2026-08-01T13:01:20.315736"
 }
