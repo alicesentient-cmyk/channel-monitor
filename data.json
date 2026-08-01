@@ -1112,47 +1112,6 @@
       }
     },
     {
-      "id": "zaihuapd_42889",
-      "channel": "zaihuapd",
-      "text": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数的 openPangu-2.0-Flash 模型，首批开放模型权重、基础推理代码和训推算子。  华为称，openPangu 是其开源 AI 模型品牌，面向昇腾原生训练与推理提供最佳实践参考。openPangu-2.0-Pro 的模型权重和基础推理代码将于 7 月上线，更多组件将在下半年陆续开源。  华为 · 茶馆水群 ·",
-      "clean_text": "📱华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数的 openPangu-2.0-Flash 模型，首批开放模型权重、基础推理代码和训推算子。  华为称，openPangu 是其开源 AI 模型品牌，面向昇腾原生训练与推理提供最佳实践参考。openPangu-2.0-Pro 的模型权重和基础推理代码将于 7 月上线，更多组件将在下半年陆续开源。  华为 · 茶馆水群 · 投稿通道",
-      "datetime": "2026-07-31T06:50:05+00:00",
-      "views": "2.24K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42889",
-      "scraped_at": "2026-07-31T15:02:02.828746",
-      "title": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
-      "title_options": {
-        "conclusion": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
-        "attractive": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
-        "minimal": "华为开源 920 亿参数 openPangu-2.0-Flash 模型  华为 6 月 30 日开源上线 920 亿参数",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_31167",
-      "channel": "xhqcankao",
-      "text": "DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将“尽快”发布7 月 31 日，DeepSeek 通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。据悉，正式版 V4-Flash 原生支持 Responses API 格式并针对性适配 Codex。官方还表示，本次仅升级了 DeepSeek-V4-Flash 的 API 接口，DeepSeek-V4-Pro API 及 APP / WEB 端模型未做更改，DeepSeek-V4-Pro 正式版将会尽快发布。",
-      "clean_text": "DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将“尽快”发布7 月 31 日，DeepSeek 通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。据悉，正式版 V4-Flash 原生支持 Responses API 格式并针对性适配 Codex。官方还表示，本次仅升级了 DeepSeek-V4-Flash 的 API 接口，DeepSeek-V4-Pro API 及 APP / WEB 端模型未做更改，DeepSeek-V4-Pro 正式版将会尽快发布。——IT之家",
-      "datetime": "2026-07-31T06:46:53+00:00",
-      "views": "1.1K",
-      "source_links": [
-        {
-          "text": "IT之家",
-          "url": "https://www.ithome.com/0/984/116.htm"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31167",
-      "scraped_at": "2026-07-31T15:02:06.503210",
-      "title": "DeepSeek-V4-Flash 正…",
-      "title_options": {
-        "conclusion": "DeepSeek-V4-Flash 正…",
-        "attractive": "DeepSeek-V4-Flash 正…",
-        "minimal": "DeepSeek-V4-Flash 正…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1171,6 +1130,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-08-01T18:46:09.094648"
+  "count": 44,
+  "updated_at": "2026-08-01T18:51:13.243093"
 }
