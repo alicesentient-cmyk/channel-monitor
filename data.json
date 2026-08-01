@@ -1122,24 +1122,6 @@
       }
     },
     {
-      "id": "zaihuapd_42888",
-      "channel": "zaihuapd",
-      "text": "DeepSeek V4 正式版计划 7 月中旬上线，引入峰谷定价机制  DeepSeek V4 正式版计划 7 月中旬上线，并将在发布后同步调整 API 定价，引入峰谷定价机制。高峰时段为北京时间每日 9:00 至 12:00、14:00 至 18:00，调价前 24 小时会通过邮件告知用户。  deepseek-v4-pro 每百万 tokens 输入缓存命中为平时 0.025 元、高峰 0.05 元，缓存未命中为 3 元和 6 元，输出为 6 元和 12 元；deepseek-v4-flash 对应为…",
-      "clean_text": "🤖DeepSeek V4 正式版计划 7 月中旬上线，引入峰谷定价机制  DeepSeek V4 正式版计划 7 月中旬上线，并将在发布后同步调整 API 定价，引入峰谷定价机制。高峰时段为北京时间每日 9:00 至 12:00、14:00 至 18:00，调价前 24 小时会通过邮件告知用户。  deepseek-v4-pro 每百万 tokens 输入缓存命中为平时 0.025 元、高峰 0.05 元，缓存未命中为 3 元和 6 元，输出为 6 元和 12 元；deepseek-v4-flash 对应为…",
-      "datetime": "2026-07-31T05:50:45+00:00",
-      "views": "2.19K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42888",
-      "scraped_at": "2026-07-31T14:02:03.996989",
-      "title": "DeepSeek V4 正式版计划 7…",
-      "title_options": {
-        "conclusion": "DeepSeek V4 正式版计划 7…",
-        "attractive": "DeepSeek V4 正式版计划 7…",
-        "minimal": "DeepSeek V4 正式版计划 7…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1158,6 +1140,6 @@
       }
     }
   ],
-  "count": 46,
-  "updated_at": "2026-08-01T17:50:27.401410"
+  "count": 45,
+  "updated_at": "2026-08-01T17:55:32.020558"
 }
