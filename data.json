@@ -1342,33 +1342,6 @@
       }
     },
     {
-      "id": "xhqcankao_31157",
-      "channel": "xhqcankao",
-      "text": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题谷歌 DeepMind 发布了一款全新的、面向机器人的人工智能模型，声称可使人形机器人能够协调全身动作。这是谷歌将Gemini人工智能技术进一步拓展至机器人领域的最新举措，旨在让机器人具备推理能力、规划多步骤任务，并适应人类生活环境。新系统名为 Gemini Robotics 2，能够让机器人在执行任务时完成行走、下蹲、操控物体等动作并结合推理能力自主完成任务。谷歌表示，与此前主要控制机器人上半身动作的模型不同，Gemini Robotics 2 可以实现对整个人形机器人的全身控制。",
-      "clean_text": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题谷歌 DeepMind 发布了一款全新的、面向机器人的人工智能模型，声称可使人形机器人能够协调全身动作。这是谷歌将Gemini人工智能技术进一步拓展至机器人领域的最新举措，旨在让机器人具备推理能力、规划多步骤任务，并适应人类生活环境。新系统名为 Gemini Robotics 2，能够让机器人在执行任务时完成行走、下蹲、操控物体等动作并结合推理能力自主完成任务。谷歌表示，与此前主要控制机器人上半身动作的模型不同，Gemini Robotics 2 可以实现对整个人形机器人的全身控制。——财联社、谷歌",
-      "datetime": "2026-07-30T23:32:45+00:00",
-      "views": "751",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2441953?sv=8.8.0&amp;"
-        },
-        {
-          "text": "谷歌",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31157",
-      "scraped_at": "2026-07-31T08:03:14.661414",
-      "title": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题谷歌 DeepMind 发布了一款全新",
-      "title_options": {
-        "conclusion": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题谷歌 DeepMind 发布了一款全新",
-        "attractive": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题谷歌 DeepMind 发布了一款全新",
-        "minimal": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题谷歌 DeepMind 发布了一款全新",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1387,6 +1360,6 @@
       }
     }
   ],
-  "count": 55,
-  "updated_at": "2026-08-01T11:30:20.506276"
+  "count": 54,
+  "updated_at": "2026-08-01T11:35:23.355294"
 }
