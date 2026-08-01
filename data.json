@@ -1130,24 +1130,6 @@
       }
     },
     {
-      "id": "zaihuapd_42891",
-      "channel": "zaihuapd",
-      "text": "Anthropic 将就美国战争部供应链风险认定提起法律挑战  Anthropic 首席执行官 Dario Amodei 3 月 5 日发表声明称，公司于前一日收到美国战争部信函，被认定为美国国家安全供应链风险。Anthropic 表示不相信该行动具备法律依据，将在法庭上提出挑战。  声明指出认定适用范围狭窄，仅适用于客户将 Claude 直接用于与战争部合同相关的用途。Anthropic 将在过渡期内以名义成本继续向战争部和国家安全社区提供模型及工程师支持。  Anthropic…",
-      "clean_text": "🤖Anthropic 将就美国战争部供应链风险认定提起法律挑战  Anthropic 首席执行官 Dario Amodei 3 月 5 日发表声明称，公司于前一日收到美国战争部信函，被认定为美国国家安全供应链风险。Anthropic 表示不相信该行动具备法律依据，将在法庭上提出挑战。  声明指出认定适用范围狭窄，仅适用于客户将 Claude 直接用于与战争部合同相关的用途。Anthropic 将在过渡期内以名义成本继续向战争部和国家安全社区提供模型及工程师支持。  Anthropic🍀在花频道🍵茶馆聊天…",
-      "datetime": "2026-07-31T08:00:01+00:00",
-      "views": "426",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42891",
-      "scraped_at": "2026-07-31T16:01:42.025311",
-      "title": "Anthropic 将就美国战争部供应…",
-      "title_options": {
-        "conclusion": "Anthropic 将就美国战争部供应…",
-        "attractive": "Anthropic 将就美国战争部供应…",
-        "minimal": "Anthropic 将就美国战争部供应…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1166,6 +1148,6 @@
       }
     }
   ],
-  "count": 45,
-  "updated_at": "2026-08-01T19:57:08.397201"
+  "count": 44,
+  "updated_at": "2026-08-01T20:02:12.573271"
 }
