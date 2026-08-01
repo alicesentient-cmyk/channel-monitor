@@ -23924,5 +23924,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-08-01T11:05:03.467086"
+  },
+  "zaihuapd_42913": {
+    "ai_title": "Codex 已重置·茶馆水群·",
+    "title_options": {
+      "conclusion": "Codex 已重置·茶馆水群·",
+      "attractive": "Codex 已重置·茶馆水群·",
+      "minimal": "Codex 已重置·茶馆水群·",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-01T12:05:42.342670"
+  },
+  "zaihuapd_42912": {
+    "ai_title": "Qwen 发布 Audio-3.0-A…",
+    "title_options": {
+      "conclusion": "Qwen 发布 Audio-3.0-A…",
+      "attractive": "Qwen 发布 Audio-3.0-A…",
+      "minimal": "Qwen 发布 Audio-3.0-A…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-01T12:05:42.350660"
+  },
+  "zaihuapd_42911": {
+    "ai_title": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+    "title_options": {
+      "conclusion": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+      "attractive": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+      "minimal": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-01T12:05:42.356094"
   }
 }

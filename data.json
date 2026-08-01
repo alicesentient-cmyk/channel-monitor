@@ -1,6 +1,82 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42913",
+      "channel": "zaihuapd",
+      "text": "Codex 已重置·茶馆水群·",
+      "clean_text": "Codex 已重置·茶馆水群",
+      "datetime": "2026-08-01T03:42:46+00:00",
+      "views": "2.42K",
+      "source_links": [
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42913",
+      "scraped_at": "2026-08-01T12:01:34.979099",
+      "title": "Codex 已重置·茶馆水群·",
+      "title_options": {
+        "conclusion": "Codex 已重置·茶馆水群·",
+        "attractive": "Codex 已重置·茶馆水群·",
+        "minimal": "Codex 已重置·茶馆水群·",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42912",
+      "channel": "zaihuapd",
+      "text": "Qwen 发布 Audio-3.0-ASR-Flash，医学术语识别率超 95%Qwen 于 7 月 31 日发布新一代语音识别模型 Qwen-Audio-3.0-ASR-Flash，主打上下文一致性、领域术语识别、自定义热词，以及将语音润色输出为结构化文本等能力。内部测试显示，该模型医学术语召回率达 95.36%，工业术语召回率达 93.24%。模型提供三种部署形态：实时流式识别（Streaming）、录制文件转录（Filetrans）和非实时识别，均已通过阿里云模型服务上线。Qwen(@Alibaba_Qwen)·茶馆水群·",
+      "clean_text": "🤖Qwen 发布 Audio-3.0-ASR-Flash，医学术语识别率超 95%Qwen 于 7 月 31 日发布新一代语音识别模型 Qwen-Audio-3.0-ASR-Flash，主打上下文一致性、领域术语识别、自定义热词，以及将语音润色输出为结构化文本等能力。内部测试显示，该模型医学术语召回率达 95.36%，工业术语召回率达 93.24%。模型提供三种部署形态：实时流式识别（Streaming）、录制文件转录（Filetrans）和非实时识别，均已通过阿里云模型服务上线。Qwen(@Alibaba_Qwen)·茶馆水群",
+      "datetime": "2026-08-01T03:29:20+00:00",
+      "views": "3.23K",
+      "source_links": [
+        {
+          "text": "Qwen(@Alibaba_Qwen)",
+          "url": "https://x.com/Alibaba_Qwen/status/2083111834123407825"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42912",
+      "scraped_at": "2026-08-01T12:01:34.978621",
+      "title": "Qwen 发布 Audio-3.0-A…",
+      "title_options": {
+        "conclusion": "Qwen 发布 Audio-3.0-A…",
+        "attractive": "Qwen 发布 Audio-3.0-A…",
+        "minimal": "Qwen 发布 Audio-3.0-A…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42911",
+      "channel": "zaihuapd",
+      "text": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新的开发者验证系统，要求所有侧载应用的开发者都需要向 Google 注册包名和签名密钥。付费验证需要支付 25 美元费用，与 Google Play 注册费相同；免费验证仅需邮箱注册，但安装次数有限制。  该系统将通过云端验证应用，可能需要网络连接，并可能影响 F-Droid 等开源应用商店的运行。Google 表示不会公开侧载开发者名单，但会收集开发者个人信息，引发了隐私和审查担忧。批评者认为这是…",
+      "clean_text": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新的开发者验证系统，要求所有侧载应用的开发者都需要向 Google 注册包名和签名密钥。付费验证需要支付 25 美元费用，与 Google Play 注册费相同；免费验证仅需邮箱注册，但安装次数有限制。  该系统将通过云端验证应用，可能需要网络连接，并可能影响 F-Droid 等开源应用商店的运行。Google 表示不会公开侧载开发者名单，但会收集开发者个人信息，引发了隐私和审查担忧。批评者认为这是…",
+      "datetime": "2026-08-01T03:08:00+00:00",
+      "views": "4.48K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42911",
+      "scraped_at": "2026-08-01T12:01:34.978060",
+      "title": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+      "title_options": {
+        "conclusion": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+        "attractive": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+        "minimal": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42910",
       "channel": "zaihuapd",
       "text": "三大唱片公司提议将 AI 歌曲挡在榜单之外环球音乐、索尼音乐、华纳音乐等多家唱片公司联合提议，为 AI 生成歌曲设置榜单准入规则：歌曲必须「实质由人创作」，否则不得进入全球各大官方榜单。该提案比此前 RIAA、IFPI 等机构提出的 AI 音乐标注方案更进一步——不仅要求明确标注，还要求所用 AI 服务合法授权、模型训练数据拥有版权、不涉及刷量或操纵榜单，且符合相关版权与人格权法律。IFPI 已表态支持该提案，但目前尚无榜单机构表示会立即采纳。「实质由人创作」等关键标准目前定义模糊，索尼音乐、环球音乐等公司未回应置评请求。The Verge·茶馆水群·",
@@ -1319,29 +1395,6 @@
       }
     },
     {
-      "id": "xhqcankao_31158",
-      "channel": "xhqcankao",
-      "text": "美国批准亚马逊自动驾驶出租车收费运营亚马逊旗下自动驾驶公司Zoox周三获得美国监管机构批准，可有限规模商业部署其自动驾驶出租车（Robotaxi），成为美国自动驾驶出行行业首家获得此类许可的企业。美国国家公路交通安全管理局(NHTSA)负责人莫里森透露，Zoox已获准在未来两年内，每年最多商业部署2500辆自动驾驶出租车。作为豁免条件之一，NHTSA 要求Zoox公司履行额外的信息报告义务，包括发生事故或车辆在道路上不当停车等情况。监管机构还将根据车辆实际运行表现，对豁免条件进行调整。莫里森强调：“如果发现重大安全问题，我们有权撤销这一豁免。”",
-      "clean_text": "美国批准亚马逊自动驾驶出租车收费运营亚马逊旗下自动驾驶公司Zoox周三获得美国监管机构批准，可有限规模商业部署其自动驾驶出租车（Robotaxi），成为美国自动驾驶出行行业首家获得此类许可的企业。美国国家公路交通安全管理局(NHTSA)负责人莫里森透露，Zoox已获准在未来两年内，每年最多商业部署2500辆自动驾驶出租车。作为豁免条件之一，NHTSA 要求Zoox公司履行额外的信息报告义务，包括发生事故或车辆在道路上不当停车等情况。监管机构还将根据车辆实际运行表现，对豁免条件进行调整。莫里森强调：“如果发现重大安全问题，我们有权撤销这一豁免。”——财联社",
-      "datetime": "2026-07-31T00:03:11+00:00",
-      "views": "1",
-      "source_links": [
-        {
-          "text": "财联社",
-          "url": "https://api3.cls.cn/share/article/2441869?sv=8.5.9"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31158",
-      "scraped_at": "2026-07-31T08:03:14.661748",
-      "title": "美国批准亚马逊自动驾驶出租车收费运营亚马逊旗下自动驾驶公司Zoox周三获得美国监管机构批准，可有限规模商业部署其自动驾驶出租车（Robotaxi），成为美国自动驾驶出行行业首家获得此类许可",
-      "title_options": {
-        "conclusion": "美国批准亚马逊自动驾驶出租车收费运营亚马逊旗下自动驾驶公司Zoox周三获得美国监管机构批准，可有限规模商业部署其自动驾驶出租车（Robotaxi），成为美国自动驾驶出行行业首家获得此类许可",
-        "attractive": "美国批准亚马逊自动驾驶出租车收费运营亚马逊旗下自动驾驶公司Zoox周三获得美国监管机构批准，可有限规模商业部署其自动驾驶出租车（Robotaxi），成为美国自动驾驶出行行业首家获得此类许可",
-        "minimal": "美国批准亚马逊自动驾驶出租车收费运营亚马逊旗下自动驾驶公司Zoox周三获得美国监管机构批准，可有限规模商业部署其自动驾驶出租车（Robotaxi），成为美国自动驾驶出行行业首家获得此类许可",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1360,6 +1413,6 @@
       }
     }
   ],
-  "count": 54,
-  "updated_at": "2026-08-01T12:00:38.815848"
+  "count": 56,
+  "updated_at": "2026-08-01T12:05:42.403390"
 }
