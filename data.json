@@ -1270,24 +1270,6 @@
       }
     },
     {
-      "id": "zaihuapd_42880",
-      "channel": "zaihuapd",
-      "text": "MiniMax 发布 M3 模型：1M 上下文、原生多模态，编程能力领先  MiniMax 正式发布 M3 模型，采用全新 MSA 稀疏注意力架构，支持最高 100 万 token 上下文窗口，可原生处理图片、视频和桌面操作。在编程评测 SWE-Bench Pro 上，M3 得分 59%，超过 GPT-5.5 和 Gemini 3.1 Pro；在多模态 OmniDocBench 和 Agent 评测 Claw-Eval 中也达到领先水平。M3 是国内首个同时具备超长上下文、前沿编程与原生多模态能力且开源的模型。…",
-      "clean_text": "MiniMax 发布 M3 模型：1M 上下文、原生多模态，编程能力领先  MiniMax 正式发布 M3 模型，采用全新 MSA 稀疏注意力架构，支持最高 100 万 token 上下文窗口，可原生处理图片、视频和桌面操作。在编程评测 SWE-Bench Pro 上，M3 得分 59%，超过 GPT-5.5 和 Gemini 3.1 Pro；在多模态 OmniDocBench 和 Agent 评测 Claw-Eval 中也达到领先水平。M3 是国内首个同时具备超长上下文、前沿编程与原生多模态能力且开源的模型。…",
-      "datetime": "2026-07-31T02:40:01+00:00",
-      "views": "2.79K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42880",
-      "scraped_at": "2026-07-31T11:00:45.985398",
-      "title": "MiniMax 发布 M3 模型：1M…",
-      "title_options": {
-        "conclusion": "MiniMax 发布 M3 模型：1M…",
-        "attractive": "MiniMax 发布 M3 模型：1M…",
-        "minimal": "MiniMax 发布 M3 模型：1M…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -1306,6 +1288,6 @@
       }
     }
   ],
-  "count": 52,
-  "updated_at": "2026-08-01T14:37:35.839694"
+  "count": 51,
+  "updated_at": "2026-08-01T14:42:39.738411"
 }
