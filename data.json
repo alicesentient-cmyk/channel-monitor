@@ -793,24 +793,6 @@
       }
     },
     {
-      "id": "zaihuapd_42911",
-      "channel": "zaihuapd",
-      "text": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新的开发者验证系统，要求所有侧载应用的开发者都需要向 Google 注册包名和签名密钥。付费验证需要支付 25 美元费用，与 Google Play 注册费相同；免费验证仅需邮箱注册，但安装次数有限制。  该系统将通过云端验证应用，可能需要网络连接，并可能影响 F-Droid 等开源应用商店的运行。Google 表示不会公开侧载开发者名单，但会收集开发者个人信息，引发了隐私和审查担忧。批评者认为这是…",
-      "clean_text": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新的开发者验证系统，要求所有侧载应用的开发者都需要向 Google 注册包名和签名密钥。付费验证需要支付 25 美元费用，与 Google Play 注册费相同；免费验证仅需邮箱注册，但安装次数有限制。  该系统将通过云端验证应用，可能需要网络连接，并可能影响 F-Droid 等开源应用商店的运行。Google 表示不会公开侧载开发者名单，但会收集开发者个人信息，引发了隐私和审查担忧。批评者认为这是…",
-      "datetime": "2026-08-01T03:08:00+00:00",
-      "views": "4.48K",
-      "source_links": [],
-      "url": "https://t.me/zaihuapd/42911",
-      "scraped_at": "2026-08-01T12:01:34.978060",
-      "title": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
-      "title_options": {
-        "conclusion": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
-        "attractive": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
-        "minimal": "Google 确认 Android 开发者验证将分免费和付费两档，不公开开发者名单  Google 确认将在 Android 16 中推出新",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -829,6 +811,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-08-02T15:05:44.127347"
+  "count": 30,
+  "updated_at": "2026-08-02T15:10:48.059985"
 }
