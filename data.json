@@ -898,29 +898,6 @@
       }
     },
     {
-      "id": "xhqcankao_31172",
-      "channel": "xhqcankao",
-      "text": "Reddit测试观看和收听热门帖子的新方式社交论坛Reddit正在借鉴TikTok的做法，通过视频将热门故事生动呈现。在周四的今年第二季度财报电话会议上，该公司表示一直在开发一种新的“视频版Reddit”体验，该体验不仅允许用户观看平台上的视频，还可以让用户在后台收听帖子内容。公司 CEO Steve Huffman 在电话会议上解释道：“互联网上其他地方正在出现一种新兴的内容类型，基本就上是人们朗读Reddit内容的播客。我认为这种被收听或口头讲述的Reddit版本也会非常有吸引力。所以这几乎是一种完全不同的形式。”",
-      "clean_text": "Reddit测试观看和收听热门帖子的新方式社交论坛Reddit正在借鉴TikTok的做法，通过视频将热门故事生动呈现。在周四的今年第二季度财报电话会议上，该公司表示一直在开发一种新的“视频版Reddit”体验，该体验不仅允许用户观看平台上的视频，还可以让用户在后台收听帖子内容。公司 CEO Steve Huffman 在电话会议上解释道：“互联网上其他地方正在出现一种新兴的内容类型，基本就上是人们朗读Reddit内容的播客。我认为这种被收听或口头讲述的Reddit版本也会非常有吸引力。所以这几乎是一种完全不同的形式。”——Techcrunch",
-      "datetime": "2026-08-01T00:34:14+00:00",
-      "views": "767",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31172",
-      "scraped_at": "2026-08-01T09:02:26.174204",
-      "title": "Reddit测试观看和收听热门帖子",
-      "title_options": {
-        "conclusion": "Reddit测试观看和收听热门帖子",
-        "attractive": "Reddit测试观看和收听热门帖子",
-        "minimal": "Reddit测试观看和收听热门帖子",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -939,6 +916,6 @@
       }
     }
   ],
-  "count": 36,
-  "updated_at": "2026-08-02T12:33:48.656674"
+  "count": 35,
+  "updated_at": "2026-08-02T12:38:52.308750"
 }
