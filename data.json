@@ -762,37 +762,6 @@
       }
     },
     {
-      "id": "zaihuapd_42912",
-      "channel": "zaihuapd",
-      "text": "Qwen 发布 Audio-3.0-ASR-Flash，医学术语识别率超 95%Qwen 于 7 月 31 日发布新一代语音识别模型 Qwen-Audio-3.0-ASR-Flash，主打上下文一致性、领域术语识别、自定义热词，以及将语音润色输出为结构化文本等能力。内部测试显示，该模型医学术语召回率达 95.36%，工业术语召回率达 93.24%。模型提供三种部署形态：实时流式识别（Streaming）、录制文件转录（Filetrans）和非实时识别，均已通过阿里云模型服务上线。Qwen(@Alibaba_Qwen)·茶馆水群·",
-      "clean_text": "🤖Qwen 发布 Audio-3.0-ASR-Flash，医学术语识别率超 95%Qwen 于 7 月 31 日发布新一代语音识别模型 Qwen-Audio-3.0-ASR-Flash，主打上下文一致性、领域术语识别、自定义热词，以及将语音润色输出为结构化文本等能力。内部测试显示，该模型医学术语召回率达 95.36%，工业术语召回率达 93.24%。模型提供三种部署形态：实时流式识别（Streaming）、录制文件转录（Filetrans）和非实时识别，均已通过阿里云模型服务上线。Qwen(@Alibaba_Qwen)·茶馆水群",
-      "datetime": "2026-08-01T03:29:20+00:00",
-      "views": "3.23K",
-      "source_links": [
-        {
-          "text": "Qwen(@Alibaba_Qwen)",
-          "url": "https://x.com/Alibaba_Qwen/status/2083111834123407825"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42912",
-      "scraped_at": "2026-08-01T12:01:34.978621",
-      "title": "Qwen 发布 Audio-3.0-A…",
-      "title_options": {
-        "conclusion": "Qwen 发布 Audio-3.0-A…",
-        "attractive": "Qwen 发布 Audio-3.0-A…",
-        "minimal": "Qwen 发布 Audio-3.0-A…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -811,6 +780,6 @@
       }
     }
   ],
-  "count": 30,
-  "updated_at": "2026-08-02T15:26:02.795997"
+  "count": 29,
+  "updated_at": "2026-08-02T15:31:07.234421"
 }
