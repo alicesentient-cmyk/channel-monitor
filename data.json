@@ -593,62 +593,8 @@
         "minimal": "EA 550 亿美元卖身沙特财团，下周正式完成EA 正式宣布，出售给沙特公共投资基金等财团",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42921",
-      "channel": "zaihuapd",
-      "text": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra 的内部版本在十个长期未解决的数学与理论计算机科学问题上取得新成果，涵盖高维球体堆积、非索菲克群存在性、Connes 刚性猜想反证、算术电路下界、量子并行重复、最近向量问题硬度及多色 Ramsey 数等。这些问题至少十年未见主要进展，多数更久。模型生成论证的 token 成本约为 2000 美元。论证由人类与模型协作整理成论文，并在 Lean 中形式化验证。OpenAI 坦承数学论证本身由 AI 生成，人类负责整理与形式化，主张归属应如实反映结果来源。公司希望数学界深入审视这些成果，同时强调在 AI 成为研究协作者的转型期，广泛获取至关重要。OpenAI·茶馆水群·",
-      "clean_text": "🤖OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra 的内部版本在十个长期未解决的数学与理论计算机科学问题上取得新成果，涵盖高维球体堆积、非索菲克群存在性、Connes 刚性猜想反证、算术电路下界、量子并行重复、最近向量问题硬度及多色 Ramsey 数等。这些问题至少十年未见主要进展，多数更久。模型生成论证的 token 成本约为 2000 美元。论证由人类与模型协作整理成论文，并在 Lean 中形式化验证。OpenAI 坦承数学论证本身由 AI 生成，人类负责整理与形式化，主张归属应如实反映结果来源。公司希望数学界深入审视这些成果，同时强调在 AI 成为研究协作者的转型期，广泛获取至关重要。OpenAI·茶馆水群",
-      "datetime": "2026-08-01T07:59:18+00:00",
-      "views": "269",
-      "source_links": [
-        {
-          "text": "OpenAI",
-          "url": "https://openai.com/index/ten-advances-in-mathematics/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42921",
-      "scraped_at": "2026-08-01T16:00:59.279315",
-      "title": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
-      "title_options": {
-        "conclusion": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
-        "attractive": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
-        "minimal": "OpenAI Astra 在十项长期数学难题上取得突破OpenAI 宣布其下一代模型 Astra ",
-        "best": "conclusion"
-      }
-    },
-    {
-      "id": "xhqcankao_31178",
-      "channel": "xhqcankao",
-      "text": "谷歌地球推出AI生图仅一天就因批评而撤回谷歌周四推出了一项新功能，允许用户在其卫星图像地图应用 Google Earth 中使用其人工智能图像生成器 Nano Banana 2，以创建虚假图像。谷歌表示，这项功能的全部意义在于发挥地理的创意。但批评者很快指出，该工具可能被用于制造和传播虚假信息。该工具基于提示词，几乎允许任何图像叠加在真实地图上，这似乎注定会造成大量的地理空间内容垃圾。现在，距离该功能发布仅一天，谷歌已将其废止。“我们看到地理空间专业人士将这项功能用于一系列有用目的，但我们也看到人们分享生成图像的截图，这些截图似乎违反我们的政策，”该公司在一份声明中表示。",
-      "clean_text": "谷歌地球推出AI生图仅一天就因批评而撤回谷歌周四推出了一项新功能，允许用户在其卫星图像地图应用 Google Earth 中使用其人工智能图像生成器 Nano Banana 2，以创建虚假图像。谷歌表示，这项功能的全部意义在于发挥地理的创意。但批评者很快指出，该工具可能被用于制造和传播虚假信息。该工具基于提示词，几乎允许任何图像叠加在真实地图上，这似乎注定会造成大量的地理空间内容垃圾。现在，距离该功能发布仅一天，谷歌已将其废止。“我们看到地理空间专业人士将这项功能用于一系列有用目的，但我们也看到人们分享生成图像的截图，这些截图似乎违反我们的政策，”该公司在一份声明中表示。——Techcrunch",
-      "datetime": "2026-08-01T07:54:50+00:00",
-      "views": "436",
-      "source_links": [
-        {
-          "text": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31178",
-      "scraped_at": "2026-08-01T16:01:01.129042",
-      "title": "谷歌地球推出AI生图仅一天就因批评而撤…",
-      "title_options": {
-        "conclusion": "谷歌地球推出AI生图仅一天就因批评而撤…",
-        "attractive": "谷歌地球推出AI生图仅一天就因批评而撤…",
-        "minimal": "谷歌地球推出AI生图仅一天就因批评而撤…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-08-02T19:54:40.644686"
+  "count": 22,
+  "updated_at": "2026-08-02T19:59:44.064176"
 }
