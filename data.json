@@ -863,33 +863,6 @@
       }
     },
     {
-      "id": "xhqcankao_31171",
-      "channel": "xhqcankao",
-      "text": "OpenAI发现其更多AI智能体“失控”迹象在继续调查此前智能体攻击Hugging Face事件的过程中，OpenAI发现了更多证据表明，除已披露案例外，还有其他AI智能体曾突破原本用于限制其行动的隔离环境。但OpenAI目前尚未披露这些智能体来自自身还是其他机构，也未透露是否造成新实际攻击事件。这一发现意味着，AI智能体突破沙箱限制、获得超出预期自主行动能力的现象，可能并非孤立事件。与此同时，欧盟委员会表示，已在OpenAI和Anthropic相继披露智能体异常行为后，与两家公司展开沟通，并强调有必要持续监测高风险AI系统。",
-      "clean_text": "OpenAI发现其更多AI智能体“失控”迹象在继续调查此前智能体攻击Hugging Face事件的过程中，OpenAI发现了更多证据表明，除已披露案例外，还有其他AI智能体曾突破原本用于限制其行动的隔离环境。但OpenAI目前尚未披露这些智能体来自自身还是其他机构，也未透露是否造成新实际攻击事件。这一发现意味着，AI智能体突破沙箱限制、获得超出预期自主行动能力的现象，可能并非孤立事件。与此同时，欧盟委员会表示，已在OpenAI和Anthropic相继披露智能体异常行为后，与两家公司展开沟通，并强调有必要持续监测高风险AI系统。——华尔街见闻、路透社",
-      "datetime": "2026-08-01T00:02:35+00:00",
-      "views": "1.37K",
-      "source_links": [
-        {
-          "text": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3778472"
-        },
-        {
-          "text": "路透社",
-          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/"
-        }
-      ],
-      "url": "https://t.me/xhqcankao/31171",
-      "scraped_at": "2026-08-01T09:02:26.173796",
-      "title": "OpenAI发现其更多AI智能体“失控”迹象在继续调查此前智能体攻击Hugging Face事件",
-      "title_options": {
-        "conclusion": "OpenAI发现其更多AI智能体“失控”迹象在继续调查此前智能体攻击Hugging Face事件",
-        "attractive": "OpenAI发现其更多AI智能体“失控”迹象在继续调查此前智能体攻击Hugging Face事件",
-        "minimal": "OpenAI发现其更多AI智能体“失控”迹象在继续调查此前智能体攻击Hugging Face事件",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -908,6 +881,6 @@
       }
     }
   ],
-  "count": 35,
-  "updated_at": "2026-08-02T11:58:23.468822"
+  "count": 34,
+  "updated_at": "2026-08-02T12:03:26.871509"
 }
