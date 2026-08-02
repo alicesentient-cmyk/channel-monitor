@@ -668,37 +668,6 @@
       }
     },
     {
-      "id": "zaihuapd_42915",
-      "channel": "zaihuapd",
-      "text": "中国 AI 研究员在 X 上发出自己的声音过去一年，越来越多中国 AI 研究员涌入 X 平台发声。以月之暗面（Moonshot AI）为例，X 上约有 30 个自称在职员工的活跃账号，包括两位联合创始人；Minimax、Z.ai 乃至 DeepSeek 的员工也常在 X 上讨论技术、发布招聘。他们正填补 OpenAI 和 Anthropic 研究员因公司壮大而日渐沉默留下的空白。选择 X 的原因之一是国内缺少高质量技术讨论平台：知乎转向小说内容后专家流失，小红书受众又不够技术化。2025 年初 DeepSeek R1 走红全球，促使许多中国研究员开始经营国际化个人品牌；X 同时也成为中国 AI 公司营销产品、招募人才的窗口。有分析人士认为，中国研究员亲自讲解工作，有助于美国减少对中国 AI 实验室的盲目猜测。WIRED·茶馆水群·",
-      "clean_text": "中国 AI 研究员在 X 上发出自己的声音过去一年，越来越多中国 AI 研究员涌入 X 平台发声。以月之暗面（Moonshot AI）为例，X 上约有 30 个自称在职员工的活跃账号，包括两位联合创始人；Minimax、Z.ai 乃至 DeepSeek 的员工也常在 X 上讨论技术、发布招聘。他们正填补 OpenAI 和 Anthropic 研究员因公司壮大而日渐沉默留下的空白。选择 X 的原因之一是国内缺少高质量技术讨论平台：知乎转向小说内容后专家流失，小红书受众又不够技术化。2025 年初 DeepSeek R1 走红全球，促使许多中国研究员开始经营国际化个人品牌；X 同时也成为中国 AI 公司营销产品、招募人才的窗口。有分析人士认为，中国研究员亲自讲解工作，有助于美国减少对中国 AI 实验室的盲目猜测。WIRED·茶馆水群",
-      "datetime": "2026-08-01T04:52:51+00:00",
-      "views": "1.26K",
-      "source_links": [
-        {
-          "text": "WIRED",
-          "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42915",
-      "scraped_at": "2026-08-01T13:00:45.535860",
-      "title": "中国 AI 研究员在 X 上发出自己",
-      "title_options": {
-        "conclusion": "中国 AI 研究员在 X 上发出自己",
-        "attractive": "中国 AI 研究员在 X 上发出自己",
-        "minimal": "中国 AI 研究员在 X 上发出自己",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -717,6 +686,6 @@
       }
     }
   ],
-  "count": 27,
-  "updated_at": "2026-08-02T16:52:12.805138"
+  "count": 26,
+  "updated_at": "2026-08-02T16:57:16.546252"
 }
