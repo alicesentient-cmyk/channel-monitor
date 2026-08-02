@@ -647,39 +647,8 @@
         "minimal": "谷歌地球推出AI生图仅一天就因批评而撤…",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42920",
-      "channel": "zaihuapd",
-      "text": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注的是针对 8 GB 及以上内存设备的内存优化。微软确认将降低系统内存占用，确保低内存电脑也能流畅运行，具体做法尚未公布，但可能与将更多界面迁移至更轻量的 WinUI 框架有关。其余三个方向包括：重做开箱设置流程，让新机首次开机更快更顺畅；改进家庭功能，简化家长控制的设置与使用；以及优化语音交互，使其在系统和应用中更自然流畅。Davuluri 表示，微软自 3 月以来持续修复 Windows 11 的主要问题，未来将继续根据用户反馈推进改进。Windows Central·茶馆水群·",
-      "clean_text": "📱微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注的是针对 8 GB 及以上内存设备的内存优化。微软确认将降低系统内存占用，确保低内存电脑也能流畅运行，具体做法尚未公布，但可能与将更多界面迁移至更轻量的 WinUI 框架有关。其余三个方向包括：重做开箱设置流程，让新机首次开机更快更顺畅；改进家庭功能，简化家长控制的设置与使用；以及优化语音交互，使其在系统和应用中更自然流畅。Davuluri 表示，微软自 3 月以来持续修复 Windows 11 的主要问题，未来将继续根据用户反馈推进改进。Windows Central·茶馆水群",
-      "datetime": "2026-08-01T07:17:35+00:00",
-      "views": "3.62K",
-      "source_links": [
-        {
-          "text": "Windows Central",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-it-will-make-windows-11-run-better-on-pcs-with-8gb-ram-promises-continued-focus-on-fixing-windows-biggest-issues"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42920",
-      "scraped_at": "2026-08-01T16:00:59.278790",
-      "title": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
-      "title_options": {
-        "conclusion": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
-        "attractive": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
-        "minimal": "微软承诺优化 Windows 11，改善 8 GB 内存电脑体验Windows 负责人 Pavan Davuluri 近日发文宣布，微软将在今年年底前重点推进四项 Windows 11 改进，其中最受关注",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-08-02T19:14:05.051441"
+  "count": 24,
+  "updated_at": "2026-08-02T19:19:09.041389"
 }
