@@ -772,37 +772,6 @@
       }
     },
     {
-      "id": "zaihuapd_42909",
-      "channel": "zaihuapd",
-      "text": "BMW 被曝在车载屏幕推送全屏广告引众怒BMW 被曝通过车载中控屏向车主推送全屏动画广告，引发强烈批评。该广告是宝马与电影《蜘蛛侠：崭新一天》合作的一部分，覆盖 70 多个国家、搭载 OS 7 及以上系统且生产日期在 2020 年 7 月后的车型。车辆启动时屏幕弹出横幅，车主点击后可播放带背景音乐和氛围灯的全屏动画，活动持续至 8 月 10 日。不少车主和媒体批评此举将付费用户当作广告倾销目标，认为汽车座舱不应成为广告屏幕。BMW 方面则称其为「专属惊喜动画」。此前 Stellantis 等车企也因类似做法招致不满。The Autopian·茶馆水群·",
-      "clean_text": "BMW 被曝在车载屏幕推送全屏广告引众怒BMW 被曝通过车载中控屏向车主推送全屏动画广告，引发强烈批评。该广告是宝马与电影《蜘蛛侠：崭新一天》合作的一部分，覆盖 70 多个国家、搭载 OS 7 及以上系统且生产日期在 2020 年 7 月后的车型。车辆启动时屏幕弹出横幅，车主点击后可播放带背景音乐和氛围灯的全屏动画，活动持续至 8 月 10 日。不少车主和媒体批评此举将付费用户当作广告倾销目标，认为汽车座舱不应成为广告屏幕。BMW 方面则称其为「专属惊喜动画」。此前 Stellantis 等车企也因类似做法招致不满。The Autopian·茶馆水群",
-      "datetime": "2026-08-01T01:59:15+00:00",
-      "views": "404",
-      "source_links": [
-        {
-          "text": "The Autopian",
-          "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42909",
-      "scraped_at": "2026-08-01T10:01:47.232258",
-      "title": "BMW 被曝在车载屏幕推送全屏广告引众…",
-      "title_options": {
-        "conclusion": "BMW 被曝在车载屏幕推送全屏广告引众…",
-        "attractive": "BMW 被曝在车载屏幕推送全屏广告引众…",
-        "minimal": "BMW 被曝在车载屏幕推送全屏广告引众…",
-        "best": "conclusion"
-      }
-    },
-    {
       "id": "zaihuapd_42885",
       "channel": "zaihuapd",
       "text": "火山引擎发布 Seedance 2.0 mini，单秒生成成本约 0.5 元  6 月 15 日，火山引擎旗下火山方舟体验中心上线 Seedance 2.0 mini 视频生成模型，近期将开放 API 服务。该模型按 720P 规格折算，单秒生成成本约 0.5 元，较上一代 Seedance 2.0 降低约 50%，定位为高性价比视频生成方案。  Seedance 2.0 mini 适用于电商内容生产、营销素材批量生成、UGC 创作和特效玩法等高频、大规模视频生成场景，为企业提供新的批量生产选择。  手机新浪网…",
@@ -821,6 +790,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-08-02T13:54:48.505560"
+  "count": 30,
+  "updated_at": "2026-08-02T13:59:52.363115"
 }
