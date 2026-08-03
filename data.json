@@ -590,39 +590,8 @@
         "minimal": "全球内存短缺冲击MacBook Air电脑据彭博社报道，全球内存芯片短缺正在影响苹果公司最受欢迎Mac",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42940",
-      "channel": "zaihuapd",
-      "text": "传 AMD Zen 6 将引入多项逐核优化，改善游戏微卡顿爆料称 AMD 下一代 Zen 6 处理器将通过一系列逐核优化减少游戏微卡顿、提升 1% 低帧表现，核心是更智能地分配功耗与散热预算：改进的 CPPC Performance Priority 让前台任务优先于后台应用；FloorPerf 在触发降频时优先压低后台核心的频率，保住游戏性能；HighestFreq 则让系统把游戏主线程调度到能长时间维持最高频率的核心上。Zen 6 据称还将支持逐核 EPP boost，避免核心因等待 GPU 渲染降频后无法及时恢复；PQOS 与新版 IBS 内存分析器会限制后台任务对内存带宽和 L3 缓存的占用，改善帧时间稳定性。以上信息均未获官方确认，部分功能可能仅面向高端或移动端产品。Tom's Hardware·茶馆水群·",
-      "clean_text": "传 AMD Zen 6 将引入多项逐核优化，改善游戏微卡顿爆料称 AMD 下一代 Zen 6 处理器将通过一系列逐核优化减少游戏微卡顿、提升 1% 低帧表现，核心是更智能地分配功耗与散热预算：改进的 CPPC Performance Priority 让前台任务优先于后台应用；FloorPerf 在触发降频时优先压低后台核心的频率，保住游戏性能；HighestFreq 则让系统把游戏主线程调度到能长时间维持最高频率的核心上。Zen 6 据称还将支持逐核 EPP boost，避免核心因等待 GPU 渲染降频后无法及时恢复；PQOS 与新版 IBS 内存分析器会限制后台任务对内存带宽和 L3 缓存的占用，改善帧时间稳定性。以上信息均未获官方确认，部分功能可能仅面向高端或移动端产品。Tom's Hardware·茶馆水群",
-      "datetime": "2026-08-02T14:05:23+00:00",
-      "views": "4.67K",
-      "source_links": [
-        {
-          "text": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-processors-could-fix-microstutters-and-improve-1-percent-lows-in-games-next-gen-cpus-tipped-to-feature-per-core-optimizations-for-thermal-and-power-budgets"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42940",
-      "scraped_at": "2026-08-02T23:01:15.004902",
-      "title": "传 AMD Zen 6 将引入多项逐核优化，改善游戏微卡顿爆料称 AMD 下一代 Zen 6 处理器将通过一系列逐核优化减少游戏微卡顿、提升 1% 低帧表现，核心是更智能地分配功耗与散热预算：改进",
-      "title_options": {
-        "conclusion": "传 AMD Zen 6 将引入多项逐核优化，改善游戏微卡顿爆料称 AMD 下一代 Zen 6 处理器将通过一系列逐核优化减少游戏微卡顿、提升 1% 低帧表现，核心是更智能地分配功耗与散热预算：改进",
-        "attractive": "传 AMD Zen 6 将引入多项逐核优化，改善游戏微卡顿爆料称 AMD 下一代 Zen 6 处理器将通过一系列逐核优化减少游戏微卡顿、提升 1% 低帧表现，核心是更智能地分配功耗与散热预算：改进",
-        "minimal": "传 AMD Zen 6 将引入多项逐核优化，改善游戏微卡顿爆料称 AMD 下一代 Zen 6 处理器将通过一系列逐核优化减少游戏微卡顿、提升 1% 低帧表现，核心是更智能地分配功耗与散热预算：改进",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-08-04T02:04:25.100933"
+  "count": 24,
+  "updated_at": "2026-08-04T02:09:28.723601"
 }
