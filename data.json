@@ -618,39 +618,8 @@
         "minimal": "Google Wallet 疑似出现中国固件手机 NFC 支付异常，原因尚未确认Google Play 服务 26.28 版本发布后，部分用户反馈搭载中国大陆固件",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42929",
-      "channel": "zaihuapd",
-      "text": "Xbox Series 欧洲售价最高涨约 200 欧元微软因全球存储芯片供应危机，于 8 月 1 日起上调 Xbox Series S/X 欧洲售价，最高涨幅约 200 欧元，英国最高涨 170 英镑。入门级 Series S 价格已逼近传统高端主机，Series X 也超过首发价。索尼同样受成本压力上调了 PS5 系列售价，但 PS5 已售超 9500 万台，而 Xbox Series 系列据估算仅约 3500 万台，双方差距为本世代历史第二大。微软 CEO 纳德拉要求 Xbox 在下一财年恢复增长，Xbox 负责人则提出 2030 年前实现 5 亿日活目标。涨价能否换来增长，仍存变数。游民星空·茶馆水群·",
-      "clean_text": "Xbox Series 欧洲售价最高涨约 200 欧元微软因全球存储芯片供应危机，于 8 月 1 日起上调 Xbox Series S/X 欧洲售价，最高涨幅约 200 欧元，英国最高涨 170 英镑。入门级 Series S 价格已逼近传统高端主机，Series X 也超过首发价。索尼同样受成本压力上调了 PS5 系列售价，但 PS5 已售超 9500 万台，而 Xbox Series 系列据估算仅约 3500 万台，双方差距为本世代历史第二大。微软 CEO 纳德拉要求 Xbox 在下一财年恢复增长，Xbox 负责人则提出 2030 年前实现 5 亿日活目标。涨价能否换来增长，仍存变数。游民星空·茶馆水群",
-      "datetime": "2026-08-02T02:36:41+00:00",
-      "views": "2.06K",
-      "source_links": [
-        {
-          "text": "游民星空",
-          "url": "https://www.gamersky.com/news/202608/2181447.shtml"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42929",
-      "scraped_at": "2026-08-02T11:01:22.016191",
-      "title": "Xbox Series 欧洲售价最高涨…",
-      "title_options": {
-        "conclusion": "Xbox Series 欧洲售价最高涨…",
-        "attractive": "Xbox Series 欧洲售价最高涨…",
-        "minimal": "Xbox Series 欧洲售价最高涨…",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 25,
-  "updated_at": "2026-08-03T14:34:51.772958"
+  "count": 24,
+  "updated_at": "2026-08-03T14:40:00.178445"
 }
