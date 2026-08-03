@@ -1,6 +1,24 @@
 {
   "messages": [
     {
+      "id": "zaihuapd_42943",
+      "channel": "zaihuapd",
+      "text": "Qoder 上线 Qwen3.8-Max-Preview 模型，限时 1 折、夜间 0.2 折起  Qoder 于 2026 年 7 月 19 日上线 Qwen3.8-Max-Preview 模型，这是通义千问系列最新一代基座模型，参数量达 2.4T。相较于上一代旗舰模型 Qwen3.7-Max，新模型在代码工程（Coding）、专业办公（Cowork）等核心能力上实现显著提升，在全栈开发、数据分析、Office 办公工作流等复杂长程任务中展现出全球领先的综合能力，并仍在持续进化中。  此外，Qoder…",
+      "clean_text": "🤖Qoder 上线 Qwen3.8-Max-Preview 模型，限时 1 折、夜间 0.2 折起  Qoder 于 2026 年 7 月 19 日上线 Qwen3.8-Max-Preview 模型，这是通义千问系列最新一代基座模型，参数量达 2.4T。相较于上一代旗舰模型 Qwen3.7-Max，新模型在代码工程（Coding）、专业办公（Cowork）等核心能力上实现显著提升，在全栈开发、数据分析、Office 办公工作流等复杂长程任务中展现出全球领先的综合能力，并仍在持续进化中。  此外，Qoder…",
+      "datetime": "2026-08-03T02:31:16+00:00",
+      "views": "3.65K",
+      "source_links": [],
+      "url": "https://t.me/zaihuapd/42943",
+      "scraped_at": "2026-08-03T11:01:53.857562",
+      "title": "Qoder 上线 Qwen3.8-Ma…",
+      "title_options": {
+        "conclusion": "Qoder 上线 Qwen3.8-Ma…",
+        "attractive": "Qoder 上线 Qwen3.8-Ma…",
+        "minimal": "Qoder 上线 Qwen3.8-Ma…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "xhqcankao_31188",
       "channel": "xhqcankao",
       "text": "欧洲市场Xbox价格最高将上涨200欧元当微软在六月宣布其最新一轮 Xbox 价格上调时，只给出了美国定价。现在欧盟和英国价格涨幅已经公开。根据型号不同， Xbox 的价格将上涨高达200欧元或170英镑。据介绍，带有光驱的1TB Xbox Series X将上涨超过30%，从499.99英镑/599.99欧元涨至669.99英镑/799.99欧元。512GB Xbox Series S将上涨超过43%，从299.99英镑/349.99欧元涨至429.99英镑/499.99欧元。虽然其他游戏主机也因人工智能行业需求激增导致内存和存储价格飙升而涨价，但没有哪一次像微软的这样幅度巨大。",
@@ -633,6 +651,6 @@
       }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-08-03T10:57:06.352300"
+  "count": 25,
+  "updated_at": "2026-08-03T11:02:09.763184"
 }
