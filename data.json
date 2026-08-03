@@ -583,43 +583,8 @@
         "minimal": "中国气象局：150年来最强极端天气正在形成 为超强厄尔尼诺事件中国气象局信息显示，目前，太平洋上持续增强",
         "best": "conclusion"
       }
-    },
-    {
-      "id": "zaihuapd_42930",
-      "channel": "zaihuapd",
-      "text": "Google Wallet 疑似出现中国固件手机 NFC 支付异常，原因尚未确认Google Play 服务 26.28 版本发布后，部分用户反馈搭载中国大陆固件的安卓手机无法使用 Google Wallet 非接触式支付功能。相关讨论显示，部分设备即使支持 NFC 并通过 Play Protect 认证，仍出现支付功能异常，但目前没有证据证明谷歌已针对中国大陆固件设备实施统一限制。Google 官方未发布关于 26.28 版本限制中国固件手机支付的公告。由于 Google Wallet 感应式支付本身受国家地区支持范围、设备认证、HCE、安全状态、系统配置及银行卡等多项因素影响，出现异常的具体原因仍无法确认。部分用户认为问题可能与支付安全策略有关，但谷歌尚未对此作出说明。XDA Forums|Google 更新·茶馆水群·",
-      "clean_text": "Google Wallet 疑似出现中国固件手机 NFC 支付异常，原因尚未确认Google Play 服务 26.28 版本发布后，部分用户反馈搭载中国大陆固件的安卓手机无法使用 Google Wallet 非接触式支付功能。相关讨论显示，部分设备即使支持 NFC 并通过 Play Protect 认证，仍出现支付功能异常，但目前没有证据证明谷歌已针对中国大陆固件设备实施统一限制。Google 官方未发布关于 26.28 版本限制中国固件手机支付的公告。由于 Google Wallet 感应式支付本身受国家地区支持范围、设备认证、HCE、安全状态、系统配置及银行卡等多项因素影响，出现异常的具体原因仍无法确认。部分用户认为问题可能与支付安全策略有关，但谷歌尚未对此作出说明。XDA Forums|Google 更新·茶馆水群",
-      "datetime": "2026-08-02T03:12:34+00:00",
-      "views": "5.01K",
-      "source_links": [
-        {
-          "text": "XDA Forums",
-          "url": "https://xdaforums.com/t/googles-play-services-26-28-xx-silent-banning-chinese-firmware-phones-for-nfc-payments.4796865/"
-        },
-        {
-          "text": "Google 更新",
-          "url": "https://support.google.com/product-documentation/answer/14343500?hl=en"
-        },
-        {
-          "text": "在花频道",
-          "url": "http://t.me/ZaiHuaPd"
-        },
-        {
-          "text": "投稿通道",
-          "url": "http://t.me/ZaiHuabot"
-        }
-      ],
-      "url": "https://t.me/zaihuapd/42930",
-      "scraped_at": "2026-08-02T12:17:37.819386",
-      "title": "Google Wallet 疑似出现中国固件手机 NFC 支付异常，原因尚未确认Google Play 服务 26.28 版本发布后，部分用户反馈搭载中国大陆固件",
-      "title_options": {
-        "conclusion": "Google Wallet 疑似出现中国固件手机 NFC 支付异常，原因尚未确认Google Play 服务 26.28 版本发布后，部分用户反馈搭载中国大陆固件",
-        "attractive": "Google Wallet 疑似出现中国固件手机 NFC 支付异常，原因尚未确认Google Play 服务 26.28 版本发布后，部分用户反馈搭载中国大陆固件",
-        "minimal": "Google Wallet 疑似出现中国固件手机 NFC 支付异常，原因尚未确认Google Play 服务 26.28 版本发布后，部分用户反馈搭载中国大陆固件",
-        "best": "conclusion"
-      }
     }
   ],
-  "count": 24,
-  "updated_at": "2026-08-03T15:11:06.612417"
+  "count": 23,
+  "updated_at": "2026-08-03T15:15:33.964234"
 }
