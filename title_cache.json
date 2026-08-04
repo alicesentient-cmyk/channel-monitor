@@ -24614,5 +24614,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-08-04T09:13:41.039793"
+  },
+  "xhqcankao_31201": {
+    "ai_title": "Telegram 已从苹果 iOS 应…",
+    "title_options": {
+      "conclusion": "Telegram 已从苹果 iOS 应…",
+      "attractive": "Telegram 已从苹果 iOS 应…",
+      "minimal": "Telegram 已从苹果 iOS 应…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-04T10:19:22.776080"
+  },
+  "xhqcankao_31202": {
+    "ai_title": "Hugging Face CEO：中国…",
+    "title_options": {
+      "conclusion": "Hugging Face CEO：中国…",
+      "attractive": "Hugging Face CEO：中国…",
+      "minimal": "Hugging Face CEO：中国…",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-04T10:19:22.791898"
+  },
+  "zaihuapd_42957": {
+    "ai_title": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+    "title_options": {
+      "conclusion": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+      "attractive": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+      "minimal": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-04T10:19:22.805672"
   }
 }

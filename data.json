@@ -1,6 +1,91 @@
 {
   "messages": [
     {
+      "id": "xhqcankao_31202",
+      "channel": "xhqcankao",
+      "text": "Hugging Face CEO：中国正赢得AI竞赛开源AI平台Hugging Face首席执行官克莱芒·德朗格在接受采访时表示，中国正在通过开源模型赢得人工智能竞赛。他指出，鉴于目前的发展速度，中国AI工具预计将在今年底或2027年追上美国前沿实验室的水平。德朗格分析认为，中国AI技术突破的核心动力源于其开放协作与共享的生态系统；相比之下，美国模型开发者大多 “闭门造车”，面临落后风险。除此之外，针对此前OpenAI智能体突破训练环境并入侵 Hugging Face 公司的事件，德朗格表示该事故系工程失误所致，公司随后借助基于中国开源模型打造的英伟达版本成功解决了攻击问题。",
+      "clean_text": "Hugging Face CEO：中国正赢得AI竞赛开源AI平台Hugging Face首席执行官克莱芒·德朗格在接受采访时表示，中国正在通过开源模型赢得人工智能竞赛。他指出，鉴于目前的发展速度，中国AI工具预计将在今年底或2027年追上美国前沿实验室的水平。德朗格分析认为，中国AI技术突破的核心动力源于其开放协作与共享的生态系统；相比之下，美国模型开发者大多 “闭门造车”，面临落后风险。除此之外，针对此前OpenAI智能体突破训练环境并入侵 Hugging Face 公司的事件，德朗格表示该事故系工程失误所致，公司随后借助基于中国开源模型打造的英伟达版本成功解决了攻击问题。——凤凰网科技、CNBC",
+      "datetime": "2026-08-04T02:02:17+00:00",
+      "views": "1.14K",
+      "source_links": [
+        {
+          "text": "凤凰网科技",
+          "url": "https://ishare.ifeng.com/c/s/v006PyqON--Nd2HKLuR7-_oqoiOnrTh--vYXqAOO--ESfBOIPA0RFvb0mVjYdXs7v15IepQN"
+        },
+        {
+          "text": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31202",
+      "scraped_at": "2026-08-04T10:18:06.002405",
+      "title": "Hugging Face CEO：中国…",
+      "title_options": {
+        "conclusion": "Hugging Face CEO：中国…",
+        "attractive": "Hugging Face CEO：中国…",
+        "minimal": "Hugging Face CEO：中国…",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "zaihuapd_42957",
+      "channel": "zaihuapd",
+      "text": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 的特斯拉车主反馈，使用 FSD v14 Lite 后 Autopilot 计算机过热，部分车辆彻底故障。截图显示主板温度触发超 90 摄氏度故障代码，多名车主测得 96 摄氏度；行驶中 FSD 会被强制退出，待降温后恢复。IT之家·茶馆水群·",
+      "clean_text": "🚘特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 的特斯拉车主反馈，使用 FSD v14 Lite 后 Autopilot 计算机过热，部分车辆彻底故障。截图显示主板温度触发超 90 摄氏度故障代码，多名车主测得 96 摄氏度；行驶中 FSD 会被强制退出，待降温后恢复。IT之家·茶馆水群",
+      "datetime": "2026-08-04T01:55:05+00:00",
+      "views": "3.1K",
+      "source_links": [
+        {
+          "text": "IT之家",
+          "url": "https://www.ithome.com/0/985/306.htm"
+        },
+        {
+          "text": "在花频道",
+          "url": "http://t.me/ZaiHuaPd"
+        },
+        {
+          "text": "投稿通道",
+          "url": "http://t.me/ZaiHuabot"
+        }
+      ],
+      "url": "https://t.me/zaihuapd/42957",
+      "scraped_at": "2026-08-04T10:18:04.161000",
+      "title": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+      "title_options": {
+        "conclusion": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+        "attractive": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+        "minimal": "特斯拉 FSD v14 Lite 致 HW3 自动驾驶电脑过热故障越来越多搭载 HW3 ",
+        "best": "conclusion"
+      }
+    },
+    {
+      "id": "xhqcankao_31201",
+      "channel": "xhqcankao",
+      "text": "Telegram 已从苹果 iOS 应用商店中下架即时通讯应用Telegram已从全球苹果 iOS 应用商店中下架，现有已安装仍可正常使用。更新：“Telegram 已在 App Store 上恢复，很快所有用户即可再次使用，”Telegram声明。",
+      "clean_text": "Telegram 已从苹果 iOS 应用商店中下架即时通讯应用Telegram已从全球苹果 iOS 应用商店中下架，现有已安装仍可正常使用。更新：“Telegram 已在 App Store 上恢复，很快所有用户即可再次使用，”Telegram声明。——Telegram",
+      "datetime": "2026-08-04T01:21:27+00:00",
+      "views": "5.02K",
+      "source_links": [
+        {
+          "text": "Telegram声明",
+          "url": "https://www.reuters.com/business/retail-consumer/telegram-says-app-restored-apples-app-store-2026-08-04/"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://telegram.org/dl/ios"
+        }
+      ],
+      "url": "https://t.me/xhqcankao/31201",
+      "scraped_at": "2026-08-04T10:18:06.001713",
+      "title": "Telegram 已从苹果 iOS 应…",
+      "title_options": {
+        "conclusion": "Telegram 已从苹果 iOS 应…",
+        "attractive": "Telegram 已从苹果 iOS 应…",
+        "minimal": "Telegram 已从苹果 iOS 应…",
+        "best": "conclusion"
+      }
+    },
+    {
       "id": "zaihuapd_42955",
       "channel": "zaihuapd",
       "text": "Telegram 目前在美区 App Store 下架App Store Monitor|Apple App Store·茶馆水群·",
@@ -789,6 +874,6 @@
       }
     }
   ],
-  "count": 31,
-  "updated_at": "2026-08-04T10:14:19.408218"
+  "count": 34,
+  "updated_at": "2026-08-04T10:19:22.860526"
 }
