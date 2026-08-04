@@ -24644,5 +24644,35 @@
       "best": "conclusion"
     },
     "generated_at": "2026-08-04T10:19:22.805672"
+  },
+  "xhqcankao_31204": {
+    "ai_title": "Telegram表示其应用程序已在苹果应用商店恢复Telegram周一表示，其消息应用程序已在苹果应用商店恢复，此前路透社",
+    "title_options": {
+      "conclusion": "Telegram表示其应用程序已在苹果应用商店恢复Telegram周一表示，其消息应用程序已在苹果应用商店恢复，此前路透社",
+      "attractive": "Telegram表示其应用程序已在苹果应用商店恢复Telegram周一表示，其消息应用程序已在苹果应用商店恢复，此前路透社",
+      "minimal": "Telegram表示其应用程序已在苹果应用商店恢复Telegram周一表示，其消息应用程序已在苹果应用商店恢复，此前路透社",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-04T11:04:53.339863"
+  },
+  "xhqcankao_31203": {
+    "ai_title": "苹果",
+    "title_options": {
+      "conclusion": "苹果",
+      "attractive": "苹果",
+      "minimal": "苹果",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-04T11:04:53.363667"
+  },
+  "zaihuapd_42958": {
+    "ai_title": "白宫闭门敲定 AI 模型自愿评估框架，细节不公开白宫 8 月 3 日宣布已按期完成对先进 AI 模型",
+    "title_options": {
+      "conclusion": "白宫闭门敲定 AI 模型自愿评估框架，细节不公开白宫 8 月 3 日宣布已按期完成对先进 AI 模型",
+      "attractive": "白宫闭门敲定 AI 模型自愿评估框架，细节不公开白宫 8 月 3 日宣布已按期完成对先进 AI 模型",
+      "minimal": "白宫闭门敲定 AI 模型自愿评估框架，细节不公开白宫 8 月 3 日宣布已按期完成对先进 AI 模型",
+      "best": "conclusion"
+    },
+    "generated_at": "2026-08-04T11:04:53.367555"
   }
 }
